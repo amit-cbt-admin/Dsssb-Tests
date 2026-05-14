@@ -1,0 +1,422 @@
+[
+    {
+        "section": "English Language",
+        "topic": "Conjunctions",
+        "difficulty": "Easy",
+        "q_en": "Fill in the blank with the correct part of speech: I went to the library ______ study for the exam.",
+        "q_hi": "Fill in the blank with the correct part of speech: I went to the library ______ study for the exam.",
+        "op_en": [
+            "because",
+            "in order to",
+            "for",
+            "but"
+        ],
+        "op_hi": [
+            "because",
+            "in order to",
+            "for",
+            "but"
+        ],
+        "ans": 2,
+        "solution": "<b>Solution (EN):</b> The phrase 'in order to' is used to indicate the purpose or intent of an action. In this sentence, the speaker went to the library with the specific purpose of studying.<br><b>Solution (HI):</b> 'In order to' का प्रयोग किसी कार्य के उद्देश्य या इरादे को दर्शाने के लिए किया जाता है। यहाँ पुस्तकालय जाने का उद्देश्य परीक्षा के लिए पढ़ाई करना है।<br><b>Short Trick:</b> Use 'in order to' before a verb (base form) to show purpose. Example: I study hard <b>in order to</b> pass."
+    },
+    {
+        "section": "English Language",
+        "topic": "Synonyms",
+        "difficulty": "Medium",
+        "q_en": "Choose the option which is synonym of the word 'generous' in the sentence given below: The farmer had a generous harvest this year.",
+        "q_hi": "Choose the option which is synonym of the word 'generous' in the sentence given below: The farmer had a generous harvest this year.",
+        "op_en": [
+            "demented",
+            "scarce",
+            "meagre",
+            "bountiful"
+        ],
+        "op_hi": [
+            "demented",
+            "scarce",
+            "meagre",
+            "bountiful"
+        ],
+        "ans": 4,
+        "solution": "<b>Solution (EN):</b> In the context of a harvest, 'generous' means abundant or ample. 'Bountiful' is a direct synonym meaning large in quantity; plentiful.<br><b>Solution (HI):</b> 'Generous' का अर्थ यहाँ 'प्रचुर' या 'उदार' (मात्रा में अधिक) है। 'Bountiful' का अर्थ भी 'भरपूर' या 'प्रचुर' होता है, जो इसका सही पर्यायवाची है।<br><b>Short Trick:</b> Generous/Bountiful = Plenty/Large amount. Antonyms would be Scarce/Meagre."
+    },
+    {
+        "section": "English Language",
+        "topic": "Antonyms",
+        "difficulty": "Medium",
+        "q_en": "Choose the option which is antonym of the word 'benevolent' in the sentence given below: He was a benevolent king who cared for his people and their welfare.",
+        "q_hi": "Choose the option which is antonym of the word 'benevolent' in the sentence given below: He was a benevolent king who cared for his people and their welfare.",
+        "op_en": [
+            "noble",
+            "generous",
+            "kind",
+            "cruel"
+        ],
+        "op_hi": [
+            "noble",
+            "generous",
+            "kind",
+            "cruel"
+        ],
+        "ans": 4,
+        "solution": "<b>Solution (EN):</b> 'Benevolent' means well-meaning, kindly, and caring. The opposite of being kind and caring is being 'cruel' (willfully causing pain or suffering).<br><b>Solution (HI):</b> 'Benevolent' का अर्थ है 'दयालु' या 'परोपकारी'। इसका विलोम 'Cruel' (क्रूर) होगा, जिसका अर्थ है दूसरों को दुख पहुँचाने वाला।<br><b>Short Trick:</b> Bene (Root word for Good) vs. Mal/Cruel (Bad). Benevolent = Kind; Cruel = Unkind."
+    },
+    {
+        "section": "English Language",
+        "topic": "Vocabulary",
+        "difficulty": "Easy",
+        "q_en": "Fill in the blank with correct part of speech: He is a very ______ person, he rarely goes out and doesn't like talking to people.",
+        "q_hi": "Fill in the blank with correct part of speech: He is a very ______ person, he rarely goes out and doesn't like talking to people.",
+        "op_en": [
+            "introverted",
+            "extroverted",
+            "Retarded",
+            "Smart"
+        ],
+        "op_hi": [
+            "introverted",
+            "extroverted",
+            "Retarded",
+            "Smart"
+        ],
+        "ans": 1,
+        "solution": "<b>Solution (EN):</b> An 'introverted' person is someone who is shy, reserved, and prefers their own company rather than socializing. This fits the description of rarely going out or talking to people.<br><b>Solution (HI):</b> 'Introverted' (अंतर्मुखी) उस व्यक्ति को कहते हैं जो शर्मीला हो और जिसे लोगों से मिलना-जुलना कम पसंद हो। वाक्य के अनुसार यही सही विकल्प है।<br><b>Short Trick:</b> Intro (Inside) + Vert (Turn) = Focused inside (Shy). Extro (Outside) = Social."
+    },
+    {
+        "section": "English Language",
+        "topic": "Idioms and Phrases",
+        "difficulty": "Medium",
+        "q_en": "Select the word segment that substitutes (replaces) the bracketed idiom correctly and completes the sentence meaningfully: She (cut corners) to save money on the renovation project.",
+        "q_hi": "Select the word segment that substitutes (replaces) the bracketed idiom correctly and completes the sentence meaningfully: She (cut corners) to save money on the renovation project.",
+        "op_en": [
+            "increased the budget",
+            "used scissors",
+            "reduced quality",
+            "Bargained"
+        ],
+        "op_hi": [
+            "increased the budget",
+            "used scissors",
+            "reduced quality",
+            "Bargained"
+        ],
+        "ans": 3,
+        "solution": "<b>Solution (EN):</b> The idiom 'cut corners' means to do something perfunctorily or cheaply, often by sacrificing quality or ignoring rules to save time or money.<br><b>Solution (HI):</b> 'Cut corners' एक मुहावरा है जिसका अर्थ है पैसे या समय बचाने के लिए काम को घटिया तरीके से करना या गुणवत्ता (Quality) में कमी करना।<br><b>Short Trick:</b> Cut corners = Skip steps = Lower quality."
+    },
+    {
+        "section": "English Language",
+        "topic": "Synonyms",
+        "difficulty": "Easy",
+        "q_en": "Choose the option which is synonym of the word 'genuine' in the sentence given below: He was a genuine friend who always supported me.",
+        "q_hi": "Choose the option which is synonym of the word 'genuine' in the sentence given below: He was a genuine friend who always supported me.",
+        "op_en": [
+            "deceptive",
+            "sincere",
+            "dishonest",
+            "questionable"
+        ],
+        "op_hi": [
+            "deceptive",
+            "sincere",
+            "dishonest",
+            "questionable"
+        ],
+        "ans": 2,
+        "solution": "<b>Solution (EN):</b> 'Genuine' means authentic, real, or sincere. In the context of a friend, it refers to someone who is honest and without deceit. 'Sincere' is the closest synonym.<br><b>Solution (HI):</b> 'Genuine' का अर्थ है 'असली' या 'सच्चा'। एक दोस्त के संदर्भ में, 'Sincere' (ईमानदार/निष्ठावान) इसका सबसे सटीक पर्यायवाची है।<br><b>Short Trick:</b> Genuine = Real/Honest. Sincere = Honest/True."
+    },
+  {
+    "section": "English Language",
+    "topic": "Sentence Rearrangement",
+    "difficulty": "Medium",
+    "q_en": "Rearrange the following sentences to form a coherent paragraph and choose the correct sequence from the options given below:<br>A. He initiated World War II in Europe by invading Poland on 1 September 1939 and was central to the Holocaust, the genocide of about six million Jews and millions of other victims.<br>B. Adolf Hitler was a German politician and leader of the Nazi Party, officially known as the National Socialist German Workers’ Party.<br>C. He rose to power as the chancellor of Germany in 1933 and then as Führer in 1934. During this period, he abolished democracy, espoused a form of fascism, and pursued a foreign policy aimed at creating a “Greater German Reich”.<br>D. He committed suicide in his Berlin bunker on 30 April 1945, after the Red Army captured the city.",
+    "q_hi": "Rearrange the following sentences to form a coherent paragraph and choose the correct sequence from the options given below:<br>A. He initiated World War II in Europe by invading Poland on 1 September 1939 and was central to the Holocaust, the genocide of about six million Jews and millions of other victims.<br>B. Adolf Hitler was a German politician and leader of the Nazi Party, officially known as the National Socialist German Workers’ Party.<br>C. He rose to power as the chancellor of Germany in 1933 and then as Führer in 1934. During this period, he abolished democracy, espoused a form of fascism, and pursued a foreign policy aimed at creating a “Greater German Reich”.<br>D. He committed suicide in his Berlin bunker on 30 April 1945, after the Red Army captured the city.",
+    "op_en": [
+      "DBCA",
+      "ABCD",
+      "BCAD",
+      "CBDA"
+    ],
+    "op_hi": [
+      "DBCA",
+      "ABCD",
+      "BCAD",
+      "CBDA"
+    ],
+    "ans": 3,
+    "solution": "<b>Solution (EN):</b><br>1. Sentence B is the opening sentence as it introduces the subject 'Adolf Hitler'.<br>2. Sentence C follows chronologically, describing his rise to power in 1933 and 1934.<br>3. Sentence A describes the events of 1939 (start of WWII).<br>4. Sentence D is the concluding sentence as it describes his death in 1945.<br>Thus, the correct sequence is BCAD.<br><br><b>Solution (HI):</b><br>1. वाक्य B परिचयात्मक वाक्य है क्योंकि यह विषय 'एडोल्फ हिटलर' का परिचय देता है।<br>2. वाक्य C कालानुक्रमिक रूप से आता है, जो 1933 और 1934 में उनकी सत्ता में वृद्धि का वर्णन करता है।<br>3. वाक्य A 1939 की घटनाओं (द्वितीय विश्व युद्ध की शुरुआत) का वर्णन करता है।<br>4. वाक्य D समापन वाक्य है क्योंकि यह 1945 में उनकी मृत्यु का वर्णन करता है।<br>इस प्रकार, सही क्रम BCAD है।<br><br><b>Short Trick:</b><br>Identify the introduction (Sentence B mentions the full name). Then follow the timeline of dates: 1933/34 (C) → 1939 (A) → 1945 (D). Only option 3 starts with B and follows this logic."
+  },
+    {
+        "section": "English Language",
+        "topic": "One Word Substitution",
+        "difficulty": "Easy",
+        "q_en": "Choose the correct one-word substitution for the sentence/phrase given below: an institution to which young offenders are sent as an alternative to prison",
+        "q_hi": "Choose the correct one-word substitution for the sentence/phrase given below: an institution to which young offenders are sent as an alternative to prison",
+        "op_en": [
+            "convent",
+            "reformatory",
+            "monastery",
+            "jail"
+        ],
+        "op_hi": [
+            "convent",
+            "reformatory",
+            "monastery",
+            "jail"
+        ],
+        "ans": 2,
+        "solution": "<b>Solution (EN):</b> A 'reformatory' is a specialized institution designed to reform or improve the behavior of young offenders (juveniles) instead of sending them to a regular adult prison.<br><b>Solution (HI):</b> 'Reformatory' (सुधार गृह) वह संस्थान है जहाँ युवा अपराधियों को जेल के विकल्प के रूप में उनके व्यवहार में सुधार के लिए भेजा जाता है।<br><b>Short Trick:</b> Reform + atory = A place to reform (improve)."
+    },
+    {
+        "section": "English Language",
+        "topic": "Articles",
+        "difficulty": "Easy",
+        "q_en": "Fill in the blank with the appropriate article: He bought some ______ oranges from the supermarket.",
+        "q_hi": "Fill in the blank with the appropriate article: He bought some ______ oranges from the supermarket.",
+        "op_en": [
+            "a",
+            "the",
+            "an",
+            "no article"
+        ],
+        "op_hi": [
+            "a",
+            "the",
+            "an",
+            "no article"
+        ],
+        "ans": 4,
+        "solution": "<b>Solution (EN):</b> The word 'oranges' is plural. 'A' and 'An' are only used with singular nouns. Since the sentence refers to 'some' unspecified oranges, no definite article ('the') is required. Thus, 'no article' is the correct choice.<br><b>Solution (HI):</b> 'Oranges' बहुवचन (Plural) है, इसलिए 'a' या 'an' का प्रयोग नहीं हो सकता। चूँकि यहाँ 'some' का प्रयोग हुआ है और संतरे विशिष्ट नहीं हैं, इसलिए किसी आर्टिकल की आवश्यकता नहीं है।<br><b>Short Trick:</b> Plural noun + Indefinite sense = Zero Article."
+    },
+    {
+        "section": "English Language",
+        "topic": "Articles",
+        "difficulty": "Easy",
+        "q_en": "Fill in the blank with the appropriate article: She works for ______ United Nations.",
+        "q_hi": "Fill in the blank with the appropriate article: She works for ______ United Nations.",
+        "op_en": [
+            "a",
+            "no article",
+            "the",
+            "an"
+        ],
+        "op_hi": [
+            "a",
+            "no article",
+            "the",
+            "an"
+        ],
+        "ans": 3,
+        "solution": "<b>Solution (EN):</b> The definite article 'the' is used before the names of unique international organizations and institutions, such as 'the United Nations', 'the WHO', etc.<br><b>Solution (HI):</b> 'The' का प्रयोग उन अंतरराष्ट्रीय संगठनों या संस्थानों के नाम से पहले किया जाता है जो अद्वितीय (Unique) हैं, जैसे 'the United Nations'।<br><b>Short Trick:</b> Unique Organizations = Use 'The'."
+    },
+    {
+        "section": "English Language",
+        "topic": "Adverbs",
+        "difficulty": "Easy",
+        "q_en": "Fill in the blank with the correct adverb: ______ he opened the door and peeked inside",
+        "q_hi": "Fill in the blank with the correct adverb: ______ he opened the door and peeked inside",
+        "op_en": [
+            "noiseless",
+            "noiselessness",
+            "unnoisingly",
+            "noiselessly"
+        ],
+        "op_hi": [
+            "noiseless",
+            "noiselessness",
+            "unnoisingly",
+            "noiselessly"
+        ],
+        "ans": 4,
+        "solution": "<b>Solution (EN):</b> The word 'noiselessly' is the correct adverb to describe the action of opening the door in a silent manner. Adverbs typically modify verbs, and 'noiselessly' fits perfectly as it modifies the verb 'opened'.<br><b>Solution (HI):</b> 'Noiselessly' एक क्रिया विशेषण (adverb) है जो चुपचाप या बिना शोर किए दरवाजा खोलने की क्रिया की विशेषता बताता है। क्रिया विशेषण क्रिया (opened) की विशेषता बताते हैं।<br><b>Short Trick:</b> Most adverbs end in '-ly'. Here, we need to describe <i>how</i> he opened the door, so an adverb is required."
+    },
+    {
+        "section": "English Language",
+        "topic": "One Word Substitution",
+        "difficulty": "Medium",
+        "q_en": "Choose the correct one-word substitution for the sentence/phrase given below: An act of renouncing the throne",
+        "q_hi": "Choose the correct one-word substitution for the sentence/phrase given below: An act of renouncing the throne",
+        "op_en": [
+            "Allegory",
+            "Abdication",
+            "Almanac",
+            "Axiom"
+        ],
+        "op_hi": [
+            "Allegory",
+            "Abdication",
+            "Almanac",
+            "Axiom"
+        ],
+        "ans": 2,
+        "solution": "<b>Solution (EN):</b> 'Abdication' means the act of formally renouncing or giving up a high office, especially a throne.<br><b>Solution (HI):</b> 'Abdication' का अर्थ है सिंहासन या किसी उच्च पद का औपचारिक रूप से त्याग करना (सिंहासन त्याग)।<br><b>Short Trick:</b> Ab + Dic (to speak/proclaim away) = Giving up power formally."
+    },
+    {
+        "section": "English Language",
+        "topic": "Sentence Rearrangement",
+        "difficulty": "Medium",
+        "q_en": "Rearrange the following sentences to form a coherent paragraph and choose the correct sequence from the options given below:\nA. Thus, they are essential for maintaining the balance of ecosystems and biodiversity.\nB. Bees are pollinators that transfer pollen from one flower to another, enabling the reproduction of plants.\nC. However, they are facing many threats, such as pesticides, parasites, and habitat loss.\nD. Therefore, they need protection and conservation, as their decline would have serious consequences for agriculture and the environment.",
+        "q_hi": "Rearrange the following sentences to form a coherent paragraph and choose the correct sequence from the options given below:\nA. Thus, they are essential for maintaining the balance of ecosystems and biodiversity.\nB. Bees are pollinators that transfer pollen from one flower to another, enabling the reproduction of plants.\nC. However, they are facing many threats, such as pesticides, parasites, and habitat loss.\nD. Therefore, they need protection and conservation, as their decline would have serious consequences for agriculture and the environment.",
+        "op_en": [
+            "CDBA",
+            "BACD",
+            "DCAB",
+            "ABDC"
+        ],
+        "op_hi": [
+            "CDBA",
+            "BACD",
+            "DCAB",
+            "ABDC"
+        ],
+        "ans": 2,
+        "solution": "<b>Solution (EN):</b> The correct sequence is BACD. Sentence B introduces bees and their role. Sentence A explains their importance based on that role (Thus). Sentence C introduces the problem (However, threats). Sentence D provides the conclusion/solution (Therefore, protection).<br><b>Solution (HI):</b> सही क्रम BACD है। B मधुमक्खियों का परिचय देता है। A उनकी उपयोगिता बताता है। C उनके सामने आने वाले खतरों का उल्लेख करता है। D संरक्षण की आवश्यकता के साथ निष्कर्ष निकालता है।<br><b>Short Trick:</b> Look for transition words: B (Intro) -> A (Result of B) -> C (Contrast/Problem) -> D (Final Conclusion)."
+    },
+    {
+        "section": "English Language",
+        "topic": "Idioms and Phrases",
+        "difficulty": "Medium",
+        "q_en": "Select the word segment that substitutes (replaces) the bracketed idiom correctly and completes the sentence meaningfully: He (burned the midnight oil) to finish his assignment on time.",
+        "q_hi": "Select the word segment that substitutes (replaces) the bracketed idiom correctly and completes the sentence meaningfully: He (burned the midnight oil) to finish his assignment on time.",
+        "op_en": [
+            "worked very hard",
+            "wasted a lot of time",
+            "lit a candle",
+            "stayed up very late"
+        ],
+        "op_hi": [
+            "worked very hard",
+            "wasted a lot of time",
+            "lit a candle",
+            "stayed up very late"
+        ],
+        "ans": 4,
+        "solution": "<b>Solution (EN):</b> The idiom 'burned the midnight oil' means to stay awake late into the night, especially working or studying hard.<br><b>Solution (HI):</b> 'Burned the midnight oil' का अर्थ है देर रात तक जागकर कड़ी मेहनत या पढ़ाई करना।<br><b>Short Trick:</b> Midnight + Oil (for a lamp) = Working late at night when others are asleep."
+    },
+    {
+        "section": "English Language",
+        "topic": "Prepositions",
+        "difficulty": "Easy",
+        "q_en": "Fill in the blank with the correct preposition: He was born ______ January.",
+        "q_hi": "Fill in the blank with the correct preposition: He was born ______ January.",
+        "op_en": [
+            "on",
+            "at",
+            "by",
+            "in"
+        ],
+        "op_hi": [
+            "on",
+            "at",
+            "by",
+            "in"
+        ],
+        "ans": 4,
+        "solution": "<b>Solution (EN):</b> The preposition 'in' is used when referring to months, years, centuries, or long periods of time. Since 'January' is a month, 'in' is correct.<br><b>Solution (HI):</b> महीनों, वर्षों या लंबी अवधियों के लिए 'in' का प्रयोग किया जाता है। चूँकि 'January' एक महीना है, इसलिए यहाँ 'in' सही विकल्प है।<br><b>Short Trick:</b> In + Month/Year; On + Date/Day; At + Specific Time."
+    },
+    {
+        "section": "English Language",
+        "topic": "Articles",
+        "difficulty": "Easy",
+        "q_en": "Fill in the blank with the correct article: She works as ______ nurse.",
+        "q_hi": "Fill in the blank with the correct article: She works as ______ nurse.",
+        "op_en": [
+            "No article",
+            "the",
+            "an",
+            "a"
+        ],
+        "op_hi": [
+            "No article",
+            "the",
+            "an",
+            "a"
+        ],
+        "ans": 4,
+        "solution": "<b>Solution (EN):</b> The article 'a' is used before singular, countable nouns that begin with a consonant sound. 'Nurse' starts with the consonant sound 'n', so 'a' is appropriate.<br><b>Solution (HI):</b> 'A' का प्रयोग एकवचन गणनीय संज्ञाओं से पहले किया जाता है जो व्यंजन ध्वनि (consonant sound) से शुरू होती हैं। 'Nurse' की ध्वनि 'न' से शुरू होती है, इसलिए 'a' सही है।<br><b>Short Trick:</b> Consonant sound = 'a'; Vowel sound = 'an'."
+    },
+    {
+        "section": "English Language",
+        "topic": "Idioms and Phrases",
+        "difficulty": "Medium",
+        "q_en": "Select the word segment that substitutes (replaces) the bracketed proverb correctly and completes the sentence meaningfully: She (cut corners) to save money on the project.",
+        "q_hi": "Select the word segment that substitutes (replaces) the bracketed proverb correctly and completes the sentence meaningfully: She (cut corners) to save money on the project.",
+        "op_en": [
+            "reduced the quality",
+            "followed the rules",
+            "increased the efficiency",
+            "changed the design"
+        ],
+        "op_hi": [
+            "reduced the quality",
+            "followed the rules",
+            "increased the efficiency",
+            "changed the design"
+        ],
+        "ans": 1,
+        "solution": "<b>Solution (EN):</b> The phrase 'cut corners' means to do something in the easiest, quickest, or cheapest way, often at the expense of quality.<br><b>Solution (HI):</b> 'Cut corners' का अर्थ है समय या पैसा बचाने के लिए काम को जल्दबाजी या सस्ते में करना, जिससे अक्सर गुणवत्ता में कमी आती है (गुणवत्ता में कमी करना)।<br><b>Short Trick:</b> Cutting corners = Taking a shortcut = Compromising on the full/proper process/quality."
+    },
+    {
+        "section": "English Language",
+        "topic": "Adjectives",
+        "difficulty": "Easy",
+        "q_en": "Fill in the blank with correct part of speech: He finished ______ in the race.",
+        "q_hi": "Fill in the blank with correct part of speech: He finished ______ in the race.",
+        "op_en": [
+            "one",
+            "once",
+            "first",
+            "one's"
+        ],
+        "op_hi": [
+            "one",
+            "once",
+            "first",
+            "one's"
+        ],
+        "ans": 3,
+        "solution": "<b>Solution (EN):</b> The word 'first' is an ordinal adjective that indicates the position or rank in a sequence. In a race, we use ordinal numbers (first, second, etc.) to show rank.<br><b>Solution (HI):</b> 'First' एक क्रमवाचक विशेषण (ordinal adjective) है जो किसी क्रम में स्थान या पद को दर्शाता है। दौड़ में स्थान बताने के लिए इसका प्रयोग सही है।<br><b>Short Trick:</b> Use Ordinal numbers (1st, 2nd, 3rd) for ranks/positions."
+    },
+    {
+        "section": "English Language",
+        "topic": "Articles",
+        "difficulty": "Easy",
+        "q_en": "Fill in the blank with the correct article: She gave him ______ book and he gave her ______ flower.",
+        "q_hi": "Fill in the blank with the correct article: She gave him ______ book and he gave her ______ flower.",
+        "op_en": [
+            "a, a",
+            "an, an",
+            "a, an",
+            "an, a"
+        ],
+        "op_hi": [
+            "a, a",
+            "an, an",
+            "a, an",
+            "an, a"
+        ],
+        "ans": 1,
+        "solution": "<b>Solution (EN):</b> The article 'a' is used before singular nouns that begin with a consonant sound. 'Book' and 'flower' both begin with consonant sounds ('b' and 'f'), so 'a' is used for both.<br><b>Solution (HI):</b> 'Book' (ब) और 'Flower' (फ़) दोनों की शुरुआत व्यंजन ध्वनि से होती है, इसलिए दोनों के साथ 'a' का प्रयोग होगा।<br><b>Short Trick:</b> Singular countable nouns + Consonant sound = A."
+    },
+    {
+        "section": "English Language",
+        "topic": "Conjunctions",
+        "difficulty": "Easy",
+        "q_en": "Fill in the blank with the correct part of speech: She went to the library ______ borrow some books.",
+        "q_hi": "Fill in the blank with the correct part of speech: She went to the library ______ borrow some books.",
+        "op_en": [
+            "therefore",
+            "in order to",
+            "so that",
+            "because"
+        ],
+        "op_hi": [
+            "therefore",
+            "in order to",
+            "so that",
+            "because"
+        ],
+        "ans": 2,
+        "solution": "<b>Solution (EN):</b> The phrase 'in order to' is used to express purpose or intention. The action of going to the library is performed with the purpose of borrowing books.<br><b>Solution (HI):</b> 'In order to' का प्रयोग उद्देश्य या इरादे को व्यक्त करने के लिए किया जाता है। यहाँ पुस्तकालय जाने का उद्देश्य किताबें उधार लेना है।<br><b>Short Trick:</b> 'In order to' is followed by a verb (base form) to show the 'why' of an action."
+    }
+]
