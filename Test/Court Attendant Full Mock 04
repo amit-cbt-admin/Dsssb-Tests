@@ -1,0 +1,2102 @@
+[
+    {
+        "section": "English",
+        "topic": "Adjectives",
+        "difficulty": "Easy",
+        "q_en": "Select the most appropriate adjective to fill in the blank.<br><br>The manager was impressed by the _______ performance of the new employee.",
+        "q_hi": "Select the most appropriate adjective to fill in the blank.<br><br>The manager was impressed by the _______ performance of the new employee.",
+        "op_en": [
+            "stellar",
+            "stellarly",
+            "star",
+            "stardom"
+        ],
+        "op_hi": [
+            "stellar",
+            "stellarly",
+            "star",
+            "stardom"
+        ],
+        "ans": 1,
+        "solution": "<b>Solution (EN):</b> The sentence requires an adjective to modify the noun 'performance'. 'Stellar' is the correct adjective, meaning exceptionally good. 'Stellarly' is an adverb, and 'star' and 'stardom' are primarily nouns.<br><b>Solution (HI):</b> यहाँ noun 'performance' की विशेषता बताने के लिए एक adjective की आवश्यकता है। 'Stellar' (उत्कृष्ट) एक सही adjective है। 'Stellarly' adverb है, जबकि 'star' और 'stardom' noun हैं।<br><b>Short Trick:</b> Identify the part of speech; 'performance' (Noun) needs an 'Adjective' (stellar)."
+    },
+    {
+        "section": "English",
+        "topic": "Adjectives",
+        "difficulty": "Easy",
+        "q_en": "Select the most appropriate adjective to fill in the blank.<br><br>It is important to wear _______ clothes during the harsh winter.",
+        "q_hi": "Select the most appropriate adjective to fill in the blank.<br><br>It is important to wear _______ clothes during the harsh winter.",
+        "op_en": [
+            "warmth",
+            "warm",
+            "warmly",
+            "warming"
+        ],
+        "op_hi": [
+            "warmth",
+            "warm",
+            "warmly",
+            "warming"
+        ],
+        "ans": 2,
+        "solution": "<b>Solution (EN):</b> The blank precedes the noun 'clothes', so an adjective is needed. 'Warm' is the correct adjective. 'Warmth' is a noun, 'warmly' is an adverb, and 'warming' is a present participle/gerund.<br><b>Solution (HI):</b> 'Clothes' एक noun है, इससे पहले उसकी विशेषता बताने के लिए adjective चाहिए। 'Warm' सही adjective है। 'Warmth' noun है और 'warmly' adverb है।<br><b>Short Trick:</b> Adjective + Noun structure: Warm (Adj) + Clothes (Noun)."
+    },
+    {
+        "section": "English",
+        "topic": "Sentence Rearrangement",
+        "difficulty": "Medium",
+        "q_en": "Parts of a sentence are given below in jumbled order. Arrange the parts in the correct order to form a meaningful sentence.<br><br>A. the sudden storm<br>B. caught<br>C. by surprise<br>D. all the fishermen<br>E. in the sea",
+        "q_hi": "Parts of a sentence are given below in jumbled order. Arrange the parts in the correct order to form a meaningful sentence.<br><br>A. the sudden storm<br>B. caught<br>C. by surprise<br>D. all the fishermen<br>E. in the sea",
+        "op_en": [
+            "ABDEC",
+            "BADCE",
+            "CDEAB",
+            "ABDCE"
+        ],
+        "op_hi": [
+            "ABDEC",
+            "BADCE",
+            "CDEAB",
+            "ABDCE"
+        ],
+        "ans": 1,
+        "solution": "<b>Solution (EN):</b> The logical structure is Subject (A: the sudden storm) + Verb (B: caught) + Object (D: all the fishermen) + Location (E: in the sea) + Phrase (C: by surprise). Result: ABDEC.<br><b>Solution (HI):</b> वाक्य की सही संरचना है: Subject (A) + Verb (B) + Object (D) + Location (E) + Phrase (C)। परिणाम: ABDEC.<br><b>Short Trick:</b> Start with the Subject 'The sudden storm' (A) and follow with the action 'caught' (B)."
+    },
+    {
+        "section": "English",
+        "topic": "One Word Substitution",
+        "difficulty": "Easy",
+        "q_en": "Select the option that can be used as a one-word substitute for the given group of words.<br><br>A person who cannot read or write",
+        "q_hi": "Select the option that can be used as a one-word substitute for the given group of words.<br><br>A person who cannot read or write",
+        "op_en": [
+            "Illiterate",
+            "Ignorant",
+            "Scholar",
+            "Novice"
+        ],
+        "op_hi": [
+            "Illiterate",
+            "Ignorant",
+            "Scholar",
+            "Novice"
+        ],
+        "ans": 1,
+        "solution": "<b>Solution (EN):</b> 'Illiterate' refers to a person who is unable to read or write. 'Ignorant' means lacking knowledge, 'Scholar' is a highly educated person, and 'Novice' is a beginner.<br><b>Solution (HI):</b> 'Illiterate' का अर्थ है वह व्यक्ति जो पढ़ या लिख नहीं सकता (निरक्षर)। 'Ignorant' का अर्थ अज्ञानी, 'Scholar' का अर्थ विद्वान, और 'Novice' का अर्थ नौसिखिया होता है।<br><b>Short Trick:</b> 'Il-' (not) + 'literate' (able to read) = Illiterate."
+    },
+    {
+        "section": "English",
+        "topic": "Vocabulary",
+        "difficulty": "Easy",
+        "q_en": "Select the most appropriate option to fill in the blank.<br><br>The team celebrated their _______ victory with a grand party.",
+        "q_hi": "Select the most appropriate option to fill in the blank.<br><br>The team celebrated their _______ victory with a grand party.",
+        "op_en": [
+            "massive",
+            "defeated",
+            "losing",
+            "tragic"
+        ],
+        "op_hi": [
+            "massive",
+            "defeated",
+            "losing",
+            "tragic"
+        ],
+        "ans": 1,
+        "solution": "<b>Solution (EN):</b> 'Massive' is the most suitable adjective to describe a significant victory. 'Defeated', 'Losing', and 'Tragic' hold negative connotations and do not fit the context of a celebration.<br><b>Solution (HI):</b> एक बड़ी जीत (victory) का वर्णन करने के लिए 'massive' (विशाल/शानदार) सबसे उपयुक्त adjective है। 'Defeated', 'Losing' और 'Tragic' नकारात्मक शब्द हैं जो जश्न के संदर्भ में फिट नहीं बैठते।<br><b>Short Trick:</b> Celebrations usually follow a positive event like a 'massive' victory."
+    },
+    {
+        "section": "English",
+        "topic": "One Word Substitution",
+        "difficulty": "Medium",
+        "q_en": "Select the option that can be used as a one-word substitute for the given group of words.<br><br>The study of human history and prehistory through the excavation of sites",
+        "q_hi": "Select the option that can be used as a one-word substitute for the given group of words.<br><br>The study of human history and prehistory through the excavation of sites",
+        "op_en": [
+            "Paleontology",
+            "Archaeology",
+            "Geology",
+            "Genealogy"
+        ],
+        "op_hi": [
+            "Paleontology",
+            "Archaeology",
+            "Geology",
+            "Genealogy"
+        ],
+        "ans": 2,
+        "solution": "<b>Solution (EN):</b> 'Archaeology' is the study of human history through the excavation of physical remains. 'Paleontology' is the study of fossils, 'Geology' studies the earth's physical structure, and 'Genealogy' traces family descent.<br><b>Solution (HI):</b> 'Archaeology' (पुरातत्व) वह विज्ञान है जो खुदाई के माध्यम से मानव इतिहास का अध्ययन करता है। 'Paleontology' जीवाश्मों का अध्ययन है, और 'Geology' भूविज्ञान है।<br><b>Short Trick:</b> Excavation of human history sites = Archaeology."
+    },
+    {
+        "section": "English",
+        "topic": "Sentence Rearrangement",
+        "difficulty": "Easy",
+        "q_en": "Parts of a sentence are given below in jumbled order. Arrange the parts in the correct order to form a meaningful sentence.<br><br>always / the / helps / poor / he",
+        "q_hi": "Parts of a sentence are given below in jumbled order. Arrange the parts in the correct order to form a meaningful sentence.<br><br>always / the / helps / poor / he",
+        "op_en": [
+            "He always helps the poor.",
+            "The poor he always helps.",
+            "He helps always the poor.",
+            "Always the poor he helps."
+        ],
+        "op_hi": [
+            "He always helps the poor.",
+            "The poor he always helps.",
+            "He helps always the poor.",
+            "Always the poor he helps."
+        ],
+        "ans": 1,
+        "solution": "<b>Solution (EN):</b> The standard sentence structure is Subject (He) + Adverb of frequency (always) + Verb (helps) + Object (the poor). Option 1 follows this grammatically correct pattern.<br><b>Solution (HI):</b> मानक वाक्य संरचना है: Subject (He) + Adverb (always) + Verb (helps) + Object (the poor)। विकल्प 1 सबसे सही है।<br><b>Short Trick:</b> Adverbs of frequency like 'always' usually come before the main verb."
+    },
+    {
+        "section": "English",
+        "topic": "Articles",
+        "difficulty": "Easy",
+        "q_en": "Select the most appropriate option to fill in the blanks.<br><br>I saw ___ elephant, ___ lion, and ___ tiger at the zoo.",
+        "q_hi": "Select the most appropriate option to fill in the blanks.<br><br>I saw ___ elephant, ___ lion, and ___ tiger at the zoo.",
+        "op_en": [
+            "an, a, a",
+            "a, a, a",
+            "an, an, a",
+            "the, an, a"
+        ],
+        "op_hi": [
+            "an, a, a",
+            "a, a, a",
+            "an, an, a",
+            "the, an, a"
+        ],
+        "ans": 1,
+        "solution": "<b>Solution (EN):</b> Use 'an' before words starting with a vowel sound (elephant) and 'a' before words starting with a consonant sound (lion, tiger).<br><b>Solution (HI):</b> Vowel sound (स्वर ध्वनि) से शुरू होने वाले शब्द (elephant) से पहले 'an' और consonant sound (व्यंजन ध्वनि) से शुरू होने वाले शब्दों (lion, tiger) से पहले 'a' का प्रयोग करें।<br><b>Short Trick:</b> Vowel sound = an (Elephant); Consonant sound = a (Lion, Tiger)."
+    },
+    {
+        "section": "English",
+        "topic": "Vocabulary",
+        "difficulty": "Medium",
+        "q_en": "Select the most appropriate option to fill in the blank.<br><br>Despite the heavy rain, she remained _______ and continued her journey.",
+        "q_hi": "Select the most appropriate option to fill in the blank.<br><br>Despite the heavy rain, she remained _______ and continued her journey.",
+        "op_en": [
+            "deterred",
+            "resolute",
+            "hesitant",
+            "confused"
+        ],
+        "op_hi": [
+            "deterred",
+            "resolute",
+            "hesitant",
+            "confused"
+        ],
+        "ans": 2,
+        "solution": "<b>Solution (EN):</b> 'Resolute' means admirably purposeful, determined, and unwavering. The context shows she did not give up despite the rain, making 'resolute' the correct choice. 'Deterred' means discouraged, which contradicts the sentence.<br><b>Solution (HI):</b> 'Resolute' का अर्थ है दृढ़ या संकल्पित। भारी बारिश के बावजूद उसने अपनी यात्रा जारी रखी, इसलिए वह 'resolute' रही। 'Deterred' (हतोत्साहित) और 'hesitant' (संकोची) यहाँ गलत हैं।<br><b>Short Trick:</b> Continued despite obstacles = Resolute (Determined)."
+    },
+    {
+        "section": "English",
+        "topic": "Idioms and Proverbs",
+        "difficulty": "Medium",
+        "q_en": "Select the most appropriate meaning of the given idiom.<br><br>Bite the bullet",
+        "q_hi": "Select the most appropriate meaning of the given idiom.<br><br>Bite the bullet",
+        "op_en": [
+            "To eat something very hard",
+            "To endure a painful situation bravely",
+            "To attack someone physically",
+            "To make a silly mistake"
+        ],
+        "op_hi": [
+            "To eat something very hard",
+            "To endure a painful situation bravely",
+            "To attack someone physically",
+            "To make a silly mistake"
+        ],
+        "ans": 2,
+        "solution": "<b>Solution (EN):</b> The idiom 'bite the bullet' means to decide to do something difficult or unpleasant that one has been putting off, or to endure a painful situation bravely.<br><b>Solution (HI):</b> 'Bite the bullet' मुहावरे का अर्थ है किसी कठिन या दर्दनाक स्थिति का बहादुरी से सामना करना या उसे सहन करना।<br><b>Short Trick:</b> Biting a bullet requires enduring pain/discomfort bravely."
+    },
+    {
+        "section": "English",
+        "topic": "Reading Comprehension",
+        "difficulty": "Medium",
+        "q_en": "<b>Comprehension:</b><br>Read the given passage carefully and answer the questions that follow.<br> <div style=\"text-align: justify;\">Climate change is one of the most pressing issues of our time. It refers to long-term shifts in temperatures and weather patterns. While some of these shifts are natural, human activities have been the primary driver of climate change since the 1800s, primarily due to burning fossil fuels like coal, oil, and gas. Burning fossil fuels generates greenhouse gas emissions that act like a blanket wrapped around the Earth, trapping the sun's heat and raising temperatures. The consequences of climate change include intense droughts, water scarcity, severe fires, rising sea levels, flooding, melting polar ice, catastrophic storms, and declining biodiversity. To combat this, global cooperation and sustainable practices are essential. Transitioning to renewable energy sources, reducing carbon footprints, and preserving forests are critical steps. Every individual's effort counts in mitigating the impact and ensuring a habitable planet for future generations.</div><br>What is the central theme of the passage?",
+        "q_hi": "<b>Comprehension:</b><br>Read the given passage carefully and answer the questions that follow.<br> <div style=\"text-align: justify;\">Climate change is one of the most pressing issues of our time. It refers to long-term shifts in temperatures and weather patterns. While some of these shifts are natural, human activities have been the primary driver of climate change since the 1800s, primarily due to burning fossil fuels like coal, oil, and gas. Burning fossil fuels generates greenhouse gas emissions that act like a blanket wrapped around the Earth, trapping the sun's heat and raising temperatures. The consequences of climate change include intense droughts, water scarcity, severe fires, rising sea levels, flooding, melting polar ice, catastrophic storms, and declining biodiversity. To combat this, global cooperation and sustainable practices are essential. Transitioning to renewable energy sources, reducing carbon footprints, and preserving forests are critical steps. Every individual's effort counts in mitigating the impact and ensuring a habitable planet for future generations.</div><br>What is the central theme of the passage?",
+        "op_en": [
+            "The history of fossil fuels",
+            "The impacts and mitigation of climate change",
+            "The natural shifts in weather",
+            "The benefits of renewable energy"
+        ],
+        "op_hi": [
+            "The history of fossil fuels",
+            "The impacts and mitigation of climate change",
+            "The natural shifts in weather",
+            "The benefits of renewable energy"
+        ],
+        "ans": 2,
+        "solution": "<b>Solution (EN):</b> The passage discusses the causes (burning fossil fuels), effects (droughts, floods), and solutions (renewable energy, global cooperation) related to climate change. Thus, the impacts and mitigation of climate change is the theme.<br><b>Solution (HI):</b> गद्यांश जलवायु परिवर्तन के कारणों (जीवाश्म ईंधन), प्रभावों (सूखा, बाढ़) और समाधानों (नवीकरणीय ऊर्जा) पर चर्चा करता है। इसलिए, 'impacts and mitigation' मुख्य विषय है।<br><b>Short Trick:</b> The passage covers causes, consequences, and solutions to climate change comprehensively."
+    },
+    {
+        "section": "English",
+        "topic": "Reading Comprehension",
+        "difficulty": "Easy",
+        "q_en": "<b>Comprehension:</b><br>Read the given passage carefully and answer the questions that follow.<br> <div style=\"text-align: justify;\">Climate change is one of the most pressing issues of our time. It refers to long-term shifts in temperatures and weather patterns. While some of these shifts are natural, human activities have been the primary driver of climate change since the 1800s, primarily due to burning fossil fuels like coal, oil, and gas. Burning fossil fuels generates greenhouse gas emissions that act like a blanket wrapped around the Earth, trapping the sun's heat and raising temperatures. The consequences of climate change include intense droughts, water scarcity, severe fires, rising sea levels, flooding, melting polar ice, catastrophic storms, and declining biodiversity. To combat this, global cooperation and sustainable practices are essential. Transitioning to renewable energy sources, reducing carbon footprints, and preserving forests are critical steps. Every individual's effort counts in mitigating the impact and ensuring a habitable planet for future generations.</div><br>According to the passage, what has been the primary driver of climate change since the 1800s?",
+        "q_hi": "<b>Comprehension:</b><br>Read the given passage carefully and answer the questions that follow.<br> <div style=\"text-align: justify;\">Climate change is one of the most pressing issues of our time. It refers to long-term shifts in temperatures and weather patterns. While some of these shifts are natural, human activities have been the primary driver of climate change since the 1800s, primarily due to burning fossil fuels like coal, oil, and gas. Burning fossil fuels generates greenhouse gas emissions that act like a blanket wrapped around the Earth, trapping the sun's heat and raising temperatures. The consequences of climate change include intense droughts, water scarcity, severe fires, rising sea levels, flooding, melting polar ice, catastrophic storms, and declining biodiversity. To combat this, global cooperation and sustainable practices are essential. Transitioning to renewable energy sources, reducing carbon footprints, and preserving forests are critical steps. Every individual's effort counts in mitigating the impact and ensuring a habitable planet for future generations.</div><br>According to the passage, what has been the primary driver of climate change since the 1800s?",
+        "op_en": [
+            "Natural weather shifts",
+            "Human activities",
+            "Solar radiation",
+            "Volcanic eruptions"
+        ],
+        "op_hi": [
+            "Natural weather shifts",
+            "Human activities",
+            "Solar radiation",
+            "Volcanic eruptions"
+        ],
+        "ans": 2,
+        "solution": "<b>Solution (EN):</b> The passage clearly states, \"human activities have been the primary driver of climate change since the 1800s.\"<br><b>Solution (HI):</b> गद्यांश में स्पष्ट रूप से कहा गया है, \"human activities have been the primary driver of climate change since the 1800s.\" (मानवीय गतिविधियां 1800 के दशक से प्राथमिक चालक रही हैं)।<br><b>Short Trick:</b> Scan for the keyword '1800s' and read the associated phrase."
+    },
+    {
+        "section": "English",
+        "topic": "Reading Comprehension",
+        "difficulty": "Medium",
+        "q_en": "<b>Comprehension:</b><br>Read the given passage carefully and answer the questions that follow.<br> <div style=\"text-align: justify;\">Climate change is one of the most pressing issues of our time. It refers to long-term shifts in temperatures and weather patterns. While some of these shifts are natural, human activities have been the primary driver of climate change since the 1800s, primarily due to burning fossil fuels like coal, oil, and gas. Burning fossil fuels generates greenhouse gas emissions that act like a blanket wrapped around the Earth, trapping the sun's heat and raising temperatures. The consequences of climate change include intense droughts, water scarcity, severe fires, rising sea levels, flooding, melting polar ice, catastrophic storms, and declining biodiversity. To combat this, global cooperation and sustainable practices are essential. Transitioning to renewable energy sources, reducing carbon footprints, and preserving forests are critical steps. Every individual's effort counts in mitigating the impact and ensuring a habitable planet for future generations.</div><br>Select the word from the options that is closest in meaning to 'mitigating' as used in the passage.",
+        "q_hi": "<b>Comprehension:</b><br>Read the given passage carefully and answer the questions that follow.<br> <div style=\"text-align: justify;\">Climate change is one of the most pressing issues of our time. It refers to long-term shifts in temperatures and weather patterns. While some of these shifts are natural, human activities have been the primary driver of climate change since the 1800s, primarily due to burning fossil fuels like coal, oil, and gas. Burning fossil fuels generates greenhouse gas emissions that act like a blanket wrapped around the Earth, trapping the sun's heat and raising temperatures. The consequences of climate change include intense droughts, water scarcity, severe fires, rising sea levels, flooding, melting polar ice, catastrophic storms, and declining biodiversity. To combat this, global cooperation and sustainable practices are essential. Transitioning to renewable energy sources, reducing carbon footprints, and preserving forests are critical steps. Every individual's effort counts in mitigating the impact and ensuring a habitable planet for future generations.</div><br>Select the word from the options that is closest in meaning to 'mitigating' as used in the passage.",
+        "op_en": [
+            "Aggravating",
+            "Reducing",
+            "Ignoring",
+            "Promoting"
+        ],
+        "op_hi": [
+            "Aggravating",
+            "Reducing",
+            "Ignoring",
+            "Promoting"
+        ],
+        "ans": 2,
+        "solution": "<b>Solution (EN):</b> In the context of the passage, 'mitigating' means to make something less severe, harmful, or painful. Therefore, 'reducing' is the closest synonym.<br><b>Solution (HI):</b> गद्यांश के संदर्भ में 'mitigating' का अर्थ है प्रभाव को कम करना या सुधारना। इसलिए, 'reducing' (कम करना) सबसे करीबी समानार्थी शब्द है।<br><b>Short Trick:</b> Mitigating a problem means reducing its negative impact."
+    },
+    {
+        "section": "English",
+        "topic": "Reading Comprehension",
+        "difficulty": "Easy",
+        "q_en": "<b>Comprehension:</b><br>Read the given passage carefully and answer the questions that follow.<br> <div style=\"text-align: justify;\">Climate change is one of the most pressing issues of our time. It refers to long-term shifts in temperatures and weather patterns. While some of these shifts are natural, human activities have been the primary driver of climate change since the 1800s, primarily due to burning fossil fuels like coal, oil, and gas. Burning fossil fuels generates greenhouse gas emissions that act like a blanket wrapped around the Earth, trapping the sun's heat and raising temperatures. The consequences of climate change include intense droughts, water scarcity, severe fires, rising sea levels, flooding, melting polar ice, catastrophic storms, and declining biodiversity. To combat this, global cooperation and sustainable practices are essential. Transitioning to renewable energy sources, reducing carbon footprints, and preserving forests are critical steps. Every individual's effort counts in mitigating the impact and ensuring a habitable planet for future generations.</div><br>Which of the following is NOT mentioned as a consequence of climate change in the passage?",
+        "q_hi": "<b>Comprehension:</b><br>Read the given passage carefully and answer the questions that follow.<br> <div style=\"text-align: justify;\">Climate change is one of the most pressing issues of our time. It refers to long-term shifts in temperatures and weather patterns. While some of these shifts are natural, human activities have been the primary driver of climate change since the 1800s, primarily due to burning fossil fuels like coal, oil, and gas. Burning fossil fuels generates greenhouse gas emissions that act like a blanket wrapped around the Earth, trapping the sun's heat and raising temperatures. The consequences of climate change include intense droughts, water scarcity, severe fires, rising sea levels, flooding, melting polar ice, catastrophic storms, and declining biodiversity. To combat this, global cooperation and sustainable practices are essential. Transitioning to renewable energy sources, reducing carbon footprints, and preserving forests are critical steps. Every individual's effort counts in mitigating the impact and ensuring a habitable planet for future generations.</div><br>Which of the following is NOT mentioned as a consequence of climate change in the passage?",
+        "op_en": [
+            "Intense droughts",
+            "Rising sea levels",
+            "Earthquakes",
+            "Declining biodiversity"
+        ],
+        "op_hi": [
+            "Intense droughts",
+            "Rising sea levels",
+            "Earthquakes",
+            "Declining biodiversity"
+        ],
+        "ans": 3,
+        "solution": "<b>Solution (EN):</b> The passage explicitly lists intense droughts, rising sea levels, and declining biodiversity as consequences. 'Earthquakes' are not mentioned.<br><b>Solution (HI):</b> गद्यांश स्पष्ट रूप से सूखे, समुद्र के जल स्तर में वृद्धि और जैव विविधता में गिरावट को परिणामों के रूप में सूचीबद्ध करता है। 'Earthquakes' (भूकंप) का उल्लेख नहीं किया गया है।<br><b>Short Trick:</b> Use the process of elimination by verifying each option against the text."
+    },
+    {
+        "section": "English",
+        "topic": "Reading Comprehension",
+        "difficulty": "Medium",
+        "q_en": "<b>Comprehension:</b><br>Read the given passage carefully and answer the questions that follow.<br> <div style=\"text-align: justify;\">Climate change is one of the most pressing issues of our time. It refers to long-term shifts in temperatures and weather patterns. While some of these shifts are natural, human activities have been the primary driver of climate change since the 1800s, primarily due to burning fossil fuels like coal, oil, and gas. Burning fossil fuels generates greenhouse gas emissions that act like a blanket wrapped around the Earth, trapping the sun's heat and raising temperatures. The consequences of climate change include intense droughts, water scarcity, severe fires, rising sea levels, flooding, melting polar ice, catastrophic storms, and declining biodiversity. To combat this, global cooperation and sustainable practices are essential. Transitioning to renewable energy sources, reducing carbon footprints, and preserving forests are critical steps. Every individual's effort counts in mitigating the impact and ensuring a habitable planet for future generations.</div><br>What can be inferred about the solution to climate change from the text?",
+        "q_hi": "<b>Comprehension:</b><br>Read the given passage carefully and answer the questions that follow.<br> <div style=\"text-align: justify;\">Climate change is one of the most pressing issues of our time. It refers to long-term shifts in temperatures and weather patterns. While some of these shifts are natural, human activities have been the primary driver of climate change since the 1800s, primarily due to burning fossil fuels like coal, oil, and gas. Burning fossil fuels generates greenhouse gas emissions that act like a blanket wrapped around the Earth, trapping the sun's heat and raising temperatures. The consequences of climate change include intense droughts, water scarcity, severe fires, rising sea levels, flooding, melting polar ice, catastrophic storms, and declining biodiversity. To combat this, global cooperation and sustainable practices are essential. Transitioning to renewable energy sources, reducing carbon footprints, and preserving forests are critical steps. Every individual's effort counts in mitigating the impact and ensuring a habitable planet for future generations.</div><br>What can be inferred about the solution to climate change from the text?",
+        "op_en": [
+            "It solely depends on discovering new planets.",
+            "It requires increasing the use of fossil fuels.",
+            "It demands global cooperation and sustainable practices.",
+            "It is impossible to solve and should be ignored."
+        ],
+        "op_hi": [
+            "It solely depends on discovering new planets.",
+            "It requires increasing the use of fossil fuels.",
+            "It demands global cooperation and sustainable practices.",
+            "It is impossible to solve and should be ignored."
+        ],
+        "ans": 3,
+        "solution": "<b>Solution (EN):</b> The passage clearly states, \"To combat this, global cooperation and sustainable practices are essential.\"<br><b>Solution (HI):</b> गद्यांश में स्पष्ट रूप से कहा गया है, \"To combat this, global cooperation and sustainable practices are essential.\" (इससे निपटने के लिए, वैश्विक सहयोग और स्थायी प्रथाएं आवश्यक हैं)।<br><b>Short Trick:</b> The paragraph on 'combat' gives the exact requirement: global cooperation."
+    },
+    {
+        "section": "English1",
+        "topic": "Synonyms",
+        "difficulty": "Easy",
+        "q_en": "Select the most appropriate synonym of the given word.<br><br>Astonish",
+        "q_hi": "Select the most appropriate synonym of the given word.<br><br>Astonish",
+        "op_en": [
+            "Calm",
+            "Bore",
+            "Surprise",
+            "Expect"
+        ],
+        "op_hi": [
+            "Calm",
+            "Bore",
+            "Surprise",
+            "Expect"
+        ],
+        "ans": 3,
+        "solution": "<b>Solution (EN):</b> 'Astonish' means to surprise or impress someone greatly. 'Surprise' is the most appropriate synonym. 'Calm' and 'Bore' are antonyms, and 'Expect' means to anticipate.<br><b>Solution (HI):</b> 'Astonish' का अर्थ है बहुत अधिक आश्चर्यचकित करना। 'Surprise' (आश्चर्य) इसका सबसे उपयुक्त पर्यायवाची है। 'Calm' का अर्थ शांत और 'Bore' का अर्थ ऊबाना होता है।<br><b>Short Trick:</b> Think of Astonish = A ton of surprise."
+    },
+    {
+        "section": "English1",
+        "topic": "Idioms and Phrases",
+        "difficulty": "Medium",
+        "q_en": "To 'burn the midnight oil' suggests an approach that means:   ",
+        "q_hi": "To 'burn the midnight oil' suggests an approach that means:   ",
+        "op_en": [
+            "to waste valuable resources",
+            "to work or study late into the night",
+            "to start an unnecessary conflict",
+            "to rely on outdated methods"
+        ],
+        "op_hi": [
+            "to waste valuable resources",
+            "to work or study late into the night",
+            "to start an unnecessary conflict",
+            "to rely on outdated methods"
+        ],
+        "ans": 2,
+        "solution": "<b>Solution (EN):</b> The idiom 'burn the midnight oil' means to read, study, or work late into the night.<br><b>Solution (HI):</b> 'Burn the midnight oil' मुहावरे का अर्थ है देर रात तक काम करना या पढ़ाई करना।<br><b>Short Trick:</b> Midnight oil = needing a lamp's oil because you are awake and working at midnight."
+    },
+    {
+        "section": "English1",
+        "topic": "Spelling",
+        "difficulty": "Easy",
+        "q_en": "Select the INCORRECTLY spelt word.",
+        "q_hi": "Select the INCORRECTLY spelt word.",
+        "op_en": [
+            "Privilege",
+            "Rhythm",
+            "Accomodate",
+            "Harass"
+        ],
+        "op_hi": [
+            "Privilege",
+            "Rhythm",
+            "Accomodate",
+            "Harass"
+        ],
+        "ans": 3,
+        "solution": "<b>Solution (EN):</b> The word 'Accomodate' is incorrectly spelt. The correct spelling is 'Accommodate', which means to provide lodging or sufficient space for.<br><b>Solution (HI):</b> 'Accomodate' की वर्तनी गलत है। सही वर्तनी 'Accommodate' (समायोजित करना या जगह देना) है, जिसमें double 'c' और double 'm' आता है।<br><b>Short Trick:</b> Remember: Two 'C'ots and two 'M'attresses to aCCoMModate guests."
+    },
+    {
+        "section": "English1",
+        "topic": "Vocabulary",
+        "difficulty": "Medium",
+        "q_en": "Which of the following options is closest to the meaning of the word 'gregarious'?",
+        "q_hi": "Which of the following options is closest to the meaning of the word 'gregarious'?",
+        "op_en": [
+            "Introverted",
+            "Sociable",
+            "Aggressive",
+            "Antisocial"
+        ],
+        "op_hi": [
+            "Introverted",
+            "Sociable",
+            "Aggressive",
+            "Antisocial"
+        ],
+        "ans": 2,
+        "solution": "<b>Solution (EN):</b> 'Gregarious' refers to a person who is fond of company; sociable. Therefore, 'Sociable' is the closest in meaning.<br><b>Solution (HI):</b> 'Gregarious' का अर्थ है मिलनसार या झुंड में रहने वाला व्यक्ति। दिए गए विकल्पों में 'Sociable' (मिलनसार) सबसे सटीक है।<br><b>Short Trick:</b> Greg loves groups = Gregarious (sociable)."
+    },
+    {
+        "section": "English1",
+        "topic": "Cloze Test",
+        "difficulty": "Easy",
+        "q_en": "<b>Comprehension:</b><br>In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank<br><br>The rapid expansion of urban areas has brought both opportunities and challenges. While cities are considered engines of economic (1) ______, they also suffer from severe environmental (2) ______. The (3) ______ increase in vehicular traffic has led to alarming levels of air pollution. (4) ______, local governments must implement strict emission norms, or else the health of millions will be severely (5) ______.<br><br>Select the most appropriate option to fill in blank number 1.",
+        "q_hi": "<b>Comprehension:</b><br>In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank<br><br>The rapid expansion of urban areas has brought both opportunities and challenges. While cities are considered engines of economic (1) ______, they also suffer from severe environmental (2) ______. The (3) ______ increase in vehicular traffic has led to alarming levels of air pollution. (4) ______, local governments must implement strict emission norms, or else the health of millions will be severely (5) ______.<br><br>Select the most appropriate option to fill in blank number 1.",
+        "op_en": [
+            "decline",
+            "stagnation",
+            "growth",
+            "failure"
+        ],
+        "op_hi": [
+            "decline",
+            "stagnation",
+            "growth",
+            "failure"
+        ],
+        "ans": 3,
+        "solution": "<b>Solution (EN):</b> The phrase 'engines of economic...' generally takes positive words indicating progress. 'Growth' fits perfectly as cities are universally known as engines of economic growth.<br><b>Solution (HI):</b> 'Engines of economic' के साथ प्रगति को दर्शाने वाला शब्द आएगा। शहरों को आर्थिक 'growth' (विकास) का इंजन माना जाता है, इसलिए यह शब्द यहाँ सबसे उपयुक्त है।<br><b>Short Trick:</b> Engine = moving forward = growth."
+    },
+    {
+        "section": "English1",
+        "topic": "Cloze Test",
+        "difficulty": "Easy",
+        "q_en": "<b>Comprehension:</b><br>In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank<br><br>The rapid expansion of urban areas has brought both opportunities and challenges. While cities are considered engines of economic (1) ______, they also suffer from severe environmental (2) ______. The (3) ______ increase in vehicular traffic has led to alarming levels of air pollution. (4) ______, local governments must implement strict emission norms, or else the health of millions will be severely (5) ______.<br><br>Select the most appropriate option to fill in blank number 2.",
+        "q_hi": "<b>Comprehension:</b><br>In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank<br><br>The rapid expansion of urban areas has brought both opportunities and challenges. While cities are considered engines of economic (1) ______, they also suffer from severe environmental (2) ______. The (3) ______ increase in vehicular traffic has led to alarming levels of air pollution. (4) ______, local governments must implement strict emission norms, or else the health of millions will be severely (5) ______.<br><br>Select the most appropriate option to fill in blank number 2.",
+        "op_en": [
+            "degradation",
+            "purification",
+            "healing",
+            "upgrade"
+        ],
+        "op_hi": [
+            "degradation",
+            "purification",
+            "healing",
+            "upgrade"
+        ],
+        "ans": 1,
+        "solution": "<b>Solution (EN):</b> The phrase 'suffer from' indicates a negative consequence. 'Degradation' (the condition or process of degrading or being degraded) fits perfectly with 'environmental'.<br><b>Solution (HI):</b> 'Suffer from' एक नकारात्मक प्रभाव को दर्शाता है। पर्यावरणीय गिरावट के लिए 'degradation' सही शब्द है, जबकि अन्य सभी शब्द सकारात्मक हैं।<br><b>Short Trick:</b> Suffer from + Environment = Negative outcome (Degradation)."
+    },
+    {
+        "section": "English1",
+        "topic": "Cloze Test",
+        "difficulty": "Medium",
+        "q_en": "<b>Comprehension:</b><br>In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank<br><br>The rapid expansion of urban areas has brought both opportunities and challenges. While cities are considered engines of economic (1) ______, they also suffer from severe environmental (2) ______. The (3) ______ increase in vehicular traffic has led to alarming levels of air pollution. (4) ______, local governments must implement strict emission norms, or else the health of millions will be severely (5) ______.<br><br>Select the most appropriate option to fill in blank number 3.",
+        "q_hi": "<b>Comprehension:</b><br>In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank<br><br>The rapid expansion of urban areas has brought both opportunities and challenges. While cities are considered engines of economic (1) ______, they also suffer from severe environmental (2) ______. The (3) ______ increase in vehicular traffic has led to alarming levels of air pollution. (4) ______, local governments must implement strict emission norms, or else the health of millions will be severely (5) ______.<br><br>Select the most appropriate option to fill in blank number 3.",
+        "op_en": [
+            "trivial",
+            "exponential",
+            "stagnant",
+            "rare"
+        ],
+        "op_hi": [
+            "trivial",
+            "exponential",
+            "stagnant",
+            "rare"
+        ],
+        "ans": 2,
+        "solution": "<b>Solution (EN):</b> 'Exponential' means becoming more and more rapid. It correctly describes the rapid, alarming increase in traffic that leads to severe pollution. 'Trivial', 'stagnant', and 'rare' are contextually incorrect.<br><b>Solution (HI):</b> 'Exponential' का अर्थ है बहुत तेज़ी से बढ़ने वाला। यातायात में भारी वृद्धि (जिससे प्रदूषण बढ़ा) को दर्शाने के लिए यह सबसे उपयुक्त है।<br><b>Short Trick:</b> Alarming levels of pollution require a massive/rapid increase (exponential)."
+    },
+    {
+        "section": "English1",
+        "topic": "Cloze Test",
+        "difficulty": "Medium",
+        "q_en": "<b>Comprehension:</b><br>In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank<br><br>The rapid expansion of urban areas has brought both opportunities and challenges. While cities are considered engines of economic (1) ______, they also suffer from severe environmental (2) ______. The (3) ______ increase in vehicular traffic has led to alarming levels of air pollution. (4) ______, local governments must implement strict emission norms, or else the health of millions will be severely (5) ______.<br><br>Select the most appropriate option to fill in blank number 4.",
+        "q_hi": "<b>Comprehension:</b><br>In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank<br><br>The rapid expansion of urban areas has brought both opportunities and challenges. While cities are considered engines of economic (1) ______, they also suffer from severe environmental (2) ______. The (3) ______ increase in vehicular traffic has led to alarming levels of air pollution. (4) ______, local governments must implement strict emission norms, or else the health of millions will be severely (5) ______.<br><br>Select the most appropriate option to fill in blank number 4.",
+        "op_en": [
+            "However",
+            "Similarly",
+            "Instead",
+            "Therefore"
+        ],
+        "op_hi": [
+            "However",
+            "Similarly",
+            "Instead",
+            "Therefore"
+        ],
+        "ans": 4,
+        "solution": "<b>Solution (EN):</b> 'Therefore' is used as an adverb to introduce the logical consequence or required action stemming from the previously mentioned problem (pollution requiring strict norms).<br><b>Solution (HI):</b> 'Therefore' (इसलिए) का उपयोग पिछली समस्या (प्रदूषण) के तार्किक परिणाम या उसके समाधान (सख्त नियम) को पेश करने के लिए किया जाता है।<br><b>Short Trick:</b> Identifying a Problem -> 'Therefore' -> Proposing a Solution/Action."
+    },
+    {
+        "section": "English1",
+        "topic": "Cloze Test",
+        "difficulty": "Hard",
+        "q_en": "<b>Comprehension:</b><br>In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank<br><br>The rapid expansion of urban areas has brought both opportunities and challenges. While cities are considered engines of economic (1) ______, they also suffer from severe environmental (2) ______. The (3) ______ increase in vehicular traffic has led to alarming levels of air pollution. (4) ______, local governments must implement strict emission norms, or else the health of millions will be severely (5) ______.<br><br>Select the most appropriate option to fill in blank number 5.",
+        "q_hi": "<b>Comprehension:</b><br>In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank<br><br>The rapid expansion of urban areas has brought both opportunities and challenges. While cities are considered engines of economic (1) ______, they also suffer from severe environmental (2) ______. The (3) ______ increase in vehicular traffic has led to alarming levels of air pollution. (4) ______, local governments must implement strict emission norms, or else the health of millions will be severely (5) ______.<br><br>Select the most appropriate option to fill in blank number 5.",
+        "op_en": [
+            "bolstered",
+            "pardoned",
+            "compromised",
+            "enriched"
+        ],
+        "op_hi": [
+            "bolstered",
+            "pardoned",
+            "compromised",
+            "enriched"
+        ],
+        "ans": 3,
+        "solution": "<b>Solution (EN):</b> 'Compromised' in a medical or health context means to be made vulnerable or severely weakened. Due to air pollution, the health of millions will be negatively affected or compromised.<br><b>Solution (HI):</b> स्वास्थ्य के संदर्भ में 'compromised' का अर्थ है कमज़ोर होना या खतरे में पड़ना। प्रदूषण के कारण लाखों लोगों का स्वास्थ्य खतरे में पड़ जाएगा।<br><b>Short Trick:</b> Severe pollution -> Health is weakened/put at risk (compromised)."
+    },
+    {
+        "section": "English1",
+        "topic": "Spelling",
+        "difficulty": "Medium",
+        "q_en": "Select the INCORRECTLY spelt word in the paragraph given below.<br><br>The scientist presented a facinating theory regarding the origin of the universe. His colleagues, although skeptical at first, eventually acknowledged the brilliant logic behind his hypothesis.",
+        "q_hi": "Select the INCORRECTLY spelt word in the paragraph given below.<br><br>The scientist presented a facinating theory regarding the origin of the universe. His colleagues, although skeptical at first, eventually acknowledged the brilliant logic behind his hypothesis.",
+        "op_en": [
+            "skeptical",
+            "facinating",
+            "hypothesis",
+            "acknowledged"
+        ],
+        "op_hi": [
+            "skeptical",
+            "facinating",
+            "hypothesis",
+            "acknowledged"
+        ],
+        "ans": 2,
+        "solution": "<b>Solution (EN):</b> The incorrectly spelt word is 'facinating'. The correct spelling is 'fascinating', which means extremely interesting or charming.<br><b>Solution (HI):</b> 'facinating' की वर्तनी गलत है। सही वर्तनी 'fascinating' (आकर्षक या बहुत दिलचस्प) है। अन्य सभी शब्दों की स्पेलिंग सही है।<br><b>Short Trick:</b> Break it down: remember the 'sc' in faSCinating (similar to 'science')."
+    },
+    {
+        "section": "Hindi",
+        "topic": "वाक्यांश के लिए एक शब्द",
+        "difficulty": "Easy",
+        "q_en": "‘जो कभी बूढ़ा न हो’<br>उपरोक्त वाक्यांश के लिए एक सार्थक शब्द चुनें –",
+        "q_hi": "‘जो कभी बूढ़ा न हो’<br>उपरोक्त वाक्यांश के लिए एक सार्थक शब्द चुनें –",
+        "op_en": [
+            "अजर",
+            "अमर",
+            "युवक",
+            "अनादि"
+        ],
+        "op_hi": [
+            "अजर",
+            "अमर",
+            "युवक",
+            "अनादि"
+        ],
+        "ans": 1,
+        "solution": "<b>Solution (HI):</b> 'जो कभी बूढ़ा न हो' के लिए एक सार्थक शब्द 'अजर' है। 'अमर' का अर्थ है जो कभी न मरे।<br><b>Short Trick:</b> जर (बुढ़ापा) से रहित = अजर।"
+    },
+    {
+        "section": "Hindi",
+        "topic": "वाक्य व्यवस्थापन",
+        "difficulty": "Medium",
+        "q_en": "निम्नलिखित वाक्य को क्रम-1 के बाद सही में व्यवस्थित करें<br>1- सफलता प्राप्त<br>2- कठिन परिश्रम<br>3- करने के लिए<br>4- बहुत जरूरी है<br>5- जीवन में",
+        "q_hi": "निम्नलिखित वाक्य को क्रम-1 के बाद सही में व्यवस्थित करें<br>1- सफलता प्राप्त<br>2- कठिन परिश्रम<br>3- करने के लिए<br>4- बहुत जरूरी है<br>5- जीवन में",
+        "op_en": [
+            "1-2-3-4-5",
+            "5-1-3-2-4",
+            "5-2-1-3-4",
+            "1-3-5-2-4"
+        ],
+        "op_hi": [
+            "1-2-3-4-5",
+            "5-1-3-2-4",
+            "5-2-1-3-4",
+            "1-3-5-2-4"
+        ],
+        "ans": 2,
+        "solution": "<b>Solution (HI):</b> सही क्रम '5-1-3-2-4' है। पूरा सार्थक वाक्य बनेगा: 'जीवन में सफलता प्राप्त करने के लिए कठिन परिश्रम बहुत जरूरी है।'<br><b>Short Trick:</b> 'सफलता प्राप्त' के तुरंत बाद 'करने के लिए' (1 के बाद 3) का संबंध स्पष्ट है।"
+    },
+    {
+        "section": "Hindi",
+        "topic": "वाक्य शुद्धि",
+        "difficulty": "Easy",
+        "q_en": "नीचे दिए गए वाक्य के किस भाग में अशुद्धि है –<br>उसे भारी प्यास लगी है।",
+        "q_hi": "नीचे दिए गए वाक्य के किस भाग में अशुद्धि है –<br>उसे भारी प्यास लगी है।",
+        "op_en": [
+            "उसे",
+            "भारी",
+            "प्यास",
+            "लगी है"
+        ],
+        "op_hi": [
+            "उसे",
+            "भारी",
+            "प्यास",
+            "लगी है"
+        ],
+        "ans": 2,
+        "solution": "<b>Solution (HI):</b> 'प्यास' के लिए 'भारी' विशेषण का प्रयोग व्याकरणिक दृष्टि से गलत है। यहाँ 'बहुत' या 'तीव्र' शब्द का प्रयोग होना चाहिए। शुद्ध वाक्य: 'उसे बहुत प्यास लगी है।'<br><b>Short Trick:</b> प्यास 'भारी' (वजनदार) नहीं बल्कि 'बहुत' (मात्रा/तीव्रता) होती है।"
+    },
+    {
+        "section": "Hindi",
+        "topic": "मुहावरे",
+        "difficulty": "Easy",
+        "q_en": "’आसमान सिर पर उठाना’ मुहावरे का उपयुक्त अर्थ क्या है?",
+        "q_hi": "’आसमान सिर पर उठाना’ मुहावरे का उपयुक्त अर्थ क्या है?",
+        "op_en": [
+            "अत्यधिक शोर करना |",
+            "आसमान छूना |",
+            "क्रोधित होना |",
+            "भारी काम करना |"
+        ],
+        "op_hi": [
+            "अत्यधिक शोर करना |",
+            "आसमान छूना |",
+            "क्रोधित होना |",
+            "भारी काम करना |"
+        ],
+        "ans": 1,
+        "solution": "<b>Solution (HI):</b> 'आसमान सिर पर उठाना' मुहावरे का सही अर्थ 'अत्यधिक शोर करना या उपद्रव मचाना' होता है।<br><b>Short Trick:</b> आसमान सिर पर उठाना = बहुत ज्यादा शोर-शराबा करना।"
+    },
+    {
+        "section": "Hindi",
+        "topic": "तार्किक विचार (Odd sentence)",
+        "difficulty": "Medium",
+        "q_en": "निम्न में से अतिरिक्त (बेमेल) वाक्य का चयन करें",
+        "q_hi": "निम्न में से अतिरिक्त (बेमेल) वाक्य का चयन करें",
+        "op_en": [
+            "पेड़ों की कटाई से पर्यावरण को भारी नुकसान हो रहा है।",
+            "उसने कल एक नया मोबाइल खरीदा।",
+            "हमें अधिक से अधिक पेड़ लगाने चाहिए।",
+            "जंगलों का संरक्षण जीवों के लिए अत्यंत आवश्यक है।"
+        ],
+        "op_hi": [
+            "पेड़ों की कटाई से पर्यावरण को भारी नुकसान हो रहा है।",
+            "उसने कल एक नया मोबाइल खरीदा।",
+            "हमें अधिक से अधिक पेड़ लगाने चाहिए।",
+            "जंगलों का संरक्षण जीवों के लिए अत्यंत आवश्यक है।"
+        ],
+        "ans": 2,
+        "solution": "<b>Solution (HI):</b> विकल्प 1, 3 और 4 'पर्यावरण संरक्षण और पेड़ों के महत्व' विषय पर आधारित हैं, जबकि विकल्प 2 'मोबाइल खरीदने' की बात कर रहा है, जो पूरे संदर्भ से बाहर है।<br><b>Short Trick:</b> विषयों का मिलान करें: पर्यावरण (1,3,4) vs मोबाइल (2)।"
+    },
+    {
+        "section": "Hindi",
+        "topic": "मुहावरे",
+        "difficulty": "Medium",
+        "q_en": "निम्नलिखित में से कौन-सा एक मुहावरा-युग्म सुमेलित नहीं है-",
+        "q_hi": "निम्नलिखित में से कौन-सा एक मुहावरा-युग्म सुमेलित नहीं है-",
+        "op_en": [
+            "अक्ल पर पत्थर पड़ना - बुद्धि भ्रष्ट होना",
+            "आँख का तारा - बहुत प्यारा",
+            "कान भरना - पीठ पीछे शिकायत करना",
+            "गागर में सागर भरना - बर्तन में पानी भरना"
+        ],
+        "op_hi": [
+            "अक्ल पर पत्थर पड़ना - बुद्धि भ्रष्ट होना",
+            "आँख का तारा - बहुत प्यारा",
+            "कान भरना - पीठ पीछे शिकायत करना",
+            "गागर में सागर भरना - बर्तन में पानी भरना"
+        ],
+        "ans": 4,
+        "solution": "<b>Solution (HI):</b> 'गागर में सागर भरना' का सही अर्थ 'थोड़े शब्दों में बहुत कुछ कह देना' होता है, न कि 'बर्तन में पानी भरना'। अन्य सभी विकल्प सही सुमेलित हैं।<br><b>Short Trick:</b> गागर में सागर (थोड़े में बहुत) का अर्थ लाक्षणिक होता है, वास्तविक पानी भरना नहीं।"
+    },
+    {
+        "section": "Hindi",
+        "topic": "कारक",
+        "difficulty": "Easy",
+        "q_en": "दिए गए वाक्य के लिए उचित कारक शब्द चुनकर वाक्य पूर्ण करें -<br>पेड़ ______ पत्ते गिरते हैं।",
+        "q_hi": "दिए गए वाक्य के लिए उचित कारक शब्द चुनकर वाक्य पूर्ण करें -<br>पेड़ ______ पत्ते गिरते हैं।",
+        "op_en": [
+            "से",
+            "पर",
+            "में",
+            "को"
+        ],
+        "op_hi": [
+            "से",
+            "पर",
+            "में",
+            "को"
+        ],
+        "ans": 1,
+        "solution": "<b>Solution (HI):</b> जब कोई वस्तु किसी स्थान से अलग होती है (अलगाव का भाव), तो वहाँ 'अपादान कारक' के चिह्न 'से' का प्रयोग होता है। वाक्य: 'पेड़ से पत्ते गिरते हैं।'<br><b>Short Trick:</b> अलग होना (अलगाव) = अपादान कारक (से)।"
+    },
+    {
+        "section": "Hindi",
+        "topic": "कारक",
+        "difficulty": "Easy",
+        "q_en": "निम्नलिखित वाक्य को पूर्ण करने के लिए उचित कारक चिह्न का प्रयोग करें- <br>अध्यापक ___ छात्रों ___ पढ़ाया।",
+        "q_hi": "निम्नलिखित वाक्य को पूर्ण करने के लिए उचित कारक चिह्न का प्रयोग करें- <br>अध्यापक ___ छात्रों ___ पढ़ाया।",
+        "op_en": [
+            "ने, को",
+            "को, ने",
+            "में, पर",
+            "से, को"
+        ],
+        "op_hi": [
+            "ने, को",
+            "को, ने",
+            "में, पर",
+            "से, को"
+        ],
+        "ans": 1,
+        "solution": "<b>Solution (HI):</b> कर्ता (काम करने वाला) के साथ 'ने' और कर्म (जिस पर काम का प्रभाव पड़े) के लिए 'को' का प्रयोग होगा। वाक्य: 'अध्यापक ने छात्रों को पढ़ाया।'<br><b>Short Trick:</b> कर्ता (अध्यापक) + ने, कर्म (छात्रों) + को।"
+    },
+    {
+        "section": "Hindi",
+        "topic": "वाक्य शुद्धि",
+        "difficulty": "Medium",
+        "q_en": "वाक्य विन्यास की दृष्टि से शुद्ध वाक्य का चयन करें -",
+        "q_hi": "वाक्य विन्यास की दृष्टि से शुद्ध वाक्य का चयन करें -",
+        "op_en": [
+            "मेरे को आज बाज़ार जाना है।",
+            "मैंने आज एक सुंदर कविता लिखी।",
+            "पेड़ पर से फल गिर रही है।",
+            "वह अनेकों बार यहाँ आ चुका है।"
+        ],
+        "op_hi": [
+            "मेरे को आज बाज़ार जाना है।",
+            "मैंने आज एक सुंदर कविता लिखी।",
+            "पेड़ पर से फल गिर रही है।",
+            "वह अनेकों बार यहाँ आ चुका है।"
+        ],
+        "ans": 2,
+        "solution": "<b>Solution (HI):</b> विकल्प 2 व्याकरण की दृष्टि से पूर्णतः शुद्ध है। अन्य विकल्पों में अशुद्धियाँ हैं: 'मेरे को' की जगह 'मुझे' होना चाहिए, 'गिर रही है' की जगह 'गिर रहा है' (फल पुल्लिंग है), और 'अनेकों' की जगह 'अनेक' (अनेक स्वयं बहुवचन है) होना चाहिए।<br><b>Short Trick:</b> 'अनेक' हमेशा बहुवचन होता है, इसका 'अनेकों' रूप अशुद्ध है। 'मेरे को/तेरे को' का प्रयोग हिंदी व्याकरण में गलत माना जाता है।"
+    },
+    {
+        "section": "Hindi",
+        "topic": "कारक",
+        "difficulty": "Easy",
+        "q_en": "निम्नलिखित वाक्य को पूर्ण करने के लिए उचित कारक चिह्न का प्रयोग करें- <br>मेज ___ रखी किताब मोहन ___ है।",
+        "q_hi": "निम्नलिखित वाक्य को पूर्ण करने के लिए उचित कारक चिह्न का प्रयोग करें- <br>मेज ___ रखी किताब मोहन ___ है।",
+        "op_en": [
+            "में, को",
+            "पर, की",
+            "से, ने",
+            "पर, में"
+        ],
+        "op_hi": [
+            "में, को",
+            "पर, की",
+            "से, ने",
+            "पर, में"
+        ],
+        "ans": 2,
+        "solution": "<b>Solution (HI):</b> स्थान या आधार (अधिकरण कारक) के लिए 'पर' और संबंध (संबंध कारक) दर्शाने के लिए 'की' का प्रयोग होगा। वाक्य: 'मेज पर रखी किताब मोहन की है।'<br><b>Short Trick:</b> आधार (मेज) + पर, संबंध (मोहन) + की।"
+    },
+    {
+        "section": "Hindi",
+        "topic": "अपठित गद्यांश",
+        "difficulty": "Medium",
+        "q_en": "<b>Comprehension:</b><br>निम्नलिखित गद्यांश को पढ़कर पूछे गए प्रश्नों के उत्तर दीजिए-<br>शिक्षा का वास्तविक उद्देश्य केवल पुस्तकीय ज्ञान प्राप्त करना नहीं है, बल्कि मनुष्य का सर्वांगीण विकास करना है। एक अच्छी शिक्षा व्यक्ति को आत्मनिर्भर, विचारशील और समाज के प्रति जिम्मेदार बनाती है। आज के समय में शिक्षा को केवल नौकरी पाने का साधन मान लिया गया है, जो कि एक संकीर्ण सोच है। शिक्षा के द्वारा मनुष्य अपने भीतर छिपी प्रतिभाओं को पहचानता है और उन्हें निखारता है। यदि शिक्षा में नैतिक मूल्यों का समावेश न हो, तो वह समाज के लिए विनाशकारी भी हो सकती है। एक सुशिक्षित व्यक्ति न केवल अपना, बल्कि अपने परिवार, समाज और देश का विकास करने में सक्षम होता है। इसलिए, शिक्षा व्यवस्था ऐसी होनी चाहिए जो छात्रों में रटने की प्रवृत्ति के बजाय समझने और सोचने की क्षमता विकसित करे।<br><br>शिक्षा का वास्तविक उद्देश्य क्या है?",
+        "q_hi": "<b>Comprehension:</b><br>निम्नलिखित गद्यांश को पढ़कर पूछे गए प्रश्नों के उत्तर दीजिए-<br>शिक्षा का वास्तविक उद्देश्य केवल पुस्तकीय ज्ञान प्राप्त करना नहीं है, बल्कि मनुष्य का सर्वांगीण विकास करना है। एक अच्छी शिक्षा व्यक्ति को आत्मनिर्भर, विचारशील और समाज के प्रति जिम्मेदार बनाती है। आज के समय में शिक्षा को केवल नौकरी पाने का साधन मान लिया गया है, जो कि एक संकीर्ण सोच है। शिक्षा के द्वारा मनुष्य अपने भीतर छिपी प्रतिभाओं को पहचानता है और उन्हें निखारता है। यदि शिक्षा में नैतिक मूल्यों का समावेश न हो, तो वह समाज के लिए विनाशकारी भी हो सकती है। एक सुशिक्षित व्यक्ति न केवल अपना, बल्कि अपने परिवार, समाज और देश का विकास करने में सक्षम होता है। इसलिए, शिक्षा व्यवस्था ऐसी होनी चाहिए जो छात्रों में रटने की प्रवृत्ति के बजाय समझने और सोचने की क्षमता विकसित करे।<br><br>शिक्षा का वास्तविक उद्देश्य क्या है?",
+        "op_en": [
+            "केवल पुस्तकीय ज्ञान प्राप्त करना",
+            "मनुष्य का सर्वांगीण विकास करना",
+            "सिर्फ नौकरी पाना",
+            "समाज में धन कमाना"
+        ],
+        "op_hi": [
+            "केवल पुस्तकीय ज्ञान प्राप्त करना",
+            "मनुष्य का सर्वांगीण विकास करना",
+            "सिर्फ नौकरी पाना",
+            "समाज में धन कमाना"
+        ],
+        "ans": 2,
+        "solution": "<b>Solution (HI):</b> गद्यांश की पहली ही पंक्ति में स्पष्ट किया गया है कि शिक्षा का उद्देश्य 'केवल पुस्तकीय ज्ञान प्राप्त करना नहीं है, बल्कि मनुष्य का सर्वांगीण विकास करना है।'<br><b>Short Trick:</b> पहली पंक्ति पढ़ें: \"बल्कि मनुष्य का सर्वांगीण विकास करना है।\""
+    },
+    {
+        "section": "Hindi",
+        "topic": "अपठित गद्यांश",
+        "difficulty": "Medium",
+        "q_en": "<b>Comprehension:</b><br>निम्नलिखित गद्यांश को पढ़कर पूछे गए प्रश्नों के उत्तर दीजिए-<br>शिक्षा का वास्तविक उद्देश्य केवल पुस्तकीय ज्ञान प्राप्त करना नहीं है, बल्कि मनुष्य का सर्वांगीण विकास करना है। एक अच्छी शिक्षा व्यक्ति को आत्मनिर्भर, विचारशील और समाज के प्रति जिम्मेदार बनाती है। आज के समय में शिक्षा को केवल नौकरी पाने का साधन मान लिया गया है, जो कि एक संकीर्ण सोच है। शिक्षा के द्वारा मनुष्य अपने भीतर छिपी प्रतिभाओं को पहचानता है और उन्हें निखारता है। यदि शिक्षा में नैतिक मूल्यों का समावेश न हो, तो वह समाज के लिए विनाशकारी भी हो सकती है। एक सुशिक्षित व्यक्ति न केवल अपना, बल्कि अपने परिवार, समाज और देश का विकास करने में सक्षम होता है। इसलिए, शिक्षा व्यवस्था ऐसी होनी चाहिए जो छात्रों में रटने की प्रवृत्ति के बजाय समझने और सोचने की क्षमता विकसित करे।<br><br>आज के समय में शिक्षा को लेकर संकीर्ण सोच क्या है?",
+        "q_hi": "<b>Comprehension:</b><br>निम्नलिखित गद्यांश को पढ़कर पूछे गए प्रश्नों के उत्तर दीजिए-<br>शिक्षा का वास्तविक उद्देश्य केवल पुस्तकीय ज्ञान प्राप्त करना नहीं है, बल्कि मनुष्य का सर्वांगीण विकास करना है। एक अच्छी शिक्षा व्यक्ति को आत्मनिर्भर, विचारशील और समाज के प्रति जिम्मेदार बनाती है। आज के समय में शिक्षा को केवल नौकरी पाने का साधन मान लिया गया है, जो कि एक संकीर्ण सोच है। शिक्षा के द्वारा मनुष्य अपने भीतर छिपी प्रतिभाओं को पहचानता है और उन्हें निखारता है। यदि शिक्षा में नैतिक मूल्यों का समावेश न हो, तो वह समाज के लिए विनाशकारी भी हो सकती है। एक सुशिक्षित व्यक्ति न केवल अपना, बल्कि अपने परिवार, समाज और देश का विकास करने में सक्षम होता है। इसलिए, शिक्षा व्यवस्था ऐसी होनी चाहिए जो छात्रों में रटने की प्रवृत्ति के बजाय समझने और सोचने की क्षमता विकसित करे।<br><br>आज के समय में शिक्षा को लेकर संकीर्ण सोच क्या है?",
+        "op_en": [
+            "इसे सर्वांगीण विकास का साधन मानना",
+            "इसे नैतिक मूल्यों से जोड़ना",
+            "इसे केवल नौकरी पाने का साधन मानना",
+            "इसे विचारशील बनाना"
+        ],
+        "op_hi": [
+            "इसे सर्वांगीण विकास का साधन मानना",
+            "इसे नैतिक मूल्यों से जोड़ना",
+            "इसे केवल नौकरी पाने का साधन मानना",
+            "इसे विचारशील बनाना"
+        ],
+        "ans": 3,
+        "solution": "<b>Solution (HI):</b> गद्यांश के अनुसार, शिक्षा को 'केवल नौकरी पाने का साधन मान लिया गया है, जो कि एक संकीर्ण सोच है'।<br><b>Short Trick:</b> सीधे गद्यांश में खोजें 'संकीर्ण सोच' = केवल नौकरी पाने का साधन।"
+    },
+    {
+        "section": "Hindi",
+        "topic": "अपठित गद्यांश",
+        "difficulty": "Medium",
+        "q_en": "<b>Comprehension:</b><br>निम्नलिखित गद्यांश को पढ़कर पूछे गए प्रश्नों के उत्तर दीजिए-<br>शिक्षा का वास्तविक उद्देश्य केवल पुस्तकीय ज्ञान प्राप्त करना नहीं है, बल्कि मनुष्य का सर्वांगीण विकास करना है। एक अच्छी शिक्षा व्यक्ति को आत्मनिर्भर, विचारशील और समाज के प्रति जिम्मेदार बनाती है। आज के समय में शिक्षा को केवल नौकरी पाने का साधन मान लिया गया है, जो कि एक संकीर्ण सोच है। शिक्षा के द्वारा मनुष्य अपने भीतर छिपी प्रतिभाओं को पहचानता है और उन्हें निखारता है। यदि शिक्षा में नैतिक मूल्यों का समावेश न हो, तो वह समाज के लिए विनाशकारी भी हो सकती है। एक सुशिक्षित व्यक्ति न केवल अपना, बल्कि अपने परिवार, समाज और देश का विकास करने में सक्षम होता है। इसलिए, शिक्षा व्यवस्था ऐसी होनी चाहिए जो छात्रों में रटने की प्रवृत्ति के बजाय समझने और सोचने की क्षमता विकसित करे।<br><br>शिक्षा कब समाज के लिए विनाशकारी हो सकती है?",
+        "q_hi": "<b>Comprehension:</b><br>निम्नलिखित गद्यांश को पढ़कर पूछे गए प्रश्नों के उत्तर दीजिए-<br>शिक्षा का वास्तविक उद्देश्य केवल पुस्तकीय ज्ञान प्राप्त करना नहीं है, बल्कि मनुष्य का सर्वांगीण विकास करना है। एक अच्छी शिक्षा व्यक्ति को आत्मनिर्भर, विचारशील और समाज के प्रति जिम्मेदार बनाती है। आज के समय में शिक्षा को केवल नौकरी पाने का साधन मान लिया गया है, जो कि एक संकीर्ण सोच है। शिक्षा के द्वारा मनुष्य अपने भीतर छिपी प्रतिभाओं को पहचानता है और उन्हें निखारता है। यदि शिक्षा में नैतिक मूल्यों का समावेश न हो, तो वह समाज के लिए विनाशकारी भी हो सकती है। एक सुशिक्षित व्यक्ति न केवल अपना, बल्कि अपने परिवार, समाज और देश का विकास करने में सक्षम होता है। इसलिए, शिक्षा व्यवस्था ऐसी होनी चाहिए जो छात्रों में रटने की प्रवृत्ति के बजाय समझने और सोचने की क्षमता विकसित करे।<br><br>शिक्षा कब समाज के लिए विनाशकारी हो सकती है?",
+        "op_en": [
+            "जब वह आत्मनिर्भर बनाए",
+            "जब उसमें नैतिक मूल्यों का समावेश न हो",
+            "जब वह प्रतिभाओं को निखारे",
+            "जब वह पुस्तकीय ज्ञान पर आधारित हो"
+        ],
+        "op_hi": [
+            "जब वह आत्मनिर्भर बनाए",
+            "जब उसमें नैतिक मूल्यों का समावेश न हो",
+            "जब वह प्रतिभाओं को निखारे",
+            "जब वह पुस्तकीय ज्ञान पर आधारित हो"
+        ],
+        "ans": 2,
+        "solution": "<b>Solution (HI):</b> गद्यांश में स्पष्ट उल्लेख है कि 'यदि शिक्षा में नैतिक मूल्यों का समावेश न हो, तो वह समाज के लिए विनाशकारी भी हो सकती है।'<br><b>Short Trick:</b> विनाशकारी का सीधा कारण = नैतिक मूल्यों का अभाव।"
+    },
+    {
+        "section": "Hindi",
+        "topic": "अपठित गद्यांश",
+        "difficulty": "Medium",
+        "q_en": "<b>Comprehension:</b><br>निम्नलिखित गद्यांश को पढ़कर पूछे गए प्रश्नों के उत्तर दीजिए-<br>शिक्षा का वास्तविक उद्देश्य केवल पुस्तकीय ज्ञान प्राप्त करना नहीं है, बल्कि मनुष्य का सर्वांगीण विकास करना है। एक अच्छी शिक्षा व्यक्ति को आत्मनिर्भर, विचारशील और समाज के प्रति जिम्मेदार बनाती है। आज के समय में शिक्षा को केवल नौकरी पाने का साधन मान लिया गया है, जो कि एक संकीर्ण सोच है। शिक्षा के द्वारा मनुष्य अपने भीतर छिपी प्रतिभाओं को पहचानता है और उन्हें निखारता है। यदि शिक्षा में नैतिक मूल्यों का समावेश न हो, तो वह समाज के लिए विनाशकारी भी हो सकती है। एक सुशिक्षित व्यक्ति न केवल अपना, बल्कि अपने परिवार, समाज और देश का विकास करने में सक्षम होता है। इसलिए, शिक्षा व्यवस्था ऐसी होनी चाहिए जो छात्रों में रटने की प्रवृत्ति के बजाय समझने और सोचने की क्षमता विकसित करे।<br><br>एक सुशिक्षित व्यक्ति किसके विकास में सक्षम होता है?",
+        "q_hi": "<b>Comprehension:</b><br>निम्नलिखित गद्यांश को पढ़कर पूछे गए प्रश्नों के उत्तर दीजिए-<br>शिक्षा का वास्तविक उद्देश्य केवल पुस्तकीय ज्ञान प्राप्त करना नहीं है, बल्कि मनुष्य का सर्वांगीण विकास करना है। एक अच्छी शिक्षा व्यक्ति को आत्मनिर्भर, विचारशील और समाज के प्रति जिम्मेदार बनाती है। आज के समय में शिक्षा को केवल नौकरी पाने का साधन मान लिया गया है, जो कि एक संकीर्ण सोच है। शिक्षा के द्वारा मनुष्य अपने भीतर छिपी प्रतिभाओं को पहचानता है और उन्हें निखारता है। यदि शिक्षा में नैतिक मूल्यों का समावेश न हो, तो वह समाज के लिए विनाशकारी भी हो सकती है। एक सुशिक्षित व्यक्ति न केवल अपना, बल्कि अपने परिवार, समाज और देश का विकास करने में सक्षम होता है। इसलिए, शिक्षा व्यवस्था ऐसी होनी चाहिए जो छात्रों में रटने की प्रवृत्ति के बजाय समझने और सोचने की क्षमता विकसित करे।<br><br>एक सुशिक्षित व्यक्ति किसके विकास में सक्षम होता है?",
+        "op_en": [
+            "केवल अपने",
+            "केवल अपने परिवार के",
+            "केवल देश के",
+            "अपना, परिवार, समाज और देश के"
+        ],
+        "op_hi": [
+            "केवल अपने",
+            "केवल अपने परिवार के",
+            "केवल देश के",
+            "अपना, परिवार, समाज और देश के"
+        ],
+        "ans": 4,
+        "solution": "<b>Solution (HI):</b> गद्यांश के अनुसार 'एक सुशिक्षित व्यक्ति न केवल अपना, बल्कि अपने परिवार, समाज और देश का विकास करने में सक्षम होता है।'<br><b>Short Trick:</b> गद्यांश की पंक्ति देखें: अपना, परिवार, समाज और देश।"
+    },
+    {
+        "section": "Hindi",
+        "topic": "अपठित गद्यांश",
+        "difficulty": "Medium",
+        "q_en": "<b>Comprehension:</b><br>निम्नलिखित गद्यांश को पढ़कर पूछे गए प्रश्नों के उत्तर दीजिए-<br>शिक्षा का वास्तविक उद्देश्य केवल पुस्तकीय ज्ञान प्राप्त करना नहीं है, बल्कि मनुष्य का सर्वांगीण विकास करना है। एक अच्छी शिक्षा व्यक्ति को आत्मनिर्भर, विचारशील और समाज के प्रति जिम्मेदार बनाती है। आज के समय में शिक्षा को केवल नौकरी पाने का साधन मान लिया गया है, जो कि एक संकीर्ण सोच है। शिक्षा के द्वारा मनुष्य अपने भीतर छिपी प्रतिभाओं को पहचानता है और उन्हें निखारता है। यदि शिक्षा में नैतिक मूल्यों का समावेश न हो, तो वह समाज के लिए विनाशकारी भी हो सकती है। एक सुशिक्षित व्यक्ति न केवल अपना, बल्कि अपने परिवार, समाज और देश का विकास करने में सक्षम होता है। इसलिए, शिक्षा व्यवस्था ऐसी होनी चाहिए जो छात्रों में रटने की प्रवृत्ति के बजाय समझने और सोचने की क्षमता विकसित करे।<br><br>शिक्षा व्यवस्था में मुख्य रूप से किस क्षमता का विकास होना चाहिए?",
+        "q_hi": "<b>Comprehension:</b><br>निम्नलिखित गद्यांश को पढ़कर पूछे गए प्रश्नों के उत्तर दीजिए-<br>शिक्षा का वास्तविक उद्देश्य केवल पुस्तकीय ज्ञान प्राप्त करना नहीं है, बल्कि मनुष्य का सर्वांगीण विकास करना है। एक अच्छी शिक्षा व्यक्ति को आत्मनिर्भर, विचारशील और समाज के प्रति जिम्मेदार बनाती है। आज के समय में शिक्षा को केवल नौकरी पाने का साधन मान लिया गया है, जो कि एक संकीर्ण सोच है। शिक्षा के द्वारा मनुष्य अपने भीतर छिपी प्रतिभाओं को पहचानता है और उन्हें निखारता है। यदि शिक्षा में नैतिक मूल्यों का समावेश न हो, तो वह समाज के लिए विनाशकारी भी हो सकती है। एक सुशिक्षित व्यक्ति न केवल अपना, बल्कि अपने परिवार, समाज और देश का विकास करने में सक्षम होता है। इसलिए, शिक्षा व्यवस्था ऐसी होनी चाहिए जो छात्रों में रटने की प्रवृत्ति के बजाय समझने और सोचने की क्षमता विकसित करे।<br><br>शिक्षा व्यवस्था में मुख्य रूप से किस क्षमता का विकास होना चाहिए?",
+        "op_en": [
+            "रटने की प्रवृत्ति का",
+            "अधिक से अधिक किताबें पढ़ने का",
+            "समझने और सोचने की क्षमता का",
+            "केवल परीक्षा पास करने का"
+        ],
+        "op_hi": [
+            "रटने की प्रवृत्ति का",
+            "अधिक से अधिक किताबें पढ़ने का",
+            "समझने और सोचने की क्षमता का",
+            "केवल परीक्षा पास करने का"
+        ],
+        "ans": 3,
+        "solution": "<b>Solution (HI):</b> अंतिम पंक्ति के अनुसार शिक्षा व्यवस्था को 'रटने की प्रवृत्ति के बजाय समझने और सोचने की क्षमता' विकसित करनी चाहिए।<br><b>Short Trick:</b> अंतिम वाक्य: 'समझने और सोचने की क्षमता विकसित करे।'"
+    },
+    {
+        "section": "Hindi1",
+        "topic": "अनेकार्थी शब्द",
+        "difficulty": "Easy",
+        "q_en": "निम्नलिखित में से कौन सा एक ‘कर’ का अनेकार्थी शब्द है?",
+        "q_hi": "निम्नलिखित में से कौन सा एक ‘कर’ का अनेकार्थी शब्द है?",
+        "op_en": [
+            "पैर",
+            "हाथ",
+            "कान",
+            "सिर"
+        ],
+        "op_hi": [
+            "पैर",
+            "हाथ",
+            "कान",
+            "सिर"
+        ],
+        "ans": 2,
+        "solution": "<b>Solution (HI):</b> 'कर' के अनेक अर्थ होते हैं, जिनमें 'हाथ', 'टैक्स' (Tax), 'किरण' और 'सूंड' प्रमुख हैं। दिए गए विकल्पों में 'हाथ' सही है।<br><b>Short Trick:</b> 'करबद्ध निवेदन' (हाथ जोड़कर निवेदन) से याद रखें कि 'कर' का अर्थ 'हाथ' होता है।"
+    },
+    {
+        "section": "Hindi1",
+        "topic": "तत्सम-तद्भव",
+        "difficulty": "Easy",
+        "q_en": "'आग' का तत्सम रूप होगा -",
+        "q_hi": "'आग' का तत्सम रूप होगा -",
+        "op_en": [
+            "अर्क",
+            "पावक",
+            "अग्नि",
+            "अनल"
+        ],
+        "op_hi": [
+            "अर्क",
+            "पावक",
+            "अग्नि",
+            "अनल"
+        ],
+        "ans": 3,
+        "solution": "<b>Solution (HI):</b> 'आग' एक तद्भव शब्द है, जिसका संस्कृत (तत्सम) रूप 'अग्नि' होता है। 'पावक' और 'अनल' इसके पर्यायवाची हैं, लेकिन तत्सम रूप 'अग्नि' ही है।<br><b>Short Trick:</b> संस्कृत के मूल शब्द तत्सम कहलाते हैं, जैसे 'अग्नि'।"
+    },
+    {
+        "section": "Hindi1",
+        "topic": "वाक्य शुद्धि",
+        "difficulty": "Medium",
+        "q_en": "निम्नलिखित में से अशुद्ध वाक्य कौन-सा है?",
+        "q_hi": "निम्नलिखित में से अशुद्ध वाक्य कौन-सा है?",
+        "op_en": [
+            "मैंने एक वर्ष तक उनकी प्रतीक्षा देखी।",
+            "वह अपनी बात पर दृढ़ रहा।",
+            "उसने मुझे एक पुस्तक दी।",
+            "हवा ठंडी चल रही है।"
+        ],
+        "op_hi": [
+            "मैंने एक वर्ष तक उनकी प्रतीक्षा देखी।",
+            "वह अपनी बात पर दृढ़ रहा।",
+            "उसने मुझे एक पुस्तक दी।",
+            "हवा ठंडी चल रही है।"
+        ],
+        "ans": 1,
+        "solution": "<b>Solution (HI):</b> पहले वाक्य में 'प्रतीक्षा देखी' का प्रयोग गलत है। सही प्रयोग 'प्रतीक्षा की' होता है। शुद्ध वाक्य: 'मैंने एक वर्ष तक उनकी प्रतीक्षा की।'<br><b>Short Trick:</b> 'प्रतीक्षा' (इंतज़ार) की जाती है, 'देखी' नहीं जाती।"
+    },
+    {
+        "section": "Hindi1",
+        "topic": "विलोम शब्द",
+        "difficulty": "Easy",
+        "q_en": "निम्नलिखित विकल्पों में से <u>उग्र</u> का विलोम शब्द पहचानें।",
+        "q_hi": "निम्नलिखित विकल्पों में से <u>उग्र</u> का विलोम शब्द पहचानें।",
+        "op_en": [
+            "शांत",
+            "कठोर",
+            "भयानक",
+            "क्रूर"
+        ],
+        "op_hi": [
+            "शांत",
+            "कठोर",
+            "भयानक",
+            "क्रूर"
+        ],
+        "ans": 1,
+        "solution": "<b>Solution (HI):</b> 'उग्र' का अर्थ होता है बहुत क्रोधी या तेज़। इसका सटीक विलोम शब्द 'शांत' या 'सौम्य' होता है।<br><b>Short Trick:</b> उग्र (गुस्सैल/तेज़) का उल्टा शांत होता है।"
+    },
+    {
+        "section": "Hindi1",
+        "topic": "पर्यायवाची शब्द",
+        "difficulty": "Medium",
+        "q_en": "निम्न में से ‘अरण्य’ का पर्याय है-",
+        "q_hi": "निम्न में से ‘अरण्य’ का पर्याय है-",
+        "op_en": [
+            "भवन",
+            "कानन",
+            "अंबर",
+            "नीर"
+        ],
+        "op_hi": [
+            "भवन",
+            "कानन",
+            "अंबर",
+            "नीर"
+        ],
+        "ans": 2,
+        "solution": "<b>Solution (HI):</b> ‘अरण्य’ का अर्थ जंगल या वन होता है। ‘कानन’, ‘विपिन’, ‘वन’, ‘कांतार’ इसके प्रमुख पर्यायवाची हैं।<br><b>Short Trick:</b> अरण्य = वन = कानन।"
+    },
+    {
+        "section": "Hindi1",
+        "topic": "रिक्त स्थान (गद्यांश)",
+        "difficulty": "Easy",
+        "q_en": "<b>Comprehension:</b><br>दिए गए गद्यांश में से कुछ शब्द विलोपित किये गए हैं। गद्यांश ध्यानपूर्वक पढ़कर नीचे दिए गए प्रश्नों के उत्तर दीजिए –<br><br>पुस्तकें मानव जीवन की सबसे अच्छी १)__________ हैं। जब मनुष्य अकेला होता है, तो पुस्तकें ही उसका २)__________ करती हैं। इनमें ज्ञान का असीम ३)__________ भरा होता है। एक अच्छी पुस्तक पढ़ने से मस्तिष्क को ४)__________ मिलती है और विचार सकारात्मक होते हैं। इसलिए, हमें हर दिन कुछ समय ५)__________ में जरूर बिताना चाहिए।<br>गद्यांश के रिक्त स्थान (1) के लिए सर्वाधिक उपयुक्त शब्द होगा-",
+        "q_hi": "<b>Comprehension:</b><br>दिए गए गद्यांश में से कुछ शब्द विलोपित किये गए हैं। गद्यांश ध्यानपूर्वक पढ़कर नीचे दिए गए प्रश्नों के उत्तर दीजिए –<br><br>पुस्तकें मानव जीवन की सबसे अच्छी १)__________ हैं। जब मनुष्य अकेला होता है, तो पुस्तकें ही उसका २)__________ करती हैं। इनमें ज्ञान का असीम ३)__________ भरा होता है। एक अच्छी पुस्तक पढ़ने से मस्तिष्क को ४)__________ मिलती है और विचार सकारात्मक होते हैं। इसलिए, हमें हर दिन कुछ समय ५)__________ में जरूर बिताना चाहिए।<br>गद्यांश के रिक्त स्थान (1) के लिए सर्वाधिक उपयुक्त शब्द होगा-",
+        "op_en": [
+            "शत्रु",
+            "मित्र",
+            "बीमारी",
+            "बाधा"
+        ],
+        "op_hi": [
+            "शत्रु",
+            "मित्र",
+            "बीमारी",
+            "बाधा"
+        ],
+        "ans": 2,
+        "solution": "<b>Solution (HI):</b> पुस्तकें इंसान को ज्ञान और प्रेरणा देती हैं, इसलिए उन्हें सबसे अच्छी 'मित्र' (दोस्त) कहा जाता है।<br><b>Short Trick:</b> पुस्तकों से हमेशा फायदा होता है, इसलिए वे हमारी 'मित्र' हैं।"
+    },
+    {
+        "section": "Hindi1",
+        "topic": "रिक्त स्थान (गद्यांश)",
+        "difficulty": "Easy",
+        "q_en": "<b>Comprehension:</b><br>दिए गए गद्यांश में से कुछ शब्द विलोपित किये गए हैं। गद्यांश ध्यानपूर्वक पढ़कर नीचे दिए गए प्रश्नों के उत्तर दीजिए –<br><br>पुस्तकें मानव जीवन की सबसे अच्छी १)__________ हैं। जब मनुष्य अकेला होता है, तो पुस्तकें ही उसका २)__________ करती हैं। इनमें ज्ञान का असीम ३)__________ भरा होता है। एक अच्छी पुस्तक पढ़ने से मस्तिष्क को ४)__________ मिलती है और विचार सकारात्मक होते हैं। इसलिए, हमें हर दिन कुछ समय ५)__________ में जरूर बिताना चाहिए।<br>गद्यांश के रिक्त स्थान (2) के लिए सर्वाधिक उपयुक्त शब्द होगा-",
+        "q_hi": "<b>Comprehension:</b><br>दिए गए गद्यांश में से कुछ शब्द विलोपित किये गए हैं। गद्यांश ध्यानपूर्वक पढ़कर नीचे दिए गए प्रश्नों के उत्तर दीजिए –<br><br>पुस्तकें मानव जीवन की सबसे अच्छी १)__________ हैं। जब मनुष्य अकेला होता है, तो पुस्तकें ही उसका २)__________ करती हैं। इनमें ज्ञान का असीम ३)__________ भरा होता है। एक अच्छी पुस्तक पढ़ने से मस्तिष्क को ४)__________ मिलती है और विचार सकारात्मक होते हैं। इसलिए, हमें हर दिन कुछ समय ५)__________ में जरूर बिताना चाहिए।<br>गद्यांश के रिक्त स्थान (2) के लिए सर्वाधिक उपयुक्त शब्द होगा-",
+        "op_en": [
+            "अपमान",
+            "तिरस्कार",
+            "मार्गदर्शन",
+            "विनाश"
+        ],
+        "op_hi": [
+            "अपमान",
+            "तिरस्कार",
+            "मार्गदर्शन",
+            "विनाश"
+        ],
+        "ans": 3,
+        "solution": "<b>Solution (HI):</b> अकेलेपन में पुस्तकें हमें सही रास्ता दिखाती हैं और प्रेरणा देती हैं, इसलिए 'मार्गदर्शन' सबसे उपयुक्त शब्द है।<br><b>Short Trick:</b> पुस्तकें हमेशा सकारात्मक काम करती हैं, जो कि 'मार्गदर्शन' करना है।"
+    },
+    {
+        "section": "Hindi1",
+        "topic": "रिक्त स्थान (गद्यांश)",
+        "difficulty": "Easy",
+        "q_en": "<b>Comprehension:</b><br>दिए गए गद्यांश में से कुछ शब्द विलोपित किये गए हैं। गद्यांश ध्यानपूर्वक पढ़कर नीचे दिए गए प्रश्नों के उत्तर दीजिए –<br><br>पुस्तकें मानव जीवन की सबसे अच्छी १)__________ हैं। जब मनुष्य अकेला होता है, तो पुस्तकें ही उसका २)__________ करती हैं। इनमें ज्ञान का असीम ३)__________ भरा होता है। एक अच्छी पुस्तक पढ़ने से मस्तिष्क को ४)__________ मिलती है और विचार सकारात्मक होते हैं। इसलिए, हमें हर दिन कुछ समय ५)__________ में जरूर बिताना चाहिए।<br>गद्यांश के रिक्त स्थान (3) के लिए सर्वाधिक उपयुक्त शब्द होगा-",
+        "q_hi": "<b>Comprehension:</b><br>दिए गए गद्यांश में से कुछ शब्द विलोपित किये गए हैं। गद्यांश ध्यानपूर्वक पढ़कर नीचे दिए गए प्रश्नों के उत्तर दीजिए –<br><br>पुस्तकें मानव जीवन की सबसे अच्छी १)__________ हैं। जब मनुष्य अकेला होता है, तो पुस्तकें ही उसका २)__________ करती हैं। इनमें ज्ञान का असीम ३)__________ भरा होता है। एक अच्छी पुस्तक पढ़ने से मस्तिष्क को ४)__________ मिलती है और विचार सकारात्मक होते हैं। इसलिए, हमें हर दिन कुछ समय ५)__________ में जरूर बिताना चाहिए।<br>गद्यांश के रिक्त स्थान (3) के लिए सर्वाधिक उपयुक्त शब्द होगा-",
+        "op_en": [
+            "भंडार",
+            "कचरा",
+            "अभाव",
+            "संकट"
+        ],
+        "op_hi": [
+            "भंडार",
+            "कचरा",
+            "अभाव",
+            "संकट"
+        ],
+        "ans": 1,
+        "solution": "<b>Solution (HI):</b> पुस्तकों में बहुत सारा ज्ञान संचित होता है, जिसके लिए 'भंडार' शब्द का प्रयोग किया जाता है।<br><b>Short Trick:</b> बहुत अधिक मात्रा में संचित (इकट्ठा) ज्ञान को 'भंडार' कहते हैं।"
+    },
+    {
+        "section": "Hindi1",
+        "topic": "रिक्त स्थान (गद्यांश)",
+        "difficulty": "Easy",
+        "q_en": "<b>Comprehension:</b><br>दिए गए गद्यांश में से कुछ शब्द विलोपित किये गए हैं। गद्यांश ध्यानपूर्वक पढ़कर नीचे दिए गए प्रश्नों के उत्तर दीजिए –<br><br>पुस्तकें मानव जीवन की सबसे अच्छी १)__________ हैं। जब मनुष्य अकेला होता है, तो पुस्तकें ही उसका २)__________ करती हैं। इनमें ज्ञान का असीम ३)__________ भरा होता है। एक अच्छी पुस्तक पढ़ने से मस्तिष्क को ४)__________ मिलती है और विचार सकारात्मक होते हैं। इसलिए, हमें हर दिन कुछ समय ५)__________ में जरूर बिताना चाहिए।<br>गद्यांश के रिक्त स्थान (4) के लिए सर्वाधिक उपयुक्त शब्द होगा-",
+        "q_hi": "<b>Comprehension:</b><br>दिए गए गद्यांश में से कुछ शब्द विलोपित किये गए हैं। गद्यांश ध्यानपूर्वक पढ़कर नीचे दिए गए प्रश्नों के उत्तर दीजिए –<br><br>पुस्तकें मानव जीवन की सबसे अच्छी १)__________ हैं। जब मनुष्य अकेला होता है, तो पुस्तकें ही उसका २)__________ करती हैं। इनमें ज्ञान का असीम ३)__________ भरा होता है। एक अच्छी पुस्तक पढ़ने से मस्तिष्क को ४)__________ मिलती है और विचार सकारात्मक होते हैं। इसलिए, हमें हर दिन कुछ समय ५)__________ में जरूर बिताना चाहिए।<br>गद्यांश के रिक्त स्थान (4) के लिए सर्वाधिक उपयुक्त शब्द होगा-",
+        "op_en": [
+            "थकान",
+            "शांति",
+            "उलझन",
+            "निराशा"
+        ],
+        "op_hi": [
+            "थकान",
+            "शांति",
+            "उलझन",
+            "निराशा"
+        ],
+        "ans": 2,
+        "solution": "<b>Solution (HI):</b> अच्छी किताब पढ़ने से मन के विचार शुद्ध होते हैं और मस्तिष्क को 'शांति' मिलती है। अन्य विकल्प नकारात्मक हैं।<br><b>Short Trick:</b> सकारात्मक कार्य (पढ़ने) से मस्तिष्क को 'शांति' प्राप्त होती है।"
+    },
+    {
+        "section": "Hindi1",
+        "topic": "रिक्त स्थान (गद्यांश)",
+        "difficulty": "Easy",
+        "q_en": "<b>Comprehension:</b><br>दिए गए गद्यांश में से कुछ शब्द विलोपित किये गए हैं। गद्यांश ध्यानपूर्वक पढ़कर नीचे दिए गए प्रश्नों के उत्तर दीजिए –<br><br>पुस्तकें मानव जीवन की सबसे अच्छी १)__________ हैं। जब मनुष्य अकेला होता है, तो पुस्तकें ही उसका २)__________ करती हैं। इनमें ज्ञान का असीम ३)__________ भरा होता है। एक अच्छी पुस्तक पढ़ने से मस्तिष्क को ४)__________ मिलती है और विचार सकारात्मक होते हैं। इसलिए, हमें हर दिन कुछ समय ५)__________ में जरूर बिताना चाहिए।<br>गद्यांश के रिक्त स्थान (5) के लिए सर्वाधिक उपयुक्त शब्द होगा-",
+        "q_hi": "<b>Comprehension:</b><br>दिए गए गद्यांश में से कुछ शब्द विलोपित किये गए हैं। गद्यांश ध्यानपूर्वक पढ़कर नीचे दिए गए प्रश्नों के उत्तर दीजिए –<br><br>पुस्तकें मानव जीवन की सबसे अच्छी १)__________ हैं। जब मनुष्य अकेला होता है, तो पुस्तकें ही उसका २)__________ करती हैं। इनमें ज्ञान का असीम ३)__________ भरा होता है। एक अच्छी पुस्तक पढ़ने से मस्तिष्क को ४)__________ मिलती है और विचार सकारात्मक होते हैं। इसलिए, हमें हर दिन कुछ समय ५)__________ में जरूर बिताना चाहिए।<br>गद्यांश के रिक्त स्थान (5) के लिए सर्वाधिक उपयुक्त शब्द होगा-",
+        "op_en": [
+            "सोने",
+            "लड़ने",
+            "खेलने",
+            "अध्ययन"
+        ],
+        "op_hi": [
+            "सोने",
+            "लड़ने",
+            "खेलने",
+            "अध्ययन"
+        ],
+        "ans": 4,
+        "solution": "<b>Solution (HI):</b> चूँकि पूरा गद्यांश पुस्तकों के महत्व पर आधारित है, इसलिए समय बिताने का सबसे सही तरीका उन्हें पढ़ना या 'अध्ययन' करना है।<br><b>Short Trick:</b> पुस्तकों का संबंध सीधा 'अध्ययन' (पढ़ने) से होता है।"
+    },
+    {
+        "section": "General Knowledge Including Current Affairs",
+        "topic": "National Income",
+        "difficulty": "Medium",
+        "q_en": "Gross National Product (GNP) is calculated by adding which of the following to the Gross Domestic Product (GDP)?",
+        "q_hi": "सकल घरेलू उत्पाद (GDP) में निम्नलिखित में से किसे जोड़कर सकल राष्ट्रीय उत्पाद (GNP) की गणना की जाती है?",
+        "op_en": [
+            "Depreciation",
+            "Net factor income from abroad",
+            "Subsidies",
+            "Indirect Taxes"
+        ],
+        "op_hi": [
+            "मूल्यह्रास (Depreciation)",
+            "विदेशों से प्राप्त निवल कारक आय",
+            "सब्सिडी (Subsidies)",
+            "अप्रत्यक्ष कर (Indirect Taxes)"
+        ],
+        "ans": 2,
+        "solution": "<b>Solution (EN):</b> Gross National Product (GNP) is the total value of all finished goods and services produced by a country's citizens in a given financial year. It is calculated as GDP plus net factor income from abroad.<br><b>Solution (HI):</b> सकल राष्ट्रीय उत्पाद (GNP) एक वित्तीय वर्ष में किसी देश के नागरिकों द्वारा उत्पादित सभी तैयार वस्तुओं और सेवाओं का कुल मूल्य है। इसकी गणना GDP में 'विदेशों से प्राप्त निवल कारक आय' जोड़कर की जाती है।<br><b>Short Trick:</b> GNP = GDP + NFIA (Net Factor Income from Abroad)."
+    },
+    {
+        "section": "General Knowledge Including Current Affairs",
+        "topic": "Current Affairs - International",
+        "difficulty": "Medium",
+        "q_en": "In May 2026, India signed an agreement with which country to store 30 million barrels of crude oil in India's Strategic Petroleum Reserve?",
+        "q_hi": "मई 2026 में, भारत ने किस देश के साथ भारत के रणनीतिक पेट्रोलियम रिजर्व में 30 मिलियन बैरल कच्चे तेल के भंडारण के लिए एक समझौते पर हस्ताक्षर किए?",
+        "op_en": [
+            "Russia",
+            "Saudi Arabia",
+            "United Arab Emirates (UAE)",
+            "Iran"
+        ],
+        "op_hi": [
+            "रूस",
+            "सऊदी अरब",
+            "संयुक्त अरब अमीरात (UAE)",
+            "ईरान"
+        ],
+        "ans": 3,
+        "solution": "<b>Solution (EN):</b> India and the United Arab Emirates (UAE) agreed in May 2026 to expand energy cooperation through a 30 million barrel crude oil storage deal in India's Strategic Petroleum Reserve.<br><b>Solution (HI):</b> भारत और संयुक्त अरब अमीरात (UAE) ने मई 2026 में भारत के रणनीतिक पेट्रोलियम रिजर्व में 30 मिलियन बैरल कच्चे तेल के भंडारण सौदे के माध्यम से ऊर्जा सहयोग का विस्तार करने पर सहमति व्यक्त की।<br><b>Short Trick:</b> 30 Million Barrel Oil Deal 2026 = UAE."
+    },
+    {
+        "section": "General Knowledge Including Current Affairs",
+        "topic": "Static GK - Infrastructure",
+        "difficulty": "Easy",
+        "q_en": "Which of the following is the longest sea bridge in India, connecting Mumbai to Navi Mumbai?",
+        "q_hi": "निम्नलिखित में से कौन-सा भारत का सबसे लंबा समुद्री पुल है, जो मुंबई को नवी मुंबई से जोड़ता है?",
+        "op_en": [
+            "Bandra-Worli Sea Link",
+            "Atal Setu (MTHL)",
+            "Pamban Bridge",
+            "Bogibeel Bridge"
+        ],
+        "op_hi": [
+            "बांद्रा-वर्ली सी लिंक",
+            "अटल सेतु (MTHL)",
+            "पंबन ब्रिज",
+            "बोगीबील ब्रिज"
+        ],
+        "ans": 2,
+        "solution": "<b>Solution (EN):</b> The Atal Bihari Vajpayee Sewri-Nhava Sheva Atal Setu, also known as the Mumbai Trans Harbour Link (MTHL), is the longest sea bridge in India with a length of 21.8 km.<br><b>Solution (HI):</b> अटल बिहारी वाजपेयी शिवड़ी-न्हावा शेवा अटल सेतु, जिसे मुंबई ट्रांस हार्बर लिंक (MTHL) भी कहा जाता है, 21.8 किमी की लंबाई के साथ भारत का सबसे लंबा समुद्री पुल है।<br><b>Short Trick:</b> Longest Sea Bridge = Atal Setu (Mumbai)."
+    },
+    {
+        "section": "General Knowledge Including Current Affairs",
+        "topic": "Current Affairs - S&T",
+        "difficulty": "Medium",
+        "q_en": "In 2026, which Indian company announced the manufacturing of 'Kaal Bhairava', India's first AI-powered MALE combat aircraft?",
+        "q_hi": "2026 में, किस भारतीय कंपनी ने भारत के पहले AI-संचालित MALE लड़ाकू विमान 'काल भैरव' के निर्माण की घोषणा की?",
+        "op_en": [
+            "Hindustan Aeronautics Limited (HAL)",
+            "Flying Wedge Defence",
+            "Tata Advanced Systems",
+            "Mahindra Aerospace"
+        ],
+        "op_hi": [
+            "हिंदुस्तान एयरोनॉटिक्स लिमिटेड (HAL)",
+            "फ्लाइंग वेज डिफेंस",
+            "टाटा एडवांस्ड सिस्टम्स",
+            "महिंद्रा एयरोस्पेस"
+        ],
+        "ans": 2,
+        "solution": "<b>Solution (EN):</b> Flying Wedge Defence & Aerospace announced the manufacturing of 'Kaal Bhairava', which is India's first Artificial Intelligence-powered MALE (Medium Altitude Long Endurance) autonomous combat aircraft.<br><b>Solution (HI):</b> फ्लाइंग वेज डिफेंस एंड एयरोस्पेस ने 'काल भैरव' के निर्माण की घोषणा की, जो भारत का पहला आर्टिफिशियल इंटेलिजेंस-संचालित MALE (मीडियम एल्टीट्यूड लॉन्ग एंड्योरेंस) ऑटोनॉमस लड़ाकू विमान है।<br><b>Short Trick:</b> AI Aircraft 'Kaal Bhairava' = Flying Wedge Defence."
+    },
+    {
+        "section": "General Knowledge Including Current Affairs",
+        "topic": "Modern History",
+        "difficulty": "Easy",
+        "q_en": "In which year did the Indian National Congress split into two groups—the Moderates and the Extremists—at the Surat session?",
+        "q_hi": "सूरत अधिवेशन में भारतीय राष्ट्रीय कांग्रेस किस वर्ष दो समूहों—नरम दल और गरम दल—में विभाजित हो गई थी?",
+        "op_en": [
+            "1905",
+            "1906",
+            "1907",
+            "1909"
+        ],
+        "op_hi": [
+            "1905",
+            "1906",
+            "1907",
+            "1909"
+        ],
+        "ans": 3,
+        "solution": "<b>Solution (EN):</b> The Indian National Congress split into Moderates and Extremists during its Surat Session in 1907. This event is historically known as the 'Surat Split'.<br><b>Solution (HI):</b> 1907 में अपने सूरत अधिवेशन के दौरान भारतीय राष्ट्रीय कांग्रेस नरम दल और गरम दल में विभाजित हो गई। इस घटना को ऐतिहासिक रूप से 'सूरत विभाजन' के रूप में जाना जाता है।<br><b>Short Trick:</b> Surat Split (सूरत विभाजन) = 1907."
+    },
+    {
+        "section": "General Knowledge Including Current Affairs",
+        "topic": "Indian Geography",
+        "difficulty": "Easy",
+        "q_en": "Wular Lake, one of the largest freshwater lakes in Asia, is located in which state/union territory of India?",
+        "q_hi": "एशिया की सबसे बड़ी मीठे पानी की झीलों में से एक, वुलर झील, भारत के किस राज्य/केंद्र शासित प्रदेश में स्थित है?",
+        "op_en": [
+            "Uttarakhand",
+            "Himachal Pradesh",
+            "Jammu and Kashmir",
+            "Sikkim"
+        ],
+        "op_hi": [
+            "उत्तराखंड",
+            "हिमाचल प्रदेश",
+            "जम्मू और कश्मीर",
+            "सिक्किम"
+        ],
+        "ans": 3,
+        "solution": "<b>Solution (EN):</b> Wular Lake is located in the Bandipora district of Jammu and Kashmir. It is one of the largest freshwater lakes in Asia, fed by the Jhelum River.<br><b>Solution (HI):</b> वुलर झील जम्मू और कश्मीर के बांदीपोरा जिले में स्थित है। यह एशिया की सबसे बड़ी मीठे पानी की झीलों में से एक है, जिसमें झेलम नदी का पानी आता है।<br><b>Short Trick:</b> Wular Lake = Freshwater = Jammu & Kashmir."
+    },
+    {
+        "section": "General Knowledge Including Current Affairs",
+        "topic": "Vegetation",
+        "difficulty": "Easy",
+        "q_en": "The 'Sundari' trees, after which the Sundarbans region is named, belong to which type of vegetation?",
+        "q_hi": "सुंदरी के पेड़ (Sundari trees), जिनके नाम पर सुंदरबन क्षेत्र का नाम रखा गया है, किस प्रकार की वनस्पति से संबंधित हैं?",
+        "op_en": [
+            "Tropical Evergreen Forests",
+            "Mangrove Forests",
+            "Alpine Forests",
+            "Tropical Deciduous Forests"
+        ],
+        "op_hi": [
+            "उष्णकटिबंधीय सदाबहार वन",
+            "मैंग्रोव वन",
+            "अल्पाइन वन",
+            "उष्णकटिबंधीय पर्णपाती वन"
+        ],
+        "ans": 2,
+        "solution": "<b>Solution (EN):</b> The Sundari tree (Heritiera fomes) is a dominant mangrove tree species of the Sundarbans. Mangrove forests thrive in coastal saline or brackish water.<br><b>Solution (HI):</b> सुंदरी का पेड़ (Heritiera fomes) सुंदरबन की एक प्रमुख मैंग्रोव वृक्ष प्रजाति है। मैंग्रोव वन तटीय खारे पानी या दलदली क्षेत्रों में पनपते हैं।<br><b>Short Trick:</b> Sundarbans = Sundari Trees = Mangrove Forests."
+    },
+    {
+        "section": "General Knowledge Including Current Affairs",
+        "topic": "Economics - Banking",
+        "difficulty": "Easy",
+        "q_en": "The minimum percentage of total deposits that a commercial bank is required to keep as cash reserves with the RBI is known as:",
+        "q_hi": "कुल जमा राशि का वह न्यूनतम प्रतिशत जिसे एक वाणिज्यिक बैंक को नकद भंडार के रूप में RBI के पास रखना अनिवार्य होता है, क्या कहलाता है?",
+        "op_en": [
+            "Statutory Liquidity Ratio (SLR)",
+            "Bank Rate",
+            "Cash Reserve Ratio (CRR)",
+            "Repo Rate"
+        ],
+        "op_hi": [
+            "वैधानिक तरलता अनुपात (SLR)",
+            "बैंक दर (Bank Rate)",
+            "नकद आरक्षित अनुपात (CRR)",
+            "रेपो दर (Repo Rate)"
+        ],
+        "ans": 3,
+        "solution": "<b>Solution (EN):</b> Cash Reserve Ratio (CRR) is the specified minimum fraction of the total deposits of customers, which commercial banks have to hold as reserves either in cash or as deposits with the central bank (RBI).<br><b>Solution (HI):</b> नकद आरक्षित अनुपात (CRR) ग्राहकों की कुल जमा राशि का वह निर्दिष्ट न्यूनतम हिस्सा है, जिसे वाणिज्यिक बैंकों को नकद के रूप में या केंद्रीय बैंक (RBI) के पास जमा के रूप में आरक्षित रखना होता है।<br><b>Short Trick:</b> Cash kept with RBI = CRR."
+    },
+    {
+        "section": "General Knowledge Including Current Affairs",
+        "topic": "Current Affairs - Defense",
+        "difficulty": "Medium",
+        "q_en": "Where is the Indian Defence Conclave (IDC) 2026, focusing on future defense technologies like AI and cybersecurity, scheduled to be held?",
+        "q_hi": "AI और साइबर सुरक्षा जैसी भविष्य की रक्षा प्रौद्योगिकियों पर केंद्रित 'इंडियन डिफेंस कॉन्क्लेव (IDC) 2026' कहाँ आयोजित होने वाला है?",
+        "op_en": [
+            "Bengaluru",
+            "Hyderabad",
+            "New Delhi",
+            "Pune"
+        ],
+        "op_hi": [
+            "बेंगलुरु",
+            "हैदराबाद",
+            "नई दिल्ली",
+            "पुणे"
+        ],
+        "ans": 3,
+        "solution": "<b>Solution (EN):</b> The Indian Defence Conclave (IDC) 2026, aimed at exploring cutting-edge advancements like AI, cybersecurity, and autonomous systems in defense, is scheduled to be held in New Delhi in late 2026.<br><b>Solution (HI):</b> रक्षा में AI, साइबर सुरक्षा और स्वायत्त प्रणालियों जैसी अत्याधुनिक प्रगति की खोज के उद्देश्य से भारतीय रक्षा कॉन्क्लेव (IDC) 2026 नई दिल्ली में आयोजित होने वाला है।<br><b>Short Trick:</b> Indian Defence Conclave 2026 = New Delhi."
+    },
+    {
+        "section": "General Knowledge Including Current Affairs",
+        "topic": "Static GK - Architecture",
+        "difficulty": "Easy",
+        "q_en": "Who among the following was the chief British architect responsible for designing the city of New Delhi?",
+        "q_hi": "निम्नलिखित में से कौन नई दिल्ली शहर को डिजाइन करने के लिए जिम्मेदार मुख्य ब्रिटिश वास्तुकार था?",
+        "op_en": [
+            "Le Corbusier",
+            "Sir Edwin Lutyens",
+            "FW Stevens",
+            "Laurie Baker"
+        ],
+        "op_hi": [
+            "ले कोर्बुसिएर",
+            "सर एडविन लुटियंस",
+            "एफडब्ल्यू स्टीवंस",
+            "लॉरी बेकर"
+        ],
+        "ans": 2,
+        "solution": "<b>Solution (EN):</b> Sir Edwin Lutyens, along with Herbert Baker, was the principal architect who designed New Delhi, including the Rashtrapati Bhavan and India Gate.<br><b>Solution (HI):</b> सर एडविन लुटियंस, हर्बर्ट बेकर के साथ, प्रमुख वास्तुकार थे जिन्होंने राष्ट्रपति भवन और इंडिया गेट सहित नई दिल्ली का डिजाइन तैयार किया था।<br><b>Short Trick:</b> Lutyens' Delhi = Sir Edwin Lutyens."
+    },
+    {
+        "section": "General Knowledge Including Current Affairs",
+        "topic": "Static GK - Architecture",
+        "difficulty": "Medium",
+        "q_en": "The famous Lotus Temple in New Delhi is a prominent House of Worship for which religion?",
+        "q_hi": "नई दिल्ली में स्थित प्रसिद्ध 'लोटस टेम्पल' (Lotus Temple) किस धर्म का एक प्रमुख उपासना स्थल है?",
+        "op_en": [
+            "Jainism",
+            "Buddhism",
+            "Bahá'í Faith",
+            "Zoroastrianism"
+        ],
+        "op_hi": [
+            "जैन धर्म",
+            "बौद्ध धर्म",
+            "बहाई धर्म (Bahá'í Faith)",
+            "पारसी धर्म"
+        ],
+        "ans": 3,
+        "solution": "<b>Solution (EN):</b> The Lotus Temple, notable for its flowerlike shape, is a Bahá'í House of Worship. It is open to all, regardless of religion or any other qualification.<br><b>Solution (HI):</b> लोटस टेम्पल, जो अपने फूल के आकार के लिए जाना जाता है, एक बहाई उपासना स्थल है। यह धर्म या किसी अन्य योग्यता की परवाह किए बिना सभी के लिए खुला है।<br><b>Short Trick:</b> Lotus Temple = Bahá'í Faith."
+    },
+    {
+        "section": "General Knowledge Including Current Affairs",
+        "topic": "Medieval History",
+        "difficulty": "Medium",
+        "q_en": "Who authored the 'Ain-i-Akbari', a detailed document recording the administration of the Mughal Empire under Emperor Akbar?",
+        "q_hi": "सम्राट अकबर के अधीन मुगल साम्राज्य के प्रशासन को दर्ज करने वाले विस्तृत दस्तावेज़ 'आइन-ए-अकबरी' (Ain-i-Akbari) के लेखक कौन थे?",
+        "op_en": [
+            "Abdul Hamid Lahori",
+            "Gulbadan Begum",
+            "Abu'l-Fazl",
+            "Ziauddin Barani"
+        ],
+        "op_hi": [
+            "अब्दुल हमीद लाहौरी",
+            "गुलबदन बेगम",
+            "अबुल फजल (Abu'l-Fazl)",
+            "ज़ियाउद्दीन बरनी"
+        ],
+        "ans": 3,
+        "solution": "<b>Solution (EN):</b> Ain-i-Akbari is a 16th-century detailed document recording the administration of the Mughal Empire under Emperor Akbar, written by his court historian, Abu'l-Fazl.<br><b>Solution (HI):</b> आइन-ए-अकबरी 16वीं सदी का एक विस्तृत दस्तावेज़ है जो सम्राट अकबर के अधीन मुगल साम्राज्य के प्रशासन को दर्ज करता है। इसे उनके दरबारी इतिहासकार अबुल फजल ने लिखा था।<br><b>Short Trick:</b> Akbar's administration = Ain-i-Akbari = Abu'l-Fazl."
+    },
+    {
+        "section": "General Knowledge Including Current Affairs",
+        "topic": "Current Affairs - Banking & Fintech",
+        "difficulty": "Medium",
+        "q_en": "In May 2026, CTBC Bank officially became the first bank from which country to inaugurate a physical branch at GIFT City, Gujarat?",
+        "q_hi": "मई 2026 में, CTBC बैंक गुजरात के गिफ्ट (GIFT) सिटी में भौतिक शाखा का उद्घाटन करने वाला किस देश का पहला बैंक बन गया?",
+        "op_en": [
+            "Singapore",
+            "Japan",
+            "Taiwan",
+            "South Korea"
+        ],
+        "op_hi": [
+            "सिंगापुर",
+            "जापान",
+            "ताइवान",
+            "दक्षिण कोरिया"
+        ],
+        "ans": 3,
+        "solution": "<b>Solution (EN):</b> On May 13, 2026, CTBC Bank became the first Taiwanese bank to inaugurate a branch at GIFT City, Gujarat, marking it as the only bank from Taiwan with a physical branch in India.<br><b>Solution (HI):</b> 13 मई 2026 को, CTBC बैंक गुजरात के गिफ्ट सिटी में शाखा का उद्घाटन करने वाला पहला ताइवानी बैंक बन गया। यह भारत में भौतिक शाखा वाला ताइवान का एकमात्र बैंक है।<br><b>Short Trick:</b> CTBC Bank in GIFT City = Taiwan."
+    },
+    {
+        "section": "General Knowledge Including Current Affairs",
+        "topic": "Modern History",
+        "difficulty": "Easy",
+        "q_en": "The tragic Jallianwala Bagh massacre took place in Amritsar on 13th April of which year?",
+        "q_hi": "अमृतसर में दुखद जलियांवाला बाग हत्याकांड 13 अप्रैल को किस वर्ष हुआ था?",
+        "op_en": [
+            "1917",
+            "1919",
+            "1921",
+            "1922"
+        ],
+        "op_hi": [
+            "1917",
+            "1919",
+            "1921",
+            "1922"
+        ],
+        "ans": 2,
+        "solution": "<b>Solution (EN):</b> The Jallianwala Bagh massacre occurred on Baisakhi day, April 13, 1919, when British troops fired on a large crowd of unarmed Indians in Amritsar.<br><b>Solution (HI):</b> जलियांवाला बाग हत्याकांड बैसाखी के दिन, 13 अप्रैल 1919 को हुआ था, जब ब्रिटिश सैनिकों ने अमृतसर में निहत्थे भारतीयों की एक बड़ी भीड़ पर गोलियां चलाई थीं।<br><b>Short Trick:</b> Jallianwala Bagh = 13 April 1919."
+    },
+    {
+        "section": "General Knowledge Including Current Affairs",
+        "topic": "Geography - Agriculture",
+        "difficulty": "Medium",
+        "q_en": "Crops like watermelon, muskmelon, and cucumber, which are grown in the short summer season between Rabi and Kharif, are known as:",
+        "q_hi": "रबी और खरीफ के बीच छोटे गर्मी के मौसम में उगाई जाने वाली तरबूज, खरबूजा और ककड़ी जैसी फसलों को क्या कहा जाता है?",
+        "op_en": [
+            "Cash crops",
+            "Plantation crops",
+            "Zaid crops",
+            "Food crops"
+        ],
+        "op_hi": [
+            "नकदी फसलें",
+            "बागानी फसलें",
+            "ज़ायद फसलें (Zaid crops)",
+            "खाद्य फसलें"
+        ],
+        "ans": 3,
+        "solution": "<b>Solution (EN):</b> Zaid crops are summer season crops grown mainly from March to June between the Rabi and Kharif crop seasons. Examples include watermelon, muskmelon, cucumber, and bitter gourd.<br><b>Solution (HI):</b> ज़ायद फसलें गर्मी के मौसम की फसलें हैं जो मुख्य रूप से मार्च से जून तक रबी और खरीफ फसल के मौसम के बीच उगाई जाती हैं। उदाहरणों में तरबूज, खरबूजा, ककड़ी और करेला शामिल हैं।<br><b>Short Trick:</b> Summer short season = Zaid (watermelon, cucumber)."
+    },
+    {
+        "section": "General Knowledge Including Current Affairs1",
+        "topic": "Indian Constitution - Judiciary",
+        "difficulty": "Medium",
+        "q_en": "Which article of the Indian Constitution grants the Supreme Court the power to review its own judgments?",
+        "q_hi": "भारतीय संविधान का कौन-सा अनुच्छेद सर्वोच्च न्यायालय को अपने स्वयं के निर्णयों की समीक्षा करने की शक्ति प्रदान करता है?",
+        "op_en": [
+            "Article 137",
+            "Article 143",
+            "Article 124",
+            "Article 131"
+        ],
+        "op_hi": [
+            "अनुच्छेद 137",
+            "अनुच्छेद 143",
+            "अनुच्छेद 124",
+            "अनुच्छेद 131"
+        ],
+        "ans": 1,
+        "solution": "<b>Solution (EN):</b> Article 137 of the Constitution grants the Supreme Court the power to review any judgment pronounced or order made by it.<br><b>Solution (HI):</b> संविधान का अनुच्छेद 137 सर्वोच्च न्यायालय को उसके द्वारा सुनाए गए किसी भी निर्णय या दिए गए आदेश की समीक्षा (Review) करने की शक्ति प्रदान करता है।<br><b>Short Trick:</b> Review Judgment = Article 137."
+    },
+    {
+        "section": "General Knowledge Including Current Affairs1",
+        "topic": "Indian Constitution - Judiciary",
+        "difficulty": "Medium",
+        "q_en": "Which article of the Indian Constitution deals with the appointment of District Judges?",
+        "q_hi": "भारतीय संविधान का कौन-सा अनुच्छेद जिला न्यायाधीशों की नियुक्ति से संबंधित है?",
+        "op_en": [
+            "Article 233",
+            "Article 226",
+            "Article 214",
+            "Article 227"
+        ],
+        "op_hi": [
+            "अनुच्छेद 233",
+            "अनुच्छेद 226",
+            "अनुच्छेद 214",
+            "अनुच्छेद 227"
+        ],
+        "ans": 1,
+        "solution": "<b>Solution (EN):</b> Article 233 of the Indian Constitution deals with the appointment of District Judges in any State by the Governor in consultation with the High Court.<br><b>Solution (HI):</b> भारतीय संविधान का अनुच्छेद 233 किसी भी राज्य में उच्च न्यायालय के परामर्श से राज्यपाल द्वारा जिला न्यायाधीशों की नियुक्ति से संबंधित है।<br><b>Short Trick:</b> District Judges Appointment = Article 233."
+    },
+    {
+        "section": "General Knowledge Including Current Affairs1",
+        "topic": "Modern History",
+        "difficulty": "Easy",
+        "q_en": "Under which act was the Supreme Court established at Calcutta?",
+        "q_hi": "कलकत्ता में सर्वोच्च न्यायालय की स्थापना किस अधिनियम के तहत की गई थी?",
+        "op_en": [
+            "Regulating Act of 1773",
+            "Pitt's India Act of 1784",
+            "Charter Act of 1813",
+            "Charter Act of 1833"
+        ],
+        "op_hi": [
+            "1773 का रेगुलेटिंग एक्ट",
+            "1784 का पिट्स इंडिया एक्ट",
+            "1813 का चार्टर एक्ट",
+            "1833 का चार्टर एक्ट"
+        ],
+        "ans": 1,
+        "solution": "<b>Solution (EN):</b> The Supreme Court of Judicature at Calcutta was established under the provisions of the Regulating Act of 1773.<br><b>Solution (HI):</b> कलकत्ता में सर्वोच्च न्यायालय की स्थापना 1773 के रेगुलेटिंग एक्ट के प्रावधानों के तहत 1774 में की गई थी।<br><b>Short Trick:</b> 1773 Act = First Supreme Court in Calcutta."
+    },
+    {
+        "section": "General Knowledge Including Current Affairs1",
+        "topic": "Biology - Respiration",
+        "difficulty": "Medium",
+        "q_en": "What is the primary muscle used in the process of human respiration?",
+        "q_hi": "मानव श्वसन की प्रक्रिया में प्रयुक्त होने वाली मुख्य मांसपेशी कौन-सी है?",
+        "op_en": [
+            "Diaphragm",
+            "Biceps",
+            "Deltoid",
+            "Gluteus maximus"
+        ],
+        "op_hi": [
+            "डायाफ्राम (Diaphragm)",
+            "बाइसेप्स (Biceps)",
+            "डेल्टोइड (Deltoid)",
+            "ग्लूटस मैक्सिमस (Gluteus maximus)"
+        ],
+        "ans": 1,
+        "solution": "<b>Solution (EN):</b> The diaphragm is a primary muscle used in respiration, which contracts and flattens upon inhalation to increase the volume of the chest cavity.<br><b>Solution (HI):</b> डायाफ्राम श्वसन में प्रयुक्त होने वाली एक प्रमुख मांसपेशी है, जो साँस लेने पर सिकुड़ती और चपटी हो जाती है जिससे छाती की गुहा का आयतन बढ़ जाता है।<br><b>Short Trick:</b> Breathing Muscle = Diaphragm."
+    },
+    {
+        "section": "General Knowledge Including Current Affairs1",
+        "topic": "Polity - Governance",
+        "difficulty": "Easy",
+        "q_en": "Who is the constitutional head of the Union Government of India?",
+        "q_hi": "भारत की केंद्र सरकार (संघ सरकार) का संवैधानिक प्रमुख कौन होता है?",
+        "op_en": [
+            "Prime Minister",
+            "President",
+            "Chief Justice of India",
+            "Vice President"
+        ],
+        "op_hi": [
+            "प्रधान मंत्री",
+            "राष्ट्रपति",
+            "भारत के मुख्य न्यायाधीश",
+            "उप-राष्ट्रपति"
+        ],
+        "ans": 2,
+        "solution": "<b>Solution (EN):</b> The President of India is the constitutional head of the Union Government, and all executive actions are taken in their name.<br><b>Solution (HI):</b> भारत के राष्ट्रपति संघ सरकार के संवैधानिक प्रमुख होते हैं, और सभी कार्यकारी कार्य उन्हीं के नाम पर किए जाते हैं।<br><b>Short Trick:</b> Constitutional Head = President."
+    },
+    {
+        "section": "General Knowledge Including Current Affairs1",
+        "topic": "Current Affairs - Sports",
+        "difficulty": "Medium",
+        "q_en": "In February-March 2026, which country co-hosted the ICC Men's T20 World Cup along with India?",
+        "q_hi": "फरवरी-मार्च 2026 में, किस देश ने भारत के साथ ICC पुरुष T20 विश्व कप की सह-मेजबानी की?",
+        "op_en": [
+            "Australia",
+            "Bangladesh",
+            "Sri Lanka",
+            "England"
+        ],
+        "op_hi": [
+            "ऑस्ट्रेलिया",
+            "बांग्लादेश",
+            "श्रीलंका",
+            "इंग्लैंड"
+        ],
+        "ans": 3,
+        "solution": "<b>Solution (EN):</b> The 2026 ICC Men's T20 World Cup was co-hosted by India and Sri Lanka in February-March 2026.<br><b>Solution (HI):</b> 2026 ICC पुरुष T20 विश्व कप की सह-मेजबानी फरवरी-मार्च 2026 में भारत और श्रीलंका द्वारा की गई।<br><b>Short Trick:</b> 2026 T20 World Cup = India & Sri Lanka."
+    },
+    {
+        "section": "General Knowledge Including Current Affairs1",
+        "topic": "Indian Constitution - Sources",
+        "difficulty": "Easy",
+        "q_en": "The concept of 'Fundamental Duties' in the Indian Constitution was adopted from which country?",
+        "q_hi": "भारतीय संविधान में 'मौलिक कर्तव्यों' (Fundamental Duties) की अवधारणा किस देश से अपनाई गई थी?",
+        "op_en": [
+            "USA",
+            "USSR (Russia)",
+            "UK",
+            "Australia"
+        ],
+        "op_hi": [
+            "यूएसए (USA)",
+            "यूएसएसआर (रूस)",
+            "यूके (UK)",
+            "ऑस्ट्रेलिया"
+        ],
+        "ans": 2,
+        "solution": "<b>Solution (EN):</b> The concept of Fundamental Duties was borrowed from the constitution of the former USSR (Russia) and added via the 42nd Amendment in 1976.<br><b>Solution (HI):</b> मौलिक कर्तव्यों की अवधारणा पूर्व सोवियत संघ (USSR/रूस) के संविधान से ली गई थी और इसे 1976 में 42वें संशोधन के माध्यम से जोड़ा गया था।<br><b>Short Trick:</b> Duties = USSR (Russia)."
+    },
+    {
+        "section": "General Knowledge Including Current Affairs1",
+        "topic": "Biology - Sense Organs",
+        "difficulty": "Medium",
+        "q_en": "Which part of the human ear is primarily responsible for maintaining body balance?",
+        "q_hi": "मानव कान का कौन-सा भाग मुख्य रूप से शरीर का संतुलन बनाए रखने के लिए जिम्मेदार है?",
+        "op_en": [
+            "Cochlea",
+            "Eardrum",
+            "Semicircular canals",
+            "Pinna"
+        ],
+        "op_hi": [
+            "कोक्लिया (Cochlea)",
+            "कर्णपटह (Eardrum)",
+            "अर्धवृत्ताकार नलिकाएं (Semicircular canals)",
+            "पिन्ना (Pinna)"
+        ],
+        "ans": 3,
+        "solution": "<b>Solution (EN):</b> The semicircular canals in the inner ear are primarily responsible for maintaining the balance and posture of the human body.<br><b>Solution (HI):</b> आंतरिक कान में मौजूद अर्धवृत्ताकार नलिकाएं (Semicircular canals) मुख्य रूप से मानव शरीर का संतुलन और मुद्रा बनाए रखने के लिए जिम्मेदार होती हैं।<br><b>Short Trick:</b> Body Balance = Semicircular canals."
+    },
+    {
+        "section": "General Knowledge Including Current Affairs1",
+        "topic": "Biology - Nutrition",
+        "difficulty": "Medium",
+        "q_en": "Which of the following vitamins is water-soluble and needs to be taken regularly in the diet?",
+        "q_hi": "निम्नलिखित में से कौन-सा विटामिन जल में घुलनशील (water-soluble) है और उसे आहार में नियमित रूप से लिया जाना चाहिए?",
+        "op_en": [
+            "Vitamin A",
+            "Vitamin C",
+            "Vitamin D",
+            "Vitamin K"
+        ],
+        "op_hi": [
+            "विटामिन A",
+            "विटामिन C",
+            "विटामिन D",
+            "विटामिन K"
+        ],
+        "ans": 2,
+        "solution": "<b>Solution (EN):</b> Vitamin C (along with Vitamin B complex) is a water-soluble vitamin. It is not stored in the body in large amounts and must be consumed regularly.<br><b>Solution (HI):</b> विटामिन C (विटामिन B कॉम्प्लेक्स के साथ) पानी में घुलनशील विटामिन है। यह शरीर में बड़ी मात्रा में जमा नहीं होता है, इसलिए इसे नियमित रूप से आहार में लेना चाहिए।<br><b>Short Trick:</b> Water Soluble = Vitamin B & C."
+    },
+    {
+        "section": "General Knowledge Including Current Affairs1",
+        "topic": "Chemistry - Chemical Reactions",
+        "difficulty": "Easy",
+        "q_en": "When a magnesium ribbon is burnt in air, what is the color of the ash formed?",
+        "q_hi": "जब मैग्नीशियम रिबन को हवा में जलाया जाता है, तो बनने वाली राख (ash) का रंग कैसा होता है?",
+        "op_en": [
+            "Black",
+            "Red",
+            "White",
+            "Yellow"
+        ],
+        "op_hi": [
+            "काला",
+            "लाल",
+            "सफेद",
+            "पीला"
+        ],
+        "ans": 3,
+        "solution": "<b>Solution (EN):</b> When a magnesium ribbon is burnt in the air, it reacts with oxygen to form magnesium oxide, which appears as a white ash.<br><b>Solution (HI):</b> जब मैग्नीशियम रिबन को हवा में जलाया जाता है, तो यह ऑक्सीजन के साथ प्रतिक्रिया करके मैग्नीशियम ऑक्साइड बनाता है, जो सफेद राख के रूप में दिखाई देता है।<br><b>Short Trick:</b> Magnesium Ash = White (Magnesium Oxide)."
+    },
+    {
+        "section": "Arithmetic",
+        "topic": "Time and Work",
+        "difficulty": "Medium",
+        "q_en": "A can do a piece of work in 20 days. B is 25% more efficient than A. How many days will B take to complete the same work?",
+        "q_hi": "A एक कार्य को 20 दिनों में पूरा कर सकता है। B, A से 25% अधिक कुशल है। B को उसी कार्य को पूरा करने में कितने दिन लगेंगे?",
+        "op_en": [
+            "12 days",
+            "15 days",
+            "16 days",
+            "18 days"
+        ],
+        "op_hi": [
+            "12 दिन",
+            "15 दिन",
+            "16 दिन",
+            "18 दिन"
+        ],
+        "ans": 3,
+        "solution": "<b>Solution (EN):</b> Ratio of efficiency of A and B = 100 : 125 = 4 : 5. Time taken is inversely proportional to efficiency. Ratio of time taken by A and B = 5 : 4. Since 5 units = 20 days, 1 unit = 4 days. Time taken by B = 4 units = 16 days.<br><b>Solution (HI):</b> A और B की कार्यक्षमता का अनुपात = 100 : 125 = 4 : 5. लिया गया समय कार्यक्षमता के व्युत्क्रमानुपाती होता है। समय का अनुपात = 5 : 4. क्योंकि 5 इकाई = 20 दिन, तो 1 इकाई = 4 दिन। B द्वारा लिया गया समय = 4 &times; 4 = 16 दिन।<br><b>Short Trick:</b> Time = (100 / 125) &times; 20 = (4/5) &times; 20 = 16 days."
+    },
+    {
+        "section": "Arithmetic",
+        "topic": "Profit and Loss",
+        "difficulty": "Medium",
+        "q_en": "A shopkeeper marks his goods 40% above the cost price and allows a discount of 20%. Find his profit percentage.",
+        "q_hi": "एक दुकानदार अपनी वस्तुओं का मूल्य क्रय मूल्य से 40% अधिक अंकित करता है और 20% की छूट देता है। उसका लाभ प्रतिशत ज्ञात कीजिए।",
+        "op_en": [
+            "10%",
+            "12%",
+            "15%",
+            "20%"
+        ],
+        "op_hi": [
+            "10%",
+            "12%",
+            "15%",
+            "20%"
+        ],
+        "ans": 2,
+        "solution": "<b>Solution (EN):</b> Let Cost Price (CP) = 100. Marked Price (MP) = 140. Discount = 20% on MP = 20% of 140 = 28. Selling Price (SP) = 140 - 28 = 112. Profit = SP - CP = 112 - 100 = 12%.<br><b>Solution (HI):</b> माना क्रय मूल्य (CP) = 100. अंकित मूल्य (MP) = 140. छूट = MP पर 20% = 140 का 20% = 28. विक्रय मूल्य (SP) = 140 - 28 = 112. लाभ = 112 - 100 = 12%.<br><b>Short Trick:</b> Effective % formula: x + y + (xy/100) = 40 - 20 - (40 &times; 20 / 100) = 20 - 8 = 12%."
+    },
+    {
+        "section": "Arithmetic",
+        "topic": "Simple and Compound Interest",
+        "difficulty": "High",
+        "q_en": "The difference between the Compound Interest and Simple Interest on a certain sum of money at 10% per annum for 2 years is Rs 50. Find the sum.",
+        "q_hi": "10% प्रति वर्ष की दर से 2 वर्ष के लिए एक निश्चित राशि पर चक्रवृद्धि ब्याज और साधारण ब्याज के बीच का अंतर 50 रुपये है। वह राशि ज्ञात कीजिए।",
+        "op_en": [
+            "Rs 4000",
+            "Rs 4500",
+            "Rs 5000",
+            "Rs 5500"
+        ],
+        "op_hi": [
+            "4000 रुपये",
+            "4500 रुपये",
+            "5000 रुपये",
+            "5500 रुपये"
+        ],
+        "ans": 3,
+        "solution": "<b>Solution (EN):</b> For 2 years, Difference (D) = P &times; (R/100)<sup>2</sup>. 50 = P &times; (10/100)<sup>2</sup>. 50 = P &times; (1/100). P = 50 &times; 100 = Rs 5000.<br><b>Solution (HI):</b> 2 वर्षों के लिए अंतर का सूत्र: D = P &times; (R/100)<sup>2</sup>. 50 = P &times; (10/100)<sup>2</sup>. 50 = P &times; (1/100). मूलधन (P) = 5000 रुपये।<br><b>Short Trick:</b> Difference = P(R/100)<sup>2</sup>. Substitute values to get P = 5000 instantly."
+    },
+    {
+        "section": "Arithmetic",
+        "topic": "Ratio and Proportion",
+        "difficulty": "Medium",
+        "q_en": "The ratio of two numbers is 3:5. If 8 is added to both the numbers, the new ratio becomes 2:3. Find the larger number.",
+        "q_hi": "दो संख्याओं का अनुपात 3:5 है। यदि दोनों संख्याओं में 8 जोड़ दिया जाए, तो नया अनुपात 2:3 हो जाता है। बड़ी संख्या ज्ञात कीजिए।",
+        "op_en": [
+            "24",
+            "32",
+            "40",
+            "48"
+        ],
+        "op_hi": [
+            "24",
+            "32",
+            "40",
+            "48"
+        ],
+        "ans": 3,
+        "solution": "<b>Solution (EN):</b> Let the numbers be 3x and 5x. According to question, (3x + 8) / (5x + 8) = 2/3. Cross-multiplying: 9x + 24 = 10x + 16. x = 8. The larger number = 5x = 5 &times; 8 = 40.<br><b>Solution (HI):</b> माना संख्याएँ 3x और 5x हैं। प्रश्नानुसार, (3x + 8) / (5x + 8) = 2/3. तिरछा गुणा करने पर: 9x + 24 = 10x + 16. अतः x = 8. बड़ी संख्या = 5x = 5 &times; 8 = 40.<br><b>Short Trick:</b> Make the gap between ratio equal. Initial ratio 3:5 (gap 2), Final ratio 2:3 (gap 1). Multiply final ratio by 2 -> 4:6. Now, 3 to 4 is +1 unit. 1 unit = 8. Larger number = 5 units = 40."
+    },
+    {
+        "section": "Arithmetic",
+        "topic": "Trains",
+        "difficulty": "High",
+        "q_en": "A train 200 meters long passes a standing pole in 10 seconds. How long will it take to pass a platform which is 300 meters long?",
+        "q_hi": "200 मीटर लंबी एक रेलगाड़ी एक खड़े खंभे को 10 सेकंड में पार करती है। 300 मीटर लंबे प्लेटफॉर्म को पार करने में उसे कितना समय लगेगा?",
+        "op_en": [
+            "20 seconds",
+            "25 seconds",
+            "30 seconds",
+            "15 seconds"
+        ],
+        "op_hi": [
+            "20 सेकंड",
+            "25 सेकंड",
+            "30 सेकंड",
+            "15 सेकंड"
+        ],
+        "ans": 2,
+        "solution": "<b>Solution (EN):</b> Speed of the train = Length / Time = 200/10 = 20 m/s. To pass a platform, total distance = Train length + Platform length = 200 + 300 = 500 m. Time taken = 500 / 20 = 25 seconds.<br><b>Solution (HI):</b> रेलगाड़ी की चाल = 200/10 = 20 मीटर/सेकंड। प्लेटफॉर्म को पार करने में कुल दूरी = रेलगाड़ी की लंबाई + प्लेटफॉर्म की लंबाई = 200 + 300 = 500 मीटर। लिया गया समय = 500 / 20 = 25 सेकंड।<br><b>Short Trick:</b> Train covers 200m in 10s. For platform, it must cover 500m. 200m -> 10s. 500m -> (10/200) &times; 500 = 25s."
+    },
+    {
+        "section": "Arithmetic",
+        "topic": "Average",
+        "difficulty": "Medium",
+        "q_en": "The average age of 30 students in a class is 15 years. If the teacher's age is also included, the average age increases by 1 year. Find the age of the teacher.",
+        "q_hi": "एक कक्षा में 30 छात्रों की औसत आयु 15 वर्ष है। यदि शिक्षक की आयु भी शामिल कर ली जाए, तो औसत आयु 1 वर्ष बढ़ जाती है। शिक्षक की आयु ज्ञात कीजिए।",
+        "op_en": [
+            "45 years",
+            "46 years",
+            "48 years",
+            "50 years"
+        ],
+        "op_hi": [
+            "45 वर्ष",
+            "46 वर्ष",
+            "48 वर्ष",
+            "50 वर्ष"
+        ],
+        "ans": 2,
+        "solution": "<b>Solution (EN):</b> Sum of ages of 30 students = 30 &times; 15 = 450. New average of 31 people = 16. Sum of ages = 31 &times; 16 = 496. Teacher's age = 496 - 450 = 46 years.<br><b>Solution (HI):</b> 30 छात्रों की आयु का योग = 30 &times; 15 = 450. 31 लोगों का नया औसत = 16. कुल आयु = 31 &times; 16 = 496. शिक्षक की आयु = 496 - 450 = 46 वर्ष।<br><b>Short Trick:</b> Teacher's Age = Old Average + Total Members (New) &times; Increase in Average = 15 + (31 &times; 1) = 46."
+    },
+    {
+        "section": "Arithmetic",
+        "topic": "Mixture and Alligation",
+        "difficulty": "High",
+        "q_en": "A mixture contains milk and water in the ratio of 4:1. If 10 liters of water is added to the mixture, the ratio becomes 2:1. Find the initial quantity of milk in the mixture.",
+        "q_hi": "एक मिश्रण में दूध और पानी का अनुपात 4:1 है। यदि मिश्रण में 10 लीटर पानी मिला दिया जाए, तो अनुपात 2:1 हो जाता है। मिश्रण में दूध की प्रारंभिक मात्रा ज्ञात कीजिए।",
+        "op_en": [
+            "20 liters",
+            "30 liters",
+            "40 liters",
+            "50 liters"
+        ],
+        "op_hi": [
+            "20 लीटर",
+            "30 लीटर",
+            "40 लीटर",
+            "50 लीटर"
+        ],
+        "ans": 3,
+        "solution": "<b>Solution (EN):</b> Let initial milk be 4x and water be x. When 10 liters of water is added, the new ratio is 4x / (x + 10) = 2/1. Solving this, 4x = 2x + 20 => 2x = 20 => x = 10. Initial milk = 4x = 40 liters.<br><b>Solution (HI):</b> माना शुरू में दूध 4x और पानी x है। 10 लीटर पानी मिलाने पर, नया अनुपात 4x / (x + 10) = 2/1. हल करने पर, 4x = 2x + 20 => 2x = 20 => x = 10. प्रारंभिक दूध = 4x = 40 लीटर।<br><b>Short Trick:</b> Since only water is added, make Milk quantity same in both ratios. Initial (4:1). Final (2:1) becomes (4:2). Water increased by 1 unit. 1 unit = 10 liters. Milk = 4 units = 40 liters."
+    },
+    {
+        "section": "Arithmetic",
+        "topic": "Percentage",
+        "difficulty": "Medium",
+        "q_en": "In an election between two candidates, the winner gets 60% of the total valid votes. If the total votes cast were 10,000 and 10% of them were invalid, find the number of valid votes the losing candidate got.",
+        "q_hi": "दो उम्मीदवारों के बीच एक चुनाव में, विजेता को कुल वैध मतों का 60% प्राप्त होता है। यदि कुल 10,000 मत पड़े और उनमें से 10% मत अवैध घोषित किए गए, तो हारने वाले उम्मीदवार को कितने वैध मत मिले?",
+        "op_en": [
+            "3000",
+            "3600",
+            "4000",
+            "5400"
+        ],
+        "op_hi": [
+            "3000",
+            "3600",
+            "4000",
+            "5400"
+        ],
+        "ans": 2,
+        "solution": "<b>Solution (EN):</b> Total votes = 10,000. Valid votes = 90% of 10,000 = 9000. Winner gets 60% of valid votes. Loser gets 40% of valid votes. Loser's votes = 40% of 9000 = 3600.<br><b>Solution (HI):</b> कुल मत = 10,000. वैध मत = 10,000 का 90% = 9000. विजेता को 60% मत मिले, तो हारने वाले को 40% मिलेंगे। हारने वाले के मत = 9000 का 40% = 3600.<br><b>Short Trick:</b> 10000 &times; (90/100) &times; (40/100) = 3600."
+    },
+    {
+        "section": "Arithmetic",
+        "topic": "Pipes and Cisterns",
+        "difficulty": "Medium",
+        "q_en": "Pipe A can fill a tank in 12 hours and Pipe B can empty the full tank in 15 hours. If both the pipes are opened simultaneously, in how much time will the empty tank be completely filled?",
+        "q_hi": "पाइप A एक खाली टंकी को 12 घंटे में भर सकता है और पाइप B भरी हुई टंकी को 15 घंटे में खाली कर सकता है। यदि दोनों पाइपों को एक साथ खोल दिया जाए, तो खाली टंकी को पूरी तरह भरने में कितना समय लगेगा?",
+        "op_en": [
+            "45 hours",
+            "50 hours",
+            "60 hours",
+            "75 hours"
+        ],
+        "op_hi": [
+            "45 घंटे",
+            "50 घंटे",
+            "60 घंटे",
+            "75 घंटे"
+        ],
+        "ans": 3,
+        "solution": "<b>Solution (EN):</b> Let total capacity of tank = LCM(12, 15) = 60 units. Efficiency of A = +5 units/hr. Efficiency of B = -4 units/hr. Net efficiency = 5 - 4 = +1 unit/hr. Time taken = 60 / 1 = 60 hours.<br><b>Solution (HI):</b> माना टंकी की कुल क्षमता = LCM(12, 15) = 60 यूनिट। A की कार्यक्षमता = +5 यूनिट/घंटा। B की कार्यक्षमता = -4 यूनिट/घंटा। कुल कार्यक्षमता = 5 - 4 = +1 यूनिट/घंटा। समय = 60 / 1 = 60 घंटे।<br><b>Short Trick:</b> Formula for filling and emptying: (xy) / (y - x) = (12 &times; 15) / (15 - 12) = 180 / 3 = 60 hours."
+    },
+    {
+        "section": "Arithmetic",
+        "topic": "Compound Interest",
+        "difficulty": "High",
+        "q_en": "A sum of money doubles itself in 4 years at compound interest. In how many years will it become 8 times of itself at the same rate of interest?",
+        "q_hi": "एक धनराशि चक्रवृद्धि ब्याज पर 4 वर्षों में स्वयं की दुगनी हो जाती है। समान ब्याज दर पर यह कितने वर्षों में स्वयं की 8 गुनी हो जाएगी?",
+        "op_en": [
+            "8 years",
+            "12 years",
+            "16 years",
+            "24 years"
+        ],
+        "op_hi": [
+            "8 वर्ष",
+            "12 वर्ष",
+            "16 वर्ष",
+            "24 वर्ष"
+        ],
+        "ans": 2,
+        "solution": "<b>Solution (EN):</b> At compound interest, a sum becomes x times in T years. It will become x<sup>n</sup> times in n &times; T years. Here, it becomes 2<sup>1</sup> times in 4 years. To become 8 times (which is 2<sup>3</sup>), time taken = 3 &times; 4 = 12 years.<br><b>Solution (HI):</b> चक्रवृद्धि ब्याज में, धनराशि x गुना होने में T वर्ष लेती है, तो x<sup>n</sup> गुना होने में n &times; T वर्ष लेगी। दुगनी (2<sup>1</sup>) होती है 4 वर्ष में। 8 गुना (2<sup>3</sup>) होने में लगा समय = 3 &times; 4 = 12 वर्ष।<br><b>Short Trick:</b> Base 2, power required is 3 (for 8 times). Multiply power by initial time: 3 &times; 4 = 12 years."
+    },
+    {
+        "section": "Arithmetic",
+        "topic": "Age Problems",
+        "difficulty": "Medium",
+        "q_en": "10 years ago, the ratio of the ages of A and B was 3:2. After 10 years from now, their age ratio will become 4:3. Find the present age of A.",
+        "q_hi": "10 वर्ष पूर्व, A और B की आयु का अनुपात 3:2 था। अब से 10 वर्ष बाद, उनकी आयु का अनुपात 4:3 होगा। A की वर्तमान आयु ज्ञात कीजिए।",
+        "op_en": [
+            "60 years",
+            "70 years",
+            "80 years",
+            "50 years"
+        ],
+        "op_hi": [
+            "60 वर्ष",
+            "70 वर्ष",
+            "80 वर्ष",
+            "50 वर्ष"
+        ],
+        "ans": 2,
+        "solution": "<b>Solution (EN):</b> Let ages 10 years ago be 3x and 2x. Ages 10 years from now will be (3x + 20) and (2x + 20). Ratio: (3x + 20)/(2x + 20) = 4/3. Solving, 9x + 60 = 8x + 80 => x = 20. Present age of A = 3x + 10 = 3(20) + 10 = 70 years.<br><b>Solution (HI):</b> माना 10 वर्ष पहले आयु 3x और 2x थी। 10 वर्ष बाद की आयु (3x+20) और (2x+20) होगी। अनुपात: (3x + 20)/(2x + 20) = 4/3. 9x + 60 = 8x + 80 => x = 20. A की वर्तमान आयु = 3x + 10 = 70 वर्ष।<br><b>Short Trick:</b> Gap between past and future is 20 years. Ratio change is 1 unit (3->4 and 2->3). 1 unit = 20 years. Past age of A = 3 &times; 20 = 60. Present = 60 + 10 = 70 years."
+    },
+    {
+        "section": "Arithmetic",
+        "topic": "Boat and Stream",
+        "difficulty": "High",
+        "q_en": "A boat can travel 24 km upstream and 36 km downstream in 6 hours. It can also travel 36 km upstream and 24 km downstream in 6.5 hours. Find the speed of the stream.",
+        "q_hi": "एक नाव 6 घंटे में 24 किमी धारा के प्रतिकूल और 36 किमी धारा के अनुकूल जा सकती है। यह 6.5 घंटे में 36 किमी धारा के प्रतिकूल और 24 किमी धारा के अनुकूल भी जा सकती है। धारा की चाल ज्ञात कीजिए।",
+        "op_en": [
+            "2 km/hr",
+            "3 km/hr",
+            "4 km/hr",
+            "5 km/hr"
+        ],
+        "op_hi": [
+            "2 किमी/घंटा",
+            "3 किमी/घंटा",
+            "4 किमी/घंटा",
+            "5 किमी/घंटा"
+        ],
+        "ans": 1,
+        "solution": "<b>Solution (EN):</b> Let upstream speed be U and downstream be D. 24/U + 36/D = 6; 36/U + 24/D = 6.5. By solving these equations or hit-and-trial, D = 12 km/hr and U = 8 km/hr satisfy both. Speed of stream = (D - U)/2 = (12 - 8)/2 = 2 km/hr.<br><b>Solution (HI):</b> माना प्रतिकूल चाल U और अनुकूल चाल D है। समीकरण: 24/U + 36/D = 6 और 36/U + 24/D = 6.5. हल करने पर D = 12 और U = 8 प्राप्त होता है। धारा की चाल = (D - U)/2 = 4/2 = 2 किमी/घंटा।<br><b>Short Trick:</b> Guess common factors for 24 and 36. Try D=12, U=8. First case: 24/8 + 36/12 = 3 + 3 = 6 (Satisfied). Stream speed = (12-8)/2 = 2."
+    },
+    {
+        "section": "Arithmetic",
+        "topic": "Simplification",
+        "difficulty": "Medium",
+        "q_en": "If the sum of a number and its reciprocal is 5/2, find the number.",
+        "q_hi": "यदि किसी संख्या और उसके व्युत्क्रम का योग 5/2 है, तो वह संख्या ज्ञात कीजिए।",
+        "op_en": [
+            "3/2",
+            "2",
+            "4",
+            "3"
+        ],
+        "op_hi": [
+            "3/2",
+            "2",
+            "4",
+            "3"
+        ],
+        "ans": 2,
+        "solution": "<b>Solution (EN):</b> Let the number be x. According to question, x + 1/x = 5/2. Solving the quadratic equation x<sup>2</sup> - 2.5x + 1 = 0, we get x = 2 or 1/2. Among the options, 2 is correct.<br><b>Solution (HI):</b> माना संख्या x है। प्रश्नानुसार, x + 1/x = 5/2. इसे हल करने पर x = 2 या 1/2 प्राप्त होता है। दिए गए विकल्पों में 2 सही है।<br><b>Short Trick:</b> Check options. Option 2 gives 2 + 1/2 = 5/2. Matches perfectly."
+    },
+    {
+        "section": "Arithmetic",
+        "topic": "Time, Speed and Distance",
+        "difficulty": "High",
+        "q_en": "A man covers half of his total journey at a speed of 40 km/h and the remaining half at a speed of 60 km/h. What is his average speed for the whole journey?",
+        "q_hi": "एक आदमी अपनी कुल यात्रा का आधा भाग 40 किमी/घंटा की चाल से और शेष आधा भाग 60 किमी/घंटा की चाल से तय करता है। पूरी यात्रा के लिए उसकी औसत चाल क्या है?",
+        "op_en": [
+            "48 km/h",
+            "50 km/h",
+            "52 km/h",
+            "45 km/h"
+        ],
+        "op_hi": [
+            "48 किमी/घंटा",
+            "50 किमी/घंटा",
+            "52 किमी/घंटा",
+            "45 किमी/घंटा"
+        ],
+        "ans": 1,
+        "solution": "<b>Solution (EN):</b> When distances are equal, Average Speed = (2xy) / (x + y), where x and y are the two speeds. Avg Speed = (2 &times; 40 &times; 60) / (40 + 60) = 4800 / 100 = 48 km/h.<br><b>Solution (HI):</b> जब दूरियां समान हों, तो औसत चाल का सूत्र = (2xy) / (x + y) होता है। औसत चाल = (2 &times; 40 &times; 60) / (40 + 60) = 4800 / 100 = 48 किमी/घंटा।<br><b>Short Trick:</b> Use direct formula 2xy/(x+y). 2 &times; 40 &times; 60 / 100 = 48."
+    },
+    {
+        "section": "Arithmetic",
+        "topic": "Partnership",
+        "difficulty": "High",
+        "q_en": "A, B, and C start a business by investing Rs 10000, Rs 15000, and Rs 20000 respectively. After 6 months, A invests Rs 5000 more and B withdraws Rs 5000. C keeps his investment untouched. At the end of the year, out of a total profit of Rs 54000, what is C's share?",
+        "q_hi": "A, B और C क्रमशः 10000 रुपये, 15000 रुपये और 20000 रुपये का निवेश करके एक व्यवसाय शुरू करते हैं। 6 महीने बाद, A ने 5000 रुपये और लगाए तथा B ने 5000 रुपये निकाल लिए। वर्ष के अंत में 54000 रुपये के कुल लाभ में से C का हिस्सा क्या है?",
+        "op_en": [
+            "Rs 20000",
+            "Rs 24000",
+            "Rs 15000",
+            "Rs 25000"
+        ],
+        "op_hi": [
+            "20000 रुपये",
+            "24000 रुपये",
+            "15000 रुपये",
+            "25000 रुपये"
+        ],
+        "ans": 2,
+        "solution": "<b>Solution (EN):</b> A's effective investment = 10000 &times; 6 + 15000 &times; 6 = 150,000. B's effective = 15000 &times; 6 + 10000 &times; 6 = 150,000. C's effective = 20000 &times; 12 = 240,000. Ratio = 150 : 150 : 240 = 5 : 5 : 8. Total ratio sum = 18. C's share = (8/18) &times; 54000 = Rs 24000.<br><b>Solution (HI):</b> A का निवेश = (10000 &times; 6) + (15000 &times; 6) = 1,50,000. B का निवेश = (15000 &times; 6) + (10000 &times; 6) = 1,50,000. C का निवेश = 20000 &times; 12 = 2,40,000. लाभ का अनुपात = 150 : 150 : 240 = 5 : 5 : 8. कुल भाग = 18. C का लाभ = (8/18) &times; 54000 = 24000 रुपये।<br><b>Short Trick:</b> Multiply capital by months. Ratio is 15:15:24 -> 5:5:8. Total = 18 units. 18 units = 54k -> 1 unit = 3k. C gets 8 units = 24k."
+    },
+    {
+        "section": "Arithmetic1",
+        "topic": "Time and Work",
+        "difficulty": "High",
+        "q_en": "A and B can complete a work in 12 days and 18 days respectively. They begin to work together but A leaves 3 days before the completion of the work. Find the total number of days taken to complete the work.",
+        "q_hi": "A और B किसी कार्य को क्रमशः 12 दिन और 18 दिन में पूरा कर सकते हैं। वे एक साथ कार्य शुरू करते हैं लेकिन कार्य पूरा होने से 3 दिन पहले A कार्य छोड़ देता है। कार्य पूरा होने में लगा कुल समय ज्ञात कीजिए।",
+        "op_en": [
+            "6 days",
+            "8 days",
+            "9 days",
+            "10 days"
+        ],
+        "op_hi": [
+            "6 दिन",
+            "8 दिन",
+            "9 दिन",
+            "10 दिन"
+        ],
+        "ans": 3,
+        "solution": "<b>Solution (EN):</b> Let total work be LCM of 12 and 18 = 36 units. Efficiency of A = 3 units/day, B = 2 units/day. Let total days be x. B worked for x days and A worked for (x - 3) days. So, 3(x - 3) + 2x = 36. 3x - 9 + 2x = 36 => 5x = 45 => x = 9 days.<br><b>Solution (HI):</b> माना कुल कार्य 12 और 18 का LCM = 36 यूनिट है। A की क्षमता = 3 यूनिट/दिन, B = 2 यूनिट/दिन। माना कुल दिन x लगे। B ने पूरे x दिन काम किया, जबकि A ने (x - 3) दिन। अतः, 3(x - 3) + 2x = 36. 5x = 45 => x = 9 दिन।<br><b>Short Trick:</b> If A didn't leave, he would do 3 &times; 3 = 9 extra units. Total imaginary work = 36 + 9 = 45 units. Now, both work till the end: 45 / (3+2) = 9 days."
+    },
+    {
+        "section": "Arithmetic1",
+        "topic": "Profit and Loss",
+        "difficulty": "High",
+        "q_en": "A dishonest dealer promises to sell his goods at 10% profit but uses a false weight of 800 grams instead of 1 kg. Find his actual profit percentage.",
+        "q_hi": "एक बेईमान व्यापारी अपने माल को 10% लाभ पर बेचने का दावा करता है, लेकिन वह 1 किलो के स्थान पर 800 ग्राम के गलत वजन का उपयोग करता है। उसका वास्तविक लाभ प्रतिशत ज्ञात कीजिए।",
+        "op_en": [
+            "30%",
+            "35%",
+            "37.5%",
+            "40%"
+        ],
+        "op_hi": [
+            "30%",
+            "35%",
+            "37.5%",
+            "40%"
+        ],
+        "ans": 3,
+        "solution": "<b>Solution (EN):</b> Let Cost Price of 1 gram = Rs 1. CP of 800g (actual goods given) = Rs 800. He claims to sell 1000g at 10% profit, so Selling Price = 1000 + 10% of 1000 = Rs 1100. Profit = 1100 - 800 = Rs 300. Profit % = (300 / 800) &times; 100 = 37.5%.<br><b>Solution (HI):</b> माना 1 ग्राम का क्रय मूल्य = 1 रुपये। 800 ग्राम का क्रय मूल्य (जो उसने असल में दिया) = 800 रुपये। वह 1000 ग्राम को 10% लाभ पर बेचने का दावा करता है, अतः विक्रय मूल्य = 1000 + 100 = 1100 रुपये। लाभ = 1100 - 800 = 300 रुपये। लाभ % = (300 / 800) &times; 100 = 37.5%.<br><b>Short Trick:</b> SP ratio = 110 (profit claim), CP ratio = 80 (weight given). Profit = (110 - 80)/80 &times; 100 = 30/80 &times; 100 = 37.5%."
+    },
+    {
+        "section": "Arithmetic1",
+        "topic": "Compound Interest",
+        "difficulty": "Medium",
+        "q_en": "The compound interest on a certain sum of money for 2 years is Rs 832 and the simple interest on the same sum for the same period at the same rate is Rs 800. Find the sum.",
+        "q_hi": "किसी निश्चित धनराशि पर 2 वर्ष का चक्रवृद्धि ब्याज 832 रुपये है और उसी धनराशि पर उसी अवधि व उसी दर से साधारण ब्याज 800 रुपये है। वह धनराशि ज्ञात कीजिए।",
+        "op_en": [
+            "Rs 4000",
+            "Rs 5000",
+            "Rs 6000",
+            "Rs 5500"
+        ],
+        "op_hi": [
+            "4000 रुपये",
+            "5000 रुपये",
+            "6000 रुपये",
+            "5500 रुपये"
+        ],
+        "ans": 2,
+        "solution": "<b>Solution (EN):</b> Simple Interest for 1 year = 800 / 2 = Rs 400. Difference between CI and SI = 832 - 800 = Rs 32. This Rs 32 is the interest earned on Rs 400 in the second year. Rate = (32 / 400) &times; 100 = 8%. Sum = (SI &times; 100) / (R &times; T) = (800 &times; 100) / (8 &times; 2) = Rs 5000.<br><b>Solution (HI):</b> 1 वर्ष का साधारण ब्याज = 800 / 2 = 400 रुपये। CI और SI में अंतर = 832 - 800 = 32 रुपये। यह 32 रुपये दूसरे वर्ष में 400 रुपये पर मिला ब्याज है। दर = (32 / 400) &times; 100 = 8%. मूलधन = (साधारण ब्याज &times; 100) / (दर &times; समय) = (800 &times; 100) / (8 &times; 2) = 5000 रुपये।<br><b>Short Trick:</b> Rate = (Difference / 1 yr SI) &times; 100 = (32/400) &times; 100 = 8%. Principal = 400 / 8% = 5000."
+    },
+    {
+        "section": "Arithmetic1",
+        "topic": "Mixture and Alligation",
+        "difficulty": "High",
+        "q_en": "Two vessels A and B contain acid and water in the ratio 4:3 and 5:3 respectively. In what ratio should these mixtures be mixed to form a new mixture containing acid and water in the ratio 3:2?",
+        "q_hi": "दो बर्तनों A और B में अम्ल और पानी का अनुपात क्रमशः 4:3 और 5:3 है। इन मिश्रणों को किस अनुपात में मिलाया जाना चाहिए ताकि नए मिश्रण में अम्ल और पानी का अनुपात 3:2 हो जाए?",
+        "op_en": [
+            "5:8",
+            "7:8",
+            "8:7",
+            "3:4"
+        ],
+        "op_hi": [
+            "5:8",
+            "7:8",
+            "8:7",
+            "3:4"
+        ],
+        "ans": 2,
+        "solution": "<b>Solution (EN):</b> Concentration of acid in A = 4/7. Concentration of acid in B = 5/8. Required concentration = 3/5. Using Alligation Rule: Part of A / Part of B = (5/8 - 3/5) / (3/5 - 4/7) = (25-24)/40 / (21-20)/35 = (1/40) / (1/35) = 35/40 = 7/8. So, ratio is 7:8.<br><b>Solution (HI):</b> बर्तन A में अम्ल का भाग = 4/7, बर्तन B में = 5/8. नए मिश्रण में अम्ल = 3/5. मिश्रण के नियम (Alligation) से: (5/8 - 3/5) : (3/5 - 4/7) = (1/40) : (1/35). अनुपात = 35 : 40 = 7:8.<br><b>Short Trick:</b> Make denominators equal. LCM of 7, 8, 5 is 280. A = 160/280, B = 175/280, Mix = 168/280. Alligation on numerators: (175 - 168) : (168 - 160) = 7 : 8."
+    },
+    {
+        "section": "Arithmetic1",
+        "topic": "Time, Speed and Distance",
+        "difficulty": "Medium",
+        "q_en": "Excluding stoppages, the speed of a bus is 60 km/h and including stoppages, it is 45 km/h. For how many minutes does the bus stop per hour?",
+        "q_hi": "रुकने के समय को छोड़कर एक बस की चाल 60 किमी/घंटा है और रुकने के समय को मिलाकर इसकी चाल 45 किमी/घंटा है। बस प्रति घंटे कितने मिनट रुकती है?",
+        "op_en": [
+            "10 minutes",
+            "12 minutes",
+            "15 minutes",
+            "20 minutes"
+        ],
+        "op_hi": [
+            "10 मिनट",
+            "12 मिनट",
+            "15 मिनट",
+            "20 मिनट"
+        ],
+        "ans": 3,
+        "solution": "<b>Solution (EN):</b> Drop in speed due to stoppage = 60 - 45 = 15 km/h. Stoppage time per hour = (Drop in speed / Speed without stoppage) &times; 60 minutes = (15 / 60) &times; 60 = 15 minutes.<br><b>Solution (HI):</b> रुकने के कारण चाल में कमी = 60 - 45 = 15 किमी/घंटा। प्रति घंटे रुकने का समय = (चाल में कमी / बिना रुके चाल) &times; 60 मिनट = (15 / 60) &times; 60 = 15 मिनट।<br><b>Short Trick:</b> Time = (Fast Speed - Slow Speed) / Fast Speed &times; 60 = (15 / 60) &times; 60 = 15 mins."
+    },
+    {
+        "section": "Arithmetic1",
+        "topic": "Partnership",
+        "difficulty": "High",
+        "q_en": "A and B start a business by investing Rs 50,000 and Rs 40,000 respectively. After 4 months, A withdraws half of his capital and B invests Rs 20,000 more. C joins them with Rs 70,000. At the end of the year, out of a total profit of Rs 32,000, find C's share.",
+        "q_hi": "A और B क्रमशः 50,000 रुपये और 40,000 रुपये का निवेश करके एक व्यवसाय शुरू करते हैं। 4 महीने बाद, A अपनी आधी पूंजी निकाल लेता है और B 20,000 रुपये अधिक निवेश करता है। C 70,000 रुपये के साथ उनके साथ जुड़ता है। वर्ष के अंत में 32,000 रुपये के कुल लाभ में से C का हिस्सा ज्ञात कीजिए।",
+        "op_en": [
+            "Rs 10000",
+            "Rs 11200",
+            "Rs 12800",
+            "Rs 15000"
+        ],
+        "op_hi": [
+            "10000 रुपये",
+            "11200 रुपये",
+            "12800 रुपये",
+            "15000 रुपये"
+        ],
+        "ans": 2,
+        "solution": "<b>Solution (EN):</b> Effective investment of A = (50 &times; 4) + (25 &times; 8) = 200 + 200 = 400. Effective B = (40 &times; 4) + (60 &times; 8) = 160 + 480 = 640. Effective C (invested for 8 months) = 70 &times; 8 = 560. Profit ratio = 400 : 640 : 560 = 40 : 64 : 56 = 5 : 8 : 7. Total ratio = 20 units. C's share = (7 / 20) &times; 32000 = Rs 11200.<br><b>Solution (HI):</b> A का निवेश = (50 &times; 4) + (25 &times; 8) = 400. B का निवेश = (40 &times; 4) + (60 &times; 8) = 640. C का निवेश (8 माह के लिए) = 70 &times; 8 = 560. लाभ का अनुपात = 400 : 640 : 560 = 5 : 8 : 7. कुल 20 इकाई = 32000. C का हिस्सा = (7 / 20) &times; 32000 = 11200 रुपये।<br><b>Short Trick:</b> Multiply money by time in months. A:B:C = 400:640:560 = 5:8:7. C's share = 7/20 &times; 32000 = 11200."
+    },
+    {
+        "section": "Arithmetic1",
+        "topic": "Average",
+        "difficulty": "Medium",
+        "q_en": "The average weight of 8 persons increases by 2.5 kg when a new person comes in place of one of them weighing 65 kg. What is the weight of the new person?",
+        "q_hi": "8 व्यक्तियों के औसत वजन में 2.5 किग्रा की वृद्धि हो जाती है जब उनमें से 65 किग्रा वजन वाले एक व्यक्ति के स्थान पर एक नया व्यक्ति आ जाता है। नए व्यक्ति का वजन क्या है?",
+        "op_en": [
+            "76 kg",
+            "80 kg",
+            "85 kg",
+            "90 kg"
+        ],
+        "op_hi": [
+            "76 किग्रा",
+            "80 किग्रा",
+            "85 किग्रा",
+            "90 किग्रा"
+        ],
+        "ans": 3,
+        "solution": "<b>Solution (EN):</b> Total increase in weight = 8 persons &times; 2.5 kg = 20 kg. This means the new person brings 20 kg more than the person who left. Weight of new person = 65 kg + 20 kg = 85 kg.<br><b>Solution (HI):</b> वजन में कुल वृद्धि = 8 व्यक्ति &times; 2.5 किग्रा = 20 किग्रा। इसका अर्थ है कि नया व्यक्ति जाने वाले व्यक्ति से 20 किग्रा अधिक भारी है। नए व्यक्ति का वजन = 65 + 20 = 85 किग्रा।<br><b>Short Trick:</b> New Weight = Replaced Weight + (Total Members &times; Increase) = 65 + (8 &times; 2.5) = 65 + 20 = 85 kg."
+    },
+    {
+        "section": "Arithmetic1",
+        "topic": "Percentage",
+        "difficulty": "High",
+        "q_en": "In an election, 10% of voters did not cast their vote and 10% of the cast votes were found invalid. The winning candidate got 54% of the valid votes and won by a majority of 1620 votes. Find the total number of voters enrolled in the voter list.",
+        "q_hi": "एक चुनाव में 10% मतदाताओं ने अपना वोट नहीं डाला और डाले गए मतों में से 10% अवैध पाए गए। जीतने वाले उम्मीदवार को वैध मतों का 54% प्राप्त हुआ और वह 1620 मतों के बहुमत से जीता। मतदाता सूची में नामांकित मतदाताओं की कुल संख्या ज्ञात कीजिए।",
+        "op_en": [
+            "20000",
+            "25000",
+            "30000",
+            "40000"
+        ],
+        "op_hi": [
+            "20000",
+            "25000",
+            "30000",
+            "40000"
+        ],
+        "ans": 2,
+        "solution": "<b>Solution (EN):</b> Let total voters be 100x. Votes cast = 90x. Valid votes = 90% of 90x = 81x. Winner gets 54% of valid votes, so loser gets 46%. Majority = 54% - 46% = 8% of valid votes. 8% of 81x = 1620 => (8/100) &times; 81x = 1620 => x = 162000 / 648 = 250. Total voters = 100x = 25000.<br><b>Solution (HI):</b> माना कुल मतदाता = 100x. डाले गए मत = 90x. वैध मत = 90x का 90% = 81x. विजेता को 54% मिले, हारने वाले को 46%। अंतर = 8%. वैध मतों का 8% = 1620 => 81x का 8% = 1620 => x = 250. कुल मतदाता = 25000.<br><b>Short Trick:</b> V &times; (90/100) &times; (90/100) &times; (8/100) = 1620 => V = (1620 &times; 1000000) / 64800 = 25000."
+    },
+    {
+        "section": "Arithmetic1",
+        "topic": "Boat and Stream",
+        "difficulty": "Medium",
+        "q_en": "A boat takes twice as long to row a distance upstream as to row the same distance downstream. If the speed of the stream is 3 km/h, find the speed of the boat in still water.",
+        "q_hi": "एक नाव को धारा के प्रतिकूल एक निश्चित दूरी तय करने में, उसी दूरी को धारा के अनुकूल तय करने में लगने वाले समय का दोगुना समय लगता है। यदि धारा की चाल 3 किमी/घंटा है, तो शांत जल में नाव की चाल ज्ञात कीजिए।",
+        "op_en": [
+            "6 km/h",
+            "9 km/h",
+            "12 km/h",
+            "15 km/h"
+        ],
+        "op_hi": [
+            "6 किमी/घंटा",
+            "9 किमी/घंटा",
+            "12 किमी/घंटा",
+            "15 किमी/घंटा"
+        ],
+        "ans": 2,
+        "solution": "<b>Solution (EN):</b> Time upstream = 2 &times; Time downstream. So, Speed downstream = 2 &times; Speed upstream. Let boat speed be B and stream be S (S=3). (B + 3) = 2 &times; (B - 3). B + 3 = 2B - 6 => B = 9 km/h.<br><b>Solution (HI):</b> प्रतिकूल समय = 2 &times; अनुकूल समय। अतः, अनुकूल चाल = 2 &times; प्रतिकूल चाल। माना नाव की चाल B है। (B + 3) = 2 &times; (B - 3). B + 3 = 2B - 6 => B = 9 किमी/घंटा।<br><b>Short Trick:</b> B/S = (Time up + Time down) / (Time up - Time down) = (2 + 1) / (2 - 1) = 3 / 1. Since S = 3, B = 3 &times; 3 = 9 km/h."
+    },
+    {
+        "section": "Arithmetic1",
+        "topic": "Pipes and Cisterns",
+        "difficulty": "High",
+        "q_en": "A leak in the bottom of a tank can empty the full tank in 8 hours. An inlet pipe fills water at the rate of 6 liters per minute. When the tank is full, the inlet is opened and due to the leak, the tank is emptied in 12 hours. How many liters does the tank hold?",
+        "q_hi": "एक टंकी के तल में रिसाव होने के कारण भरी हुई टंकी 8 घंटे में खाली हो जाती है। एक इनलेट (भरने वाला) पाइप 6 लीटर प्रति मिनट की दर से पानी भरता है। जब टंकी भर जाती है, तो इनलेट को खोल दिया जाता है और रिसाव के कारण टंकी 12 घंटे में खाली हो जाती है। टंकी की क्षमता (लीटर में) ज्ञात कीजिए।",
+        "op_en": [
+            "8240",
+            "8640",
+            "9000",
+            "9600"
+        ],
+        "op_hi": [
+            "8240",
+            "8640",
+            "9000",
+            "9600"
+        ],
+        "ans": 2,
+        "solution": "<b>Solution (EN):</b> Leak alone empties in 8 hours (-1/8). Let inlet pipe alone fill in x hours (+1/x). Together, they empty the tank in 12 hours (-1/12). So, 1/x - 1/8 = -1/12 => 1/x = 1/8 - 1/12 = 1/24. Inlet pipe fills the tank in 24 hours. Capacity = Time &times; Rate = 24 hours &times; 60 minutes &times; 6 liters/min = 8640 liters.<br><b>Solution (HI):</b> रिसाव टंकी को 8 घंटे में खाली करता है (-1/8)। माना इनलेट पाइप इसे x घंटे में भरता है (+1/x)। एक साथ वे 12 घंटे में खाली करते हैं (-1/12)। 1/x - 1/8 = -1/12 => 1/x = 1/24. इनलेट पाइप 24 घंटे में भरता है। क्षमता = 24 &times; 60 मिनट &times; 6 लीटर/मिनट = 8640 लीटर।<br><b>Short Trick:</b> Time taken by inlet = (8 &times; 12) / (12 - 8) = 96 / 4 = 24 hours. Capacity = 24 &times; 60 &times; 6 = 8640 Liters."
+    }
+]
