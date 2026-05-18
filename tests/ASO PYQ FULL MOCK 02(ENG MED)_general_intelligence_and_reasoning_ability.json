@@ -1,0 +1,422 @@
+[
+  {
+    "ans": "4",
+    "level": "",
+    "op_en": [
+      "Only II is true",
+      "Only I is true",
+      "Both I and II are true",
+      "Neither I nor II is true"
+    ],
+    "op_hi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "q_en": "Two statements are given followed by two conclusions. Identify which of the given conclusions is/are true based on the given statements.<br><br><strong>Statements:</strong><br>M ≥ P = S<br>C = A ≤ N ≥ M<br><strong></strong><br><strong>Conclusions:</strong><br>I. M &lt; C<br>II. P ≤ A",
+    "q_hi": "",
+    "section": "General intelligence and Reasoning Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "1",
+    "level": "",
+    "op_en": [
+      "Three",
+      "Two",
+      "One",
+      "None"
+    ],
+    "op_hi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "q_en": "Refer to the following letter, number, symbol series and answer the question. Counting to be done from left to right. All numbers are single-digit numbers.<br>(Left) U C &amp; T % 7 D 5 4 @ 6 K &amp; 2 R Y # 3  E * S (Right)<br>How many such symbols are there each of which is immediately preceded by a letter and also immediately followed by a number?",
+    "q_hi": "",
+    "section": "General intelligence and Reasoning Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "3",
+    "level": "",
+    "op_en": [
+      "Two",
+      "Three",
+      "One",
+      "None"
+    ],
+    "op_hi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "q_en": "This question is based on the following words<br>(Left) VAN   RUG  PET  BOX  (Right)<br>In each of the words, each vowel is changed to the letter immediately following it in the English alphabetical order and each consonant is changed to the letter immediately preceding it in the English alphabetical order. In how many letter-clusters thus formed, will no vowel appear?",
+    "q_hi": "",
+    "section": "General intelligence and Reasoning Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "3",
+    "level": "",
+    "op_en": [
+      "One",
+      "None",
+      "Two",
+      "Three"
+    ],
+    "op_hi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "q_en": "This question is based on the five, three-digit numbers given below.<br>(Left) 156  478  382  642  247 (Right)<br>(Example- 697 – First digit = 6, second digit = 9 and third digit = 7)<br>NOTE - All operations to be done from left to right.<br>If 2 is added to first digit of every number, in how many numbers will the first digit be exactly divisible by the second digit?<span style=\"color: white;\">5197</span>",
+    "q_hi": "",
+    "section": "General intelligence and Reasoning Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "2",
+    "level": "",
+    "op_en": [
+      "Both conclusions (I) and (II) follow.",
+      "Neither conclusion (I) nor (II) follows.",
+      "Only conclusion (I) follows.",
+      "Only conclusion (II) follows."
+    ],
+    "op_hi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "q_en": "Read the given statements and conclusions carefully. Assuming that the information given in the statements is true, even if it appears to be at variance with commonly known facts, decide which of the given conclusion(s) logically follow(s) from the statements.<br><br><strong>Statements:</strong><br>All houses are building.<br>Some buildings are monument.<br>Some monuments are palace.<br><br><strong>Conclusions:</strong><br>(I) Some palaces are house.<br>(II) Some monuments are house.",
+    "q_hi": "",
+    "section": "General intelligence and Reasoning Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "3",
+    "level": "",
+    "op_en": [
+      "is",
+      "food",
+      "tasty",
+      "cup"
+    ],
+    "op_hi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "q_en": "In a certain code,<br>‘food is tasty’ is coded as ‘bi se re’<br>‘tasty and healthy’ is coded as ‘de fe se’ and<br>‘cup and saucer’ is coded as ‘fe xe xa’.<br>What does the code ‘se’ stand for?",
+    "q_hi": "",
+    "section": "General intelligence and Reasoning Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "3",
+    "level": "",
+    "op_en": [
+      "31",
+      "28",
+      "29",
+      "30"
+    ],
+    "op_hi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "q_en": "Suraj ranked 17<sup>th</sup> from the bottom and 13<sup>th</sup> from the top in his class. How many students are there in his class?<br>",
+    "q_hi": "",
+    "section": "General intelligence and Reasoning Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "4",
+    "level": "",
+    "op_en": [
+      "Either 'oi' or 'wa'",
+      "Either 'wa' or 'fg'",
+      "Either 'fg' or 'oi'",
+      "Either 'wa' or 'nj'"
+    ],
+    "op_hi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "q_en": "In a certain code,<br>'do what i will' is coded as 'nh fg rf dc'<br>'do you if i' is coded as 'rf dc fy hb'<br>'will are in not' is coded as 'nj oi fg wa'<br>'left you not i' is coded as 'rf hb sr oi'<br>(all the codes are two letter coded only)<br>What is the possible code for ‘are’?<span style=\"color: white;\">2730</span>",
+    "q_hi": "",
+    "section": "General intelligence and Reasoning Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "4",
+    "level": "",
+    "op_en": [
+      "ATFHE",
+      "EHTFA",
+      "ETAFH",
+      "AHTFE"
+    ],
+    "op_hi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "q_en": "<span style=\"font-size: 14px;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\"><span style=\"line-height: 107%;\">A group of numbers/symbols is coded using letter codes as per the codes given below and the conditions that follow. If none of the conditions apply, then codes for the respective number/symbol to be followed directly as given in the table.</span></span></span><br> <table class=\"MsoTableGrid\" style=\"border-collapse: collapse; border: none;\">\t<tbody>\t\t<tr>\t\t\t<td style=\"border-bottom: 1px solid black; border-left: 1px solid black; border-right: 1px solid black; border-top: 1px solid black; height: 60px; padding: 0cm 7px 0cm 7px; width: 109px;\" valign=\"top\"><strong><span style=\"font-size: 14px;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\"><span style=\"line-height: normal;\">Number/Symbol</span></span></span></strong></td>\t\t\t<td style=\"border-bottom: 1px solid black; border-left: none; border-right: 1px solid black; border-top: 1px solid black; height: 60px; padding: 0cm 7px 0cm 7px; width: 57px;\" valign=\"top\"><span style=\"font-size: 14px;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\"><span style=\"line-height: normal;\">7</span></span></span></td>\t\t\t<td style=\"border-bottom: 1px solid black; border-left: none; border-right: 1px solid black; border-top: 1px solid black; height: 60px; padding: 0cm 7px 0cm 7px; width: 57px;\" valign=\"top\"><span style=\"font-size: 14px;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\"><span style=\"line-height: normal;\">2</span></span></span></td>\t\t\t<td style=\"border-bottom: 1px solid black; border-left: none; border-right: 1px solid black; border-top: 1px solid black; height: 60px; padding: 0cm 7px 0cm 7px; width: 57px;\" valign=\"top\"><span style=\"font-size: 14px;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\"><span style=\"line-height: normal;\">5</span></span></span></td>\t\t\t<td style=\"border-bottom: 1px solid black; border-left: none; border-right: 1px solid black; border-top: 1px solid black; height: 60px; padding: 0cm 7px 0cm 7px; width: 58px;\" valign=\"top\"><span style=\"font-size: 14px;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\"><span style=\"line-height: normal;\">@</span></span></span></td>\t\t\t<td style=\"border-bottom: 1px solid black; border-left: none; border-right: 1px solid black; border-top: 1px solid black; height: 60px; padding: 0cm 7px 0cm 7px; width: 57px;\" valign=\"top\"><span style=\"font-size: 14px;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\"><span style=\"line-height: normal;\">8</span></span></span></td>\t\t\t<td style=\"border-bottom: 1px solid black; border-left: none; border-right: 1px solid black; border-top: 1px solid black; height: 60px; padding: 0cm 7px 0cm 7px; width: 58px;\" valign=\"top\"><span style=\"font-size: 14px;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\"><span style=\"line-height: normal;\">%</span></span></span></td>\t\t\t<td style=\"border-bottom: 1px solid black; border-left: none; border-right: 1px solid black; border-top: 1px solid black; height: 60px; padding: 0cm 7px 0cm 7px; width: 57px;\" valign=\"top\"><span style=\"font-size: 14px;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\"><span style=\"line-height: normal;\">&amp;</span></span></span></td>\t\t\t<td style=\"border-bottom: 1px solid black; border-left: none; border-right: 1px solid black; border-top: 1px solid black; height: 60px; padding: 0cm 7px 0cm 7px; width: 57px;\" valign=\"top\"><span style=\"font-size: 14px;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\"><span style=\"line-height: normal;\">^</span></span></span></td>\t\t\t<td style=\"border-bottom: 1px solid black; border-left: none; border-right: 1px solid black; border-top: 1px solid black; height: 60px; padding: 0cm 7px 0cm 7px; width: 57px;\" valign=\"top\"><span style=\"font-size: 14px;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\"><span style=\"line-height: normal;\">3</span></span></span></td>\t\t\t<td style=\"border-bottom: 1px solid black; border-left: none; border-right: 1px solid black; border-top: 1px solid black; height: 60px; padding: 0cm 7px 0cm 7px; width: 55px;\" valign=\"top\"><span style=\"font-size: 14px;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\"><span style=\"line-height: normal;\">9</span></span></span></td>\t\t\t<td style=\"border-bottom: 1px solid black; border-left: none; border-right: 1px solid black; border-top: 1px solid black; height: 60px; padding: 0cm 7px 0cm 7px; width: 55px;\" valign=\"top\"><span style=\"font-size: 14px;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\"><span style=\"line-height: normal;\">*</span></span></span></td>\t\t\t<td style=\"border-bottom: 1px solid black; border-left: none; border-right: 1px solid black; border-top: 1px solid black; height: 60px; padding: 0cm 7px 0cm 7px; width: 55px;\" valign=\"top\"><span style=\"font-size: 14px;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\"><span style=\"line-height: normal;\">4</span></span></span></td>\t\t</tr>\t\t<tr>\t\t\t<td style=\"border-bottom: 1px solid black; border-left: 1px solid black; border-right: 1px solid black; border-top: none; height: 30px; padding: 0cm 7px 0cm 7px; width: 109px;\" valign=\"top\"><strong><span style=\"font-size: 14px;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\"><span style=\"line-height: normal;\">Code</span></span></span></strong></td>\t\t\t<td style=\"border-bottom: 1px solid black; border-left: none; border-right: 1px solid black; border-top: none; height: 30px; padding: 0cm 7px 0cm 7px; width: 57px;\" valign=\"top\"><span style=\"font-size: 14px;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\"><span style=\"line-height: normal;\">Q</span></span></span></td>\t\t\t<td style=\"border-bottom: 1px solid black; border-left: none; border-right: 1px solid black; border-top: none; height: 30px; padding: 0cm 7px 0cm 7px; width: 57px;\" valign=\"top\"><span style=\"font-size: 14px;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\"><span style=\"line-height: normal;\">T</span></span></span></td>\t\t\t<td style=\"border-bottom: 1px solid black; border-left: none; border-right: 1px solid black; border-top: none; height: 30px; padding: 0cm 7px 0cm 7px; width: 57px;\" valign=\"top\"><span style=\"font-size: 14px;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\"><span style=\"line-height: normal;\">H</span></span></span></td>\t\t\t<td style=\"border-bottom: 1px solid black; border-left: none; border-right: 1px solid black; border-top: none; height: 30px; padding: 0cm 7px 0cm 7px; width: 58px;\" valign=\"top\"><span style=\"font-size: 14px;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\"><span style=\"line-height: normal;\">N</span></span></span></td>\t\t\t<td style=\"border-bottom: 1px solid black; border-left: none; border-right: 1px solid black; border-top: none; height: 30px; padding: 0cm 7px 0cm 7px; width: 57px;\" valign=\"top\"><span style=\"font-size: 14px;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\"><span style=\"line-height: normal;\">J</span></span></span></td>\t\t\t<td style=\"border-bottom: 1px solid black; border-left: none; border-right: 1px solid black; border-top: none; height: 30px; padding: 0cm 7px 0cm 7px; width: 58px;\" valign=\"top\"><span style=\"font-size: 14px;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\"><span style=\"line-height: normal;\">L</span></span></span></td>\t\t\t<td style=\"border-bottom: 1px solid black; border-left: none; border-right: 1px solid black; border-top: none; height: 30px; padding: 0cm 7px 0cm 7px; width: 57px;\" valign=\"top\"><span style=\"font-size: 14px;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\"><span style=\"line-height: normal;\">F</span></span></span></td>\t\t\t<td style=\"border-bottom: 1px solid black; border-left: none; border-right: 1px solid black; border-top: none; height: 30px; padding: 0cm 7px 0cm 7px; width: 57px;\" valign=\"top\"><span style=\"font-size: 14px;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\"><span style=\"line-height: normal;\">E</span></span></span></td>\t\t\t<td style=\"border-bottom: 1px solid black; border-left: none; border-right: 1px solid black; border-top: none; height: 30px; padding: 0cm 7px 0cm 7px; width: 57px;\" valign=\"top\"><span style=\"font-size: 14px;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\"><span style=\"line-height: normal;\">S</span></span></span></td>\t\t\t<td style=\"border-bottom: 1px solid black; border-left: none; border-right: 1px solid black; border-top: none; height: 30px; padding: 0cm 7px 0cm 7px; width: 55px;\" valign=\"top\"><span style=\"font-size: 14px;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\"><span style=\"line-height: normal;\">C</span></span></span></td>\t\t\t<td style=\"border-bottom: 1px solid black; border-left: none; border-right: 1px solid black; border-top: none; height: 30px; padding: 0cm 7px 0cm 7px; width: 55px;\" valign=\"top\"><span style=\"font-size: 14px;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\"><span style=\"line-height: normal;\">B</span></span></span></td>\t\t\t<td style=\"border-bottom: 1px solid black; border-left: none; border-right: 1px solid black; border-top: none; height: 30px; padding: 0cm 7px 0cm 7px; width: 55px;\" valign=\"top\"><span style=\"font-size: 14px;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\"><span style=\"line-height: normal;\">A</span></span></span></td>\t\t</tr>\t</tbody></table><span style=\"font-size: 11pt;\"><span style=\"line-height: 107%;\"><span style=\"font-family: Calibri,sans-serif;\"></span></span></span><br><span style=\"font-size: 14px;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\"><span style=\"line-height: 107%;\"><strong>Conditions:</strong></span><br><span style=\"line-height: 107%;\">(i) If the first element is a symbol and the last element a number, the codes for these two (the first and the last elements) are to be interchanged.</span><br><span style=\"line-height: 107%;\">(ii) If the first element is an odd number and the last element an even number, the first and last elements are to be coded as ©.</span><br><span style=\"line-height: 107%;\">(iii) If both second and third elements are perfect squares, the third element is to be coded as the code for the second element.<br><br>What will be the code for the following group?<br>^ 5 2 &amp; 4</span></span></span><span style=\"color: white;\">574</span>",
+    "q_hi": "",
+    "section": "General intelligence and Reasoning Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "4",
+    "level": "",
+    "op_en": [
+      "Both conclusions I and II follow",
+      "None of the conclusions follow",
+      "Only conclusion II follows",
+      "Only conclusion I follows&nbsp;"
+    ],
+    "op_hi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "q_en": "Read the given statements and conclusions carefully. Assuming that the information given in the statements is true, even if it appears to be at variance with commonly known facts, decide which of the given conclusions logically follow(s) from the statements.<br>Statements:<br> Some bubbles are foams.<br>Some foams are mattresses.<br>All mattresses are sofas.<br>Conclusions:<br> (I) Some foams are sofas.<br>(II) Some bubble are mattresses.<span style=\"color: white;\">5729</span>",
+    "q_hi": "",
+    "section": "General intelligence and Reasoning Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "2",
+    "level": "",
+    "op_en": [
+      "59",
+      "58",
+      "56",
+      "57"
+    ],
+    "op_hi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "q_en": "Trishant ranked 34<sup>th</sup> from the top and 25<sup>th</sup> from the bottom in his class. How many students are there in his class?<span style=\"color: white;\">5315</span>",
+    "q_hi": "",
+    "section": "General intelligence and Reasoning Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "2",
+    "level": "",
+    "op_en": [
+      "Sister's daughter",
+      "Brother's daughter",
+      "Daughter's daughter",
+      "Son's daughter"
+    ],
+    "op_hi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "q_en": "​K is the sister of L. L is the son of M. M is the wife of N. N is the brother of O. How is K related to O?",
+    "q_hi": "",
+    "section": "General intelligence and Reasoning Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "3",
+    "level": "",
+    "op_en": [
+      "1",
+      "3",
+      "4",
+      "0"
+    ],
+    "op_hi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "q_en": "P, Q, R, S, T, U and V are sitting in a straight line, facing north. S is sitting second to the left of R. U is sitting fourth to the right of S. Only one person is sitting between P and V. Q is sitting second to the right of V. Only one person is sitting between Q and T.<br>How many people are sitting between S and T?",
+    "q_hi": "",
+    "section": "General intelligence and Reasoning Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "4",
+    "level": "",
+    "op_en": [
+      "Three",
+      "Four",
+      "One",
+      "Two"
+    ],
+    "op_hi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "q_en": "Seven boxes A, B, C, D, L, M and N are kept one over the other, but not necessarily in the same order. Only three boxes are kept between M and A. Only A is kept below C. D is kept immediately above L. B is kept immediately below N. N is kept somewhere above D. How many boxes are kept between B and L?<span style=\"color: white;\">5609</span>",
+    "q_hi": "",
+    "section": "General intelligence and Reasoning Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "4",
+    "level": "",
+    "op_en": [
+      "Only conclusion (II) follows.",
+      "Only conclusion (I) follows.",
+      "Neither conclusion (I) nor (II) follows.",
+      "Both conclusions (I) and (II) follow."
+    ],
+    "op_hi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "q_en": "Read the given statements and conclusions carefully. You have to take the given statements to be true even if they seem to be at variance from commonly known facts. You have to decide which conclusion/s logically follow/s from the given statements.<br>Statements: All pens are crayons. All crayons are inks. No ink is a sketch.<br>Conclusions:<br>(I) No sketch is a pen.<br>(II) Some inks are pens.",
+    "q_hi": "",
+    "section": "General intelligence and Reasoning Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "3",
+    "level": "",
+    "op_en": [
+      "Husband’s father",
+      "Husband’s brother",
+      "Husband’s father’s mother",
+      "Wife’s father’s mother"
+    ],
+    "op_hi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "q_en": "In a certain code language, <br>‘A + B’ means ‘A is the mother of B’, <br>‘A – B’ means ‘A is the brother of B’, <br>‘A × B’ means ‘A is the husband of B’ and<br>‘A ÷ B’ means ‘A is the father of B’. <br>How is M related to K if ‘M + N ÷ L – J × K’?<span style=\"color: white;\">5613</span>",
+    "q_hi": "",
+    "section": "General intelligence and Reasoning Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "4",
+    "level": "",
+    "op_en": [
+      "Only conclusion II is true.",
+      "Both conclusions I and II are true.",
+      "Only conclusion I is true.",
+      "Neither conclusion I nor II is true."
+    ],
+    "op_hi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "q_en": "In this question, a statement is followed by two conclusions, numbered I and II. Find which conclusion is true based on the given statements.<br><br>Statement: P &gt; Q ≥ R &lt; S = T &gt; U<br>Conclusions:<br>I. U &lt; P<br>II. Q &gt; R<span style=\"color: white;\">5390</span>",
+    "q_hi": "",
+    "section": "General intelligence and Reasoning Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "3",
+    "level": "",
+    "op_en": [
+      "Two",
+      "One",
+      "Three",
+      "None"
+    ],
+    "op_hi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "q_en": "This question is based on the following words.<br>TOO     CUT     JAB     AGE<br><br>In each of the words, if each vowel is changed to the letter following it in the English alphabetical order and each consonant is changed to the letter preceding it in the English alphabetical order, then how many letter-clusters thus formed will have no vowel in them? <span style=\"color: white;\">5367</span>",
+    "q_hi": "",
+    "section": "General intelligence and Reasoning Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "2",
+    "level": "",
+    "op_en": [
+      "Y",
+      "C",
+      "A",
+      "D"
+    ],
+    "op_hi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "q_en": "A, B, C, D, W, X and Y are sitting around a circular table facing the centre of the table. Only two people sit between Y and X when counted from the right of Y. Only three people sit between A and B when counted from the right of B. X sits to the immediate right of B. C sits to the immediate right of D.<br>Who sits fourth to the right of W?",
+    "q_hi": "",
+    "section": "General intelligence and Reasoning Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "2",
+    "level": "",
+    "op_en": [
+      "One",
+      "Two",
+      "Four",
+      "Three"
+    ],
+    "op_hi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "q_en": "R, S, U, V, Y and Z live on six different floors of the same building. The lowermost floor in the building is numbered 1, the floor above it is numbered 2 and so on till the topmost floor, which is numbered 6. No one lives above S. Only three people live between S and V. U lives on a floor below V. R lives on an even-numbered floor. Y lives on an odd-numbered floor but not on floor number 5. How many people live between Z and V?<span style=\"color: white;\">5279</span>",
+    "q_hi": "",
+    "section": "General intelligence and Reasoning Ability",
+    "solution": "",
+    "topic": ""
+  }
+]
