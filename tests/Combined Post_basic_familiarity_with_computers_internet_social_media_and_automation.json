@@ -1,0 +1,442 @@
+[
+  {
+    "ans": "1",
+    "difficulty": "Easy",
+    "level": "Easy",
+    "op_en": [
+      "Task Bar",
+      "Control Panel",
+      "File Explorer",
+      "Start Menu"
+    ],
+    "op_hi": [
+      "टास्क बार",
+      "कंट्रोल पैनल",
+      "फ़ाइल एक्सप्लोरर",
+      "स्टार्ट मेनू"
+    ],
+    "q_en": "On Windows 10 Operating System, _________ is the area where we can pin frequently used applications for easy access.",
+    "q_hi": "विंडोज 10 ऑपरेटिंग सिस्टम पर, _________ वह क्षेत्र है जहाँ हम आसान पहुँच के लिए अक्सर उपयोग किए जाने वाले एप्लिकेशन को पिन कर सकते हैं।",
+    "section": "Basic Familiarity with Computers Internet Social Media and Automation",
+    "solution": "विंडोज 10 में 'टास्क बार' (Taskbar) स्क्रीन के नीचे स्थित एक पट्टी होती है। यहाँ उपयोगकर्ता अपने पसंदीदा और अक्सर उपयोग होने वाले प्रोग्राम्स को 'पिन' (Pin) कर सकते हैं ताकि उन्हें एक क्लिक में खोला जा सके। इसके अलावा, वर्तमान में खुले हुए सभी प्रोग्राम्स भी टास्क बार पर दिखाई देते हैं।",
+    "topic": "Windows OS"
+  },
+  {
+    "ans": "4",
+    "difficulty": "Medium",
+    "level": "Medium",
+    "op_en": [
+      "FAT32",
+      "FAT",
+      "NTFS",
+      "EXT3"
+    ],
+    "op_hi": [
+      "FAT32",
+      "FAT",
+      "NTFS",
+      "EXT3"
+    ],
+    "q_en": "Which file system among the following CANNOT be supported by the Windows operating system?",
+    "q_hi": "निम्नलिखित में से कौन सा फ़ाइल सिस्टम विंडोज ऑपरेटिंग सिस्टम द्वारा समर्थित नहीं किया जा सकता है?",
+    "section": "Basic Familiarity with Computers Internet Social Media and Automation",
+    "solution": "विंडोज ऑपरेटिंग सिस्टम मुख्य रूप से NTFS, FAT32 और exFAT फ़ाइल सिस्टम का समर्थन करता है। 'EXT3' (Third Extended Filesystem) मुख्य रूप से लिनक्स (Linux) ऑपरेटिंग सिस्टम के लिए डिज़ाइन किया गया है और विंडोज इसे मूल रूप से सपोर्ट नहीं करता है।",
+    "topic": "File Systems"
+  },
+  {
+    "ans": "1",
+    "difficulty": "Easy",
+    "level": "Easy",
+    "op_en": [
+      "transfer files between windows",
+      "transfer file properties to another file",
+      "move file size to another file",
+      "move folder names between documents"
+    ],
+    "op_hi": [
+      "विंडोज के बीच फाइलें स्थानांतरित करना",
+      "फाइल गुणों को दूसरी फाइल में स्थानांतरित करना",
+      "फाइल का आकार दूसरी फाइल में ले जाना",
+      "दस्तावेजों के बीच फोल्डर के नाम बदलना"
+    ],
+    "q_en": "\"Drag &amp; Drop\" on a computer refers to selecting the object, holding down the mouse button, then:",
+    "q_hi": "कंप्यूटर पर \"ड्रैग एंड ड्रॉप\" (Drag & Drop) का अर्थ किसी ऑब्जेक्ट को चुनना, माउस बटन को दबाए रखना और फिर:",
+    "section": "Basic Familiarity with Computers Internet Social Media and Automation",
+    "solution": "ड्रैग एंड ड्रॉप एक माउस जेस्चर है। इसमें सबसे पहले माउस के जरिए किसी फाइल या फोल्डर को चुना जाता है, फिर माउस बटन को दबाए रखते हुए उसे खींचकर (Drag) दूसरी जगह ले जाकर छोड़ (Drop) दिया जाता है। इससे फाइलें एक स्थान से दूसरे स्थान पर स्थानांतरित हो जाती हैं।",
+    "topic": "Computer Basics"
+  },
+  {
+    "ans": "3",
+    "difficulty": "Easy",
+    "level": "Easy",
+    "op_en": [
+      "Printing a specific range of pages",
+      "Printing only even or odd pages",
+      "Printing the document in reverse alphabetical order",
+      "Printing multiple copies of the document"
+    ],
+    "op_hi": [
+      "पृष्ठों की एक विशिष्ट सीमा प्रिंट करना",
+      "केवल सम या विषम पृष्ठ प्रिंट करना",
+      "डॉक्यूमेंट को उल्टे वर्णानुक्रम में प्रिंट करना",
+      "डॉक्यूमेंट की कई प्रतियां प्रिंट करना"
+    ],
+    "q_en": "Which of the following options is NOT available when printing a document in Microsoft Word?",
+    "q_hi": "माइक्रोसॉफ्ट वर्ड में डॉक्यूमेंट प्रिंट करते समय निम्नलिखित में से कौन सा विकल्प उपलब्ध नहीं होता है?",
+    "section": "Basic Familiarity with Computers Internet Social Media and Automation",
+    "solution": "MS Word के प्रिंट सेटिंग्स में आप पेज रेंज चुन सकते हैं, सम या विषम पेज चुन सकते हैं और प्रतियों की संख्या निर्धारित कर सकते हैं। लेकिन डॉक्यूमेंट को 'उल्टे वर्णानुक्रम' (Reverse Alphabetical Order) में प्रिंट करने का कोई विकल्प प्रिंट मेनू में नहीं होता है।",
+    "topic": "MS Word"
+  },
+  {
+    "ans": "3",
+    "difficulty": "Medium",
+    "level": "Medium",
+    "op_en": [
+      "Executes system processes",
+      "Controls hardware devices",
+      "Stores user preferences and system settings",
+      "Manages file system operations"
+    ],
+    "op_hi": [
+      "सिस्टम प्रक्रियाओं को निष्पादित करना",
+      "हार्डवेयर उपकरणों को नियंत्रित करना",
+      "उपयोगकर्ता प्राथमिकताओं और सिस्टम सेटिंग्स को संग्रहीत करना",
+      "फाइल सिस्टम संचालन का प्रबंधन करना"
+    ],
+    "q_en": "What is the primary function of the Windows Registry?",
+    "q_hi": "विंडोज रजिस्ट्री (Windows Registry) का प्राथमिक कार्य क्या है?",
+    "section": "Basic Familiarity with Computers Internet Social Media and Automation",
+    "solution": "विंडोज रजिस्ट्री एक डेटाबेस है जो माइक्रोसॉफ्ट विंडोज ऑपरेटिंग सिस्टम पर कॉन्फ़िगरेशन सेटिंग्स और विकल्पों को स्टोर करता है। इसमें हार्डवेयर, सॉफ्टवेयर, उपयोगकर्ता प्रोफाइल और सिस्टम की प्राथमिकताओं से जुड़ी महत्वपूर्ण जानकारी होती है।",
+    "topic": "Windows OS"
+  },
+  {
+    "ans": "1",
+    "difficulty": "Medium",
+    "level": "Medium",
+    "op_en": [
+      "Stores user preferences and system settings",
+      "Executes system processes",
+      "Manages file system operations",
+      "Controls hardware device drivers"
+    ],
+    "op_hi": [
+      "उपयोगकर्ता प्राथमिकताओं और सिस्टम सेटिंग्स को संग्रहीत करना",
+      "सिस्टम प्रक्रियाओं को निष्पादित करना",
+      "फाइल सिस्टम संचालन का प्रबंधन करना",
+      "हार्डवेयर डिवाइस ड्राइवरों को नियंत्रित करना"
+    ],
+    "q_en": "In Windows, what is the primary function of the Registry?<span style=\"color: white;\">365</span>",
+    "q_hi": "विंडोज में, रजिस्ट्री (Registry) का प्राथमिक कार्य क्या है?<span style=\"color: white;\">365</span>",
+    "section": "Basic Familiarity with Computers Internet Social Media and Automation",
+    "solution": "विंडोज रजिस्ट्री एक केंद्रीय डेटाबेस है जिसका उपयोग विंडोज सिस्टम सेटिंग्स, हार्डवेयर कॉन्फ़िगरेशन और उपयोगकर्ता की पसंद (Preferences) को स्टोर करने के लिए करता है। यह सिस्टम के सुचारू संचालन के लिए महत्वपूर्ण है।",
+    "topic": "Windows OS"
+  },
+  {
+    "ans": "3",
+    "difficulty": "Medium",
+    "level": "Medium",
+    "op_en": [
+      "Surfshark Antivirus",
+      "Microsoft Defender Antivirus",
+      "Microsoft Defender SmartScreen",
+      "Windows Firewall"
+    ],
+    "op_hi": [
+      "सर्फशार्क एंटीवायरस",
+      "माइक्रोसॉफ्ट डिफेंडर एंटीवायरस",
+      "माइक्रोसॉफ्ट डिफेंडर स्मार्टस्क्रीन",
+      "विंडोज फायरवॉल"
+    ],
+    "q_en": "Windows 11 has a number of security features to help protect against malware, phishing, and other threats. Which of the following is a security feature in the Microsoft Edge browser that warns the user if a website, application, or download is potentially malicious?",
+    "q_hi": "विंडोज 11 में मैलवेयर, फिशिंग और अन्य खतरों से बचाने में मदद करने के लिए कई सुरक्षा विशेषताएं हैं। माइक्रोसॉफ्ट एज ब्राउज़र में निम्नलिखित में से कौन सी एक सुरक्षा विशेषता है जो उपयोगकर्ता को चेतावनी देती है यदि कोई वेबसाइट, एप्लिकेशन या डाउनलोड संभावित रूप से हानिकारक है?",
+    "section": "Basic Familiarity with Computers Internet Social Media and Automation",
+    "solution": "माइक्रोसॉफ्ट डिफेंडर स्मार्टस्क्रीन (Microsoft Defender SmartScreen) एक क्लाउड-आधारित सुरक्षा सुविधा है। इसका मुख्य काम असुरक्षित वेबसाइटों, फ़िशिंग हमलों और संभावित रूप से हानिकारक फ़ाइलों या ऐप्स के बारे में ब्राउज़र में चेतावनी देना है।",
+    "topic": "Internet Security"
+  },
+  {
+    "ans": "1",
+    "difficulty": "Medium",
+    "level": "Medium",
+    "op_en": [
+      "System software provides a platform for running application software, while application software allows users to perform specific tasks.",
+      "System software is used for specific tasks, while application software manages hardware resources.",
+      "System software runs in the background and is not directly interacted with by users, while application software is directly used by users to complete tasks.",
+      "Application software runs automatically during system startup, while system software is launched by the user."
+    ],
+    "op_hi": [
+      "सिस्टम सॉफ्टवेयर एप्लिकेशन सॉफ्टवेयर चलाने के लिए एक मंच प्रदान करता है, जबकि एप्लिकेशन सॉफ्टवेयर उपयोगकर्ताओं को विशिष्ट कार्य करने की अनुमति देता है।",
+      "सिस्टम सॉफ्टवेयर का उपयोग विशिष्ट कार्यों के लिए किया जाता है, जबकि एप्लिकेशन सॉफ्टवेयर हार्डवेयर संसाधनों का प्रबंधन करता है।",
+      "सिस्टम सॉफ्टवेयर बैकग्राउंड में चलता है और उपयोगकर्ताओं द्वारा सीधे इंटरैक्ट नहीं किया जाता है, जबकि एप्लिकेशन सॉफ्टवेयर उपयोगकर्ताओं द्वारा कार्यों को पूरा करने के लिए सीधे उपयोग किया जाता है।",
+      "एप्लिकेशन सॉफ्टवेयर सिस्टम स्टार्टअप के दौरान स्वचालित रूप से चलता है, जबकि सिस्टम सॉफ्टवेयर उपयोगकर्ता द्वारा लॉन्च किया जाता है।"
+    ],
+    "q_en": "Which of the following options best describes the difference between system software and application software?",
+    "q_hi": "निम्नलिखित में से कौन सा विकल्प सिस्टम सॉफ्टवेयर और एप्लिकेशन सॉफ्टवेयर के बीच अंतर का सबसे अच्छा वर्णन करता है?",
+    "section": "Basic Familiarity with Computers Internet Social Media and Automation",
+    "solution": "सिस्टम सॉफ्टवेयर (जैसे OS) कंप्यूटर के हार्डवेयर को नियंत्रित करता है और अन्य प्रोग्राम चलाने के लिए आधार देता है। एप्लिकेशन सॉफ्टवेयर (जैसे फोटोशॉप, वर्ड) उपयोगकर्ता को विशेष काम जैसे फोटो एडिटिंग या टाइपिंग करने में मदद करता है।",
+    "topic": "Software Concepts"
+  },
+  {
+    "ans": "1",
+    "difficulty": "Hard",
+    "level": "Hard",
+    "op_en": [
+      "Register the email client with the email service provider to obtain a client ID and client secret.",
+      "Use the email client's built-in IMAP configuration wizard without any additional steps.",
+      "Configure the email client to use POP3 instead of IMAP for OAuth 2.0 compatibility.",
+      "Enable IMAP in the email client settings and provide the standard username and password."
+    ],
+    "op_hi": [
+      "क्लाइंट आईडी और क्लाइंट सीक्रेट प्राप्त करने के लिए ईमेल सेवा प्रदाता के साथ ईमेल क्लाइंट को पंजीकृत करें।",
+      "बिना किसी अतिरिक्त कदम के ईमेल क्लाइंट के बिल्ट-इन IMAP कॉन्फ़िगरेशन विज़ार्ड का उपयोग करें।",
+      "OAuth 2.0 संगतता के लिए IMAP के बजाय POP3 का उपयोग करने के लिए ईमेल क्लाइंट को कॉन्फ़िगर करें।",
+      "ईमेल क्लाइंट सेटिंग्स में IMAP सक्षम करें और मानक उपयोगकर्ता नाम और पासवर्ड प्रदान करें।"
+    ],
+    "q_en": "When configuring an email client to use OAuth 2.0 authentication with an IMAP server, which of the following steps is necessary to ensure a proper setup?",
+    "q_hi": "IMAP सर्वर के साथ OAuth 2.0 प्रमाणीकरण का उपयोग करने के लिए ईमेल क्लाइंट को कॉन्फ़िगर करते समय, उचित सेटअप सुनिश्चित करने के लिए निम्नलिखित में से कौन सा चरण आवश्यक है?",
+    "section": "Basic Familiarity with Computers Internet Social Media and Automation",
+    "solution": "OAuth 2.0 प्रमाणीकरण के लिए, एप्लिकेशन (ईमेल क्लाइंट) को सेवा प्रदाता के पास पंजीकृत करना अनिवार्य है ताकि उसे 'Client ID' और 'Client Secret' मिल सके। यह सुरक्षित एक्सेस टोकन प्राप्त करने के लिए आवश्यक होता है।",
+    "topic": "Internet & Email"
+  },
+  {
+    "ans": "1",
+    "difficulty": "Medium",
+    "level": "Medium",
+    "op_en": [
+      "Ethernet Throughput",
+      "Disk 0 (C:)  Throughput",
+      "CPU Utilization",
+      "Memory Usage"
+    ],
+    "op_hi": [
+      "ईथरनेट थ्रूपुट",
+      "डिस्क 0 (C:) थ्रूपुट",
+      "सीपीयू उपयोग",
+      "मेमोरी उपयोग"
+    ],
+    "q_en": "Which of the following statistics is NOT shown in the performance tab of the Task Manager?",
+    "q_hi": "टास्क मैनेजर के परफॉरमेंस (Performance) टैब में निम्नलिखित में से कौन सा आँकड़ा नहीं दिखाया जाता है?",
+    "section": "Basic Familiarity with Computers Internet Social Media and Automation",
+    "solution": "टास्क मैनेजर का परफॉरमेंस टैब मुख्य रूप से CPU, मेमोरी, डिस्क और नेटवर्क (Wi-Fi/Ethernet) की सक्रियता को ग्राफ के माध्यम से दिखाता है। 'ईथरनेट थ्रूपुट' (Ethernet Throughput) का विवरण वहां अन्य विकल्पों की तुलना में सीधे तौर पर अलग तरीके से हो सकता है।",
+    "topic": "Windows OS"
+  },
+  {
+    "ans": "1",
+    "difficulty": "Medium",
+    "level": "Medium",
+    "op_en": [
+      "Neither Statement 1 nor Statement 2 is correct.",
+      "Statement 1 is correct but Statement 2 is not correct.",
+      "Statement 1 is not correct, but Statement 2 is correct.",
+      "Statement 1 and Statement 2 both are correct."
+    ],
+    "op_hi": [
+      "न तो कथन 1 और न ही कथन 2 सही है।",
+      "कथन 1 सही है लेकिन कथन 2 सही नहीं है।",
+      "कथन 1 सही नहीं है, लेकिन कथन 2 सही है।",
+      "कथन 1 और कथन 2 दोनों सही हैं।"
+    ],
+    "q_en": "<div style=\"text-align: justify;\">Select the correct option with respect to the given statements.<br><br>Statement 1: Operating system is an application software that is preinstalled to use the installed software and hardware.<br>Statement 2: A hardware contains preinstalled software, and it is attached to the computer using wires/cables/ports and later OS upgrades the hardware specific software (if required).</div>",
+    "q_hi": "<div style=\"text-align: justify;\">दिए गए कथनों के संबंध में सही विकल्प चुनें।<br><br>कथन 1: ऑपरेटिंग सिस्टम एक एप्लिकेशन सॉफ्टवेयर है जो इंस्टॉल किए गए सॉफ्टवेयर और हार्डवेयर का उपयोग करने के लिए पहले से इंस्टॉल होता है।<br>कथन 2: एक हार्डवेयर में पहले से इंस्टॉल सॉफ्टवेयर होता है, और यह तारों/केबल/पोर्ट का उपयोग करके कंप्यूटर से जुड़ा होता है और बाद में ओएस हार्डवेयर विशिष्ट सॉफ्टवेयर को अपग्रेड करता है (यदि आवश्यक हो)।</div>",
+    "section": "Basic Familiarity with Computers Internet Social Media and Automation",
+    "solution": "कथन 1 गलत है क्योंकि OS एक 'सिस्टम सॉफ्टवेयर' है। कथन 2 भी गलत है क्योंकि OS आमतौर पर हार्डवेयर के 'ड्राइवर' अपडेट करता है, हार्डवेयर के भीतर के प्री-इंस्टॉल्ड सॉफ्टवेयर (फर्मवेयर) को सीधे अपग्रेड करना उसका प्राथमिक कार्य नहीं है।",
+    "topic": "Computer Concepts"
+  },
+  {
+    "ans": "2",
+    "difficulty": "Easy",
+    "level": "Easy",
+    "op_en": [
+      "Save Page As",
+      "Print",
+      "Bookmark",
+      "Inspect Element"
+    ],
+    "op_hi": [
+      "पेज को इस रूप में सहेजें",
+      "प्रिंट",
+      "बुकमार्क",
+      "इन्सपेक्ट एलिमेंट"
+    ],
+    "q_en": "To create a hard copy of a webpage for physical reference, which browser option should you use?",
+    "q_hi": "भौतिक संदर्भ के लिए वेबपेज की हार्ड कॉपी बनाने के लिए, आपको किस ब्राउज़र विकल्प का उपयोग करना चाहिए?",
+    "section": "Basic Familiarity with Computers Internet Social Media and Automation",
+    "solution": "किसी वेबपेज को कागज पर छापने (हार्ड कॉपी) के लिए 'प्रिंट' विकल्प का उपयोग किया जाता है। ब्राउज़र में इसके लिए Ctrl + P शॉर्टकट का उपयोग किया जा सकता है।",
+    "topic": "Internet Basics"
+  },
+  {
+    "ans": "3",
+    "difficulty": "Medium",
+    "level": "Medium",
+    "op_en": [
+      "Only (i)",
+      "Both (i) and (ii)",
+      "Neither (i) nor (ii)",
+      "Only (ii)"
+    ],
+    "op_hi": [
+      "केवल (i)",
+      "दोनों (i) और (ii)",
+      "न तो (i) और न ही (ii)",
+      "केवल (ii)"
+    ],
+    "q_en": "Which of the following statements is/are FALSE?<br>(i) Majority of Internet browsers support the keyboard shortcut Ctrl + P to print a document.<br>(ii) A web crawler is also known as a search engine bot, web robot, or web spider.<span style=\"color: white;\">102</span>",
+    "q_hi": "निम्नलिखित में से कौन सा/से कथन गलत है/हैं?<br>(i) अधिकांश इंटरनेट ब्राउज़र डॉक्यूमेंट प्रिंट करने के लिए कीबोर्ड शॉर्टकट Ctrl + P का समर्थन करते हैं।<br>(ii) एक वेब क्रॉलर को सर्च इंजन बॉट, वेब रोबोट या वेब स्पाइडर के रूप में भी जाना जाता है।<span style=\"color: white;\">102</span>",
+    "section": "Basic Familiarity with Computers Internet Social Media and Automation",
+    "solution": "दोनों कथन सत्य हैं। Ctrl + P प्रिंट के लिए मानक शॉर्टकट है और वेब क्रॉलर के अन्य नाम बॉट, रोबोट और स्पाइडर ही हैं। चूँकि दोनों सही हैं, इसलिए इनमें से कोई भी गलत (FALSE) नहीं है।",
+    "topic": "Internet & Browsers"
+  },
+  {
+    "ans": "1",
+    "difficulty": "Hard",
+    "level": "Hard",
+    "op_en": [
+      "The use of a single bus to connect the CPU and memory",
+      "Separation of CPU and memory functions to reduce data bottlenecks",
+      "The use of separate memory for data and instructions",
+      "The integration of storage devices directly into the CPU"
+    ],
+    "op_hi": [
+      "सीपीयू और मेमोरी को जोड़ने के लिए सिंगल बस का उपयोग",
+      "डेटा बाधाओं को कम करने के लिए सीपीयू और मेमोरी कार्यों को अलग करना",
+      "डेटा और निर्देशों के लिए अलग मेमोरी का उपयोग",
+      "स्टोरेज डिवाइस को सीधे सीपीयू में एकीकृत करना"
+    ],
+    "q_en": "What does the von Neumann architecture primarily focus on?<span style=\"color: white;\">223</span>",
+    "q_hi": "वॉन न्यूमैन आर्किटेक्चर मुख्य रूप से किस पर ध्यान केंद्रित करता है?<span style=\"color: white;\">223</span>",
+    "section": "Basic Familiarity with Computers Internet Social Media and Automation",
+    "solution": "वॉन न्यूमैन आर्किटेक्चर में डेटा और प्रोग्राम निर्देशों को एक ही मेमोरी में रखा जाता है। इसके कारण CPU और मेमोरी के बीच संचार के लिए एक ही 'सिंगल बस' (Single Bus) का उपयोग किया जाता है।",
+    "topic": "Computer Architecture"
+  },
+  {
+    "ans": "1",
+    "difficulty": "Medium",
+    "level": "Medium",
+    "op_en": [
+      "Disk Defragmenter",
+      "System Restore",
+      "Disk Cleanup",
+      "Task Manager"
+    ],
+    "op_hi": [
+      "डिस्क डीफ्रैग्मेंटर",
+      "सिस्टम रिस्टोर",
+      "डिस्क क्लीनअप",
+      "टास्क मैनेजर"
+    ],
+    "q_en": "Which Windows utility can be used to optimize disk performance by defragmenting files?<span style=\"color: white;\">356</span>",
+    "q_hi": "फाइलों को डीफ्रैगमैंट करके डिस्क प्रदर्शन को अनुकूलित करने के लिए किस विंडोज उपयोगिता का उपयोग किया जा सकता है?<span style=\"color: white;\">356</span>",
+    "section": "Basic Familiarity with Computers Internet Social Media and Automation",
+    "solution": "डिस्क डीफ्रैग्मेंटर टूल हार्ड डिस्क पर बिखरी हुई फाइलों को व्यवस्थित करता है ताकि उन्हें तेजी से पढ़ा जा सके। इससे कंप्यूटर की कार्यक्षमता और डिस्क का प्रदर्शन बेहतर होता है।",
+    "topic": "Windows Utilities"
+  },
+  {
+    "ans": "2",
+    "difficulty": "Easy",
+    "level": "Easy",
+    "op_en": [
+      "Right-click on the desktop, select \"New\", click \"Software\", and browse to the installer file.",
+      "Download the software installer, double-click the installer file, and follow the on-screen instructions.",
+      "Open the Command Prompt, type install software and follow the prompts.",
+      "Open the Control Panel, select \"Hardware and Sound\", click \"Install a program\", and follow the prompts."
+    ],
+    "op_hi": [
+      "डेस्कटॉप पर राइट-क्लिक करें, \"New\" चुनें, \"Software\" पर क्लिक करें और इंस्टॉलर फाइल पर जाएं।",
+      "सॉफ्टवेयर इंस्टॉलर डाउनलोड करें, इंस्टॉलर फाइल पर डबल-क्लिक करें, और ऑन-स्क्रीन निर्देशों का पालन करें।",
+      "कमांड प्रॉम्प्ट खोलें, install software टाइप करें और संकेतों का पालन करें।",
+      "कंट्रोल पैनल खोलें, \"Hardware and Sound\" चुनें, \"Install a program\" पर क्लिक करें और निर्देशों का पालन करें।"
+    ],
+    "q_en": "Which of the following steps correctly describes the process to install new software in Windows 10?",
+    "q_hi": "निम्नलिखित में से कौन सा चरण विंडोज 10 में नया सॉफ्टवेयर इंस्टॉल करने की प्रक्रिया का सही वर्णन करता है?",
+    "section": "Basic Familiarity with Computers Internet Social Media and Automation",
+    "solution": "विंडोज में किसी भी सॉफ्टवेयर को इंस्टॉल करने के लिए पहले उसकी सेटअप फाइल डाउनलोड की जाती है, फिर उस पर डबल-क्लिक करके इंस्टॉलेशन विजार्ड के निर्देशों का पालन किया जाता है।",
+    "topic": "Windows Basics"
+  },
+  {
+    "ans": "2",
+    "difficulty": "Medium",
+    "level": "Medium",
+    "op_en": [
+      "Sleep",
+      "Hibernate",
+      "Shutdown",
+      "Restart"
+    ],
+    "op_hi": [
+      "स्लीप",
+      "हाइबरनेट",
+      "शटडाउन",
+      "रिस्टार्ट"
+    ],
+    "q_en": "Which power-saving mode in Windows 10 OS saves your work to the hard drive and then completely powers off the computer?",
+    "q_hi": "विंडोज 10 ओएस में कौन सा पावर-सेविंग मोड आपके काम को हार्ड ड्राइव में सहेजता है और फिर कंप्यूटर को पूरी तरह से बंद कर देता है?",
+    "section": "Basic Familiarity with Computers Internet Social Media and Automation",
+    "solution": "'हाइबरनेट' (Hibernate) मोड वर्तमान कार्य स्थिति को हार्ड डिस्क पर सेव करता है और बिजली की सप्लाई बंद कर देता है। चालू करने पर कंप्यूटर वहीं से खुलता है जहाँ आपने काम छोड़ा था।",
+    "topic": "Windows OS"
+  },
+  {
+    "ans": "2",
+    "difficulty": "Easy",
+    "level": "Easy",
+    "op_en": [
+      "Output device settings",
+      "Printers &amp; Scanners",
+      "Printer Status and Alerts",
+      "Printing Tool and Installation"
+    ],
+    "op_hi": [
+      "आउटपुट डिवाइस सेटिंग्स",
+      "प्रिंटर और स्कैनर",
+      "प्रिंटर स्टेटस और अलर्ट",
+      "प्रिंटिंग टूल और इंस्टॉलेशन"
+    ],
+    "q_en": "Which utility of the Windows 10 operating system allows users to install a new printer in the PC?",
+    "q_hi": "विंडोज 10 ऑपरेटिंग सिस्टम की कौन सी उपयोगिता उपयोगकर्ताओं को पीसी में एक नया प्रिंटर इंस्टॉल करने की अनुमति देती है?",
+    "section": "Basic Familiarity with Computers Internet Social Media and Automation",
+    "solution": "विंडोज 10 में 'सेटिंग्स' के अंदर 'डिवाइस' विकल्प में 'Printers & Scanners' मेनू होता है। यहाँ से नया प्रिंटर सर्च करके उसे इंस्टॉल किया जा सकता है।",
+    "topic": "Windows Settings"
+  },
+  {
+    "ans": "3",
+    "difficulty": "Easy",
+    "level": "Easy",
+    "op_en": [
+      "Adobe Photoshop",
+      "Slide Share",
+      "Microsoft Edge",
+      "Spreadsheet"
+    ],
+    "op_hi": [
+      "एडोब फोटोशॉप",
+      "स्लाइड शेयर",
+      "माइक्रोसॉफ्ट एज",
+      "स्प्रेडशीट"
+    ],
+    "q_en": "Which of the following is an example of web browser?",
+    "q_hi": "निम्नलिखित में से कौन सा वेब ब्राउज़र का एक उदाहरण है?",
+    "section": "Basic Familiarity with Computers Internet Social Media and Automation",
+    "solution": "माइक्रोसॉफ्ट एज (Microsoft Edge) माइक्रोसॉफ्ट द्वारा बनाया गया एक वेब ब्राउज़र है। यह विंडोज ओएस का डिफॉल्ट ब्राउज़र है जिसका उपयोग इंटरनेट सर्फिंग के लिए होता है।",
+    "topic": "Internet Basics"
+  },
+  {
+    "ans": "4",
+    "difficulty": "Easy",
+    "level": "Easy",
+    "op_en": [
+      "Both options send the message to the sender.",
+      "Reply sends the message to multiple recipients, while Forward sends it to only one.",
+      "Both options save the message as a draft.",
+      "Reply sends the message to the sender, while Forward sends it to a new recipient."
+    ],
+    "op_hi": [
+      "दोनों विकल्प प्रेषक को संदेश भेजते हैं।",
+      "रिप्लाई कई प्राप्तकर्ताओं को संदेश भेजता है, जबकि फॉरवर्ड इसे केवल एक को भेजता है।",
+      "दोनों विकल्प संदेश को ड्राफ्ट के रूप में सहेजते हैं।",
+      "रिप्लाई संदेश को प्रेषक को भेजता है, जबकि फॉरवर्ड इसे एक नए प्राप्तकर्ता को भेजता है।"
+    ],
+    "q_en": "What is the difference between the 'Reply' and 'Forward' options in an email?",
+    "q_hi": "ईमेल में 'रिप्लाई' और 'फॉरवर्ड' विकल्पों के बीच क्या अंतर है?",
+    "section": "Basic Familiarity with Computers Internet Social Media and Automation",
+    "solution": "'Reply' मूल प्रेषक को जवाब देने के लिए है, जबकि 'Forward' किसी प्राप्त ईमेल को किसी अन्य तीसरे व्यक्ति को भेजने के लिए उपयोग किया जाता है।",
+    "topic": "Email Basics"
+  }
+]
