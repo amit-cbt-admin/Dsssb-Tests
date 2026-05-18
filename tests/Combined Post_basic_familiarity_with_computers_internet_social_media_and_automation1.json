@@ -1,0 +1,112 @@
+[
+  {
+    "ans": "2",
+    "difficulty": "Medium",
+    "level": "Medium",
+    "op_en": [
+      "Use Ctrl + Shift + C and select Clear History",
+      "Click the three dots in the upper-right corner &gt; Settings &gt; Privacy and Security &gt; Delete Browsing Data",
+      "Click the three dots in the upper-right corner &gt; Privacy and Security &gt; Settings &gt; Clear Browsing Data",
+      "Open Tools from the menu bar &gt; Clear Cache and Cookies"
+    ],
+    "op_hi": [
+      "Ctrl + Shift + C का उपयोग करें और 'Clear History' चुनें",
+      "ऊपरी-दाएँ कोने में तीन बिंदुओं पर क्लिक करें &gt; Settings &gt; Privacy and Security &gt; Delete Browsing Data",
+      "ऊपरी-दाएँ कोने में तीन बिंदुओं पर क्लिक करें &gt; Privacy and Security &gt; Settings &gt; Clear Browsing Data",
+      "मेनू बार से Tools खोलें &gt; Clear Cache and Cookies"
+    ],
+    "q_en": "Which sequence of actions is followed to clear the cache and cookies in Google Chrome?<span style=\"color: white;\">44</span>",
+    "q_hi": "गूगल क्रोम (Google Chrome) में कैश और कुकीज़ को साफ़ करने के लिए क्रियाओं के किस क्रम का पालन किया जाता है?<span style=\"color: white;\">44</span>",
+    "section": "Basic Familiarity with Computers Internet Social Media and Automation1",
+    "solution": "गूगल क्रोम में ब्राउज़िंग डेटा साफ़ करने का सही चरण इस प्रकार है:<br>1. ब्राउज़र के ऊपरी-दाएँ कोने में स्थित तीन बिंदुओं (कस्टमाइज़ और कंट्रोल मेनू) पर क्लिक करें।<br>2. इसके बाद 'Settings' विकल्प को चुनें।<br>3. बाईं ओर के पैनल से 'Privacy and Security' पर क्लिक करें।<br>4. अंत में 'Delete Browsing Data' (या Clear browsing data) विकल्प चुनें और 'Clear data' बटन दबाएँ।",
+    "topic": "Google Chrome Settings"
+  },
+  {
+    "ans": "4",
+    "difficulty": "Easy",
+    "level": "Easy",
+    "op_en": [
+      "CTRL+ALT+N",
+      "CTRL+F",
+      "ALT+N",
+      "CTRL+N"
+    ],
+    "op_hi": [
+      "CTRL+ALT+N",
+      "CTRL+F",
+      "ALT+N",
+      "CTRL+N"
+    ],
+    "q_en": "A keyboard shortcut to create a new blank file directly in MS-Word is:",
+    "q_hi": "MS-Word में सीधे एक नई खाली फ़ाइल बनाने के लिए कीबोर्ड शॉर्टकट क्या है?",
+    "section": "Basic Familiarity with Computers Internet Social Media and Automation1",
+    "solution": "माइक्रोसॉफ्ट वर्ड (MS-Word) में एक नया ब्लैंक डॉक्यूमेंट खोलने के लिए कीबोर्ड शॉर्टकट 'CTRL + N' का उपयोग किया जाता है। यहाँ 'N' अक्षर 'New' को दर्शाता है। अन्य विकल्प जैसे CTRL+F का उपयोग फाइल में कुछ खोजने (Find) के लिए किया जाता है।",
+    "topic": "MS-Word Shortcuts"
+  },
+  {
+    "ans": "2",
+    "difficulty": "Easy",
+    "level": "Easy",
+    "op_en": [
+      "Taskbar",
+      "File Explorer",
+      "Start Menu",
+      "Notification area"
+    ],
+    "op_hi": [
+      "टास्कबार (Taskbar)",
+      "फ़ाइल एक्सप्लोरर (File Explorer)",
+      "स्टार्ट मेनू (Start Menu)",
+      "नोटिफिकेशन एरिया (Notification area)"
+    ],
+    "q_en": "Which tool in Windows allows one to organise files and folders and navigate the file system?<br>",
+    "q_hi": "विंडोज (Windows) में कौन सा टूल फ़ाइलों और फ़ोल्डरों को व्यवस्थित करने और फ़ाइल सिस्टम को नेविगेट करने की अनुमति देता है?<br>",
+    "section": "Basic Familiarity with Computers Internet Social Media and Automation1",
+    "solution": "विंडोज में 'फ़ाइल एक्सप्लोरर' (File Explorer) वह एप्लीकेशन है जिसके माध्यम से हम कंप्यूटर की हार्ड ड्राइव, फोल्डर और फाइलों को देख और व्यवस्थित कर सकते हैं। इसे पहले विंडोज एक्सप्लोरर के नाम से भी जाना जाता था।",
+    "topic": "Windows OS Tools"
+  },
+  {
+    "ans": "1",
+    "difficulty": "Medium",
+    "level": "Medium",
+    "op_en": [
+      "Selecting the \"Non-Labels\" option under the preview tab",
+      "Merging the label template with a mailing list to generate individual labels",
+      "Printing the labels directly without previewing",
+      "Selecting the \"Labels\" option under the Mailings tab"
+    ],
+    "op_hi": [
+      "प्रिव्यू टैब के अंतर्गत \"Non-Labels\" विकल्प चुनना",
+      "व्यक्तिगत लेबल बनाने के लिए मेलिंग सूची के साथ लेबल टेम्पलेट को मर्ज करना",
+      "बिना प्रिव्यू के सीधे लेबल प्रिंट करना",
+      "मेलिंग टैब के अंतर्गत \"Labels\" विकल्प चुनना"
+    ],
+    "q_en": "Which of the following steps is NOT part of the process for creating mailing labels in Microsoft Word?",
+    "q_hi": "माइक्रोसॉफ्ट वर्ड में मेलिंग लेबल (Mailing Labels) बनाने की प्रक्रिया में निम्नलिखित में से कौन सा चरण शामिल नहीं है?",
+    "section": "Basic Familiarity with Computers Internet Social Media and Automation1",
+    "solution": "MS Word में मेलिंग लेबल बनाने के लिए 'Mailings' टैब में जाकर 'Labels' का विकल्प चुना जाता है। इसके बाद लेबल टेम्पलेट को एड्रेस लिस्ट के साथ मर्ज किया जाता है। प्रिव्यू टैब के अंतर्गत \"Non-Labels\" जैसा कोई विकल्प इस प्रक्रिया का हिस्सा नहीं होता है, इसलिए यह कथन गलत है।",
+    "topic": "MS-Word Mailings"
+  },
+  {
+    "ans": "4",
+    "difficulty": "Medium",
+    "level": "Medium",
+    "op_en": [
+      "Start &gt; Settings &gt; Date &amp; time",
+      "Start &gt; Settings &gt; Update &amp; security &gt; Date &amp; time",
+      "Go to right-most corner on taskbar where date and time is showing &gt; Click on date &amp; time &gt; Change date and time",
+      "Start &gt; Settings &gt; Time &amp; language &gt; Date &amp; time"
+    ],
+    "op_hi": [
+      "Start &gt; Settings &gt; Date &amp; time",
+      "Start &gt; Settings &gt; Update &amp; security &gt; Date &amp; time",
+      "टास्कबार के सुदूर दाएँ कोने पर जहाँ तारीख और समय दिख रहा है वहाँ जाएँ &gt; तारीख और समय पर क्लिक करें &gt; Change date and time",
+      "Start &gt; Settings &gt; Time &amp; language &gt; Date &amp; time"
+    ],
+    "q_en": "In order to change the date and time, which option among following should be used?",
+    "q_hi": "दिनांक और समय बदलने के लिए, निम्नलिखित में से किस विकल्प का उपयोग किया जाना चाहिए?",
+    "section": "Basic Familiarity with Computers Internet Social Media and Automation1",
+    "solution": "विंडोज 10 में तारीख और समय (Date and Time) बदलने के लिए निम्नलिखित चरणों का पालन किया जाता है:<br>1. 'Start' बटन पर क्लिक करें और 'Settings' (गियर आइकन) खोलें।<br>2. सेटिंग्स मेनू में से 'Time &amp; Language' विकल्प चुनें।<br>3. अब बाईं ओर से 'Date &amp; Time' पर क्लिक करें, जहाँ से आप मैन्युअल रूप से समय बदल सकते हैं या इसे इंटरनेट के साथ सिंक कर सकते हैं।",
+    "topic": "Windows Settings"
+  }
+]
