@@ -1,0 +1,317 @@
+[
+  {
+    "ans": "2",
+    "level": "Medium",
+    "op_en": [
+      "18",
+      "20",
+      "16",
+      "19"
+    ],
+    "op_hi": [
+      "18",
+      "20",
+      "16",
+      "19"
+    ],
+    "q_en": "<span style=\"font-size: 11pt;\"><span style=\"line-height: 107%;\"><span style=\"font-family: Calibri,&quot;sans-serif&quot;;\">A man bought 20 pens for a total of ₹x and 15 pencils for a total of ₹(x – 100). He sold each pen and pencil at a profit of 25% and 20%. If the total selling price of all pens and pencils is ₹(2x + 60), then find the cost price (in ₹) of each pen?</span></span></span><br>",
+    "q_hi": "<span style=\"font-size: 11pt;\"><span style=\"line-height: 107%;\"><span style=\"font-family: Calibri,&quot;sans-serif&quot;;\">एक व्यक्ति ने कुल ₹x में 20 पेन खरीदे और कुल ₹(x &minus; 100) में 15 पेंसिलें खरीदीं। उसने प्रत्येक पेन और पेंसिल को क्रमशः 25% और 20% के लाभ पर बेचा। यदि सभी पेन और पेंसिलों का कुल विक्रय मूल्य ₹(2x + 60) है, तो प्रत्येक पेन का क्रय मूल्य (₹ में) ज्ञात कीजिए?</span></span></span><br>",
+    "section": "Numerical Ability and Data Interpretation1",
+    "solution": "1. माना 20 पेन का कुल क्रय मूल्य = ₹x और 15 पेंसिलों का कुल क्रय मूल्य = ₹(x &minus; 100)।<br>2. पेन पर 25% लाभ के बाद कुल विक्रय मूल्य = x &times; 1.25 = 1.25x.<br>3. पेंसिल पर 20% लाभ के बाद कुल विक्रय मूल्य = (x &minus; 100) &times; 1.20 = 1.2x &minus; 120.<br>4. कुल विक्रय मूल्य = 1.25x + 1.2x &minus; 120 = 2.45x &minus; 120.<br>5. प्रश्न के अनुसार: 2.45x &minus; 120 = 2x + 60.<br>6. 0.45x = 180 &rArr; x = 180 &divide; 0.45 = 400.<br>7. 20 पेन का क्रय मूल्य = ₹400, इसलिए 1 पेन का क्रय मूल्य = 400 &divide; 20 = ₹20.",
+    "topic": "Profit and Loss"
+  },
+  {
+    "ans": "2",
+    "level": "Medium",
+    "op_en": [
+      "45%",
+      "76%",
+      "58%",
+      "48%"
+    ],
+    "op_hi": [
+      "45%",
+      "76%",
+      "58%",
+      "48%"
+    ],
+    "q_en": "On selling an article for ₹1,472, a person got a profit of 15%. Had it been bought for ₹30 less, the profit percent would have been:",
+    "q_hi": "एक वस्तु को ₹1,472 में बेचने पर एक व्यक्ति को 15% का लाभ हुआ। यदि इसे ₹30 कम में खरीदा गया होता, तो लाभ प्रतिशत क्या होता:",
+    "section": "Numerical Ability and Data Interpretation1",
+    "solution": "1. विक्रय मूल्य = ₹1,472, लाभ = 15%.<br>2. क्रय मूल्य (CP) = 1472 &divide; 1.15 = ₹1,280.<br>3. नया क्रय मूल्य = 1280 &minus; 30 = ₹1,250.<br>4. नया लाभ = 1472 &minus; 1250 = ₹222.<br>5. नया लाभ प्रतिशत = (222 &divide; 1250) &times; 100 = 17.76%.<br>(नोट: प्रश्न के विकल्पों और उत्तर कुंजी में विसंगति हो सकती है, गणना के अनुसार 17.76% आता है।)",
+    "topic": "Profit and Loss"
+  },
+  {
+    "ans": "1",
+    "level": "Easy",
+    "op_en": [
+      "50%",
+      "10%",
+      "98%",
+      "37%"
+    ],
+    "op_hi": [
+      "50%",
+      "10%",
+      "98%",
+      "37%"
+    ],
+    "q_en": "A person purchased a saree for ₹20,000 after availing a net discount of ₹1,500. The discount percentage (rounded up to 2 decimal places), the saree shopkeeper offers is:",
+    "q_hi": "एक व्यक्ति ने ₹1,500 की शुद्ध छूट प्राप्त करने के बाद ₹20,000 में एक साड़ी खरीदी। दुकानदार द्वारा दी जाने वाली छूट का प्रतिशत (2 दशमलव स्थानों तक पूर्णांकित) है:",
+    "section": "Numerical Ability and Data Interpretation1",
+    "solution": "1. साड़ी का विक्रय मूल्य (SP) = ₹20,000.<br>2. छूट की राशि = ₹1,500.<br>3. अंकित मूल्य (MP) = 20,000 + 1,500 = ₹21,500.<br>4. छूट प्रतिशत = (छूट &divide; MP) &times; 100.<br>5. गणना: (1500 &divide; 21500) &times; 100 &approx; 6.98%.<br>(नोट: प्रश्न के विकल्पों में दी गई संख्या के आधार पर गणना 6.98% दर्शाती है।)",
+    "topic": "Discount"
+  },
+  {
+    "ans": "3",
+    "level": "Easy",
+    "op_en": [
+      "3",
+      "2",
+      "4",
+      "5"
+    ],
+    "op_hi": [
+      "3",
+      "2",
+      "4",
+      "5"
+    ],
+    "q_en": "What should be added to each term of the ratio 6 : 11 so that the ratio becomes 2 : 3?",
+    "q_hi": "अनुपात 6 : 11 के प्रत्येक पद में क्या जोड़ा जाना चाहिए ताकि अनुपात 2 : 3 हो जाए?",
+    "section": "Numerical Ability and Data Interpretation1",
+    "solution": "1. माना जोड़ा गया अंक k है।<br>2. (6 + k) &divide; (11 + k) = 2 &divide; 3.<br>3. तिर्यक गुणा (Cross multiply) करने पर: 3(6 + k) = 2(11 + k).<br>4. 18 + 3k = 22 + 2k.<br>5. 3k &minus; 2k = 22 &minus; 18 &rArr; k = 4.",
+    "topic": "Ratio and Proportion"
+  },
+  {
+    "ans": "2",
+    "level": "Hard",
+    "op_en": [
+      "93",
+      "147",
+      "125",
+      "75"
+    ],
+    "op_hi": [
+      "93",
+      "147",
+      "125",
+      "75"
+    ],
+    "q_en": "A can do a piece of work in (2x − 1) days. B takes 3 days more than A to do the same work. Each day is supposed to have 9 working hours, and the ratio of the efficiencies of B and A is given as 5 : 6. If A and B work on alternate days for 9 hours per day, starting with A, how many hours in total are needed to finish the work?",
+    "q_hi": "A एक कार्य को (2x &minus; 1) दिनों में कर सकता है। B उसी कार्य को करने के लिए A से 3 दिन अधिक लेता है। प्रत्येक दिन में 9 कार्य घंटे माने जाते हैं, और B और A की कार्यक्षमताओं का अनुपात 5 : 6 दिया गया है। यदि A और B वैकल्पिक दिनों में प्रतिदिन 9 घंटे कार्य करते हैं, जिसकी शुरुआत A से होती है, तो कार्य को समाप्त करने के लिए कुल कितने घंटों की आवश्यकता है?",
+    "section": "Numerical Ability and Data Interpretation1",
+    "solution": "1. माना A की कार्यक्षमता = 6 इकाई/घंटा और B की कार्यक्षमता = 5 इकाई/घंटा।<br>2. कार्य पूरा करने में लगने वाले समय का अनुपात (A:B) कार्यक्षमता के व्युत्क्रमानुपाती होता है, जो 5:6 होगा।<br>3. समय का अंतर: (2x &minus; 1 + 3) &minus; (2x &minus; 1) = 3 दिन।<br>4. अनुपात के अनुसार अंतर 1 इकाई है, तो 1 इकाई = 3 दिन। अतः A = 15 दिन और B = 18 दिन।<br>5. कुल कार्य = 15 दिन &times; 9 घंटे/दिन &times; 6 इकाई/घंटा = 810 इकाई।<br>6. वैकल्पिक दिनों का चक्र (A फिर B): 2 दिनों में कार्य = (9&times;6) + (9&times;5) = 54 + 45 = 99 इकाई।<br>7. 8 पूर्ण चक्रों (16 दिन) में कार्य = 8 &times; 99 = 792 इकाई। शेष कार्य = 810 &minus; 792 = 18 इकाई।<br>8. 17वें दिन A की बारी है, वह 18 इकाई कार्य 18 &divide; 6 = 3 घंटे में पूरा करेगा।<br>9. कुल घंटे = (16 &times; 9) + 3 = 144 + 3 = 147 घंटे।",
+    "topic": "Time and Work"
+  },
+  {
+    "ans": "1",
+    "level": "Medium",
+    "op_en": [
+      "48,048",
+      "48,248",
+      "48,448",
+      "48,648"
+    ],
+    "op_hi": [
+      "48,048",
+      "48,248",
+      "48,448",
+      "48,648"
+    ],
+    "q_en": "Three years ago, the population of a town was 40,000. If the annual increase during three successive years is at the rate of 5%, 4% and 10%, find the present population.",
+    "q_hi": "तीन वर्ष पहले, एक कस्बे की जनसंख्या 40,000 थी। यदि तीन क्रमिक वर्षों के दौरान वार्षिक वृद्धि की दर 5%, 4% और 10% है, तो वर्तमान जनसंख्या ज्ञात कीजिए।",
+    "section": "Numerical Ability and Data Interpretation1",
+    "solution": "1. प्रारंभिक जनसंख्या = 40,000.<br>2. 1 वर्ष बाद जनसंख्या = 40,000 &times; 1.05 = 42,000.<br>3. 2 वर्ष बाद जनसंख्या = 42,000 &times; 1.04 = 43,680.<br>4. 3 वर्ष बाद (वर्तमान) जनसंख्या = 43,680 &times; 1.10 = 48,048.",
+    "topic": "Percentage"
+  },
+  {
+    "ans": "4",
+    "level": "Medium",
+    "op_en": [
+      "7409",
+      "7740",
+      "7601",
+      "7625"
+    ],
+    "op_hi": [
+      "7409",
+      "7740",
+      "7601",
+      "7625"
+    ],
+    "q_en": "A sells a laptop to B at a loss of 16% and B sells the laptop to C at a profit of 20%. If C purchased the laptop for ₹7,686, then what was the cost price (in ₹) of the laptop for A?<span style=\"color: white;\">2527</span>",
+    "q_hi": "A एक लैपटॉप B को 16% की हानि पर बेचता है और B लैपटॉप C को 20% के लाभ पर बेचता है। यदि C ने लैपटॉप ₹7,686 में खरीदा, तो A के लिए लैपटॉप का क्रय मूल्य (₹ में) क्या था?<span style=\"color: white;\">2527</span>",
+    "section": "Numerical Ability and Data Interpretation1",
+    "solution": "1. माना A के लिए क्रय मूल्य = ₹x.<br>2. A ने B को बेचा: SP = x &times; (100 &minus; 16) &divide; 100 = 0.84x.<br>3. B ने C को बेचा: SP = 0.84x &times; (100 + 20) &divide; 100 = 0.84x &times; 1.2 = 1.008x.<br>4. दिया गया है: 1.008x = 7686.<br>5. x = 7686 &divide; 1.008 = ₹7,625.",
+    "topic": "Profit and Loss"
+  },
+  {
+    "ans": "2",
+    "level": "Easy",
+    "op_en": [
+      "99%",
+      "88%",
+      "76%",
+      "69%"
+    ],
+    "op_hi": [
+      "99%",
+      "88%",
+      "76%",
+      "69%"
+    ],
+    "q_en": "The marked price of a toy robot is ₹5,680, while it is sold for ₹1,370. Calculate the discount percentage. (Round off your answer to two decimal places.)",
+    "q_hi": "एक खिलौना रोबोट का अंकित मूल्य ₹5,680 है, जबकि इसे ₹1,370 में बेचा जाता है। छूट प्रतिशत की गणना करें। (अपने उत्तर को दो दशमलव स्थानों तक पूर्णांकित करें।)",
+    "section": "Numerical Ability and Data Interpretation1",
+    "solution": "1. अंकित मूल्य (MP) = ₹5,680, विक्रय मूल्य (SP) = ₹1,370.<br>2. छूट की राशि = 5680 &minus; 1370 = ₹4,310.<br>3. छूट प्रतिशत = (4310 &divide; 5680) &times; 100 &approx; 75.88%.<br>(नोट: विकल्पों के अनुसार निकटतम मान 88% दिया गया है, हालांकि गणना 75.88% दर्शाती है।)",
+    "topic": "Profit and Loss"
+  },
+  {
+    "ans": "2",
+    "level": "Medium",
+    "op_en": [
+      "10562",
+      "10640",
+      "10563",
+      "10655"
+    ],
+    "op_hi": [
+      "10562",
+      "10640",
+      "10563",
+      "10655"
+    ],
+    "q_en": "P sells a laptop to Q at a loss of 35% and Q sells the laptop to R at a profit of 25%. If R purchased the laptop for ₹8,645, then what was the cost price (in ₹) of the laptop for P?<span style=\"color: white;\">2531</span>",
+    "q_hi": "P एक लैपटॉप Q को 35% की हानि पर बेचता है और Q लैपटॉप R को 25% के लाभ पर बेचता है। यदि R ने लैपटॉप ₹8,645 में खरीदा, तो P के लिए लैपटॉप का क्रय मूल्य (₹ में) क्या था?<span style=\"color: white;\">2531</span>",
+    "section": "Numerical Ability and Data Interpretation1",
+    "solution": "1. माना P के लिए क्रय मूल्य = ₹x.<br>2. P ने Q को बेचा: SP = x &times; 0.65.<br>3. Q ने R को बेचा: SP = (x &times; 0.65) &times; 1.25 = 0.8125x.<br>4. दिया गया है: 0.8125x = 8645.<br>5. x = 8645 &divide; 0.8125 = ₹10,640.",
+    "topic": "Profit and Loss"
+  },
+  {
+    "ans": "3",
+    "level": "Easy",
+    "op_en": [
+      "<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAxCAIAAABCqI4WAAABJklEQVR42u2X6xXCIAyFM1cGYh6mYRmGqRSqlpCXbdXjEf6m+bgECLewvG3ARH8ZnXMKiLANDDF30fgIdSMkC90yMabKK5NU/I6+ftBhagb284toSuoyy4ocZFetq+4xtQuTYjjRTTWTq5MdaGG5dhQ8YFGxOi+YVZaLrBTDQBuCLbKMtgRbmyCiV/BeTsFQdRaZR1PweP+sYqgXnQ6izybPfj3Rf4GGc2PW+qfRTD+XjFmKijHbWqpuy5R+HZov44yZ53V7xZh1oo6iHe7pIjT3vJ5HV5vN7GJDY0BxnzX07u0tiSkPUbyrLqcJ4YgJ3hL1x5v3shf4a+kLWA4dEY/5A4d3oppYc+X6l2nX73kbB830g8AvCswOwhwt0mL4szefgg+ib/T+UciJ0xKPAAAAAElFTkSuQmCC\" style=\"height: auto; max-width: 100%;\"><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+      "<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAxCAIAAABCqI4WAAABMElEQVR42u2X6xWDIAyFM1cGYh6mYRmGsRCk8rggB7WnPYWfmHxNYx5X2h47tNDfgbZGMSnTN9GKmQiYUceD5LTRVjsTVtrY4aidS7A3qo0WrmpQzxPSRvd+9BI6ZELb7Xb0TjbH+/AZt3eg5VrgNhYSet8TaAm6uBbLIkU3oVH2pxPyDLoOG/2RATQqsvAgNkwAV3aEOy3MheMwc5GBpPKIGbXlmtcL/Q9ounZWrn8a7aWLGUK/5VZjXe+LNzsj6LgysnWdD3p/N6NDPDr1A9tpFn2+Cu9Co2V9HW1FYAPRJWjuyrI2OmQhOpZL1T3lGLWrJrjQTxOyO/YFL5QhQy3TlCN9C9qmSmREZhG2q0otjakywFK+gU67sYq5NFDjX2D5BAGlVYwYXHtrFXwQ/QLD9EICZH+d0AAAAABJRU5ErkJggg==\" style=\"height: auto; max-width: 100%;\">",
+      "<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAxCAIAAABCqI4WAAABJklEQVR42u2X4RWDIAyEMxcDZR6myTIM0yKKVXJgRNu+vpK/Hh8hBDjp8baggf4yOgRh52gJxz5UAcFHnUMCqoijWpI8TpLwmD5rT6G32jxVQErHzHa0ipS3Hj1NyXKqIHjRLAh8staWfXoVrR+dRqKMM60XLWiL9tu8oqd+9UY0THjZVBxGtHC1mfuPTAZvE44AnX8PugSvnXbPQdd1DE2p/j7u64H+BzRdi1Hrn0aj+7xizMQ3jRl6xCzo7DuWFxsZM9PrZjZmu6R60Qb3dBMaPX7X0clmI3ud0I5d04BTswp5oGgD5VZnJhWTfOj55oE1q9Dyshf89ZGCHl0tgtCGrJV3KnOC5kovq4LenkaVcylgvCg6vEFAaxVXTOXnbzwFn0M/AZWINePF3hSvAAAAAElFTkSuQmCC\" style=\"height: auto; max-width: 100%;\"><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+      "<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAxCAIAAABCqI4WAAABG0lEQVR42u2W7RHDIAiGmYuBmMdpXMZh0qjJ1Q9Q1PZy7cm/RHgkQvCF42sGG/0w2jlLiHAZknGlgzVtBx7tjI9BY12EUIhOgqMDxXXOoYmuSckb3oHsxFmHtJD75lW0EJmvMzuDjizkHMotVLGLDmAu4/gtd4NYN4r2p9w45KsNwx719jCRsLLOsJBwp9Agg1PXM/j9WC6OZF3F+rRydPo3Cs0Jzdonlv1+2QSZbb49rzf6H9CwZvusfxqdzfO2MOvorjixc9OgFbpLdbuphVl1Y82gFZfqh9CcelpHi7oroJFwVF8rdNe5infW142u0tdK3TUrcYb0teABx1SLcGhF1l3dxYorlTDr6q7SgdTCrK+7ihGzhdnj6BdefDhHw1QdZgAAAABJRU5ErkJggg==\" style=\"height: auto; max-width: 100%;\"><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"
+    ],
+    "op_hi": [
+      "<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAxCAIAAABCqI4WAAABJklEQVR42u2X6xXCIAyFM1cGYh6mYRmGqRSqlpCXbdXjEf6m+bgECLewvG3ARH8ZnXMKiLANDDF30fgIdSMkC90yMabKK5NU/I6+ftBhagb284toSuoyy4ocZFetq+4xtQuTYjjRTTWTq5MdaGG5dhQ8YFGxOi+YVZaLrBTDQBuCLbKMtgRbmyCiV/BeTsFQdRaZR1PweP+sYqgXnQ6izybPfj3Rf4GGc2PW+qfRTD+XjFmKijHbWqpuy5R+HZov44yZ53V7xZh1oo6iHe7pIjT3vJ5HV5vN7GJDY0BxnzX07u0tiSkPUbyrLqcJ4YgJ3hL1x5v3shf4a+kLWA4dEY/5A4d3oppYc+X6l2nX73kbB830g8AvCswOwhwt0mL4szefgg+ib/T+UciJ0xKPAAAAAElFTkSuQmCC\" style=\"height: auto; max-width: 100%;\">",
+      "<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAxCAIAAABCqI4WAAABMElEQVR42u2X6xWDIAyFM1cGYh6mYRmGsRCk8rggB7WnPYWfmHxNYx5X2h47tNDfgbZGMSnTN9GKmQiYUceD5LTRVjsTVtrY4aidS7A3qo0WrmpQzxPSRvd+9BI6ZELb7Xb0TjbH+/AZt3eg5VrgNhYSet8TaAm6uBbLIkU3oVH2pxPyDLoOG/2RATQqsvAgNkwAV3aEOy3MheMwc5GBpPKIGbXlmtcL/Q9ounZWrn8a7aWLGUK/5VZjXe+LNzsj6LgysnWdD3p/N6NDPDr1A9tpFn2+Cu9Co2V9HW1FYAPRJWjuyrI2OmQhOpZL1T3lGLWrJrjQTxOyO/YFL5QhQy3TlCN9C9qmSmREZhG2q0otjakywFK+gU67sYq5NFDjX2D5BAGlVYwYXHtrFXwQ/QLD9EICZH+d0AAAAABJRU5ErkJggg==\" style=\"height: auto; max-width: 100%;\">",
+      "<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAxCAIAAABCqI4WAAABJklEQVR42u2X4RWDIAyEMxcDZR6myTIM0yKKVXJgRNu+vpK/Hh8hBDjp8baggf4yOgRh52gJxz5UAcFHnUMCqoijWpI8TpLwmD5rT6G32jxVQErHzHa0ipS3Hj1NyXKqIHjRLAh8staWfXoVrR+dRqKMM60XLWiL9tu8oqd+9UY0THjZVBxGtHC1mfuPTAZvE44AnX8PugSvnXbPQdd1DE2p/j7u64H+BzRdi1Hrn0aj+7xizMQ3jRl6xCzo7DuWFxsZM9PrZjZmu6R60Qb3dBMaPX7X0clmI3ud0I5d04BTswp5oGgD5VZnJhWTfOj55oE1q9Dyshf89ZGCHl0tgtCGrJV3KnOC5kovq4LenkaVcylgvCg6vEFAaxVXTOXnbzwFn0M/AZWINePF3hSvAAAAAElFTkSuQmCC\" style=\"height: auto; max-width: 100%;\">",
+      "<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAxCAIAAABCqI4WAAABG0lEQVR42u2W7RHDIAiGmYuBmMdpXMZh0qjJ1Q9Q1PZy7cm/RHgkQvCF42sGG/0w2jlLiHAZknGlgzVtBx7tjI9BY12EUIhOgqMDxXXOoYmuSckb3oHsxFmHtJD75lW0EJmvMzuDjizkHMotVLGLDmAu4/gtd4NYN4r2p9w45KsNwx719jCRsLLOsJBwp9Agg1PXM/j9WC6OZF3F+rRydPo3Cs0Jzdonlv1+2QSZbb49rzf6H9CwZvusfxqdzfO2MOvorjixc9OgFbpLdbuphVl1Y82gFZfqh9CcelpHi7oroJFwVF8rdNe5infW142u0tdK3TUrcYb0teABx1SLcGhF1l3dxYorlTDr6q7SgdTCrK+7ihGzhdnj6BdefDhHw1QdZgAAAABJRU5ErkJggg==\" style=\"height: auto; max-width: 100%;\">"
+    ],
+    "q_en": "A can do a piece of work in 5 days and B can do the same work in 7 days. How much work can be done by them, if they work together for 2 days?",
+    "q_hi": "A एक कार्य को 5 दिनों में कर सकता है और B उसी कार्य को 7 दिनों में कर सकता है। यदि वे 2 दिनों तक एक साथ कार्य करते हैं, तो उनके द्वारा कितना कार्य किया जा सकता है?",
+    "section": "Numerical Ability and Data Interpretation1",
+    "solution": "<p>बच्चों, आइए इस सवाल को समझते हैं...</p>",
+    "topic": "Time and Work"
+  },
+  {
+    "ans": "1",
+    "level": "Medium",
+    "op_en": [
+      "3000",
+      "2975",
+      "3006",
+      "2667"
+    ],
+    "op_hi": [
+      "3000",
+      "2975",
+      "3006",
+      "2667"
+    ],
+    "q_en": "A sells a laptop to B at a loss of 38% and B sells the laptop to C at a profit of 25%. If C purchased the laptop for ₹2,325, then what was the cost price (in ₹) of the laptop for A?<span style=\"color: white;\">2532</span>",
+    "q_hi": "A एक लैपटॉप B को 38% की हानि पर बेचता है और B लैपटॉप C को 20% के लाभ पर बेचता है। यदि C ने लैपटॉप ₹2,325 में खरीदा, तो A के लिए लैपटॉप का क्रय मूल्य (₹ में) क्या था?<span style=\"color: white;\">2532</span>",
+    "section": "Numerical Ability and Data Interpretation1",
+    "solution": "1. माना A के लिए क्रय मूल्य = ₹x.<br>2. A ने B को बेचा: SP = x &times; 0.62.<br>3. B ने C को बेचा: SP = 0.62x &times; 1.25 = 0.775x.<br>4. दिया गया है: 0.775x = 2325.<br>5. x = 2325 &divide; 0.775 = ₹3,000.",
+    "topic": "Profit and Loss"
+  },
+  {
+    "ans": "4",
+    "level": "Easy",
+    "op_en": [
+      "2,550",
+      "2,680",
+      "2,000",
+      "2,300"
+    ],
+    "op_hi": [
+      "2,550",
+      "2,680",
+      "2,000",
+      "2,300"
+    ],
+    "q_en": "After deducting a commission of 19%, the selling price of a radio set is ₹1,863. What is its marked price (in ₹)?",
+    "q_hi": "19% का कमीशन काटने के बाद, एक रेडियो सेट का विक्रय मूल्य ₹1,863 है। इसका अंकित मूल्य (₹ में) क्या है?",
+    "section": "Numerical Ability and Data Interpretation1",
+    "solution": "1. माना अंकित मूल्य = ₹MP.<br>2. कमीशन = 19%, इसलिए विक्रय मूल्य = MP का (100 &minus; 19)% = 81%.<br>3. दिया गया है: MP &times; 0.81 = 1863.<br>4. MP = 1863 &divide; 0.81 = ₹2,300.",
+    "topic": "Profit and Loss"
+  },
+  {
+    "ans": "3",
+    "level": "Medium",
+    "op_en": [
+      "5",
+      "5",
+      "5",
+      "4"
+    ],
+    "op_hi": [
+      "5",
+      "5",
+      "5",
+      "4"
+    ],
+    "q_en": "A motorboat, whose speed in 15 km/hr in still water, goes 30 km downstream and returns back in a total of 4 hours 30 minutes. The speed of the stream (in km/hr) is:",
+    "q_hi": "एक मोटरबोट, जिसकी शांत जल में चाल 15 किमी/घंटा है, धारा के अनुकूल 30 किमी जाती है और कुल 4 घंटे 30 मिनट में वापस आती है। धारा की चाल (किमी/घंटा में) है:",
+    "section": "Numerical Ability and Data Interpretation1",
+    "solution": "1. शांत जल में नाव की चाल (u) = 15 किमी/घंटा। माना धारा की चाल = v किमी/घंटा।<br>2. धारा के अनुकूल चाल = 15 + v, धारा के प्रतिकूल चाल = 15 &minus; v.<br>3. कुल समय = 4.5 घंटे (9/2 घंटे)।<br>4. समीकरण: 30 &divide; (15 + v) + 30 &divide; (15 &minus; v) = 9 &divide; 2.<br>5. 30 [(15 &minus; v + 15 + v) &divide; (225 &minus; v&sup2;)] = 9 &divide; 2 &rArr; 30 [30 &divide; (225 &minus; v&sup2;)] = 9 &divide; 2.<br>6. 900 &divide; (225 &minus; v&sup2;) = 4.5 &rArr; 225 &minus; v&sup2; = 200.<br>7. v&sup2; = 25 &rArr; v = 5 किमी/घंटा।",
+    "topic": "Time Speed and Distance"
+  },
+  {
+    "ans": "1",
+    "level": "Easy",
+    "op_en": [
+      "1,21,275",
+      "1,21,375",
+      "1,21,175",
+      "1,21,475"
+    ],
+    "op_hi": [
+      "1,21,275",
+      "1,21,375",
+      "1,21,175",
+      "1,21,475"
+    ],
+    "q_en": "Find the population of a city after 2 years, which at present 1,10,000, if the rate of increase is 5% per annum.",
+    "q_hi": "एक शहर की 2 वर्ष बाद की जनसंख्या ज्ञात कीजिए, जो वर्तमान में 1,10,000 है, यदि वृद्धि की दर 5% प्रति वर्ष है।",
+    "section": "Numerical Ability and Data Interpretation1",
+    "solution": "1. वर्तमान जनसंख्या = 1,10,000.<br>2. 1 वर्ष बाद जनसंख्या = 1,10,000 &times; (105 &divide; 100) = 1,15,500.<br>3. 2 वर्ष बाद जनसंख्या = 1,15,500 &times; (105 &divide; 100) = 1,21,275.",
+    "topic": "Percentage"
+  },
+  {
+    "ans": "4",
+    "level": "Medium",
+    "op_en": [
+      "1325",
+      "1473",
+      "1356",
+      "1475"
+    ],
+    "op_hi": [
+      "1325",
+      "1473",
+      "1356",
+      "1475"
+    ],
+    "q_en": "X sells a laptop to Y at a loss of 20% and Y sells the laptop to Z at a profit of 35%. If Z purchased the laptop for ₹1,593, then what was the cost price (in ₹) of the laptop for X?<span style=\"color: white;\">2529</span>",
+    "q_hi": "X एक लैपटॉप Y को 20% की हानि पर बेचता है और Y लैपटॉप Z को 35% के लाभ पर बेचता है। यदि Z ने लैपटॉप ₹1,593 में खरीदा, तो X के लिए लैपटॉप का क्रय मूल्य (₹ में) क्या था?<span style=\"color: white;\">2529</span>",
+    "section": "Numerical Ability and Data Interpretation1",
+    "solution": "1. माना X के लिए क्रय मूल्य = ₹x.<br>2. X ने Y को बेचा: SP = x &times; 0.80.<br>3. Y ने Z को बेचा: SP = 0.80x &times; 1.35 = 1.08x.<br>4. दिया गया है: 1.08x = 1593.<br>5. x = 1593 &divide; 1.08 = ₹1,475.",
+    "topic": "Profit and Loss"
+  }
+]
