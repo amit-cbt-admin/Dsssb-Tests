@@ -1,0 +1,422 @@
+[
+  {
+    "ans": "1",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "18",
+      "28",
+      "8",
+      "24"
+    ],
+    "q_en": "",
+    "q_hi": "<img align=\"middle\" alt=\"fraction numerator cube root of 1728 over denominator fourth root of 10000 end fraction cross times 5 over 36 cross times 108\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mfrac»«mroot»«mn»1728«/mn»«mn»3«/mn»«/mroot»«mroot»«mn»10000«/mn»«mn»4«/mn»«/mroot»«/mfrac»«mo»§#215;«/mo»«mfrac»«mn»5«/mn»«mn»36«/mn»«/mfrac»«mo»§#215;«/mo»«mn»108«/mn»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,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\" style=\"max-width: none;\"> को सरलीकृत कीजिए।",
+    "section": "Arithmetical and Numerical Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "3",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "587497",
+      "584280",
+      "587134",
+      "589833"
+    ],
+    "q_en": "",
+    "q_hi": "निम्नलिखित में से कौन-सी संख्या, 58 से विभाज्य है?",
+    "section": "Arithmetical and Numerical Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "1",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "60 cm",
+      "53 cm",
+      "62 cm",
+      "54 cm"
+    ],
+    "q_en": "",
+    "q_hi": "2 cm आंतरिक व्यास वाले एक वृत्ताकार पाइप से 2 मीटर प्रति सेकंड की दर से जल एक बेलनाकार टंकी में प्रवाहित होता है, जिसके आधार की त्रिज्या 80 cm है। 32 मिनट में जल के स्तर में कितनी वृद्धि होगी?",
+    "section": "Arithmetical and Numerical Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "4",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "1533",
+      "1563",
+      "1434",
+      "1497"
+    ],
+    "q_en": "",
+    "q_hi": "P, Q और R साझेदारी करते हैं और उनके हिस्से  <img align=\"middle\" alt=\"1 over 6 space colon space 1 third space colon space 1 fourth\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mfrac»«mn»1«/mn»«mn»6«/mn»«/mfrac»«mo»§#160;«/mo»«mo»:«/mo»«mo»§#160;«/mo»«mfrac»«mn»1«/mn»«mn»3«/mn»«/mfrac»«mo»§#160;«/mo»«mo»:«/mo»«mo»§#160;«/mo»«mfrac»«mn»1«/mn»«mn»4«/mn»«/mfrac»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFEAAAAlCAYAAAA6PAXhAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAZpE86XgAAAchJREFUeNrtmr9LAnEYxo8Ih4hAQkSkxSkiWiL6Hxr6BxyDkIamtoZojRDXiCYRIRojggaHCAkaIkJaIiQaWhtEJLDn6Lk45CI98331fB/4DB5+7/m+D9/7/vB0nGDNgU1QBg1HXpHwfwD3oE2kFRn/CcUiIuWvWURk/C1EC9FCtBAtRAvRQhwm/6TvJkmFAkbev/0L0iNgXP1NJpPJZBqcbkB1nPzbIfhL1yxkXP1NJpPJZKvz8KmX1TGK/j9aB2fgA3wKea6y+BZ9T8CsYganYbc0CXDFIvbAsvP9LnbQWgC7YBLMgCMWUFEKMBt2X5gCL+AWpIU7vdXx2XuJrvV3kruwIVYZYlyh452jfZ4FHCj0xX0Sl8KEmPV1+gI0wRvYVihiBdRAQcF7B+Q6joRd65INcpyXMhyV7rUNwSLWfJ2vcI6W0iIoBZyru1YjoIE3OmuKc1JRyDPGgRTvJ8RWQIMYrzWVHmnJhSXPLZbTT4hPbJAKuNG70kIjGeK//Py1zy/7txoZXssrhJimd0lxs93zSJwCjxx17vZiGpyDV6FTQx0c0yvB+cndHSRHKUTvtFLkHOhSFtx0F+jpzs3P4FB4Ze45xC9mxvfYa4eEsQAAAPh0RVh0TWF0aE1MADxtYXRoIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8xOTk4L01hdGgvTWF0aE1MIj48bWZyYWM+PG1uPjE8L21uPjxtbj42PC9tbj48L21mcmFjPjxtbz4mI3hBMDs8L21vPjxtbz46PC9tbz48bW8+JiN4QTA7PC9tbz48bWZyYWM+PG1uPjE8L21uPjxtbj4zPC9tbj48L21mcmFjPjxtbz4mI3hBMDs8L21vPjxtbz46PC9tbz48bW8+JiN4QTA7PC9tbz48bWZyYWM+PG1uPjE8L21uPjxtbj40PC9tbj48L21mcmFjPjwvbWF0aD7rxa/rAAAAAElFTkSuQmCC\" style=\"max-width: none;\"> के अनुपात में हैं। 3 माह बाद, P अपनी पूंजी का एक-चौथाई तथा R अपनी पूंजी का आधा हिस्सा निकाल लेता है। साझेदारी के पहले दिन से एक वर्ष बाद, ₹5988 का लाभ उनके बीच विभाजित किया जाता है। लाभ में R का हिस्सा (₹ में) ज्ञात कीजिए।",
+    "section": "Arithmetical and Numerical Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "1",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "₹69,393",
+      "₹69,548",
+      "₹69,256",
+      "₹69,296"
+    ],
+    "q_en": "",
+    "q_hi": "एक व्यक्ति ₹60,300 का ऋण 10% वार्षिक चक्रवृद्धि ब्याज पर लेता है जबकि ब्‍याज वार्षिक रूप से संयोजित होता है। प्रत्येक वर्ष के अंत में, वह ₹1,700 का आंशिक भुगतान करता है। ऐसी दो किस्तों के बाद भी उस पर कितनी बकाया राशि है?",
+    "section": "Arithmetical and Numerical Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "2",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "533.4 gm",
+      "531.3 gm",
+      "532.2 gm",
+      "533.9 gm"
+    ],
+    "q_en": "",
+    "q_hi": "एक दुकानदार अपने सामान को 15% की हानि पर बेचने का दावा करता है, लेकिन वह दोषपूर्ण तराजू का उपयोग करके 60% का लाभ प्राप्त करता है। 1 kg वजन के लिए उसके द्वारा उपयोग किया गया वास्तविक वजन (दशमलव के एक स्थान तक पूर्णांकित) ज्ञात कीजिए।",
+    "section": "Arithmetical and Numerical Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "2",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "33.2 km/hour",
+      "31.5 km/hour",
+      "30.8 km/hour",
+      "29.7 km/hour"
+    ],
+    "q_en": "",
+    "q_hi": "एक व्यक्ति स्थान P से स्थान Q तक 28 km प्रति घंटे की चाल से जाता है और 36 km प्रति घंटे की चाल से वापस आता है। संपूर्ण यात्रा के लिए उस व्यक्ति की औसत चाल ज्ञात कीजिए।",
+    "section": "Arithmetical and Numerical Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "4",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "<img align=\"middle\" alt=\"22 9 over 11 space\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mn»22«/mn»«mfrac»«mn»9«/mn»«mn»11«/mn»«/mfrac»«mo»§#160;«/mo»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADEAAAAlCAYAAADr2wGRAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAZpE86XgAAAXFJREFUeNpjYKA/kAfiNUD8DYi/APFcIBZlGEJAHIifA/EGIOYCYg0o/xoQ8wwVT0wD4v9ArIQklgUVaxwqnngNdTAykISK3RoqnvgDdTALmjhI7NdQ8cQ1qINDsXji21DxBCz934XmC1CMJELF9g6lEioPiJ9Ckw+olKqEeiKeYQiDo0B8fKg6HpSU5gPxQ2gJNaQAqMZOA+IbQLxjqNXWsFLoExCvA2IvhlGACSyhZfgvaFumA0uFRIyaAQOCSA5SQqqQekhUM6AgES1ELaEO/EKimkGZAb9RQc2AATaoAzdRqGZAQTjUgeZkqvlPI0wSOAfEM6mgZsBAARCfAWIOCtUMGLCGOk6YQjUD2p7Zjea4aGh9QIqaAQOgFuRjHJlpEglqBhTcwlMieJGgZtgCWWizezmeipEYNQMKLgHxBQJlPTFqBhwwEeFApsHuCQYiHTjqiVFPjHpi1BOjniAZiCM5UJwCNQMeA/h6aRT35ADkl724HlQXJAAAAH10RVh0TWF0aE1MADxtYXRoIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8xOTk4L01hdGgvTWF0aE1MIj48bW4+MjI8L21uPjxtZnJhYz48bW4+OTwvbW4+PG1uPjExPC9tbj48L21mcmFjPjxtbz4mI3hBMDs8L21vPjwvbWF0aD6Iqe0FAAAAAElFTkSuQmCC\" style=\"max-width: none;\">",
+      "<img align=\"middle\" alt=\"20 9 over 11 space\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mn»20«/mn»«mfrac»«mn»9«/mn»«mn»11«/mn»«/mfrac»«mo»§#160;«/mo»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADEAAAAlCAYAAADr2wGRAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAZpE86XgAAAdNJREFUeNrtV7FKA0EQXQ4RERsJclgEIZX4AxL8g1QSEAsROQQLC7G1tLOwshAsxNLmEEkhgoRUkkZEUgQJWIgEEUFEQpBDiG/hHSzr5bgQ9HbxHrxi5qaYdzs7MyvE32MG9MEu2AGPwSlhEVzwGTwHx8FZ2k1wwhYRh2APLCi+Tfp2bRHxyoRVTNPXskXEFxMe0fzSF9giosmElyJEdG0REdb/A++FPBGPvqpNHWoLbLN8ZJfaoYg1YTGuwbqtyctSOgEf2aGsgpzYG+A9eGnbtA670Ad4BpZEhp8osocH3GX2IgaS4NFXGFc1qZYnlaQLykDaj4itk2PgBXgHOiaI8LS/XqSIjha3TH+Z9iLtdZMvoL4G+PTP0c7R9k0UMMrkKpq/rS1vDu13E0WEZTOv+YOINTpq++z9EgfCLXgUs0brCX+adgrb4A27j443Ju0oa4O0X0wSsEABuT7fw4sdzoa8aRdb7jNXmoAVzowQq1qLLdP2TBAg/+xTn8t0oMTJMmpwUssOVqNtxLBrxXSEUoTgmvKgcf/DTpbn2n0a84ZOEpMqGtyv4np9kpjU4SRI0DFdhEiYYCYiE5GJyERkIgaGqyToDhGT+gnEvdKGfsl9Ay1axLE9p3grAAAAfXRFWHRNYXRoTUwAPG1hdGggeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzE5OTgvTWF0aC9NYXRoTUwiPjxtbj4yMDwvbW4+PG1mcmFjPjxtbj45PC9tbj48bW4+MTE8L21uPjwvbWZyYWM+PG1vPiYjeEEwOzwvbW8+PC9tYXRoPk2ysG4AAAAASUVORK5CYII=\" style=\"max-width: none;\">",
+      "<img align=\"middle\" alt=\"24 9 over 11 space\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mn»24«/mn»«mfrac»«mn»9«/mn»«mn»11«/mn»«/mfrac»«mo»§#160;«/mo»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADEAAAAlCAYAAADr2wGRAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAZpE86XgAAAZtJREFUeNpjYKA/kAfiNUD8DYi/APFcIBZlGEJAHIifA/EGIOYCYg0o/xoQ8wwVT0wD4v9ArIQklgUVaxwqnngNdTAykISK3RoqnvgDdTALmjhI7NdQ8cQ1qINDsXji21DxBCz934XmC1CMJELF9g6lEioPiJ9Ckw+olKqEeiKeYQiDo0B8fKg6HpSU5gPxQ2gJNaQAqMZOA+IbQLxjqNXWsFLoExCvA2IvhlGACSyhZfgvaFumA0uFhA5WYal9BwwIIjlaCalC6sGjJxqqZtB4IhEt1C2hjvuCQ70sEJ8ZbJ7AlQFxNQN2A7HeYPcEG9Rxm7DIlQBxBpJHB60nwqGOM0cT1wHipWix9R9HLNICkwTOAfFMLLGzA1oIMAz2mCiAZloONPE+LDEzKD1hDfWAMBlJZNC0Z3ajeSAaWmfgK8EGjQdALcjHOEJ40lDxxC08ycRrqHiClkAW2uxejqfyJEbNgIJLQHyBQKwRo2bAARMRDmRiGCJtsf9UUDPqiVFPjHpi1BOjnkAB4kgOFKdAzYDHAL6mO8XNewCWqL7D/NQbFAAAAH10RVh0TWF0aE1MADxtYXRoIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8xOTk4L01hdGgvTWF0aE1MIj48bW4+MjQ8L21uPjxtZnJhYz48bW4+OTwvbW4+PG1uPjExPC9tbj48L21mcmFjPjxtbz4mI3hBMDs8L21vPjwvbWF0aD4c9Qz5AAAAAElFTkSuQmCC\" style=\"max-width: none;\">",
+      "<img align=\"middle\" alt=\"21 9 over 11 space\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mn»21«/mn»«mfrac»«mn»9«/mn»«mn»11«/mn»«/mfrac»«mo»§#160;«/mo»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADEAAAAlCAYAAADr2wGRAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAZpE86XgAAAXVJREFUeNpjYKA/kAfiNUD8DYi/APFcIBZlGEJAHIifA/EGIOYCYg0o/xoQ8wwVT0wD4v9ArIQklgUVaxwqnngNdTAykISK3RoqnvgDdTALmjhI7NdQ8cQ1qINDsXji21DxBCz934XmC1CMJELF9g6lEioPiJ9Ckw+olKqEeiKeYQiDo0B8fKg6HpSU5gPxQ2gJNaQAqMZOA+IbQLxjqNXWsFLoExCvA2IvhlGACSyhZfgvaFumA0uFJAtNBssHY5kuiORoJaQKqQdN3SUgvgCV+z/YPJGIFuqWUEd+waKWabB6AlcG/IZHbtB7gg3qyE1D2RPhUEeak+mJ/zTCJIFzQDyTCEcOWlAAxGeAmGOoesIa6gFhIjL9oPQEqD2zG80D0dA6Y0h4AtSCfIwjM03CMloBkxMfTJ64hadE8CKi1Bn2gJj21qBukxHb3hrUbTJS2ltDok1GjANHPTHqiVFPjHpi1BMkA2LaW4O2TUZse4viNhkAR6O5oBavAl8AAAB9dEVYdE1hdGhNTAA8bWF0aCB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMTk5OC9NYXRoL01hdGhNTCI+PG1uPjIxPC9tbj48bWZyYWM+PG1uPjk8L21uPjxtbj4xMTwvbW4+PC9tZnJhYz48bW8+JiN4QTA7PC9tbz48L21hdGg+woed+wAAAABJRU5ErkJggg==\" style=\"max-width: none;\">"
+    ],
+    "q_en": "",
+    "q_hi": "यदि P किसी कार्य को 40 दिनों में, Q उसी कार्य को 80 दिनों में और R उसी कार्य को 120 दिनों में पूरा कर सकता है, तो P, Q और R मिलकर उसी कार्य को कितने दिनों में पूरा कर सकते हैं?",
+    "section": "Arithmetical and Numerical Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "3",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "19%",
+      "18%",
+      "20%",
+      "21%"
+    ],
+    "q_en": "",
+    "q_hi": "एक व्यापारी ₹690 अंकित मूल्य वाली वस्तु पर 10% की छूट देने के बाद, 8% का लाभ अर्जित करता है। यदि कोई छूट न दी जाती, तो लाभ प्रतिशत कितना होता?",
+    "section": "Arithmetical and Numerical Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "3",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "62.8",
+      "65.8",
+      "64.8",
+      "63.8"
+    ],
+    "q_en": "",
+    "q_hi": "10 संख्याओं का योग 648 है। उनका औसत ज्ञात कीजिए।",
+    "section": "Arithmetical and Numerical Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "3",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "83.33%",
+      "72%",
+      "138.89%",
+      "90%"
+    ],
+    "q_en": "",
+    "q_hi": "एक परीक्षा में, पूर्णांक 90 में से B को 54 अंक प्राप्त हुए, जबकि A को 75 अंक प्राप्त हुए। A के अंक, B के अंकों के लगभग कितने प्रतिशत थे?",
+    "section": "Arithmetical and Numerical Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "1",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "1,440",
+      "960",
+      "1,428",
+      "1,452"
+    ],
+    "q_en": "",
+    "q_hi": "एक दुकानदार ने ₹1,200 में एक वस्तु खरीदी। उसे 20% लाभ अर्जित करने के लिए, उस वस्तु को किस कीमत (₹ में) पर बेचना चाहिए?",
+    "section": "Arithmetical and Numerical Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "3",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "537.6",
+      "10500",
+      "5250",
+      "2625"
+    ],
+    "q_en": "",
+    "q_hi": "किस राशि (₹ में) पर 2 वर्षों में 16% वार्षिक ब्याज दर से साधारण ब्याज के रूप में ₹1680 प्राप्त होगा?",
+    "section": "Arithmetical and Numerical Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "4",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "312 cm2",
+      "600 cm2",
+      "416 cm2",
+      "624 cm2"
+    ],
+    "q_en": "",
+    "q_hi": "एक समचतुर्भुज का क्षेत्रफल ज्ञात कीजिए जिसके विकर्ण 26 cm और 48 cm हैं।",
+    "section": "Arithmetical and Numerical Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "1",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "US$70.03 बिलियन",
+      "US$36.67 बिलियन",
+      "US$420.18 बिलियन",
+      "US$84.04 बिलियन"
+    ],
+    "q_en": "",
+    "q_hi": "निम्नलिखित पाई चार्ट में वर्ष 2022 में भारत में छह सबसे बड़ी भारतीय IT कंपनियों के बाजार पूंजीकरण को दर्शाया गया है।<br>\n<img loading=\"lazy\" src=\"https://blogger.googleusercontent.com/img/a/AVvXsEgtm4Pu94AD4DIaYyjm8QbOVyS-dfSZk7Z5cr-VR1SKPrMwGlHvRYDkgethACGz2EF9lF3YN_mo27KTpTJco4w49EPzO5OjRN3akUHnbvQ1q8pkUySmC9mDnnc52ZYWXKfaJnge4DF62SUPmiYrbPCmm0S7_wlCCEU-Rvg5bPS5ij_XBew0EOstIUwecKA=rw\" style=\"height: auto; max-width: 100%;\"><br>\n<strong>संदर्भ:-  <br>\nTata Consultancy Services - टाटा कंसल्टेंसी सर्विसेज<br>\nInfosys - इंफोसिस<br>\nHCL Technologies - एचसीएल टेक्नोलॉजीज<br>\nWipro - विप्रो<br>\nTech Mahindra - टेक महिंद्रा<br>\nLTIMindtree - एलटीआईमाइंडट्री</strong><br>\n<br>\nइन भारतीय IT कंपनियों के औसत बाजार पूंजीकरण की गणना कीजिए।",
+    "section": "Arithmetical and Numerical Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "3",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "13",
+      "15",
+      "14",
+      "16"
+    ],
+    "q_en": "",
+    "q_hi": "1204 सैनिकों के गैरिसन के पास 23 दिनों का राशन है। यदि गैरिसन में सैनिकों की संख्या बढ़ाकर 1978 कर दी जाए, तो राशन कितने समय (दिनों में) तक चलेगा?",
+    "section": "Arithmetical and Numerical Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "4",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "20.4",
+      "24.8",
+      "25.5",
+      "31.5"
+    ],
+    "q_en": "",
+    "q_hi": "यदि 9.6 : 16.8 :: 18 : x है, तो x का मान ज्ञात कीजिए।",
+    "section": "Arithmetical and Numerical Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "3",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "1197.81",
+      "1177.81",
+      "1047.82",
+      "1027.82"
+    ],
+    "q_en": "",
+    "q_hi": "12.6 cm व्यास वाले गोले का आयतन (cm<sup>3</sup>) ज्ञात कीजिए। (उत्तर को दशमलव के दो स्थानों तक पूर्णांकित कीजिए)<br>\n(<span style=\"color: white;\"><img align=\"middle\" alt=\"pi equals 22 over 7\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mi»§#960;«/mi»«mo»=«/mo»«mfrac»«mn»22«/mn»«mn»7«/mn»«/mfrac»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADsAAAAlCAYAAAD8+ZFYAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAZpE86XgAAAV5JREFUeNpjYBi8wBKIrwHxLyB+DsQdQMxChppBDwSRHK4E9dB/IO4hUc2QAIloMWQJ9cgXEtUMWQDyyDcqqBn0gA3qkU0UqhkSIBzqEXMK1QwJcA6IZ1JBzaAHBUB8Bog5KFQz6IE11BPCFKoZ9EAeiHejeSIaWp+SombQA0kgfgwtcNDxJBLUDAlwC4cnQNiLBDWjYEQBUSC+gidZDKtkUk2CR3F5lhT9A15xNwMxEw4Hgfg/iGiEDwnPYnM0qZ4dsl2pgfLsfxphkj37ayQl4//D1bPosfhnsDmSGoAFx9DGQ6i49HDyrDHUU5fQxPug4kuB2G+od6dgoBbqqWQ0cdCw5Tpocl432uCkD1DCU+h1DTfPZuHxrNZw8+xMaLmCDPSA+PhwTMYqWMRAoxKJIyEPgwbGn0PpYQ+SGYbYeBMlAJRXdUaCR4dtwcSAo2BKHikF08vRgmm0YIIAAAMv2b52Bb9mAAAAfXRFWHRNYXRoTUwAPG1hdGggeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzE5OTgvTWF0aC9NYXRoTUwiPjxtaT4mI3gzQzA7PC9taT48bW8+PTwvbW8+PG1mcmFjPjxtbj4yMjwvbW4+PG1uPjc8L21uPjwvbWZyYWM+PC9tYXRoPoGti/oAAAAASUVORK5CYII=\" style=\"max-width: none;\"> </span>लीजिए)",
+    "section": "Arithmetical and Numerical Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "2",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "48.8",
+      "57.8",
+      "65.6",
+      "59.9"
+    ],
+    "q_en": "",
+    "q_hi": "एक स्वास्थ्य क्लब में 43% सदस्य महिलाएं और 57% सदस्य पुरुष हैं। यदि पुरुषों की औसत आयु 75 वर्ष और महिलाओं की औसत आयु 35 वर्ष है, तो सभी सदस्यों की औसत आयु (वर्षों में) कितनी होगी?",
+    "section": "Arithmetical and Numerical Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "2",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "27.8",
+      "28.8",
+      "26.6",
+      "29.9"
+    ],
+    "q_en": "",
+    "q_hi": "दो रेलगाड़ियाँ, X और Y, समानांतर पटरियों पर एक ही दिशा में चल रही हैं। रेलगाड़ी X की लंबाई 240 m है, जबकि रेलगाड़ी Y की लंबाई 360 m है। रेलगाड़ी X, रेलगाड़ी Y को 36 सेकंड में पूरी तरह से पार कर लेती है। यदि रेलगाड़ी Y, 54 km/h की चाल से चल रही है और तत्पश्चात रेलगाड़ी X, 672 m लंबाई वाले एक प्लेटफॉर्म को t सेकंड में पार करती है, तो t का मान ज्ञात कीजिए।",
+    "section": "Arithmetical and Numerical Ability",
+    "solution": "",
+    "topic": ""
+  }
+]
