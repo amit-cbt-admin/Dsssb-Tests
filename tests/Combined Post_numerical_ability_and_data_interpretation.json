@@ -1,0 +1,422 @@
+[
+  {
+    "ans": "2",
+    "level": "Medium",
+    "op_en": [
+      "60%",
+      "50%",
+      "55%",
+      "45%"
+    ],
+    "op_hi": [
+      "60%",
+      "50%",
+      "55%",
+      "45%"
+    ],
+    "q_en": "The cost price of a table is ₹1,500 more than the cost price of a chair. The table is sold for ₹4,500 and the chair is sold at a loss of 25%. If there is a profit of 25% in the entire transaction, at what percentage profit was the table sold?",
+    "q_hi": "एक मेज का क्रय मूल्य एक कुर्सी के क्रय मूल्य से ₹1,500 अधिक है। मेज को ₹4,500 में बेचा जाता है और कुर्सी को 25% की हानि पर बेचा जाता है। यदि पूरे लेनदेन में 25% का लाभ होता है, तो मेज को कितने प्रतिशत लाभ पर बेचा गया था?",
+    "section": "Numerical Ability and Data Interpretation",
+    "solution": "1. माना कुर्सी का क्रय मूल्य (CP_chair) = x रुपये है।<br>2. मेज का क्रय मूल्य (CP_table) = x + 1500 रुपये।<br>3. मेज का विक्रय मूल्य (SP_table) = 4500 रुपये।<br>4. कुर्सी का विक्रय मूल्य (SP_chair) = x का 75% = 0.75x (चूँकि हानि 25% है)।<br>5. पूरे लेनदेन पर लाभ = 25%, इसलिए कुल विक्रय मूल्य = कुल क्रय मूल्य &times; 1.25.<br>6. (4500 + 0.75x) = (x + x + 1500) &times; 1.25<br>7. 4500 + 0.75x = (2x + 1500) &times; 1.25<br>8. 4500 + 0.75x = 2.5x + 1875<br>9. 2625 = 1.75x &rArr; x = 1500 रुपये।<br>10. मेज का क्रय मूल्य = 1500 + 1500 = 3000 रुपये।<br>11. मेज पर लाभ = 4500 &minus; 3000 = 1500 रुपये।<br>12. मेज का लाभ प्रतिशत = (1500 &divide; 3000) &times; 100 = 50%.",
+    "topic": "Profit and Loss"
+  },
+  {
+    "ans": "2",
+    "level": "Easy",
+    "op_en": [
+      "124.2",
+      "124.2",
+      "124.2",
+      "124.2"
+    ],
+    "op_hi": [
+      "124.2",
+      "124.2",
+      "124.2",
+      "124.2"
+    ],
+    "q_en": "A trader purchases apples at ₹80 per hundred. He spends 15% of the total amount on the transportation. What should be the selling price per hundred (in ₹) apples to earn a profit of 35%?",
+    "q_hi": "एक व्यापारी ₹80 प्रति सौ की दर से सेब खरीदता है। वह कुल राशि का 15% परिवहन पर खर्च करता है। 35% का लाभ कमाने के लिए प्रति सौ सेबों का विक्रय मूल्य (₹ में) क्या होना चाहिए?",
+    "section": "Numerical Ability and Data Interpretation",
+    "solution": "1. 100 सेबों का क्रय मूल्य = ₹80.<br>2. परिवहन पर खर्च = 80 का 15% = (80 &times; 15) &divide; 100 = ₹12.<br>3. कुल प्रभावी क्रय मूल्य = 80 + 12 = ₹92.<br>4. 35% लाभ के लिए विक्रय मूल्य = 92 &times; 135 &divide; 100 = ₹124.2.",
+    "topic": "Profit and Loss"
+  },
+  {
+    "ans": "3",
+    "level": "Hard",
+    "op_en": [
+      "X = Y",
+      "X = 2Y",
+      "X < 2Y",
+      "X < Y"
+    ],
+    "op_hi": [
+      "X = Y",
+      "X = 2Y",
+      "X < 2Y",
+      "X < Y"
+    ],
+    "q_en": "<span style=\"font-size: 11pt;\"><span style=\"line-height: 107%;\"><span style=\"font-family: Calibri,sans-serif;\"><span style=\"font-size: 12.0pt;\"><span style=\"line-height: 107%;\"><span style=\"font-family: &quot;Century Schoolbook&quot;,serif;\">Total income of five friends Banty, Wanya, Rocky, Chinu and Jay is 17,500 (in thousand rupees). The following pie chart provides information about the percentage-wise distribution of the their income.<br><br><img loading=\"lazy\" src=\"https://blogger.googleusercontent.com/img/a/AVvXsEiUqHMuTed5TmafGiyvGgrkb2uhEFbGhBF46pQX_T_apsQdR7xqNzgIEOrY41vuIb17ZrRMpqgTV5EpRkPqeQVlC3gBGuluxyE-UlVj4W31509Ps7oIq6__i9GSCF59GMS2iyYuMvAGgVINqiwTHcweUWr4jdDF1Zjz7aGaSmPEo89UBgFhi0taOGPkS3A=rw\" style=\"height: auto; max-width: 100%;\"><br><span style=\"font-size: 11pt;\"><span style=\"line-height: 107%;\"><span style=\"font-family: Calibri,sans-serif;\"><span style=\"font-size: 12.0pt;\"><span style=\"line-height: 107%;\"><span style=\"font-family: &quot;Century Schoolbook&quot;,serif;\"><br>All the five friends spent 12,500 (in thousand rupees) in all. The following pie chart provides information about the percentage-wise expenditure of the five friends.</span></span></span></span></span></span><br><img loading=\"lazy\" src=\"data:image/png;base64,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\" style=\"height: auto; max-width: 100%;\"><br><span style=\"font-size: 11pt;\"><span style=\"line-height: 107%;\"><span style=\"font-family: Calibri,sans-serif;\"><span style=\"font-size: 12.0pt;\"><span style=\"line-height: 107%;\"><span style=\"font-family: &quot;Century Schoolbook&quot;,serif;\"><br>If X denotes the total expenditure by Rocky and Waanya and Y denotes the average savings of Chinu and Banty, then choose the correct option. </span></span></span></span></span></span></span></span></span><br><span style=\"font-size: 12.0pt;\"><span style=\"background: white;\"><span style=\"line-height: 107%;\"><span style=\"font-family: &quot;Century Schoolbook&quot;,serif;\"><span style=\"color: #0d0d0d;\"></span></span></span></span></span></span></span></span><br>",
+    "q_hi": "<span style=\"font-size: 11pt;\"><span style=\"line-height: 107%;\"><span style=\"font-family: Calibri,sans-serif;\"><span style=\"font-size: 12.0pt;\"><span style=\"line-height: 107%;\"><span style=\"font-family: &quot;Century Schoolbook&quot;,serif;\">पाँच मित्रों बंटी, वान्या, रॉकी, चीनू और जय की कुल आय 17,500 (हजार रुपये में) है। निम्नलिखित पाई चार्ट उनकी आय के प्रतिशत-वार वितरण के बारे में जानकारी प्रदान करता है।<br><br><img loading=\"lazy\" src=\"https://blogger.googleusercontent.com/img/a/AVvXsEiUqHMuTed5TmafGiyvGgrkb2uhEFbGhBF46pQX_T_apsQdR7xqNzgIEOrY41vuIb17ZrRMpqgTV5EpRkPqeQVlC3gBGuluxyE-UlVj4W31509Ps7oIq6__i9GSCF59GMS2iyYuMvAGgVINqiwTHcweUWr4jdDF1Zjz7aGaSmPEo89UBgFhi0taOGPkS3A=rw\" style=\"height: auto; max-width: 100%;\"><br><span style=\"font-size: 11pt;\"><span style=\"line-height: 107%;\"><span style=\"font-family: Calibri,sans-serif;\"><span style=\"font-size: 12.0pt;\"><span style=\"line-height: 107%;\"><span style=\"font-family: &quot;Century Schoolbook&quot;,serif;\"><br>उन सभी पाँचों मित्रों ने कुल मिलाकर 12,500 (हजार रुपये में) खर्च किए। निम्नलिखित पाई चार्ट पाँचों मित्रों के प्रतिशत-वार व्यय के बारे में जानकारी प्रदान करता है।</span></span></span></span></span></span><br><img loading=\"lazy\" src=\"data:image/png;base64,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\" style=\"height: auto; max-width: 100%;\"><br><span style=\"font-size: 11pt;\"><span style=\"line-height: 107%;\"><span style=\"font-family: Calibri,sans-serif;\"><span style=\"font-size: 12.0pt;\"><span style=\"line-height: 107%;\"><span style=\"font-family: &quot;Century Schoolbook&quot;,serif;\"><br>यदि X रॉकी और वान्या द्वारा किए गए कुल व्यय को दर्शाता है और Y चीनू और बंटी की औसत बचत को दर्शाता है, तो सही विकल्प चुनें। </span></span></span></span></span></span></span></span></span><br><span style=\"font-size: 12.0pt;\"><span style=\"background: white;\"><span style=\"line-height: 107%;\"><span style=\"font-family: &quot;Century Schoolbook&quot;,serif;\"><span style=\"color: #0d0d0d;\"></span></span></span></span></span></span></span></span>",
+    "section": "Numerical Ability and Data Interpretation",
+    "solution": "<p>बच्चों, आइए इस सवाल को समझते हैं...</p>",
+    "topic": "Data Interpretation"
+  },
+  {
+    "ans": "1",
+    "level": "Easy",
+    "op_en": [
+      "64",
+      "66",
+      "56",
+      "62"
+    ],
+    "op_hi": [
+      "64",
+      "66",
+      "56",
+      "62"
+    ],
+    "q_en": "The average age of 40 students of a class is 23 years. If the age of the teacher is also included, the average age of the whole group becomes 24 years. The age (in years) of the teacher is:<span style=\"color: white;\">6117</span>",
+    "q_hi": "एक कक्षा के 40 छात्रों की औसत आयु 23 वर्ष है। यदि शिक्षक की आयु भी शामिल कर ली जाए, तो पूरे समूह की औसत आयु 24 वर्ष हो जाती है। शिक्षक की आयु (वर्षों में) क्या है?<span style=\"color: white;\">6117</span>",
+    "section": "Numerical Ability and Data Interpretation",
+    "solution": "1. 40 छात्रों की कुल आयु = 40 &times; 23 = 920 वर्ष।<br>2. शिक्षक को शामिल करने के बाद कुल व्यक्तियों की संख्या = 41.<br>3. 41 व्यक्तियों की कुल आयु = 41 &times; 24 = 984 वर्ष।<br>4. शिक्षक की आयु = 41 व्यक्तियों की कुल आयु &minus; 40 छात्रों की कुल आयु<br>5. शिक्षक की आयु = 984 &minus; 920 = 64 वर्ष।",
+    "topic": "Average"
+  },
+  {
+    "ans": "3",
+    "level": "Medium",
+    "op_en": [
+      "1,40,000",
+      "2,02,000",
+      "2,00,000",
+      "1,60,000"
+    ],
+    "op_hi": [
+      "1,40,000",
+      "2,02,000",
+      "2,00,000",
+      "1,60,000"
+    ],
+    "q_en": "In a constituency, 80% of the total number of people on the electoral roll cast their votes during an election. 12.5% of the votes cast were declared invalid and Sangeeta secured 55% of the valid votes. If Sangeeta secured 77,000 valid votes, then what was the total number of people on the electoral roll?",
+    "q_hi": "एक निर्वाचन क्षेत्र में, चुनाव के दौरान मतदाता सूची में कुल लोगों में से 80% ने अपना वोट डाला। डाले गए वोटों में से 12.5% को अवैध घोषित कर दिया गया और संगीता ने वैध वोटों का 55% प्राप्त किया। यदि संगीता ने 77,000 वैध वोट प्राप्त किए, तो मतदाता सूची में कुल लोगों की संख्या क्या थी?",
+    "section": "Numerical Ability and Data Interpretation",
+    "solution": "1. माना मतदाता सूची में कुल लोगों की संख्या = x.<br>2. डाले गए वोट = x का 80% = 0.8x.<br>3. वैध वोट = डाले गए वोटों का (100% &minus; 12.5%) = 0.8x &times; 0.875 = 0.7x.<br>4. संगीता को मिले वोट = वैध वोटों का 55% = 0.7x &times; 0.55 = 0.385x.<br>5. प्रश्न के अनुसार, 0.385x = 77,000.<br>6. x = 77,000 &divide; 0.385 = 2,00,000.",
+    "topic": "Percentage"
+  },
+  {
+    "ans": "4",
+    "level": "Easy",
+    "op_en": [
+      "25%",
+      "30%",
+      "20%",
+      "40%"
+    ],
+    "op_hi": [
+      "25%",
+      "30%",
+      "20%",
+      "40%"
+    ],
+    "q_en": "The percentage equivalent of the ratio 2 : 5 is:",
+    "q_hi": "अनुपात 2 : 5 का प्रतिशत समतुल्य क्या है?",
+    "section": "Numerical Ability and Data Interpretation",
+    "solution": "1. अनुपात 2 : 5 को भिन्न के रूप में 2 &divide; 5 लिखा जा सकता है।<br>2. प्रतिशत में बदलने के लिए भिन्न को 100 से गुणा करें: (2 &divide; 5) &times; 100.<br>3. गणना करने पर: 2 &times; 20 = 40%.",
+    "topic": "Ratio and Proportion"
+  },
+  {
+    "ans": "2",
+    "level": "Easy",
+    "op_en": [
+      "5.9%",
+      "15.15%",
+      "2.3%",
+      "2.5%"
+    ],
+    "op_hi": [
+      "5.9%",
+      "15.15%",
+      "2.3%",
+      "2.5%"
+    ],
+    "q_en": "An article which is marked at ₹2,475 is sold for ₹2,100. The discount percentage (rounded up to 2 decimal places) is:",
+    "q_hi": "एक वस्तु जिस पर ₹2,475 अंकित है, उसे ₹2,100 में बेचा जाता है। छूट प्रतिशत (2 दशमलव स्थानों तक पूर्णांकित) क्या है?",
+    "section": "Numerical Ability and Data Interpretation",
+    "solution": "1. अंकित मूल्य = ₹2,475.<br>2. विक्रय मूल्य = ₹2,100.<br>3. छूट की राशि = 2,475 &minus; 2,100 = ₹375.<br>4. छूट प्रतिशत = (छूट &divide; अंकित मूल्य) &times; 100.<br>5. छूट % = (375 &divide; 2,475) &times; 100 &approx; 15.15%.",
+    "topic": "Profit and Loss"
+  },
+  {
+    "ans": "1",
+    "level": "Medium",
+    "op_en": [
+      "13,86,250",
+      "13,87,250",
+      "13,85,250",
+      "13,84,250"
+    ],
+    "op_hi": [
+      "13,86,250",
+      "13,87,250",
+      "13,85,250",
+      "13,84,250"
+    ],
+    "q_en": "The present population of Pune city is 9,98,100. If it has been decreasing at the rate of 10% per annum in the first year and 20% per annum in the second year, find its population 2 years ago.",
+    "q_hi": "पुणे शहर की वर्तमान जनसंख्या 9,98,100 है। यदि यह पहले वर्ष में 10% प्रति वर्ष और दूसरे वर्ष में 20% प्रति वर्ष की दर से घट रही है, तो 2 वर्ष पहले इसकी जनसंख्या ज्ञात कीजिए।",
+    "section": "Numerical Ability and Data Interpretation",
+    "solution": "1. माना 2 वर्ष पहले की जनसंख्या = P.<br>2. पहले वर्ष के बाद जनसंख्या = P &times; (100 &minus; 10) &divide; 100 = 0.9P.<br>3. दूसरे वर्ष (वर्तमान) के बाद जनसंख्या = 0.9P &times; (100 &minus; 20) &divide; 100 = 0.9P &times; 0.8 = 0.72P.<br>4. दिया गया है: 0.72P = 9,98,100.<br>5. P = 9,98,100 &divide; 0.72 = 13,86,250.",
+    "topic": "Percentage"
+  },
+  {
+    "ans": "1",
+    "level": "Medium",
+    "op_en": [
+      "16",
+      "21",
+      "17",
+      "14"
+    ],
+    "op_hi": [
+      "16",
+      "21",
+      "17",
+      "14"
+    ],
+    "q_en": "दी गई तालिका 2011 से 2015 तक पांच प्रकार की कारों के उत्पादन (हजारों में) को दर्शाती है। तालिका का अध्ययन करें और निम्नलिखित प्रश्न का उत्तर दें।<br><img loading=\"lazy\" src=\"data:image/png;base64,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\" style=\"height: auto; max-width: 100%;\"><br>2011 से 2015 की अवधि के दौरान B-प्रकार की कारों का औसत उत्पादन कितना है?",
+    "q_hi": "दी गई तालिका 2011 से 2015 तक पांच प्रकार की कारों के उत्पादन (हजारों में) को दर्शाती है। तालिका का अध्ययन करें और निम्नलिखित प्रश्न का उत्तर दें।<br><img loading=\"lazy\" src=\"data:image/png;base64,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\" style=\"height: auto; max-width: 100%;\"><br>2011 से 2015 की अवधि के दौरान B-प्रकार की कारों का औसत उत्पादन कितना है?",
+    "section": "Numerical Ability and Data Interpretation",
+    "solution": "<p>बच्चों, आइए इस सवाल को समझते हैं...</p>",
+    "topic": "Data Interpretation"
+  },
+  {
+    "ans": "4",
+    "level": "Easy",
+    "op_en": [
+      "46",
+      "31",
+      "32",
+      "37"
+    ],
+    "op_hi": [
+      "46",
+      "31",
+      "32",
+      "37"
+    ],
+    "q_en": "A woman travels 111 km at a speed of 37 km/hr, second distance of 140 km at 35 km/hr and a third distance of 304 km at 38 km/hr. Find her average speed for the whole journey (in km/hr).<span style=\"color: white;\">11248</span>",
+    "q_hi": "एक महिला 37 किमी/घंटा की चाल से 111 किमी, 35 किमी/घंटा की चाल से 140 किमी की दूसरी दूरी और 38 किमी/घंटा की चाल से 304 किमी की तीसरी दूरी तय करती है। पूरी यात्रा के लिए उसकी औसत चाल (किमी/घंटा में) ज्ञात कीजिए।<span style=\"color: white;\">11248</span>",
+    "section": "Numerical Ability and Data Interpretation",
+    "solution": "1. पहले भाग का समय = 111 &divide; 37 = 3 घंटे।<br>2. दूसरे भाग का समय = 140 &divide; 35 = 4 घंटे।<br>3. तीसरे भाग का समय = 304 &divide; 38 = 8 घंटे।<br>4. कुल दूरी = 111 + 140 + 304 = 555 किमी।<br>5. कुल समय = 3 + 4 + 8 = 15 घंटे।<br>6. औसत चाल = कुल दूरी &divide; कुल समय = 555 &divide; 15 = 37 किमी/घंटा।",
+    "topic": "Time Speed and Distance"
+  },
+  {
+    "ans": "1",
+    "level": "Easy",
+    "op_en": [
+      "56",
+      "53",
+      "66",
+      "54"
+    ],
+    "op_hi": [
+      "56",
+      "53",
+      "66",
+      "54"
+    ],
+    "q_en": "The average age of 45 students of a class is 10 years. If the age of the teacher is also included, the average age of the whole group becomes 11 years. The age (in years) of the teacher is:<span style=\"color: white;\">6118</span>",
+    "q_hi": "एक कक्षा के 45 छात्रों की औसत आयु 10 वर्ष है। यदि शिक्षक की आयु भी शामिल कर ली जाए, तो पूरे समूह की औसत आयु 11 वर्ष हो जाती है। शिक्षक की आयु (वर्षों में) क्या है?<span style=\"color: white;\">6118</span>",
+    "section": "Numerical Ability and Data Interpretation",
+    "solution": "1. 45 छात्रों की कुल आयु = 45 &times; 10 = 450 वर्ष।<br>2. शिक्षक सहित कुल व्यक्तियों की संख्या = 46.<br>3. 46 व्यक्तियों की कुल आयु = 46 &times; 11 = 506 वर्ष।<br>4. शिक्षक की आयु = 506 &minus; 450 = 56 वर्ष।",
+    "topic": "Average"
+  },
+  {
+    "ans": "2",
+    "level": "Easy",
+    "op_en": [
+      "<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAxCAIAAABCqI4WAAAA9UlEQVR42u2W6xXDIAiFmYuBnMdpXMZhWjWPJqJANTY9rfwLuX4xFw4HeAwLmOjvQHtnEIyrvUJYA9E4r0V7Z816soD2FtMLf3xE62V0kBobzzlTRNN0guds1pAyeruzpGxAL+nTHdPXcmELmngddcTqNvTWPHtQbvutA3dvuNBN6g5ReU075IIy0iqWc7c2X6FEKZ91iNLrWKZD/dOUwLO5r0Hw7gyZ83qifwoNfTG9/gf0Mupp7FNVFLBodjcSBVV0WAP4g6JA6zWzjPACGEaW0JV/VQlgGLl551MIYBiZQXeZwaK7yVV0pxkM+gLynNcfRD8BfqJfpwKPY2gAAAAASUVORK5CYII=\" style=\"height: auto; max-width: 100%;\">",
+      "<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAxCAIAAABCqI4WAAABM0lEQVR42u2X2REDIQiGqcuCrMdqbIZikvXYjccv6zFJZhJ9iwufCAiEHm9btNFfRjNbrRTFpbThUsAaWQCj2TgdZSwHiPbaiXIQ0OE7EhDRNSnZwQLaTvjam6XQnVfRDc38OziZ+sgNm324G1G8RXswsjjc5UwQy6No52XByTEN/Rn18TRhcGecacHgm0BTG5yKHsqvn+XHEasrXWdWjk5fYyM5SYx9srLnl1WQ2eTb9XqjfwFNa2v7+h/QuKg2etlVX7vrddUIUDML+7idY/QxWnSQY1PmFV/7dlVeF26OohFEGqi60RASN62LoNAeaWLeCx39msDPCbtzDpE8igYaNInQMBmi0fVoYvgFRw6hhSyozYZDH405I3PtNZqVf3Zux0nxSXCSeaQUepa7Xn8O/QTdm0nUhWeY+wAAAABJRU5ErkJggg==\" style=\"height: auto; max-width: 100%;\">",
+      "<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAxCAIAAABCqI4WAAABTUlEQVR42u2X2xWDIAyGMxcDMQ/TsEyGsXJTyAVBT9vTU3gTyUdMAvmF7W0DFvrLaERvjYE8jHWo2aN3aaX1A2h0YalxHpOtjXiBHhfu+3oc9TpY1KSyFXKu9fgs1tHvFh2neAxm0cnrmpMi4fBphXBOnvEhg51MwwiYfHlK7JHokmkaH7iMMvtwHiAxHT205LCGlqIPUw6r5TGBDtakJs5HpWToF8IIOJrWEym05cDIZ0o/6HQQS6wqD4yRjuW6rxf6H9DwbKxY/zS6uc/76FaYsTszN95mDKFLz0BVPXW6WxfNWx/rfDfRqhaoph55zeUS7Y23hBmNNQfFGdOVZd0KUVtu3NyUyb0Biw1d8XrnnlJAM72QIRMV0pPTkuQT0NIy0fRKyd8pPlFcDamnrcjlukJqy/Z9zvjQHxiVXfwOOf7oymsxVKsVfA79Am33EL/J6XF0AAAAAElFTkSuQmCC\" style=\"height: auto; max-width: 100%;\">",
+      "<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAxCAIAAABCqI4WAAABEElEQVR42u2WwRHEIAhFqcuCrMdqbIZiskqyO2pAUGcnh+jR+bzohwhw/G3BRj+Mxhi8c3At5wOOCng0hhzjI14QT9FFsCroojmSXWD2Wog81tEU6DgzFUEXjclHJyRJF0D3kt/8RxwXqIakKiOEaLUssPwyVF09t3mBBT1ZIsCfoZK1h1IFXXT5s92OpApkQ+oHgqktVbDf641+DRrW1vb6DeiioVarepFzKy/6brQPZjWmHTSayczeCtJ5+mTqMqWEH3J0r2+g24bAhmGyiG49gfGBj+nfE2jexBP026a5DwbRzNUbWvpCrjx2EIEZsu1yMD9Xa0pYJpMbnBCWzDg9d7wOZsln5nIOcb/Xj6M/2uBBnh52cgUAAAAASUVORK5CYII=\" style=\"height: auto; max-width: 100%;\">"
+    ],
+    "op_hi": [
+      "<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAxCAIAAABCqI4WAAAA9UlEQVR42u2W6xXDIAiFmYuBnMdpXMZhWjWPJqJANTY9rfwLuX4xFw4HeAwLmOjvQHtnEIyrvUJYA9E4r0V7Z816soD2FtMLf3xE62V0kBobzzlTRNN0guds1pAyeruzpGxAL+nTHdPXcmELmngddcTqNvTWPHtQbvutA3dvuNBN6g5ReU075IIy0iqWc7c2X6FEKZ91iNLrWKZD/dOUwLO5r0Hw7gyZ83qifwoNfTG9/gf0Mupp7FNVFLBodjcSBVV0WAP4g6JA6zWzjPACGEaW0JV/VQlgGLl551MIYBiZQXeZwaK7yVV0pxkM+gLynNcfRD8BfqJfpwKPY2gAAAAASUVORK5CYII=\" style=\"height: auto; max-width: 100%;\">",
+      "<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAxCAIAAABCqI4WAAABM0lEQVR42u2X2REDIQiGqcuCrMdqbIZikvXYjccv6zFJZhJ9iwufCAiEHm9btNFfRjNbrRTFpbThUsAaWQCj2TgdZSwHiPbaiXIQ0OE7EhDRNSnZwQLaTvjam6XQnVfRDc38OziZ+sgNm324G1G8RXswsjjc5UwQy6No52XByTEN/Rn18TRhcGecacHgm0BTG5yKHsqvn+XHEasrXWdWjk5fYyM5SYx9srLnl1WQ2eTb9XqjfwFNa2v7+h/QuKg2etlVX7vrddUIUDML+7idY/QxWnSQY1PmFV/7dlVeF26OohFEGqi60RASN62LoNAeaWLeCx39msDPCbtzDpE8igYaNInQMBmi0fVoYvgFRw6hhSyozYZDH405I3PtNZqVf3Zux0nxSXCSeaQUepa7Xn8O/QTdm0nUhWeY+wAAAABJRU5ErkJggg==\" style=\"height: auto; max-width: 100%;\">",
+      "<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAxCAIAAABCqI4WAAABTUlEQVR42u2X2xWDIAyGMxcDMQ/TsEyGsXJTyAVBT9vTU3gTyUdMAvmF7W0DFvrLaERvjYE8jHWo2aN3aaX1A2h0YalxHpOtjXiBHhfu+3oc9TpY1KSyFXKu9fgs1tHvFh2neAxm0cnrmpMi4fBphXBOnvEhg51MwwiYfHlK7JHokmkaH7iMMvtwHiAxHT205LCGlqIPUw6r5TGBDtakJs5HpWToF8IIOJrWEym05cDIZ0o/6HQQS6wqD4yRjuW6rxf6H9DwbKxY/zS6uc/76FaYsTszN95mDKFLz0BVPXW6WxfNWx/rfDfRqhaoph55zeUS7Y23hBmNNQfFGdOVZd0KUVtu3NyUyb0Biw1d8XrnnlJAM72QIRMV0pPTkuQT0NIy0fRKyd8pPlFcDamnrcjlukJqy/Z9zvjQHxiVXfwOOf7oymsxVKsVfA79Am33EL/J6XF0AAAAAElFTkSuQmCC\" style=\"height: auto; max-width: 100%;\">",
+      "<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAxCAIAAABCqI4WAAABEElEQVR42u2WwRHEIAhFqcuCrMdqbIZiskqyO2pAUGcnh+jR+bzohwhw/G3BRj+Mxhi8c3At5wOOCng0hhzjI14QT9FFsCroojmSXWD2Wog81tEU6DgzFUEXjclHJyRJF0D3kt/8RxwXqIakKiOEaLUssPwyVF09t3mBBT1ZIsCfoZK1h1IFXXT5s92OpApkQ+oHgqktVbDf641+DRrW1vb6DeiioVarepFzKy/6brQPZjWmHTSayczeCtJ5+mTqMqWEH3J0r2+g24bAhmGyiG49gfGBj+nfE2jexBP026a5DwbRzNUbWvpCrjx2EIEZsu1yMD9Xa0pYJpMbnBCWzDg9d7wOZsln5nIOcb/Xj6M/2uBBnh52cgUAAAAASUVORK5CYII=\" style=\"height: auto; max-width: 100%;\">"
+    ],
+    "q_en": "<img loading=\"lazy\" src=\"data:image/png;base64,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\" style=\"height: auto; max-width: 100%;\"><span style=\"color: white;\">1606</span>",
+    "q_hi": "व्यंजक का मान ज्ञात कीजिए...<br><img loading=\"lazy\" src=\"data:image/png;base64,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\" style=\"height: auto; max-width: 100%;\"><span style=\"color: white;\">1606</span>",
+    "section": "Numerical Ability and Data Interpretation",
+    "solution": "<p>बच्चों, आइए इस सवाल को समझते हैं...</p>",
+    "topic": "Fractions"
+  },
+  {
+    "ans": "2",
+    "level": "Easy",
+    "op_en": [
+      "29",
+      "37",
+      "38",
+      "40"
+    ],
+    "op_hi": [
+      "29",
+      "37",
+      "38",
+      "40"
+    ],
+    "q_en": "If the length of a cuboid is 50 cm, breadth is 3 cm and the volume of the cuboid is 5550 cm<sup>3</sup>, then find the height (in cm) of the cuboid.<span style=\"color: white;\">2422</span>",
+    "q_hi": "यदि एक घनाभ की लंबाई 50 सेमी, चौड़ाई 3 सेमी है और घनाभ का आयतन 5550 घन सेमी है, तो घनाभ की ऊंचाई (सेमी में) ज्ञात कीजिए।<span style=\"color: white;\">2422</span>",
+    "section": "Numerical Ability and Data Interpretation",
+    "solution": "1. घनाभ का आयतन = लंबाई &times; चौड़ाई &times; ऊंचाई.<br>2. दिया गया है: आयतन = 5550 घन सेमी, लंबाई = 50 सेमी, चौड़ाई = 3 सेमी.<br>3. मान रखने पर: 5550 = 50 &times; 3 &times; ऊंचाई.<br>4. 5550 = 150 &times; ऊंचाई.<br>5. ऊंचाई = 5550 &divide; 150 = 37 सेमी।",
+    "topic": "Mensuration"
+  },
+  {
+    "ans": "2",
+    "level": "Medium",
+    "op_en": [
+      "greater than 43 km/hr",
+      "greater than 42.60 km/hr and less than 43 km/hr",
+      "greater than 41.5 km/hr and less than 42.6 km/hr",
+      "less than 41.5 km/hr"
+    ],
+    "op_hi": [
+      "43 किमी/घंटा से अधिक",
+      "42.60 किमी/घंटा से अधिक और 43 किमी/घंटा से कम",
+      "41.5 किमी/घंटा से अधिक और 42.6 किमी/घंटा से कम",
+      "41.5 किमी/घंटा से कम"
+    ],
+    "q_en": "Mohit went to a holiday destination by his car. He covered one-third of the total distance with a speed of 60 km/hr. The next one-third distance was covered with a speed of 50 km/hr. Due to bad conditions of the road, the last one-third distance was covered with a speed of 30 km/hr. The average speed of Mohit during the entire journey was:",
+    "q_hi": "मोहित अपनी कार से छुट्टी मनाने एक गंतव्य पर गया। उसने कुल दूरी का एक-तिहाई भाग 60 किमी/घंटा की चाल से तय किया। अगली एक-तिहाई दूरी 50 किमी/घंटा की चाल से तय की गई। सड़क की खराब स्थिति के कारण अंतिम एक-तिहाई दूरी 30 किमी/घंटा की चाल से तय की गई। पूरी यात्रा के दौरान मोहित की औसत चाल थी:",
+    "section": "Numerical Ability and Data Interpretation",
+    "solution": "1. माना कुल दूरी = 3d किमी. (प्रत्येक भाग = d किमी)<br>2. कुल समय = (d &divide; 60) + (d &divide; 50) + (d &divide; 30).<br>3. लघुत्तम समापवर्त्य (LCM) = 300.<br>4. कुल समय = (5d + 6d + 10d) &divide; 300 = 21d &divide; 300 घंटे.<br>5. औसत चाल = कुल दूरी &divide; कुल समय = 3d &divide; (21d &divide; 300) = (3 &times; 300) &divide; 21 = 900 &divide; 21 &approx; 42.86 किमी/घंटा।<br>6. यह मान 42.60 से अधिक और 43 से कम है।",
+    "topic": "Time Speed and Distance"
+  },
+  {
+    "ans": "2",
+    "level": "Easy",
+    "op_en": [
+      "1 : 3",
+      "1 : 4",
+      "1 : 2",
+      "2 : 5"
+    ],
+    "op_hi": [
+      "1 : 3",
+      "1 : 4",
+      "1 : 2",
+      "2 : 5"
+    ],
+    "q_en": "25% is equivalent to which of the following ratios?",
+    "q_hi": "25% निम्नलिखित में से किस अनुपात के बराबर है?",
+    "section": "Numerical Ability and Data Interpretation",
+    "solution": "1. 25% को भिन्न के रूप में 25 &divide; 100 लिखा जाता है।<br>2. इसे सरल करने पर: 25/100 = 1/4.<br>3. अतः अनुपात 1 : 4 होगा।",
+    "topic": "Ratio and Proportion"
+  },
+  {
+    "ans": "2",
+    "level": "Easy",
+    "op_en": [
+      "9,000",
+      "9,333",
+      "9,303",
+      "9,200"
+    ],
+    "op_hi": [
+      "9,000",
+      "9,333",
+      "9,303",
+      "9,200"
+    ],
+    "q_en": "The average salary of 10 people in group A is ₹12,000 and that of 20 people in group B is ₹8,000. Find the average salary (in ₹) of the combined group (rounded off to the nearest integer).",
+    "q_hi": "समूह A के 10 लोगों का औसत वेतन ₹12,000 है और समूह B के 20 लोगों का औसत वेतन ₹8,000 है। संयुक्त समूह का औसत वेतन (₹ में) ज्ञात कीजिए (निकटतम पूर्णांक तक पूर्णांकित)।",
+    "section": "Numerical Ability and Data Interpretation",
+    "solution": "1. समूह A का कुल वेतन = 10 &times; 12,000 = ₹1,20,000.<br>2. समूह B का कुल वेतन = 20 &times; 8,000 = ₹1,60,000.<br>3. संयुक्त समूह का कुल वेतन = 1,20,000 + 1,60,000 = ₹2,80,000.<br>4. कुल लोगों की संख्या = 10 + 20 = 30.<br>5. औसत वेतन = 2,80,000 &divide; 30 &approx; ₹9,333.",
+    "topic": "Average"
+  },
+  {
+    "ans": "1",
+    "level": "Medium",
+    "op_en": [
+      "79",
+      "69",
+      "85",
+      "75"
+    ],
+    "op_hi": [
+      "79",
+      "69",
+      "85",
+      "75"
+    ],
+    "q_en": "Consider the data of performance of three players P1, P2 and P3 (in terms of percentage of matches won) in four tournaments T1, T2, T3 and T4 together with the number of matches in these tournaments given below.<br><img loading=\"lazy\" src=\"https://blogger.googleusercontent.com/img/a/AVvXsEienKvnXr1KQ2tqwrSODrBXDXgKvdyfUXR6ADyO3Z60I06cruorqJNWGI-tE4B4CKuWoRYWUgrJtWlfOwDiTfWG6FeQbFekyLF1kAjWd7iIFc81JlUNIbHWoUxDMjpGbI5GW07a3U0_bW0FTr3Fq-t6BIu1GU-FbgJQogXkxS9RStKssq8RmaFphwpF8G4=rw\" style=\"height: auto; max-width: 100%;\"><br><br>What is the number of total matches won by P2 in all tournaments?",
+    "q_hi": "नीचे दिए गए चार टूर्नामेंट T1, T2, T3 और T4 में तीन खिलाड़ियों P1, P2 और P3 के प्रदर्शन (जीते गए मैचों के प्रतिशत के रूप में) और इन टूर्नामेंटों में मैचों की संख्या पर विचार करें।<br><img loading=\"lazy\" src=\"https://blogger.googleusercontent.com/img/a/AVvXsEienKvnXr1KQ2tqwrSODrBXDXgKvdyfUXR6ADyO3Z60I06cruorqJNWGI-tE4B4CKuWoRYWUgrJtWlfOwDiTfWG6FeQbFekyLF1kAjWd7iIFc81JlUNIbHWoUxDMjpGbI5GW07a3U0_bW0FTr3Fq-t6BIu1GU-FbgJQogXkxS9RStKssq8RmaFphwpF8G4=rw\" style=\"height: auto; max-width: 100%;\"><br><br>सभी टूर्नामेंटों में P2 द्वारा जीते गए कुल मैचों की संख्या क्या है?",
+    "section": "Numerical Ability and Data Interpretation",
+    "solution": "<p>बच्चों, आइए इस सवाल को समझते हैं...</p>",
+    "topic": "Data Interpretation"
+  },
+  {
+    "ans": "2",
+    "level": "Medium",
+    "op_en": [
+      "When the house produced the least number of serials in a decade, the house produced the maximum number of movies in that decade.",
+      "The combined production of serials, movies and documentaries is minimum in the decade 1990-2000.",
+      "The average production of movies per decade is more than 225.",
+      "The average production of serials per decade is less than 300."
+    ],
+    "op_hi": [
+      "जब हाउस ने एक दशक में धारावाहिकों की सबसे कम संख्या का उत्पादन किया, तो हाउस ने उस दशक में फिल्मों की अधिकतम संख्या का उत्पादन किया।",
+      "दशक 1990-2000 में धारावाहिकों, फिल्मों और वृत्तचित्रों का संयुक्त उत्पादन न्यूनतम है।",
+      "प्रति दशक फिल्मों का औसत उत्पादन 225 से अधिक है।",
+      "प्रति दशक धारावाहिकों का औसत उत्पादन 300 से कम है।"
+    ],
+    "q_en": "Consider the data of serials, movies and documentaries (in units) produced by a production house in decade 1980-1990, 1990-2000, 2000-2010 and 2010-2020 in the line graph below.<br><img loading=\"lazy\" src=\"https://blogger.googleusercontent.com/img/a/AVvXsEiJ5wGvdkKI5UGpmTTuy53MbxOQyNjOOLOsvoH_zLeeLAfGTlSBHTKgogtdpGM0f3Hmf6b0LgNJTHjxe6ei6jOoVidUCUMm7H2ibAX78koijaxzmcQCKBtwA2tguX4ppXIcEgxaZBmFJ6zNZCObTIsc8ReiOwqF-vhWUiYQW1f0i94lH5VcF86Ht1DoyJs=rw\" style=\"height: auto; max-width: 100%;\"><br>Which of the following statements is not correct?",
+    "q_hi": "नीचे दिए गए लाइन ग्राफ में एक प्रोडक्शन हाउस द्वारा दशक 1980-1990, 1990-2000, 2000-2010 और 2010-2020 में निर्मित धारावाहिकों, फिल्मों और वृत्तचित्रों (इकाइयों में) के डेटा पर विचार करें।<br><img loading=\"lazy\" src=\"https://blogger.googleusercontent.com/img/a/AVvXsEiJ5wGvdkKI5UGpmTTuy53MbxOQyNjOOLOsvoH_zLeeLAfGTlSBHTKgogtdpGM0f3Hmf6b0LgNJTHjxe6ei6jOoVidUCUMm7H2ibAX78koijaxzmcQCKBtwA2tguX4ppXIcEgxaZBmFJ6zNZCObTIsc8ReiOwqF-vhWUiYQW1f0i94lH5VcF86Ht1DoyJs=rw\" style=\"height: auto; max-width: 100%;\"><br>निम्नलिखित में से कौन सा कथन सही नहीं है?",
+    "section": "Numerical Ability and Data Interpretation",
+    "solution": "<p>बच्चों, आइए इस सवाल को समझते हैं...</p>",
+    "topic": "Data Interpretation"
+  },
+  {
+    "ans": "2",
+    "level": "Medium",
+    "op_en": [
+      "494",
+      "484",
+      "477",
+      "492"
+    ],
+    "op_hi": [
+      "494",
+      "484",
+      "477",
+      "492"
+    ],
+    "q_en": "Find the circumference (in m) of the largest circle that can be inscribed in a rectangle whose dimensions are given as 215 m and 154 m.<br><br><img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGkAAAAqCAYAAACwTnX4AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAATeSURBVHhe7Zs/L3RPFICHb4BOJWhUGkLQaBBRSohCKVm9SKgV1BJ/QiIaCq3/JRESERIlIrREfAK/+5yds5kdd3fvenfv731lnmRydsbM3Hvn3HPmzMxV8xVhAn81tVYGKsD5+bmZnp42ra2tpqamxtTX10v+/f3d1sjy9PRk5ufnTWdnp9QjjY+Pm7u7O1vDA0sK/DlnZ2d4pK/BwcGvx8dHKVtcXMyVuVDW0tIibUDb1tXVfb29vUmZS1BShdCB9gcZZVDuQn5/f9/msmQyGSlXxbkEd1ch+vr60IRpaGiwJVlwfT7UGx4etrksTU1N9td3gpKqzMPDg4msyeYK8/z8LLKxsVFkHmJPgaqgLnBnZ8eWxIOLZD7C5cURlFQlGHjmo0ID7zI2NvbV0dERGzRAUFKVIKIrNvAKESBWdHt7a0u+E5RUBbCeJArCDZZSEAQlVZikA8/fqVdqvoKgpArCwBMoxK2B3PWPzldzc3O2JAsKw/35hBC8gszOzppIIXlrILaAdnd3bS7L5uamyIWFBZHA1tHW1pbNeVhlBf4QDbcLJXV/WBFuLq4OaXV1Veq5hF3wfwBxd7oTWyyxS1su7Apr+6WlJVsaKJdaBhKiSQvXZyKzlHw0gUk+Mk/J9/f3iywH9rOiSVR+9/T0iAyUT+3FxYWJooycpVxeXorUQWXDMFqYme7ubsmXy+vrq8i2tjaRgR/AnOTCFkVM8Y/RhV3g53wLwa+vr8VySoGb1JNFTiCZcziFVPepnJycSD3FbeOfWNIWi9Z5rNg8yCmmW7dQ+hVzoVWWwIkiRf4iy4dFF/VYeBFS6uKMMj2VBO3PXVXTd9yKXPewNARF0jbuEAywePpn4Ug7Re/tN5H3NDwwD+ivmF0YGAbF391lQxFFueiAqeLI4/pcRYKuMdzr6r34yvRBue7xtO4oJ4F2XCNJcq+RNnlK4i3nhrCMQmgdf6AZGF9xajX0x28eNK5v2uogoBSUGfcixEE7dyslabtK4iqzUsklL8dg+dbgw9/9NxWF0bHr1oB67oXjVtPaVhP9Yw1+X4WgjbpEFEw+adt/hTwl8YCl3kLqMIguvMmUu9aFxVCGBQGDH+cy4lxdUrStWifKIV/KRSrcD/WTpLh7T4tcdKdRWbEPIhQiM4Uoa3193URuxjQ3N9tSY66urkT29vaKHBgYMMfHx98iukKsra2Zg4MDm4vn8PBQvh/Qjz9eXl5Etre3iyzF0dERL2miRN3/i5ySlpeXRX5+foosBINCWM1go1h2fqempnIhNWE4O7/39/dSv6urS+TIyIjI09NTacfHgcAiFwVvb29LexJh88bGRq5tHNRbWVkR5Ss3Nzci9T5+DdFbknNXmgqFvYArYXKmHq4RV6ORGC5N3RbuwZ+71L2oC1Tok7b8jb65n7gAw0UDGHf+4dq0p69iz5Am3GOhlNSFipIC1QNl+HOkzqWJgyMrA1UizloIvLD4pAQlpYwuOdy1XSnC8XnK7O3tiRwdHRWZhHAymzJEwUSk/ncPxQiWlCIo5uPjw0xOTtqSZARLSpGhoSH5gJ9UDsGSUoKdGXZcZmZmbElygpJSgm0uKCdgUIKSUoBtKuajTCbz7Z/MkhCUlAKE3QQMExMTtqQ8QuCQAj8NGJSgpH+A4O7+eoz5D6gw2r70z1YVAAAAAElFTkSuQmCC\" style=\"height: auto; max-width: 100%;\">",
+    "q_hi": "एक आयत जिसकी विमाएँ 215 मीटर और 154 मीटर दी गई हैं, उसके अंदर खींचे जा सकने वाले सबसे बड़े वृत्त की परिधि (मीटर में) ज्ञात कीजिए।<br><br><img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGkAAAAqCAYAAACwTnX4AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAATeSURBVHhe7Zs/L3RPFICHb4BOJWhUGkLQaBBRSohCKVm9SKgV1BJ/QiIaCq3/JRESERIlIrREfAK/+5yds5kdd3fvenfv731lnmRydsbM3Hvn3HPmzMxV8xVhAn81tVYGKsD5+bmZnp42ra2tpqamxtTX10v+/f3d1sjy9PRk5ufnTWdnp9QjjY+Pm7u7O1vDA0sK/DlnZ2d4pK/BwcGvx8dHKVtcXMyVuVDW0tIibUDb1tXVfb29vUmZS1BShdCB9gcZZVDuQn5/f9/msmQyGSlXxbkEd1ch+vr60IRpaGiwJVlwfT7UGx4etrksTU1N9td3gpKqzMPDg4msyeYK8/z8LLKxsVFkHmJPgaqgLnBnZ8eWxIOLZD7C5cURlFQlGHjmo0ID7zI2NvbV0dERGzRAUFKVIKIrNvAKESBWdHt7a0u+E5RUBbCeJArCDZZSEAQlVZikA8/fqVdqvoKgpArCwBMoxK2B3PWPzldzc3O2JAsKw/35hBC8gszOzppIIXlrILaAdnd3bS7L5uamyIWFBZHA1tHW1pbNeVhlBf4QDbcLJXV/WBFuLq4OaXV1Veq5hF3wfwBxd7oTWyyxS1su7Apr+6WlJVsaKJdaBhKiSQvXZyKzlHw0gUk+Mk/J9/f3iywH9rOiSVR+9/T0iAyUT+3FxYWJooycpVxeXorUQWXDMFqYme7ubsmXy+vrq8i2tjaRgR/AnOTCFkVM8Y/RhV3g53wLwa+vr8VySoGb1JNFTiCZcziFVPepnJycSD3FbeOfWNIWi9Z5rNg8yCmmW7dQ+hVzoVWWwIkiRf4iy4dFF/VYeBFS6uKMMj2VBO3PXVXTd9yKXPewNARF0jbuEAywePpn4Ug7Re/tN5H3NDwwD+ivmF0YGAbF391lQxFFueiAqeLI4/pcRYKuMdzr6r34yvRBue7xtO4oJ4F2XCNJcq+RNnlK4i3nhrCMQmgdf6AZGF9xajX0x28eNK5v2uogoBSUGfcixEE7dyslabtK4iqzUsklL8dg+dbgw9/9NxWF0bHr1oB67oXjVtPaVhP9Yw1+X4WgjbpEFEw+adt/hTwl8YCl3kLqMIguvMmUu9aFxVCGBQGDH+cy4lxdUrStWifKIV/KRSrcD/WTpLh7T4tcdKdRWbEPIhQiM4Uoa3193URuxjQ3N9tSY66urkT29vaKHBgYMMfHx98iukKsra2Zg4MDm4vn8PBQvh/Qjz9eXl5Etre3iyzF0dERL2miRN3/i5ySlpeXRX5+foosBINCWM1go1h2fqempnIhNWE4O7/39/dSv6urS+TIyIjI09NTacfHgcAiFwVvb29LexJh88bGRq5tHNRbWVkR5Ss3Nzci9T5+DdFbknNXmgqFvYArYXKmHq4RV6ORGC5N3RbuwZ+71L2oC1Tok7b8jb65n7gAw0UDGHf+4dq0p69iz5Am3GOhlNSFipIC1QNl+HOkzqWJgyMrA1UizloIvLD4pAQlpYwuOdy1XSnC8XnK7O3tiRwdHRWZhHAymzJEwUSk/ncPxQiWlCIo5uPjw0xOTtqSZARLSpGhoSH5gJ9UDsGSUoKdGXZcZmZmbElygpJSgm0uKCdgUIKSUoBtKuajTCbz7Z/MkhCUlAKE3QQMExMTtqQ8QuCQAj8NGJSgpH+A4O7+eoz5D6gw2r70z1YVAAAAAElFTkSuQmCC\" style=\"height: auto; max-width: 100%;\">",
+    "section": "Numerical Ability and Data Interpretation",
+    "solution": "<p>बच्चों, आइए इस सवाल को समझते हैं...</p>",
+    "topic": "Mensuration"
+  },
+  {
+    "ans": "3",
+    "level": "Medium",
+    "op_en": [
+      "less than 10 seconds",
+      "greater than 10 seconds but less than 11 seconds",
+      "greater than 11 seconds but less than 12 seconds",
+      "greater than 12 seconds"
+    ],
+    "op_hi": [
+      "10 सेकंड से कम",
+      "10 सेकंड से अधिक लेकिन 11 सेकंड से कम",
+      "11 सेकंड से अधिक लेकिन 12 सेकंड से कम",
+      "12 सेकंड से अधिक"
+    ],
+    "q_en": "Two trains of lengths 230 metres and 195 metres, take 10 seconds and 15 seconds, respectively, to cross a pole. If both the trains are travelling in the opposite direction, then the time taken to cross each other will be:",
+    "q_hi": "230 मीटर और 195 मीटर लंबी दो ट्रेनें एक खंभे को पार करने में क्रमशः 10 सेकंड और 15 सेकंड का समय लेती हैं। यदि दोनों ट्रेनें विपरीत दिशा में यात्रा कर रही हैं, तो एक-दूसरे को पार करने में लिया गया समय होगा:",
+    "section": "Numerical Ability and Data Interpretation",
+    "solution": "1. पहली ट्रेन की चाल = 230 &divide; 10 = 23 मीटर/सेकंड।<br>2. दूसरी ट्रेन की चाल = 195 &divide; 15 = 13 मीटर/सेकंड।<br>3. विपरीत दिशा में चलते समय सापेक्ष चाल = 23 + 13 = 36 मीटर/सेकंड।<br>4. एक-दूसरे को पार करने के लिए तय की जाने वाली कुल दूरी = दोनों ट्रेनों की लंबाई का योग = 230 + 195 = 425 मीटर।<br>5. समय = कुल दूरी &divide; सापेक्ष चाल = 425 &divide; 36 &approx; 11.81 सेकंड।<br>6. यह 11 सेकंड से अधिक लेकिन 12 सेकंड से कम है।",
+    "topic": "Time Speed and Distance"
+  }
+]
