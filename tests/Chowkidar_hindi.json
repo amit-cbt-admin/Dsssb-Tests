@@ -1,0 +1,275 @@
+[
+  {
+    "ans": "3",
+    "level": "Easy",
+    "op_en": [
+      "मैं शनिवार को वृत रखती हूँ।",
+      "मैं शनीवार को वृत रखती हूँ।",
+      "मैं शनिवार को व्रत रखती हूँ।",
+      "मैं शनिवार वाले दिन को वृत रखती हूँ।"
+    ],
+    "op_hi": [
+      "मैं शनिवार को वृत रखती हूँ।",
+      "मैं शनीवार को वृत रखती हूँ।",
+      "मैं शनिवार को व्रत रखती हूँ।",
+      "मैं शनिवार वाले दिन को वृत रखती हूँ।"
+    ],
+    "q_en": "<p dir=\"ltr\" style=\"line-height:1.295;margin-top:0pt;margin-bottom:8pt;\"><span style=\"font-family:arial,helvetica,sans-serif;\"><span style=\"font-size:14px;\">निम्नलिखित वाक्य के शुद्ध रूप का चयन करें।</span></span><br><span style=\"font-family:arial,helvetica,sans-serif;\"><span style=\"font-size:14px;\">मैं शनिवार के दिन दिन में व्रत रखती हूँ।</span></span>​</p>",
+    "q_hi": "<p dir=\"ltr\" style=\"line-height:1.295;margin-top:0pt;margin-bottom:8pt;\"><span style=\"font-family:arial,helvetica,sans-serif;\"><span style=\"font-size:14px;\">निम्नलिखित वाक्य के शुद्ध रूप का चयन करें।</span></span><br><span style=\"font-family:arial,helvetica,sans-serif;\"><span style=\"font-size:14px;\">मैं शनिवार के दिन दिन में व्रत रखती हूँ।</span></span>​</p>",
+    "section": "Hindi",
+    "solution": "<b>📌 Concept:</b><br>जब हम 'शनिवार' कहते हैं, तो 'वार' शब्द का अर्थ ही 'दिन' होता है। इसलिए शनिवार के साथ दोबारा 'दिन' शब्द का प्रयोग करना 'पुनरुक्ति दोष' (Redundancy) कहलाता है। साथ ही 'व्रत' की सही वर्तनी पर ध्यान देना आवश्यक है।<br><br><b>🔍 Word Insight:</b><br>- <b>शनिवार:</b> शनि + वार (दिन)।<br>- <b>व्रत:</b> उपवास (सही वर्तनी)। 'वृत' का अर्थ घेरा होता है।<br><br><b>🧠 Explanation (Option-wise Breakdown):</b><br>1. विकल्प 1 → 'वृत' गलत वर्तनी है।<br>2. विकल्प 2 → 'शनीवार' और 'वृत' दोनों गलत हैं।<br>3. विकल्प 3 → सही। 'शनिवार' के साथ 'दिन' हटा दिया गया है और वर्तनी शुद्ध है।<br>4. विकल्प 4 → 'दिन' का अनावश्यक प्रयोग और 'वृत' गलत है।<br><br><b>⚡ Smart Exam Trick:</b><br>दिनों के नाम (सोमवार, मंगलवार आदि) के साथ कभी भी 'दिन' शब्द न जोड़ें।<br><br><b>🎯 Memory Hack:</b><br>वार $=$ दिन। दो बार दिन-दिन कहना गलत है।<br><br><b>🚫 Common Mistake:</b><br>बोलचाल में हम अक्सर 'शनिवार के दिन' बोलते हैं, जिसे छात्र सही मान लेते हैं।",
+    "topic": "वाक्य शुद्धि (Redundancy)"
+  },
+  {
+    "ans": "4",
+    "level": "Moderate",
+    "op_en": [
+      "'बकरे' के अर्थ में",
+      "'जीव' के अर्थ में",
+      "'ईश्वर' के अर्थ में",
+      "'आम ' के अर्थ में"
+    ],
+    "op_hi": [
+      "'बकरे' के अर्थ में",
+      "'जीव' के अर्थ में",
+      "'ईश्वर' के अर्थ में",
+      "'आम ' के अर्थ में"
+    ],
+    "q_en": "'अज' का प्रयोग किसके अर्थ में नहीं होता-",
+    "q_hi": "'अज' का प्रयोग किसके अर्थ में नहीं होता-",
+    "section": "Hindi",
+    "solution": "<b>📌 Concept:</b><br>'अज' एक प्रसिद्ध अनेकार्थी शब्द है जिसका प्रयोग विभिन्न आध्यात्मिक और भौतिक संदर्भों में होता है।<br><br><b>🔍 Word Insight:</b><br>- <b>अज:</b> जिसका जन्म न हुआ हो (ईश्वर), बकरा, ब्रह्मा, जीव, दशरथ के पिता।<br><br><b>🧠 Explanation (Option-wise Breakdown):</b><br>1. बकरा → 'अज' का अर्थ बकरा होता है (अजा = बकरी)।<br>2. जीव → आत्मा या जीव के लिए भी 'अज' प्रयुक्त होता है।<br>3. ईश्वर → जो अजन्मा है, वह 'अज' है।<br>4. आम → सही। 'आम' के लिए 'रसाल' या 'अमृतफल' प्रयुक्त होता है, 'अज' नहीं।<br><br><b>⚡ Smart Exam Trick:</b><br>'अ' (नहीं) + 'ज' (जन्मा)। जो कभी पैदा न हुआ हो और हमेशा रहे - ईश्वर/आत्मा।",
+    "topic": "अनेकार्थी शब्द"
+  },
+  {
+    "ans": "4",
+    "level": "Easy",
+    "op_en": [
+      "सच",
+      "ऐसे",
+      "सहसा",
+      "ध्यानपूर्वक"
+    ],
+    "op_hi": [
+      "सच",
+      "ऐसे",
+      "सहसा",
+      "ध्यानपूर्वक"
+    ],
+    "q_en": "उपयुक्त  'क्रिया विशेषण' का चयन कर वाक्य को पूर्ण करें - <br><br>'हरीश <u>              </u> पढ़ रहा है।'",
+    "q_hi": "उपयुक्त 'क्रिया विशेषण' का चयन कर वाक्य को पूर्ण करें - <br><br>'हरीश ________ पढ़ रहा है।'",
+    "section": "Hindi",
+    "solution": "<b>📌 Concept:</b><br>जो शब्द क्रिया की विशेषता (ढंग, समय, स्थान) बताते हैं, उन्हें क्रिया विशेषण कहते हैं। 'पढ़ने' की क्रिया के लिए 'रीतिवाचक' शब्द चाहिए।<br><br><b>🧠 Explanation:</b><br>'ध्यानपूर्वक' पढ़ने के ढंग (Manner) को बता रहा है, जो वाक्य के संदर्भ में सबसे उपयुक्त है। 'सहसा' (अचानक) पढ़ने के साथ फिट नहीं बैठता।",
+    "topic": "क्रिया विशेषण (Adverb)"
+  },
+  {
+    "ans": "1",
+    "level": "Easy",
+    "op_en": [
+      "धुलती",
+      "काटती",
+      "फेरती",
+      "नहाती"
+    ],
+    "op_hi": [
+      "धुलती",
+      "काटती",
+      "फेरती",
+      "नहाती"
+    ],
+    "q_en": "उपयुक्त 'क्रिया' का चयन कर रिक्त स्थान की पूर्ति कीजिए।<br>' रिया ठंठे पानी से मुँह......................................है।'",
+    "q_hi": "उपयुक्त 'क्रिया' का चयन कर रिक्त स्थान की पूर्ति कीजिए।<br>'रिया ठंठे पानी से मुँह....................है।'",
+    "section": "Hindi",
+    "solution": "<b>🧠 Explanation:</b><br>मुँह के साथ 'धोना' या 'धुलना' क्रिया ही सार्थक अर्थ देती है। 'मुँह काटना' या 'मुँह फेरना' मुहावरे हैं, जो यहाँ साधारण अर्थ में फिट नहीं हैं।",
+    "topic": "क्रिया (Verb Selection)"
+  },
+  {
+    "ans": "3",
+    "level": "Easy",
+    "op_en": [
+      "गलती मान लेना",
+      "सावधान कर देना",
+      "चौकन्ना होना",
+      "ध्यान से सुनना"
+    ],
+    "op_hi": [
+      "गलती मान लेना",
+      "सावधान कर देना",
+      "चौकन्ना होना",
+      "ध्यान से सुनना"
+    ],
+    "q_en": "'कान खड़े होना' मुहावरे का सही अर्थ क्या है ?",
+    "q_hi": "'कान खड़े होना' मुहावरे का सही अर्थ क्या है ?",
+    "section": "Hindi",
+    "solution": "<b>📌 Concept:</b><br>जब कोई खतरा महसूस हो या कोई संदिग्ध बात हो, तो सचेत हो जाने को 'कान खड़े होना' कहते हैं।<br><br><b>🧠 Explanation:</b><br>सही अर्थ है **'चौकन्ना होना'** (To be alert).<br><br><b>🚫 Common Mistake:</b><br>छात्र इसे 'ध्यान से सुनना' समझ लेते हैं, जबकि वह 'कान लगाना' होता है।",
+    "topic": "मुहावरे (Idioms)"
+  },
+  {
+    "ans": "1",
+    "level": "Moderate",
+    "op_en": [
+      "किसी के काम में बेकार दखल देना",
+      "बार​-बार किसी एक ही काम को करना",
+      "व्यर्थ का कार्य करना",
+      "दाल को मूसल से तोड़ना"
+    ],
+    "op_hi": [
+      "किसी के काम में बेकार दखल देना",
+      "बार​-बार किसी एक ही काम को करना",
+      "व्यर्थ का कार्य करना",
+      "दाल को मूसल से तोड़ना"
+    ],
+    "q_en": "लोकोक्ति के सही अर्थ का चयन करें- <br>‘दालभात में मूसलचन्द’",
+    "q_hi": "लोकोक्ति के सही अर्थ का चयन करें- <br>‘दालभात में मूसलचन्द’",
+    "section": "Hindi",
+    "solution": "<b>📌 Concept:</b><br>'दाल-भात' (साधारण भोजन) में 'मूसल' (भारी लकड़ी) का कोई काम नहीं होता। अतः यह व्यर्थ के हस्तक्षेप को दर्शाता है।<br><br><b>🧠 Explanation:</b><br>इसका अर्थ है **'दो व्यक्तियों या कार्यों के बीच में बिना मतलब का दखल देना'**।",
+    "topic": "लोकोक्ति (Proverbs)"
+  },
+  {
+    "ans": "1",
+    "level": "Moderate",
+    "op_en": [
+      "ग ख क घ",
+      "ग ख घ क",
+      "घ क ख ग",
+      "ग क ख घ"
+    ],
+    "op_hi": [
+      "ग ख क घ",
+      "ग ख घ क",
+      "घ क ख ग",
+      "ग क ख घ"
+    ],
+    "q_en": "इस प्रश्न में एक वाक्य चार भागों में विभाजित है और ये चारों भाग क्रमानुसार नहीं हैं, इन्हें इस तरह क्रम में लगायें कि एक सुसंगत वाक्य का निर्माण हो सके :<br>बल्कि अच्छे जीवन मूल्यों का प्रसार(क) रोजगार प्रदान करना नहीं(ख) शिक्षा का उद्देश्य केवल(ग) करना भी होना चाहिए(घ)",
+    "q_hi": "इस प्रश्न में एक वाक्य चार भागों में विभाजित है और ये चारों भाग क्रमानुसार नहीं हैं, इन्हें इस तरह क्रम में लगायें कि एक सुसंगत वाक्य का निर्माण हो सके :<br>बल्कि अच्छे जीवन मूल्यों का प्रसार(क) रोजगार प्रदान करना नहीं(ख) शिक्षा का उद्देश्य केवल(ग) करना भी होना चाहिए(घ)",
+    "section": "Hindi",
+    "solution": "<b>📌 Concept:</b><br>नकारात्मक और सकारात्मक विचारों को 'केवल... नहीं बल्कि...' के क्रम में जोड़ा जाता है।<br><br><b>🧠 Explanation:</b><br>क्रम: शिक्षा का उद्देश्य केवल (ग) + रोजगार प्रदान करना नहीं (ख) + बल्कि अच्छे जीवन मूल्यों का प्रसार (क) + करना भी होना चाहिए (घ)।<br>पूर्ण वाक्य: **\"शिक्षा का उद्देश्य केवल रोजगार प्रदान करना नहीं बल्कि अच्छे जीवन मूल्यों का प्रसार करना भी होना चाहिए।\"**",
+    "topic": "पदक्रम (Sentence Rearrangement)"
+  },
+  {
+    "ans": "3",
+    "level": "Moderate",
+    "op_en": [
+      "देश में",
+      "पड़ गया।",
+      "अनावृस्टि से",
+      "सूखा"
+    ],
+    "op_hi": [
+      "देश में",
+      "पड़ गया।",
+      "अनावृस्टि से",
+      "सूखा"
+    ],
+    "q_en": "अनावृस्टि से देश में सूखा पड़ गया।<br>वाक्य के किस अंश में अशुद्धि है ?",
+    "q_hi": "अनावृस्टि से देश में सूखा पड़ गया। वाक्य के किस अंश में अशुद्धि है ?",
+    "section": "Hindi",
+    "solution": "<b>📌 Concept:</b><br>हिंदी में 'वृष्टि' शब्द में 'ष्' (मूर्धन्य ष) और 'ट' का प्रयोग होता है, न कि 'स' या 'स्ट'।<br><br><b>🔍 Word Insight:</b><br>- <b>अनावृष्टि:</b> (Drought) वर्षा का न होना। सही वर्तनी है - **अनावृष्टि**।<br><br><b>⚡ Smart Exam Trick:</b><br>'वृष्टि' (बारिश) शब्द को याद रखें, अतिवृष्टि (ज्यादा बारिश) और अनावृष्टि इसी से बनते हैं।",
+    "topic": "वाक्य शुद्धि (वर्तनी)"
+  },
+  {
+    "ans": "4",
+    "level": "Hard",
+    "op_en": [
+      "<span style=\"font-size:11pt\"><span style=\"line-height:115%\"><span style=\"font-family:Calibri,sans-serif\"><span lang=\"EN-US\" style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">वहाँ</span> <span lang=\"EN-US\" style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">मुझे</span> <span lang=\"EN-US\" style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">ढूँढ़ते</span> -<span lang=\"EN-US\" style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">ढूँढ़ते</span> <span lang=\"EN-US\" style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">रामा</span> <span lang=\"EN-US\" style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">के</span> <span lang=\"EN-US\" style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">प्राण</span> <span lang=\"EN-US\" style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">कंठगत</span> <span lang=\"EN-US\" style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">हो</span> <span lang=\"EN-US\" style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">रहे</span> <span lang=\"EN-US\" style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">थे।</span></span></span></span>",
+      "<span style=\"font-size:11pt\"><span style=\"line-height:115%\"><span style=\"font-family:Calibri,sans-serif\"><span lang=\"EN-US\" style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">संध्या</span> <span lang=\"EN-US\" style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">समय</span> <span lang=\"EN-US\" style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">जब</span> <span lang=\"EN-US\" style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">सबसे</span> <span lang=\"EN-US\" style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">पूछते</span>-<span lang=\"EN-US\" style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">पूछते</span> <span lang=\"EN-US\" style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">रामा</span> <span lang=\"EN-US\" style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">उस</span> <span lang=\"EN-US\" style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">दुकान</span> <span lang=\"EN-US\" style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">पर</span> <span lang=\"EN-US\" style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">पहुँचा।</span></span></span></span>",
+      "<span style=\"font-size:11pt\"><span style=\"line-height:115%\"><span style=\"font-family:Calibri,sans-serif\"><span lang=\"EN-US\" style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">मैंने</span> <span lang=\"EN-US\" style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">विजय</span> <span lang=\"EN-US\" style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">गर्व</span> <span lang=\"EN-US\" style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">से</span> <span lang=\"EN-US\" style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">कहा</span>-<span lang=\"EN-US\" style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">तुम</span> <span lang=\"EN-US\" style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">इतने</span> <span lang=\"EN-US\" style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">बड़े</span> <span lang=\"EN-US\" style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">होकर</span> <span lang=\"EN-US\" style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">भी</span> <span lang=\"EN-US\" style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">खो</span> <span lang=\"EN-US\" style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">जाते</span> <span lang=\"EN-US\" style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">हो।</span> </span></span></span>",
+      "<span style=\"font-size:11pt\"><span style=\"line-height:115%\"><span style=\"font-family:Calibri,sans-serif\"><span lang=\"EN-US\" style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">हमलोग</span> <span lang=\"EN-US\" style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">किताब</span> <span lang=\"EN-US\" style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">पढ़</span> <span lang=\"EN-US\" style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">रहे</span> <span lang=\"EN-US\" style=\"font-family:&quot;Nirmala UI&quot;,sans-serif\">थे।</span></span></span></span>"
+    ],
+    "op_hi": [
+      "वहाँ मुझे ढूँढ़ते-ढूँढ़ते रामा के प्राण कंठगत हो रहे थे।",
+      "संध्या समय जब सबसे पूछते-पूछते रामा उस दुकान पर पहुँचा।",
+      "मैंने विजय गर्व से कहा-तुम इतने बड़े होकर भी खो जाते हो।",
+      "हमलोग किताब पढ़ रहे थे।"
+    ],
+    "q_en": "नीचे दिए परिच्छेद का अतिरिक्त वाक्य चुनें।<br>वहाँ मुझे ढूँढ़ते-ढूँढ़ते रामा के प्राण कंठगत हो रहे थे। संध्या समय जब सबसे पूछते-पूछते  रामा उस दुकान पर पहुँचा। हमलोग किताब पढ़ रहे थे। मैंने विजय गर्व से कहा-तुम इतने बड़े होकर भी खो जाते हो।<br>",
+    "q_hi": "नीचे दिए परिच्छेद का अतिरिक्त वाक्य चुनें।<br>वहाँ मुझे ढूँढ़ते-ढूँढ़ते रामा के प्राण कंठगत हो रहे थे। संध्या समय जब सबसे पूछते-पूछते  रामा उस दुकान पर पहुँचा। हमलोग किताब पढ़ रहे थे। मैंने विजय गर्व से कहा-तुम इतने बड़े होकर भी खो जाते हो।<br>",
+    "section": "Hindi",
+    "solution": "<b>📌 Concept:</b><br>किसी भी कहानी या परिच्छेद में एक 'मुख्य घटना' होती है। यहाँ मुख्य घटना रामा द्वारा लेखक को ढूँढने की है।<br><br><b>🧠 Explanation:</b><br>विकल्प 1, 2 और 3 रामा के खोजने और मिलने के घटनाक्रम से जुड़े हैं। विकल्प 4 'हमलोग किताब पढ़ रहे थे' इस प्रसंग से पूरी तरह अलग (Irrrelevant) है, इसलिए यह अतिरिक्त है।",
+    "topic": "असंगत वाक्य (Odd One Out)"
+  },
+  {
+    "ans": "1",
+    "level": "Moderate",
+    "op_en": [
+      "किसान",
+      "केशरी",
+      "कुपुत्र",
+      "कूप"
+    ],
+    "op_hi": [
+      "किसान",
+      "केशरी",
+      "कुपुत्र",
+      "कूप"
+    ],
+    "q_en": "निम्नलिखित विकल्पों में से तद्भव शब्द का चयन करें -",
+    "q_hi": "निम्नलिखित विकल्पों में से तद्भव शब्द का चयन करें -",
+    "section": "Hindi",
+    "solution": "<b>📌 Concept:</b><br>तद्भव वे शब्द हैं जो संस्कृत (तत्सम) से बदलकर हिंदी में आए हैं।<br><br><b>🔍 Word Insight:</b><br>- <b>किसान:</b> तद्भव (तत्सम: कृषक)।<br>- <b>कूप:</b> तत्सम (तद्भव: कुआँ)।<br>- <b>कुपुत्र:</b> तत्सम (तद्भव: कपूत)।",
+    "topic": "तद्भव शब्द"
+  },
+  {
+    "ans": "4",
+    "level": "Easy",
+    "op_en": [
+      "रखना चाहिए।",
+      "अपने परिवार",
+      "का ध्यान",
+      "की गरीमा"
+    ],
+    "op_hi": [
+      "रखना चाहिए।",
+      "अपने परिवार",
+      "का ध्यान",
+      "की गरीमा"
+    ],
+    "q_en": "वर्तनी की दृष्टि से दिए गए वाक्य के अशुद्ध अंश का चयन कीजिए । <br>अपने परिवार की गरीमा का ध्यान रखना चाहिए।",
+    "q_hi": "वर्तनी की दृष्टि से दिए गए वाक्य के अशुद्ध अंश का चयन कीजिए। <br>अपने परिवार की गरीमा का ध्यान रखना चाहिए।",
+    "section": "Hindi",
+    "solution": "<b>🧠 Explanation:</b><br>'गरीमा' गलत वर्तनी है। सही शब्द **'गरिमा'** (छोरी 'इ' की मात्रा) होता है।",
+    "topic": "वर्तनी शुद्धि"
+  },
+  {
+    "ans": "2",
+    "level": "Easy",
+    "op_en": [
+      "तुम",
+      "वापिस",
+      "अपने घर",
+      "चले जाओ"
+    ],
+    "op_hi": [
+      "तुम",
+      "वापिस",
+      "अपने घर",
+      "चले जाओ"
+    ],
+    "q_en": "उपरोक्त दिए गए वाक्य के किस भाग में अशुद्धि है – <br>तुम अपने घर वापिस चले जाओ ।",
+    "q_hi": "उपरोक्त दिए गए वाक्य के किस भाग में अशुद्धि है – <br>तुम अपने घर वापिस चले जाओ ।",
+    "section": "Hindi",
+    "solution": "<b>🧠 Explanation:</b><br>'वापिस' अशुद्ध है। मानक हिंदी में सही शब्द **'वापस'** होता है।",
+    "topic": "वर्तनी शुद्धि"
+  },
+  {
+    "ans": "1",
+    "level": "Easy",
+    "op_en": [
+      "से",
+      "हेतु",
+      "ने",
+      "में"
+    ],
+    "op_hi": [
+      "से",
+      "हेतु",
+      "ने",
+      "में"
+    ],
+    "q_en": "उचित कारक चिन्ह का प्रयोग कर वाक्य पूर्ण करें -<br>वह कुल्हाड़ी ______ वृक्ष काटता है।",
+    "q_hi": "वह कुल्हाड़ी ______ वृक्ष काटता है।",
+    "section": "Hindi",
+    "solution": "<b>📌 Concept:</b><br>'करण कारक' (Instrumental case) का चिह्न 'से' होता है, जो क्रिया के साधन (Tool) को बताता है। यहाँ कुल्हाड़ी साधन है।",
+    "topic": "कारक (Case Marks)"
+  }
+]
