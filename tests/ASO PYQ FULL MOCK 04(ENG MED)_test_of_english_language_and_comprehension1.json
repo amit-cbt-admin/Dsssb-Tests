@@ -1,0 +1,422 @@
+[
+  {
+    "ans": "2",
+    "level": "",
+    "op_en": [
+      "verbosity",
+      "brevity",
+      "redundancy",
+      "loquacity"
+    ],
+    "op_hi": [
+      "verbosity",
+      "brevity",
+      "redundancy",
+      "loquacity"
+    ],
+    "q_en": "Select the option that can be used as a one-word substitute for the underlined group of words.<br><br>The committee praised her report for its <u>briefness and clarity</u>, noting that it communicated complex findings without unnecessary elaboration.",
+    "q_hi": "Select the option that can be used as a one-word substitute for the underlined group of words.<br><br>The committee praised her report for its <u>briefness and clarity</u>, noting that it communicated complex findings without unnecessary elaboration.",
+    "section": "Test of English Language and Comprehension1",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "3",
+    "level": "",
+    "op_en": [
+      "Hostile",
+      "Contentious",
+      "Harmonious",
+      "Bitter"
+    ],
+    "op_hi": [
+      "Hostile",
+      "Contentious",
+      "Harmonious",
+      "Bitter"
+    ],
+    "q_en": "Select the most appropriate ANTONYM of the highlighted word in the given sentence.<br><br>Their friendship still remained <strong>fractious</strong> after an argument during their South Indian backpacking trip.",
+    "q_hi": "Select the most appropriate ANTONYM of the highlighted word in the given sentence.<br><br>Their friendship still remained <strong>fractious</strong> after an argument during their South Indian backpacking trip.",
+    "section": "Test of English Language and Comprehension1",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "3",
+    "level": "",
+    "op_en": [
+      "Strict",
+      "Inflexible",
+      "Malleable",
+      "Unyielding"
+    ],
+    "op_hi": [
+      "Strict",
+      "Inflexible",
+      "Malleable",
+      "Unyielding"
+    ],
+    "q_en": "Select the most appropriate ANTONYM of the highlighted word in the given sentence.<br><br>Although the agreement was initially <strong>rigid</strong>, the negotiators found ways to make it more flexible.",
+    "q_hi": "Select the most appropriate ANTONYM of the highlighted word in the given sentence.<br><br>Although the agreement was initially <strong>rigid</strong>, the negotiators found ways to make it more flexible.",
+    "section": "Test of English Language and Comprehension1",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "1",
+    "level": "",
+    "op_en": [
+      "Frivolous",
+      "Glum",
+      "Acerbic",
+      "Jubilant"
+    ],
+    "op_hi": [
+      "Frivolous",
+      "Glum",
+      "Acerbic",
+      "Jubilant"
+    ],
+    "q_en": "Select the most appropriate ANTONYM of the underlined word in the given sentence.<br><br>The speech was <u>trenchant</u>, filled with sharp insights and pointed criticism.<br>",
+    "q_hi": "Select the most appropriate ANTONYM of the underlined word in the given sentence.<br><br>The speech was <u>trenchant</u>, filled with sharp insights and pointed criticism.<br>",
+    "section": "Test of English Language and Comprehension1",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "2",
+    "level": "",
+    "op_en": [
+      "Position (1)",
+      "Position (2)",
+      "Position (3)",
+      "Position (4)"
+    ],
+    "op_hi": [
+      "Position (1)",
+      "Position (2)",
+      "Position (3)",
+      "Position (4)"
+    ],
+    "q_en": "Complete the sentence by selecting the best position where the word ‘the’ can be inserted.<br><br>I told them that (1) India produces (2) best (3) spices in all of (4) Asia.",
+    "q_hi": "Complete the sentence by selecting the best position where the word ‘the’ can be inserted.<br><br>I told them that (1) India produces (2) best (3) spices in all of (4) Asia.",
+    "section": "Test of English Language and Comprehension1",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "4",
+    "level": "",
+    "op_en": [
+      "<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGcAAAAaCAIAAAAln9WxAAAEDklEQVR42u1YMWvbQBi9n6FVkMXQId2ssYYMFmSIIEMEGYroEESGIDwEkUWIDkZ0CKJDEBkC56GgbMpQkJfAeSjIQ0AeDHIhg4YMN2TQ4MG9O1n2qU5rmZSGtLrt7ux379697/tOB2Z127yBWoJatVq1WrV/X7XsHkFLbQg2quXZQDWc+scAgFq1DSMUWbVqtWp/VzWMuiTBAeGdEUy4EB5BY5cMA7Alad0wnbLRKY770D5oqL10NvGNtgiA0DoJEjL1gJwDCtM4cKPHJUx8batvKIzYNuAoW0c1S4e+eySLFuEVuRQQiPsM8DGGHVlkOEueOPKO6CCh0dgtxgnJG1dvi/aA7YKSFJXziK49sEHRFLIF2lK4z/r7MK2smqJZTjBK8SQwtgE4CnDOfWBLggrHdCF856lEjEOYsHSIv7ktAFqnjneFEpxGF2QSaF3X7gZxipMbUwJAOo/zJZKepnxCmCieJfCQoOjBw29Fm9J8qxNeH2zvYgn49sxxLQ9NcDpkZI5znonXJlMhZqfjtgE49FPGEd/abwHQP7r2JSP5WSEYzpD954oSXjBki4bmthniDbxmIr677UQFm9ZFsjTAV4NKc82AcUB2pVwtZhE9vrMFDDu6Tkj1fvC1OSBrQ4fsRL5M1tktcrZXAPdgwvPc8Vg3dpuCdp0uxwV7vtw9JDrpN4W1U18FQP2S/xL770vOyvqm8hSrSnlt2R17xE3E3lzchAZYOJHKVNi7UM0qbzLndGuC1WatTaQM4UnAX6Tj4hbFjTPVuC2UOdPzE8x+Voio+Q+zZ6vGgt+85X+beDsL6lVVS3sK75HKbRPVcAxPWo19Gw7S8Kyyarnd2sywY085DbPZ81VjocRH6Fy1edRUVY3ENQnr8jFmYT/6Y6plkd0EkoWy1e2sUW1uN+Mrjrpynu+erVqeWfiURCN0YWlkVoxQktcAKyPTAmZgO/21ZTSBe9VU+2YLQPYmT22HqcaFy4pqud2akpQ7rrJqOKDfBvq8as4yvktrKCk0pwG9cExxaEkCK0+03bEauqhBrDiA4wJmGrvElTtuPGVm+CjRXLYl62eO01EaeSEmyfm9CLYUd5g9yevXgGXaY08m5eUTvVLgoW/uksSm+6MQjaigNFw+FyRHZc5cdZqXuGqqIZtL0PaA7yrwnrG7pVceehF6I+vnaI7N3Xfo+Q9KMIid8LKb39d6hrxFr2tyB8aPCzcJYlMSOysJ5SeEUpcQ+4lnFp0r+Q0O3mF8Y4hA1C7j7z2FJ4nKXc5v5DzMMHtlbx7I7ITZC65P6kA3emUvRUnPcIcvuH6GLNUbv6b3NRxdef7oRXxGU6rY1IwTuVUU3/pVcv2BhR2JfLOqXYTrt9z6BbxWrVbtf2s/ANbm9TmZgUbMAAAAAElFTkSuQmCC\" style=\"height: auto; max-width: 100%;\">",
+      "<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHsAAAAZCAIAAACemcZ5AAAEl0lEQVR42u2ZsWvbThTH78/Qashi8OBs0RjBb7AgQwUZKsgQRIcgMhThwYgsRmQwIoMxHX6IDAF5KMhDQb+hIC+GyxCQh4IyGOTBgwYPN2TQ4MG/dydZUly3tpu0kKI3+YT17t7n3vu+FwctS/uzhkoEJfGSeGkl8b+NeDzDdluucgYu8fyqxfPA7ariwQaGm4iTyLlECJXEX0CcEO+K28hws6rgdkn8pRb1pZL4GyBOcAcEHXHHmjstlMyjrZ3AY4QOeKXjRYvsFWrGfbZfvgQjDz25Bi9x1RNVOcmPQkY9tVGBb3I12RyR9OkidJpiJdniQlH70dYId/efnQ1MSjzP7PRRO3kvDgYG84YqDc1+jOmzRJprBl6E9ocqxwm9MXXv34JeI+Zf1L6ELyEuKW3TfYzI1NXqCF24CYz43uA52Z7QQ5Bvlgz3cWYn+8RfNa6AePlgHGZL4qoHqsOiI2N4Kz0KeJMunRCcLYjX5hHiTRrGMujy4o1Pd4wjt8VLW4nv6T+8g4Mj6TYHtJxaUjONMewr0g0mkElxaJ9BhKo7j8mc+F0BIdX47AaPjnYqAfHwVkR13WMHDT6JCMlO9OvEdVxc1k2fHcZqIOHf/KAJZWVAskzJiReX8Dn1wIB+sphz36wrzrxADTKl5cVsx9Qn2JPb20p8T/9JIOjcWe0B7FRrwj7NHaXgajk2IW9EdjcMYsEhywzufAX53gD3xsNr6Hi+nFhCkSlF7mloVQE/Ib6kyVI5Nb1ZXEgrOy/vzE7tKK0kQev7ZLGjbO7nn/IfKEAypQx383FFf6R//1KiNj+CCIWI+6kKZeG/EnF6jUgfPQvV+mcVxs+I0xiDvgaSlysj9ab/sD9Hnvke5LIqdzDZCfqe/mNs1NOUj4e6PoxzUu/scNdmSDcVapLRx9FX/TcQZyVWVJWU+BVebieetMTIuxa5JLloxRwmwpq7G3pFBSHfbPUIcU0v3jHX9/FPVZiqRGRf5jICOrkmHbSQh/4miLF/zaMjAz9lqvLqxKkyZpqeqQqXJghDnFfAtLCcuc64oADvkiGBeYMTk/wV/Y5eJx7kCsvKfNuouqf/1ECyoZmeiNqArD2k48BK0EDiTBYgg6gVLt83uFTiX0icuPRvTjXt3Mu4uKQKC6dsuXQoZAMAd7ZqHbGn09HF8iMS3tu9rg57Ch0czAi9jCPVHjMXkaNy6SVFn+nMABOd3DTNK0U4TvMFtznx2ovYQOTfiKhhQVjxgynAUPbRjTZ2zn3858rSPoSEeV5BLHPpYCqqV6bZlKqrYSygs8qhPszbLW2/DdMHn3PfaUFtIXUQeKOAsmjSaciebieOjULDMO6LS8merU24otp9JrLhF6qkcFZtEAIFuSYbA9b9Zo5yLPDp3Cob/+WJRkZmOke/N/GqlnGHF47ZyI8q4oXlJ5c90itcla9l7a5IfD//uU0sueN/r/FJS6C7N+2AXlJkn6L1KR6+N+5JSbz9gMxdDbrIuRU8Pfvymq6+vd8Owzt1A/Hy19rfZU/YaLlkWRL/Mz/ITVzrFr9p3OV/JEriJfHSSuJv3v4H/Rokhx9j4OYAAAAASUVORK5CYII=\" style=\"height: auto; max-width: 100%;\">",
+      "<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGEAAAAZCAIAAACuFddYAAAEIklEQVR42u2Yv2vbQBTH78+4VeDF0CHerLGGDBZkqCBDBRmCpiA6iQxBaDGiQzg6GNOhiAyB81CQh4I6BOTFoAwFeQgoQ0AeMmjwcEOHGzK4d6cflp2ExEnTtEW3xLLu3rv3ufe+9xywqMdDA9QIakY1o5rR38uIXPqDA0XaxelzDN+Q+PvA2Glqw8LMFVahZE3oC0VCLrC504QAwDeKOYzpCzKihJBosA3AMxlRSqaDDgDqn2E0RfKWFRB2Nqlvd2ADRS9caynefTYjjikwq4xeckQf4W/Y8CswWoTOH2L0uza8OaNkHqJdiRV48z0K55X8uMwrHzRk/ThIb6oylPg9TahCU+sjo2SUyVNXcs6XZuKRo73hZqSuiS+LGpx5ZlfiX7Z1Y9/A1w/hGapgZThhJk8T7g5wedLQhKzOZHNEjPlQhZfim1us72e0rWr7yBsH3rHKXbWdSERBzx0ZaviKCpl0NQjgHk7yhQneg/KRz6lR/hmUjChJv5nsuWSUDHX1U0jKmdDw+THEg7aCfvCQ6LVvtdUHGd2ZR2yT6gcvofxsgp4MgIymfL/RJ4V9HlzkKh/YLbZBd7ZMfCsTtccyeldGzuJhKIDxja1O3C7ofEmWyXDGI9dHxUFtVcTyyl3R7Guslozmnl6dOUVss8pJIspT94qcpd8HT2IUoa2lkQXxWTrDo4AWEikc5TtUALTGtHw0TpKn6pEwDXphFnalXopXBz4R+IAd3qtHVUYTC9wezP6Chj0ZvjXxlDxdj2ZYvW08f0uDIwi23aS4ao1uC+x7mbPo2PTmT9dsHi2P4Zz/tSbVyYmbNwrFnEcw4hlXydN192PEdKrUkY0Z8U1a4f1dQgu0ROnRoI8TfuqiEmlg2QFdPI+ReppkRVGttZwRTx/BiCfUw4xYhYJKTeUJOa72NCQeGjKA5hndmBEPO6NQ2eU4SMsNd0XpXWGnUA/2mIzMtSUbMuJoMvlkpQ5WRIfXWlbSxD8Aq5HfX2tMj4AQ+5ulyiJuJPRGS8ihvZaYj9cjfsmEpaUZtk6X50pGzLmqfcijEI+yvO8mG9/9UHMzUUjZ/SLpX5MyGH5PZJeXuDXgnpeWzS5bt5M1CjQ9s5h4tewgnRMWPZ1YXJjzHKTRR5nLREMxbIQO1WZ+OYYOVJxxKm7NCHVzfU1HugQk9XN0d1KRwOIn50QF8fQrv2R4/3GIkK133jrhz3UNXSq3EHV9RDb8TUtir6fLDeFnx8QXK+srrYdi9MPqO946dfOWKkgDhyHo+/F8tYvJU4PGQ1PhLiTlEMd5DCFqdzqiaeL4TqLMeHKqwoYsN8w7BENI5C3jbJNINF/rzV0Oyc5ajfLRCuh/8bs/tM2AvoLff4fRDJv96FU8/xuMyA/sjmL6St7r/7HVjGpGNaO/ZfwC5Ixb6py0f24AAAAASUVORK5CYII=\" style=\"height: auto; max-width: 100%;\">",
+      "<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGsAAAAZCAIAAAC5N0eRAAADUUlEQVR42u1Yv2vjMBR+f4bXQJZAh94Wjw10iKFDDR0a6HB4OkyHw3Q4QpZgOgRzQwkdiulQUDZnc4dCsgSUoeAOBXcoOEMGDx003OAhQ06SlcRpexc3JaXH6U2Rf3z63ie97ymGqYz3BUgJpIJSQamgVPB5JGOMmrWSYmMpz5oKktg7BgCp4DuqGDelglLBz6EgwS1qiKDsWP4oU+YPyNqjlwGKqtHqxRN+dULCPrIPS7VOPB15VrUAoFS++xG99YSdQwZTOmwHvxYwYdeubTGYQtVCD4m4LN6FQtkwv5povDoHctvmOEppzzT2Fgu/WZ45FNSNpuM/xGTkW9sA33yS4g1tVamhRwZE7t0anfAIRdw+aSYVgMoPx73CEYmDC3oTjFbbbvlhTKLrugqgnoXpFFHH0H9iQrNKInREUUz/iV4O22XNuSW8ofn1sr5aQeKbRdOL+c87ykcouGGeuRSs4+xw2wk4oFuFykW0WKAbi03fJSIZKvzV/C62KUxjDhOjA4CTHsvpyTMEII875wuAdhnxVwxvRjG5bq9WcIz0DFR47uKP4PlGH1wMH126evYw27l7Fsx3KKOid+IlZs1lZgeI3R7U4WWwJxPcVKlpoDuS24jY1igcOL1xpr42znNtBYdsrvpgKQF3dzZfbmZxR4d9FP1BkrjvUN9RtmrOIKeOJOxYWjHjUx/Ccy0F+TbOVodgJkogLzNaU5CpVrFJ+sGyKKYKinWT5N2Lk7h3qimguY8fyfOtCk4DZ3vuifPqUOr9NE9cz1kd1F+AW/tkBjO0HQaCve5i3+HG85J5zQd97y5T0fspgU3zXKEg8dl/ElN032mSHbIeR1vVD58dDiakR23ryBNc7nmPm3Wx1LDheAYzCdt0F+y2Q8YmCU5V5ilFzWw4zoleShslTUbR7H7MO2jgVIVtx12jAAX9PEhe7SRlU/hm7JmKkGnDPP+mIF+QWdjD7FCcLcigbfIjm7KlmWdYTDzMPEgXcLgEg2me2WF6zuLmRY9Z2gkKxfkLO+VKhR++GOnLIAWPrnSlqKpFq/dSwrFn7FRUhkP51OzrRYKb5PlvfpvBjdcUlF+38sYIWWeB/D64ZpBb5HbD5FNyk19YpYJSQang/x6/AUtT3DqiYdzRAAAAAElFTkSuQmCC\" style=\"height: auto; max-width: 100%;\">"
+    ],
+    "op_hi": [
+      "<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGcAAAAaCAIAAAAln9WxAAAEDklEQVR42u1YMWvbQBi9n6FVkMXQId2ssYYMFmSIIEMEGYroEESGIDwEkUWIDkZ0CKJDEBkC56GgbMpQkJfAeSjIQ0AeDHIhg4YMN2TQ4MG9O1n2qU5rmZSGtLrt7ux379697/tOB2Z127yBWoJatVq1WrV/X7XsHkFLbQg2quXZQDWc+scAgFq1DSMUWbVqtWp/VzWMuiTBAeGdEUy4EB5BY5cMA7Alad0wnbLRKY770D5oqL10NvGNtgiA0DoJEjL1gJwDCtM4cKPHJUx8batvKIzYNuAoW0c1S4e+eySLFuEVuRQQiPsM8DGGHVlkOEueOPKO6CCh0dgtxgnJG1dvi/aA7YKSFJXziK49sEHRFLIF2lK4z/r7MK2smqJZTjBK8SQwtgE4CnDOfWBLggrHdCF856lEjEOYsHSIv7ktAFqnjneFEpxGF2QSaF3X7gZxipMbUwJAOo/zJZKepnxCmCieJfCQoOjBw29Fm9J8qxNeH2zvYgn49sxxLQ9NcDpkZI5znonXJlMhZqfjtgE49FPGEd/abwHQP7r2JSP5WSEYzpD954oSXjBki4bmthniDbxmIr677UQFm9ZFsjTAV4NKc82AcUB2pVwtZhE9vrMFDDu6Tkj1fvC1OSBrQ4fsRL5M1tktcrZXAPdgwvPc8Vg3dpuCdp0uxwV7vtw9JDrpN4W1U18FQP2S/xL770vOyvqm8hSrSnlt2R17xE3E3lzchAZYOJHKVNi7UM0qbzLndGuC1WatTaQM4UnAX6Tj4hbFjTPVuC2UOdPzE8x+Voio+Q+zZ6vGgt+85X+beDsL6lVVS3sK75HKbRPVcAxPWo19Gw7S8Kyyarnd2sywY085DbPZ81VjocRH6Fy1edRUVY3ENQnr8jFmYT/6Y6plkd0EkoWy1e2sUW1uN+Mrjrpynu+erVqeWfiURCN0YWlkVoxQktcAKyPTAmZgO/21ZTSBe9VU+2YLQPYmT22HqcaFy4pqud2akpQ7rrJqOKDfBvq8as4yvktrKCk0pwG9cExxaEkCK0+03bEauqhBrDiA4wJmGrvElTtuPGVm+CjRXLYl62eO01EaeSEmyfm9CLYUd5g9yevXgGXaY08m5eUTvVLgoW/uksSm+6MQjaigNFw+FyRHZc5cdZqXuGqqIZtL0PaA7yrwnrG7pVceehF6I+vnaI7N3Xfo+Q9KMIid8LKb39d6hrxFr2tyB8aPCzcJYlMSOysJ5SeEUpcQ+4lnFp0r+Q0O3mF8Y4hA1C7j7z2FJ4nKXc5v5DzMMHtlbx7I7ITZC65P6kA3emUvRUnPcIcvuH6GLNUbv6b3NRxdef7oRXxGU6rY1IwTuVUU3/pVcv2BhR2JfLOqXYTrt9z6BbxWrVbtf2s/ANbm9TmZgUbMAAAAAElFTkSuQmCC\" style=\"height: auto; max-width: 100%;\">",
+      "<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHsAAAAZCAIAAACemcZ5AAAEl0lEQVR42u2ZsWvbThTH78/Qashi8OBs0RjBb7AgQwUZKsgQRIcgMhThwYgsRmQwIoMxHX6IDAF5KMhDQb+hIC+GyxCQh4IyGOTBgwYPN2TQ4MG/dydZUly3tpu0kKI3+YT17t7n3vu+FwctS/uzhkoEJfGSeGkl8b+NeDzDdluucgYu8fyqxfPA7ariwQaGm4iTyLlECJXEX0CcEO+K28hws6rgdkn8pRb1pZL4GyBOcAcEHXHHmjstlMyjrZ3AY4QOeKXjRYvsFWrGfbZfvgQjDz25Bi9x1RNVOcmPQkY9tVGBb3I12RyR9OkidJpiJdniQlH70dYId/efnQ1MSjzP7PRRO3kvDgYG84YqDc1+jOmzRJprBl6E9ocqxwm9MXXv34JeI+Zf1L6ELyEuKW3TfYzI1NXqCF24CYz43uA52Z7QQ5Bvlgz3cWYn+8RfNa6AePlgHGZL4qoHqsOiI2N4Kz0KeJMunRCcLYjX5hHiTRrGMujy4o1Pd4wjt8VLW4nv6T+8g4Mj6TYHtJxaUjONMewr0g0mkElxaJ9BhKo7j8mc+F0BIdX47AaPjnYqAfHwVkR13WMHDT6JCMlO9OvEdVxc1k2fHcZqIOHf/KAJZWVAskzJiReX8Dn1wIB+sphz36wrzrxADTKl5cVsx9Qn2JPb20p8T/9JIOjcWe0B7FRrwj7NHaXgajk2IW9EdjcMYsEhywzufAX53gD3xsNr6Hi+nFhCkSlF7mloVQE/Ib6kyVI5Nb1ZXEgrOy/vzE7tKK0kQev7ZLGjbO7nn/IfKEAypQx383FFf6R//1KiNj+CCIWI+6kKZeG/EnF6jUgfPQvV+mcVxs+I0xiDvgaSlysj9ab/sD9Hnvke5LIqdzDZCfqe/mNs1NOUj4e6PoxzUu/scNdmSDcVapLRx9FX/TcQZyVWVJWU+BVebieetMTIuxa5JLloxRwmwpq7G3pFBSHfbPUIcU0v3jHX9/FPVZiqRGRf5jICOrkmHbSQh/4miLF/zaMjAz9lqvLqxKkyZpqeqQqXJghDnFfAtLCcuc64oADvkiGBeYMTk/wV/Y5eJx7kCsvKfNuouqf/1ECyoZmeiNqArD2k48BK0EDiTBYgg6gVLt83uFTiX0icuPRvTjXt3Mu4uKQKC6dsuXQoZAMAd7ZqHbGn09HF8iMS3tu9rg57Ch0czAi9jCPVHjMXkaNy6SVFn+nMABOd3DTNK0U4TvMFtznx2ovYQOTfiKhhQVjxgynAUPbRjTZ2zn3858rSPoSEeV5BLHPpYCqqV6bZlKqrYSygs8qhPszbLW2/DdMHn3PfaUFtIXUQeKOAsmjSaciebieOjULDMO6LS8merU24otp9JrLhF6qkcFZtEAIFuSYbA9b9Zo5yLPDp3Cob/+WJRkZmOke/N/GqlnGHF47ZyI8q4oXlJ5c90itcla9l7a5IfD//uU0sueN/r/FJS6C7N+2AXlJkn6L1KR6+N+5JSbz9gMxdDbrIuRU8Pfvymq6+vd8Owzt1A/Hy19rfZU/YaLlkWRL/Mz/ITVzrFr9p3OV/JEriJfHSSuJv3v4H/Rokhx9j4OYAAAAASUVORK5CYII=\" style=\"height: auto; max-width: 100%;\">",
+      "<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGEAAAAZCAIAAACuFddYAAAEIklEQVR42u2Yv2vbQBTH78+4VeDF0CHerLGGDBZkqCBDBRmCpiA6iQxBaDGiQzg6GNOhiAyB81CQh4I6BOTFoAwFeQgoQ0AeMmjwcEOHGzK4d6cflp2ExEnTtEW3xLLu3rv3ufe+9xywqMdDA9QIakY1o5rR38uIXPqDA0XaxelzDN+Q+PvA2Glqw8LMFVahZE3oC0VCLrC504QAwDeKOYzpCzKihJBosA3AMxlRSqaDDgDqn2E0RfKWFRB2Nqlvd2ADRS9caynefTYjjikwq4xeckQf4W/Y8CswWoTOH2L0uza8OaNkHqJdiRV48z0K55X8uMwrHzRk/ThIb6oylPg9TahCU+sjo2SUyVNXcs6XZuKRo73hZqSuiS+LGpx5ZlfiX7Z1Y9/A1w/hGapgZThhJk8T7g5wedLQhKzOZHNEjPlQhZfim1us72e0rWr7yBsH3rHKXbWdSERBzx0ZaviKCpl0NQjgHk7yhQneg/KRz6lR/hmUjChJv5nsuWSUDHX1U0jKmdDw+THEg7aCfvCQ6LVvtdUHGd2ZR2yT6gcvofxsgp4MgIymfL/RJ4V9HlzkKh/YLbZBd7ZMfCsTtccyeldGzuJhKIDxja1O3C7ofEmWyXDGI9dHxUFtVcTyyl3R7Guslozmnl6dOUVss8pJIspT94qcpd8HT2IUoa2lkQXxWTrDo4AWEikc5TtUALTGtHw0TpKn6pEwDXphFnalXopXBz4R+IAd3qtHVUYTC9wezP6Chj0ZvjXxlDxdj2ZYvW08f0uDIwi23aS4ao1uC+x7mbPo2PTmT9dsHi2P4Zz/tSbVyYmbNwrFnEcw4hlXydN192PEdKrUkY0Z8U1a4f1dQgu0ROnRoI8TfuqiEmlg2QFdPI+ReppkRVGttZwRTx/BiCfUw4xYhYJKTeUJOa72NCQeGjKA5hndmBEPO6NQ2eU4SMsNd0XpXWGnUA/2mIzMtSUbMuJoMvlkpQ5WRIfXWlbSxD8Aq5HfX2tMj4AQ+5ulyiJuJPRGS8ihvZaYj9cjfsmEpaUZtk6X50pGzLmqfcijEI+yvO8mG9/9UHMzUUjZ/SLpX5MyGH5PZJeXuDXgnpeWzS5bt5M1CjQ9s5h4tewgnRMWPZ1YXJjzHKTRR5nLREMxbIQO1WZ+OYYOVJxxKm7NCHVzfU1HugQk9XN0d1KRwOIn50QF8fQrv2R4/3GIkK133jrhz3UNXSq3EHV9RDb8TUtir6fLDeFnx8QXK+srrYdi9MPqO946dfOWKkgDhyHo+/F8tYvJU4PGQ1PhLiTlEMd5DCFqdzqiaeL4TqLMeHKqwoYsN8w7BENI5C3jbJNINF/rzV0Oyc5ajfLRCuh/8bs/tM2AvoLff4fRDJv96FU8/xuMyA/sjmL6St7r/7HVjGpGNaO/ZfwC5Ixb6py0f24AAAAASUVORK5CYII=\" style=\"height: auto; max-width: 100%;\">",
+      "<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGsAAAAZCAIAAAC5N0eRAAADUUlEQVR42u1Yv2vjMBR+f4bXQJZAh94Wjw10iKFDDR0a6HB4OkyHw3Q4QpZgOgRzQwkdiulQUDZnc4dCsgSUoeAOBXcoOEMGDx003OAhQ06SlcRpexc3JaXH6U2Rf3z63ie97ymGqYz3BUgJpIJSQamgVPB5JGOMmrWSYmMpz5oKktg7BgCp4DuqGDelglLBz6EgwS1qiKDsWP4oU+YPyNqjlwGKqtHqxRN+dULCPrIPS7VOPB15VrUAoFS++xG99YSdQwZTOmwHvxYwYdeubTGYQtVCD4m4LN6FQtkwv5povDoHctvmOEppzzT2Fgu/WZ45FNSNpuM/xGTkW9sA33yS4g1tVamhRwZE7t0anfAIRdw+aSYVgMoPx73CEYmDC3oTjFbbbvlhTKLrugqgnoXpFFHH0H9iQrNKInREUUz/iV4O22XNuSW8ofn1sr5aQeKbRdOL+c87ykcouGGeuRSs4+xw2wk4oFuFykW0WKAbi03fJSIZKvzV/C62KUxjDhOjA4CTHsvpyTMEII875wuAdhnxVwxvRjG5bq9WcIz0DFR47uKP4PlGH1wMH126evYw27l7Fsx3KKOid+IlZs1lZgeI3R7U4WWwJxPcVKlpoDuS24jY1igcOL1xpr42znNtBYdsrvpgKQF3dzZfbmZxR4d9FP1BkrjvUN9RtmrOIKeOJOxYWjHjUx/Ccy0F+TbOVodgJkogLzNaU5CpVrFJ+sGyKKYKinWT5N2Lk7h3qimguY8fyfOtCk4DZ3vuifPqUOr9NE9cz1kd1F+AW/tkBjO0HQaCve5i3+HG85J5zQd97y5T0fspgU3zXKEg8dl/ElN032mSHbIeR1vVD58dDiakR23ryBNc7nmPm3Wx1LDheAYzCdt0F+y2Q8YmCU5V5ilFzWw4zoleShslTUbR7H7MO2jgVIVtx12jAAX9PEhe7SRlU/hm7JmKkGnDPP+mIF+QWdjD7FCcLcigbfIjm7KlmWdYTDzMPEgXcLgEg2me2WF6zuLmRY9Z2gkKxfkLO+VKhR++GOnLIAWPrnSlqKpFq/dSwrFn7FRUhkP51OzrRYKb5PlvfpvBjdcUlF+38sYIWWeB/D64ZpBb5HbD5FNyk19YpYJSQang/x6/AUtT3DqiYdzRAAAAAElFTkSuQmCC\" style=\"height: auto; max-width: 100%;\">"
+    ],
+    "q_en": "<img loading=\"lazy\" src=\"https://blogger.googleusercontent.com/img/a/AVvXsEgSenspGlgxcOQUrt12qyaxye3VetGPxW31XbX_1qO2BgltWCeMkLgjo4d1t-5uMKa8k9OeeeC5B79Uf88eZnBBMih1Sm7e-6LAuM4UEHL1nu0hV_YtNHWi6FInyjwUoRaeyNahf05tokSnoBNCYLj3xP-3iGTvXztq6c-aW9E-F5d7e6qHdmmqqdPTNzg=rw\" style=\"height: auto; max-width: 100%;\"><span style=\"color: white;\">694</span>",
+    "q_hi": "<img loading=\"lazy\" src=\"https://blogger.googleusercontent.com/img/a/AVvXsEgSenspGlgxcOQUrt12qyaxye3VetGPxW31XbX_1qO2BgltWCeMkLgjo4d1t-5uMKa8k9OeeeC5B79Uf88eZnBBMih1Sm7e-6LAuM4UEHL1nu0hV_YtNHWi6FInyjwUoRaeyNahf05tokSnoBNCYLj3xP-3iGTvXztq6c-aW9E-F5d7e6qHdmmqqdPTNzg=rw\" style=\"height: auto; max-width: 100%;\"><span style=\"color: white;\">694</span>",
+    "section": "Test of English Language and Comprehension1",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "3",
+    "level": "",
+    "op_en": [
+      "torpor - gain <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\nvitality - lose",
+      "torpor - vitality<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\nprolonged- sullen",
+      "gain - lose<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\ntorpor - vitality",
+      "torpor - lose<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\nvitality - gain"
+    ],
+    "op_hi": [
+      "torpor - gain <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\nvitality - lose",
+      "torpor - vitality<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\nprolonged- sullen",
+      "gain - lose<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\ntorpor - vitality",
+      "torpor - lose<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\nvitality - gain"
+    ],
+    "q_en": "Identify a pair of ANTONYMS in the following sentence.<br><br>His torpor may be due to the prolonged illness which made him lose all his vitality and gain a sullen look. <br>",
+    "q_hi": "Identify a pair of ANTONYMS in the following sentence.<br><br>His torpor may be due to the prolonged illness which made him lose all his vitality and gain a sullen look. <br>",
+    "section": "Test of English Language and Comprehension1",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "2",
+    "level": "",
+    "op_en": [
+      "accent",
+      "ascent",
+      "assent",
+      "assistant"
+    ],
+    "op_hi": [
+      "accent",
+      "ascent",
+      "assent",
+      "assistant"
+    ],
+    "q_en": "Select the most appropriate option to fill in the blank.<br><br>His ___ to fame came after winning the national championship.",
+    "q_hi": "Select the most appropriate option to fill in the blank.<br><br>His ___ to fame came after winning the national championship.",
+    "section": "Test of English Language and Comprehension1",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "2",
+    "level": "",
+    "op_en": [
+      "Beautiful",
+      "Broad",
+      "Long",
+      "Narrow"
+    ],
+    "op_hi": [
+      "Beautiful",
+      "Broad",
+      "Long",
+      "Narrow"
+    ],
+    "q_en": "Select the most appropriate synonym of the underlined word in the given sentence.<br><br>The streets of Tashkent are <u>wide</u><strong> </strong>and straight.",
+    "q_hi": "Select the most appropriate synonym of the underlined word in the given sentence.<br><br>The streets of Tashkent are <u>wide</u><strong> </strong>and straight.",
+    "section": "Test of English Language and Comprehension1",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "4",
+    "level": "",
+    "op_en": [
+      "Impulsive",
+      "Volatile",
+      "Eccentric",
+      "Reasonable"
+    ],
+    "op_hi": [
+      "Impulsive",
+      "Volatile",
+      "Eccentric",
+      "Reasonable"
+    ],
+    "q_en": "Select the most appropriate ANTONYM of the highlighted word in the given sentence.<br><br>Nandan drew delightfully <strong>whimsical</strong> images of cavorting rabbits, cows and sheep.",
+    "q_hi": "Select the most appropriate ANTONYM of the highlighted word in the given sentence.<br><br>Nandan drew delightfully <strong>whimsical</strong> images of cavorting rabbits, cows and sheep.",
+    "section": "Test of English Language and Comprehension1",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "1",
+    "level": "",
+    "op_en": [
+      "scent; cent",
+      "cent; scent",
+      "sent; scent",
+      "sent; cent"
+    ],
+    "op_hi": [
+      "scent; cent",
+      "cent; scent",
+      "sent; scent",
+      "sent; cent"
+    ],
+    "q_en": "Select the most appropriate option to fill in the blanks.<br><br>The old woman carefully examined the faded letter. It had a faint _______ of lavender and a single, worn-out one-_______ stamp. The address was barely legible, but it mentioned a location in France.",
+    "q_hi": "Select the most appropriate option to fill in the blanks.<br><br>The old woman carefully examined the faded letter. It had a faint _______ of lavender and a single, worn-out one-_______ stamp. The address was barely legible, but it mentioned a location in France.",
+    "section": "Test of English Language and Comprehension1",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "2",
+    "level": "",
+    "op_en": [
+      "1 → c, 2 → a, 3 → b, 4 → d",
+      "1 → c, 2 → d, 3 → b, 4 → a",
+      "1 → d, 2 → b, 3 → c, 4 → a",
+      "1 → a, 2 → b, 3 → d, 4 → c"
+    ],
+    "op_hi": [
+      "1 → c, 2 → a, 3 → b, 4 → d",
+      "1 → c, 2 → d, 3 → b, 4 → a",
+      "1 → d, 2 → b, 3 → c, 4 → a",
+      "1 → a, 2 → b, 3 → d, 4 → c"
+    ],
+    "q_en": "Match the words in Column A with their correct synonyms in Column B. <br> <table style=\"border-collapse: collapse; width: 218px;\">\t<colgroup>\t\t<col style=\"width: 98pt;\" width=\"131\">\t\t<col style=\"width: 65pt;\" width=\"87\">\t</colgroup>\t<tbody>\t\t<tr>\t\t\t<td class=\"xl65\" style=\"border-bottom: 1px solid black; border-left: 1px solid black; border-right: 1px solid black; border-top: 1px solid black; height: 20px; padding-bottom: .1px; padding-left: 9px; padding-right: 1px; padding-top: .1px; text-align: left; vertical-align: bottom; white-space: nowrap; width: 131px;\"><span style=\"font-size: 14px;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\"><span style=\"color: black;\"><span style=\"font-weight: 400;\"><span style=\"font-style: normal;\"><span style=\"text-decoration: none;\">Column A</span></span></span></span></span></span></td>\t\t\t<td class=\"xl65\" style=\"border-bottom: 1px solid black; border-left: none; border-right: 1px solid black; border-top: 1px solid black; padding-bottom: .1px; padding-left: 9px; padding-right: 1px; padding-top: .1px; text-align: left; vertical-align: bottom; white-space: nowrap; width: 87px;\"><span style=\"font-size: 14px;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\"><span style=\"color: black;\"><span style=\"font-weight: 400;\"><span style=\"font-style: normal;\"><span style=\"text-decoration: none;\">Column B</span></span></span></span></span></span></td>\t\t</tr>\t\t<tr>\t\t\t<td class=\"xl65\" style=\"border-bottom: 1px solid black; border-left: 1px solid black; border-right: 1px solid black; border-top: none; height: 20px; padding-bottom: .1px; padding-left: 9px; padding-right: 1px; padding-top: .1px; text-align: left; vertical-align: bottom; white-space: nowrap;\"><span style=\"font-size: 14px;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\"><span style=\"color: black;\"><span style=\"font-weight: 400;\"><span style=\"font-style: normal;\"><span style=\"text-decoration: none;\">1. Pulchritudinous</span></span></span></span></span></span></td>\t\t\t<td class=\"xl65\" style=\"border-bottom: 1px solid black; border-left: none; border-right: 1px solid black; border-top: none; padding-bottom: .1px; padding-left: 9px; padding-right: 1px; padding-top: .1px; text-align: left; vertical-align: bottom; white-space: nowrap;\"><span style=\"font-size: 14px;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\"><span style=\"color: black;\"><span style=\"font-weight: 400;\"><span style=\"font-style: normal;\"><span style=\"text-decoration: none;\">a. Wicked</span></span></span></span></span></span></td>\t\t</tr>\t\t<tr>\t\t\t<td class=\"xl65\" style=\"border-bottom: 1px solid black; border-left: 1px solid black; border-right: 1px solid black; border-top: none; height: 20px; padding-bottom: .1px; padding-left: 9px; padding-right: 1px; padding-top: .1px; text-align: left; vertical-align: bottom; white-space: nowrap;\"><span style=\"font-size: 14px;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\"><span style=\"color: black;\"><span style=\"font-weight: 400;\"><span style=\"font-style: normal;\"><span style=\"text-decoration: none;\">2. Sagacious</span></span></span></span></span></span></td>\t\t\t<td class=\"xl65\" style=\"border-bottom: 1px solid black; border-left: none; border-right: 1px solid black; border-top: none; padding-bottom: .1px; padding-left: 9px; padding-right: 1px; padding-top: .1px; text-align: left; vertical-align: bottom; white-space: nowrap;\"><span style=\"font-size: 14px;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\"><span style=\"color: black;\"><span style=\"font-weight: 400;\"><span style=\"font-style: normal;\"><span style=\"text-decoration: none;\">b. Mournful</span></span></span></span></span></span></td>\t\t</tr>\t\t<tr>\t\t\t<td class=\"xl65\" style=\"border-bottom: 1px solid black; border-left: 1px solid black; border-right: 1px solid black; border-top: none; height: 20px; padding-bottom: .1px; padding-left: 9px; padding-right: 1px; padding-top: .1px; text-align: left; vertical-align: bottom; white-space: nowrap;\"><span style=\"font-size: 14px;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\"><span style=\"color: black;\"><span style=\"font-weight: 400;\"><span style=\"font-style: normal;\"><span style=\"text-decoration: none;\">3. Lugubrious</span></span></span></span></span></span></td>\t\t\t<td class=\"xl65\" style=\"border-bottom: 1px solid black; border-left: none; border-right: 1px solid black; border-top: none; padding-bottom: .1px; padding-left: 9px; padding-right: 1px; padding-top: .1px; text-align: left; vertical-align: bottom; white-space: nowrap;\"><span style=\"font-size: 14px;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\"><span style=\"color: black;\"><span style=\"font-weight: 400;\"><span style=\"font-style: normal;\"><span style=\"text-decoration: none;\">c. Beautiful</span></span></span></span></span></span></td>\t\t</tr>\t\t<tr>\t\t\t<td class=\"xl65\" style=\"border-bottom: 1px solid black; border-left: 1px solid black; border-right: 1px solid black; border-top: none; height: 20px; padding-bottom: .1px; padding-left: 9px; padding-right: 1px; padding-top: .1px; text-align: left; vertical-align: bottom; white-space: nowrap;\"><span style=\"font-size: 14px;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\"><span style=\"color: black;\"><span style=\"font-weight: 400;\"><span style=\"font-style: normal;\"><span style=\"text-decoration: none;\">4. Nefarious</span></span></span></span></span></span></td>\t\t\t<td class=\"xl65\" style=\"border-bottom: 1px solid black; border-left: none; border-right: 1px solid black; border-top: none; padding-bottom: .1px; padding-left: 9px; padding-right: 1px; padding-top: .1px; text-align: left; vertical-align: bottom; white-space: nowrap;\"><span style=\"font-size: 14px;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\"><span style=\"color: black;\"><span style=\"font-weight: 400;\"><span style=\"font-style: normal;\"><span style=\"text-decoration: none;\">d. Wise</span></span></span></span></span></span></td>\t\t</tr>\t</tbody></table>",
+    "q_hi": "Match the words in Column A with their correct synonyms in Column B. <br> <table style=\"border-collapse: collapse; width: 218px;\">\t<colgroup>\t\t<col style=\"width: 98pt;\" width=\"131\">\t\t<col style=\"width: 65pt;\" width=\"87\">\t</colgroup>\t<tbody>\t\t<tr>\t\t\t<td class=\"xl65\" style=\"border-bottom: 1px solid black; border-left: 1px solid black; border-right: 1px solid black; border-top: 1px solid black; height: 20px; padding-bottom: .1px; padding-left: 9px; padding-right: 1px; padding-top: .1px; text-align: left; vertical-align: bottom; white-space: nowrap; width: 131px;\"><span style=\"font-size: 14px;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\"><span style=\"color: black;\"><span style=\"font-weight: 400;\"><span style=\"font-style: normal;\"><span style=\"text-decoration: none;\">Column A</span></span></span></span></span></span></td>\t\t\t<td class=\"xl65\" style=\"border-bottom: 1px solid black; border-left: none; border-right: 1px solid black; border-top: 1px solid black; padding-bottom: .1px; padding-left: 9px; padding-right: 1px; padding-top: .1px; text-align: left; vertical-align: bottom; white-space: nowrap; width: 87px;\"><span style=\"font-size: 14px;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\"><span style=\"color: black;\"><span style=\"font-weight: 400;\"><span style=\"font-style: normal;\"><span style=\"text-decoration: none;\">Column B</span></span></span></span></span></span></td>\t\t</tr>\t\t<tr>\t\t\t<td class=\"xl65\" style=\"border-bottom: 1px solid black; border-left: 1px solid black; border-right: 1px solid black; border-top: none; height: 20px; padding-bottom: .1px; padding-left: 9px; padding-right: 1px; padding-top: .1px; text-align: left; vertical-align: bottom; white-space: nowrap;\"><span style=\"font-size: 14px;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\"><span style=\"color: black;\"><span style=\"font-weight: 400;\"><span style=\"font-style: normal;\"><span style=\"text-decoration: none;\">1. Pulchritudinous</span></span></span></span></span></span></td>\t\t\t<td class=\"xl65\" style=\"border-bottom: 1px solid black; border-left: none; border-right: 1px solid black; border-top: none; padding-bottom: .1px; padding-left: 9px; padding-right: 1px; padding-top: .1px; text-align: left; vertical-align: bottom; white-space: nowrap;\"><span style=\"font-size: 14px;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\"><span style=\"color: black;\"><span style=\"font-weight: 400;\"><span style=\"font-style: normal;\"><span style=\"text-decoration: none;\">a. Wicked</span></span></span></span></span></span></td>\t\t</tr>\t\t<tr>\t\t\t<td class=\"xl65\" style=\"border-bottom: 1px solid black; border-left: 1px solid black; border-right: 1px solid black; border-top: none; height: 20px; padding-bottom: .1px; padding-left: 9px; padding-right: 1px; padding-top: .1px; text-align: left; vertical-align: bottom; white-space: nowrap;\"><span style=\"font-size: 14px;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\"><span style=\"color: black;\"><span style=\"font-weight: 400;\"><span style=\"font-style: normal;\"><span style=\"text-decoration: none;\">2. Sagacious</span></span></span></span></span></span></td>\t\t\t<td class=\"xl65\" style=\"border-bottom: 1px solid black; border-left: none; border-right: 1px solid black; border-top: none; padding-bottom: .1px; padding-left: 9px; padding-right: 1px; padding-top: .1px; text-align: left; vertical-align: bottom; white-space: nowrap;\"><span style=\"font-size: 14px;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\"><span style=\"color: black;\"><span style=\"font-weight: 400;\"><span style=\"font-style: normal;\"><span style=\"text-decoration: none;\">b. Mournful</span></span></span></span></span></span></td>\t\t</tr>\t\t<tr>\t\t\t<td class=\"xl65\" style=\"border-bottom: 1px solid black; border-left: 1px solid black; border-right: 1px solid black; border-top: none; height: 20px; padding-bottom: .1px; padding-left: 9px; padding-right: 1px; padding-top: .1px; text-align: left; vertical-align: bottom; white-space: nowrap;\"><span style=\"font-size: 14px;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\"><span style=\"color: black;\"><span style=\"font-weight: 400;\"><span style=\"font-style: normal;\"><span style=\"text-decoration: none;\">3. Lugubrious</span></span></span></span></span></span></td>\t\t\t<td class=\"xl65\" style=\"border-bottom: 1px solid black; border-left: none; border-right: 1px solid black; border-top: none; padding-bottom: .1px; padding-left: 9px; padding-right: 1px; padding-top: .1px; text-align: left; vertical-align: bottom; white-space: nowrap;\"><span style=\"font-size: 14px;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\"><span style=\"color: black;\"><span style=\"font-weight: 400;\"><span style=\"font-style: normal;\"><span style=\"text-decoration: none;\">c. Beautiful</span></span></span></span></span></span></td>\t\t</tr>\t\t<tr>\t\t\t<td class=\"xl65\" style=\"border-bottom: 1px solid black; border-left: 1px solid black; border-right: 1px solid black; border-top: none; height: 20px; padding-bottom: .1px; padding-left: 9px; padding-right: 1px; padding-top: .1px; text-align: left; vertical-align: bottom; white-space: nowrap;\"><span style=\"font-size: 14px;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\"><span style=\"color: black;\"><span style=\"font-weight: 400;\"><span style=\"font-style: normal;\"><span style=\"text-decoration: none;\">4. Nefarious</span></span></span></span></span></span></td>\t\t\t<td class=\"xl65\" style=\"border-bottom: 1px solid black; border-left: none; border-right: 1px solid black; border-top: none; padding-bottom: .1px; padding-left: 9px; padding-right: 1px; padding-top: .1px; text-align: left; vertical-align: bottom; white-space: nowrap;\"><span style=\"font-size: 14px;\"><span style=\"font-family: Arial,Helvetica,sans-serif;\"><span style=\"color: black;\"><span style=\"font-weight: 400;\"><span style=\"font-style: normal;\"><span style=\"text-decoration: none;\">d. Wise</span></span></span></span></span></span></td>\t\t</tr>\t</tbody></table>",
+    "section": "Test of English Language and Comprehension1",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "4",
+    "level": "",
+    "op_en": [
+      "an",
+      "a",
+      "No article required",
+      "the"
+    ],
+    "op_hi": [
+      "an",
+      "a",
+      "No article required",
+      "the"
+    ],
+    "q_en": "Select the most appropriate article to fill in the blank. If no article is needed, select 'No article required'.<br><br>When we stayed at my grandfather’s house, we went to ______ beach every day.",
+    "q_hi": "Select the most appropriate article to fill in the blank. If no article is needed, select 'No article required'.<br><br>When we stayed at my grandfather’s house, we went to ______ beach every day.",
+    "section": "Test of English Language and Comprehension1",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "4",
+    "level": "",
+    "op_en": [
+      "Doctrinaire",
+      "Orthodox",
+      "Rigid",
+      "Open-minded"
+    ],
+    "op_hi": [
+      "Doctrinaire",
+      "Orthodox",
+      "Rigid",
+      "Open-minded"
+    ],
+    "q_en": "Select the most appropriate ANTONYM of the underlined word in the given sentence.<br><br>The scholar’s interpretation was deemed too <u>dogmatic</u> by her peers.",
+    "q_hi": "Select the most appropriate ANTONYM of the underlined word in the given sentence.<br><br>The scholar’s interpretation was deemed too <u>dogmatic</u> by her peers.",
+    "section": "Test of English Language and Comprehension1",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "3",
+    "level": "",
+    "op_en": [
+      "<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEIAAAAZCAIAAAAKf2+LAAACpElEQVR42u2Xv2vbQBTH359xq8BLwEOzWaO92VsFHiLIEDQVkUlTMFnMkSGIDkZ4CCJDQB4MzhCwB4OyGC6DQdmUISAPHm7wcIOHGzyopx+15CbFduomTfFNfpbuvfe5+95XEoT/xYA9xh5jj7E7DOqaJ7IEAAVZuyTsU2LM+jpS7In4xfxrTUJaj75nw4E7pDvAoF0VAJMPWnU+auidXWCQJnwYBiO4BMrmGGxkaqVI/KhYMzp+qv4HDCtDcabrFDDAahFBcopaHhd/TR0lmV134nYIzocL5g8svSrhh5A/OUZV9CAp6cS+XsrVXoV5BSPoqKiE3VksoUFDBpCbhG+/G/y+gSA5RSG7MxAgPE4r2NUlRlSkd5KGnDE2wocA+oWFr0nAqNcW1IfmY1ocw4a7wV1R3BjyjOqqlku0BQYb6KhgekkQb4LapVmSDGM1jO/UB3zJqGYTN8bgQ+NXtTzbFcHx3Xvj2fipk7wS1mIIUS0v5lrfGIN2lAhjsrI/ggya5A0Y9N5UihWt1fcfbeU9MdidLtrMiyrBUG6CbTGENSOkpisSN/d+GOGsp4k+T3psRVQ1+3nbs0F7xwBnbhj+BuOrEyw7Pc+F8Z2N0R9iJE4FSL2KfZYHzjGSL7x0dxaBXRcY2ZOb3mqS8MS2x196xZlIo/eE43FKWtoBQKVFvHtPpA2uhW3IjYGwIr/ftvFplNN5Cug8DMeRU1XafprmyapEE5PQM78AnPZ5yNwhWfvc4P5t6vdSScO3Ps+tUzZiGQQ3CirIcsFwX3CEk75RFiQH6qVLF75VRqjcSHw8nHvW0UF07cgSWKQp1b5Z7pTHJzPLT1bDqFxXE9OkuuXN/8IbLjl/DeOTvahPHKPlfe7vDTZ27KXq9p9Ne4w9xr82fgBwfVTFiJ0F0QAAAABJRU5ErkJggg==\" style=\"height: auto; max-width: 100%;\">",
+      "<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAG4AAAAaCAIAAADZiv57AAAEcklEQVR42u2YsWvjSBTG589QK3AjSOF0cXmGLSJwsYIUMaRYzBVGbLGIFEa4MUOKILYwIsUiXATkYkFb3CEXAbkJjIuAXATkIqAsuFDhYgoXU7jwzciWPUrs3MaxiQOaysNYT59+8+Z7TwLTbGxpgAxBhjJDmaHMxvuhnOCgY6olqdyOth4b39taSRIAEA5krR2Qt0d8sBVB1G/jSBMS9mx4+mrlO0NJCO6bRQCUraPsG4W87mH6zJFbLwo5w982SjywlNcr3+UBJ562A5T+hQBO7Gi3hxXB/UK5kaD/G5F9Aj4IyqFNc5uNuVwWdDkdBW5TlXMQTUnQ1uQcADnF7HNmNQndRjm2MancNNSUIBL8guUDugbEY80exFfNAh5ANAntvyVBKJr99RTbc2nJoDKocfpWVRbZVJBKmvuYOHU38btHRzum60LxmxuyOyLjlAoUpFPTH3O2fizC3nOU8c7xt6OjN0fC/X9tVobWMb/zkfNlNiV4hNHFIQAqvIJWL8SRb9I75RduFdpnQqHmRhPKjf0GHMqwXVG+I7xYElR3xAL6zSIL+NMNBo52oryAclVWMqmHdeacdKdMKvvMYUsE4zvm1MWaYV0jJvRHmaqpXJrw0g0iHHb0AgCFZhBvMY7+0YQUGi4rMYJH9DlUF3OAWrLSCv/ogKNG6hDx0zg1VHecPNnPMgDlWH68lOeKwIO1LDsjp8Iv9Q26IXKsJg5YcUabHfDAPBIqv6KlTgHO74JddiauQ54OqKNUnHOPcGdxNcq52kPYI8tU+6x7ZLoVlHChKM52xR4mubzUmhZ0q4Pno4FWBNzIK8kQ2TNjWYZ64ncxygZaHedllFPMzuWxFSZk5Uv/T8vORiifaE0JYld9tsO1DvgGlDiwvxWlE2j3Iq++I5SzxBS0G8L6kppiPUx3j7LKW8pSELnRnp1i4nX9t6IkPjWyQgORhc4doVwkZuRUvjh4+iqUXBKh+nIaP7m+CiV2qyDNixNEvZL62JkdThKQPWh0SRJQ88hGKO+gAGTrkZPNodS3iXKemIWjgt4lr+graYWi9U3v0NIXuFcW/MoY2YMwGtMOmRaMojlIbP+K1UnzPnkPobxKBmI0SXSj0zVaXqMRJjR/LgrMH3OyWjeMc0U6m+9NwCr4od6d7zS5M4oCa1xWN3XY0/O0Z4D+ZF7ZqFD5u08fDvcdvUTNUnUGHqLy7uMKPqvRSRUCX5NDMwnMTwB8MoM4DrnVWRn8ES4KpsyUozSzODHza1+u1rToY99cNF+Y7rYoV01v+JtrsuimofQ0PsgDe9bESaeGF3mQgmu6wSjpK2etKBDlczsYT9NdWxLhVhcFqXAgr/CjpKHjqhbxm4o4a1TvMe5oIhArrYDw/6Spl7oQokXvHE//5dtVGvPJtbwldVS5FX6wL0PhtbrS2t91EO/8paZtL1GOEay5eN9UDe1y7SVL3zuU5MG1Wmh/ODLvzklyVav8VbYfs0+/bxkDSxa4jwYZyo/8FT1DmY0M5fuP/wB6lbrvaJlOBwAAAABJRU5ErkJggg==\" style=\"height: auto; max-width: 100%;\">",
+      "<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFcAAAAZCAIAAADL+CUnAAADbElEQVR42u2YvWvjMBiH9Wd4DWQJdLhs9RroUEOHGjJcoMNhbiihw2EyHCFLMB2KyVBMh2BuKCibOxTcoeAsBWUoOEPBHQrO0MFDBg0ZNGTwSUrsKB/XJFwJvas1RbH10/s+ej+UgDgbcQwyBBmFjEJG4V+nQKIeNL4WpCbaBYXw3os+kO+e1+MfxgRHThUAsAsKI1Q/hR+HQnitGr10hoydUMCoKYPyh6EwgBUJ7JhC5J7JIB0JC/xgavs5+oW0p+idAG+SwH3HOlVy1FzsWzSTAciVLX9EAy2ANYVq5Q51dyAseIb6EXsN5GXtwovG/Mu+pUgzcziLhMIQmUxWKv1wQ0EmuDEqe2wN1YfPhOcRDu6s6lGBLg87WkGSSpf++oxATSDGQtipSPuGN+SQ7uoUktxE5G0IaQJ/N+y2G0Q45AuLDdNq2miAo75NT1g6cydASc+QpQp8Yar4iT86gVPfXqEKlmKhrBktLnurFwGo3uLEVE1tIUwJkhCeUJWqO4wJxvjRKtHXzh33OXBqqnq1LQXi1SWg38+8DtsKdcfsrw0H3/wCQCMN3QiWATiGobjLgc2noX0ISu3ZiZJ7nZ6mdoP/SGEmy6bFFvdq6GhfzJl/fZMCUn6FqchUcMPqKFKgBgGgwlfh8YtdSjd+a3C3m/MUhBBjuwADJYKCnww93RWc8khZSaGJVkwf6mB5TB4timxJIeqojMJgycT19WljCj3mSP1hri3YB8nLG1NgpgqxNjf+kgK+ZdktZsSEgnodvhsFHrpiRkwpNFC8DQUetpoznL9pdP13oMCSjW7zzcFzGaHYL+vbPDzejMKkgogpzUBL9S7ZisLEVFZWx4lMzzAFkbmzXEvBb7G6645i3PXQmPcIIFXavEHy2iuf+xO96EbLgRwtuSvkscuiKOkC8Tiw6PEeWME4eXwG2C446RG09fx0WYMcY68pSydOJOiUrgKq4HajRdmROCX+OW/zeaXaMM2aWkgbzRPrEcWGh7e4Ow4cjbbcvGr1yWIT3teMm4AItzopL8t53SMr8jBt82huSmstP8DZdHIlsaqH0ytJ9RIJ5hJ0Qe8X/F7QE9ZRWXE6jTISdHQlzyxVajAYpaVt8Qb0/r+mUGOJwqf7TTmA+qUfx5+YAn6EtpAg2f8LGYWMQkbhPxm/Ac0Eu9xZ33o8AAAAAElFTkSuQmCC\" style=\"height: auto; max-width: 100%;\">",
+      "<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAAAZCAIAAAAdXf9CAAADJUlEQVR42u2XsWviUBzH35/x1kAXweG6mbEBhwZuaMChgRsk3CChQwmdQhcJHSTcUEKHIh0KcSjkBiEdCnERXofCc4tDIQ4OGRze0OENDrn3EqO22qv2ruVO/G3qy+/3+/y+v9/vRZBsqIEt2BZsC7ZBYI+uAgWzS/85MHoXoE8Ao0Fw/6lgkVux0McXO7pWrM8Ei65VCD4ebODyMB8CNvCtwwIEzASx6uAn3hz4XE6/yexNPILPVe4CFuSaJp+lx8ckvHX0fWGW9MAz9gUepqTpVd0dJrTnPAuTnRwhpybzc7CgNhDJunWI3LomVt2IIJs52dH90e/BaGBCoFxFqUffgACe4eyXuKWA1RQjt7pQ8+Ixh8GXKqynD1ESt5m/qRqhU5LtB5Jm6ZslhYFxG7oKmFPsCVkV3XvkY0k6lgiA+AOnvmLvCIAD07lB0b2jlY23wIivQ8F+mLC4FQC+efGaYOzkbgPnn0LnMn/oWdLIApqXZ0NvnaVguLGr/SSz5GpMNzNItw+qA/DFxuvOGOn7kwaouOuCpXMiKI0gfrH/niVNUV2Ee4bbI6+fidwDsGATbTlYnttqYHFgVwrSd8fv42blXWC8MKF7wuoiyCdu+LQ06dRnx1aLEBZVu0teURWY3eUR1gQbeiqEaiuateL7wPIaWV8h2G9Gr4BNatDSRQCNO7qoWLMM5ro6uwyDIF4fLL5RWY2CcfInYHHbw3NtqYCliwF5s+FJ0CkA2Y5ZmDG2L6ypnqw5T91oqlg5L9mbYLTDliLUeUgadx2tyB52UC/Ao4S0dQAkp58kfT8Yxl6VLVnF6dGly0M8cvEoq5QO83GnXZOlKV9OErOgbHXSMSTY3gdytorZ9mJhLsJkHPqdOO2gdNMfGnbD1PYk655OFskRn7fmYNUZi/xjCXJHNlM8vJAglMw7km1efmNAyWhH6VhDoSQKJ8EiWXyjSWWRLx7ux/IHU8Fz4+IguyRJxfTa2pH1K5yLQlFD5mGO/YkaI2Sn9+rcKPLZe3nd/dWXYGQuA/vv3+6jluH0Nu1vC8HXTa9Pk2TTwLZ/NLdgW7CV7BfPTQ5CZdjyxAAAAABJRU5ErkJggg==\" style=\"height: auto; max-width: 100%;\">"
+    ],
+    "op_hi": [
+      "<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEIAAAAZCAIAAAAKf2+LAAACpElEQVR42u2Xv2vbQBTH359xq8BLwEOzWaO92VsFHiLIEDQVkUlTMFnMkSGIDkZ4CCJDQB4MzhCwB4OyGC6DQdmUISAPHm7wcIOHGzyopx+15CbFduomTfFNfpbuvfe5+95XEoT/xYA9xh5jj7E7DOqaJ7IEAAVZuyTsU2LM+jpS7In4xfxrTUJaj75nw4E7pDvAoF0VAJMPWnU+auidXWCQJnwYBiO4BMrmGGxkaqVI/KhYMzp+qv4HDCtDcabrFDDAahFBcopaHhd/TR0lmV134nYIzocL5g8svSrhh5A/OUZV9CAp6cS+XsrVXoV5BSPoqKiE3VksoUFDBpCbhG+/G/y+gSA5RSG7MxAgPE4r2NUlRlSkd5KGnDE2wocA+oWFr0nAqNcW1IfmY1ocw4a7wV1R3BjyjOqqlku0BQYb6KhgekkQb4LapVmSDGM1jO/UB3zJqGYTN8bgQ+NXtTzbFcHx3Xvj2fipk7wS1mIIUS0v5lrfGIN2lAhjsrI/ggya5A0Y9N5UihWt1fcfbeU9MdidLtrMiyrBUG6CbTGENSOkpisSN/d+GOGsp4k+T3psRVQ1+3nbs0F7xwBnbhj+BuOrEyw7Pc+F8Z2N0R9iJE4FSL2KfZYHzjGSL7x0dxaBXRcY2ZOb3mqS8MS2x196xZlIo/eE43FKWtoBQKVFvHtPpA2uhW3IjYGwIr/ftvFplNN5Cug8DMeRU1XafprmyapEE5PQM78AnPZ5yNwhWfvc4P5t6vdSScO3Ps+tUzZiGQQ3CirIcsFwX3CEk75RFiQH6qVLF75VRqjcSHw8nHvW0UF07cgSWKQp1b5Z7pTHJzPLT1bDqFxXE9OkuuXN/8IbLjl/DeOTvahPHKPlfe7vDTZ27KXq9p9Ne4w9xr82fgBwfVTFiJ0F0QAAAABJRU5ErkJggg==\" style=\"height: auto; max-width: 100%;\">",
+      "<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAG4AAAAaCAIAAADZiv57AAAEcklEQVR42u2YsWvjSBTG589QK3AjSOF0cXmGLSJwsYIUMaRYzBVGbLGIFEa4MUOKILYwIsUiXATkYkFb3CEXAbkJjIuAXATkIqAsuFDhYgoXU7jwzciWPUrs3MaxiQOaysNYT59+8+Z7TwLTbGxpgAxBhjJDmaHMxvuhnOCgY6olqdyOth4b39taSRIAEA5krR2Qt0d8sBVB1G/jSBMS9mx4+mrlO0NJCO6bRQCUraPsG4W87mH6zJFbLwo5w982SjywlNcr3+UBJ562A5T+hQBO7Gi3hxXB/UK5kaD/G5F9Aj4IyqFNc5uNuVwWdDkdBW5TlXMQTUnQ1uQcADnF7HNmNQndRjm2MancNNSUIBL8guUDugbEY80exFfNAh5ANAntvyVBKJr99RTbc2nJoDKocfpWVRbZVJBKmvuYOHU38btHRzum60LxmxuyOyLjlAoUpFPTH3O2fizC3nOU8c7xt6OjN0fC/X9tVobWMb/zkfNlNiV4hNHFIQAqvIJWL8SRb9I75RduFdpnQqHmRhPKjf0GHMqwXVG+I7xYElR3xAL6zSIL+NMNBo52oryAclVWMqmHdeacdKdMKvvMYUsE4zvm1MWaYV0jJvRHmaqpXJrw0g0iHHb0AgCFZhBvMY7+0YQUGi4rMYJH9DlUF3OAWrLSCv/ogKNG6hDx0zg1VHecPNnPMgDlWH68lOeKwIO1LDsjp8Iv9Q26IXKsJg5YcUabHfDAPBIqv6KlTgHO74JddiauQ54OqKNUnHOPcGdxNcq52kPYI8tU+6x7ZLoVlHChKM52xR4mubzUmhZ0q4Pno4FWBNzIK8kQ2TNjWYZ64ncxygZaHedllFPMzuWxFSZk5Uv/T8vORiifaE0JYld9tsO1DvgGlDiwvxWlE2j3Iq++I5SzxBS0G8L6kppiPUx3j7LKW8pSELnRnp1i4nX9t6IkPjWyQgORhc4doVwkZuRUvjh4+iqUXBKh+nIaP7m+CiV2qyDNixNEvZL62JkdThKQPWh0SRJQ88hGKO+gAGTrkZPNodS3iXKemIWjgt4lr+graYWi9U3v0NIXuFcW/MoY2YMwGtMOmRaMojlIbP+K1UnzPnkPobxKBmI0SXSj0zVaXqMRJjR/LgrMH3OyWjeMc0U6m+9NwCr4od6d7zS5M4oCa1xWN3XY0/O0Z4D+ZF7ZqFD5u08fDvcdvUTNUnUGHqLy7uMKPqvRSRUCX5NDMwnMTwB8MoM4DrnVWRn8ES4KpsyUozSzODHza1+u1rToY99cNF+Y7rYoV01v+JtrsuimofQ0PsgDe9bESaeGF3mQgmu6wSjpK2etKBDlczsYT9NdWxLhVhcFqXAgr/CjpKHjqhbxm4o4a1TvMe5oIhArrYDw/6Spl7oQokXvHE//5dtVGvPJtbwldVS5FX6wL0PhtbrS2t91EO/8paZtL1GOEay5eN9UDe1y7SVL3zuU5MG1Wmh/ODLvzklyVav8VbYfs0+/bxkDSxa4jwYZyo/8FT1DmY0M5fuP/wB6lbrvaJlOBwAAAABJRU5ErkJggg==\" style=\"height: auto; max-width: 100%;\">",
+      "<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFcAAAAZCAIAAADL+CUnAAADbElEQVR42u2YvWvjMBiH9Wd4DWQJdLhs9RroUEOHGjJcoMNhbiihw2EyHCFLMB2KyVBMh2BuKCibOxTcoeAsBWUoOEPBHQrO0MFDBg0ZNGTwSUrsKB/XJFwJvas1RbH10/s+ej+UgDgbcQwyBBmFjEJG4V+nQKIeNL4WpCbaBYXw3os+kO+e1+MfxgRHThUAsAsKI1Q/hR+HQnitGr10hoydUMCoKYPyh6EwgBUJ7JhC5J7JIB0JC/xgavs5+oW0p+idAG+SwH3HOlVy1FzsWzSTAciVLX9EAy2ANYVq5Q51dyAseIb6EXsN5GXtwovG/Mu+pUgzcziLhMIQmUxWKv1wQ0EmuDEqe2wN1YfPhOcRDu6s6lGBLg87WkGSSpf++oxATSDGQtipSPuGN+SQ7uoUktxE5G0IaQJ/N+y2G0Q45AuLDdNq2miAo75NT1g6cydASc+QpQp8Yar4iT86gVPfXqEKlmKhrBktLnurFwGo3uLEVE1tIUwJkhCeUJWqO4wJxvjRKtHXzh33OXBqqnq1LQXi1SWg38+8DtsKdcfsrw0H3/wCQCMN3QiWATiGobjLgc2noX0ISu3ZiZJ7nZ6mdoP/SGEmy6bFFvdq6GhfzJl/fZMCUn6FqchUcMPqKFKgBgGgwlfh8YtdSjd+a3C3m/MUhBBjuwADJYKCnww93RWc8khZSaGJVkwf6mB5TB4timxJIeqojMJgycT19WljCj3mSP1hri3YB8nLG1NgpgqxNjf+kgK+ZdktZsSEgnodvhsFHrpiRkwpNFC8DQUetpoznL9pdP13oMCSjW7zzcFzGaHYL+vbPDzejMKkgogpzUBL9S7ZisLEVFZWx4lMzzAFkbmzXEvBb7G6645i3PXQmPcIIFXavEHy2iuf+xO96EbLgRwtuSvkscuiKOkC8Tiw6PEeWME4eXwG2C446RG09fx0WYMcY68pSydOJOiUrgKq4HajRdmROCX+OW/zeaXaMM2aWkgbzRPrEcWGh7e4Ow4cjbbcvGr1yWIT3teMm4AItzopL8t53SMr8jBt82huSmstP8DZdHIlsaqH0ytJ9RIJ5hJ0Qe8X/F7QE9ZRWXE6jTISdHQlzyxVajAYpaVt8Qb0/r+mUGOJwqf7TTmA+qUfx5+YAn6EtpAg2f8LGYWMQkbhPxm/Ac0Eu9xZ33o8AAAAAElFTkSuQmCC\" style=\"height: auto; max-width: 100%;\">",
+      "<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAAAZCAIAAAAdXf9CAAADJUlEQVR42u2XsWviUBzH35/x1kAXweG6mbEBhwZuaMChgRsk3CChQwmdQhcJHSTcUEKHIh0KcSjkBiEdCnERXofCc4tDIQ4OGRze0OENDrn3EqO22qv2ruVO/G3qy+/3+/y+v9/vRZBsqIEt2BZsC7ZBYI+uAgWzS/85MHoXoE8Ao0Fw/6lgkVux0McXO7pWrM8Ei65VCD4ebODyMB8CNvCtwwIEzASx6uAn3hz4XE6/yexNPILPVe4CFuSaJp+lx8ckvHX0fWGW9MAz9gUepqTpVd0dJrTnPAuTnRwhpybzc7CgNhDJunWI3LomVt2IIJs52dH90e/BaGBCoFxFqUffgACe4eyXuKWA1RQjt7pQ8+Ixh8GXKqynD1ESt5m/qRqhU5LtB5Jm6ZslhYFxG7oKmFPsCVkV3XvkY0k6lgiA+AOnvmLvCIAD07lB0b2jlY23wIivQ8F+mLC4FQC+efGaYOzkbgPnn0LnMn/oWdLIApqXZ0NvnaVguLGr/SSz5GpMNzNItw+qA/DFxuvOGOn7kwaouOuCpXMiKI0gfrH/niVNUV2Ee4bbI6+fidwDsGATbTlYnttqYHFgVwrSd8fv42blXWC8MKF7wuoiyCdu+LQ06dRnx1aLEBZVu0teURWY3eUR1gQbeiqEaiuateL7wPIaWV8h2G9Gr4BNatDSRQCNO7qoWLMM5ro6uwyDIF4fLL5RWY2CcfInYHHbw3NtqYCliwF5s+FJ0CkA2Y5ZmDG2L6ypnqw5T91oqlg5L9mbYLTDliLUeUgadx2tyB52UC/Ao4S0dQAkp58kfT8Yxl6VLVnF6dGly0M8cvEoq5QO83GnXZOlKV9OErOgbHXSMSTY3gdytorZ9mJhLsJkHPqdOO2gdNMfGnbD1PYk655OFskRn7fmYNUZi/xjCXJHNlM8vJAglMw7km1efmNAyWhH6VhDoSQKJ8EiWXyjSWWRLx7ux/IHU8Fz4+IguyRJxfTa2pH1K5yLQlFD5mGO/YkaI2Sn9+rcKPLZe3nd/dWXYGQuA/vv3+6jluH0Nu1vC8HXTa9Pk2TTwLZ/NLdgW7CV7BfPTQ5CZdjyxAAAAABJRU5ErkJggg==\" style=\"height: auto; max-width: 100%;\">"
+    ],
+    "q_en": "<img loading=\"lazy\" src=\"https://blogger.googleusercontent.com/img/a/AVvXsEjnYdmk6IO2FEaaXPR2yNj_wwJja4FeFV1psp-WygQcFBgsetvZqubpqit1sjiQa2FziBsrvmntQWJcDGhfqNA6YvVbn9d-2ildZs7Jj_F4i7JbFUxwb4Jrg93LGnd6FSa1hFiHGkg2bubIFglxn4nreY0EaTsWTeEF9f7ity0AUbpE4XbFyqEsVZXdGWw=rw\" style=\"height: auto; max-width: 100%;\"><span style=\"color: white;\">688</span>",
+    "q_hi": "<img loading=\"lazy\" src=\"https://blogger.googleusercontent.com/img/a/AVvXsEjnYdmk6IO2FEaaXPR2yNj_wwJja4FeFV1psp-WygQcFBgsetvZqubpqit1sjiQa2FziBsrvmntQWJcDGhfqNA6YvVbn9d-2ildZs7Jj_F4i7JbFUxwb4Jrg93LGnd6FSa1hFiHGkg2bubIFglxn4nreY0EaTsWTeEF9f7ity0AUbpE4XbFyqEsVZXdGWw=rw\" style=\"height: auto; max-width: 100%;\"><span style=\"color: white;\">688</span>",
+    "section": "Test of English Language and Comprehension1",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "4",
+    "level": "",
+    "op_en": [
+      "Boundless",
+      "Immortal",
+      "Lasting",
+      "Transient"
+    ],
+    "op_hi": [
+      "Boundless",
+      "Immortal",
+      "Lasting",
+      "Transient"
+    ],
+    "q_en": "Select the most appropriate ANTONYM of the underlined word in the given sentence.<br><br>The pleasures of life are <u>eternal</u>.",
+    "q_hi": "Select the most appropriate ANTONYM of the underlined word in the given sentence.<br><br>The pleasures of life are <u>eternal</u>.",
+    "section": "Test of English Language and Comprehension1",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "3",
+    "level": "",
+    "op_en": [
+      "<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHQAAAAZCAIAAABvkp30AAAEkklEQVR42u2Yv2vjSBTH589QK3CxgRRxF5VrSGHBFhG4OEEKo+oQroSLINwYkcKILYx2i0VsEZCLgFIsaIsDuTHIxYJSLMiFQS5SqHAxRYopUvhmZP0YyXbs3OXufHeabqTRe28+evN9TwKravxlA1QIKrgV3GpUcP/LcNGjZ/XFE0bzjg9HeCswNdVDLy5aBs5Q5k9F6/EI4cLI7gAA/q1wEYT+sAGAcIxw8fD6Rwr3wBGNhAru8cFNNPHKilbQG2BxBMx7xVlQC2aW8gFfBqDGSQM3es78rQemFlmtdJYEkV5pYbMZ3O324cSQmyxewZyK+gSufUZTS2tz0iiEE52vAbbjkBtPgU3kG69l+a4VPO2j8gyD78S4No13QbywwtBHtJjWCm89GuvSeSmYAlxq42XcYJskhlYbgEtV7+vOLIILRzkD4Fcn2eVU4xjRmpN44E9TxGiurDBm4n/kAeCMnwkit1fH/sycmqeeqS7MMleQdtgXOnaICAi3z2GD+gOGCKPIlvEzPcOehN5QanTxehynoE/Jc2hukUhSIy/IJZxoOCz5xtC+eiGM/M8YTZ24iHfudBn6SIUjkb0yA5htJ9ldIXOffb0p6OMIHSgLZPMXRpBO/RscuObH7swmaHwJ83B/U3A40n28KeQqAPBf07tzkweMOkbZVE5vxXBVj3Z3psf2ff1MspdZDjsYKHPtxiY8DWMY+HmC30v01P+IN8+b833J+2hhMPL3NKrIFgEQ7yIqJVO4S1sCDWOW7nSisptwl67WMXz4Gs0lu43Pb9nl3MRlEp8pKhkI0DTvkHvNgAszQTi35GYdtO21a3+gZNRKmptPF1Z2xvKRRELgCqMoD7K3ubQY22641LKCWRou/CbvKgxruMadzrdzSn8a7lQjKTcpdC/mBbX4Qa8npwy5QyskLyM+18hVey5a7YNL7Ks7Cl0JLhFx4TZ8dTE6GG4hi7fBVftEisRR+EZwCbuCLCRwe7lMYd0gB3luad9gNg3vlbWu7YFLXkadXkksjt1tmYvcLsiORXbN/fG2mdso6gz0piElC8iLq4I2Ra+Ee2mFm3CJJmb6mMkCJayxFGLHYidZE085rm2GqwPgru2fa17GbGGpSXoSCvR7jS0zYp68yLvRXXQQXOrw7YQb1wzAdHOTaKKb5YIW88UVfnEo3MjG3QKQnaSzQU4nnsK0W8C0rh3SgcUFnbmyo1VZhfOyFhelpOJllyiDJfvRnUg6K+ZE7Op6T2q817yn3A5omeFz5sjXzonOsk1ZHehK6yQ9oTh+FtQE42Eb6R+kW2h8Tqv1zMBVpDEMktfTo6viOjEB1zbssWsPJfEm+XYLyBdaI+2LfO0d7kqlTb5gq7RR9aE0LfWhvDz0Nkolcnuys6SnKpVQL9hPmhvcyYqnDAH8i+6t7UwLD+U6+BRYXZ6EUuOVUZA6Ca1Lhj3n2G45j6melOieV5h++tTaLIz4S1fiavHLHqx3SrfwJOULNvve/+SvmKd294tE9cvxD/2CGSnGQ/U/9+0H9G9Ne4b+8Tiqn+UV3ApuNSq4f9/4HblrLIgR5wWEAAAAAElFTkSuQmCC\" style=\"height: auto; max-width: 100%;\">",
+      "<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHQAAAAaCAIAAADpBu9aAAAEn0lEQVR42u2YvWvjSBTA589Qa3ATSBF3cRlBiriLwMUKUhhVwaQSLg7hxgwpzJAimC0OkyIgFwdycaArFhwODOMioBQHSmEYFy5UuJjChYoUuTcj6ysW52xwluVWjxQZeebNvN+8Lwm9lvJpgkoEJdwSbikl3J8Ibrikdk8/UDD9BXCwe02pWjT8ZLjs2ySI4PLAuUIIlXD3BXdNrUs7iEe096vA/QFpgdNeHTVLuPuHG7hXdZSIRBzD5bQPyRcpJ6a7yKxY0cFlowJTlAO9T7nMJcHMxq26MWJ8ShpVVLlyo+f+GOuHCsytnJn28/vCb0VJq15BOdFG8urXviPqgdDX6Nj+Oprvu7ftRhUOHPojE3ZHVW3wFMZeIgTPpKkjLTvMLMwUmwsgUGw4nw7aZ9LuQ51M+XvTgjjEW8/VjB5xnwO+cM0jhC5dHicQ3Gw7c3F0/oDhWuo33uuaB4HThjXdgTNl9NZQO2I+GxnaDeUvcHBmX8Bh2+5qZz318DGq9+SdcQr/I8WabC6F2S2NzMQv4dzWQZ84VchXnF7XEGrjr3g4YzzwBk2EjogX6ftmKglNkEdci4dQXdyOEscojEA/QucWKTI8nGHtymFwkhc+6Qm7ydPH4Vo0O4zP6vVrxji5NO5eJsZTjFCt72Uc0DHiVUKeCFjVuGM74M5AjWbH/gJoYAP8KDcbG1n93o3QN5wnLtl213Ew/qEjpDuRPUtby8LND+VCnLP0dOAnW1zDBWK5pUeODGeV2g2epPw2CT8KN7/lZsjsc7Qlmr3cwN0EbyRTa3sq6u3K5I9YQbXUKQRrNSJIuwX6MvGeKRLRDS0/BDfDIf11YWvbe2dm7gWuIGhNi3W8gStOdm6z764KgdOqKBe2DEAI25pyEblgYDeRdl+s79PhCoUW/VC38B2eOzzNxz7IfCI75LdwZURnQkk+mzx4u/EuHLNliLqkHKRVC9Z2EGo5PK9v8vhD4M6HajaeogrwMNmv54qcC7kcp7WS2d3IPQVc9XeWy7nAB3zwJUYxw+RhZ8PgkeNiH4GcC/r01HlDek2itCcpWP8BN422RW5YADcTbZlfIecidIwpT/VYW2FUDFcWB1EQ+MOEvnBXvKG14/4gzA2Xjq7ILuyLSfqWcaLiWZjkeNQcJihF4b+WTV610e4S0tGgy2Fx4Cfd0lbOJRVQfmKYfUKivzvHC9JGQnZ1batPzOaBPmJx5YHzq4PnjQ7/qyqG/2y824KydDH0As5m9uDWAmBqn/pLLq6nm1ZFeTCUKYw5w6FIRnbrHUK6hnqC6fqdb2gLx4BuVBj8N86VC4rfFi7Zh34RvWba7s1yizJ+Fzee2bZUVEWlclyvdCZFdLnbUeun+T436eHWvt2RLXa1YY78MM7FmXaY5ofiWtifUfPbMMcMHFk/1PHY4y+5hXlLt4dRn0tkzw6ORejqp/4qRq1CuBBub9q1kPt3Wpo0y0+Ou7+YjMzBU8Hj4Vk9ie4U719DZ1XCfZdw737oFL4Kh9SqipdO8aK1EUbvLGvMXl9LuHsg7zs9Q5WfI0Qrdjlw5/z/87G8lBJuCbeEW8q+5F/1oU0yfQDuVwAAAABJRU5ErkJggg==\" style=\"height: auto; max-width: 100%;\">",
+      "<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEoAAAAZCAIAAAAZqC9/AAAC4UlEQVR42u2Xv2vjMBTH9WdoDXgxZGi3ZkzghgY61OChhk7mhuLRdCimSxEdgrnBmBuKp4I6FHxDwRkKzlJQhoKzOUPBGTJ4yKChg4YMPsmO86O/IM015ULeJufl6fvR03uSQLbRBrZ4W7wt3n+Fx4glQeU6mYwGBF9o8jFOi+EoDhyjKSGyHghG47Zr7FdQdwU8dh+S9/Bo7KkAqCUepeE5BGB9ePTeEvOtgJdg9SO55GKGxy29UdaHx22IlVXwkmsNgo3Ao4+uVuWphvKBoR9wiSxymnxcmviSdjE6krWbdFW8okqriIwT/FOGsOH2iu/EPWlWgFChtQidrnIb5doAkGq6E7Gl8WhgSIafy6Q9T4MTiQtyx4z23CYAyqp4jI5o5DQAMNBtEPd9U1UE3jNBquE/CfG0g2oA1H5FwrvDC0zxBrm2OxMCiB6XxeN+O3ZUjuLfHnlbLkH/AG/qqfuj2Zeotav/obP1PuE5tEKW0bYBpVJbzqPdpstuzgQfw4pqh0P2SsTX4c17JvgQvDIFD8vfx5NjAMwLWKa10PjGbEqgsm/iPls7nohsPbzj3LGVakN3grjnKZ/FKxYpDS95R2l6T+vOnvcD7LaiBaenMEyz9FaDUMODGc/yeMPA7y3skyLEF+OZIVuoPd5N0MOsX+JznGSpfwzAWTjP8wk8rOwZuJeHTn0DQquTd7A7A4CG28+yfhDyMhiIcPB0qirx9gHYscjzpCWGp1AUTLHSLLLrENbNYPgGXiw6567VoXMafA3mZ8KRabcsvd5AXSZinvFmaYgmxFLi6DIX5JCoE1FxozLFfOUt6gM8n4erSaKcYVVD7fIPz8Tm1Qwb5l2SddGs5kXGCFroASlW507J7uQGJ+/JzasX0y94zu8Ffu7ZRzLMNdjTNA4Csw7zkzBMx7ErlswKR0X+S7sg3/RiGGDjJd7mPIgYubSC0Ua+91gSXHlk7Wzb5+wWb4v3bfYXQ4lg5ENKmWsAAAAASUVORK5CYII=\" style=\"height: auto; max-width: 100%;\">",
+      "<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHQAAAAZCAIAAABvkp30AAAEuUlEQVR42u2Yv2vjSBTH58+Y1uDGkCLurDKGLSIuxQlSrCCFEVcEkeIQKYJwY4SLIFIEkSKIFAdycSAXAaUITJrAuAgoRUApAkqRQoWLKVyocOGdGf10bGeTc/aOvdWrooz05r3PvPm+8YBZZT/MQIWgglvBrayC+9/DJQ+OttOAAMANURsEcYVqhcXjwDtVxbqB3wv33hQ2dURms2nkdduwbvr/XzrhNYrWgUsI6tIifDdcvw/BrhP9CoU3wfr+uplGA+n9cCNnF/wacAnuCetn+l64/L2ypd+QW1Np1UAmwSR5e0qCK0vdaRijWThQGhC2T7l+TAK3JzPBBjXx0Akm9F/YWPCJe8mj5LwkU1jqdjKFbN6St/yvZOXb+yJzAWBjR/OeS0PTCB0rQp0PfTXxmOXqHQhFUL+pYvJHyjoLuEBP/AuqrSCFcBl+TuWGAxm2DDTmY1c6jUjo4ZjLDbmz2gCofdd7DNxDSTqjyYdORzJHjE785MgQwH2P8CoxWjQwHU2LmdCRaD1y5RoZ0oEbxgwo6rEZzPtV/leKp70Nml3EJw6sbQD23CyF0Nmryee8JgjSNwFoWUG+wEWmzEPpMXI7xWN4IYKkD1HvZ3Qh5Nz7GnBjpEOgXRfnhfCcum7S5Jm9ONSxMiRF9QyV5nGBwD9pAiDaT9zTDfWUfZh47iLu1zc3FXecu/BUWh1HfGjB/2oLrBZUhmnUjBo0/Cwk8CWlSWfF3doKuG89BqcC7GQ8Rwbzfrc23Phay3duak82rabmiZ/Dpds2N9wFi5a9QCFm1FjOWgr62ZEWv0kCWPD//fb9gp1UlJKEibcPQA8vffn9cDPvER4Y8gYsJbUGXP6l5JT1K0aUdxru6+TZt9Jf4ZvanxRyaB/YYVEI+vLsPwSXBM6f7cau4Ywi1M3h8nQ+AS4JBlp7QzIGOLrWPwcuuaR7dE4WErgpwdfJx+gQgI47t41jhO5KUkCl4dinIqtdktJWKMlFIj436GOVG/tU05NmkHXLUuV+secWfIzx04fgxn5fAC0DT/Jq+Ay4s7GrgHlejEUqo0nyZfRM4ACUi+KNcd9EpaXxj5sAiuJe+YcJkwsWej7Hs6OXFm9uaVfZnQFpVM8lLlnCrBcBWHIS4xN7peb+7oRliUsffeb9Ihv553CTfrpp+NPSaYHySrptTDsvFPp+GukD6+Zpjy5VEDuFbav6santNuRBuLjTi0CT+P6WIT8myYem2VXaW1mNvPIf++YWhFua97IQ9pNNEYonLDBy7+o71J/qPiL8yH4p8JAE5dRFN671h2yM4lK/Vb3JjNwgPE2WQdCvQhIF3pltHNCvFOcxjCb8ILFt+jSqse8eicz7MEC3Ad+s8LVyLoc7Mua6SipVcTBMVbzWUoxhetUwdyguC/8kcA75ebO+9F4iRkdqcTbI1/TW5FPk59Bl/mOs12Gj1RDPwyW6cCrV2KJqzgMhV1oN1JSLbHbiWx2hVj5Ep1vEVeikdcm65y9OfOsr7YU0BssntJBr4r6FXthQfG9J9TQjMva0Oqh17GDCd/nrvv1T34o9O+p5WF05/pB7KNzXvXF1n/v5YEPv3MbjnyPY6rK8glvBrayC++/ZNyxiO44E7+AlAAAAAElFTkSuQmCC\" style=\"height: auto; max-width: 100%;\">"
+    ],
+    "op_hi": [
+      "<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHQAAAAZCAIAAABvkp30AAAEkklEQVR42u2Yv2vjSBTH589QK3CxgRRxF5VrSGHBFhG4OEEKo+oQroSLINwYkcKILYx2i0VsEZCLgFIsaIsDuTHIxYJSLMiFQS5SqHAxRYopUvhmZP0YyXbs3OXufHeabqTRe28+evN9TwKravxlA1QIKrgV3GpUcP/LcNGjZ/XFE0bzjg9HeCswNdVDLy5aBs5Q5k9F6/EI4cLI7gAA/q1wEYT+sAGAcIxw8fD6Rwr3wBGNhAru8cFNNPHKilbQG2BxBMx7xVlQC2aW8gFfBqDGSQM3es78rQemFlmtdJYEkV5pYbMZ3O324cSQmyxewZyK+gSufUZTS2tz0iiEE52vAbbjkBtPgU3kG69l+a4VPO2j8gyD78S4No13QbywwtBHtJjWCm89GuvSeSmYAlxq42XcYJskhlYbgEtV7+vOLIILRzkD4Fcn2eVU4xjRmpN44E9TxGiurDBm4n/kAeCMnwkit1fH/sycmqeeqS7MMleQdtgXOnaICAi3z2GD+gOGCKPIlvEzPcOehN5QanTxehynoE/Jc2hukUhSIy/IJZxoOCz5xtC+eiGM/M8YTZ24iHfudBn6SIUjkb0yA5htJ9ldIXOffb0p6OMIHSgLZPMXRpBO/RscuObH7swmaHwJ83B/U3A40n28KeQqAPBf07tzkweMOkbZVE5vxXBVj3Z3psf2ff1MspdZDjsYKHPtxiY8DWMY+HmC30v01P+IN8+b833J+2hhMPL3NKrIFgEQ7yIqJVO4S1sCDWOW7nSisptwl67WMXz4Gs0lu43Pb9nl3MRlEp8pKhkI0DTvkHvNgAszQTi35GYdtO21a3+gZNRKmptPF1Z2xvKRRELgCqMoD7K3ubQY22641LKCWRou/CbvKgxruMadzrdzSn8a7lQjKTcpdC/mBbX4Qa8npwy5QyskLyM+18hVey5a7YNL7Ks7Cl0JLhFx4TZ8dTE6GG4hi7fBVftEisRR+EZwCbuCLCRwe7lMYd0gB3luad9gNg3vlbWu7YFLXkadXkksjt1tmYvcLsiORXbN/fG2mdso6gz0piElC8iLq4I2Ra+Ee2mFm3CJJmb6mMkCJayxFGLHYidZE085rm2GqwPgru2fa17GbGGpSXoSCvR7jS0zYp68yLvRXXQQXOrw7YQb1wzAdHOTaKKb5YIW88UVfnEo3MjG3QKQnaSzQU4nnsK0W8C0rh3SgcUFnbmyo1VZhfOyFhelpOJllyiDJfvRnUg6K+ZE7Op6T2q817yn3A5omeFz5sjXzonOsk1ZHehK6yQ9oTh+FtQE42Eb6R+kW2h8Tqv1zMBVpDEMktfTo6viOjEB1zbssWsPJfEm+XYLyBdaI+2LfO0d7kqlTb5gq7RR9aE0LfWhvDz0Nkolcnuys6SnKpVQL9hPmhvcyYqnDAH8i+6t7UwLD+U6+BRYXZ6EUuOVUZA6Ca1Lhj3n2G45j6melOieV5h++tTaLIz4S1fiavHLHqx3SrfwJOULNvve/+SvmKd294tE9cvxD/2CGSnGQ/U/9+0H9G9Ne4b+8Tiqn+UV3ApuNSq4f9/4HblrLIgR5wWEAAAAAElFTkSuQmCC\" style=\"height: auto; max-width: 100%;\">",
+      "<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHQAAAAaCAIAAADpBu9aAAAEn0lEQVR42u2YvWvjSBTA589Qa3ATSBF3cRlBiriLwMUKUhhVwaQSLg7hxgwpzJAimC0OkyIgFwdycaArFhwODOMioBQHSmEYFy5UuJjChYoUuTcj6ysW52xwluVWjxQZeebNvN+8Lwm9lvJpgkoEJdwSbikl3J8Ibrikdk8/UDD9BXCwe02pWjT8ZLjs2ySI4PLAuUIIlXD3BXdNrUs7iEe096vA/QFpgdNeHTVLuPuHG7hXdZSIRBzD5bQPyRcpJ6a7yKxY0cFlowJTlAO9T7nMJcHMxq26MWJ8ShpVVLlyo+f+GOuHCsytnJn28/vCb0VJq15BOdFG8urXviPqgdDX6Nj+Oprvu7ftRhUOHPojE3ZHVW3wFMZeIgTPpKkjLTvMLMwUmwsgUGw4nw7aZ9LuQ51M+XvTgjjEW8/VjB5xnwO+cM0jhC5dHicQ3Gw7c3F0/oDhWuo33uuaB4HThjXdgTNl9NZQO2I+GxnaDeUvcHBmX8Bh2+5qZz318DGq9+SdcQr/I8WabC6F2S2NzMQv4dzWQZ84VchXnF7XEGrjr3g4YzzwBk2EjogX6ftmKglNkEdci4dQXdyOEscojEA/QucWKTI8nGHtymFwkhc+6Qm7ydPH4Vo0O4zP6vVrxji5NO5eJsZTjFCt72Uc0DHiVUKeCFjVuGM74M5AjWbH/gJoYAP8KDcbG1n93o3QN5wnLtl213Ew/qEjpDuRPUtby8LND+VCnLP0dOAnW1zDBWK5pUeODGeV2g2epPw2CT8KN7/lZsjsc7Qlmr3cwN0EbyRTa3sq6u3K5I9YQbXUKQRrNSJIuwX6MvGeKRLRDS0/BDfDIf11YWvbe2dm7gWuIGhNi3W8gStOdm6z764KgdOqKBe2DEAI25pyEblgYDeRdl+s79PhCoUW/VC38B2eOzzNxz7IfCI75LdwZURnQkk+mzx4u/EuHLNliLqkHKRVC9Z2EGo5PK9v8vhD4M6HajaeogrwMNmv54qcC7kcp7WS2d3IPQVc9XeWy7nAB3zwJUYxw+RhZ8PgkeNiH4GcC/r01HlDek2itCcpWP8BN422RW5YADcTbZlfIecidIwpT/VYW2FUDFcWB1EQ+MOEvnBXvKG14/4gzA2Xjq7ILuyLSfqWcaLiWZjkeNQcJihF4b+WTV610e4S0tGgy2Fx4Cfd0lbOJRVQfmKYfUKivzvHC9JGQnZ1batPzOaBPmJx5YHzq4PnjQ7/qyqG/2y824KydDH0As5m9uDWAmBqn/pLLq6nm1ZFeTCUKYw5w6FIRnbrHUK6hnqC6fqdb2gLx4BuVBj8N86VC4rfFi7Zh34RvWba7s1yizJ+Fzee2bZUVEWlclyvdCZFdLnbUeun+T436eHWvt2RLXa1YY78MM7FmXaY5ofiWtifUfPbMMcMHFk/1PHY4y+5hXlLt4dRn0tkzw6ORejqp/4qRq1CuBBub9q1kPt3Wpo0y0+Ou7+YjMzBU8Hj4Vk9ie4U719DZ1XCfZdw737oFL4Kh9SqipdO8aK1EUbvLGvMXl9LuHsg7zs9Q5WfI0Qrdjlw5/z/87G8lBJuCbeEW8q+5F/1oU0yfQDuVwAAAABJRU5ErkJggg==\" style=\"height: auto; max-width: 100%;\">",
+      "<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEoAAAAZCAIAAAAZqC9/AAAC4UlEQVR42u2Xv2vjMBTH9WdoDXgxZGi3ZkzghgY61OChhk7mhuLRdCimSxEdgrnBmBuKp4I6FHxDwRkKzlJQhoKzOUPBGTJ4yKChg4YMPsmO86O/IM015ULeJufl6fvR03uSQLbRBrZ4W7wt3n+Fx4glQeU6mYwGBF9o8jFOi+EoDhyjKSGyHghG47Zr7FdQdwU8dh+S9/Bo7KkAqCUepeE5BGB9ePTeEvOtgJdg9SO55GKGxy29UdaHx22IlVXwkmsNgo3Ao4+uVuWphvKBoR9wiSxymnxcmviSdjE6krWbdFW8okqriIwT/FOGsOH2iu/EPWlWgFChtQidrnIb5doAkGq6E7Gl8WhgSIafy6Q9T4MTiQtyx4z23CYAyqp4jI5o5DQAMNBtEPd9U1UE3jNBquE/CfG0g2oA1H5FwrvDC0zxBrm2OxMCiB6XxeN+O3ZUjuLfHnlbLkH/AG/qqfuj2Zeotav/obP1PuE5tEKW0bYBpVJbzqPdpstuzgQfw4pqh0P2SsTX4c17JvgQvDIFD8vfx5NjAMwLWKa10PjGbEqgsm/iPls7nohsPbzj3LGVakN3grjnKZ/FKxYpDS95R2l6T+vOnvcD7LaiBaenMEyz9FaDUMODGc/yeMPA7y3skyLEF+OZIVuoPd5N0MOsX+JznGSpfwzAWTjP8wk8rOwZuJeHTn0DQquTd7A7A4CG28+yfhDyMhiIcPB0qirx9gHYscjzpCWGp1AUTLHSLLLrENbNYPgGXiw6567VoXMafA3mZ8KRabcsvd5AXSZinvFmaYgmxFLi6DIX5JCoE1FxozLFfOUt6gM8n4erSaKcYVVD7fIPz8Tm1Qwb5l2SddGs5kXGCFroASlW507J7uQGJ+/JzasX0y94zu8Ffu7ZRzLMNdjTNA4Csw7zkzBMx7ErlswKR0X+S7sg3/RiGGDjJd7mPIgYubSC0Ua+91gSXHlk7Wzb5+wWb4v3bfYXQ4lg5ENKmWsAAAAASUVORK5CYII=\" style=\"height: auto; max-width: 100%;\">",
+      "<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHQAAAAZCAIAAABvkp30AAAEuUlEQVR42u2Yv2vjSBTH58+Y1uDGkCLurDKGLSIuxQlSrCCFEVcEkeIQKYJwY4SLIFIEkSKIFAdycSAXAaUITJrAuAgoRUApAkqRQoWLKVyocOGdGf10bGeTc/aOvdWrooz05r3PvPm+8YBZZT/MQIWgglvBrayC+9/DJQ+OttOAAMANURsEcYVqhcXjwDtVxbqB3wv33hQ2dURms2nkdduwbvr/XzrhNYrWgUsI6tIifDdcvw/BrhP9CoU3wfr+uplGA+n9cCNnF/wacAnuCetn+l64/L2ypd+QW1Np1UAmwSR5e0qCK0vdaRijWThQGhC2T7l+TAK3JzPBBjXx0Akm9F/YWPCJe8mj5LwkU1jqdjKFbN6St/yvZOXb+yJzAWBjR/OeS0PTCB0rQp0PfTXxmOXqHQhFUL+pYvJHyjoLuEBP/AuqrSCFcBl+TuWGAxm2DDTmY1c6jUjo4ZjLDbmz2gCofdd7DNxDSTqjyYdORzJHjE785MgQwH2P8CoxWjQwHU2LmdCRaD1y5RoZ0oEbxgwo6rEZzPtV/leKp70Nml3EJw6sbQD23CyF0Nmryee8JgjSNwFoWUG+wEWmzEPpMXI7xWN4IYKkD1HvZ3Qh5Nz7GnBjpEOgXRfnhfCcum7S5Jm9ONSxMiRF9QyV5nGBwD9pAiDaT9zTDfWUfZh47iLu1zc3FXecu/BUWh1HfGjB/2oLrBZUhmnUjBo0/Cwk8CWlSWfF3doKuG89BqcC7GQ8Rwbzfrc23Phay3duak82rabmiZ/Dpds2N9wFi5a9QCFm1FjOWgr62ZEWv0kCWPD//fb9gp1UlJKEibcPQA8vffn9cDPvER4Y8gYsJbUGXP6l5JT1K0aUdxru6+TZt9Jf4ZvanxRyaB/YYVEI+vLsPwSXBM6f7cau4Ywi1M3h8nQ+AS4JBlp7QzIGOLrWPwcuuaR7dE4WErgpwdfJx+gQgI47t41jhO5KUkCl4dinIqtdktJWKMlFIj436GOVG/tU05NmkHXLUuV+secWfIzx04fgxn5fAC0DT/Jq+Ay4s7GrgHlejEUqo0nyZfRM4ACUi+KNcd9EpaXxj5sAiuJe+YcJkwsWej7Hs6OXFm9uaVfZnQFpVM8lLlnCrBcBWHIS4xN7peb+7oRliUsffeb9Ihv553CTfrpp+NPSaYHySrptTDsvFPp+GukD6+Zpjy5VEDuFbav6santNuRBuLjTi0CT+P6WIT8myYem2VXaW1mNvPIf++YWhFua97IQ9pNNEYonLDBy7+o71J/qPiL8yH4p8JAE5dRFN671h2yM4lK/Vb3JjNwgPE2WQdCvQhIF3pltHNCvFOcxjCb8ILFt+jSqse8eicz7MEC3Ad+s8LVyLoc7Mua6SipVcTBMVbzWUoxhetUwdyguC/8kcA75ebO+9F4iRkdqcTbI1/TW5FPk59Bl/mOs12Gj1RDPwyW6cCrV2KJqzgMhV1oN1JSLbHbiWx2hVj5Ep1vEVeikdcm65y9OfOsr7YU0BssntJBr4r6FXthQfG9J9TQjMva0Oqh17GDCd/nrvv1T34o9O+p5WF05/pB7KNzXvXF1n/v5YEPv3MbjnyPY6rK8glvBrayC++/ZNyxiO44E7+AlAAAAAElFTkSuQmCC\" style=\"height: auto; max-width: 100%;\">"
+    ],
+    "q_en": "<img loading=\"lazy\" src=\"https://blogger.googleusercontent.com/img/a/AVvXsEjQ4niEkK6dD8KSqu4DWQSTshe7lj8Wq_aPFWjasm0mfSup_pns-Jzs5WPCAymnAT2j6SA1fPIN_rYErDB_OHEcDMLZeTuYcwd6BOknUzZWWc4HbVQPaxpPsbKF7pBAwZGDDMIOfnWXOa-c7m8Id1Ua_6IsdY0sRbbdcPjgv24J2MA-rUV3QaxcRB__2EI=rw\" style=\"height: auto; max-width: 100%;\"><span style=\"color: white;\">690</span>",
+    "q_hi": "<img loading=\"lazy\" src=\"https://blogger.googleusercontent.com/img/a/AVvXsEjQ4niEkK6dD8KSqu4DWQSTshe7lj8Wq_aPFWjasm0mfSup_pns-Jzs5WPCAymnAT2j6SA1fPIN_rYErDB_OHEcDMLZeTuYcwd6BOknUzZWWc4HbVQPaxpPsbKF7pBAwZGDDMIOfnWXOa-c7m8Id1Ua_6IsdY0sRbbdcPjgv24J2MA-rUV3QaxcRB__2EI=rw\" style=\"height: auto; max-width: 100%;\"><span style=\"color: white;\">690</span>",
+    "section": "Test of English Language and Comprehension1",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "1",
+    "level": "",
+    "op_en": [
+      "<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAAZCAIAAAAUtl84AAAC7UlEQVR42u2XvWvbQBTA359xq0GLIYO9RWsggwUeIvBQg4egKRgPQXgoQosRGYrIEEwn4aFwHgrypg4BmULhPATkoSAPAbmQQYOHGzLc4ME9ybItxSbYaZu6qd/md76n97v3dQez/0DgAHmAPEAeILMyZcEAG+/y1W64zd+DTzISNMIySvodq+U8AkBHktr12ZaQwa0bvhYkHVkygPxiyKEpFjSXclOho58gwfS2gnwk2gUOXy+axNgacl28KwSV57zdCElJS3x+2z5BhrgCu0KGTkOEpVTwjweCW4p4jgNKzFIOhLoz4efgWRdSLvoHypdVZxzv7MrLfYnHDzhRtUhsnPk9o3rEawdyJRWP2M6QE9+5qUuCMTeX/mIsiX6rxkNay7NhNAztBsCZ1v5MgkFbOVWdSWCVoKhHVcDdbpcAanaYFEyVE8idYGVrbMlNh85Xu4p8TeiU7wpwDQGKz2sXSO6N00RZmJdE8gnk4mchXc1++xgpvXC1iozFasQP5zZd9olO3bqfB8FW0kaGZhFASo5jh3SNo/eHIDdZYVEmV6POnfoq7Snc+QRs5pmXC+BvGqxLksb7CUl9fHmSrxh4ELp6thgYMQqA3ru84Fhf0/ps5dwZDn658bwWJPOMYxBbyayKVrMVH3QkAMWehLixyk92q8bKTCq4fW+fIE+tVRDuDMQTcpxafdLWePkBiGVJ7dEnSlTDwXSBODDMJM5/A9K75k2h7jzOaN8lU+o0oqGwpJrdWzxS0rXHHaRDWyvzoqzbI5eMUinbKgLS3Mz9inlX8XASpLpumk05X1tkb2ywqCepEfaUHOTkjx7b1F+JXkzVPPfA1Qq8LxredNe769hW+DQT5Pbwq5EeQ4OFuzdybj7rvlP6ReU+KZ3sjfHeqn7w1l30u6okRGNSamL/MdYNjPRYDpOLmygKqss2zf20M+m9qzb277xCiL4O+caeWmOs3nhv+T1J77DV89nvM3h4NB8gD5D7JT8Bgz0SuLt9+8gAAAAASUVORK5CYII=\" style=\"height: auto; max-width: 100%;\">",
+      "<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAD0AAAAaCAIAAACLqcMwAAACuklEQVR42u2XvWvjMBjG9WdoNWQJZOht8WrokECHM2SIoUPJFEyHw3Q4TJZiOgRxQzEdSrgh4AwFdyh4ObCXgDIEnKHgDAV36KChg4YOGjL4JCdN7H5Qp5cjFPKSIbIs6edHz/taBsnXDLDj3nHvuP8p6NSz23Wp4ZCvxM0opaG9D8DnuJnvj7bmE+I0Pskd91Xr63HfOxoExblZNDDqFQhyYeF539QxDsqiryS3uj6ZrcEdP2LUkACA5SbCj/w6tnKTp7c9N9nErmcQXtC/wU2uNAg1536+TfyBQf13vHigkSXzrjsmsu22x/vgoRMX5N5XtSPkBr7bVTk7qFohS/17Apei8AjPvq2aD44KiuqdrtFZzhP3eEodumT+vwaUyxUn+2PwNVvXtBD399UTxgMhh34jBpKBmuXONdfidg8BaHs0u+SJL6S56ykvZmG+AbI3F/b3fOAp3iB3wsZIgbIV0NQMtgpkayywk5FwoznMpXuvUIF7nZepszfLzcnDrq41RfJJ1RYaPqs5Qdx6WZ8suFemWo9b7ceb5KY3+nzGVxGiPQD2UJjbbmgGbG1uIYHqPCxBTZwp2KvmOtzUPRI1Tm2bqIvSn+0EMV3WEwDkn54ofzPqn8pwkbIJuW5JQFIvQvYeN9R6k3Qa4plVqXX1XKMCk5cl7TIkNMZ92+5wVAUNI8ILJfV03riIklnkBeQjf09traIo+fot/1qoTIe2XhN1DFbq+jmmGZ1gSZZLhv+m+jRyT1tySYwrHxjObTaTY++kzmeUaoZ7z+XXyk3LnSyEwl3eBZUfXvyR3gyfWf5T/hLxzXahtx3uvMP9v8+DYteOvVdLR04/LPJaNs7DJNkGt9hubtOuFxE6DzL10DHCTx8dVsdO7zpiSbIdbpE2ga03ZCm1Na+D1gAXO4Tsvnd23DvuDcVfP6O61MAafEYAAAAASUVORK5CYII=\" style=\"height: auto; max-width: 100%;\">",
+      "<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAAVCAIAAABjdJ9DAAADN0lEQVR42u2Xr2vzQBjH7884G6gpTGyukS1MNDCxwEygYkSNMPESKkaYGcfECBMhvGKEiUEqBnlFIRUvJGaQikEiXsjEIBMRERMnJiIqusvlR9Ou79rxvmLv3p5q7u557vnc83yfpGD6HwywgdxAbiA/O2Qa+5YmcQ3kTbGvCU0IQIPXg5SshAOZa5BHTh5GM4OX0Oxz2TbAsIeqk9DJMQLVOPPolFdMHZh0Sxr+QMIWNevK5kO6TrjRqDABDVbU/MoG3+t0Hjb3JHEPeashcWIdEzciujLshwQ/2UoLgG1F1ZAxjnDiGz0IoGTjnNBDLSjcRNl5OKRLgvlED75DLHFz4sxcTxylq4cTGu5A5C89TH6nkZk7fF5BmLoKBLyROx/KxAbd54i21JAsenM4MAS4BiQZ/uUOAEq1NRnwAPB56GWWOsYjjfWaA7vGLK0vDjkcHFr0BlLnBIJt1a9Fqbj09p8tsTY/DVRyHncdvQ+JRxJslFaxSWISbpPid81b+N1YC5JSoUXIuA4J0DhjNHaraixAnD5ZLPOcRQ8LsCm2vpWh3Cng7Tjz1lLYBIcjXeoyxIIf5NrIaoE5UJ04/UDjWRuSyux0LrjoqlPbnJgHAHRpqh8NqcxV5nDfjD7eQhJX5bc6omaHgcHPIKlUaL9YKu8/hPTVbTBXrgXkrNSpkHbUIPXO5Up16U+ZaN6aE2HquP4KwlsBloLPy7UGmSc5cc45CLhcSisgo5s1Iaf+BVETYZgrV3ji1C4zuwi4xwkXNQaiSdIKe2Y0Kc3GSHXfb7CJ1au1sTpkbFuzACJzfxF+KSS2j2u6IlLWSHI6+q9yeShly0NcdlcAWoqdNzcXsVCw4rd1sXC7qX/O0jcBJ52qap9v9vLqTaxDpnxjLTbXrI1BKct/mnia2CQxaZ7v+pgAtyQzwLkDCVZd4LeQVEXlQOO5R3JD3tncI02Lpx9xWR+ATe5I956XhKccWfjNbPHWBQzXN8OXKg+QabFM31mS1idbbhPOpnDhJJNQb0PYVhxyXGyJ7Q6buQJwS0Cj6J/44vGUpZBf6bMuGsh68JW/XbF/Y1gP6d91uvkXsoHcQH6u8QqjbJbM0SE2qgAAAABJRU5ErkJggg==\" style=\"height: auto; max-width: 100%;\">",
+      "<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJMAAAAZCAIAAAC6rIv8AAAFhklEQVR42u1Zv2vjShDeP0OtwY0hRdzFZQxXxJDiBCkiSBFUHSLFQwReEIbDiBRGXGHEFUGkCMjFgVwEdEVAbgJyEVCKgFwE1oULFSm2SKEihd/+lGQ7iZ08eJe7p6my3uzszHw7M9/YYFbK7ymgDEGJXCklcqWUyJXIlfKvJJ2GbkepSWZYIscEXgXJB7YuuOLWpSjxjgAAJXJMHkPji/thkUuvDa2fWxd2SuS4oLDTAHsfFTkUmltA/u+RS4aWulXBV0kbinWN8nc0dvXdmoQ3qg21GyRP9NMnFA9dc7+mYEMnnr6DD0rNv3yItx5Cax//v1Tbt6NHVvEjr6e1qtgHFPUUoqsq27cp3on7equKly39EgpXiZgjalJfLiwT/6gBMuH4pfHAVDaIdZUd3R2nK1wfmeK87E7z67IbxSc83Oja1naWY4Kic42YTT7nls+mvraVa2P4CeRQ2CVeS9u6PykAvawcR/Wnre3WsDGwr9YkqdmLViAH+0rlwInJcRS06wA07DsamJHZkBT3nkQE3TkKvv7AhbSKoxu7CUDzxHIuQoiS6AxvArVrm10/ThD8aeAwN3pxoeKr5pnjjxM08Q3s5KZh9UxnRI46B1iv5lPj0ytdEnEkcmPWC0sSi0LOYffkbyHCjymFLlPysAK75IeG9WuXHAZ4Th6HMcwj4X6WnQn3XT7yYEoCGnSIN9YtO9LCxgeIvpvvLQAUjxsUmmA552S1YzGv9U0AvjAvn1eOg8qiqp16/jj2jmX5++vIPXgqaNrjvFhXOHLQ2QHNM5jnHw2rOqC3I1/Ddl1ku8Ru0M5qQ+LuAXAcsCyIvuH4G/keSSbZnRRToenc07+nrlxEbn45hxw2e9PKPbu18B2tc7iSRDifgHTCDZulgSEVTuFlm21F1qbqZe+AOstOxb2GdCjAIpZL5s0ryOVekyU3+EXlzF8e4ZXVEl1qz5fje6dZDCJ1TAfZw1kwlCLXmUdORJlCZS4iN50rYvyi9ZG7NsCydFa3FZI0QOfQPQbWbksEdIYGOkus2cSVl5UXW2yahH1eqIV5zyJnhsvLV5QvuP86cgthXegKxvXigxUO/GLkiJLPLnxHoyc1hr9reG4HD/g5SrR+QufIgblJxguvAOH23NyQzX6YXBnvQe4V5W9CjuacKFYZTxpBVn+K1ZIjx0viL0YOl24cf2+usaXBMFqHvQcnEthxYBpYhAKI5a2lZ2WK1Js6z7/M+SEeJdPotAG2zPBxyfL1kXtR+RuRw4pw+ZBET6KtznLuWDnOSnNWLSVjyP4xNNZGDl68Dbk80Sdzy8U+ByhjehLWjUxrmK6VduRR1pUDkwNPl41tIw8B8x0jhHJLDNLUI7PYF9+H3IvKufv6VbrmVJCSOQnzm0PbGwZeT1VOw1TEgvCeE58MA5QFSQeiOd9RbknZY9ZmwRHnTrOn2MbZ+cmOn+ge4Zaa2MNNnhxl9FUkveB7lDJIB06ECerItXsG9qTZDeMpEkxH8x9naBiET/T5k3GlpbUt61iuMd47S7zDihg81uMpNJT1bjTPQglbxtONcmxZbbW5zfKMsDawY5GB5yHyTlqEqQ7i4DrmeBz5KebnV+GS12lx+YJyHtV6O0Brz3N40lIbVaqrGxaPFcaOltYTW/lgRJOguMTPalrswH9/3SuOTTQXC3NPcahiDxZeiiFvAPEbVDYUcxAhllgTT8WkIEdFTISg0jp248eM2UuVrUalUEWe4ylqsV7Bc22+XzDfLcpB8GxqhaIsp7e2zMzrx+jB16ugcuiwq+EPPISByh4eZMO5iIyKS15slpVn8+siG/qffeMcGq8iV/5W8FG/+u3r9m35K8/v9vVmdOF44/TPc6z8fa5ErpQSuVJK5P5k+Qdz1xE3pNzfpwAAAABJRU5ErkJggg==\" style=\"height: auto; max-width: 100%;\">"
+    ],
+    "op_hi": [
+      "<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAAZCAIAAAAUtl84AAAC7UlEQVR42u2XvWvbQBTA359xq0GLIYO9RWsggwUeIvBQg4egKRgPQXgoQosRGYrIEEwn4aFwHgrypg4BmULhPATkoSAPAbmQQYOHGzLc4ME9ybItxSbYaZu6qd/md76n97v3dQez/0DgAHmAPEAeILMyZcEAG+/y1W64zd+DTzISNMIySvodq+U8AkBHktr12ZaQwa0bvhYkHVkygPxiyKEpFjSXclOho58gwfS2gnwk2gUOXy+axNgacl28KwSV57zdCElJS3x+2z5BhrgCu0KGTkOEpVTwjweCW4p4jgNKzFIOhLoz4efgWRdSLvoHypdVZxzv7MrLfYnHDzhRtUhsnPk9o3rEawdyJRWP2M6QE9+5qUuCMTeX/mIsiX6rxkNay7NhNAztBsCZ1v5MgkFbOVWdSWCVoKhHVcDdbpcAanaYFEyVE8idYGVrbMlNh85Xu4p8TeiU7wpwDQGKz2sXSO6N00RZmJdE8gnk4mchXc1++xgpvXC1iozFasQP5zZd9olO3bqfB8FW0kaGZhFASo5jh3SNo/eHIDdZYVEmV6POnfoq7Snc+QRs5pmXC+BvGqxLksb7CUl9fHmSrxh4ELp6thgYMQqA3ru84Fhf0/ps5dwZDn658bwWJPOMYxBbyayKVrMVH3QkAMWehLixyk92q8bKTCq4fW+fIE+tVRDuDMQTcpxafdLWePkBiGVJ7dEnSlTDwXSBODDMJM5/A9K75k2h7jzOaN8lU+o0oqGwpJrdWzxS0rXHHaRDWyvzoqzbI5eMUinbKgLS3Mz9inlX8XASpLpumk05X1tkb2ywqCepEfaUHOTkjx7b1F+JXkzVPPfA1Qq8LxredNe769hW+DQT5Pbwq5EeQ4OFuzdybj7rvlP6ReU+KZ3sjfHeqn7w1l30u6okRGNSamL/MdYNjPRYDpOLmygKqss2zf20M+m9qzb277xCiL4O+caeWmOs3nhv+T1J77DV89nvM3h4NB8gD5D7JT8Bgz0SuLt9+8gAAAAASUVORK5CYII=\" style=\"height: auto; max-width: 100%;\">",
+      "<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAD0AAAAaCAIAAACLqcMwAAACuklEQVR42u2XvWvjMBjG9WdoNWQJZOht8WrokECHM2SIoUPJFEyHw3Q4TJZiOgRxQzEdSrgh4AwFdyh4ObCXgDIEnKHgDAV36KChg4YOGjL4JCdN7H5Qp5cjFPKSIbIs6edHz/taBsnXDLDj3nHvuP8p6NSz23Wp4ZCvxM0opaG9D8DnuJnvj7bmE+I0Pskd91Xr63HfOxoExblZNDDqFQhyYeF539QxDsqiryS3uj6ZrcEdP2LUkACA5SbCj/w6tnKTp7c9N9nErmcQXtC/wU2uNAg1536+TfyBQf13vHigkSXzrjsmsu22x/vgoRMX5N5XtSPkBr7bVTk7qFohS/17Apei8AjPvq2aD44KiuqdrtFZzhP3eEodumT+vwaUyxUn+2PwNVvXtBD399UTxgMhh34jBpKBmuXONdfidg8BaHs0u+SJL6S56ykvZmG+AbI3F/b3fOAp3iB3wsZIgbIV0NQMtgpkayywk5FwoznMpXuvUIF7nZepszfLzcnDrq41RfJJ1RYaPqs5Qdx6WZ8suFemWo9b7ceb5KY3+nzGVxGiPQD2UJjbbmgGbG1uIYHqPCxBTZwp2KvmOtzUPRI1Tm2bqIvSn+0EMV3WEwDkn54ofzPqn8pwkbIJuW5JQFIvQvYeN9R6k3Qa4plVqXX1XKMCk5cl7TIkNMZ92+5wVAUNI8ILJfV03riIklnkBeQjf09traIo+fot/1qoTIe2XhN1DFbq+jmmGZ1gSZZLhv+m+jRyT1tySYwrHxjObTaTY++kzmeUaoZ7z+XXyk3LnSyEwl3eBZUfXvyR3gyfWf5T/hLxzXahtx3uvMP9v8+DYteOvVdLR04/LPJaNs7DJNkGt9hubtOuFxE6DzL10DHCTx8dVsdO7zpiSbIdbpE2ga03ZCm1Na+D1gAXO4Tsvnd23DvuDcVfP6O61MAafEYAAAAASUVORK5CYII=\" style=\"height: auto; max-width: 100%;\">",
+      "<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEwAAAAVCAIAAABjdJ9DAAADN0lEQVR42u2Xr2vzQBjH7884G6gpTGyukS1MNDCxwEygYkSNMPESKkaYGcfECBMhvGKEiUEqBnlFIRUvJGaQikEiXsjEIBMRERMnJiIqusvlR9Ou79rxvmLv3p5q7u557vnc83yfpGD6HwywgdxAbiA/O2Qa+5YmcQ3kTbGvCU0IQIPXg5SshAOZa5BHTh5GM4OX0Oxz2TbAsIeqk9DJMQLVOPPolFdMHZh0Sxr+QMIWNevK5kO6TrjRqDABDVbU/MoG3+t0Hjb3JHEPeashcWIdEzciujLshwQ/2UoLgG1F1ZAxjnDiGz0IoGTjnNBDLSjcRNl5OKRLgvlED75DLHFz4sxcTxylq4cTGu5A5C89TH6nkZk7fF5BmLoKBLyROx/KxAbd54i21JAsenM4MAS4BiQZ/uUOAEq1NRnwAPB56GWWOsYjjfWaA7vGLK0vDjkcHFr0BlLnBIJt1a9Fqbj09p8tsTY/DVRyHncdvQ+JRxJslFaxSWISbpPid81b+N1YC5JSoUXIuA4J0DhjNHaraixAnD5ZLPOcRQ8LsCm2vpWh3Cng7Tjz1lLYBIcjXeoyxIIf5NrIaoE5UJ04/UDjWRuSyux0LrjoqlPbnJgHAHRpqh8NqcxV5nDfjD7eQhJX5bc6omaHgcHPIKlUaL9YKu8/hPTVbTBXrgXkrNSpkHbUIPXO5Up16U+ZaN6aE2HquP4KwlsBloLPy7UGmSc5cc45CLhcSisgo5s1Iaf+BVETYZgrV3ji1C4zuwi4xwkXNQaiSdIKe2Y0Kc3GSHXfb7CJ1au1sTpkbFuzACJzfxF+KSS2j2u6IlLWSHI6+q9yeShly0NcdlcAWoqdNzcXsVCw4rd1sXC7qX/O0jcBJ52qap9v9vLqTaxDpnxjLTbXrI1BKct/mnia2CQxaZ7v+pgAtyQzwLkDCVZd4LeQVEXlQOO5R3JD3tncI02Lpx9xWR+ATe5I956XhKccWfjNbPHWBQzXN8OXKg+QabFM31mS1idbbhPOpnDhJJNQb0PYVhxyXGyJ7Q6buQJwS0Cj6J/44vGUpZBf6bMuGsh68JW/XbF/Y1gP6d91uvkXsoHcQH6u8QqjbJbM0SE2qgAAAABJRU5ErkJggg==\" style=\"height: auto; max-width: 100%;\">",
+      "<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJMAAAAZCAIAAAC6rIv8AAAFhklEQVR42u1Zv2vjShDeP0OtwY0hRdzFZQxXxJDiBCkiSBFUHSLFQwReEIbDiBRGXGHEFUGkCMjFgVwEdEVAbgJyEVCKgFwE1oULFSm2SKEihd/+lGQ7iZ08eJe7p6my3uzszHw7M9/YYFbK7ymgDEGJXCklcqWUyJXIlfKvJJ2GbkepSWZYIscEXgXJB7YuuOLWpSjxjgAAJXJMHkPji/thkUuvDa2fWxd2SuS4oLDTAHsfFTkUmltA/u+RS4aWulXBV0kbinWN8nc0dvXdmoQ3qg21GyRP9NMnFA9dc7+mYEMnnr6DD0rNv3yItx5Cax//v1Tbt6NHVvEjr6e1qtgHFPUUoqsq27cp3on7equKly39EgpXiZgjalJfLiwT/6gBMuH4pfHAVDaIdZUd3R2nK1wfmeK87E7z67IbxSc83Oja1naWY4Kic42YTT7nls+mvraVa2P4CeRQ2CVeS9u6PykAvawcR/Wnre3WsDGwr9YkqdmLViAH+0rlwInJcRS06wA07DsamJHZkBT3nkQE3TkKvv7AhbSKoxu7CUDzxHIuQoiS6AxvArVrm10/ThD8aeAwN3pxoeKr5pnjjxM08Q3s5KZh9UxnRI46B1iv5lPj0ytdEnEkcmPWC0sSi0LOYffkbyHCjymFLlPysAK75IeG9WuXHAZ4Th6HMcwj4X6WnQn3XT7yYEoCGnSIN9YtO9LCxgeIvpvvLQAUjxsUmmA552S1YzGv9U0AvjAvn1eOg8qiqp16/jj2jmX5++vIPXgqaNrjvFhXOHLQ2QHNM5jnHw2rOqC3I1/Ddl1ku8Ru0M5qQ+LuAXAcsCyIvuH4G/keSSbZnRRToenc07+nrlxEbn45hxw2e9PKPbu18B2tc7iSRDifgHTCDZulgSEVTuFlm21F1qbqZe+AOstOxb2GdCjAIpZL5s0ryOVekyU3+EXlzF8e4ZXVEl1qz5fje6dZDCJ1TAfZw1kwlCLXmUdORJlCZS4iN50rYvyi9ZG7NsCydFa3FZI0QOfQPQbWbksEdIYGOkus2cSVl5UXW2yahH1eqIV5zyJnhsvLV5QvuP86cgthXegKxvXigxUO/GLkiJLPLnxHoyc1hr9reG4HD/g5SrR+QufIgblJxguvAOH23NyQzX6YXBnvQe4V5W9CjuacKFYZTxpBVn+K1ZIjx0viL0YOl24cf2+usaXBMFqHvQcnEthxYBpYhAKI5a2lZ2WK1Js6z7/M+SEeJdPotAG2zPBxyfL1kXtR+RuRw4pw+ZBET6KtznLuWDnOSnNWLSVjyP4xNNZGDl68Dbk80Sdzy8U+ByhjehLWjUxrmK6VduRR1pUDkwNPl41tIw8B8x0jhHJLDNLUI7PYF9+H3IvKufv6VbrmVJCSOQnzm0PbGwZeT1VOw1TEgvCeE58MA5QFSQeiOd9RbknZY9ZmwRHnTrOn2MbZ+cmOn+ge4Zaa2MNNnhxl9FUkveB7lDJIB06ECerItXsG9qTZDeMpEkxH8x9naBiET/T5k3GlpbUt61iuMd47S7zDihg81uMpNJT1bjTPQglbxtONcmxZbbW5zfKMsDawY5GB5yHyTlqEqQ7i4DrmeBz5KebnV+GS12lx+YJyHtV6O0Brz3N40lIbVaqrGxaPFcaOltYTW/lgRJOguMTPalrswH9/3SuOTTQXC3NPcahiDxZeiiFvAPEbVDYUcxAhllgTT8WkIEdFTISg0jp248eM2UuVrUalUEWe4ylqsV7Bc22+XzDfLcpB8GxqhaIsp7e2zMzrx+jB16ugcuiwq+EPPISByh4eZMO5iIyKS15slpVn8+siG/qffeMcGq8iV/5W8FG/+u3r9m35K8/v9vVmdOF44/TPc6z8fa5ErpQSuVJK5P5k+Qdz1xE3pNzfpwAAAABJRU5ErkJggg==\" style=\"height: auto; max-width: 100%;\">"
+    ],
+    "q_en": "<img loading=\"lazy\" src=\"https://blogger.googleusercontent.com/img/a/AVvXsEhEAisjAJhw25yhVnTklA_o0RTrK_JLteHM9e_UbD7tnSolH0olaIqXdho3qlW5IuNCtj9f14O1yioiBGn4Irj5daiuB5R0sViNwzcP6m0v7ixVkMixK8VpJZw-9rsgcnjewWuENbFheTWhhsSLKT_aa-LNFhatx97W2XSTAHXsv-KThSoYgmodaGisndM=rw\" style=\"height: auto; max-width: 100%;\"><span style=\"color: white;\">692</span>",
+    "q_hi": "<img loading=\"lazy\" src=\"https://blogger.googleusercontent.com/img/a/AVvXsEhEAisjAJhw25yhVnTklA_o0RTrK_JLteHM9e_UbD7tnSolH0olaIqXdho3qlW5IuNCtj9f14O1yioiBGn4Irj5daiuB5R0sViNwzcP6m0v7ixVkMixK8VpJZw-9rsgcnjewWuENbFheTWhhsSLKT_aa-LNFhatx97W2XSTAHXsv-KThSoYgmodaGisndM=rw\" style=\"height: auto; max-width: 100%;\"><span style=\"color: white;\">692</span>",
+    "section": "Test of English Language and Comprehension1",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "3",
+    "level": "",
+    "op_en": [
+      "Obscure",
+      "Oblivious",
+      "Verbose",
+      "Timid"
+    ],
+    "op_hi": [
+      "Obscure",
+      "Oblivious",
+      "Verbose",
+      "Timid"
+    ],
+    "q_en": "Select the most appropriate ANTONYM of the underlined word in the given sentence.<br><br>In any relationship, <u>taciturn</u> conversation should be more.",
+    "q_hi": "Select the most appropriate ANTONYM of the underlined word in the given sentence.<br><br>In any relationship, <u>taciturn</u> conversation should be more.",
+    "section": "Test of English Language and Comprehension1",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "2",
+    "level": "",
+    "op_en": [
+      "No substitution required",
+      "all roads lead to Rome",
+      "all blocks have the same design",
+      "every man's project leads to finish"
+    ],
+    "op_hi": [
+      "No substitution required",
+      "all roads lead to Rome",
+      "all blocks have the same design",
+      "every man's project leads to finish"
+    ],
+    "q_en": "Select the most appropriate proverb that can substitute the underlined segment in the given sentence. If there is no need to substitute it, select ‘No substitution required’. <br><br>It is unimportant how he handled this project, as long as he meets the deadline, <u>all roads will be repaired in Rome</u>.",
+    "q_hi": "Select the most appropriate proverb that can substitute the underlined segment in the given sentence. If there is no need to substitute it, select ‘No substitution required’. <br><br>It is unimportant how he handled this project, as long as he meets the deadline, <u>all roads will be repaired in Rome</u>.",
+    "section": "Test of English Language and Comprehension1",
+    "solution": "",
+    "topic": ""
+  }
+]
