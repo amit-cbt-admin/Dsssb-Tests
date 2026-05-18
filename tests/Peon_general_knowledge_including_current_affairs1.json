@@ -1,0 +1,212 @@
+[
+  {
+    "ans": "4",
+    "level": "Easy",
+    "op_en": [
+      "Iran, Iraq, Syria",
+      "Sri Lanka, Bhutan, Myanmar",
+      "Nepal, Maldives, China",
+      "Afghanistan, Bangladesh, Pakistan"
+    ],
+    "op_hi": [
+      "ईरान, इराक, सीरिया",
+      "श्रीलंका, भूटान, म्यांमार",
+      "नेपाल, मालदीव, चीन",
+      "अफगानिस्तान, बांग्लादेश, पाकिस्तान"
+    ],
+    "q_en": "According to the Citizenship (Amendment) Act, 2019, individuals from which nations are eligible?",
+    "q_hi": "नागरिकता (संशोधन) अधिनियम, 2019 के अनुसार, किन देशों के व्यक्ति नागरिकता के लिए पात्र हैं?",
+    "section": "General Knowledge Including Current Affairs1",
+    "solution": "<b>📌 Concept:</b><br>CAA 2019 के तहत तीन पड़ोसी देशों के 6 अल्पसंख्यक समुदायों (हिंदू, सिख, बौद्ध, जैन, पारसी, ईसाई) को नागरिकता देने का प्रावधान है।<br><br><b>🎯 Memory Hack:</b><br>ABP $\\\\rightarrow$ Afghanistan, Bangladesh, Pakistan.",
+    "topic": "Polity (CAA)"
+  },
+  {
+    "ans": "3",
+    "level": "Moderate",
+    "op_en": [
+      "President of India",
+      "Governor of the State",
+      "High Court of the State",
+      "Union Law Ministry"
+    ],
+    "op_hi": [
+      "भारत के राष्ट्रपति",
+      "राज्य के राज्यपाल",
+      "राज्य के उच्च न्यायालय",
+      "केंद्रीय विधि मंत्रालय"
+    ],
+    "q_en": "The supervision and control of Subordinate Courts is vested in the:",
+    "q_hi": "अधीनस्थ न्यायालयों का पर्यवेक्षण और नियंत्रण किसमें निहित है?",
+    "section": "General Knowledge Including Current Affairs1",
+    "solution": "<b>📌 Concept:</b><br>अनुच्छेद 235 के अनुसार, राज्य का **उच्च न्यायालय (High Court)** अपने अधीनस्थ न्यायालयों (District Courts etc.) पर प्रशासनिक नियंत्रण रखता है।",
+    "topic": "Polity (Judiciary)"
+  },
+  {
+    "ans": "1",
+    "level": "Hard",
+    "op_en": [
+      "7 years",
+      "10 years",
+      "3 years",
+      "Life imprisonment"
+    ],
+    "op_hi": [
+      "7 वर्ष",
+      "10 वर्ष",
+      "3 वर्ष",
+      "आजीवन कारावास"
+    ],
+    "q_en": "The court of the CJM in a district can award a sentence of imprisonment up to:",
+    "q_hi": "किसी जिले में मुख्य न्यायिक मजिस्ट्रेट (CJM) की अदालत कितनी अवधि तक के कारावास की सजा सुना सकती है?",
+    "section": "General Knowledge Including Current Affairs1",
+    "solution": "<b>📌 Concept:</b><br>CrPC/BNSS के अनुसार न्यायिक मजिस्ट्रेटों की शक्तियाँ निर्धारित हैं।<br><br><b>🧠 Explanation:</b><br>- <b>CJM:</b> अधिकतम 7 वर्ष तक की सजा।<br>- <b>JM First Class:</b> 3 वर्ष तक की सजा।<br>- <b>Sessions Judge:</b> मृत्युदंड भी दे सकते हैं (HC की पुष्टि के बाद)।",
+    "topic": "Polity (Judiciary)"
+  },
+  {
+    "ans": "4",
+    "level": "Moderate",
+    "op_en": [
+      "The PM acts as presiding officer",
+      "The President directly presides",
+      "The LoP takes charge",
+      "All powers are performed by the Deputy Speaker"
+    ],
+    "op_hi": [
+      "प्रधानमंत्री पीठासीन अधिकारी के रूप में कार्य करते हैं",
+      "राष्ट्रपति सीधे कार्यवाही की अध्यक्षता करते हैं",
+      "विपक्ष के नेता कार्यभार संभालते हैं",
+      "सभी शक्तियों और कर्तव्यों का पालन उपाध्यक्ष द्वारा किया जाता है"
+    ],
+    "q_en": "As per Article 95(1), when the Speaker’s position is vacant:",
+    "q_hi": "अनुच्छेद 95(1) के प्रावधानों के अनुसार, जब अध्यक्ष का पद रिक्त होता है, तो:",
+    "section": "General Knowledge Including Current Affairs1",
+    "solution": "<b>🧠 Explanation:</b><br>अगर लोकसभा अध्यक्ष (Speaker) का पद खाली है, तो उनके सभी कर्तव्यों का पालन **उपाध्यक्ष (Deputy Speaker)** द्वारा किया जाता है। यदि दोनों न हों, तो राष्ट्रपति द्वारा नियुक्त सदस्य सदन का संचालन करता है।",
+    "topic": "Polity (Parliament)"
+  },
+  {
+    "ans": "3",
+    "level": "Moderate",
+    "op_en": [
+      "H+(aq) and SO4−",
+      "(OH)+ and SO42−",
+      "H3O+ and SO42−",
+      "H3O+ and SO4−"
+    ],
+    "op_hi": [
+      "H+(aq) और SO4−",
+      "(OH)+ और SO42−",
+      "H3O+ और SO42−",
+      "H3O+ और SO4−"
+    ],
+    "q_en": "When H2SO4 is dissolved in water, which ions are formed?",
+    "q_hi": "जब H2SO4 को पानी में घोला जाता है, तो घोल में कौन से आयन बनते हैं?",
+    "section": "General Knowledge Including Current Affairs1",
+    "solution": "<b>📌 Concept:</b><br>अम्ल (Acids) पानी में $H^+$ आयन छोड़ते हैं, जो पानी के अणु ($H_2O$) के साथ मिलकर **हाइड्रोनियम आयन ($H_3O^+$)** बनाते हैं।<br><br><b>🧠 Explanation:</b><br>$H_2SO_4 + 2H_2O \\\\rightarrow 2H_3O^+ + SO_4^{2-}$",
+    "topic": "Science (Chemistry)"
+  },
+  {
+    "ans": "2",
+    "level": "Moderate",
+    "op_en": [
+      "Ribose",
+      "Glucose",
+      "Galactose",
+      "Fructose"
+    ],
+    "op_hi": [
+      "राइबोज",
+      "ग्लूकोज",
+      "गैलेक्टोज",
+      "फ्रक्टोज"
+    ],
+    "q_en": "Which six-carbon monosaccharide is known as dextrose?",
+    "q_hi": "छह-कार्बन वाले किस मोनोसैकेराइड को सामान्यतः डेक्सट्रोज के रूप में जाना जाता है?",
+    "section": "General Knowledge Including Current Affairs1",
+    "solution": "<b>🧠 Explanation:</b><br>**ग्लूकोज** को डेक्सट्रोज (Dextrose) भी कहा जाता है क्योंकि यह 'डेक्सट्रोरोटेटरी' (प्रकाश को दाईं ओर घुमाने वाला) होता है। यह प्रकृति में सबसे प्रचुर मात्रा में पाया जाने वाला शुगर है।",
+    "topic": "Science (Biology)"
+  },
+  {
+    "ans": "3",
+    "level": "Easy",
+    "op_en": [
+      "80 lpcd for low-middle-class",
+      "100 lpcd for selected HH",
+      "55 lpcd to every rural household",
+      "40 lpcd to middle-class"
+    ],
+    "op_hi": [
+      "80 लीटर प्रति व्यक्ति प्रतिदिन (lpcd)",
+      "100 लीटर प्रति व्यक्ति प्रतिदिन (lpcd)",
+      "हर ग्रामीण घर को 55 लीटर प्रति व्यक्ति प्रतिदिन (lpcd)",
+      "40 लीटर प्रति व्यक्ति प्रतिदिन (lpcd)"
+    ],
+    "q_en": "What is the official goal of the Jal Jeevan Mission?",
+    "q_hi": "2019 में शुरू किए गए जल जीवन मिशन का आधिकारिक लक्ष्य क्या है?",
+    "section": "General Knowledge Including Current Affairs1",
+    "solution": "<b>📌 Concept:</b><br>'हर घर जल' लक्ष्य के साथ 2024 तक प्रत्येक ग्रामीण परिवार को नल कनेक्शन देना। मानक मात्रा **55 लीटर प्रति व्यक्ति** है।",
+    "topic": "Govt Schemes"
+  },
+  {
+    "ans": "3",
+    "level": "Hard",
+    "op_en": [
+      "Right to Property",
+      "Titles",
+      "Part A, B, C, and D classification of states",
+      "Age limit of voting at 21 years"
+    ],
+    "op_hi": [
+      "संपत्ति का अधिकार",
+      "उपाधियाँ",
+      "राज्यों का भाग A, B, C, और D वर्गीकरण",
+      "21 वर्ष की आयु में मतदान की सीमा"
+    ],
+    "q_en": "The 7th Amendment (1956) abolished which of the following?",
+    "q_hi": "भारतीय संविधान के 7वें संशोधन (1956) ने निम्नलिखित में से किसे समाप्त कर दिया?",
+    "section": "General Knowledge Including Current Affairs1",
+    "solution": "<b>📌 Concept:</b><br>राज्य पुनर्गठन अधिनियम (1956) को लागू करने के लिए 7वाँ संशोधन लाया गया था।<br><br><b>🧠 Explanation:</b><br>इससे पहले राज्य A, B, C और D श्रेणियों में बँटे थे। इस संशोधन ने इसे खत्म कर 14 राज्य और 6 केंद्र शासित प्रदेश बनाए।",
+    "topic": "Polity (Amendments)"
+  },
+  {
+    "ans": "3",
+    "level": "Moderate",
+    "op_en": [
+      "Allele",
+      "Phenotype",
+      "Genotype",
+      "Hybrid"
+    ],
+    "op_hi": [
+      "एलिल",
+      "फेनोटाइप",
+      "जीनोटाइप",
+      "हाइब्रिड"
+    ],
+    "q_en": "Which term refers to the genetic constitution or set of genes inherited from parents?",
+    "q_hi": "कौन सा शब्द माता-पिता से विरासत में मिले आनुवंशिक गठन या जीन के समूह को संदर्भित करता है?",
+    "section": "General Knowledge Including Current Affairs1",
+    "solution": "<b>📌 Concept:</b><br>- <b>Genotype:</b> आंतरिक जीन संरचना।<br>- <b>Phenotype:</b> बाहरी शारीरिक लक्षण (जैसे लंबाई, रंग)।<br><br><b>🎯 Memory Hack:</b><br>G for Genes $\\\\rightarrow$ Genotype; P for Physical $\\\\rightarrow$ Phenotype.",
+    "topic": "Science (Genetics)"
+  },
+  {
+    "ans": "4",
+    "level": "Moderate",
+    "op_en": [
+      "Less than initial",
+      "Half of original",
+      "Greater than initial",
+      "Equal to the initial height"
+    ],
+    "op_hi": [
+      "प्रारंभिक से कम",
+      "मूल की आधी",
+      "प्रारंभिक से अधिक",
+      "प्रारंभिक ऊँचाई के बराबर"
+    ],
+    "q_en": "In Galileo’s double inclined plane experiment, to what height does the ball rise on the opposite incline?",
+    "q_hi": "गैलीलियो के डबल इंक्लाइंड प्लेन प्रयोग में, गेंद विपरीत ढलान पर किस ऊँचाई तक पहुँचती है?",
+    "section": "General Knowledge Including Current Affairs1",
+    "solution": "<b>📌 Concept:</b><br>गैलीलियो ने जड़त्व (Inertia) का विचार इसी प्रयोग से दिया था।<br><br><b>🧠 Explanation:</b><br>आदर्श स्थिति में (बिना घर्षण के), गेंद जिस ऊँचाई से छोड़ी गई है, वह दूसरे ढलान पर बिल्कुल **उतनी ही ऊँचाई** तक जाएगी, चाहे ढलान का कोण कुछ भी हो।",
+    "topic": "Science (Physics)"
+  }
+]
