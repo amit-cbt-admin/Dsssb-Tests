@@ -1,0 +1,422 @@
+[
+  {
+    "ans": "3",
+    "level": "Easy",
+    "op_en": [
+      "46",
+      "44",
+      "45",
+      "43"
+    ],
+    "op_hi": [
+      "46",
+      "44",
+      "45",
+      "43"
+    ],
+    "q_en": "Suresh ranked 34<sup>th</sup> from the top and 12<sup>th</sup> from the bottom in his class. How many students are there in his class?<br>",
+    "q_hi": "सुरेश अपनी कक्षा में ऊपर से 34वें और नीचे से 12वें स्थान पर है। उसकी कक्षा में कुल कितने छात्र हैं?<br>",
+    "section": "General intelligence and Reasoning Ability",
+    "solution": "किसी व्यक्ति की कुल संख्या निकालने के लिए सूत्र है: <br>कुल छात्र = (ऊपर से स्थान + नीचे से स्थान) - 1 <br>यहाँ, सुरेश का ऊपर से स्थान = 34 <br>सुरेश का नीचे से स्थान = 12 <br>इसलिए, कुल छात्र = (34 + 12) - 1 <br>= 46 - 1 = 45. <br>अतः कक्षा में कुल 45 छात्र हैं।",
+    "topic": "क्रम व्यवस्था"
+  },
+  {
+    "ans": "3",
+    "level": "Medium",
+    "op_en": [
+      "A",
+      "9",
+      "H",
+      "X"
+    ],
+    "op_hi": [
+      "A",
+      "9",
+      "H",
+      "X"
+    ],
+    "q_en": "Refer to the following letter, number, symbol series and answer the question. All numbers are single digit numbers.<br>(Left)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;T&nbsp; &nbsp; M&nbsp; &nbsp; #&nbsp; &nbsp; S&nbsp; &nbsp; 8&nbsp; &nbsp; 9&nbsp; &nbsp; H&nbsp; &nbsp; &copy;&nbsp; &nbsp; A&nbsp; &nbsp; Y&nbsp; &nbsp; X&nbsp; &nbsp; 9&nbsp; &nbsp; 9&nbsp; &nbsp; F&nbsp; &nbsp; #&nbsp; &nbsp; 3&nbsp; &nbsp; 5&nbsp; &nbsp; N&nbsp; &nbsp; B&nbsp; &nbsp; $&nbsp; &nbsp; Y&nbsp; &nbsp; U&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (Right)<br>If all the symbols are dropped from the series, which of the following will be sixth from the left?",
+    "q_hi": "निम्नलिखित अक्षर, संख्या और प्रतीक श्रृंखला को देखें और प्रश्न का उत्तर दें। सभी संख्याएँ एकल अंक वाली संख्याएँ हैं।<br>(बायाँ)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;T&nbsp; &nbsp; M&nbsp; &nbsp; #&nbsp; &nbsp; S&nbsp; &nbsp; 8&nbsp; &nbsp; 9&nbsp; &nbsp; H&nbsp; &nbsp; &copy;&nbsp; &nbsp; A&nbsp; &nbsp; Y&nbsp; &nbsp; X&nbsp; &nbsp; 9&nbsp; &nbsp; 9&nbsp; &nbsp; F&nbsp; &nbsp; #&nbsp; &nbsp; 3&nbsp; &nbsp; 5&nbsp; &nbsp; N&nbsp; &nbsp; B&nbsp; &nbsp; &#36;&nbsp; &nbsp; Y&nbsp; &nbsp; U&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (दायाँ)<br>यदि श्रृंखला से सभी प्रतीकों को हटा दिया जाता है, तो निम्नलिखित में से कौन बाएँ से छठा होगा?",
+    "section": "General intelligence and Reasoning Ability",
+    "solution": "1. दी गई श्रृंखला: T M # S 8 9 H &copy; A Y X 9 9 F # 3 5 N B &#36; Y U <br>2. प्रतीकों (#, &copy;, #, &#36;) को हटाने के बाद नई श्रृंखला: T M S 8 9 H A Y X 9 9 F 3 5 N B Y U <br>3. अब बाएँ से छठा तत्व गिनें: <br>1: T, 2: M, 3: S, 4: 8, 5: 9, 6: H <br>अतः बाएँ से छठा तत्व 'H' है।",
+    "topic": "अक्षर-संख्या श्रृंखला"
+  },
+  {
+    "ans": "1",
+    "level": "Medium",
+    "op_en": [
+      "Only conclusion (II) follows.",
+      "Only conclusion (I) follows.",
+      "Neither conclusion (I) nor (II) follows.",
+      "Both conclusions (I) and (II) follow."
+    ],
+    "op_hi": [
+      "केवल निष्कर्ष (II) अनुसरण करता है।",
+      "केवल निष्कर्ष (I) अनुसरण करता है।",
+      "न तो निष्कर्ष (I) और न ही (II) अनुसरण करता है।",
+      "निष्कर्ष (I) और (II) दोनों अनुसरण करते हैं।"
+    ],
+    "q_en": "Read the given statements and conclusions carefully. You have to take the given statements to be true even if they seem to be at variance from commonly known facts. You have to decide which conclusion/s logically follow/s from the given statements.<br>Statements: All birds are insects. All insects are reptiles. Some reptile is a mammal.<br>Conclusions:<br> (I) No mammal is a bird.<br> (II) Some reptiles are birds.<span style=\"color: white;\">5594</span>",
+    "q_hi": "दिए गए कथनों और निष्कर्षों को ध्यान से पढ़ें। आपको दिए गए कथनों को सत्य मानना है, भले ही वे सामान्य रूप से ज्ञात तथ्यों से भिन्न प्रतीत हों। आपको यह तय करना है कि कौन सा/से निष्कर्ष दिए गए कथनों का तार्किक रूप से अनुसरण करता/करते है/हैं।<br>कथन: सभी पक्षी कीड़े हैं। सभी कीड़े सरीसृप हैं। कुछ सरीसृप स्तनधारी हैं।<br>निष्कर्ष:<br> (I) कोई स्तनधारी पक्षी नहीं है।<br> (II) कुछ सरीसृप पक्षी हैं।<span style=\"color: white;\">5594</span>",
+    "section": "General intelligence and Reasoning Ability",
+    "solution": "1. कथन विश्लेषण: 'सभी पक्षी कीड़े हैं' और 'सभी कीड़े सरीसृप हैं' का अर्थ है कि सभी पक्षी सरीसृप के अंतर्गत आते हैं। <br>2. निष्कर्ष (I): 'कोई स्तनधारी पक्षी नहीं है' - स्तनधारी और पक्षी के बीच कोई नकारात्मक संबंध नहीं दिया गया है, इसलिए यह निश्चित रूप से सही नहीं है। <br>3. निष्कर्ष (II): 'कुछ सरीसृप पक्षी हैं' - चूँकि सभी पक्षी सरीसृप हैं, इसलिए सरीसृप का वह हिस्सा जो पक्षी है, निश्चित रूप से 'कुछ सरीसृप पक्षी हैं' को सही बनाता है। <br>अतः केवल निष्कर्ष (II) अनुसरण करता है।",
+    "topic": "न्याय वाक्य"
+  },
+  {
+    "ans": "2",
+    "level": "Easy",
+    "op_en": [
+      "None",
+      "Two",
+      "One",
+      "Three"
+    ],
+    "op_hi": [
+      "कोई नहीं",
+      "दो",
+      "एक",
+      "तीन"
+    ],
+    "q_en": "This question is based on the five, three&minus;digit numbers given below:<br>(Left) 172&nbsp; 645&nbsp; 368&nbsp; 594&nbsp; 463 (Right)<br>If all the numbers are arranged in ascending order from left to right, the position of how many numbers will remain unchanged?<span style=\"color: white;\">8296</span>",
+    "q_hi": "यह प्रश्न नीचे दी गई पांच, तीन-अंकीय संख्याओं पर आधारित है:<br>(बायाँ) 172&nbsp; 645&nbsp; 368&nbsp; 594&nbsp; 463 (दायाँ)<br>यदि सभी संख्याओं को बाएँ से दाएँ बढ़ते क्रम में व्यवस्थित किया जाता है, तो कितनी संख्याओं का स्थान अपरिवर्तित रहेगा?<span style=\"color: white;\">8296</span>",
+    "section": "General intelligence and Reasoning Ability",
+    "solution": "1. मूल क्रम: 172, 645, 368, 594, 463 <br>2. बढ़ते क्रम में व्यवस्थित करने पर: 172, 368, 463, 594, 645 <br>3. स्थानों की तुलना करने पर: <br>- 172: पहले भी पहले स्थान पर था, अब भी है। (अपरिवर्तित) <br>- 594: पहले चौथे स्थान पर था, अब भी चौथे स्थान पर है। (अपरिवर्तित) <br>बाकी संख्याओं के स्थान बदल गए हैं। अतः 2 संख्याओं के स्थान अपरिवर्तित रहेंगे।",
+    "topic": "संख्या व्यवस्था"
+  },
+  {
+    "ans": "2",
+    "level": "Medium",
+    "op_en": [
+      "R",
+      "U",
+      "Q",
+      "T"
+    ],
+    "op_hi": [
+      "R",
+      "U",
+      "Q",
+      "T"
+    ],
+    "q_en": "Each of P, Q, R, S, T, U and V has an exam on a different day of a week starting from Monday and ending on Sunday of the same week.<br>T has an exam on Wednesday. U has an exam before T but after R. Only two people have an exam between S and T. V has an exam before Q but after P.<br>Who has an exam on Tuesday?<span style=\"color: white;\">5732</span>",
+    "q_hi": "P, Q, R, S, T, U और V में से प्रत्येक की परीक्षा एक ही सप्ताह के सोमवार से शुरू होकर रविवार को समाप्त होने वाले अलग-अलग दिनों में है। <br>T की परीक्षा बुधवार को है। U की परीक्षा T से पहले लेकिन R के बाद है। S और T के बीच केवल दो लोगों की परीक्षा है। V की परीक्षा Q से पहले लेकिन P के बाद है। <br>मंगलवार को किसकी परीक्षा है?<span style=\"color: white;\">5732</span>",
+    "section": "General intelligence and Reasoning Ability",
+    "solution": "1. T की परीक्षा बुधवार को है। <br>2. S और T के बीच दो लोग हैं: यदि हम बाद में देखें, तो बुधवार + 2 दिन (गुरुवार, शुक्रवार) छोड़कर S शनिवार को होगा। <br>3. U, T से पहले है और R के बाद है: बुधवार से पहले केवल सोमवार और मंगलवार खाली हैं। चूँकि U, R के बाद है, इसलिए R सोमवार को और U मंगलवार को होगा। <br>4. V, Q से पहले और P के बाद है: बचे हुए दिन गुरुवार, शुक्रवार और रविवार हैं। क्रम होगा- P (गुरुवार), V (शुक्रवार) और Q (रविवार)। <br>अतः मंगलवार को U की परीक्षा है।",
+    "topic": "समय सारिणी पहेली"
+  },
+  {
+    "ans": "4",
+    "level": "Easy",
+    "op_en": [
+      "Mother",
+      "Daughter",
+      "Father",
+      "Wife"
+    ],
+    "op_hi": [
+      "माता",
+      "पुत्री",
+      "पिता",
+      "पत्नी"
+    ],
+    "q_en": "L is the father of I. I has two brothers named J and O. P is the mother of J. How is P related to L?<span style=\"color: white;\">5167</span>",
+    "q_hi": "L, I का पिता है। I के J और O नाम के दो भाई हैं। P, J की माता है। P, L से किस प्रकार संबंधित है?<span style=\"color: white;\">5167</span>",
+    "section": "General intelligence and Reasoning Ability",
+    "solution": "1. L, I का पिता है। <br>2. J और O, I के भाई हैं, इसका मतलब I, J और O तीनों भाई-बहन हैं और L इन सबका पिता है। <br>3. P, J की माता है। <br>4. चूँकि L इन बच्चों का पिता है और P इनकी माता है, तो L और P पति-पत्नी हुए। <br>अतः P, L की पत्नी है।",
+    "topic": "रक्त संबंध"
+  },
+  {
+    "ans": "4",
+    "level": "Medium",
+    "op_en": [
+      "Two",
+      "Four",
+      "One",
+      "Three"
+    ],
+    "op_hi": [
+      "दो",
+      "चार",
+      "एक",
+      "तीन"
+    ],
+    "q_en": "A, B, C, D, E and F live on six different floors of the same building. The lowermost floor in the building is numbered 1, the floor above it, number 2 and so on till the topmost floor is numbered 6. Only three people live above D. Only four people live below C. E lives immediately above B. F does not live above A. How many people live below F?<span style=\"color: white;\">670</span>",
+    "q_hi": "A, B, C, D, E और F एक ही इमारत की छह अलग-अलग मंजिलों पर रहते हैं। इमारत की सबसे निचली मंजिल संख्या 1 है, उसके ऊपर की मंजिल संख्या 2 है और इसी तरह सबसे ऊपरी मंजिल संख्या 6 है। D के ऊपर केवल तीन लोग रहते हैं। C के नीचे केवल चार लोग रहते हैं। E, B के ठीक ऊपर रहता है। F, A के ऊपर नहीं रहता है। F के नीचे कितने लोग रहते हैं?<span style=\"color: white;\">670</span>",
+    "section": "General intelligence and Reasoning Ability",
+    "solution": "1. 'C के नीचे केवल चार लोग हैं', इसका मतलब C 5वीं मंजिल पर रहता है। <br>2. 'D के ऊपर केवल तीन लोग हैं', इसका मतलब D 3वीं मंजिल पर रहता है (6, 5, 4 के नीचे)। <br>3. 'E, B के ठीक ऊपर है': खाली मंजिलें 6, 4, 2, 1 हैं। जोड़ी केवल 2 और 1 की बन सकती है, अतः E 2री और B 1ली मंजिल पर है। <br>4. 'F, A के ऊपर नहीं है' (अर्थात F, A के नीचे है): खाली मंजिलें 6 और 4 हैं। इसलिए A 6वीं और F 4थी मंजिल पर होगा। <br>5. F (4थी मंजिल) के नीचे रहने वाले लोग: 3 (D), 2 (E) और 1 (B) हैं। <br>अतः F के नीचे 3 लोग रहते हैं।",
+    "topic": "मंजिल पहेली"
+  },
+  {
+    "ans": "1",
+    "level": "Easy",
+    "op_en": [
+      "Only conclusion I follows&nbsp;",
+      "Only conclusion II follows",
+      "Both conclusions I and II follow",
+      "None of the conclusions follow"
+    ],
+    "op_hi": [
+      "केवल निष्कर्ष I अनुसरण करता है",
+      "केवल निष्कर्ष II अनुसरण करता है",
+      "निष्कर्ष I और II दोनों अनुसरण करते हैं",
+      "कोई भी निष्कर्ष अनुसरण नहीं करता है"
+    ],
+    "q_en": "Read the given statements and conclusions carefully. Assuming that the information given in the statements is true, even if it appears to be at variance with commonly known facts, decide which of the given conclusions logically follow(s) from the statements.<br>Statements:<br> Some doors are windows.<br>All windows are slabs.<br>All slabs are cabinets.<br>Conclusions:<br> (I) Some doors are cabinets.<br>(II) All doors are cabinets.<span style=\"color: white;\">5731</span>",
+    "q_hi": "दिए गए कथनों और निष्कर्षों को ध्यान से पढ़ें। यह मानते हुए कि कथनों में दी गई जानकारी सत्य है, भले ही वह सामान्य रूप से ज्ञात तथ्यों से भिन्न प्रतीत होती हो, तय करें कि दिए गए निष्कर्षों में से कौन सा तार्किक रूप से कथनों का अनुसरण करता है। <br>कथन: <br>कुछ दरवाजे खिड़कियाँ हैं। <br>सभी खिड़कियाँ स्लैब हैं। <br>सभी स्लैब कैबिनेट हैं। <br>निष्कर्ष: <br> (I) कुछ दरवाजे कैबिनेट हैं। <br>(II) सभी दरवाजे कैबिनेट हैं।<span style=\"color: white;\">5731</span>",
+    "section": "General intelligence and Reasoning Ability",
+    "solution": "1. कथन विश्लेषण: 'कुछ दरवाजे खिड़कियाँ हैं' और 'सभी खिड़कियाँ स्लैब' हैं, इसका अर्थ है कि दरवाजों का वह हिस्सा जो खिड़की है, वह स्लैब भी है। <br>2. आगे, 'सभी स्लैब कैबिनेट' हैं, इसका मतलब दरवाजों का वह हिस्सा जो स्लैब था, अब वह कैबिनेट भी है। <br>3. निष्कर्ष (I): 'कुछ दरवाजे कैबिनेट हैं' - यह निश्चित रूप से सही है क्योंकि दरवाजों का कुछ हिस्सा कैबिनेट के अंदर आ चुका है। <br>4. निष्कर्ष (II): 'सभी दरवाजे कैबिनेट हैं' - इसके बारे में जानकारी नहीं है, इसलिए यह गलत है। <br>अतः केवल निष्कर्ष I अनुसरण करता है।",
+    "topic": "न्याय वाक्य"
+  },
+  {
+    "ans": "3",
+    "level": "Medium",
+    "op_en": [
+      "Only conclusion I is true.",
+      "Only conclusion II is true.",
+      "Both conclusions I and II are true.",
+      "Neither conclusion I nor II is true."
+    ],
+    "op_hi": [
+      "केवल निष्कर्ष I सत्य है।",
+      "केवल निष्कर्ष II सत्य है।",
+      "निष्कर्ष I और II दोनों सत्य हैं।",
+      "न तो निष्कर्ष I और न ही II सत्य है।"
+    ],
+    "q_en": "A statement is given followed by two conclusions. Identify which of the given conclusions is/are true based on the given statements.<br><br><strong>Statement:</strong> <br><br>L&lt; F &le; G = S &lt; N = T<br><br><strong>Conclusions:</strong><br><br>I. S &gt; L<br>II. F &lt; T<span style=\"color: white;\">667</span>",
+    "q_hi": "एक कथन और उसके बाद दो निष्कर्ष दिए गए हैं। दिए गए कथनों के आधार पर पहचानें कि दिए गए निष्कर्षों में से कौन सा/से सत्य है/हैं। <br><br><strong>कथन:</strong> <br><br>L &lt; F &le; G = S &lt; N = T <br><br><strong>निष्कर्ष:</strong> <br><br>I. S &gt; L <br>II. F &lt; T<span style=\"color: white;\">667</span>",
+    "section": "General intelligence and Reasoning Ability",
+    "solution": "कथन: L &lt; F &le; G = S &lt; N = T <br>निष्कर्ष I के लिए: L और S के बीच संबंध देखें। L &lt; F &le; G = S &rArr; L &lt; S, इसलिए S &gt; L सत्य है। <br>निष्कर्ष II के लिए: F और T के बीच संबंध देखें। F &le; G = S &lt; N = T &rArr; F &lt; T, इसलिए F &lt; T सत्य है। <br>अतः निष्कर्ष I और II दोनों सत्य हैं।",
+    "topic": "असमानता"
+  },
+  {
+    "ans": "4",
+    "level": "Medium",
+    "op_en": [
+      "Four",
+      "Three",
+      "One",
+      "Two"
+    ],
+    "op_hi": [
+      "चार",
+      "तीन",
+      "एक",
+      "दो"
+    ],
+    "q_en": "Seven people P, Q, R, D, E, F and G are sitting in a straight line, facing the north. Only two people are sitting to the right of F. Only three people are sitting between F and G. P is sitting second to the left of D. Only R is sitting to the right of E. How many people are sitting between Q and E?<span style=\"color: white;\">5608</span>",
+    "q_hi": "सात व्यक्ति P, Q, R, D, E, F और G उत्तर की ओर मुख करके एक सीधी रेखा में बैठे हैं। F के दाएँ केवल दो व्यक्ति बैठे हैं। F और G के बीच केवल तीन व्यक्ति बैठे हैं। P, D के बाएँ दूसरे स्थान पर बैठा है। E के दाएँ केवल R बैठा है। Q और E के बीच कितने व्यक्ति बैठे हैं?<span style=\"color: white;\">5608</span>",
+    "section": "General intelligence and Reasoning Ability",
+    "solution": "1. कुल 7 स्थान हैं। 'F के दाएँ केवल दो लोग हैं', तो F 5वें स्थान पर है। <br>2. 'F और G के बीच तीन लोग हैं', तो G पहले स्थान पर होगा (F से बायीं ओर)। <br>3. 'E के दाएँ केवल R है', इसका मतलब E 6ठे स्थान पर और R 7वें (आखिरी) स्थान पर है। <br>4. 'P, D के बाएँ दूसरे स्थान पर है', इसके लिए खाली स्थान 2 और 4 हैं, तो P दूसरे और D चौथे स्थान पर होगा। <br>5. बचा हुआ Q तीसरे स्थान पर होगा। <br>6. व्यवस्था: G P Q D F E R <br>7. Q (तीसरे स्थान) और E (छठे स्थान) के बीच D और F बैठे हैं। <br>अतः Q और E के बीच 2 व्यक्ति बैठे हैं।",
+    "topic": "रैखिक व्यवस्था"
+  },
+  {
+    "ans": "3",
+    "level": "Hard",
+    "op_en": [
+      "Either 'xz' or 'ok'",
+      "Either 'lp' or 'xz'",
+      "Either 'lp' or 'ui'",
+      "Either 'ok' or 'lp'"
+    ],
+    "op_hi": [
+      "या तो 'xz' या 'ok'",
+      "या तो 'lp' या 'xz'",
+      "या तो 'lp' या 'ui'",
+      "या तो 'ok' या 'lp'"
+    ],
+    "q_en": "एक निश्चित कूट भाषा में, <br>'the only hard work' को 'as xz cv fr' के रूप में कोडित किया गया है <br>'hard work what i' को 'cv fr tg hy' के रूप में कोडित किया गया है <br>'can do only is' को 'ui ok xz lp' के रूप में कोडित किया गया है <br>'hard i read do' को 'cv hy lm ok' के रूप में कोडित किया गया है <br>(सभी कोड केवल दो अक्षरों के कोड हैं) <br>&lsquo;is&rsquo; के लिए संभावित कोड क्या है?<span style=\"color: white;\">2731</span>",
+    "q_hi": "एक निश्चित कूट भाषा में, <br>'the only hard work' को 'as xz cv fr' के रूप में कोडित किया गया है <br>'hard work what i' को 'cv fr tg hy' के रूप में कोडित किया गया है <br>'can do only is' को 'ui ok xz lp' के रूप में कोडित किया गया है <br>'hard i read do' को 'cv hy lm ok' के रूप में कोडित किया गया है <br>(सभी कोड केवल दो अक्षरों के कोड हैं) <br>&lsquo;is&rsquo; के लिए संभावित कोड क्या है?<span style=\"color: white;\">2731</span>",
+    "section": "General intelligence and Reasoning Ability",
+    "solution": "1. पहले और तीसरे वाक्य में 'only' शब्द उभयनिष्ठ है, और कोड 'xz' उभयनिष्ठ है। तो 'only' = 'xz'। <br>2. तीसरे और चौथे वाक्य में 'do' शब्द उभयनिष्ठ है, और कोड 'ok' उभयनिष्ठ है। तो 'do' = 'ok'। <br>3. अब तीसरे वाक्य 'can do only is' के कोड 'ui ok xz lp' में से 'do' और 'only' के कोड हटाने पर हमारे पास 'is' और 'can' के लिए 'ui' और 'lp' कोड बचते हैं। <br>अतः 'is' का कोड 'ui' या 'lp' में से कोई भी एक हो सकता है।",
+    "topic": "कोडिंग-डिकोडिंग"
+  },
+  {
+    "ans": "4",
+    "level": "Medium",
+    "op_en": [
+      "C",
+      "D",
+      "A",
+      "M"
+    ],
+    "op_hi": [
+      "C",
+      "D",
+      "A",
+      "M"
+    ],
+    "q_en": "Seven boxes A, B, C, D, L, M and N are kept one over the other, but not necessarily in the same order. No box is kept below B. Only three boxes are kept between B and N. Only two boxes are kept between M and D. N is kept immediately below D. C is kept somewhere below L but somewhere above A.<br>Which box is kept at the third position from the bottom?<span style=\"color: white;\">5610</span>",
+    "q_hi": "सात बॉक्स A, B, C, D, L, M और N एक के ऊपर एक रखे गए हैं, लेकिन जरूरी नहीं कि इसी क्रम में हों। B के नीचे कोई बॉक्स नहीं रखा गया है। B और N के बीच केवल तीन बॉक्स रखे गए हैं। M और D के बीच केवल दो बॉक्स रखे गए हैं। N को D के ठीक नीचे रखा गया है। C को L के नीचे लेकिन A के ऊपर कहीं रखा गया है। <br>नीचे से तीसरे स्थान पर कौन सा बॉक्स रखा गया है?<span style=\"color: white;\">5610</span>",
+    "section": "General intelligence and Reasoning Ability",
+    "solution": "1. 'B के नीचे कोई बॉक्स नहीं है', तो B सबसे नीचे (स्थान 1) है। <br>2. 'B और N के बीच तीन बॉक्स हैं', तो N 5वें स्थान पर है। <br>3. 'N, D के ठीक नीचे है', तो D 6ठे स्थान पर है। <br>4. 'M और D के बीच दो बॉक्स हैं', तो M तीसरे स्थान पर है। <br>5. बचे हुए बॉक्स L, C, A के लिए स्थान 7, 4 और 2 खाली हैं। चूँकि L सबसे ऊपर, फिर C, फिर A है, तो L=7, C=4, A=2। <br>6. अंतिम क्रम (नीचे से ऊपर): B, A, M, C, N, D, L <br>अतः नीचे से तीसरे स्थान पर बॉक्स 'M' रखा गया है।",
+    "topic": "बॉक्स पहेली"
+  },
+  {
+    "ans": "4",
+    "level": "Hard",
+    "op_en": [
+      "86",
+      "91",
+      "88",
+      "82"
+    ],
+    "op_hi": [
+      "86",
+      "91",
+      "88",
+      "82"
+    ],
+    "q_en": "In a certain code language \"LICX\" is coded as 96 and \"DHYJ\" is coded as 94. What is the code for \"OEAT\" in the given language?",
+    "q_hi": "एक निश्चित कूट भाषा में \"LICX\" को 96 और \"DHYJ\" को 94 के रूप में कोडित किया गया है। दी गई भाषा में \"OEAT\" के लिए कोड क्या है?",
+    "section": "General intelligence and Reasoning Ability",
+    "solution": "यहाँ कोडिंग का तर्क अक्षरों के स्थानीय मानों (A=1, B=2...) का योग करके उसे 2 से गुणा करना है। <br>1. LICX: L(12) + I(9) + C(3) + X(24) = 48; और 48 &times; 2 = 96. <br>2. DHYJ: D(4) + H(8) + Y(25) + J(10) = 47; और 47 &times; 2 = 94. <br>3. OEAT: O(15) + E(5) + A(1) + T(20) = 41; और 41 &times; 2 = 82. <br>अतः OEAT का कोड 82 है।",
+    "topic": "कोडिंग-डिकोडिंग"
+  },
+  {
+    "ans": "4",
+    "level": "Medium",
+    "op_en": [
+      "Two",
+      "One",
+      "Three",
+      "None"
+    ],
+    "op_hi": [
+      "दो",
+      "एक",
+      "तीन",
+      "कोई नहीं"
+    ],
+    "q_en": "This question is based on the following words<br>(Left) BAT&nbsp; &nbsp;RED&nbsp; LID&nbsp; POT&nbsp; (Right)<br>If in each of the words, each letter is changed to the next letter in the English alphabetical order, how many words thus formed will have no vowel?<span style=\"color: white;\">5185</span>",
+    "q_hi": "यह प्रश्न निम्नलिखित शब्दों पर आधारित है <br>(बायाँ) BAT&nbsp; &nbsp;RED&nbsp; LID&nbsp; POT&nbsp; (दायाँ) <br>यदि प्रत्येक शब्द में, प्रत्येक अक्षर को अंग्रेजी वर्णमाला के अगले अक्षर में बदल दिया जाता है, तो इस प्रकार बने कितने शब्दों में कोई स्वर नहीं होगा?<span style=\"color: white;\">5185</span>",
+    "section": "General intelligence and Reasoning Ability",
+    "solution": "प्रत्येक शब्द के अक्षरों को अगले अक्षर से बदलते हैं: <br>1. BAT &rArr; CBU (यहाँ 'U' स्वर है) <br>2. RED &rArr; SFE (यहाँ 'E' स्वर है) <br>3. LID &rArr; MJE (यहाँ 'E' स्वर है) <br>4. POT &rArr; QPU (यहाँ 'U' स्वर है) <br>चूँकि सभी नए बने शब्दों में कम से कम एक स्वर मौजूद है, अतः ऐसा कोई भी शब्द नहीं है जिसमें स्वर न हो।",
+    "topic": "शब्द संक्रियाएँ"
+  },
+  {
+    "ans": "4",
+    "level": "Medium",
+    "op_en": [
+      "Both conclusions (I) and (II) are true",
+      "Neither Conclusion (I) nor Conclusion (II) is true",
+      "Only&nbsp; Conclusion (I) is true",
+      "Only Conclusion (II) is true"
+    ],
+    "op_hi": [
+      "निष्कर्ष (I) और (II) दोनों सत्य हैं",
+      "न तो निष्कर्ष (I) और न ही निष्कर्ष (II) सत्य है",
+      "केवल निष्कर्ष (I) सत्य है",
+      "केवल निष्कर्ष (II) सत्य है"
+    ],
+    "q_en": "Read the given statements and conclusions carefully. Assuming that the information given in the statements is true, even if it appears to be at variance with commonly known facts, decide which of the given conclusions logically follow(s) from the statements.<br>Statements:<br>All cameras are devices.<br>No device is a picture.<br>Some pictures are laptops.<br>Conclusions:<br>(I) Some laptops are devices.<br>(II) No picture is a camera.<span style=\"color: white;\">5692</span>",
+    "q_hi": "दिए गए कथनों और निष्कर्षों को ध्यान से पढ़ें। यह मानते हुए कि कथनों में दी गई जानकारी सत्य है, भले ही वह सामान्य रूप से ज्ञात तथ्यों से भिन्न प्रतीत होती हो, तय करें कि दिए गए निष्कर्षों में से कौन सा तार्किक रूप से कथनों का अनुसरण करता है। <br>कथन: <br>सभी कैमरे डिवाइस हैं। <br>कोई डिवाइस पिक्चर नहीं है। <br>कुछ पिक्चर लैपटॉप हैं। <br>निष्कर्ष: <br>(I) कुछ लैपटॉप डिवाइस हैं। <br>(II) कोई पिक्चर कैमरा नहीं है।<span style=\"color: white;\">5692</span>",
+    "section": "General intelligence and Reasoning Ability",
+    "solution": "1. कथन विश्लेषण: 'सभी कैमरे डिवाइस हैं' और 'कोई डिवाइस पिक्चर नहीं है' का मतलब है कि कैमरे और पिक्चर के बीच कोई संबंध नहीं हो सकता। <br>2. निष्कर्ष (II): 'कोई पिक्चर कैमरा नहीं है' - यह निश्चित रूप से सही है क्योंकि कैमरे, डिवाइस के अंदर हैं और डिवाइस का पिक्चर से कोई संबंध नहीं है। <br>3. निष्कर्ष (I): 'कुछ लैपटॉप डिवाइस हैं' - कथन के अनुसार कुछ पिक्चर लैपटॉप हैं, लेकिन पिक्चर का डिवाइस से कोई संबंध नहीं है, इसलिए लैपटॉप का डिवाइस होना अनिश्चित है। <br>अतः केवल निष्कर्ष (II) सत्य है।",
+    "topic": "न्याय वाक्य"
+  },
+  {
+    "ans": "3",
+    "level": "Hard",
+    "op_en": [
+      "Wife&rsquo;s mother&rsquo;s mother",
+      "Wife&rsquo;s brother",
+      "Wife&rsquo;s father&rsquo;s mother",
+      "Brother&rsquo;s wife&rsquo;s father"
+    ],
+    "op_hi": [
+      "पत्नी की माता की माता",
+      "पत्नी का भाई",
+      "पत्नी के पिता की माता",
+      "भाई की पत्नी का पिता"
+    ],
+    "q_en": "In a certain code language, <br>&lsquo;A + B&rsquo; means &lsquo;A is the mother of B&rsquo;,<br>&lsquo;A &ndash; B&rsquo; means &lsquo;A is the brother of B&rsquo;, <br>&lsquo;A &times; B&rsquo; means &lsquo;A is the wife of B&rsquo; and<br>&lsquo;A &divide; B&rsquo; means &lsquo; A is the father of B&rsquo;. <br>How is M related to K if &lsquo;M + N &divide; L &ndash; J &times; K&rsquo;?<span style=\"color: white;\">5615</span>",
+    "q_hi": "एक निश्चित कूट भाषा में, <br>&lsquo;A + B&rsquo; का अर्थ है &lsquo;A, B की माता है&rsquo;, <br>&lsquo;A &ndash; B&rsquo; का अर्थ है &lsquo;A, B का भाई है&rsquo;, <br>&lsquo;A &times; B&rsquo; का अर्थ है &lsquo;A, B की पत्नी है&rsquo; और <br>&lsquo;A &divide; B&rsquo; का अर्थ है &lsquo;A, B का पिता है&rsquo;। <br>M, K से किस प्रकार संबंधित है यदि &lsquo;M + N &divide; L &ndash; J &times; K&rsquo; है?<span style=\"color: white;\">5615</span>",
+    "section": "General intelligence and Reasoning Ability",
+    "solution": "दिए गए व्यंजक 'M + N &divide; L &ndash; J &times; K' का विश्लेषण करें: <br>1. J &times; K: J, K की पत्नी है। <br>2. L &ndash; J: L, J का भाई है (यानी K का साला)। <br>3. N &divide; L: N, L का पिता है (यानी J का भी पिता और K का ससुर)। <br>4. M + N: M, N की माता है। <br>5. निष्कर्ष: M, K की पत्नी (J) के पिता (N) की माता है। <br>अतः M, K की 'पत्नी के पिता की माता' है।",
+    "topic": "कोडेड रक्त संबंध"
+  },
+  {
+    "ans": "2",
+    "level": "Easy",
+    "op_en": [
+      "@",
+      "&amp;",
+      "C",
+      "Y"
+    ],
+    "op_hi": [
+      "@",
+      "&amp;",
+      "C",
+      "Y"
+    ],
+    "q_en": "Refer to the following letter, number, symbol series and answer the question<br>(Left)D @ 3 A G&nbsp; &amp; T %&nbsp; 4 C&nbsp; 7 @ &amp; 2&nbsp; Y # 8&nbsp; 5 E * U(Right)<br>If all the numbers are dropped from the series, which of the following will be sixth from the right?<span style=\"color: white;\">5173</span>",
+    "q_hi": "निम्नलिखित अक्षर, संख्या और प्रतीक श्रृंखला को देखें और प्रश्न का उत्तर दें <br>(बायाँ) D @ 3 A G &amp; T % 4 C 7 @ &amp; 2 Y # 8 5 E * U (दायाँ) <br>यदि श्रृंखला से सभी संख्याओं को हटा दिया जाता है, तो निम्नलिखित में से कौन दाएँ से छठा होगा?<span style=\"color: white;\">5173</span>",
+    "section": "General intelligence and Reasoning Ability",
+    "solution": "1. दी गई श्रृंखला: D @ 3 A G &amp; T % 4 C 7 @ &amp; 2 Y # 8 5 E * U <br>2. संख्याओं (3, 4, 7, 2, 8, 5) को हटाने के बाद नई श्रृंखला: D @ A G &amp; T % C @ &amp; Y # E * U <br>3. अब दाएँ से छठा तत्व गिनें: <br>1: U, 2: *, 3: E, 4: #, 5: Y, 6: &amp; <br>अतः दाएँ से छठा तत्व '&amp;' है।",
+    "topic": "अक्षर-संख्या श्रृंखला"
+  },
+  {
+    "ans": "2",
+    "level": "Easy",
+    "op_en": [
+      "qx",
+      "ec",
+      "pf",
+      "la"
+    ],
+    "op_hi": [
+      "qx",
+      "ec",
+      "pf",
+      "la"
+    ],
+    "q_en": "In a certain code language, &lsquo;tigers are dangerous&rsquo; is written as &lsquo;pf ec tn&rsquo; and &lsquo;shark is dangerous&rsquo; is written as &lsquo;ec la qx&rsquo;. What is the code for &lsquo;dangerous&rsquo; in that language?<span style=\"color: white;\">5618</span>",
+    "q_hi": "एक निश्चित कूट भाषा में, &lsquo;tigers are dangerous&rsquo; को &lsquo;pf ec tn&rsquo; और &lsquo;shark is dangerous&rsquo; को &lsquo;ec la qx&rsquo; लिखा जाता है। उस भाषा में &lsquo;dangerous&rsquo; के लिए कोड क्या है?<span style=\"color: white;\">5618</span>",
+    "section": "General intelligence and Reasoning Ability",
+    "solution": "1. 'tigers are dangerous' = 'pf ec tn' <br>2. 'shark is dangerous' = 'ec la qx' <br>3. दोनों वाक्यों में केवल एक शब्द 'dangerous' उभयनिष्ठ (common) है। <br>4. इसी प्रकार, दोनों के कोड में केवल 'ec' उभयनिष्ठ है। <br>अतः 'dangerous' का कोड 'ec' होगा।",
+    "topic": "कोडिंग-डिकोडिंग"
+  },
+  {
+    "ans": "3",
+    "level": "Medium",
+    "op_en": [
+      "Only conclusion II is true.",
+      "Both conclusions I and II are true.",
+      "Neither conclusion I nor II is true.",
+      "Only conclusion I is true."
+    ],
+    "op_hi": [
+      "केवल निष्कर्ष II सत्य है।",
+      "निष्कर्ष I और II दोनों सत्य हैं।",
+      "न तो निष्कर्ष I और न ही II सत्य है।",
+      "केवल निष्कर्ष I सत्य है।"
+    ],
+    "q_en": "A statement is given followed by two conclusions. Identify which of the given conclusions is/are true based on the given statements.<br><br><strong>Statement:</strong> <br>R &gt; N = P &le; T &gt; G = Q<br><strong>Conclusions:</strong><br>I. Q &gt; P<br>II. T &gt; N",
+    "q_hi": "एक कथन और उसके बाद दो निष्कर्ष दिए गए हैं। दिए गए कथनों के आधार पर पहचानें कि दिए गए निष्कर्षों में से कौन सा/से सत्य है/हैं। <br><br><strong>कथन:</strong> <br>R &gt; N = P &le; T &gt; G = Q <br><strong>निष्कर्ष:</strong> <br>I. Q &gt; P <br>II. T &gt; N",
+    "section": "General intelligence and Reasoning Ability",
+    "solution": "कथन: R &gt; N = P &le; T &gt; G = Q <br>निष्कर्ष I के लिए: P और Q के बीच संबंध देखें। P &le; T &gt; G = Q यहाँ चिन्ह विपरीत दिशा में हैं (&le; और &gt;), इसलिए कोई निश्चित संबंध नहीं निकाला जा सकता। <br>निष्कर्ष II के लिए: T और N के बीच संबंध देखें। N = P &le; T &rArr; N &le; T. इसका मतलब है T या तो N से बड़ा है या बराबर। चूँकि निष्कर्ष T &gt; N निश्चित रूप से सत्य नहीं है, इसलिए यह गलत है। <br>अतः न तो निष्कर्ष I और न ही II सत्य है।",
+    "topic": "असमानता"
+  },
+  {
+    "ans": "4",
+    "level": "Hard",
+    "op_en": [
+      "3",
+      "1",
+      "4",
+      "2"
+    ],
+    "op_hi": [
+      "3",
+      "1",
+      "4",
+      "2"
+    ],
+    "q_en": "P, Q, R, S, T, U and V are sitting around a circular table facing the centre. U is sitting second to the left of V. R is sitting fourth to right of U. S and P are immediate neighbours. T is sitting second to the right of P. How many people are sitting between P and V when counted from the right of P?",
+    "q_hi": "P, Q, R, S, T, U और V एक वृत्ताकार मेज के चारों ओर केंद्र की ओर मुख करके बैठे हैं। U, V के बाएँ से दूसरे स्थान पर बैठा है। R, U के दाएँ से चौथे स्थान पर बैठा है। S और P निकटतम पड़ोसी हैं। T, P के दाएँ से दूसरे स्थान पर बैठा है। P के दाएँ से गिनने पर P और V के बीच कितने लोग बैठे हैं?",
+    "section": "General intelligence and Reasoning Ability",
+    "solution": "1. मेज पर 7 स्थान हैं। V को निश्चित स्थान पर रखने पर, उसके बाएँ (घड़ी की दिशा में) दूसरे स्थान पर U होगा। <br>2. U के दाएँ (घड़ी की विपरीत दिशा में) चौथे स्थान पर R बैठा है। <br>3. P और S पड़ोसी हैं और T, P के दाएँ दूसरे स्थान पर है। इस शर्त को पूरा करने वाली एकमात्र व्यवस्था बनाने पर P और V के बीच की दूरी तय होती है। <br>4. जब हम P के दाएँ से गिनते हैं, तो P और V के बीच 4 व्यक्ति बैठते हैं। <br>अतः सही उत्तर 4 है।",
+    "topic": "वृत्ताकार व्यवस्था"
+  }
+]
