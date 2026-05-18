@@ -1,0 +1,422 @@
+[
+  {
+    "ans": "2",
+    "level": "Medium",
+    "op_en": [
+      "No article required",
+      "the",
+      "an",
+      "a"
+    ],
+    "op_hi": [
+      "No article required",
+      "the",
+      "an",
+      "a"
+    ],
+    "q_en": "Select the most appropriate article to fill in the blank. If no article is required, select ‘No article required’.<br><br>Rashmi was looking for _____ book she had borrowed from the library.",
+    "q_hi": "Select the most appropriate article to fill in the blank. If no article is required, select ‘No article required’.<br><br>Rashmi was looking for _____ book she had borrowed from the library.",
+    "section": "Test of English Language",
+    "solution": "Correct Answer: Option 2<br>Articles:<br>&bull; The: Used for a specific or particular noun.<br>&bull; A/An: Used for non-specific or general nouns.<br><br>🇮🇳 <b>हिंदी में:</b><br>सही उत्तर: the (निश्चित/विशिष्ट)<br>&bull; रश्मि उस विशेष पुस्तक की तलाश कर रही थी जिसे उसने लाइब्रेरी से उधार लिया था।",
+    "topic": "Articles"
+  },
+  {
+    "ans": "4",
+    "level": "Medium",
+    "op_en": [
+      "A&ndash;B&ndash;C&ndash;E&ndash;D",
+      "E&ndash;B&ndash;C&ndash;A&ndash;D",
+      "C&ndash;B&ndash;E&ndash;A&ndash;D",
+      "B&ndash;C&ndash;E&ndash;A&ndash;D"
+    ],
+    "op_hi": [
+      "A&ndash;B&ndash;C&ndash;E&ndash;D",
+      "E&ndash;B&ndash;C&ndash;A&ndash;D",
+      "C&ndash;B&ndash;E&ndash;A&ndash;D",
+      "B&ndash;C&ndash;E&ndash;A&ndash;D"
+    ],
+    "q_en": "Sentences of a paragraph are given below in jumbled order. Arrange the sentences in the correct order to form a meaningful and coherent paragraph.<br><br>A. This strengthens bonds of trust and friendship among individuals.<br>B. Festivals bring people together, cutting across differences of age and background.<br>C. They create an atmosphere of joy, sharing and collective celebration.<br>D. In this way, festivals play a vital role in promoting unity and harmony in society.<br>E. Community members exchange gifts, prepare food and participate in cultural programmes.",
+    "q_hi": "Sentences of a paragraph are given below in jumbled order. Arrange the sentences in the correct order to form a meaningful and coherent paragraph.<br><br>A. This strengthens bonds of trust and friendship among individuals.<br>B. Festivals bring people together, cutting across differences of age and background.<br>C. They create an atmosphere of joy, sharing and collective celebration.<br>D. In this way, festivals play a vital role in promoting unity and harmony in society.<br>E. Community members exchange gifts, prepare food and participate in cultural programmes.",
+    "section": "Test of English Language",
+    "solution": "Correct Answer: Option 4<br>Logic:<br>&bull; B introduces the theme (festivals).<br>&bull; C describes the atmosphere they create.<br>&bull; E details specific activities.<br>&bull; A shows the result of those activities.<br>&bull; D concludes the paragraph.<br><br>🇮🇳 <b>हिंदी में:</b><br>सही उत्तर: B&ndash;C&ndash;E&ndash;A&ndash;D<br>&bull; त्योहारों के महत्व से शुरू होकर एकता के निष्कर्ष तक का सही तार्किक क्रम यही है।",
+    "topic": "Parajumbles"
+  },
+  {
+    "ans": "1",
+    "level": "Medium",
+    "op_en": [
+      "an",
+      "a",
+      "the",
+      "No article required"
+    ],
+    "op_hi": [
+      "an",
+      "a",
+      "the",
+      "No article required"
+    ],
+    "q_en": "Select the most appropriate article to fill in the blank. If no article is needed, select 'No article required'.<br><br>He is _____ honest person and always speaks the truth.",
+    "q_hi": "Select the most appropriate article to fill in the blank. If no article is needed, select 'No article required'.<br><br>He is _____ honest person and always speaks the truth.",
+    "section": "Test of English Language",
+    "solution": "Correct Answer: Option 1<br>Article Rule:<br>&bull; 'An' is used before words starting with a vowel sound.<br>&bull; 'Honest' starts with a silent 'h', so it has a vowel sound (o).<br><br>🇮🇳 <b>हिंदी में:</b><br>सही उत्तर: an (स्वर ध्वनि के लिए)<br>&bull; 'Honest' का उच्चारण 'ओ' से शुरू होता है, इसलिए 'an' का प्रयोग होगा।",
+    "topic": "Articles"
+  },
+  {
+    "ans": "1",
+    "level": "Medium",
+    "op_en": [
+      "B, C, A, D",
+      "C, D, A, B",
+      "D, C, B, A",
+      "A, B, C, D"
+    ],
+    "op_hi": [
+      "B, C, A, D",
+      "C, D, A, B",
+      "D, C, B, A",
+      "A, B, C, D"
+    ],
+    "q_en": "Sentences of a paragraph are given below. While the first sentence (1) is in the correct order, the sentences below it are jumbled up. Arrange the sentences in the correct order to form a meaningful and coherent paragraph.<br><br>1. Innovation is the cornerstone of long-term business success.<br>A. While many companies adapt, companies that fail to evolve quickly fall behind.<br>B. It allows businesses to adapt to changing consumer demands and market trends.<br>C. So, many leading firms invest heavily in research and development to stay ahead.<br>D. As a result, innovation is not just encouraged but considered a survival strategy.",
+    "q_hi": "Sentences of a paragraph are given below. While the first sentence (1) is in the correct order, the sentences below it are jumbled up. Arrange the sentences in the correct order to form a meaningful and coherent paragraph.<br><br>1. Innovation is the cornerstone of long-term business success.<br>A. While many companies adapt, companies that fail to evolve quickly fall behind.<br>B. It allows businesses to adapt to changing consumer demands and market trends.<br>C. So, many leading firms invest heavily in research and development to stay ahead.<br>D. As a result, innovation is not just encouraged but considered a survival strategy.",
+    "section": "Test of English Language",
+    "solution": "Correct Answer: Option 1<br>Sentence Ordering:<br>&bull; 1 (Intro) &rarr; B (Purpose of innovation) &rarr; C (Action taken by firms) &rarr; A (Comparison/Risk) &rarr; D (Final result).<br><br>🇮🇳 <b>हिंदी में:</b><br>सही उत्तर: B, C, A, D<br>&bull; नवाचार के महत्व से शुरू होकर इसके व्यावसायिक रणनीति बनने तक का सही क्रम।",
+    "topic": "Parajumbles"
+  },
+  {
+    "ans": "3",
+    "level": "Medium",
+    "op_en": [
+      "Confusing",
+      "Appealing",
+      "Awful",
+      "Awesome"
+    ],
+    "op_hi": [
+      "Confusing",
+      "Appealing",
+      "Awful",
+      "Awesome"
+    ],
+    "q_en": "Select the most appropriate synonym of the underlined word in the given sentence.<br><br>The constant buzzing of the fly in the quiet room was becoming <u>obnoxious</u>.",
+    "q_hi": "Select the most appropriate synonym of the underlined word in the given sentence.<br><br>The constant buzzing of the fly in the quiet room was becoming <u>obnoxious</u>.",
+    "section": "Test of English Language",
+    "solution": "Correct Answer: Option 3<br>Vocabulary:<br>&bull; Obnoxious: Extremely unpleasant or annoying.<br>&bull; Awful: Very bad or unpleasant.<br>&bull; Appealing: Attractive.<br><br>🇮🇳 <b>हिंदी में:</b><br>सही उत्तर: Awful (अत्यंत अप्रिय)<br>&bull; 'Obnoxious' का अर्थ है 'अरुचिकर' या 'घिनौना', जिसका सही पर्यायवाची 'Awful' है।",
+    "topic": "Synonyms"
+  },
+  {
+    "ans": "3",
+    "level": "Medium",
+    "op_en": [
+      "fabulist",
+      "anglist",
+      "somnambulist",
+      "amoralist"
+    ],
+    "op_hi": [
+      "fabulist",
+      "anglist",
+      "somnambulist",
+      "amoralist"
+    ],
+    "q_en": "Select the option that can be used as a one-word substitute for the given group of words.<br><br>A person who walks in their sleep",
+    "q_hi": "Select the option that can be used as a one-word substitute for the given group of words.<br><br>A person who walks in their sleep",
+    "section": "Test of English Language",
+    "solution": "Correct Answer: Option 3<br>Terminology:<br>&bull; Somnambulist: A sleepwalker.<br>&bull; Fabulist: A person who invents fables/lies.<br>&bull; Amoralist: Someone who ignores morality.<br><br>🇮🇳 <b>हिंदी में:</b><br>सही उत्तर: somnambulist (नींद में चलने वाला)<br>&bull; जो व्यक्ति नींद में चलता है, उसे 'somnambulist' कहा जाता है।",
+    "topic": "One Word Substitution"
+  },
+  {
+    "ans": "1",
+    "level": "Medium",
+    "op_en": [
+      "Generous",
+      "Boastful",
+      "Mysterious",
+      "Cautious"
+    ],
+    "op_hi": [
+      "Generous",
+      "Boastful",
+      "Mysterious",
+      "Cautious"
+    ],
+    "q_en": "Select the most appropriate synonym of the given word.<br><br>Magnanimous",
+    "q_hi": "Select the most appropriate synonym of the given word.<br><br>Magnanimous",
+    "section": "Test of English Language",
+    "solution": "Correct Answer: Option 1<br>Vocabulary:<br>&bull; Magnanimous: Very generous or forgiving.<br>&bull; Generous: Showing a readiness to give more.<br>&bull; Cautious: Careful.<br><br>🇮🇳 <b>हिंदी में:</b><br>सही उत्तर: Generous (उदार)<br>&bull; 'Magnanimous' का अर्थ है 'बड़े दिल वाला' या 'उदार', इसलिए 'Generous' सही है।",
+    "topic": "Synonyms"
+  },
+  {
+    "ans": "3",
+    "level": "Medium",
+    "op_en": [
+      "Permanent and lasting",
+      "Weak and fragile",
+      "Brief and fleeting",
+      "Rare and valuable"
+    ],
+    "op_hi": [
+      "Permanent and lasting",
+      "Weak and fragile",
+      "Brief and fleeting",
+      "Rare and valuable"
+    ],
+    "q_en": "Select the most appropriate meaning of the given word.   <br><br>Ephemeral",
+    "q_hi": "Select the most appropriate meaning of the given word.   <br><br>Ephemeral",
+    "section": "Test of English Language",
+    "solution": "Correct Answer: Option 3<br>Vocabulary:<br>&bull; Ephemeral: Lasting for a very short time.<br>&bull; Fleeting: Lasting for a very short time.<br>&bull; Permanent: Lasting forever.<br><br>🇮🇳 <b>हिंदी में:</b><br>सही उत्तर: Brief and fleeting (क्षणिक)<br>&bull; 'Ephemeral' का अर्थ होता है जो बहुत कम समय के लिए रहे (अल्पकालिक)।",
+    "topic": "Vocabulary"
+  },
+  {
+    "ans": "1",
+    "level": "Medium",
+    "op_en": [
+      "Fake",
+      "Real",
+      "Affiliate",
+      "Creative"
+    ],
+    "op_hi": [
+      "Fake",
+      "Real",
+      "Affiliate",
+      "Creative"
+    ],
+    "q_en": "Select the most appropriate ANTONYM of the given word.<br><br>Authentic",
+    "q_hi": "Select the most appropriate ANTONYM of the given word.<br><br>Authentic",
+    "section": "Test of English Language",
+    "solution": "Correct Answer: Option 1<br>Vocabulary:<br>&bull; Authentic: Genuine or real.<br>&bull; Fake: Not genuine; counterfeit.<br>&bull; Creative: Imaginative.<br><br>🇮🇳 <b>हिंदी में:</b><br>सही उत्तर: Fake (नकली)<br>&bull; 'Authentic' का अर्थ 'असली' होता है, जिसका विलोम 'Fake' (नकली) होगा।",
+    "topic": "Antonyms"
+  },
+  {
+    "ans": "4",
+    "level": "Medium",
+    "op_en": [
+      "carelessly",
+      "sleepily",
+      "vaguely",
+      "patiently"
+    ],
+    "op_hi": [
+      "carelessly",
+      "sleepily",
+      "vaguely",
+      "patiently"
+    ],
+    "q_en": "Select the most appropriate adverb to fill in the blank.<br><br>The teacher explained the topic _________ to help the students understand.",
+    "q_hi": "Select the most appropriate adverb to fill in the blank.<br><br>The teacher explained the topic _________ to help the students understand.",
+    "section": "Test of English Language",
+    "solution": "Correct Answer: Option 4<br>Context:<br>&bull; Patiently: In a way that shows tolerance or calm.<br>&bull; Carelessly: Without enough attention.<br>&bull; Vaguely: In an uncertain way.<br><br>🇮🇳 <b>हिंदी में:</b><br>सही उत्तर: patiently (धैर्यपूर्वक)<br>&bull; छात्रों को समझाने के लिए शिक्षक ने विषय को 'धैर्यपूर्वक' समझाया।",
+    "topic": "Adverbs"
+  },
+  {
+    "ans": "3",
+    "level": "Medium",
+    "op_en": [
+      "An",
+      "A",
+      "The",
+      "No article required"
+    ],
+    "op_hi": [
+      "An",
+      "A",
+      "The",
+      "No article required"
+    ],
+    "q_en": "Select the most appropriate article to fill in the blank. If no article is required, select ‘No article required’.<br><br>_____ Sun is the main source of energy for life on Earth.",
+    "q_hi": "Select the most appropriate article to fill in the blank. If no article is required, select ‘No article required’.<br><br>_____ Sun is the main source of energy for life on Earth.",
+    "section": "Test of English Language",
+    "solution": "Correct Answer: Option 3<br>Article Rule:<br>&bull; The definite article 'the' is used before unique celestial bodies like the Sun, Moon, and Earth.<br><br>🇮🇳 <b>हिंदी में:</b><br>सही उत्तर: The (अनन्य खगोलीय पिंड)<br>&bull; सूर्य जैसे अद्वितीय पिंडों के नाम से पहले हमेशा 'The' का प्रयोग होता है।",
+    "topic": "Articles"
+  },
+  {
+    "ans": "4",
+    "level": "Medium",
+    "op_en": [
+      "Moreover",
+      "Whether",
+      "However",
+      "Whenever"
+    ],
+    "op_hi": [
+      "Moreover",
+      "Whether",
+      "However",
+      "Whenever"
+    ],
+    "q_en": "Select the most appropriate option to fill in the blank. <br><br>_______ you make the choice to step away from the rush of life and decide to work on yourself, it  is going to take some effort.",
+    "q_hi": "Select the most appropriate option to fill in the blank. <br><br>_______ you make the choice to step away from the rush of life and decide to work on yourself, it  is going to take some effort.",
+    "section": "Test of English Language",
+    "solution": "Correct Answer: Option 4<br>Usage:<br>&bull; Whenever: At whatever time; every time that.<br>&bull; Moreover: In addition.<br>&bull; However: Regardless of how.<br><br>🇮🇳 <b>हिंदी में:</b><br>सही उत्तर: Whenever (जब कभी)<br>&bull; 'जब कभी' आप जीवन की भागदौड़ से दूर होने का निर्णय लेंगे, इसमें प्रयास लगेगा।",
+    "topic": "Conjunctions"
+  },
+  {
+    "ans": "2",
+    "level": "Medium",
+    "op_en": [
+      "ACBD",
+      "BCDA",
+      "BACD",
+      "CBAD"
+    ],
+    "op_hi": [
+      "ACBD",
+      "BCDA",
+      "BACD",
+      "CBAD"
+    ],
+    "q_en": "Parts of a sentence are given below in jumbled order. Arrange the parts in the correct order to form a meaningful sentence.<br><br>(A) in times of crisis<br>(B) true leadership<br>(C) emerges<br>(D) with clarity and purpose",
+    "q_hi": "Parts of a sentence are given below in jumbled order. Arrange the parts in the correct order to form a meaningful sentence.<br><br>(A) in times of crisis<br>(B) true leadership<br>(C) emerges<br>(D) with clarity and purpose",
+    "section": "Test of English Language",
+    "solution": "Correct Answer: Option 2<br>Structure:<br>&bull; Subject (B) + Verb (C) + Modifier (D) + Time phrase (A).<br>&bull; Full Sentence: True leadership emerges with clarity and purpose in times of crisis.<br><br>🇮🇳 <b>हिंदी में:</b><br>सही उत्तर: BCDA<br>&bull; सही वाक्य संरचना: कर्ता + क्रिया + विशेषता + समय।",
+    "topic": "Sentence Rearrangement"
+  },
+  {
+    "ans": "3",
+    "level": "Medium",
+    "op_en": [
+      "higher",
+      "most high",
+      "highest",
+      "No improvement required"
+    ],
+    "op_hi": [
+      "higher",
+      "most high",
+      "highest",
+      "No improvement required"
+    ],
+    "q_en": "Select the option that will improve the underlined part of the given sentence. In case no improvement is needed, select 'No improvement required'.<br><br>The Himalayas are one of the <u>high</u> mountain ranges in the world.",
+    "q_hi": "Select the option that will improve the underlined part of the given sentence. In case no improvement is needed, select 'No improvement required'.<br><br>The Himalayas are one of the <u>high</u> mountain ranges in the world.",
+    "section": "Test of English Language",
+    "solution": "Correct Answer: Option 3<br>Grammar Rule:<br>&bull; 'One of the' is followed by a Superlative Degree adjective.<br>&bull; Superlative of 'high' is 'highest'.<br><br>🇮🇳 <b>हिंदी में:</b><br>सही उत्तर: highest (उत्तम अवस्था)<br>&bull; 'One of the' के बाद हमेशा 'Superlative Degree' (highest) का प्रयोग होता है।",
+    "topic": "Adjectives"
+  },
+  {
+    "ans": "4",
+    "level": "Medium",
+    "op_en": [
+      "Realistic",
+      "Happy",
+      "Oblivious",
+      "Pessimistic"
+    ],
+    "op_hi": [
+      "Realistic",
+      "Happy",
+      "Oblivious",
+      "Pessimistic"
+    ],
+    "q_en": "Select the most appropriate ANTONYM of the underlined word in the given sentence.<br><br>Although he is usually <u>optimistic</u>, today he looked rather gloomy.",
+    "q_hi": "Select the most appropriate ANTONYM of the underlined word in the given sentence.<br><br>Although he is usually <u>optimistic</u>, today he looked rather gloomy.",
+    "section": "Test of English Language",
+    "solution": "Correct Answer: Option 4<br>Vocabulary:<br>&bull; Optimistic: Hopeful and confident about the future.<br>&bull; Pessimistic: Tending to see the worst aspect of things.<br>&bull; Gloomy: Dark or poorly lit; feeling distressed.<br><br>🇮🇳 <b>हिंदी में:</b><br>सही उत्तर: Pessimistic (निराशावादी)<br>&bull; 'Optimistic' (आशावादी) का विपरीत 'Pessimistic' (निराशावादी) होता है।",
+    "topic": "Antonyms"
+  },
+  {
+    "ans": "2",
+    "level": "Medium",
+    "op_en": [
+      "as",
+      "but",
+      "besides",
+      "both"
+    ],
+    "op_hi": [
+      "as",
+      "but",
+      "besides",
+      "both"
+    ],
+    "q_en": "Select the most appropriate option to fill in the blank.<br><br>The new manager of the company is strict _______ very gentle.",
+    "q_hi": "Select the most appropriate option to fill in the blank.<br><br>The new manager of the company is strict _______ very gentle.",
+    "section": "Test of English Language",
+    "solution": "Correct Answer: Option 2<br>Conjunction Usage:<br>&bull; But: Used to introduce a phrase or clause contrasting with what has already been mentioned.<br>&bull; Both: Used for two things together.<br><br>🇮🇳 <b>हिंदी में:</b><br>सही उत्तर: but (लेकिन)<br>&bull; मैनेजर सख्त है 'लेकिन' बहुत कोमल भी है, यहाँ विरोधाभास है।",
+    "topic": "Conjunctions"
+  },
+  {
+    "ans": "3",
+    "level": "Medium",
+    "op_en": [
+      "O P Q R S",
+      "O S R P Q",
+      "O R S Q P",
+      "O Q P R S"
+    ],
+    "op_hi": [
+      "O P Q R S",
+      "O S R P Q",
+      "O R S Q P",
+      "O Q P R S"
+    ],
+    "q_en": "Parts of a sentence are given below. While the first part is in the correct place, the remaining parts (labelled P, Q, R and S) are jumbled up. Arrange the parts in the correct order to form a meaningful and coherent sentence.<br><br>(O) The Indian economy<br>(P) especially in the service sector<br>(Q) contributing significantly to the GDP<br>(R) has shown strong growth<br>(S) over the past decade",
+    "q_hi": "Parts of a sentence are given below. While the first part is in the correct place, the remaining parts (labelled P, Q, R and S) are jumbled up. Arrange the parts in the correct order to form a meaningful and coherent sentence.<br><br>(O) The Indian economy<br>(P) especially in the service sector<br>(Q) contributing significantly to the GDP<br>(R) has shown strong growth<br>(S) over the past decade",
+    "section": "Test of English Language",
+    "solution": "Correct Answer: Option 3<br>Logical Flow:<br>&bull; O (Subject) &rarr; R (Action/Growth) &rarr; S (Time frame) &rarr; Q (Impact) &rarr; P (Specific area).<br><br>🇮🇳 <b>हिंदी में:</b><br>सही उत्तर: O R S Q P<br>&bull; भारतीय अर्थव्यवस्था ने पिछले दशक में मजबूत वृद्धि दिखाई है, जो विशेष रूप से सेवा क्षेत्र में GDP में महत्वपूर्ण योगदान दे रही है।",
+    "topic": "Sentence Rearrangement"
+  },
+  {
+    "ans": "3",
+    "level": "Medium",
+    "op_en": [
+      "B, D, A, C",
+      "D, C, B, A",
+      "C, B, A, D",
+      "A, B, C, D"
+    ],
+    "op_hi": [
+      "B, D, A, C",
+      "D, C, B, A",
+      "C, B, A, D",
+      "A, B, C, D"
+    ],
+    "q_en": "Sentences of a paragraph are given below. While the first sentence (S1) is in the correct order, the sentences below it are jumbled up. Arrange the sentences in the correct order to form a meaningful and coherent paragraph.<br><br>S1. Globalisation has reshaped economic landscapes worldwide in unprecedented ways.<br>A. Despite these challenges, globalisation has lifted millions out of poverty through increased opportunities.<br>B. Although critics argue that it exacerbates income inequality and exploits labour in developing countries.<br>C. It has facilitated international trade, allowing goods and services to flow more freely.<br>D. Now, many governments and organisations are working to create policies that balance growth with fairness.",
+    "q_hi": "Sentences of a paragraph are given below. While the first sentence (S1) is in the correct order, the sentences below it are jumbled up. Arrange the sentences in the correct order to form a meaningful and coherent paragraph.<br><br>S1. Globalisation has reshaped economic landscapes worldwide in unprecedented ways.<br>A. Despite these challenges, globalisation has lifted millions out of poverty through increased opportunities.<br>B. Although critics argue that it exacerbates income inequality and exploits labour in developing countries.<br>C. It has facilitated international trade, allowing goods and services to flow more freely.<br>D. Now, many governments and organisations are working to create policies that balance growth with fairness.",
+    "section": "Test of English Language",
+    "solution": "Correct Answer: Option 3<br>Logical Progression:<br>&bull; S1 (Intro) &rarr; C (Direct impact) &rarr; B (Criticism/Problem) &rarr; A (Counter-point/Benefit) &rarr; D (Future solution).<br><br>🇮🇳 <b>हिंदी में:</b><br>सही उत्तर: C, B, A, D<br>&bull; वैश्वीकरण के प्रभाव, उसकी आलोचना, लाभ और भविष्य की नीतियों का तार्किक क्रम।",
+    "topic": "Parajumbles"
+  },
+  {
+    "ans": "3",
+    "level": "Medium",
+    "op_en": [
+      "CBDA",
+      "DCBA",
+      "ADCB",
+      "BDCA"
+    ],
+    "op_hi": [
+      "CBDA",
+      "DCBA",
+      "ADCB",
+      "BDCA"
+    ],
+    "q_en": "Sentences of a paragraph are given below in jumbled order. Arrange the sentences in the correct order to form a meaningful and coherent paragraph.<br><br>A. For weeks, he had mapped the stars, measuring time in phases of the moon and fading constellations.<br>B. It was not just survival anymore &mdash; it had become a study of existence itself.<br>C. What began as simple curiosity turned into a disciplined practice, almost like a ritual.<br>D. In the absence of clocks and calendars, the sky became both compass and calendar.",
+    "q_hi": "Sentences of a paragraph are given below in jumbled order. Arrange the sentences in the correct order to form a meaningful and coherent paragraph.<br><br>A. For weeks, he had mapped the stars, measuring time in phases of the moon and fading constellations.<br>B. It was not just survival anymore &mdash; it had become a study of existence itself.<br>C. What began as simple curiosity turned into a disciplined practice, almost like a ritual.<br>D. In the absence of clocks and calendars, the sky became both compass and calendar.",
+    "section": "Test of English Language",
+    "solution": "Correct Answer: Option 3<br>Logical Linkage:<br>&bull; A (Specific action) &rarr; D (Reason/Context for A) &rarr; C (Evolution of the habit) &rarr; B (Final deep meaning).<br><br>🇮🇳 <b>हिंदी में:</b><br>सही उत्तर: ADCB<br>&bull; तारों की मैपिंग से शुरू होकर अस्तित्व के अध्ययन तक की यात्रा का वर्णन।",
+    "topic": "Parajumbles"
+  },
+  {
+    "ans": "2",
+    "level": "Medium",
+    "op_en": [
+      "an",
+      "the",
+      "a",
+      "No article required"
+    ],
+    "op_hi": [
+      "an",
+      "the",
+      "a",
+      "No article required"
+    ],
+    "q_en": "Select the most appropriate article to fill in the blank. If no article is required, select ‘No article required’.<br><br>Yash sailed across _____ Atlantic Ocean to reach Europe.",
+    "q_hi": "Select the most appropriate article to fill in the blank. If no article is required, select ‘No article required’.<br><br>Yash sailed across _____ Atlantic Ocean to reach Europe.",
+    "section": "Test of English Language",
+    "solution": "Correct Answer: Option 2<br>Grammar Rule:<br>&bull; Always use the definite article 'the' before the names of oceans (Atlantic, Pacific, etc.).<br><br>🇮🇳 <b>हिंदी में:</b><br>सही उत्तर: the (महासागरों के नाम के लिए)<br>&bull; 'Atlantic Ocean' एक महासागर का नाम है, इसलिए इससे पहले 'the' लगेगा।",
+    "topic": "Articles"
+  }
+]
