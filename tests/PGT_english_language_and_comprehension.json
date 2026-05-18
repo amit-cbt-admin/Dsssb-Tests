@@ -1,0 +1,422 @@
+[
+  {
+    "ans": "4",
+    "level": "Hard",
+    "op_en": [
+      "vague",
+      "naive",
+      "erratic",
+      "perceptive"
+    ],
+    "op_hi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "q_en": "Fill in the blank with the appropriate synonym of the underlined word in the conversation given below.<br><br>Daniel: Her proposal was quite <u>astute</u>, don’t you think?<br>Mira: Absolutely. It was ______ in how it anticipated every possible objection.<br>",
+    "q_hi": "",
+    "section": "English Language and Comprehension",
+    "solution": "<b>त्रुटि (Error):</b> नेटवर्क या सर्वर की समस्या। कृपया पुनः प्रयास करें।",
+    "topic": "Synonyms"
+  },
+  {
+    "ans": "4",
+    "level": "Hard",
+    "op_en": [
+      "modest",
+      "amenable",
+      "persuasive",
+      "belligerent"
+    ],
+    "op_hi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "q_en": "Fill in the blank with the appropriate antonym of the underlined word in the conversation given below. <br><br>Sara: His tone was unusually <u>conciliatory</u> during the meeting.<br>Ravi: True. Normally, he’s far more ______ when addressing opposition.<br>",
+    "q_hi": "",
+    "section": "English Language and Comprehension",
+    "solution": "<b>त्रुटि (Error):</b> नेटवर्क या सर्वर की समस्या। कृपया पुनः प्रयास करें।",
+    "topic": "Antonyms"
+  },
+  {
+    "ans": "2",
+    "level": "Hard",
+    "op_en": [
+      "didn’t it?",
+      "won’t it?",
+      "shan’t it?",
+      "wouldn't they?"
+    ],
+    "op_hi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "q_en": "Select the most appropriate question tag to complete the given sentence.<br><br>This initiative, if implemented with adequate transparency and stakeholder engagement, will address most of the systemic inefficiencies in the department, _______",
+    "q_hi": "",
+    "section": "English Language and Comprehension",
+    "solution": "<b>अवधारणा / Concept:</b><br>Question tags are short questions added to the end of a statement. They consist of an auxiliary verb and a pronoun. The tag's polarity (positive/negative) is opposite to the main statement, and its tense and subject match the main statement.\n\n<br>\n1.  The main clause of the sentence is \"This initiative... will address most of the systemic inefficiencies in the department.\"\n2.  The auxiliary verb in the main clause is \"will\".\n3.  The main clause is affirmative (positive). Therefore, the question tag must be negative. The negative form",
+    "topic": "English Grammar & Vocab"
+  },
+  {
+    "ans": "3",
+    "level": "Hard",
+    "op_en": [
+      "spectrophotometric",
+      "reproducibility",
+      "prelimenary",
+      "granularity"
+    ],
+    "op_hi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "q_en": "One of the four words in bold is incorrectly spelt. Select the incorrectly spelt word.<br><br>The lab’s findings were considered <strong>prelimenary</strong> and required further replication before journal submission. Despite concerns about <strong>reproducibility</strong>, the team’s use of <strong>spectrophotometric </strong>analysis was widely praised, particularly for its <strong>granularity </strong>in detecting trace isotopes.",
+    "q_hi": "",
+    "section": "English Language and Comprehension",
+    "solution": "<b>अवधारणा / Concept:</b>\nThis question tests spelling proficiency. We need to identify the word that is incorrectly spelt among the given options.\n\n<br><br>\n1.  Examine each bolded word for correct spelling.\n2.  \"reproducibility\" is correctly spelt.\n3.  \"spectrophotometric\" is correctly spelt.\n4.  \"granularity\" is correctly spelt.\n5.  \"prelimenary\" is incorrectly spelt. The correct spelling is \"preliminary\".\n\n<br><br>\n<b>सही उत्तर / Correct Answer:</b> Option 3",
+    "topic": "English Grammar & Vocab"
+  },
+  {
+    "ans": "4",
+    "level": "Hard",
+    "op_en": [
+      "B → A → C → D",
+      "A → C → B → D",
+      "C → B → A → D",
+      "B → C → A → D"
+    ],
+    "op_hi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "q_en": "There are four sentences A, B, C and D given below. Arrange the sentences in the correct order to form a complete paragraph.<br><br>A. This integration fosters innovative approaches to problem-solving.<br>B. Interdisciplinary research is gaining traction in academia.<br>C. It combines methodologies from various fields to address complex challenges.<br>D. As a result, traditional disciplinary boundaries are becoming increasingly porous.<br>",
+    "q_hi": "",
+    "section": "English Language and Comprehension",
+    "solution": "<ul>\n    <li><b>Introductory sentence</b> (विषय परिचय) first, then <b>explanation</b> (व्याख्या), then <b>benefit/result</b> (लाभ/परिणाम).<br><br></li>\n    <li>Option 4: B <b>विषय परिचय</b> करता है। C <b>कार्यप्रणाली</b> बताता है। A <b>नवाचार</b> दर्शाता है। D <b>परिणाम</b> है।<br><br></li>\n</ul>",
+    "topic": "English Grammar & Vocab"
+  },
+  {
+    "ans": "4",
+    "level": "Medium",
+    "op_en": [
+      "rudely",
+      "lazily",
+      "reluctantly",
+      "efficiently"
+    ],
+    "op_hi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "q_en": "<p>Choose the most appropriate<strong> </strong>option to complete the sentence .</p><p>Rahul completed the project ___, impressing both his teacher and classmates.</p>",
+    "q_hi": "",
+    "section": "English Language and Comprehension",
+    "solution": "<b>अवधारणा / Concept:</b>\nThe sentence requires an adverb that logically explains why Rahul",
+    "topic": "English Grammar & Vocab"
+  },
+  {
+    "ans": "1",
+    "level": "Hard",
+    "op_en": [
+      "bosom friend",
+      "a friend in need",
+      "fair- weather friend",
+      "casual acquaintance"
+    ],
+    "op_hi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "q_en": "In the following question, a statement has been given with bracketed text. You are required to replace the text with the correct idiom given in the options.<br><br>She has been my (very close and intimate friend) since childhood and knows every little detail about me.<span style=\"color: white;\">1049</span>",
+    "q_hi": "",
+    "section": "English Language and Comprehension",
+    "solution": "<ul><li><b>Bosom friend</b> का अर्थ है एक <b>बहुत करीबी, घनिष्ठ मित्र</b> (very close, intimate friend).<br><br></li><li>Statement requires idiom for <b>\"very close and intimate friend\"</b>. <b>Bosom friend</b> (Option 1) is the correct match.<br><br></li></ul>",
+    "topic": "Idioms and Phrases"
+  },
+  {
+    "ans": "4",
+    "level": "Medium",
+    "op_en": [
+      "lest",
+      "while",
+      "that",
+      "before"
+    ],
+    "op_hi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "q_en": "Choose the correct option to complete the sentence.<br>We should buy some popcorn and soda __________ the movie begins.<span style=\"color: white;\">4177</span>",
+    "q_hi": "",
+    "section": "English Language and Comprehension",
+    "solution": "<b>Before</b> indicates a temporal sequence where buying snacks precedes the movie's start.\nThe other options (lest, while, that) do not logically or grammatically fit the intended meaning of preparing snacks prior to an event.",
+    "topic": "English Grammar & Vocab"
+  },
+  {
+    "ans": "1",
+    "level": "Medium",
+    "op_en": [
+      "here",
+      "there",
+      "laboriously",
+      "everywhere"
+    ],
+    "op_hi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "q_en": "Complete the sentence with suitable adverb.<br><br>This place is known for its peace and beauty. It is easy to lose oneself _.<span style=\"color: white;\">3447</span>",
+    "q_hi": "",
+    "section": "English Language and Comprehension",
+    "solution": "<b>Here</b> refers to \"this place\" mentioned in the first sentence, creating a cohesive link.<br>The sentence implies losing oneself within the beautiful location being described.",
+    "topic": "English Grammar & Vocab"
+  },
+  {
+    "ans": "1",
+    "level": "Medium",
+    "op_en": [
+      "Loquacious",
+      "Reticent",
+      "Taciturn",
+      "Laconic"
+    ],
+    "op_hi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "q_en": "Identify the one word substitute for the following.  <br><br>A person who talks too much <br><br> <span style=\"color: white;\">6647</span>",
+    "q_hi": "",
+    "section": "English Language and Comprehension",
+    "solution": "",
+    "topic": "English Grammar & Vocab"
+  },
+  {
+    "ans": "1",
+    "level": "Hard",
+    "op_en": [
+      "B A D C",
+      "C D B A",
+      "D C A B",
+      "A C B D"
+    ],
+    "op_hi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "q_en": "The given sentences, when properly sequenced, form a coherent paragraph. Each sentence is labelled with a letter. Choose the most logical order of the sentences from among the given choices to construct a coherent paragraph.<br><br>A. Behavioral economists, however, have demonstrated that real-world decisions often deviate from such models due to heuristics and biases.<br>B. Rational-choice theory assumes that individuals, given full information, make decisions that maximize utility.<br>C. As a result, economic forecasting that ignores these patterns risks misrepresenting how markets and individuals actually behave.<br>D. These deviations are not mere anomalies but systematic patterns embedded in human cognition and emotion.",
+    "q_hi": "",
+    "section": "English Language and Comprehension",
+    "solution": "",
+    "topic": "English Grammar & Vocab"
+  },
+  {
+    "ans": "2",
+    "level": "Hard",
+    "op_en": [
+      "haven't they?",
+      "hasn’t it?",
+      "wouldn’t it?",
+      "hadn’t it?"
+    ],
+    "op_hi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "q_en": "Select the most appropriate question tag to complete the given sentence.<br><br>The panel has consistently emphasized the need for interdisciplinary collaboration throughout the evaluation process, ______",
+    "q_hi": "",
+    "section": "English Language and Comprehension",
+    "solution": "",
+    "topic": "English Grammar & Vocab"
+  },
+  {
+    "ans": "3",
+    "level": "Hard",
+    "op_en": [
+      "reviewers",
+      "coherence",
+      "consistancy",
+      "articulate"
+    ],
+    "op_hi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "q_en": "Choose the incorrectly spelt word from the paragraph.<br><br>Although her writing was highly articulate, several reviewers pointed out issues with consistancy across the chapters. This feature weakened the overall coherence of the dissertation.<br>",
+    "q_hi": "",
+    "section": "English Language and Comprehension",
+    "solution": "",
+    "topic": "English Grammar & Vocab"
+  },
+  {
+    "ans": "4",
+    "level": "Hard",
+    "op_en": [
+      "On a whim",
+      "At a glance",
+      "At cross purposes",
+      "Tooth and nail"
+    ],
+    "op_hi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "q_en": "Select the most appropriate option to substitute the underlined word/phrase in the given sentence.<br><br>Despite repeated failures, she decided to continue the project, <u><strong>with unwavering determination</strong></u>.",
+    "q_hi": "",
+    "section": "English Language and Comprehension",
+    "solution": "",
+    "topic": "Idioms and Phrases"
+  },
+  {
+    "ans": "2",
+    "level": "Medium",
+    "op_en": [
+      "Epicure",
+      "Stoic",
+      "Mystic",
+      "Ascetic"
+    ],
+    "op_hi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "q_en": "Choose the correct word to substitute the group of words given below.<br><br>A person who is indifferent to pleasure or pain and shows great self-control in hardship.<br>",
+    "q_hi": "",
+    "section": "English Language and Comprehension",
+    "solution": "",
+    "topic": "English Grammar & Vocab"
+  },
+  {
+    "ans": "4",
+    "level": "Hard",
+    "op_en": [
+      "German Nationalism and the Rise of Folklore Studies",
+      "The Moral Lessons Within Classic Children's Stories",
+      "The Brothers Grimm: Biographies and Literary Achievements",
+      "Grimm Fairy Tales: A Foundation for Interdisciplinary Postgraduate Study"
+    ],
+    "op_hi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "q_en": "<b>Comprehension:</b><br>Read the passage and choose the correct answer to the questions based on it.<br><br>The Grimm Fairy Tales, collected and published by the Brothers Jacob and Wilhelm Grimm in the early 19<sup>th</sup> century, are far more than mere children's stories; they constitute a foundational corpus for postgraduate study in folkloristics, literary criticism, cultural history, and psychoanalysis. Far from inventing these narratives, the Grimms meticulously gathered oral traditions, aiming to preserve German linguistic and cultural heritage during a period of nascent nationalism. Their methodology, though not always perfectly scientific by modern standards, laid groundwork for the discipline of folklore studies.<br><br>For advanced analysis, these tales—including classics like \"Hansel and Gretel,\" \"Little Red-Cap,\" and \"Rapunzel\"—offer fertile ground. Literary scholars examine their structural patterns (e.g., Vladimir Propp's morphology), their evolving literary style across editions, and their intertextual relationships. Culturally, they reflect prevailing societal norms, gender roles, and anxieties of pre-industrial European life, often featuring harsh justice, poverty, and supernatural elements intertwined with everyday existence. Psychoanalytic interpretations, particularly those by Bruno Bettelheim, delve into the tales' symbolic representations of childhood fears, sibling rivalries, and developmental challenges, arguing for their therapeutic value. Furthermore, postgraduate research might critically engage with the Grimms' editorial choices, their influence on national identity, or the adaptations and reinterpretations of these tales across various media and cultures, revealing how these seemingly simple narratives encode profound psychological, social, and historical complexities.<br>Which of the following titles best captures the academic scope and depth of the passage?",
+    "q_hi": "",
+    "section": "English Language and Comprehension",
+    "solution": "",
+    "topic": "Reading Comprehension"
+  },
+  {
+    "ans": "2",
+    "level": "Hard",
+    "op_en": [
+      "The tales primarily focus on urban life and modern anxieties.",
+      "Vladimir Propp's morphology is a method for analyzing their structural patterns.",
+      "The Brothers Grimm invented all the stories they published.",
+      "Bruno Bettelheim dismissed their therapeutic value."
+    ],
+    "op_hi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "q_en": "<b>Comprehension:</b><br>Read the passage and choose the correct answer to the questions based on it.<br><br>The Grimm Fairy Tales, collected and published by the Brothers Jacob and Wilhelm Grimm in the early 19<sup>th</sup> century, are far more than mere children's stories; they constitute a foundational corpus for postgraduate study in folkloristics, literary criticism, cultural history, and psychoanalysis. Far from inventing these narratives, the Grimms meticulously gathered oral traditions, aiming to preserve German linguistic and cultural heritage during a period of nascent nationalism. Their methodology, though not always perfectly scientific by modern standards, laid groundwork for the discipline of folklore studies.<br><br>For advanced analysis, these tales—including classics like \"Hansel and Gretel,\" \"Little Red-Cap,\" and \"Rapunzel\"—offer fertile ground. Literary scholars examine their structural patterns (e.g., Vladimir Propp's morphology), their evolving literary style across editions, and their intertextual relationships. Culturally, they reflect prevailing societal norms, gender roles, and anxieties of pre-industrial European life, often featuring harsh justice, poverty, and supernatural elements intertwined with everyday existence. Psychoanalytic interpretations, particularly those by Bruno Bettelheim, delve into the tales' symbolic representations of childhood fears, sibling rivalries, and developmental challenges, arguing for their therapeutic value. Furthermore, postgraduate research might critically engage with the Grimms' editorial choices, their influence on national identity, or the adaptations and reinterpretations of these tales across various media and cultures, revealing how these seemingly simple narratives encode profound psychological, social, and historical complexities.<br>Which of the following statements about the Grimm Fairy Tales is explicitly mentioned as a fact in the passage?",
+    "q_hi": "",
+    "section": "English Language and Comprehension",
+    "solution": "",
+    "topic": "Reading Comprehension"
+  },
+  {
+    "ans": "4",
+    "level": "Hard",
+    "op_en": [
+      "Meticulously",
+      "Foundational",
+      "Evolving",
+      "Profound"
+    ],
+    "op_hi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "q_en": "<b>Comprehension:</b><br>Read the passage and choose the correct answer to the questions based on it.<br><br>The Grimm Fairy Tales, collected and published by the Brothers Jacob and Wilhelm Grimm in the early 19<sup>th</sup> century, are far more than mere children's stories; they constitute a foundational corpus for postgraduate study in folkloristics, literary criticism, cultural history, and psychoanalysis. Far from inventing these narratives, the Grimms meticulously gathered oral traditions, aiming to preserve German linguistic and cultural heritage during a period of nascent nationalism. Their methodology, though not always perfectly scientific by modern standards, laid groundwork for the discipline of folklore studies.<br><br>For advanced analysis, these tales—including classics like \"Hansel and Gretel,\" \"Little Red-Cap,\" and \"Rapunzel\"—offer fertile ground. Literary scholars examine their structural patterns (e.g., Vladimir Propp's morphology), their evolving literary style across editions, and their intertextual relationships. Culturally, they reflect prevailing societal norms, gender roles, and anxieties of pre-industrial European life, often featuring harsh justice, poverty, and supernatural elements intertwined with everyday existence. Psychoanalytic interpretations, particularly those by Bruno Bettelheim, delve into the tales' symbolic representations of childhood fears, sibling rivalries, and developmental challenges, arguing for their therapeutic value. Furthermore, postgraduate research might critically engage with the Grimms' editorial choices, their influence on national identity, or the adaptations and reinterpretations of these tales across various media and cultures, revealing how these seemingly simple narratives encode profound psychological, social, and historical complexities.<br>Choose the word from the passage that is an antonym for \"superficial.\"",
+    "q_hi": "",
+    "section": "English Language and Comprehension",
+    "solution": "",
+    "topic": "Antonyms"
+  },
+  {
+    "ans": "1",
+    "level": "Hard",
+    "op_en": [
+      "Analytical and scholarly",
+      "Purely descriptive and uninterpretive",
+      "Nostalgic and sentimental",
+      "Cautionary and critical of their content"
+    ],
+    "op_hi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "q_en": "<b>Comprehension:</b><br>Read the passage and choose the correct answer to the questions based on it.<br><br>The Grimm Fairy Tales, collected and published by the Brothers Jacob and Wilhelm Grimm in the early 19<sup>th</sup> century, are far more than mere children's stories; they constitute a foundational corpus for postgraduate study in folkloristics, literary criticism, cultural history, and psychoanalysis. Far from inventing these narratives, the Grimms meticulously gathered oral traditions, aiming to preserve German linguistic and cultural heritage during a period of nascent nationalism. Their methodology, though not always perfectly scientific by modern standards, laid groundwork for the discipline of folklore studies.<br><br>For advanced analysis, these tales—including classics like \"Hansel and Gretel,\" \"Little Red-Cap,\" and \"Rapunzel\"—offer fertile ground. Literary scholars examine their structural patterns (e.g., Vladimir Propp's morphology), their evolving literary style across editions, and their intertextual relationships. Culturally, they reflect prevailing societal norms, gender roles, and anxieties of pre-industrial European life, often featuring harsh justice, poverty, and supernatural elements intertwined with everyday existence. Psychoanalytic interpretations, particularly those by Bruno Bettelheim, delve into the tales' symbolic representations of childhood fears, sibling rivalries, and developmental challenges, arguing for their therapeutic value. Furthermore, postgraduate research might critically engage with the Grimms' editorial choices, their influence on national identity, or the adaptations and reinterpretations of these tales across various media and cultures, revealing how these seemingly simple narratives encode profound psychological, social, and historical complexities.<br>What is the predominant tone of the passage when discussing the Grimm Fairy Tales for postgraduate students?",
+    "q_hi": "",
+    "section": "English Language and Comprehension",
+    "solution": "",
+    "topic": "Reading Comprehension"
+  },
+  {
+    "ans": "4",
+    "level": "Hard",
+    "op_en": [
+      "They aimed to document every single oral tradition from across Europe.",
+      "They were attempting to promote a new form of literary expression.",
+      "Their primary goal was to create entertainment for children.",
+      "They were driven by a desire to preserve cultural heritage amidst social changes."
+    ],
+    "op_hi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "q_en": "<b>Comprehension:</b><br>Read the passage and choose the correct answer to the questions based on it.<br><br>The Grimm Fairy Tales, collected and published by the Brothers Jacob and Wilhelm Grimm in the early 19<sup>th</sup> century, are far more than mere children's stories; they constitute a foundational corpus for postgraduate study in folkloristics, literary criticism, cultural history, and psychoanalysis. Far from inventing these narratives, the Grimms meticulously gathered oral traditions, aiming to preserve German linguistic and cultural heritage during a period of nascent nationalism. Their methodology, though not always perfectly scientific by modern standards, laid groundwork for the discipline of folklore studies.<br><br>For advanced analysis, these tales—including classics like \"Hansel and Gretel,\" \"Little Red-Cap,\" and \"Rapunzel\"—offer fertile ground. Literary scholars examine their structural patterns (e.g., Vladimir Propp's morphology), their evolving literary style across editions, and their intertextual relationships. Culturally, they reflect prevailing societal norms, gender roles, and anxieties of pre-industrial European life, often featuring harsh justice, poverty, and supernatural elements intertwined with everyday existence. Psychoanalytic interpretations, particularly those by Bruno Bettelheim, delve into the tales' symbolic representations of childhood fears, sibling rivalries, and developmental challenges, arguing for their therapeutic value. Furthermore, postgraduate research might critically engage with the Grimms' editorial choices, their influence on national identity, or the adaptations and reinterpretations of these tales across various media and cultures, revealing how these seemingly simple narratives encode profound psychological, social, and historical complexities.<br>Based on the passage, what can be inferred about the Grimm's original motivation for collecting these tales?",
+    "q_hi": "",
+    "section": "English Language and Comprehension",
+    "solution": "",
+    "topic": "Reading Comprehension"
+  }
+]
