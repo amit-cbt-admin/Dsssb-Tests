@@ -1,0 +1,422 @@
+[
+  {
+    "ans": 4,
+    "difficulty": "Medium",
+    "op_en": [
+      "ACZKYB",
+      "ACKAYB",
+      "ABKZYB",
+      "ACKZYB"
+    ],
+    "op_hi": [
+      "ACZKYB",
+      "ACKAYB",
+      "ABKZYB",
+      "ACKZYB"
+    ],
+    "q_en": "In a certain code language, 'ALUMNI' is written as 'FLMRJA'. What is the code for 'BACKED' in that code language?",
+    "q_hi": "एक निश्चित कूट भाषा में, 'ALUMNI' को 'FLMRJA' के रूप में लिखा जाता है। उसी कूट भाषा में 'BACKED' के लिए कूट क्या है?",
+    "section": "Reasoning",
+    "solution": "<b>Solution (EN):</b><br>The logic follows a pattern where the word is first reversed and then specific increments/decrements are applied:<br>Word: ALUMNI<br>Reverse: I N M U L A<br>Pattern:<br>I - 3 = F<br>N - 2 = L<br>M + 0 = M<br>U - 3 = R<br>L - 2 = J<br>A + 0 = A<br>So, ALUMNI becomes FLMRJA.<br>Applying the same to BACKED:<br>Reverse: D E K C A B<br>D - 3 = A<br>E - 2 = C<br>K + 0 = K<br>C - 3 = Z<br>A - 2 = Y<br>B + 0 = B<br>Result: ACKZYB<br><br><b>Solution (HI):</b><br>तर्क इस प्रकार है: शब्द को पहले उल्टा किया जाता है और फिर घटाव/जोड़ किया जाता है:<br>शब्द: ALUMNI<br>उल्टा: I N M U L A<br>पैटर्न:<br>I - 3 = F<br>N - 2 = L<br>M + 0 = M<br>U - 3 = R<br>L - 2 = J<br>A + 0 = A<br>इसी तरह BACKED के लिए:<br>उल्टा: D E K C A B<br>D - 3 = A<br>E - 2 = C<br>K + 0 = K<br>C - 3 = Z<br>A - 2 = Y<br>B + 0 = B<br>परिणाम: ACKZYB<br><br><b>Short Trick:</b><br>Reverse the word and apply (-3, -2, +0) repeating pattern: D(-3)=A, E(-2)=C, K(0)=K... gives ACKZYB.",
+    "topic": "Coding-Decoding"
+  },
+  {
+    "ans": 4,
+    "difficulty": "Easy",
+    "op_en": [
+      "XWBNMJD",
+      "XWBDNJM",
+      "XBWDNMJ",
+      "XWBDNMJ"
+    ],
+    "op_hi": [
+      "XWBNMJD",
+      "XWBDNJM",
+      "XBWDNMJ",
+      "XWBDNMJ"
+    ],
+    "q_en": "In a certain code language, 'PTYZOAJ' is written as 'YTPZJAO'. What is the code for 'BWXDJMN' in that code language?",
+    "q_hi": "एक निश्चित कूट भाषा में, 'PTYZOAJ' को 'YTPZJAO' के रूप में लिखा जाता है। उसी कूट भाषा में 'BWXDJMN' के लिए कूट क्या है?",
+    "section": "Reasoning",
+    "solution": "<b>Solution (EN):</b><br>The pattern splits the 7-letter word into 3-1-3 format:<br>PTY | Z | OAJ<br>The first 3 letters are reversed: YTP<br>The middle letter remains same: Z<br>The last 3 letters are reversed: JAO<br>Result: YTPZJAO<br>Applying to BWXDJMN:<br>BWX | D | JMN<br>Reverse first 3: XWB<br>Middle: D<br>Reverse last 3: NMJ<br>Result: XWBDNMJ<br><br><b>Solution (HI):</b><br>पैटर्न 7-अक्षरों के शब्द को 3-1-3 प्रारूप में विभाजित करता है:<br>PTY | Z | OAJ<br>पहले 3 अक्षर उल्टे लिखे गए हैं: YTP<br>बीच का अक्षर वही रहता है: Z<br>अंतिम 3 अक्षर उल्टे लिखे गए हैं: JAO<br>इसी तरह BWXDJMN के लिए:<br>BWX | D | JMN -> XWB | D | NMJ<br>परिणाम: XWBDNMJ<br><br><b>Short Trick:</b><br>Reverse (1-3), keep 4th same, Reverse (5-7): BWX -> XWB, D, JMN -> NMJ.",
+    "topic": "Coding-Decoding"
+  },
+  {
+    "ans": 3,
+    "difficulty": "Easy",
+    "op_en": [
+      "Brother's wife",
+      "Sister's husband",
+      "Husband's sister",
+      "Wife's sister"
+    ],
+    "op_hi": [
+      "भाई की पत्नी",
+      "बहन का पति",
+      "पति की बहन",
+      "पत्नी की बहन"
+    ],
+    "q_en": "A is the wife of B. B is the brother of C. C is the sister of D. D is the father of E. How is C related to A?",
+    "q_hi": "A, B की पत्नी है। B, C का भाई है। C, D की बहन है। D, E का पिता है। C, A से किस प्रकार संबंधित है?",
+    "section": "Reasoning",
+    "solution": "<b>Solution (EN):</b><br>1. A is wife of B (A is Female, B is Male).<br>2. B is brother of C.<br>3. C is sister of D (C is Female).<br>Since B and C are siblings, C is the sister of A's husband (B).<br>Husband's sister is the relationship.<br><br><b>Solution (HI):</b><br>1. A, B की पत्नी है (A महिला है, B पुरुष है)।<br>2. B, C का भाई है।<br>3. C, D की बहन है (C महिला है)।<br>चूँकि B और C भाई-बहन हैं, इसलिए C, A के पति (B) की बहन है।<br>रिश्ता: पति की बहन।<br><br><b>Short Trick:</b><br>B is A's husband. C is B's sister. So C is A's husband's sister.",
+    "topic": "Blood Relation"
+  },
+  {
+    "ans": 3,
+    "difficulty": "Medium",
+    "op_en": [
+      "VDSJGW",
+      "VCTJGW",
+      "VDTJGW",
+      "VDTKGW"
+    ],
+    "op_hi": [
+      "VDSJGW",
+      "VCTJGW",
+      "VDTJGW",
+      "VDTKGW"
+    ],
+    "q_en": "In a certain code language, 'GIVEN' is coded as 'ILXHP', 'HARD' is coded as 'JDTG'. How will 'TARGET' be coded in that code language?",
+    "q_hi": "एक निश्चित कूट भाषा में, 'GIVEN' को 'ILXHP' के रूप में कूटबद्ध किया जाता है, 'HARD' को 'JDTG' के रूप में कूटबद्ध किया जाता है। उसी कूट भाषा में 'TARGET' को कैसे कूटबद्ध किया जाएगा?",
+    "section": "Reasoning",
+    "solution": "<b>Solution (EN):</b><br>The pattern is an alternating increment of +2 and +3:<br>G + 2 = I<br>I + 3 = L<br>V + 2 = X<br>E + 3 = H<br>N + 2 = P<br>Check HARD: H+2=J, A+3=D, R+2=T, D+3=G.<br>Apply to TARGET:<br>T + 2 = V<br>A + 3 = D<br>R + 2 = T<br>G + 3 = J<br>E + 2 = G<br>T + 3 = W<br>Code: VDTJGW<br><br><b>Solution (HI):</b><br>तर्क +2 और +3 की वैकल्पिक वृद्धि है:<br>G + 2 = I<br>I + 3 = L<br>V + 2 = X<br>E + 3 = H<br>N + 2 = P<br>इसी तरह TARGET के लिए:<br>T + 2 = V, A + 3 = D, R + 2 = T, G + 3 = J, E + 2 = G, T + 3 = W<br>कूट: VDTJGW<br><br><b>Short Trick:</b><br>Pattern: +2, +3, +2, +3... T(+2)=V, A(+3)=D, R(+2)=T. Only option 3 starts with VDT.",
+    "topic": "Coding-Decoding"
+  },
+  {
+    "ans": 1,
+    "difficulty": "Medium",
+    "op_en": [
+      "48 &divide; 5 + 8 &times; 10 - 2 = 15",
+      "43 &times; 7 &divide; 10 - 5 + 20 = 10",
+      "15 &divide; 6 &times; 4 - 2 + 9 = 27",
+      "9 - 3 + 7 &divide; 4 &times; 8 = 25"
+    ],
+    "op_hi": [
+      "48 &divide; 5 + 8 &times; 10 - 2 = 15",
+      "43 &times; 7 &divide; 10 - 5 + 20 = 10",
+      "15 &divide; 6 &times; 4 - 2 + 9 = 27",
+      "9 - 3 + 7 &divide; 4 &times; 8 = 25"
+    ],
+    "q_en": "If '-' means '&divide;', '+' means '&times;', '&divide;' means '-' and '&times;' means '+', then which of the following equation is not correct?",
+    "q_hi": "यदि '-' का अर्थ '&divide;', '+' का अर्थ '&times;', '&divide;' का अर्थ '-' और '&times;' का अर्थ '+' है, तो निम्नलिखित में से कौन सा समीकरण सही नहीं है?",
+    "section": "Reasoning",
+    "solution": "<b>Solution (EN):</b><br>Replacing signs as per instructions: - &rarr; &divide;, + &rarr; &times;, &divide; &rarr; -, &times; &rarr; +<br>Check Option 1: 48 - 5 &times; 8 + 10 &divide; 2 = 15<br>Using BODMAS: 48 - 40 + 5 = 8 + 5 = 13<br>13 &ne; 15. Hence, Option 1 is incorrect.<br><br><b>Solution (HI):</b><br>निर्देशों के अनुसार चिह्नों को बदलना: - &rarr; &divide;, + &rarr; &times;, &divide; &rarr; -, &times; &rarr; +<br>विकल्प 1 की जाँच करें: 48 - 5 &times; 8 + 10 &divide; 2 = 15<br>BODMAS का उपयोग करते हुए: 48 - 40 + 5 = 8 + 5 = 13<br>13 &ne; 15. अतः, विकल्प 1 गलत है।<br><br><b>Short Trick:</b><br>Quickly check the first equation: 48 - 40 + 5 = 13. Since it doesn't match 15, it's the answer.",
+    "topic": "Mathematical Operations"
+  },
+  {
+    "ans": 4,
+    "difficulty": "Hard",
+    "op_en": [
+      "(84, 89, 124)",
+      "(189, 194, 209)",
+      "(129, 134, 139)",
+      "(512, 517, 542)"
+    ],
+    "op_hi": [
+      "(84, 89, 124)",
+      "(189, 194, 209)",
+      "(129, 134, 139)",
+      "(512, 517, 542)"
+    ],
+    "q_en": "Select the option in which the numbers shares the same relationship in set as that shared by the numbers in the given set.<br>(82, 87, 112)<br>(114, 119, 144)",
+    "q_hi": "उस विकल्प का चयन करें जिसमें संख्याएं सेट में वही संबंध साझा करती हैं जो दिए गए सेट में संख्याओं द्वारा साझा किया जाता है।<br>(82, 87, 112)<br>(114, 119, 144)",
+    "section": "Reasoning",
+    "solution": "<b>Solution (EN):</b><br><b>Logic:</b><br>First Number + 5 = Second Number<br>Second Number + 25 = Third Number<br><br><b>In (82, 87, 112):</b><br>82 + 5 = 87<br>87 + 25 = 112<br><br><b>In (114, 119, 144):</b><br>114 + 5 = 119<br>119 + 25 = 144<br><br><b>Checking Option 4:</b><br>(512, 517, 542)<br>512 + 5 = 517<br>517 + 25 = 542<br>Hence, option 4 is correct.<br><br><b>Solution (HI):</b><br><b>तर्क:</b><br>पहली संख्या + 5 = दूसरी संख्या<br>दूसरी संख्या + 25 = तीसरी संख्या<br><br><b>(82, 87, 112) में:</b><br>82 + 5 = 87<br>87 + 25 = 112<br><br><b>(114, 119, 144) में:</b><br>114 + 5 = 119<br>119 + 25 = 144<br><br><b>विकल्प 4 की जाँच:</b><br>(512, 517, 542)<br>512 + 5 = 517<br>517 + 25 = 542<br>अतः विकल्प 4 सही है।<br><br><b>Short Trick:</b><br>Check the differences: +5, +25. Only option 4 follows this pattern.",
+    "topic": "Number Analogy"
+  },
+  {
+    "ans": 4,
+    "difficulty": "Medium",
+    "op_en": [
+      "Mother's father",
+      "Mother",
+      "Mother's brother",
+      "Mother's mother"
+    ],
+    "op_hi": [
+      "माँ के पिता",
+      "माँ",
+      "माँ का भाई",
+      "माँ की माँ"
+    ],
+    "q_en": "'S - T' means 'S' is the wife of 'T', 'S + T' means 'S' is the daughter of 'T' and 'S &divide; T' means 'S' is the son of 'T'. If F - G &divide; H + J - K then How is J related to G?",
+    "q_hi": "'S - T' का अर्थ है 'S', 'T' की पत्नी है, 'S + T' का अर्थ है 'S', 'T' की पुत्री है और 'S &divide; T' का अर्थ है 'S', 'T' का पुत्र है। यदि F - G &divide; H + J - K है तो J, G से किस प्रकार संबंधित है?",
+    "section": "Reasoning",
+    "solution": "<b>Solution (EN):</b><br>Expression: F - G &divide; H + J - K<br>1. F - G: F is the wife of G (G is male).<br>2. G &divide; H: G is the son of H.<br>3. H + J: H is the daughter of J.<br>4. J - K: J is the wife of K (J is female).<br>Relationship: G's parent is H (mother), and H's mother is J.<br>Therefore, J is the mother of G's mother.<br><br><b>Solution (HI):</b><br>समीकरण: F - G &divide; H + J - K<br>1. F - G: F, G की पत्नी है (G पुरुष है)।<br>2. G &divide; H: G, H का पुत्र है।<br>3. H + J: H, J की पुत्री है।<br>4. J - K: J, K की पत्नी है (J महिला है)।<br>रिश्ता: G की माँ H है, और H की माँ J है।<br>अतः, J, G की माँ की माँ (नानी) है।<br><br><b>Short Trick:</b><br>G &rarr; H (Mother) &rarr; J (Grandmother/Nani). So, Mother's mother.",
+    "topic": "Blood Relation"
+  },
+  {
+    "ans": 1,
+    "difficulty": "Medium",
+    "op_en": [
+      "RXT : SZW",
+      "BIK : YJI",
+      "GFO : IHR",
+      "CFH : FHI"
+    ],
+    "op_hi": [
+      "RXT : SZW",
+      "BIK : YJI",
+      "GFO : IHR",
+      "CFH : FHI"
+    ],
+    "q_en": "Select that missing pair which is related in the same way as RSV : SUY :: DFH : EHK :: ?",
+    "q_hi": "उस लुप्त युग्म का चयन करें जो उसी प्रकार संबंधित है जैसे RSV : SUY :: DFH : EHK :: ?",
+    "section": "Reasoning",
+    "solution": "<b>Solution (EN):</b><br>Pattern for RSV : SUY:<br>R + 1 = S<br>S + 2 = U<br>V + 3 = Y<br>Pattern for DFH : EHK:<br>D + 1 = E<br>F + 2 = H<br>H + 3 = K<br>Check Option 1 (RXT : SZW):<br>R + 1 = S<br>X + 2 = Z<br>T + 3 = W<br>It follows the pattern.<br><br><b>Solution (HI):</b><br>RSV : SUY के लिए पैटर्न:<br>R + 1 = S, S + 2 = U, V + 3 = Y<br>DFH : EHK के लिए पैटर्न:<br>D + 1 = E, F + 2 = H, H + 3 = K<br>विकल्प 1 (RXT : SZW) चेक करें: R + 1 = S, X + 2 = Z, T + 3 = W<br>यह पैटर्न का पालन करता है।<br><br><b>Short Trick:</b><br>Check logic: +1, +2, +3. Only RXT : SZW follows this.",
+    "topic": "Letter Analogy"
+  },
+  {
+    "ans": 2,
+    "difficulty": "Medium",
+    "op_en": [
+      "BRC : CSR",
+      "LKS : KJR",
+      "DMH : COG",
+      "MNP : KLN"
+    ],
+    "op_hi": [
+      "BRC : CSR",
+      "LKS : KJR",
+      "DMH : COG",
+      "MNP : KLN"
+    ],
+    "q_en": "Select that missing pair which is related in the same way as HJK : GIJ :: FDM : ECL :: ?",
+    "q_hi": "उस लुप्त युग्म का चयन करें जो उसी प्रकार संबंधित है जैसे HJK : GIJ :: FDM : ECL :: ?",
+    "section": "Reasoning",
+    "solution": "<b>Solution (EN):</b><br>Pattern for HJK : GIJ:<br>H - 1 = G<br>J - 1 = I<br>K - 1 = J<br>Pattern for FDM : ECL:<br>F - 1 = E<br>D - 1 = C<br>M - 1 = L<br>Check Option 2 (LKS : KJR):<br>L - 1 = K<br>K - 1 = J<br>S - 1 = R<br>It follows the pattern.<br><br><b>Solution (HI):</b><br>HJK : GIJ के लिए पैटर्न:<br>H - 1 = G, J - 1 = I, K - 1 = J<br>FDM : ECL के लिए पैटर्न:<br>F - 1 = E, D - 1 = C, M - 1 = L<br>विकल्प 2 (LKS : KJR) चेक करें: L - 1 = K, K - 1 = J, S - 1 = R<br>यह पैटर्न का पालन करता है।<br><br><b>Short Trick:</b><br>Simple -1 pattern in all letters. Only LKS : KJR matches.",
+    "topic": "Letter Analogy"
+  },
+  {
+    "ans": 2,
+    "difficulty": "Easy",
+    "op_en": [
+      "109",
+      "110",
+      "107",
+      "108"
+    ],
+    "op_hi": [
+      "109",
+      "110",
+      "107",
+      "108"
+    ],
+    "q_en": "Select the option that is related to the third number cluster in the same way as 78 : 156 :: 55 : ? :: 93 : 186",
+    "q_hi": "उस विकल्प का चयन करें जो तीसरे संख्या समूह से उसी प्रकार संबंधित है जैसे 78 : 156 :: 55 : ? :: 93 : 186",
+    "section": "Reasoning",
+    "solution": "<b>Solution (EN):</b><br>The logic is simple multiplication:<br>78 &times; 2 = 156<br>93 &times; 2 = 186<br>Similarly, for 55:<br>55 &times; 2 = 110<br>Hence, 110 is the correct answer.<br><br><b>Solution (HI):</b><br>तर्क सरल गुणा है:<br>78 &times; 2 = 156<br>93 &times; 2 = 186<br>इसी तरह, 55 के लिए:<br>55 &times; 2 = 110<br>अतः, 110 सही उत्तर है।<br><br><b>Short Trick:</b><br>Simply multiply the first number by 2: 55 &times; 2 = 110.",
+    "topic": "Number Analogy"
+  },
+  {
+    "ans": "2",
+    "difficulty": "Medium",
+    "op_en": [
+      "93",
+      "98",
+      "92",
+      "99"
+    ],
+    "op_hi": [
+      "93",
+      "98",
+      "92",
+      "99"
+    ],
+    "q_en": "In the following question, select the missing number from the given series.<br>153, 152, 148, 139, 123, ?",
+    "q_hi": "निम्नलिखित प्रश्न में, दी गई श्रृंखला से लुप्त संख्या का चयन करें।<br>153, 152, 148, 139, 123, ?",
+    "section": "Reasoning",
+    "solution": "<b>Solution (EN):</b><br>The pattern follows the subtraction of consecutive square numbers:<br>153 - 1<sup>2</sup> (1) = 152<br>152 - 2<sup>2</sup> (4) = 148<br>148 - 3<sup>2</sup> (9) = 139<br>139 - 4<sup>2</sup> (16) = 123<br>123 - 5<sup>2</sup> (25) = 98<br>The missing number is 98.<br><br><b>Solution (HI):</b><br>पैटर्न लगातार वर्ग संख्याओं के घटाव का अनुसरण करता है:<br>153 - 1<sup>2</sup> (1) = 152<br>152 - 2<sup>2</sup> (4) = 148<br>148 - 3<sup>2</sup> (9) = 139<br>139 - 4<sup>2</sup> (16) = 123<br>123 - 5<sup>2</sup> (25) = 98<br>लुप्त संख्या 98 है।<br><br><b>Short Trick:</b><br>Check the differences: 1, 4, 9, 16. These are squares of 1, 2, 3, 4. Next difference is 5<sup>2</sup> = 25. 123 - 25 = 98.",
+    "topic": "Number Series"
+  },
+  {
+    "ans": "4",
+    "difficulty": "Easy",
+    "op_en": [
+      "3-2-1-4-5",
+      "2-3-1-4-5",
+      "3-2-1-5-4",
+      "2-3-1-5-4"
+    ],
+    "op_hi": [
+      "3-2-1-4-5",
+      "2-3-1-4-5",
+      "3-2-1-5-4",
+      "2-3-1-5-4"
+    ],
+    "q_en": "Arrange the given words in the sequence in which they occur in the dictionary.<br>1. Magnet<br>2. Magic<br>3. Magical<br>4. Magnify<br>5. Magneto",
+    "q_hi": "दिए गए शब्दों को उस क्रम में व्यवस्थित करें जिसमें वे शब्दकोश में आते हैं।<br>1. Magnet<br>2. Magic<br>3. Magical<br>4. Magnify<br>5. Magneto",
+    "section": "Reasoning",
+    "solution": "<b>Solution (EN):</b><br>Let's arrange the words according to the English dictionary:<br>1. Mag<b>ic</b> (2)<br>2. Mag<b>ical</b> (3)<br>3. Mag<b>net</b> (1)<br>4. Mag<b>neto</b> (5)<br>5. Mag<b>nify</b> (4)<br>The correct sequence is 2-3-1-5-4.<br><br><b>Solution (HI):</b><br>आइए शब्दों को अंग्रेजी शब्दकोश के अनुसार व्यवस्थित करें:<br>1. Mag<b>ic</b> (2)<br>2. Mag<b>ical</b> (3)<br>3. Mag<b>net</b> (1)<br>4. Mag<b>neto</b> (5)<br>5. Mag<b>nify</b> (4)<br>सही क्रम 2-3-1-5-4 है।<br><br><b>Short Trick:</b><br>Check the 4th letter: 'i' in Magic/Magical comes before 'n' in Magnet/Magnify/Magneto. Between Magic and Magical, Magic comes first. So sequence starts with 2, 3. Next is Magnet (1). Between Magneto (5) vs Magnify (4), 'e' comes before 'i', so 5 then 4. Sequence: 2-3-1-5-4.",
+    "topic": "Dictionary Order"
+  },
+  {
+    "ans": "2",
+    "difficulty": "Medium",
+    "op_en": [
+      "BHI : ZKG",
+      "MFK : KDI",
+      "WRS : ZAD",
+      "PRU : NSS"
+    ],
+    "op_hi": [
+      "BHI : ZKG",
+      "MFK : KDI",
+      "WRS : ZAD",
+      "PRU : NSS"
+    ],
+    "q_en": "Select that missing pair (Fifth letter cluster : Sixth letter cluster) which is related in the same way as the first letter cluster is related to the second letter cluster and third letter cluster is related to fourth letter cluster.<br>KMO : IKM :: DFG: BDE :: ?",
+    "q_hi": "उस लुप्त युग्म (पांचवां अक्षर समूह : छठा अक्षर समूह) का चयन करें जो उसी प्रकार संबंधित है जैसे पहला अक्षर समूह दूसरे अक्षर समूह से संबंधित है और तीसरा अक्षर समूह चौथे अक्षर समूह से संबंधित है।<br>KMO : IKM :: DFG: BDE :: ?",
+    "section": "Reasoning",
+    "solution": "<b>Solution (EN):</b><br>The pattern is:<br>K (-2) &rarr; I, M (-2) &rarr; K, O (-2) &rarr; M<br>D (-2) &rarr; B, F (-2) &rarr; D, G (-2) &rarr; E<br>Applying same to Option 2:<br>M (-2) &rarr; K, F (-2) &rarr; D, K (-2) &rarr; I<br>So, MFK : KDI is the correct pair.<br><br><b>Solution (HI):</b><br>पैटर्न इस प्रकार है:<br>K (-2) &rarr; I, M (-2) &rarr; K, O (-2) &rarr; M<br>D (-2) &rarr; B, F (-2) &rarr; D, G (-2) &rarr; E<br>विकल्प 2 पर भी यही लागू करने पर:<br>M (-2) &rarr; K, F (-2) &rarr; D, K (-2) &rarr; I<br>इसलिए, MFK : KDI सही युग्म है।<br><br><b>Short Trick:</b><br>Every letter is moving 2 steps back (-2). K&rarr;I, M&rarr;K, O&rarr;M. Only MFK : KDI follows this (-2) pattern.",
+    "topic": "Letter Analogy"
+  },
+  {
+    "ans": "2",
+    "difficulty": "Medium",
+    "op_en": [
+      "3",
+      "0",
+      "1",
+      "4"
+    ],
+    "op_hi": [
+      "3",
+      "0",
+      "1",
+      "4"
+    ],
+    "q_en": "Consider the five three letter words given below and the answer the questions based on it.<br>(Left) CMP GAT WIN ROG ACP (Right)<br>If all the letters of each word are replaced by the next letter as per the English alphabetical order, then in how many newly formed words, there will be only two vowels?",
+    "q_hi": "नीचे दिए गए पांच तीन अक्षरों वाले शब्दों पर विचार करें और इसके आधार पर प्रश्नों के उत्तर दें।<br>(बाएं) CMP GAT WIN ROG ACP (दाएं)<br>यदि प्रत्येक शब्द के सभी अक्षरों को अंग्रेजी वर्णमाला क्रम के अनुसार अगले अक्षर से बदल दिया जाए, तो कितने नवगठित शब्दों में केवल दो स्वर (vowels) होंगे?",
+    "section": "Reasoning",
+    "solution": "<b>Solution (EN):</b><br><b>Given Words:</b> CMP, GAT, WIN, ROG, ACP<br>Logic: Replace each letter with the next letter (+1).<br>C M P &rarr; D N Q (0 vowels)<br>G A T &rarr; H B U (1 vowel)<br>W I N &rarr; X J O (1 vowel)<br>R O G &rarr; S P H (0 vowels)<br>A C P &rarr; B D Q (0 vowels)<br>No word has exactly two vowels.<br><br><b>Solution (HI):</b><br><b>दिए गए शब्द:</b> CMP, GAT, WIN, ROG, ACP<br>तर्क: प्रत्येक अक्षर को अगले अक्षर (+1) से बदलें।<br>C M P &rarr; D N Q (0 स्वर)<br>G A T &rarr; H B U (1 स्वर)<br>W I N &rarr; X J O (1 स्वर)<br>R O G &rarr; S P H (0 स्वर)<br>A C P &rarr; B D Q (0 स्वर)<br>किसी भी शब्द में ठीक दो स्वर नहीं हैं।<br><br><b>Short Trick:</b><br>Original words must have Z, D, H, N, or T to produce vowels (A, E, I, O, U).<br>GAT has T&rarr;U (1), WIN has N&rarr;O (1). No word has two such letters. Answer is 0.",
+    "topic": "Alphanumeric Series"
+  },
+  {
+    "ans": "4",
+    "difficulty": "Easy",
+    "op_en": [
+      "Wore",
+      "World",
+      "Work",
+      "Worn"
+    ],
+    "op_hi": [
+      "Wore",
+      "World",
+      "Work",
+      "Worn"
+    ],
+    "q_en": "After arranging the given words according to dictionary order, which word will come at 'Fifth' position?<br>1. Worn<br>2. Word<br>3. Wore<br>4. Work<br>5. World",
+    "q_hi": "दिए गए शब्दों को शब्दकोश क्रम के अनुसार व्यवस्थित करने के बाद, कौन सा शब्द 'पांचवें' (Fifth) स्थान पर आएगा?<br>1. Worn<br>2. Word<br>3. Wore<br>4. Work<br>5. World",
+    "section": "Reasoning",
+    "solution": "<b>Solution (EN):</b><br>Arranging by dictionary order:<br>1. Wor<b>d</b> (2)<br>2. Wor<b>e</b> (3)<br>3. Wor<b>k</b> (4)<br>4. Wor<b>ld</b> (5)<br>5. Wor<b>n</b> (1)<br>The word at the 5th position is 'Worn'.<br><br><b>Solution (HI):</b><br>शब्दकोश क्रम के अनुसार व्यवस्थित करने पर:<br>1. Wor<b>d</b> (2)<br>2. Wor<b>e</b> (3)<br>3. Wor<b>k</b> (4)<br>4. Wor<b>ld</b> (5)<br>5. Wor<b>n</b> (1)<br>5वें स्थान पर आने वाला शब्द 'Worn' है।<br><br><b>Short Trick:</b><br>All start with 'Wor'. 4th letters are d, e, k, l, n. Sorting these: d(1st), e(2nd), k(3rd), l(4th), n(5th). So 'Worn' is 5th.",
+    "topic": "Dictionary Order"
+  },
+  {
+    "ans": "4",
+    "difficulty": "Hard",
+    "op_en": [
+      "(45, 16, 961)",
+      "(18, 19, 121)",
+      "(12, 14, 144)",
+      "(48, 44, 16)"
+    ],
+    "op_hi": [
+      "(45, 16, 961)",
+      "(18, 19, 121)",
+      "(12, 14, 144)",
+      "(48, 44, 16)"
+    ],
+    "q_en": "Select the option in which the numbers shares the same relationship in set as that shared by the numbers in the given set.<br>(12, 5, 49)<br>(42, 27, 225)",
+    "q_hi": "उस विकल्प का चयन करें जिसमें संख्याएं सेट में वही संबंध साझा करती हैं जो दिए गए सेट में संख्याओं द्वारा साझा किया जाता है।<br>(12, 5, 49)<br>(42, 27, 225)",
+    "section": "Reasoning",
+    "solution": "<b>Solution (EN):</b><br>Logic: (First Number - Second Number)<sup>2</sup> = Third Number<br>Set 1: (12 - 5)<sup>2</sup> = 7<sup>2</sup> = 49<br>Set 2: (42 - 27)<sup>2</sup> = 15<sup>2</sup> = 225<br>Option 4: (48 - 44)<sup>2</sup> = 4<sup>2</sup> = 16. This matches the logic.<br><br><b>Solution (HI):</b><br>तर्क: (पहली संख्या - दूसरी संख्या)<sup>2</sup> = तीसरी संख्या<br>सेट 1: (12 - 5)<sup>2</sup> = 7<sup>2</sup> = 49<br>सेट 2: (42 - 27)<sup>2</sup> = 15<sup>2</sup> = 225<br>विकल्प 4: (48 - 44)<sup>2</sup> = 4<sup>2</sup> = 16. यह तर्क से मेल खाता है।<br><br><b>Short Trick:</b><br>(First - Second)<sup>2</sup> = Third. Checking option 4: (48 - 44)<sup>2</sup> = 4<sup>2</sup> = 16. Match!",
+    "topic": "Number Analogy"
+  },
+  {
+    "ans": "4",
+    "difficulty": "Medium",
+    "op_en": [
+      "96",
+      "93",
+      "99",
+      "97"
+    ],
+    "op_hi": [
+      "96",
+      "93",
+      "99",
+      "97"
+    ],
+    "q_en": "In the following question, select the missing number from the given series.<br>67, 69, 73, 79, 87, ?",
+    "q_hi": "निम्नलिखित प्रश्न में, दी गई श्रृंखला से लुप्त संख्या का चयन करें।<br>67, 69, 73, 79, 87, ?",
+    "section": "Reasoning",
+    "solution": "<b>Solution (EN):</b><br>The series follows an addition of consecutive even numbers:<br>67 + 2 = 69<br>69 + 4 = 73<br>73 + 6 = 79<br>79 + 8 = 87<br>87 + 10 = 97<br>The missing number is 97.<br><br><b>Solution (HI):</b><br>श्रृंखला लगातार सम संख्याओं के जोड़ का अनुसरण करती है:<br>67 + 2 = 69<br>69 + 4 = 73<br>73 + 6 = 79<br>79 + 8 = 87<br>87 + 10 = 97<br>लुप्त संख्या 97 है।<br><br><b>Short Trick:</b><br>Differences are +2, +4, +6, +8. The next difference will be +10. 87 + 10 = 97.",
+    "topic": "Number Series"
+  },
+  {
+    "ans": "4",
+    "difficulty": "Medium",
+    "op_en": [
+      "8 &divide; 10 &times; 20 - 14 + 16 = 6",
+      "52 &times; 26 &divide; 13 + 39 - 18 = 47",
+      "15 + 16 &times; 8 &divide; 4 - 12 = 11",
+      "6 &times; 4 &divide; 2 + 7 - 5 = 4"
+    ],
+    "op_hi": [
+      "8 &divide; 10 &times; 20 - 14 + 16 = 6",
+      "52 &times; 26 &divide; 13 + 39 - 18 = 47",
+      "15 + 16 &times; 8 &divide; 4 - 12 = 11",
+      "6 &times; 4 &divide; 2 + 7 - 5 = 4"
+    ],
+    "q_en": "By interchanging the given two signs which of the following equation will be NOT correct? &times; and &divide;",
+    "q_hi": "दिए गए दो चिह्नों को आपस में बदलने पर निम्नलिखित में से कौन सा समीकरण सही नहीं होगा? &times; और &divide;",
+    "section": "Reasoning",
+    "solution": "<b>Solution (EN):</b><br>Interchange &times; and &divide; in Option 4:<br>Equation: 6 &divide; 4 &times; 2 + 7 - 5<br>= 1.5 &times; 2 + 7 - 5<br>= 3 + 7 - 5 = 5<br>But the equation says 4. So, 5 &ne; 4. This equation is NOT correct.<br><br><b>Solution (HI):</b><br>विकल्प 4 में &times; और &divide; को आपस में बदलें:<br>समीकरण: 6 &divide; 4 &times; 2 + 7 - 5<br>= 1.5 &times; 2 + 7 - 5<br>= 3 + 7 - 5 = 5<br>लेकिन समीकरण 4 कहता है। अतः, 5 &ne; 4। यह समीकरण सही नहीं है।<br><br><b>Short Trick:</b><br>Quickly check Option 4: 6/4 * 2 + 7 - 5 = 3 + 7 - 5 = 5. Target is 4. Mismatch found!",
+    "topic": "Mathematical Operations"
+  },
+  {
+    "ans": "3",
+    "difficulty": "Hard",
+    "op_en": [
+      "40 + 10 &divide; 100 - 4 = 50 + 4 - 100 &times; 1",
+      "350 &times; 50 + 10 - 3 = 500 &divide; 300 - 50 &times; 5",
+      "8 + 9 &times; 3 &times; 1 > 20 &times; 2 - 8 &times; 1",
+      "5 &divide; 7 + 3 - 4 > 3 &divide; 5 - 6 + 4"
+    ],
+    "op_hi": [
+      "40 + 10 &divide; 100 - 4 = 50 + 4 - 100 &times; 1",
+      "350 &times; 50 + 10 - 3 = 500 &divide; 300 - 50 &times; 5",
+      "8 + 9 &times; 3 &times; 1 > 20 &times; 2 - 8 &times; 1",
+      "5 &divide; 7 + 3 - 4 > 3 &divide; 5 - 6 + 4"
+    ],
+    "q_en": "If '&divide;' means '-', '-' means '+', '+' means '&times;' and '&times;' means '&divide;', then which of the following equation is correct?",
+    "q_hi": "यदि '&divide;' का अर्थ '-', '-' का अर्थ '+', '+' का अर्थ '&times;' और '&times;' का अर्थ '&divide;' है, तो निम्नलिखित में से कौन सा समीकरण सही है?",
+    "section": "Reasoning",
+    "solution": "<b>Solution (EN):</b><br>Replacing signs in Option 3:<br>LHS: 8 &times; 9 &divide; 3 &divide; 1 = 72 &divide; 3 = 24<br>RHS: 20 &divide; 2 + 8 &divide; 1 = 10 + 8 = 18<br>As 24 > 18, the equation is correct.<br><br><b>Solution (HI):</b><br>विकल्प 3 में चिह्नों को बदलना:<br>बायां पक्ष (LHS): 8 &times; 9 &divide; 3 &divide; 1 = 72 &divide; 3 = 24<br>दायां पक्ष (RHS): 20 &divide; 2 + 8 &divide; 1 = 10 + 8 = 18<br>चूंकि 24 > 18 है, इसलिए समीकरण सही है।<br><br><b>Short Trick:</b><br>Substitute and solve Option 3: (8 * 9 / 3) > (20 / 2 + 8). 24 > 18. True.",
+    "topic": "Mathematical Operations"
+  },
+  {
+    "ans": "1",
+    "difficulty": "Easy",
+    "op_en": [
+      "18",
+      "21",
+      "17",
+      "20"
+    ],
+    "op_hi": [
+      "18",
+      "21",
+      "17",
+      "20"
+    ],
+    "q_en": "Consider the five three digit numbers given below and the answer the questions based on it.<br>(Left) 891 512 341 529 875 (Right)<br>What will be the sum of unit's digit of all the given three digit numbers?",
+    "q_hi": "नीचे दी गई पांच तीन अंकों की संख्याओं पर विचार करें और इसके आधार पर प्रश्नों के उत्तर दें।<br>(बाएं) 891 512 341 529 875 (दाएं)<br>दी गई सभी तीन अंकों की संख्याओं के इकाई अंक का योग क्या होगा?",
+    "section": "Reasoning",
+    "solution": "<b>Solution (EN):</b><br><b>Given Numbers:</b> 891, 512, 341, 529, 875<br>Logic: Sum of unit's digits.<br>1 + 2 + 1 + 9 + 5 = 18.<br>Option 1 is correct.<br><br><b>Solution (HI):</b><br><b>दी गई संख्याएं:</b> 891, 512, 341, 529, 875<br>तर्क: इकाई अंकों का योग।<br>1 + 2 + 1 + 9 + 5 = 18.<br>विकल्प 1 सही है।<br><br><b>Short Trick:</b><br>Add the last digits directly: 1 + 2 + 1 + 9 + 5 = 18.",
+    "topic": "Numbers"
+  }
+]
