@@ -1,0 +1,422 @@
+[
+  {
+    "ans": "1",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "1120",
+      "1160",
+      "1060",
+      "1080"
+    ],
+    "q_en": "",
+    "q_hi": "उधार दी गई ₹3500 की राशि पर 8% वार्षिक ब्याज दर से 4 वर्षों का साधारण ब्याज (₹ में) ज्ञात कीजिए।",
+    "section": "Arithmetical and Numerical Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "2",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "40%",
+      "50%",
+      "45%",
+      "60%"
+    ],
+    "q_en": "",
+    "q_hi": "दिए गए दंड आलेख का अध्ययन करें और निम्नलिखित प्रश्न का उत्तर दें।<br>\n<br>\nदिया गया दंड आलेख किसी कंपनी द्वारा वर्षों के दौरान उर्वरकों के उत्पादन (10000 टन में) को दर्शाता है।<br>\n<br>\n<img loading=\"lazy\" src=\"data:image/png;base64,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\" style=\"max-width:100%;height:auto;\"><br>\n2020 की तुलना में 2022 में उर्वरकों के उत्पादन में कितने प्रतिशत की वृद्धि हुई?<br>\n<br>\n<strong>संदर्भ:</strong><br>\nProduction (in 10000 tonnes) = उत्पादन ( 10000 टन में)<br>\nYears = वर्ष<br>",
+    "section": "Arithmetical and Numerical Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "1",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "2,139",
+      "1,492",
+      "2,990",
+      "2,496"
+    ],
+    "q_en": "",
+    "q_hi": "सुरेश ₹5,704 में कुछ मात्रा में जौ खरीदता है। इसका आधा हिस्सा 39% लाभ पर बेचा जाता है। यदि सुरेश कुल मिलाकर 7% लाभ अर्जित करना चाहता है, तो शेष जौ का विक्रय मूल्य (₹ में) ज्ञात कीजिए।",
+    "section": "Arithmetical and Numerical Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "2",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "72",
+      "84",
+      "90",
+      "56"
+    ],
+    "q_en": "",
+    "q_hi": "एक व्यक्ति 10 km/hr, 12 km/hr और 15 km/hr की चाल से तीन समान दूरियां तय करता है। यदि उसे कुल 7 घंटे का समय लगता है, तो कुल दूरी (km में) कितनी है?",
+    "section": "Arithmetical and Numerical Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "2",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "89.07",
+      "79.51",
+      "83.42",
+      "86.12"
+    ],
+    "q_en": "",
+    "q_hi": "एक ईंट की विमाएं 8.5 इंच, 5.6 इंच और 4.3 इंच हैं। ईंट से काटे जा सकने वाले सबसे बड़े घन का आयतन (इंच<sup>3</sup> में) ज्ञात कीजिए। (दशमलव के दो स्थानों तक पूर्णांकित कीजिए)",
+    "section": "Arithmetical and Numerical Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "4",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "75",
+      "79",
+      "62",
+      "68"
+    ],
+    "q_en": "",
+    "q_hi": "यदि 28, K, 56 और 136 सतत अनुपात में हैं, तो K का मान ज्ञात कीजिए।",
+    "section": "Arithmetical and Numerical Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "1",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "26.5%",
+      "27.5%",
+      "28.5%",
+      "25.5%"
+    ],
+    "q_en": "",
+    "q_hi": "यदि कुंदन के वेतन में पहले वर्ष में 15% और अगले वर्ष में 10% की वृद्धि होती है, तो दो वर्षों के बाद वेतन में नेट प्रतिशत वृद्धि कितनी होगी?",
+    "section": "Arithmetical and Numerical Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "4",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "<img align=\"middle\" alt=\"94 space pi space\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mn»94«/mn»«mo»§#160;«/mo»«mi»§#960;«/mi»«mo»§#160;«/mo»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACoAAAANCAYAAADfavzVAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAMyZLetQAAAThJREFUeNpjYIAAeSBeA8TfgPgLEM8FYlEG/GAVEP9noCMQB+LnQLwBiLmAWAPKvwbEPDj0REMdSYxDQR6+gqSeEPbCZdA0qAIlJLEsqFgjFvWyQHyGBIdWk+BIvA59jcVCSajYLSzqdwOxHgkOLQDiZiBmwqEHxP9BTNT/gSpmwWLALzSxEiDOQJInNY1S5NBrUMWhWAz4hsTXAeKlBCylqUNh6fEuNJ2CQjYRKrYXqoYNiHcAsSCNHPqLWAPygPgpVAMo91dCDYiHyvcBsTkRlpLrULKLuaNAfByLYbgwKQ79hSOPkARA0T4fiB9Ccz6poUPIbPR0zwC1CyQuTYwhoJopDYhvQNOiKJnRiA8YQ9VfQhPvg4qDMqofEAvjs/ATEK/DV9hSwaG1UPXJaOKCULv/QOmhDQCqQoeqsNLqxgAAAHh0RVh0TWF0aE1MADxtYXRoIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8xOTk4L01hdGgvTWF0aE1MIj48bW4+OTQ8L21uPjxtbz4mI3hBMDs8L21vPjxtaT4mI3gzQzA7PC9taT48bW8+JiN4QTA7PC9tbz48L21hdGg+1KVWzQAAAABJRU5ErkJggg==\" style=\"max-width: none;\">",
+      "<img align=\"middle\" alt=\"90 space pi space\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mn»90«/mn»«mo»§#160;«/mo»«mi»§#960;«/mi»«mo»§#160;«/mo»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACoAAAANCAYAAADfavzVAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAMyZLetQAAAXBJREFUeNpjYIAAeSBeA8TfgPgLEM8FYlEGTAAS2wTEv4B4LxBLMtARiAPxcyDeAMRcQKwB5V8DYh40tcehmAOItwHxBSBmImA+yHNXgPg/kdgLl0HToAqUkMSyoGKNSGLhULEgKD8Ayk8m4NBqEhyJ16GvoQqQgSRU7BaS2BqomBaULwzlryHg0AIgboaG/H8sdoH4P4iJ+j9QxSxYDPiFxH+Kpg5m8QcSkhlFDr0GVRyKxYBvSPxfOCz5RS+HwtLjXWg6BYVYIlRsL5aQJ8sSAg4l2rN50Kj9Bc39lVAD4pHUvIOKwXI5C5T/kgoO/U9ukXUUWgwxYMlMsLJTlsjMRCj0/pDjUFAozQfih1gK81i04ikIyk8kwWz0dM8AtQskLk2MIaCaKQ2IbwDxDhy1EijKL0HTLRsQ74fymYh0qDHUQZfQxPug4kuB2A9a7OGMjk9AvA5fYYtUvu5HSsviJMRWLY4KQhBq9x8oPbQBACq2jZizfO2TAAAAeHRFWHRNYXRoTUwAPG1hdGggeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzE5OTgvTWF0aC9NYXRoTUwiPjxtbj45MDwvbW4+PG1vPiYjeEEwOzwvbW8+PG1pPiYjeDNDMDs8L21pPjxtbz4mI3hBMDs8L21vPjwvbWF0aD6q5EdIAAAAAElFTkSuQmCC\" style=\"max-width: none;\">",
+      "<img align=\"middle\" alt=\"92 space pi space\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mn»92«/mn»«mo»§#160;«/mo»«mi»§#960;«/mi»«mo»§#160;«/mo»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACoAAAANCAYAAADfavzVAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAMyZLetQAAAVhJREFUeNpjYIAAeSBeA8TfgPgLEM8FYlEGVGAJxNeA+BcQPwfiDiBmYaAjEIdavAGIuYBYA8oHOYoHqkYQyWFKULn/QNxDhPkgD1+BqicGe+EyaBpUgRKSWBZUrBHKT0QLPUuo/BciHFpNgiPxOvQ1VAEykISK3cLjgP/QpEIIFABxMxAzITkG3ZwfxET9H6hiFiwG/MKhhw0qv4nEZEaRQ2HpLZSEEAuHypvT06Gw9HgXmk5ZoGkSJLYXh55zQDyTjIyLy6G/iDUgD4ifQjWAcn8l1IB4HGnuDBBzUNGh/8ktso4C8XEs4tZQRwqTaS620PtDjkNB0T4fiB9Ccz4yAFUKu9EcGQ1N48SajS3dP4SKSxNjCMgRaUB8A4h3YKmVQI5+jKPcm0SkQ42h6i+hifdBxZcCsR++2AIp+gTE6/AUtrfIKaDRQC1UfTKauCDU7j9QemgDAPxmhp9kDl9RAAAAeHRFWHRNYXRoTUwAPG1hdGggeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzE5OTgvTWF0aC9NYXRoTUwiPjxtbj45MjwvbW4+PG1vPiYjeEEwOzwvbW8+PG1pPiYjeDNDMDs8L21pPjxtbz4mI3hBMDs8L21vPjwvbWF0aD54fEyqAAAAAElFTkSuQmCC\" style=\"max-width: none;\">",
+      "<img align=\"middle\" alt=\"96 space pi space\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mn»96«/mn»«mo»§#160;«/mo»«mi»§#960;«/mi»«mo»§#160;«/mo»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACoAAAANCAYAAADfavzVAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAMyZLetQAAAXpJREFUeNpjYIAAeSBeA8TfgPgLEM8FYlEG3MAPqv4TEP9hoBMQB+LnQLwBiLmAWAPKvwbEPGhqQY7fDXVgPRAbAzETAfNBeq4A8X8isRcug6ZBFSghiWVBxRqRxCSB+D4QnwRiaRICopoER+J16GuoAgY0R4HEbiGJHYc6VJDEGCsA4mZoyP/HYheI/4MYg/5AFbNgMeAXlB0N5XcB8TaowU+BOI9ER1Pk0GtQxaFYDPgGZe+A8jOgHlKChi5ILJleDoWlx7tQB4AckggV2wtV8w2LBbBQvkYFh/4i1oA8aFT+gub+SqgB8VD5X1gsYCMlNAg49D+5RdZRaOaBgRtQwySxWPKSRIf+wpFHSAKgaJ8PxA/RHNUINSwLSUwJKtZHgtnI6R4GHkLFiSryQDVTGjTkdmCplbighfZLaIUAqgi2APFjIBYm0qHGUAddQhPvg4ovhdZ4wviiA1TTrMNX2EIdvxiaJkF4OYkFfy2OUkIQavcfKD20AQAUso2mxsjHRwAAAHh0RVh0TWF0aE1MADxtYXRoIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8xOTk4L01hdGgvTWF0aE1MIj48bW4+OTY8L21uPjxtbz4mI3hBMDs8L21vPjxtaT4mI3gzQzA7PC9taT48bW8+JiN4QTA7PC9tbz48L21hdGg+Bj1dLwAAAABJRU5ErkJggg==\" style=\"max-width: none;\">"
+    ],
+    "q_en": "",
+    "q_hi": "एक ठोस शंकु की तिर्यक् ऊंचाई 10 cm है, और उसकी त्रिज्या 6 cm है। उसका सम्‍पूर्ण पृष्ठीय क्षेत्रफल (cm<sup>2</sup>) कितना है?",
+    "section": "Arithmetical and Numerical Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "2",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "9",
+      "3",
+      "10",
+      "4"
+    ],
+    "q_en": "",
+    "q_hi": "दो नल एक टंकी को क्रमशः 3 घंटे और 36 घंटे में भर सकते हैं। तीसरा नल उसे 4 घंटे में खाली कर सकता है। यदि सभी नल एक साथ खोल दिए जाएं, तो खाली टंकी का एक-तिहाई भाग भरने में कितना समय (घंटों में) लगेगा?",
+    "section": "Arithmetical and Numerical Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "3",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "30%",
+      "16%",
+      "25%",
+      "20%"
+    ],
+    "q_en": "",
+    "q_hi": "एक दुकानदार अंकित मूल्य पर 20% छूट के साथ सामान खरीदता है और उसे अंकित मूल्य पर बेच देता है। उसका लाभ प्रतिशत ज्ञात कीजिए। \n<div> </div>",
+    "section": "Arithmetical and Numerical Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "4",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "<img align=\"middle\" alt=\"begin mathsize 12px style 2 1 fifth end style\" class=\"Wirisformula\" data-mathml=\"«math style=¨font-family:Arial¨ xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mstyle mathsize=¨12px¨»«mn»2«/mn»«mfrac»«mn»1«/mn»«mn»5«/mn»«/mfrac»«/mstyle»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAgCAYAAAAIXrg4AAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAVrfl2dQAAANFJREFUeNpjYCAfqAFxLRBfYKARWArEWUD8n4HGYNSCUQuGiwU+QHwYiH8B8XEg7gFiDiIMRsc4wRYgtgdiJii/BIgn0dLbINd/oaUFLED8jZYWZADxfFoZrgfER4FYmMiI/U9KhJsD8QYgFqWFyy2BeC40/KkOZIF4HS0jdTcQa9A6u5OUM+lR/tDUQaN1AFEW/ADih0A8G9oIowkA5fhEIL4PxI609BGoiDlH62CjafGuAa0VqQZAdYU8lK0DLd4NqGlBMhC/hqakg0DsgkshAKKARHFxJItZAAAAp3RFWHRNYXRoTUwAPG1hdGggeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzE5OTgvTWF0aC9NYXRoTUwiIHN0eWxlPSJmb250LWZhbWlseTpBcmlhbCI+PG1zdHlsZSBtYXRoc2l6ZT0iMTJweCI+PG1uPjI8L21uPjxtZnJhYz48bW4+MTwvbW4+PG1uPjU8L21uPjwvbWZyYWM+PC9tc3R5bGU+PC9tYXRoPgGOm1MAAAAASUVORK5CYII=\" style=\"max-width: none;\"> दिन",
+      "<img align=\"middle\" alt=\"begin mathsize 12px style 5 1 over 13 space end style\" class=\"Wirisformula\" data-mathml=\"«math style=¨font-family:Arial¨ xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mstyle mathsize=¨12px¨»«mn»5«/mn»«mfrac»«mn»1«/mn»«mn»13«/mn»«/mfrac»«mo»§#160;«/mo»«/mstyle»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACUAAAAgCAYAAACVU7GwAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAVrfl2dQAAAPJJREFUeNpjYKAuUAPiWiC+wDCIwFIgzgLi/wyDEIw6atRRo44adRS1HfUfB6aGOaPBPXId9QOIHwLxbGhtP2iAKBAnAvF9IHYkIUOQi0kC5kB8bjBG6bfB5iANIN4y0I6YD8TyULYOEB8FYoOBdlQyEL+G5sCDQOzCMEQBoU6CHxCfAeJfQPwO2n6XHuhOwgZoLmZCio2jg602YIKG2qBylCw9y77/RIQQqHZYB83ZA+4oWHXyGIglB1MLAxRSlkC8BprwB1WaAlX2twZj7vsy0I7aghRdfEDcBcST6OEYfO0jH2iJ/geInwJxKxCzEGMwABj6X2eYpc9jAAAAt3RFWHRNYXRoTUwAPG1hdGggeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzE5OTgvTWF0aC9NYXRoTUwiIHN0eWxlPSJmb250LWZhbWlseTpBcmlhbCI+PG1zdHlsZSBtYXRoc2l6ZT0iMTJweCI+PG1uPjU8L21uPjxtZnJhYz48bW4+MTwvbW4+PG1uPjEzPC9tbj48L21mcmFjPjxtbz4mI3hBMDs8L21vPjwvbXN0eWxlPjwvbWF0aD61bHRpAAAAAElFTkSuQmCC\" style=\"max-width: none;\">दिन",
+      "<img align=\"middle\" alt=\"begin mathsize 12px style 4 1 fourth end style\" class=\"Wirisformula\" data-mathml=\"«math style=¨font-family:Arial¨ xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mstyle mathsize=¨12px¨»«mn»4«/mn»«mfrac»«mn»1«/mn»«mn»4«/mn»«/mfrac»«/mstyle»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAgCAYAAAAIXrg4AAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAVrfl2dQAAAHZJREFUeNpjYCAfqAFxLRBfYKARWArEWUD8n4HGYNSCUQuGqwXhRGj8jwUTBWSB+AytvM4ExIeBWI9WFjQDcQGtIs8eiLfQKnWIQsNdmIAF/0nAKGADENvSMn0T7ZLRIoCuFlC7aCEbjBYtg7toIRuMFi1DyAIAobxJPPUcVskAAACndEVYdE1hdGhNTAA8bWF0aCB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMTk5OC9NYXRoL01hdGhNTCIgc3R5bGU9ImZvbnQtZmFtaWx5OkFyaWFsIj48bXN0eWxlIG1hdGhzaXplPSIxMnB4Ij48bW4+NDwvbW4+PG1mcmFjPjxtbj4xPC9tbj48bW4+NDwvbW4+PC9tZnJhYz48L21zdHlsZT48L21hdGg+bhCVAwAAAABJRU5ErkJggg==\" style=\"max-width: none;\"> दिन",
+      "<img align=\"middle\" alt=\"begin mathsize 12px style 3 1 over 13 end style\" class=\"Wirisformula\" data-mathml=\"«math style=¨font-family:Arial¨ xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mstyle mathsize=¨12px¨»«mn»3«/mn»«mfrac»«mn»1«/mn»«mn»13«/mn»«/mfrac»«/mstyle»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACEAAAAgCAYAAACcuBHKAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAVrfl2dQAAANlJREFUeNpjYKAuUAPiWiC+wDCAYCkQZwHxf4ZBAEYdMeqIUUcMP0f4AfEZIP4FxO+ghY40mZajY6LBBiA2B2ImKD8ZiI8OdHAyQUNlQIEsEJ8byBBwBOJ1QKwzUCkahB8DsSQJCY8SjDMkLIF4DTShDigQBeJbgyF3fKG3pVuQgp8PiLuAeBK9HeEDLTH/APFTIG4FYhaGIQAINWqpVRVQ1Kila1Xwn4TE/mugHUHTquA/ESFA86rgP4VVAd1CguZVAbFpgqZVASm54wu9HUGXqoBQ+4DoqgAACFBdq1WIvd8AAACodEVYdE1hdGhNTAA8bWF0aCB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMTk5OC9NYXRoL01hdGhNTCIgc3R5bGU9ImZvbnQtZmFtaWx5OkFyaWFsIj48bXN0eWxlIG1hdGhzaXplPSIxMnB4Ij48bW4+MzwvbW4+PG1mcmFjPjxtbj4xPC9tbj48bW4+MTM8L21uPjwvbWZyYWM+PC9tc3R5bGU+PC9tYXRoPr5ya0sAAAAASUVORK5CYII=\" style=\"max-width: none;\">दिन"
+    ],
+    "q_en": "",
+    "q_hi": "A और B किसी कार्य को क्रमशः 5 दिन और 8 दिन में पूरा कर सकते हैं। दोनों मिलकर उस कार्य को कितने दिनों में पूरा करेंगे?",
+    "section": "Arithmetical and Numerical Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "2",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "4",
+      "5",
+      "6",
+      "8"
+    ],
+    "q_en": "",
+    "q_hi": "क्रमागत चार प्राकृत संख्याओं का LCM, 840 है। सबसे छोटी संख्या ज्ञात कीजिए।",
+    "section": "Arithmetical and Numerical Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "2",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "53 kg",
+      "52 kg",
+      "51 kg",
+      "54 kg"
+    ],
+    "q_en": "",
+    "q_hi": "एक परिवार के 40 kg, 49 kg, 57 kg, 76 kg और 38 kg वजन वाले पांच सदस्यों का औसत वजन ज्ञात कीजिए।",
+    "section": "Arithmetical and Numerical Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "3",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "₹1,894",
+      "₹1,849",
+      "₹1,984",
+      "₹1,948"
+    ],
+    "q_en": "",
+    "q_hi": "₹13,020 की राशि को A, B, C और D के बीच इस प्रकार विभाजित किया जाता है कि A और B के हिस्से का अनुपात 2 : 3 है, B और C के हिस्से का अनुपात 4 : 5 है, तथा C और D के हिस्से का अनुपात 6 : 7 है। A का हिस्सा ज्ञात कीजिए।<span style=\"color:#ffffff;\"></span>",
+    "section": "Arithmetical and Numerical Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "1",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "₹2,090",
+      "₹2,075",
+      "₹2,100",
+      "₹2,125"
+    ],
+    "q_en": "",
+    "q_hi": "एक दुकानदार एक वस्तु का मूल्य ₹2,500 अंकित करता है। सेल के दौरान, वह अंकित मूल्य पर 12% की छूट प्रदान करता है। हालांकि, ग्राहक के पास छूट के बाद वाले मूल्य पर अतिरिक्त 5% की छूट का कूपन भी है। ग्राहक द्वारा भुगतान किया गया अंतिम मूल्य ज्ञात कीजिए।",
+    "section": "Arithmetical and Numerical Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "3",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "1400 cm",
+      "1200 cm",
+      "1800 cm",
+      "1600 cm"
+    ],
+    "q_en": "",
+    "q_hi": "एक ठोस धात्विक गोले का व्यास 12 cm है। इसे पिघलाकर एक समान अनुप्रस्थ काट वाले 8 mm व्यास के तार में खींचा जाता है। तार की लंबाई ज्ञात कीजिए।<span style=\"color:#ffffff;\"></span>",
+    "section": "Arithmetical and Numerical Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "3",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "350",
+      "360",
+      "400",
+      "300"
+    ],
+    "q_en": "",
+    "q_hi": "एक दुकानदार के पास 500 kg चाय है, जिसका एक हिस्सा वह 8% लाभ पर और शेष हिस्सा 18% लाभ पर बेचता है। दुकानदार को कुल मिलाकर 10% का लाभ होता है। उसने 8% लाभ पर कितनी मात्रा (किलो में) बेची?",
+    "section": "Arithmetical and Numerical Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "2",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "6,50,000",
+      "6,65,500",
+      "6,60,000",
+      "6,70,000"
+    ],
+    "q_en": "",
+    "q_hi": "किसी कस्बे की जनसंख्या प्रति वर्ष 10% बढ़ती है। यदि वर्तमान जनसंख्या 5,50,000 है, तो 2 वर्ष बाद इस कस्बे की जनसंख्या कितनी होगी?",
+    "section": "Arithmetical and Numerical Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "3",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "4",
+      "2",
+      "1",
+      "3"
+    ],
+    "q_en": "",
+    "q_hi": "एक नाविक, धारा की विपरीत दिशा में 32 km और धारा की दिशा में 48 km की दूरी तय करता है और दोनों ही स्थितियों में उसे 8 घंटे लगते हैं।<br>\nधारा की चाल (km/hr में) ज्ञात कीजिए।",
+    "section": "Arithmetical and Numerical Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "1",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "12",
+      "36",
+      "18",
+      "24"
+    ],
+    "q_en": "",
+    "q_hi": "दो संख्याओं का महत्तम समापवर्तक (HCF) 12 है, और उनमें से एक संख्या 36 है। दूसरी संख्या का सबसे छोटा संभावित मान ज्ञात कीजिए।",
+    "section": "Arithmetical and Numerical Ability",
+    "solution": "",
+    "topic": ""
+  }
+]
