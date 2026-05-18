@@ -1,0 +1,317 @@
+[
+  {
+    "ans": "1",
+    "level": "Easy",
+    "op_en": [
+      "Kanyakumari",
+      "Kochi",
+      "Thoothukudi",
+      "Mangalore"
+    ],
+    "op_hi": [
+      "कन्याकुमारी",
+      "कोच्चि",
+      "थूथुकुडी",
+      "मैंगलोर"
+    ],
+    "q_en": "The Western Coastal Plains of India stretch along the Arabian Sea, extending from the Rann of Kachchh in the north to which southernmost point of the Indian mainland?",
+    "q_hi": "भारत के पश्चिमी तटीय मैदान अरब सागर के साथ फैले हुए हैं, जो उत्तर में कच्छ के रण से लेकर भारतीय मुख्य भूमि के किस सबसे दक्षिणी बिंदु तक विस्तृत हैं?",
+    "section": "General Knowledge Including Current Affairs",
+    "solution": "<b>📌 Concept:</b><br>भारत के पश्चिमी तटीय मैदान (Western Coastal Plains) अरब सागर और पश्चिमी घाट के बीच स्थित हैं। यह उत्तर में गुजरात (कच्छ) से शुरू होकर दक्षिण में तमिलनाडु के कन्याकुमारी तक जाते हैं।<br><br><b>🔍 Context:</b><br>इन मैदानों को अलग-अलग हिस्सों में कोंकण तट (महाराष्ट्र/गोवा), कन्नड़ तट (कर्नाटक) और मालाबार तट (केरल) के नाम से जाना जाता है।<br><br><b>🧠 Explanation (Option-wise Breakdown):</b><br>1. Kanyakumari → सही। यह भारत की मुख्य भूमि का सबसे दक्षिणी सिरा है जहाँ पश्चिमी और पूर्वी तटीय मैदान मिलते हैं।<br>2. Kochi → यह मालाबार तट का एक बंदरगाह है, दक्षिणी बिंदु नहीं।<br>3. Thoothukudi → यह पूर्वी तट (तमिलनाडु) पर स्थित है।<br><br><b>⚡ Smart Exam Trick:</b><br>अगर 'Southernmost point of Mainland' पूछा जाए, तो उत्तर हमेशा कन्याकुमारी होगा।<br><br><b>🎯 Memory Hack:</b><br>Kachchh (North) $\\\\rightarrow$ Kanyakumari (South). K-to-K link.<br><br><b>🚫 Common Mistake:</b><br>छात्र अक्सर 'Indira Point' से भ्रमित हो जाते हैं, लेकिन इंदिरा पॉइंट द्वीपों (Andaman) में है, मुख्य भूमि (Mainland) पर कन्याकुमारी है।",
+    "topic": "Geography (Indian Geography)"
+  },
+  {
+    "ans": "4",
+    "level": "Easy",
+    "op_en": [
+      "Odisha",
+      "Gujarat",
+      "Uttar Pradesh",
+      "Bihar"
+    ],
+    "op_hi": [
+      "ओडिशा",
+      "गुजरात",
+      "उत्तर प्रदेश",
+      "बिहार"
+    ],
+    "q_en": "The ruins of Nalanda University, a UNESCO heritage site, are in which Indian state?",
+    "q_hi": "यूनेस्को (UNESCO) विरासत स्थल, नालंदा विश्वविद्यालय के अवशेष किस भारतीय राज्य में हैं?",
+    "section": "General Knowledge Including Current Affairs",
+    "solution": "<b>📌 Concept:</b><br>नालंदा विश्वविद्यालय प्राचीन भारत का सबसे प्रसिद्ध शिक्षा केंद्र था, जिसकी स्थापना 5वीं शताब्दी में गुप्त वंश के शासक 'कुमारगुप्त प्रथम' ने की थी।<br><br><b>🧠 Explanation:</b><br>यह बिहार के 'राजगीर' (नालंदा जिले) में स्थित है। 12वीं शताब्दी के अंत में बख्तियार खिलजी ने इसे नष्ट कर दिया था। 2016 में इसे UNESCO विश्व धरोहर स्थल घोषित किया गया।<br><br><b>⚡ Smart Exam Trick:</b><br>प्राचीन मगध साम्राज्य और मौर्य साम्राज्य की राजधानी बिहार में थी, इसलिए अधिकतर प्राचीन विश्वविद्यालय (नालंदा, विक्रमशिला) बिहार में ही मिलेंगे।<br><br><b>🎯 Memory Hack:</b><br>नालंदा = 'ना-लंदा' (ज्ञान देने वाला) $\\\\rightarrow$ बुद्ध की भूमि बिहार।",
+    "topic": "History (Ancient India)"
+  },
+  {
+    "ans": "4",
+    "level": "Hard",
+    "op_en": [
+      "Kavaratti Island",
+      "Agatti Island",
+      "Minicoy Island",
+      "Bitra Island"
+    ],
+    "op_hi": [
+      "कवरत्ती द्वीप",
+      "अगाती द्वीप",
+      "मिनिकॉय द्वीप",
+      "बित्रा द्वीप"
+    ],
+    "q_en": "Which of the following is the smallest inhabited island in the Lakshadweep group of islands?",
+    "q_hi": "लक्षद्वीप द्वीप समूह में निम्नलिखित में से कौन सा सबसे छोटा बसा हुआ (आबादी वाला) द्वीप है?",
+    "section": "General Knowledge Including Current Affairs",
+    "solution": "<b>📌 Concept:</b><br>लक्षद्वीप भारत का सबसे छोटा केंद्र शासित प्रदेश है। इसमें कुल 36 द्वीप हैं, जिनमें से केवल 10 पर आबादी रहती है।<br><br><b>🧠 Explanation:</b><br>बित्रा (Bitra) द्वीप सबसे छोटा बसा हुआ द्वीप है। इसकी आबादी मात्र कुछ सौ लोगों की है।<br><br><b>🔍 Word Insight:</b><br>- <b>Kavaratti:</b> लक्षद्वीप की राजधानी।<br>- <b>Minicoy:</b> दूसरा सबसे बड़ा और सबसे दक्षिणी द्वीप।<br><br><b>⚡ Smart Exam Trick:</b><br>'Smallest' के लिए 'B' (Bitra) याद रखें। यह अक्सर परीक्षाओं में 'Static GK' के रूप में पूछा जाता है।",
+    "topic": "Geography (Islands of India)"
+  },
+  {
+    "ans": "2",
+    "level": "Moderate",
+    "op_en": [
+      "Better Together: 80 years of Sustainable Development for All",
+      "Better Together: 80 years and more for peace, development and human rights",
+      "Better World: 80 Climate Action Now",
+      "Peace, Democracy, and Security"
+    ],
+    "op_hi": [
+      "बेटर टुगेदर: सभी के लिए सतत विकास के 80 वर्ष",
+      "बेटर टुगेदर: शांति, विकास और मानवाधिकारों के लिए 80 वर्ष और उससे अधिक",
+      "बेटर वर्ल्ड: 80 क्लाइमेट एक्शन नाउ",
+      "शांति, लोकतंत्र और सुरक्षा"
+    ],
+    "q_en": "What is the theme for the 80th session of the United Nations General Assembly (UNGA) in 2025?",
+    "q_hi": "2025 में संयुक्त राष्ट्र महासभा (UNGA) के 80वें सत्र का विषय (Theme) क्या है?",
+    "section": "General Knowledge Including Current Affairs",
+    "solution": "<b>📌 Concept:</b><br>संयुक्त राष्ट्र महासभा (UNGA) हर साल एक विशेष थीम पर काम करती है। 2025 में इसके 80 साल पूरे होने पर 'Better Together' थीम रखी गई है।<br><br><b>🧠 Explanation:</b><br>संयुक्त राष्ट्र के तीन मुख्य स्तंभ हैं: 1. शांति (Peace), 2. विकास (Development), 3. मानवाधिकार (Human Rights)। थीम में इन तीनों का जिक्र अनिवार्य है।",
+    "topic": "Current Affairs (International)"
+  },
+  {
+    "ans": "4",
+    "level": "Easy",
+    "op_en": [
+      "Makar Sankranti",
+      "Onam",
+      "Pongal",
+      "Baisakhi"
+    ],
+    "op_hi": [
+      "मकर संक्रांति",
+      "ओणम",
+      "पोंगल",
+      "बैसाखी"
+    ],
+    "q_en": "Which harvest festival of Punjab is celebrated with bhangra, gidda, fairs, and traditional Punjabi food?",
+    "q_hi": "पंजाब का कौन सा फसल उत्सव भांगड़ा, गिद्धा, मेलों और पारंपरिक पंजाबी भोजन के साथ मनाया जाता है?",
+    "section": "General Knowledge Including Current Affairs",
+    "solution": "<b>📌 Concept:</b><br>बैसाखी पंजाब का प्रमुख फसल उत्सव है, जो रबी फसलों की कटाई की खुशी में मनाया जाता है।<br><br><b>🔍 Context:</b><br>इसी दिन (13 अप्रैल 1699) गुरु गोविंद सिंह जी ने 'खालसा पंथ' की स्थापना की थी।<br><br><b>🧠 Explanation:</b><br>- <b>Onam:</b> केरल का उत्सव।<br>- <b>Pongal:</b> तमिलनाडु का उत्सव।<br>- <b>Baisakhi:</b> पंजाब का हार्वेस्ट फेस्टिवल।",
+    "topic": "Art and Culture (Festivals)"
+  },
+  {
+    "ans": "4",
+    "level": "Moderate",
+    "op_en": [
+      "Provide financial aid to tourists",
+      "Enhance digital literacy",
+      "Develop tourist infrastructure",
+      "Promote responsible tourism"
+    ],
+    "op_hi": [
+      "पर्यटकों को वित्तीय सहायता प्रदान करना",
+      "डिजिटल साक्षरता बढ़ाना",
+      "पर्यटन बुनियादी ढांचे का विकास करना",
+      "जिम्मेदार पर्यटन को बढ़ावा देना"
+    ],
+    "q_en": "What is the primary objective of the 'Paryatan Mitra &amp; Paryatan Didi' initiative launched by the Ministry of Tourism in September 2025?",
+    "q_hi": "सितंबर 2025 में पर्यटन मंत्रालय द्वारा शुरू की गई 'पर्यटन मित्र और पर्यटन दीदी' पहल का प्राथमिक उद्देश्य क्या है?",
+    "section": "General Knowledge Including Current Affairs",
+    "solution": "<b>📌 Concept:</b><br>यह योजना 'अतिथि देवो भव:' की भावना को जमीनी स्तर पर उतारने के लिए है।<br><br><b>🧠 Explanation:</b><br>इसका उद्देश्य स्थानीय लोगों (विशेषकर महिलाओं) को प्रशिक्षित करना है ताकि वे पर्यटकों के लिए 'गाइड' या 'मित्र' बन सकें और पर्यटन को सुरक्षित व जिम्मेदार (Responsible) बना सकें।",
+    "topic": "Current Affairs (Govt Schemes)"
+  },
+  {
+    "ans": "3",
+    "level": "Hard",
+    "op_en": [
+      "IISER, Pune",
+      "IIT, Bombay",
+      "Dr. Shakuntala Misra National Rehabilitation University",
+      "AIIMS, New Delhi"
+    ],
+    "op_hi": [
+      "IISER, पुणे",
+      "IIT, बॉम्बे",
+      "डॉ. शकुंतला मिश्रा राष्ट्रीय पुनर्वास विश्वविद्यालय",
+      "AIIMS, नई दिल्ली"
+    ],
+    "q_en": "In 2025, an Indian research team developed an AI-based voice-command wheelchair designed for specially-abled individuals. Which institute led this innovation?",
+    "q_hi": "2025 में, एक भारतीय अनुसंधान टीम ने विशेष रूप से विकलांग व्यक्तियों के लिए डिज़ाइन की गई AI-आधारित वॉयस-कमांड व्हीलचेयर विकसित की। किस संस्थान ने इस नवाचार का नेतृत्व किया?",
+    "section": "General Knowledge Including Current Affairs",
+    "solution": "<b>🧠 Explanation:</b><br>लखनऊ स्थित **डॉ. शकुंतला मिश्रा राष्ट्रीय पुनर्वास विश्वविद्यालय** ने इस AI व्हीलचेयर का विकास किया है। यह संस्थान विशेष रूप से दिव्यांग शिक्षा और पुनर्वास के लिए समर्पित है।",
+    "topic": "Current Affairs (Science and Innovation)"
+  },
+  {
+    "ans": "3",
+    "level": "Hard",
+    "op_en": [
+      "DRDO",
+      "Bharat Dynamics Limited",
+      "Shasha Prayathi Technologies Private Limited",
+      "Astra Microwave Products Limited"
+    ],
+    "op_hi": [
+      "DRDO",
+      "भारत डायनेमिक्स लिमिटेड",
+      "शाशा प्रार्थी टेक्नोलॉजीज प्राइवेट लिमिटेड",
+      "एस्ट्रा माइक्रोवेव प्रोडक्ट्स लिमिटेड"
+    ],
+    "q_en": "Which startup, incubated at NITK-STEP, successfully designed and tested FMCW and pulsed doppler radars in September 2025?",
+    "q_hi": "सितंबर 2025 में NITK-STEP में इनक्यूबेटेड किस स्टार्टअप ने सफलतापूर्वक FMCW और पल्स्ड डॉपलर रडार का डिजाइन और परीक्षण किया?",
+    "section": "General Knowledge Including Current Affairs",
+    "solution": "<b>🧠 Explanation:</b><br>यह एक स्वदेशी रक्षा स्टार्टअप है। NITK (Surathkal) के साइंस एंड टेक्नोलॉजी एंटरप्रेन्योर्स पार्क (STEP) ने इसे सपोर्ट किया है। यह रडार तकनीक 'मेक इन इंडिया' के तहत एक बड़ी उपलब्धि है।",
+    "topic": "Current Affairs (Defense/Space)"
+  },
+  {
+    "ans": "4",
+    "level": "Easy",
+    "op_en": [
+      "Walled citadels with stone fortresses",
+      "Public baths with intricate mosaics",
+      "Large palaces with elaborate decorative walls",
+      "Grid patterned streets with right angle intersection"
+    ],
+    "op_hi": [
+      "पत्थर के किलों के साथ दीवार वाले गढ़",
+      "जटिल मोज़ाइक के साथ सार्वजनिक स्नानघर",
+      "विस्तृत सजावटी दीवारों वाले बड़े महल",
+      "समकोण प्रतिच्छेदन (इंटरसेक्शन) वाली ग्रिड पैटर्न वाली सड़कें"
+    ],
+    "q_en": "Which feature is a characteristic of the urban layout in Indus Valley cities like Mohenjo-Daro?",
+    "q_hi": "मोहनजोदड़ो जैसे सिंधु घाटी शहरों में शहरी लेआउट की कौन सी विशेषता एक लक्षण है?",
+    "section": "General Knowledge Including Current Affairs",
+    "solution": "<b>📌 Concept:</b><br>सिंधु घाटी सभ्यता अपनी 'नगर योजना' (Town Planning) के लिए प्रसिद्ध थी।<br><br><b>🧠 Explanation:</b><br>शहर 'ग्रिड प्रणाली' (Grid System) पर आधारित थे, जहाँ सड़कें एक-दूसरे को समकोण (90°) पर काटती थीं। घरों में पकी ईंटों का उपयोग और बेहतरीन जल निकासी (Drainage) इसकी मुख्य पहचान थी।<br><br><b>🚫 Common Mistake:</b><br>यहाँ महल (Palaces) या विशाल मंदिर नहीं मिले हैं, इसलिए 'Palace' वाले विकल्प गलत हैं।",
+    "topic": "History (Indus Valley Civilization)"
+  },
+  {
+    "ans": "2",
+    "level": "Moderate",
+    "op_en": [
+      "Custom duty",
+      "The Goods and Services Tax",
+      "Income tax",
+      "Capital gains tax"
+    ],
+    "op_hi": [
+      "सीमा शुल्क (Custom duty)",
+      "वस्तु एवं सेवा कर (GST)",
+      "आयकर (Income tax)",
+      "पूंजीगत लाभ कर (Capital gains tax)"
+    ],
+    "q_en": "Which of the following taxes is levied in India when we pay for facilities or utilities such as telephone, internet, or consulting?",
+    "q_hi": "जब हम टेलीफोन, इंटरनेट या परामर्श जैसी सुविधाओं या उपयोगिताओं के लिए भुगतान करते हैं तो भारत में निम्नलिखित में से कौन सा कर लगाया जाता है?",
+    "section": "General Knowledge Including Current Affairs",
+    "solution": "<b>📌 Concept:</b><br>GST (वस्तु एवं सेवा कर) भारत में वस्तुओं और सेवाओं की आपूर्ति पर लगने वाला एक 'अप्रत्यक्ष कर' (Indirect Tax) है।<br><br><b>🧠 Explanation:</b><br>टेलीफोन और इंटरनेट 'सेवाएं' (Services) हैं, इसलिए इन पर GST लगता है। <br>- Custom Duty विदेशों से सामान मंगाने पर लगती है।<br>- Income Tax व्यक्ति की कमाई पर लगता है।<br><br><b>⚡ Smart Exam Trick:</b><br>सेवा (Service) $\\\\rightarrow$ GST.",
+    "topic": "Economy (Taxation)"
+  },
+  {
+    "ans": "1",
+    "level": "Moderate",
+    "op_en": [
+      "2015",
+      "2017",
+      "2016",
+      "2014"
+    ],
+    "op_hi": [
+      "2015",
+      "2017",
+      "2016",
+      "2014"
+    ],
+    "q_en": "Which of the following years witnessed the introduction of the Pradhan Mantri Kaushal Vikas Yojana (PMKVY)?",
+    "q_hi": "निम्नलिखित में से किस वर्ष में भारतीय युवाओं को अल्पकालिक कौशल प्रशिक्षण और प्रमाणन प्रदान करने के लिए प्रधानमंत्री कौशल विकास योजना (PMKVY) की शुरुआत की गई थी?",
+    "section": "General Knowledge Including Current Affairs",
+    "solution": "<b>📌 Concept:</b><br>PMKVY कौशल विकास और उद्यमिता मंत्रालय (MSDE) की प्रमुख योजना है।<br><br><b>🧠 Explanation:</b><br>इसकी शुरुआत **15 जुलाई 2015** (विश्व युवा कौशल दिवस) को की गई थी। इसका उद्देश्य युवाओं को रोजगार योग्य कौशल प्रदान करना है।",
+    "topic": "Government Schemes"
+  },
+  {
+    "ans": "2",
+    "level": "Moderate",
+    "op_en": [
+      "Salaya-Mathura Pipeline",
+      "Hazira-Vijaipur-Jagdishpur Pipeline",
+      "Barauni–Guwahati Pipeline",
+      "Kochi-Koottanad LNG Pipeline"
+    ],
+    "op_hi": [
+      "सलाया-मथुरा पाइपलाइन",
+      "हजीरा-विजयपुर-जगदीशपुर (HBJ) पाइपलाइन",
+      "बरौनी-गुवाहाटी पाइपलाइन",
+      "कोच्चि-कौट्टनाड एलएनजी पाइपलाइन"
+    ],
+    "q_en": "Which of the following is India’s first major natural gas pipeline, about 1,700 km long?",
+    "q_hi": "निम्नलिखित में से कौन सी भारत की पहली प्रमुख प्राकृतिक गैस पाइपलाइन है, जो अपने शुरुआती चरण में लगभग 1,700 किमी लंबी है?",
+    "section": "General Knowledge Including Current Affairs",
+    "solution": "<b>📌 Concept:</b><br>HBJ पाइपलाइन भारत की गैस ग्रिड की जीवन रेखा मानी जाती है।<br><br><b>🧠 Explanation:</b><br>यह गुजरात (हजीरा) को मध्य प्रदेश (विजयपुर) के रास्ते उत्तर प्रदेश (जगदीशपुर) से जोड़ती है। इसे GAIL द्वारा संचालित किया जाता है।",
+    "topic": "Economy (Infrastructure)"
+  },
+  {
+    "ans": "1",
+    "level": "Moderate",
+    "op_en": [
+      "Prime Minister Narendra Modi",
+      "External Affairs Minister",
+      "Defence Minister",
+      "President Droupadi Murmu"
+    ],
+    "op_hi": [
+      "प्रधानमंत्री नरेंद्र मोदी",
+      "विदेश मंत्री",
+      "रक्षा मंत्री",
+      "राष्ट्रपति द्रौपदी मुर्मू"
+    ],
+    "q_en": "Who represented India at the 25th SCO Summit in August 2025?",
+    "q_hi": "अगस्त 2025 में शंघाई सहयोग संगठन (SCO) के राष्ट्राध्यक्षों की परिषद की 25वीं बैठक में भारत का प्रतिनिधित्व किसने किया?",
+    "section": "General Knowledge Including Current Affairs",
+    "solution": "<b>🧠 Explanation:</b><br>2025 की SCO समिट में भारत के प्रधानमंत्री **नरेंद्र मोदी** ने शिरकत की। SCO में भारत की भूमिका मध्य एशिया के साथ कनेक्टिविटी बढ़ाने के लिए बहुत महत्वपूर्ण है।",
+    "topic": "Current Affairs (Summits)"
+  },
+  {
+    "ans": "3",
+    "level": "Easy",
+    "op_en": [
+      "Lord Minto",
+      "General Hardinge",
+      "Reginald Dyer",
+      "Lord Curzon"
+    ],
+    "op_hi": [
+      "लॉर्ड मिंटो",
+      "जनरल हार्डिंग",
+      "रेजिनाल्ड डायर",
+      "लॉर्ड कर्जन"
+    ],
+    "q_en": "Who was the British officer responsible for ordering the firing during the Jallianwala Bagh Massacre in 1919?",
+    "q_hi": "1919 में जलियांवाला बाग हत्याकांड के दौरान निहत्थी भीड़ पर गोली चलाने का आदेश देने वाला ब्रिटिश अधिकारी कौन था?",
+    "section": "General Knowledge Including Current Affairs",
+    "solution": "<b>📌 Concept:</b><br>13 अप्रैल 1919 (बैसाखी का दिन) को अमृतसर के जलियांवाला बाग में एक शांतिपूर्ण सभा हो रही थी।<br><br><b>🧠 Explanation:</b><br>**ब्रिगेडियर जनरल रेजिनाल्ड डायर** ने बिना चेतावनी के मुख्य निकास द्वार बंद कर भीड़ पर अंधाधुंध गोलियां चलाने का आदेश दिया। <br><br><b>🔍 Note:</b><br>लॉर्ड चेम्सफोर्ड उस समय भारत के वायसराय थे।",
+    "topic": "History (National Movement)"
+  },
+  {
+    "ans": "3",
+    "level": "Moderate",
+    "op_en": [
+      "Healing and magic",
+      "Philosophical discussions",
+      "Ritual formulas and sacrifices",
+      "Music and melody"
+    ],
+    "op_hi": [
+      "उपचार और जादू",
+      "दार्शनिक चर्चाएँ",
+      "अनुष्ठान सूत्र और यज्ञ",
+      "संगीत और धुन"
+    ],
+    "q_en": "Which of the following themes does the Yajurveda primarily deal with?",
+    "q_hi": "यजुर्वेद मुख्य रूप से निम्नलिखित में से किस विषय से संबंधित है?",
+    "section": "General Knowledge Including Current Affairs",
+    "solution": "<b>📌 Concept:</b><br>चार वेद हैं: ऋग्वेद, सामवेद, यजुर्वेद, अथर्ववेद।<br><br><b>🧠 Explanation (Option-wise Breakdown):</b><br>1. Healing/Magic $\\\\rightarrow$ अथर्ववेद।<br>2. Music $\\\\rightarrow$ सामवेद।<br>3. Rituals/Sacrifice $\\\\rightarrow$ **यजुर्वेद** (यह गद्य और पद्य दोनों में है)।<br>4. Hymns (प्रार्थना) $\\\\rightarrow$ ऋग्वेद।",
+    "topic": "History (Vedic Period)"
+  }
+]
