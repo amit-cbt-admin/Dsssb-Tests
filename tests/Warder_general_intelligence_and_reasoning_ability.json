@@ -1,0 +1,422 @@
+[
+  {
+    "ans": "2",
+    "level": "Medium",
+    "op_en": [
+      "Father's brother's wife's father",
+      "Mother's brother's wife's father",
+      "Father's brother's wife's brother",
+      "Mother's brother's wife's brother"
+    ],
+    "op_hi": [
+      "पिता के भाई की पत्नी का पिता",
+      "माँ के भाई की पत्नी का पिता",
+      "पिता के भाई की पत्नी का भाई",
+      "माँ के भाई की पत्नी का भाई"
+    ],
+    "q_en": "Q is the father of G. G is the wife of R. R is the brother of J. J is the mother of K. How is Q related to K?",
+    "q_hi": "Q, G का पिता है। G, R की पत्नी है। R, J का भाई है। J, K की माँ है। Q, K से किस प्रकार संबंधित है?",
+    "section": "General intelligence and Reasoning Ability",
+    "solution": "Q, G का पिता है। G, R की पत्नी है। R, J का भाई है। J, K की माँ है。<br><br>K की माँ J है, और J का भाई R (K का मामा) है। R की पत्नी G (K की मामी) है, और G का पिता Q है。<br><br>अतः, Q, K की माँ (J) के भाई (R) की पत्नी (G) का पिता है।",
+    "topic": "Blood Relation"
+  },
+  {
+    "ans": "1",
+    "level": "Medium",
+    "op_en": [
+      "9",
+      "6",
+      "1",
+      "2"
+    ],
+    "op_hi": [
+      "9",
+      "6",
+      "1",
+      "2"
+    ],
+    "q_en": "In a certain code language, ‘DEAL’ is coded as ‘6215’ and ‘DEAR’ is coded as ‘2519’. What is the code for ‘R’ in that language?",
+    "q_hi": "एक निश्चित कूट भाषा में, ‘DEAL’ को ‘6215’ और ‘DEAR’ को ‘2519’ के रूप में कूटबद्ध किया जाता है। उस भाषा में ‘R’ के लिए कूट क्या है?",
+    "section": "General intelligence and Reasoning Ability",
+    "solution": "DEAL = 6215 और DEAR = 2519<br><br>दोनों शब्दों में 'DEA' समान है, और कूट में '2, 1, 5' अंक समान हैं。<br><br>अतः DEAR में 'R' के लिए शेष अंक '9' होगा।",
+    "topic": "Coding-Decoding"
+  },
+  {
+    "ans": "2",
+    "level": "Medium",
+    "op_en": [
+      "THREE",
+      "ONE",
+      "FOUR",
+      "TWO"
+    ],
+    "op_hi": [
+      "तीन",
+      "एक",
+      "चार",
+      "दो"
+    ],
+    "q_en": "The position(s) of how many letters will remain unchanged if each letter in the word THUNDER is arranged in the English alphabetical order?",
+    "q_hi": "यदि शब्द THUNDER के प्रत्येक अक्षर को अंग्रेजी वर्णमाला के क्रम में व्यवस्थित किया जाए, तो कितने अक्षरों का स्थान अपरिवर्तित रहेगा?",
+    "section": "General intelligence and Reasoning Ability",
+    "solution": "मूल शब्द: T, H, U, N, D, E, R<br><br>वर्णमाला क्रम: D, E, H, N, R, T, U<br><br>तुलना करने पर केवल 'N' का स्थान अपरिवर्तित रहता है। अतः 1 अक्षर का स्थान अपरिवर्तित रहेगा।",
+    "topic": "Alphabet Test"
+  },
+  {
+    "ans": "4",
+    "level": "Medium",
+    "op_en": [
+      "None",
+      "Three",
+      "One",
+      "Two"
+    ],
+    "op_hi": [
+      "कोई नहीं",
+      "तीन",
+      "एक",
+      "दो"
+    ],
+    "q_en": "The position(s) of how many letters will remain unchanged if each of the letters in the word BRIGHTLY is arranged in the English alphabetical order?<span style=\"color:#ffffff;\">881</span>",
+    "q_hi": "यदि शब्द BRIGHTLY के प्रत्येक अक्षर को अंग्रेजी वर्णमाला के क्रम में व्यवस्थित किया जाए, तो कितने अक्षरों का स्थान अपरिवर्तित रहेगा?",
+    "section": "General intelligence and Reasoning Ability",
+    "solution": "मूल शब्द: B, R, I, G, H, T, L, Y<br><br>वर्णमाला क्रम: B, G, H, I, L, R, T, Y<br><br>तुलना करने पर 'B' और 'Y' के स्थान अपरिवर्तित रहते हैं। अतः 2 अक्षरों का स्थान अपरिवर्तित रहेगा।",
+    "topic": "Alphabet Test"
+  },
+  {
+    "ans": "2",
+    "level": "Medium",
+    "op_en": [
+      "2",
+      "3",
+      "1",
+      "8"
+    ],
+    "op_hi": [
+      "2",
+      "3",
+      "1",
+      "8"
+    ],
+    "q_en": "In a certain code language, ‘LIPS’ is coded as ‘2981’ and ‘SHIP’ is coded as ‘3892’. What is the code for ‘H’ in the given code language?",
+    "q_hi": "एक निश्चित कूट भाषा में, ‘LIPS’ को ‘2981’ और ‘SHIP’ को ‘3892’ के रूप में कूटबद्ध किया जाता है। दी गई कूट भाषा में ‘H’ के लिए कूट क्या है?",
+    "section": "General intelligence and Reasoning Ability",
+    "solution": "LIPS = 2981, SHIP = 3892<br><br>दोनों में I, P, S अक्षर और 2, 9, 8 अंक समान हैं。<br><br>अतः LIPS में L = 1 और SHIP में H = 3 है।",
+    "topic": "Coding-Decoding"
+  },
+  {
+    "ans": "1",
+    "level": "Medium",
+    "op_en": [
+      "Four",
+      "Two",
+      "Three",
+      "One"
+    ],
+    "op_hi": [
+      "चार",
+      "दो",
+      "तीन",
+      "एक"
+    ],
+    "q_en": "Each of F, G, H, I, M, N and O has exam on a different day of a week starting from Monday and ending on Sunday of the same week. Only three people have exams between H and F. Only three people have exams between O and N. G has exam on some day before F and on some day after I. Only M has exam before N. How many people have exam after H?",
+    "q_hi": "F, G, H, I, M, N और O में से प्रत्येक की परीक्षा सोमवार से शुरू होकर उसी सप्ताह के रविवार तक सप्ताह के अलग-अलग दिन होती है। H और F के बीच केवल तीन लोगों की परीक्षा है। O और N के बीच केवल तीन लोगों की परीक्षा है। G की परीक्षा F से पहले किसी दिन और I के बाद किसी दिन है। केवल M की परीक्षा N से पहले है। H के बाद कितने लोगों की परीक्षा है?",
+    "section": "General intelligence and Reasoning Ability",
+    "solution": "दी गई शर्तों के अनुसार सही क्रम इस प्रकार होगा:<br><br>सोमवार - M, मंगलवार - N, बुधवार - H, गुरुवार - I, शुक्रवार - G, शनिवार - O, रविवार - F<br><br>H (बुधवार) के बाद I, G, O, F (चार) लोगों की परीक्षा है।",
+    "topic": "Puzzle"
+  },
+  {
+    "ans": "2",
+    "level": "Medium",
+    "op_en": [
+      "YTSQ",
+      "YUTQ",
+      "YUSQ",
+      "YVSY"
+    ],
+    "op_hi": [
+      "YTSQ",
+      "YUTQ",
+      "YUSQ",
+      "YVSY"
+    ],
+    "q_en": "SONK is related to IEDA in a certain way based on the English alphabetical order. In the same way, QMLI is related to GCBY. To which of the given options is IEDA related, following the same logic?",
+    "q_hi": "अंग्रेजी वर्णमाला क्रम के आधार पर SONK एक निश्चित तरीके से IEDA से संबंधित है। उसी प्रकार, QMLI, GCBY से संबंधित है। समान तर्क का पालन करते हुए, IEDA दिए गए विकल्पों में से किससे संबंधित है?",
+    "section": "General intelligence and Reasoning Ability",
+    "solution": "SONK &rArr; IEDA में प्रत्येक अक्षर का स्थानीय मान -10 कम हो रहा है (S=19, I=9)।<br><br>समान तर्क से IEDA के अक्षरों में -10 करने पर:<br><br>I (9) - 10 = Y (25)<br><br>E (5) - 10 = U (21)<br><br>D (4) - 10 = T (20)<br><br>A (1) - 10 = Q (17)<br><br>अतः सही उत्तर YUTQ है।",
+    "topic": "Analogy"
+  },
+  {
+    "ans": "4",
+    "level": "Medium",
+    "op_en": [
+      "4",
+      "1",
+      "3",
+      "2"
+    ],
+    "op_hi": [
+      "4",
+      "1",
+      "3",
+      "2"
+    ],
+    "q_en": "G, H, I, J, K and L live on six different floors of the same building. The lowermost floor in the building is numbered 1, the floor above it, number 2 and so on till the topmost floor is numbered 6.<br><br>G lives on an odd numbered floor but not 3. The sum of floors on which I and G live is 4. Only 3 people live between J and K. H lives immediately above L. The sum of floors on which L and J live is 10.<br><br>How many people live below I?",
+    "q_hi": "G, H, I, J, K और L एक ही इमारत की छह अलग-अलग मंजिलों पर रहते हैं। इमारत में सबसे निचली मंजिल की संख्या 1 है, उसके ऊपर की मंजिल की संख्या 2 है और इसी तरह सबसे ऊपरी मंजिल की संख्या 6 है。<br><br>G विषम संख्या वाली मंजिल पर रहता है लेकिन 3 पर नहीं। I और G जिन मंजिलों पर रहते हैं उनका योग 4 है। J और K के बीच केवल 3 लोग रहते हैं। H, L के ठीक ऊपर रहता है। L और J जिन मंजिलों पर रहते हैं उनका योग 10 है。<br><br>I के नीचे कितने लोग रहते हैं?",
+    "section": "General intelligence and Reasoning Ability",
+    "solution": "6 मंजिलों की व्यवस्था:<br><br>G विषम मंजिल पर (3 पर नहीं) है, अतः G=1 या 5. चूँकि I+G=4, G=1 और I=3 होगा。<br><br>H, L के ठीक ऊपर है और J व K के बीच 3 लोग हैं। J+L=10 के अनुसार J=6, K=2, L=4 और H=5 होगा。<br><br>मंजिल क्रम: 6-J, 5-H, 4-L, 3-I, 2-K, 1-G<br><br>I (मंजिल 3) के नीचे K और G (दो लोग) रहते हैं।",
+    "topic": "Puzzle"
+  },
+  {
+    "ans": "3",
+    "level": "Medium",
+    "op_en": [
+      "2",
+      "4",
+      "1",
+      "3"
+    ],
+    "op_hi": [
+      "2",
+      "4",
+      "1",
+      "3"
+    ],
+    "q_en": "G, H, I, J, K and L live on six different floors of the same building. The lowermost floor in the building is numbered 1, the floor above it, number 2 and so on, till the topmost floor is numbered 6. G lives on an even numbered floor but not 4. The sum of floors on which G and I live is 9. Only 3 people live between H and J. The sum of floors on which K and J live is 3. How many people live below K?",
+    "q_hi": "G, H, I, J, K और L एक ही इमारत की छह अलग-अलग मंजिलों पर रहते हैं। इमारत में सबसे निचली मंजिल की संख्या 1 है, उसके ऊपर की मंजिल की संख्या 2 है और इसी तरह सबसे ऊपरी मंजिल की संख्या 6 है। G एक सम संख्या वाली मंजिल पर रहता है लेकिन 4 पर नहीं। G और I जिन मंजिलों पर रहते हैं उनका योग 9 है। H और J के बीच केवल 3 लोग रहते हैं। K और J जिन मंजिलों पर रहते हैं उनका योग 3 है। K के नीचे कितने लोग रहते हैं?",
+    "section": "General intelligence and Reasoning Ability",
+    "solution": "6 मंजिलों की व्यवस्था:<br><br>G सम मंजिल पर (4 पर नहीं) है। G+I=9, इसलिए G=6 और I=3 होगा。<br><br>H और J के बीच 3 लोग हैं। K+J=3, इसलिए J=1, K=2 होगा。<br><br>J=1 होने पर H=5 होगा और L=4 बचेगा。<br><br>मंजिल क्रम: 6-G, 5-H, 4-L, 3-I, 2-K, 1-J<br><br>K (मंजिल 2) के नीचे केवल 1 व्यक्ति (J) रहता है।",
+    "topic": "Puzzle"
+  },
+  {
+    "ans": "4",
+    "level": "Medium",
+    "op_en": [
+      "6",
+      "4",
+      "7",
+      "5"
+    ],
+    "op_hi": [
+      "6",
+      "4",
+      "7",
+      "5"
+    ],
+    "q_en": "Refer to the given letter and symbol series and answer the question that follows. Counting to be done from left to right only.<br><br>(Left)    %    W    ©    I    S    £    Y    #    ©    #    P    €    O    K    €    J    £    €    Y    €    €    P    (Right)<br><br>How many such letters are there, each of which is immediately preceded by a symbol and also immediately followed by a symbol?",
+    "q_hi": "Refer to the given letter and symbol series and answer the question that follows. Counting to be done from left to right only.<br><br>(Left)    %    W    ©    I    S    £    Y    #    ©    #    P    €    O    K    €    J    £    €    Y    €    €    P    (Right)<br><br>How many such letters are there, each of which is immediately preceded by a symbol and also immediately followed by a symbol?",
+    "section": "General intelligence and Reasoning Ability",
+    "solution": "दी गई श्रृंखला में 'प्रतीक - अक्षर - प्रतीक' का पैटर्न खोजना है:<br><br>1. % W ©<br><br>2. £ Y #<br><br>3. # P €<br><br>4. € J £<br><br>5. € Y €<br><br>अतः ऐसे 5 अक्षर हैं।",
+    "topic": "Alphanumeric Series"
+  },
+  {
+    "ans": "1",
+    "level": "Medium",
+    "op_en": [
+      "Daughter",
+      "Wife",
+      "Wife's mother",
+      "Sister"
+    ],
+    "op_hi": [
+      "पुत्री",
+      "पत्नी",
+      "पत्नी की माँ",
+      "बहन"
+    ],
+    "q_en": "D is the daughter of E. E is the mother of F. F is the brother of A. A is the son of B. How is D related to B?",
+    "q_hi": "D, E की पुत्री है। E, F की माँ है। F, A का भाई है। A, B का पुत्र है। D, B से किस प्रकार संबंधित है?",
+    "section": "General intelligence and Reasoning Ability",
+    "solution": "D, E की पुत्री है। E, F की माँ है। F, A का भाई है। A, B का पुत्र है。<br><br>E और B पति-पत्नी हैं (E माँ, B पिता)।<br><br>चूँकि D, E की पुत्री है, अतः D, B की भी पुत्री होगी।",
+    "topic": "Blood Relation"
+  },
+  {
+    "ans": "3",
+    "level": "Medium",
+    "op_en": [
+      "Two",
+      "Four",
+      "Three",
+      "One"
+    ],
+    "op_hi": [
+      "दो",
+      "चार",
+      "तीन",
+      "एक"
+    ],
+    "q_en": "Each of P, Q, R, S, K, N and V has an exam on a different day of a week starting from Monday and ending on Sunday of the same week. R has the exam on Tuesday. Only one person has exam after N. P has the exam immediately after V but not on Friday. S does not have exam after Q. K does not have exam after R. How many people have exams between K and S?",
+    "q_hi": "P, Q, R, S, K, N और V में से प्रत्येक की परीक्षा सोमवार से शुरू होकर उसी सप्ताह के रविवार तक सप्ताह के अलग-अलग दिन होती है। R की परीक्षा मंगलवार को है। N के बाद केवल एक व्यक्ति की परीक्षा है। P की परीक्षा V के ठीक बाद है लेकिन शुक्रवार को नहीं। S की परीक्षा Q के बाद नहीं है। K की परीक्षा R के बाद नहीं है। K और S के बीच कितने लोगों की परीक्षा है?",
+    "section": "General intelligence and Reasoning Ability",
+    "solution": "शर्तों के अनुसार क्रम:<br><br>K (सोम), R (मंगल), V (बुध), P (गुरु), S (शुक्र), N (शनि), Q (रवि)।<br><br>K (सोमवार) और S (शुक्रवार) के बीच तीन लोग (R, V, P) हैं।",
+    "topic": "Puzzle"
+  },
+  {
+    "ans": "4",
+    "level": "Medium",
+    "op_en": [
+      "4",
+      "3",
+      "1",
+      "2"
+    ],
+    "op_hi": [
+      "4",
+      "3",
+      "1",
+      "2"
+    ],
+    "q_en": "Refer to the given letter series and answer the question that follows. Counting to be done from left to right only.<br><br>(Left) E B J E R A J N I D U R N L U H L T R (Right)<br><br>How many such consonants are there, each of which is immediately preceded by a vowel and also immediately followed by a vowel?",
+    "q_hi": "दी गई अक्षर श्रृंखला का संदर्भ लें और उसके बाद आने वाले प्रश्न का उत्तर दें। गिनती केवल बाएँ से दाएँ की जानी चाहिए。<br><br>(बाएँ) E B J E R A J N I D U R N L U H L T R (दाएँ)<br><br>ऐसे कितने व्यंजन हैं, जिनमें से प्रत्येक के ठीक पहले एक स्वर है और ठीक बाद में भी एक स्वर है?",
+    "section": "General intelligence and Reasoning Ability",
+    "solution": "श्रृंखला में 'स्वर - व्यंजन - स्वर' का पैटर्न खोजना है:<br><br>श्रृंखला: E B J E R A J N I D U R N L U H L T R<br><br>1. E R A (E स्वर, R व्यंजन, A स्वर)<br><br>2. I D U (I स्वर, D व्यंजन, U स्वर)<br><br>अतः ऐसे 2 व्यंजन हैं।",
+    "topic": "Alphanumeric Series"
+  },
+  {
+    "ans": "3",
+    "level": "Medium",
+    "op_en": [
+      "One",
+      "Four",
+      "Three",
+      "Two"
+    ],
+    "op_hi": [
+      "एक",
+      "चार",
+      "तीन",
+      "दो"
+    ],
+    "q_en": "Seven people, E, F, G, H, U, V and W, are sitting in a row, facing north. Only two people sit to the left of G. Only three people sit between G and U. W sits second to the right of G. Only two people sit between W and V. E sits at some place to the right of F but at some place to the left of H. How many people sit to the right of E?",
+    "q_hi": "सात व्यक्ति, E, F, G, H, U, V और W, एक पंक्ति में उत्तर की ओर मुख करके बैठे हैं। G के बायीं ओर केवल दो व्यक्ति बैठे हैं। G और U के बीच केवल तीन व्यक्ति बैठे हैं। W, G के दायीं ओर दूसरे स्थान पर बैठा है। W और V के बीच केवल दो व्यक्ति बैठे हैं। E, F के दायीं ओर किसी स्थान पर लेकिन H के बायीं ओर किसी स्थान पर बैठा है। E के दायीं ओर कितने व्यक्ति बैठे हैं?",
+    "section": "General intelligence and Reasoning Ability",
+    "solution": "7 व्यक्तियों की उत्तर की ओर मुख वाली व्यवस्था:<br><br>G के बायीं ओर केवल 2 व्यक्ति हैं, अतः G तीसरे स्थान पर है。<br><br>G और U के बीच 3 व्यक्ति हैं, अतः U सातवें स्थान पर है。<br><br>दी गई सभी शर्तों से क्रम बनेगा: F, V, G, E, W, H, U<br><br>E (चौथे स्थान) के दायीं ओर W, H और U (तीन व्यक्ति) बैठे हैं।",
+    "topic": "Seating Arrangement"
+  },
+  {
+    "ans": "1",
+    "level": "Medium",
+    "op_en": [
+      "40",
+      "36",
+      "42",
+      "35"
+    ],
+    "op_hi": [
+      "40",
+      "36",
+      "42",
+      "35"
+    ],
+    "q_en": "This question is based on the five, three-digit numbers given below.<br><br>(Left) 654  235  458  571  635 (Right)<br><br>(Example: 697 – First digit = 6, second digit = 9 and third digit = 7)<br>(NOTE: All operations to be done from left to right.)<br><br>What will be the resultant if the third digit of the second highest number is multiplied with the third digit of the second lowest number?",
+    "q_hi": "यह प्रश्न नीचे दी गई पाँच, तीन-अंकीय संख्याओं पर आधारित है。<br><br>(बाएँ) 654  235  458  571  635 (दाएँ)<br><br>(उदाहरण: 697 – पहला अंक = 6, दूसरा अंक = 9 और तीसरा अंक = 7)<br>(नोट: सभी संक्रियाएँ बाएँ से दाएँ की जानी चाहिए।)<br><br>यदि दूसरी सबसे बड़ी संख्या के तीसरे अंक को दूसरी सबसे छोटी संख्या के तीसरे अंक से गुणा किया जाए तो परिणाम क्या होगा?",
+    "section": "General intelligence and Reasoning Ability",
+    "solution": "दी गई संख्याएँ: 654, 235, 458, 571, 635<br><br>अवरोही क्रम: 654, 635, 571, 458, 235<br><br>दूसरी सबसे बड़ी संख्या (635) का तीसरा अंक = 5<br><br>दूसरी सबसे छोटी संख्या (458) का तीसरा अंक = 8<br><br>गुणनफल = 5 &times; 8 = 40",
+    "topic": "Number Series"
+  },
+  {
+    "ans": "4",
+    "level": "Medium",
+    "op_en": [
+      "GAME – MEGA – AGEM",
+      "SLIP – IPSL – LISP",
+      "ROCK – CKOR – OKRC",
+      "WIND – WNID– NWDI"
+    ],
+    "op_hi": [
+      "GAME – MEGA – AGEM",
+      "SLIP – IPSL – LISP",
+      "ROCK – CKOR – OKRC",
+      "WIND – WNID– NWDI"
+    ],
+    "q_en": "In the following triads, each group of letters is related to the subsequent one following a certain logic. Select from the given options, the one which follows the same logic.<br><br>GOLD – GLOD – LGDO<br>HURT – HRUT – RHTU<span style=\"color:#ffffff;\">7040</span>",
+    "q_hi": "निम्नलिखित त्रिक में, अक्षरों का प्रत्येक समूह एक निश्चित तर्क का पालन करते हुए अगले से संबंधित है। दिए गए विकल्पों में से वह चुनें जो समान तर्क का पालन करता है。<br><br>GOLD – GLOD – LGDO<br><br>HURT – HRUT – RHTU",
+    "section": "General intelligence and Reasoning Ability",
+    "solution": "GOLD (1234) &rArr; GLOD (1324) &rArr; LGDO (3142)<br><br>समान तर्क WIND पर लागू करने पर:<br><br>WIND (1234) &rArr; WNID (1324) &rArr; NWDI (3142)<br><br>अतः WIND - WNID - NWDI सही है।",
+    "topic": "Analogy"
+  },
+  {
+    "ans": "2",
+    "level": "Medium",
+    "op_en": [
+      "Four",
+      "Three",
+      "Two",
+      "One"
+    ],
+    "op_hi": [
+      "चार",
+      "तीन",
+      "दो",
+      "एक"
+    ],
+    "q_en": "Each vowel in the word TURBULENTLY is changed to the letter immediately following it in the English alphabetical order and each consonant is changed to the letter immediately preceding it in the English alphabetical order. How many letters will appear exactly twice in the new group of letters thus formed?",
+    "q_hi": "शब्द TURBULENTLY में प्रत्येक स्वर को अंग्रेजी वर्णमाला क्रम में उसके ठीक बाद आने वाले अक्षर में बदल दिया जाता है और प्रत्येक व्यंजन को अंग्रेजी वर्णमाला क्रम में उसके ठीक पहले आने वाले अक्षर में बदल दिया जाता है। इस प्रकार बने अक्षरों के नए समूह में कितने अक्षर ठीक दो बार आएंगे?",
+    "section": "General intelligence and Reasoning Ability",
+    "solution": "शब्द: T U R B U L E N T L Y<br><br>स्वर + 1 और व्यंजन - 1 करने पर नया समूह: S V Q A V K F M S K X<br><br>यहाँ S, V और K दो-दो बार आ रहे हैं। अतः 3 अक्षर ठीक दो बार आएंगे।",
+    "topic": "Alphabet Test"
+  },
+  {
+    "ans": "4",
+    "level": "Medium",
+    "op_en": [
+      "Three",
+      "Two",
+      "None",
+      "One"
+    ],
+    "op_hi": [
+      "तीन",
+      "दो",
+      "कोई नहीं",
+      "एक"
+    ],
+    "q_en": "Refer to the given letter and symbol series and answer the question that follows. Counting to be done from left to right only.<br><br>(Left)   S   P   #   V   N   ±   E   %    A   G    ∑   F   Ꞷ   &#36;   W   N    Ω   K   Y   A   L   #   D    Q   E    =   R    (Right)<br><br>How many such symbols are there, each of which is immediately preceded by a vowel and also immediately followed by a consonant?",
+    "q_hi": "दी गई अक्षर और प्रतीक श्रृंखला का संदर्भ लें और उसके बाद आने वाले प्रश्न का उत्तर दें। गिनती केवल बाएँ से दाएँ की जानी चाहिए。<br><br>(बाएँ)   S   P   #   V   N   ±   E   %    A   G    ∑   F   Ꞷ   &#36;   W   N    Ω   K   Y   A   L   #   D    Q   E    =   R    (दाएँ)<br><br>ऐसे कितने प्रतीक हैं, जिनमें से प्रत्येक के ठीक पहले एक स्वर है और ठीक बाद में एक व्यंजन है?",
+    "section": "General intelligence and Reasoning Ability",
+    "solution": "पैटर्न: स्वर - प्रतीक - व्यंजन<br><br>श्रृंखला में केवल 'E = R' यह शर्त पूरी करता है, जहाँ E स्वर है, = प्रतीक है, और R व्यंजन है。<br><br>अतः ऐसा 1 प्रतीक है।",
+    "topic": "Alphanumeric Series"
+  },
+  {
+    "ans": "3",
+    "level": "Medium",
+    "op_en": [
+      "Three",
+      "Two",
+      "Four",
+      "One"
+    ],
+    "op_hi": [
+      "तीन",
+      "दो",
+      "चार",
+      "एक"
+    ],
+    "q_en": "Seven friends O, P, Q, R, I, J and K are sitting around a circular table facing the centre of the table. K sits fourth to the right of J. O sits fourth to the right of I. Only two people sit between R and P when counted from the left of R. Q is an immediate neighbor of J and P. How many people are between O and Q when counted from the left of Q?",
+    "q_hi": "सात मित्र O, P, Q, R, I, J और K एक वृत्ताकार मेज के चारों ओर केंद्र की ओर मुख करके बैठे हैं। K, J के दायें से चौथे स्थान पर बैठा है। O, I के दायें से चौथे स्थान पर बैठा है। R के बायें से गिनने पर R और P के बीच केवल दो व्यक्ति बैठे हैं। Q, J और P का निकटतम पड़ोसी है। Q के बायें से गिनने पर O और Q के बीच कितने व्यक्ति हैं?",
+    "section": "General intelligence and Reasoning Ability",
+    "solution": "7 मित्रों की वृत्ताकार व्यवस्था (केन्द्र की ओर):<br><br>शर्तों के आधार पर सही क्रम: J, Q, P, O, K, R, I (घड़ी की विपरीत दिशा में)।<br><br>Q के बायीं ओर (घड़ी की दिशा में) से गिनने पर O और Q के बीच 4 व्यक्ति (J, I, R, K) हैं।",
+    "topic": "Seating Arrangement"
+  },
+  {
+    "ans": "1",
+    "level": "Medium",
+    "op_en": [
+      "dm",
+      "gt",
+      "hy",
+      "bw"
+    ],
+    "op_hi": [
+      "dm",
+      "gt",
+      "hy",
+      "bw"
+    ],
+    "q_en": "In a certain code language, ‘forgot my lunch’ is coded as ‘mb dm gt’ and ‘lunch time now’ is coded as ‘hy bw dm’. How is ‘lunch’ coded in the given language?",
+    "q_hi": "एक निश्चित कूट भाषा में, ‘forgot my lunch’ को ‘mb dm gt’ और ‘lunch time now’ को ‘hy bw dm’ के रूप में कूटबद्ध किया जाता है। दी गई भाषा में ‘lunch’ को कैसे कूटबद्ध किया जाएगा?",
+    "section": "General intelligence and Reasoning Ability",
+    "solution": "'forgot my lunch' = 'mb dm gt'<br><br>'lunch time now' = 'hy bw dm'<br><br>दोनों में 'lunch' और कूट 'dm' उभयनिष्ठ (common) हैं。<br><br>अतः 'lunch' का कूट 'dm' है।",
+    "topic": "Coding-Decoding"
+  }
+]
