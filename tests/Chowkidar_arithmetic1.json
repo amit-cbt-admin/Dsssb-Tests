@@ -1,0 +1,254 @@
+[
+  {
+    "ans": "3",
+    "level": "Medium",
+    "op_en": [
+      "166",
+      "161",
+      "169",
+      "171"
+    ],
+    "op_hi": [
+      "166",
+      "161",
+      "169",
+      "171"
+    ],
+    "q_en": "If a 4239 m long train crosses a pole in 157 seconds, then find the time (in seconds) taken by the train to cross a 324 m long platform.",
+    "q_hi": "यदि 4239 मीटर लंबी एक ट्रेन एक खंभे को 157 सेकंड में पार करती है, तो ट्रेन द्वारा 324 मीटर लंबे प्लेटफॉर्म को पार करने में लिया गया समय (सेकंड में) ज्ञात कीजिए।",
+    "section": "Arithmetic1",
+    "solution": "ट्रेन की लंबाई = 4239 मीटर।<br>खंभे को पार करने में लगा समय = 157 सेकंड।<br>ट्रेन की गति = 4239 &divide; 157 = 27 मीटर/सेकंड।<br>प्लेटफॉर्म की लंबाई = 324 मीटर।<br>कुल दूरी = 4239 + 324 = 4563 मीटर।<br>प्लेटफॉर्म को पार करने में लगा समय = 4563 &divide; 27 = 169 सेकंड।",
+    "topic": "Time, Speed and Distance"
+  },
+  {
+    "ans": "2",
+    "level": "Easy",
+    "op_en": [
+      "1,213 cm<sup>3</sup>",
+      "4,851 cm<sup>3</sup>",
+      "1,617 cm<sup>3</sup>",
+      "4,567 cm<sup>3</sup>"
+    ],
+    "op_hi": [
+      "1,213 सेमी<sup>3</sup>",
+      "4,851 सेमी<sup>3</sup>",
+      "1,617 सेमी<sup>3</sup>",
+      "4,567 सेमी<sup>3</sup>"
+    ],
+    "q_en": "Find the volume of a sphere with a radius of 10.5 cm. (use <img align=\"middle\" alt=\"begin mathsize 12px style pi equals 22 over 7 end style\" class=\"Wirisformula\" data-mathml=\"«math style=¨font-family:Arial¨ xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mstyle mathsize=¨12px¨»«mrow»«mi»§#960;«/mi»«mo»=«/mo»«mfrac»«mn»22«/mn»«mn»7«/mn»«/mfrac»«/mrow»«/mstyle»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADUAAAAgCAYAAACy/TBYAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAVrfl2dQAAARdJREFUeNpjYBgcwAeIDwPxLyA+DsQ9QMxBhppBBbYAsT0QM0H5JUA8iQw1gxqAYuALFdQMKsACxN+ooGZQgQwgnk8FNYMG6AHxUSAWplDNoAHmQLwBiEUpVDNogCUQz4XmFUrUDBogC8TrqKBmUIHdQKxBBTWDCvzHgUlVMwqGHAC1pfYD8R88Ufx6qHlKHIi7oMUkehr9QUF+GDTpnhxP0aKAIBcPCk8NSEz9Hw7J7xcWPtNQjiVBLP2Ta0DsBcRcQ9VT8dCiHRlEQvNV5WjNR/uScVgBtaHU2yUWrBsqvV1iQQEQBw0nDylBu/DDCoBKZa3h5KFY6LjEsOoW3YUmv2EDQAXDjuGWl5ZDWzXDCryEtklJAgBy+3PPTum9EAAAALh0RVh0TWF0aE1MADxtYXRoIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8xOTk4L01hdGgvTWF0aE1MIiBzdHlsZT0iZm9udC1mYW1pbHk6QXJpYWwiPjxtc3R5bGUgbWF0aHNpemU9IjEycHgiPjxtaT4mI3gzQzA7PC9taT48bW8+PTwvbW8+PG1mcmFjPjxtbj4yMjwvbW4+PG1uPjc8L21uPjwvbWZyYWM+PC9tc3R5bGU+PC9tYXRoPtbidhUAAAAASUVORK5CYII=\" style=\"max-width: none;\">)<span style=\"color:#ffffff;\">48</span>",
+    "q_hi": "Find the volume of a sphere with a radius of 10.5 cm. (use <img align=\"middle\" alt=\"begin mathsize 12px style pi equals 22 over 7 end style\" class=\"Wirisformula\" data-mathml=\"«math style=¨font-family:Arial¨ xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mstyle mathsize=¨12px¨»«mrow»«mi»§#960;«/mi»«mo»=«/mo»«mfrac»«mn»22«/mn»«mn»7«/mn»«/mfrac»«/mrow»«/mstyle»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADUAAAAgCAYAAACy/TBYAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAVrfl2dQAAARdJREFUeNpjYBgcwAeIDwPxLyA+DsQ9QMxBhppBBbYAsT0QM0H5JUA8iQw1gxqAYuALFdQMKsACxN+ooGZQgQwgnk8FNYMG6AHxUSAWplDNoAHmQLwBiEUpVDNogCUQz4XmFUrUDBogC8TrqKBmUIHdQKxBBTWDCvzHgUlVMwqGHAC1pfYD8R88Ufx6qHlKHIi7oMUkehr9QUF+GDTpnhxP0aKAIBcPCk8NSEz9Hw7J7xcWPtNQjiVBLP2Ta0DsBcRcQ9VT8dCiHRlEQvNV5WjNR/uScVgBtaHU2yUWrBsqvV1iQQEQBw0nDylBu/DDCoBKZa3h5KFY6LjEsOoW3YUmv2EDQAXDjuGWl5ZDWzXDCryEtklJAgBy+3PPTum9EAAAALh0RVh0TWF0aE1MADxtYXRoIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8xOTk4L01hdGgvTWF0aE1MIiBzdHlsZT0iZm9udC1mYW1pbHk6QXJpYWwiPjxtc3R5bGUgbWF0aHNpemU9IjEycHgiPjxtaT4mI3gzQzA7PC9taT48bW8+PTwvbW8+PG1mcmFjPjxtbj4yMjwvbW4+PG1uPjc8L21uPjwvbWZyYWM+PC9tc3R5bGU+PC9tYXRoPtbidhUAAAAASUVORK5CYII=\" style=\"max-width: none;\">)<span style=\"color:#ffffff;\">48</span>",
+    "section": "Arithmetic1",
+    "solution": "<p>बच्चों, आइए इस सवाल को समझते हैं...</p>",
+    "topic": "Mensuration 3D"
+  },
+  {
+    "ans": "1",
+    "level": "Hard",
+    "op_en": [
+      "<img align=\"middle\" alt=\"72 left parenthesis 9 space minus space 4 square root of 3 right parenthesis\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mn»72«/mn»«mo»(«/mo»«mn»9«/mn»«mo»§#160;«/mo»«mo»-«/mo»«mo»§#160;«/mo»«mn»4«/mn»«msqrt»«mn»3«/mn»«/msqrt»«mo»)«/mo»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGgAAAAWCAYAAAAsNNkQAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAASM53j1gAAAz5JREFUeNrtWU1oE0EUDiGEICKWWkRUWoJICcWLlDbY4sWDFPEmHhREFBEPUsSDIsVKD0oJteQgiIgHKYqIioIUROqllFLRW5GCikgRyUEIpUpajG/gW9mO7+3MbpJ10+SD75D9ebP7vpn3vtnEYk1UGx3Ezc00RBO9xHJANhECrhN/ELfUw8MOES82kDgJYoE4EvD+C8SrYT3sOeJog62egyhVHRXEGEXuaooMcbYBy9sD4lwV4rxFDtcg7dG8nJWQJc4TS8RvxBtY1jpeE3u0Y+3Ex8Rl4hLxLrEtgkl+FLBhK9f2k3iaOadyMY28FfHurR6xssjhPyVJEkip2eISJA2h1LmcFmcPcUY7thWCPiNuIHbit4qxMULiHKvAUR0nrjDmQOXuCvK2iXgb8acM8WaQy79QN+71SPZJbbVkMdCSds8Imp0bt3BtmpkQ1yIizk6UlqACzaHEcRPfjTjiL1sYhjVmYxdzUR7CSOAGmiT2a8cKzEtvw7GFiAj0ChMyiEA7cM8h5lxc+92ptQ0J/ciliCTKUNLjvBrouXa8yNyzimsTjMClCIijtgJnXc/kV6BhTEJTue5GWR+3iJlELkWcwgqScBQv0sOIocPpV0csVmDMsGKrvSvvIk4wY/jBZ2xQvTDgij1laZBKpibV5XH+HfpWzEIgp998RB9KoHSWObcSokBJlJEWC4EOCI61D9f3+uxz9y2u/yWd4JyYG4MYKMWcKwpl8TxxEbNCubnLeNAT/7G0jTEVgBNoWHCsCveI732M2W1ZOTxLXB4ljsM+iCP5eM4kcJg2TIIwYLsKHYFWsWVwkELvueRjTFsXt5/4UlLuu7AK2uF2WrW9w7zBZuvfq9Ss+wInFzVIJc7puW+YvY+fTzvbEWfCr802mQOVzK/CTMtblEcl7hniB6yyKH5FMJkE9ey/UaYUnhJfGOKpiXgHk7oN776orUQOs5IHkMzBgkcpGDB86imjnj5hrq0ngXZDoE/Y+6wIn3bcGEezL8Ek5SwmZ9anefKNDPrUesSky30WBKNUCeJYPZlav8h6/bshhZWjRHpYg/g516a55hgyGIZ6xU0IdLjKcQeRsyaqJFIijIH+AKq2FWOQ6yxvAAAAs3RFWHRNYXRoTUwAPG1hdGggeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzE5OTgvTWF0aC9NYXRoTUwiPjxtbj43MjwvbW4+PG1vPig8L21vPjxtbj45PC9tbj48bW8+JiN4QTA7PC9tbz48bW8+LTwvbW8+PG1vPiYjeEEwOzwvbW8+PG1uPjQ8L21uPjxtc3FydD48bW4+MzwvbW4+PC9tc3FydD48bW8+KTwvbW8+PC9tYXRoPg2+flsAAAAASUVORK5CYII=\" style=\"max-width: none;\">",
+      "<img align=\"middle\" alt=\"288 square root of 3\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mn»288«/mn»«msqrt»«mn»3«/mn»«/msqrt»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADYAAAAWCAYAAACL6W/rAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAASM53j1gAAAjtJREFUeNrdV08oBFEYnzZpkmRDErI5aHMXG26SNjkoOSwHcdrTHpWLkkhbNjdJ0iZyUVy2JBwctBt7ktTSJmnbA0kI4Xv1G71eb81747LNr36H+eY3X/PN9++NYRQ/fMRKw2XoIH47ZFFjjvhArHZTtkqIeeKM28qwDyXlc1tgm8Tkf50EiBfEd+I9cR6lwCNEPCW+QZcmjjvQqIBNwVfihOReO/EE/p+Iq8QqmRMvF0gzAmQlEOU0YdhiRBPaKGwRDY0qRogfkqHRSpyC7wriMvwfypyMCdkJQPzM2fKweTibB7ZHDY0qkihFEWHh2vL/oupYFGdgG+RsjbBta2hU0IBn+iX3PMK1H9oFFcelEO9ytiBq+gU9U048Jq4TyzQ0KphG9sttdG1om5iq42EE1i7Yu4lZ3MthHBsONHa4wWL+C0HuhMH6q0bF8RmaUkQtMY6ysl6814GGoUcydRm68FyHwnuyMk9BH7cTRyA2JdMoh3HOMIqy43tKRWOVmjh1LawRzzWy26YyPDoRlGwnpCUTbwi2rIaGD+wTGbZgorcmNQKznYpNxH0hqBCak+ESDrwSpykNjdjHR5LdpXOEqoefDdnNOuJtgaP/EhekNba96I9Z7Ce/hoYH+xBfKCeGHeKeTSAs8ytIABsYCeKdkPlfXP3xTxMUlmMaJfSGDLdKFqidxkILArvG7voocITiEeOOaxn0aY1RhEjgAx6gv0y3nOBNZIoFt+W235NFBDZguBCLBRa2Y/wAVsPXWtObEnEAAABkdEVYdE1hdGhNTAA8bWF0aCB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMTk5OC9NYXRoL01hdGhNTCI+PG1uPjI4ODwvbW4+PG1zcXJ0Pjxtbj4zPC9tbj48L21zcXJ0PjwvbWF0aD4eXFgQAAAAAElFTkSuQmCC\" style=\"max-width: none;\">",
+      "<img align=\"middle\" alt=\"83 left parenthesis 9 space minus space 3 square root of 3 right parenthesis\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mn»83«/mn»«mo»(«/mo»«mn»9«/mn»«mo»§#160;«/mo»«mo»-«/mo»«mo»§#160;«/mo»«mn»3«/mn»«msqrt»«mn»3«/mn»«/msqrt»«mo»)«/mo»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGgAAAAWCAYAAAAsNNkQAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAASM53j1gAAAzVJREFUeNrtWUFIlEEU/lkWWUIiKQkpaekQS0S3SCHpEhESHQLpYBFRRHQIkQ5FiIZIIEJ7CiJCIqKIqCCIhRDrICIutCeJYAsPErKHImITXVzfyPfD7OP9O7/r/Lu/7n7wHZyZN2/fe/+892Z0nAZsI07c1XBDONFBLFbIBqqAB8TfxD1b4ccOEG/XUXCixBxxuEL5fuJgtX7sTeJonZ2eM0hV8U3sMQrfBYrDxJk6TG8vibMW9knDhyXohVOXiMvEDPEqW3OcOIX5v8SnxN2Cggms1XGA+IaYJ/6DbGsInOrXJhNU1/afeM2Cjk74sCQdqaOZJMaQS8cw1qedinuY20l8jPlJtvlR4jQb20v8RXxP3EFM4O85YnMNg+PXJj+4SFwRmoNKdUzDl+vIQSiiLYhg7I8WREeYz7PxYRQ7HY+w9qDwUdyvYYD82uQHs0hxtnT0681GFkLntQXtGHutbawjgXneCKSIXWwsJ/T5bRj7XsMA+bXJhP2QO2tRRxd8uY5u5Mc86o5KO1+Iz5CSOI4hPSWFOZVjm9hYAT8qysaL0BsGlLPJhCF8hM0WdTTBlyURm4fTFtEySujWbr6TQqEvCDJzWN8jBGgj6SSoW7nJJhN+4oJqW8cyL+TPkdLcIJ32EGxHK1iEjClAbr3Jog6pk3QFYxMhCJDJJoVTQgZQOAGZDgs6OJb0TmMRrbbCJUSP1yV+XKUTIKU4hVvEBeyrurm7kL8conuMl01DGB8TZMaJXy3oKJviMkIX14Ox+TIFVlIkNQkSpoR2vNaIGAJUQKZxEUPtuWNBB8dJ4kf3j28QahE2SntssA/zL3y02fy9ahyBbwtZgLxsUriAuc/C3SduSYdnm92rtdQtcOII7kAJrFEOfYIbcCtOygL7orwuqu5LwnV8DKmQvCL4tUn/kFeRphTeET9Y1uFCveoc4YU8g2OsitMn9h6U1J6BssjHXk7mTz1F5NO36GbCgo3YpHAIAfqBu8+Kx9POZnSITz1BPKGkne2JlNZ95lCHbNfBGUd4LA3iGWU7/rshhpOjgvQqgP3VCbtRLWMGDA3DVsVDBOic5X374LMGLAUpWg1Fa+zzJdvB+gmAAAAAs3RFWHRNYXRoTUwAPG1hdGggeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzE5OTgvTWF0aC9NYXRoTUwiPjxtbj44MzwvbW4+PG1vPig8L21vPjxtbj45PC9tbj48bW8+JiN4QTA7PC9tbz48bW8+LTwvbW8+PG1vPiYjeEEwOzwvbW8+PG1uPjM8L21uPjxtc3FydD48bW4+MzwvbW4+PC9tc3FydD48bW8+KTwvbW8+PC9tYXRoPqPTXwcAAAAASUVORK5CYII=\" style=\"max-width: none;\">",
+      "<img align=\"middle\" alt=\"256 square root of 2\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mn»256«/mn»«msqrt»«mn»2«/mn»«/msqrt»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADYAAAAWCAYAAACL6W/rAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAASM53j1gAAAiZJREFUeNrdV0EoBFEYnjZpkoNtSdsq2x60d8luHB0k7U0OlMRBDnJ0EZJo0245KCcHiYNSSEpbnKQVF23ag02SNgclrW13wz/bN/V63pud2VE0X321++afN9837///90ZR/j/8xAbFYQgRv6rkv8Yy8ZXY6KTVqiG+EBedloa9SCm/04ztEJN2JwkTU8QC8Zm4glTg4SJmmQJNG8wZIe4R34gli3q0LvhBHLehVXEzFwO4SRO9Kogd4DrPmiCmiXgKQ3PEdrwQKxgmFgVNw4pWZZRzHEbwuyA2gXgZvMQM8ZLos5FBSaSiHa1CaME5bizATLJBbBbcdwFjbhumWvCcfhtahahF8AE3vsSl4RNnbgjjUeIxMY+YKYvG5tHm621oFWIQwZ2S+hlhcnuduXaCsQmmBjIYG7NgLION2a7WH7hGqhlBJZ6jQ+rICY4y+iqmuPEeSSfrRnzIpDEzWsuYJl5BeCUE0XJ1FATG9FTJc6km62SbxBuTpkxr7UKgx0LaPDC/7yDYKyjurMBYiatRFbU1Y+K5prW2Yu/xcGmUMrjHx53jFiB4UtBJY5LaOBPsXf7f0qq94UfJ0Z/dgGch2oUmEuU6Vx3xFqsTxLUjzC16s9oKfxI78H+feFjBlFmtZaQNvmn6mLht5hgTk7RjzfAWaiqPTVa2UbfB2D32rqLkCFWN1j+HvkUkUF+q4hCoWCnN3K7TPk/iMBZRHIi47NOjWnwDIijBqayI6fEAAABkdEVYdE1hdGhNTAA8bWF0aCB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMTk5OC9NYXRoL01hdGhNTCI+PG1uPjI1NjwvbW4+PG1zcXJ0Pjxtbj4yPC9tbj48L21zcXJ0PjwvbWF0aD4bMFURAAAAAElFTkSuQmCC\" style=\"max-width: none;\">"
+    ],
+    "op_hi": [
+      "<img align=\"middle\" alt=\"72 left parenthesis 9 space minus space 4 square root of 3 right parenthesis\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mn»72«/mn»«mo»(«/mo»«mn»9«/mn»«mo»§#160;«/mo»«mo»-«/mo»«mo»§#160;«/mo»«mn»4«/mn»«msqrt»«mn»3«/mn»«/msqrt»«mo»)«/mo»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGgAAAAWCAYAAAAsNNkQAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAASM53j1gAAAz5JREFUeNrtWU1oE0EUDiGEICKWWkRUWoJICcWLlDbY4sWDFPEmHhREFBEPUsSDIsVKD0oJteQgiIgHKYqIioIUROqllFLRW5GCikgRyUEIpUpajG/gW9mO7+3MbpJ10+SD75D9ebP7vpn3vtnEYk1UGx3Ezc00RBO9xHJANhECrhN/ELfUw8MOES82kDgJYoE4EvD+C8SrYT3sOeJog62egyhVHRXEGEXuaooMcbYBy9sD4lwV4rxFDtcg7dG8nJWQJc4TS8RvxBtY1jpeE3u0Y+3Ex8Rl4hLxLrEtgkl+FLBhK9f2k3iaOadyMY28FfHurR6xssjhPyVJEkip2eISJA2h1LmcFmcPcUY7thWCPiNuIHbit4qxMULiHKvAUR0nrjDmQOXuCvK2iXgb8acM8WaQy79QN+71SPZJbbVkMdCSds8Imp0bt3BtmpkQ1yIizk6UlqACzaHEcRPfjTjiL1sYhjVmYxdzUR7CSOAGmiT2a8cKzEtvw7GFiAj0ChMyiEA7cM8h5lxc+92ptQ0J/ciliCTKUNLjvBrouXa8yNyzimsTjMClCIijtgJnXc/kV6BhTEJTue5GWR+3iJlELkWcwgqScBQv0sOIocPpV0csVmDMsGKrvSvvIk4wY/jBZ2xQvTDgij1laZBKpibV5XH+HfpWzEIgp998RB9KoHSWObcSokBJlJEWC4EOCI61D9f3+uxz9y2u/yWd4JyYG4MYKMWcKwpl8TxxEbNCubnLeNAT/7G0jTEVgBNoWHCsCveI732M2W1ZOTxLXB4ljsM+iCP5eM4kcJg2TIIwYLsKHYFWsWVwkELvueRjTFsXt5/4UlLuu7AK2uF2WrW9w7zBZuvfq9Ss+wInFzVIJc7puW+YvY+fTzvbEWfCr802mQOVzK/CTMtblEcl7hniB6yyKH5FMJkE9ey/UaYUnhJfGOKpiXgHk7oN776orUQOs5IHkMzBgkcpGDB86imjnj5hrq0ngXZDoE/Y+6wIn3bcGEezL8Ek5SwmZ9anefKNDPrUesSky30WBKNUCeJYPZlav8h6/bshhZWjRHpYg/g516a55hgyGIZ6xU0IdLjKcQeRsyaqJFIijIH+AKq2FWOQ6yxvAAAAs3RFWHRNYXRoTUwAPG1hdGggeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzE5OTgvTWF0aC9NYXRoTUwiPjxtbj43MjwvbW4+PG1vPig8L21vPjxtbj45PC9tbj48bW8+JiN4QTA7PC9tbz48bW8+LTwvbW8+PG1vPiYjeEEwOzwvbW8+PG1uPjQ8L21uPjxtc3FydD48bW4+MzwvbW4+PC9tc3FydD48bW8+KTwvbW8+PC9tYXRoPg2+flsAAAAASUVORK5CYII=\" style=\"max-width: none;\">",
+      "<img align=\"middle\" alt=\"288 square root of 3\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mn»288«/mn»«msqrt»«mn»3«/mn»«/msqrt»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADYAAAAWCAYAAACL6W/rAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAASM53j1gAAAjtJREFUeNrdV08oBFEYnzZpkmRDErI5aHMXG26SNjkoOSwHcdrTHpWLkkhbNjdJ0iZyUVy2JBwctBt7ktTSJmnbA0kI4Xv1G71eb81747LNr36H+eY3X/PN9++NYRQ/fMRKw2XoIH47ZFFjjvhArHZTtkqIeeKM28qwDyXlc1tgm8Tkf50EiBfEd+I9cR6lwCNEPCW+QZcmjjvQqIBNwVfihOReO/EE/p+Iq8QqmRMvF0gzAmQlEOU0YdhiRBPaKGwRDY0qRogfkqHRSpyC7wriMvwfypyMCdkJQPzM2fKweTibB7ZHDY0qkihFEWHh2vL/oupYFGdgG+RsjbBta2hU0IBn+iX3PMK1H9oFFcelEO9ytiBq+gU9U048Jq4TyzQ0KphG9sttdG1om5iq42EE1i7Yu4lZ3MthHBsONHa4wWL+C0HuhMH6q0bF8RmaUkQtMY6ysl6814GGoUcydRm68FyHwnuyMk9BH7cTRyA2JdMoh3HOMIqy43tKRWOVmjh1LawRzzWy26YyPDoRlGwnpCUTbwi2rIaGD+wTGbZgorcmNQKznYpNxH0hqBCak+ESDrwSpykNjdjHR5LdpXOEqoefDdnNOuJtgaP/EhekNba96I9Z7Ce/hoYH+xBfKCeGHeKeTSAs8ytIABsYCeKdkPlfXP3xTxMUlmMaJfSGDLdKFqidxkILArvG7voocITiEeOOaxn0aY1RhEjgAx6gv0y3nOBNZIoFt+W235NFBDZguBCLBRa2Y/wAVsPXWtObEnEAAABkdEVYdE1hdGhNTAA8bWF0aCB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMTk5OC9NYXRoL01hdGhNTCI+PG1uPjI4ODwvbW4+PG1zcXJ0Pjxtbj4zPC9tbj48L21zcXJ0PjwvbWF0aD4eXFgQAAAAAElFTkSuQmCC\" style=\"max-width: none;\">",
+      "<img align=\"middle\" alt=\"83 left parenthesis 9 space minus space 3 square root of 3 right parenthesis\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mn»83«/mn»«mo»(«/mo»«mn»9«/mn»«mo»§#160;«/mo»«mo»-«/mo»«mo»§#160;«/mo»«mn»3«/mn»«msqrt»«mn»3«/mn»«/msqrt»«mo»)«/mo»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGgAAAAWCAYAAAAsNNkQAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAASM53j1gAAAzVJREFUeNrtWUFIlEEU/lkWWUIiKQkpaekQS0S3SCHpEhESHQLpYBFRRHQIkQ5FiIZIIEJ7CiJCIqKIqCCIhRDrICIutCeJYAsPErKHImITXVzfyPfD7OP9O7/r/Lu/7n7wHZyZN2/fe/+892Z0nAZsI07c1XBDONFBLFbIBqqAB8TfxD1b4ccOEG/XUXCixBxxuEL5fuJgtX7sTeJonZ2eM0hV8U3sMQrfBYrDxJk6TG8vibMW9knDhyXohVOXiMvEDPEqW3OcOIX5v8SnxN2Cggms1XGA+IaYJ/6DbGsInOrXJhNU1/afeM2Cjk74sCQdqaOZJMaQS8cw1qedinuY20l8jPlJtvlR4jQb20v8RXxP3EFM4O85YnMNg+PXJj+4SFwRmoNKdUzDl+vIQSiiLYhg7I8WREeYz7PxYRQ7HY+w9qDwUdyvYYD82uQHs0hxtnT0681GFkLntQXtGHutbawjgXneCKSIXWwsJ/T5bRj7XsMA+bXJhP2QO2tRRxd8uY5u5Mc86o5KO1+Iz5CSOI4hPSWFOZVjm9hYAT8qysaL0BsGlLPJhCF8hM0WdTTBlyURm4fTFtEySujWbr6TQqEvCDJzWN8jBGgj6SSoW7nJJhN+4oJqW8cyL+TPkdLcIJ32EGxHK1iEjClAbr3Jog6pk3QFYxMhCJDJJoVTQgZQOAGZDgs6OJb0TmMRrbbCJUSP1yV+XKUTIKU4hVvEBeyrurm7kL8conuMl01DGB8TZMaJXy3oKJviMkIX14Ox+TIFVlIkNQkSpoR2vNaIGAJUQKZxEUPtuWNBB8dJ4kf3j28QahE2SntssA/zL3y02fy9ahyBbwtZgLxsUriAuc/C3SduSYdnm92rtdQtcOII7kAJrFEOfYIbcCtOygL7orwuqu5LwnV8DKmQvCL4tUn/kFeRphTeET9Y1uFCveoc4YU8g2OsitMn9h6U1J6BssjHXk7mTz1F5NO36GbCgo3YpHAIAfqBu8+Kx9POZnSITz1BPKGkne2JlNZ95lCHbNfBGUd4LA3iGWU7/rshhpOjgvQqgP3VCbtRLWMGDA3DVsVDBOic5X374LMGLAUpWg1Fa+zzJdvB+gmAAAAAs3RFWHRNYXRoTUwAPG1hdGggeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzE5OTgvTWF0aC9NYXRoTUwiPjxtbj44MzwvbW4+PG1vPig8L21vPjxtbj45PC9tbj48bW8+JiN4QTA7PC9tbz48bW8+LTwvbW8+PG1vPiYjeEEwOzwvbW8+PG1uPjM8L21uPjxtc3FydD48bW4+MzwvbW4+PC9tc3FydD48bW8+KTwvbW8+PC9tYXRoPqPTXwcAAAAASUVORK5CYII=\" style=\"max-width: none;\">",
+      "<img align=\"middle\" alt=\"256 square root of 2\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mn»256«/mn»«msqrt»«mn»2«/mn»«/msqrt»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADYAAAAWCAYAAACL6W/rAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAASM53j1gAAAiZJREFUeNrdV0EoBFEYnjZpkoNtSdsq2x60d8luHB0k7U0OlMRBDnJ0EZJo0245KCcHiYNSSEpbnKQVF23ag02SNgclrW13wz/bN/V63pud2VE0X321++afN9837///90ZR/j/8xAbFYQgRv6rkv8Yy8ZXY6KTVqiG+EBedloa9SCm/04ztEJN2JwkTU8QC8Zm4glTg4SJmmQJNG8wZIe4R34gli3q0LvhBHLehVXEzFwO4SRO9Kogd4DrPmiCmiXgKQ3PEdrwQKxgmFgVNw4pWZZRzHEbwuyA2gXgZvMQM8ZLos5FBSaSiHa1CaME5bizATLJBbBbcdwFjbhumWvCcfhtahahF8AE3vsSl4RNnbgjjUeIxMY+YKYvG5tHm621oFWIQwZ2S+hlhcnuduXaCsQmmBjIYG7NgLION2a7WH7hGqhlBJZ6jQ+rICY4y+iqmuPEeSSfrRnzIpDEzWsuYJl5BeCUE0XJ1FATG9FTJc6km62SbxBuTpkxr7UKgx0LaPDC/7yDYKyjurMBYiatRFbU1Y+K5prW2Yu/xcGmUMrjHx53jFiB4UtBJY5LaOBPsXf7f0qq94UfJ0Z/dgGch2oUmEuU6Vx3xFqsTxLUjzC16s9oKfxI78H+feFjBlFmtZaQNvmn6mLht5hgTk7RjzfAWaiqPTVa2UbfB2D32rqLkCFWN1j+HvkUkUF+q4hCoWCnN3K7TPk/iMBZRHIi47NOjWnwDIijBqayI6fEAAABkdEVYdE1hdGhNTAA8bWF0aCB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMTk5OC9NYXRoL01hdGhNTCI+PG1uPjI1NjwvbW4+PG1zcXJ0Pjxtbj4yPC9tbj48L21zcXJ0PjwvbWF0aD4bMFURAAAAAElFTkSuQmCC\" style=\"max-width: none;\">"
+    ],
+    "q_en": "In a parallelogram ABCD with an area of 648 cm<sup>2</sup>, the sides CD and AD have lengths of 27 cm and 48 cm, respectively. Let M be a point on CD such that AM is perpendicular to CD. What is the area (in cm<sup>2</sup>) of the quadrilateral ABCM?",
+    "q_hi": "648 सेमी<sup>2</sup> क्षेत्रफल वाले एक समांतर चतुर्भुज ABCD में, भुजाओं CD और AD की लंबाई क्रमशः 27 सेमी और 48 सेमी है। माना M, CD पर एक बिंदु है जहाँ AM, CD पर लंबवत है। चतुर्भुज ABCM का क्षेत्रफल (सेमी<sup>2</sup> में) क्या है?",
+    "section": "Arithmetic1",
+    "solution": "<p>बच्चों, आइए इस सवाल को समझते हैं...</p>",
+    "topic": "Geometry"
+  },
+  {
+    "ans": "3",
+    "level": "Medium",
+    "op_en": [
+      "13.6",
+      "17.9",
+      "16.1",
+      "16.2"
+    ],
+    "op_hi": [
+      "13.6",
+      "17.9",
+      "16.1",
+      "16.2"
+    ],
+    "q_en": "A and B can do a piece of work in 28 days and 38 days, respectively. The number of days (correct to one decimal place) required to complete the work if both A and B work together is:",
+    "q_hi": "A और B एक कार्य को क्रमशः 28 दिनों और 38 दिनों में कर सकते हैं। यदि A और B दोनों एक साथ कार्य करते हैं, तो कार्य को पूरा करने के लिए आवश्यक दिनों की संख्या (एक दशमलव स्थान तक सही) है:",
+    "section": "Arithmetic1",
+    "solution": "A का समय = 28 दिन, B का समय = 38 दिन।<br>कुल कार्य (28 और 38 का LCM) = 532 इकाई।<br>A की क्षमता = 532 &divide; 28 = 19<br>B की क्षमता = 532 &divide; 38 = 14<br>कुल क्षमता = 19 + 14 = 33<br>लिया गया समय = 532 &divide; 33 = 16.12... &asymp; 16.1 दिन।",
+    "topic": "Time and Work"
+  },
+  {
+    "ans": "3",
+    "level": "Medium",
+    "op_en": [
+      "2,346",
+      "2,287",
+      "2,250",
+      "2,162"
+    ],
+    "op_hi": [
+      "2,346",
+      "2,287",
+      "2,250",
+      "2,162"
+    ],
+    "q_en": "A man makes a monthly payment equal to 60% of his monthly salary towards debt repayment. He spends 13% of the remaining salary and saves ₹783. His monthly salary (in ₹) is:",
+    "q_hi": "एक आदमी ऋण चुकाने के लिए अपने मासिक वेतन के 60% के बराबर मासिक भुगतान करता है। वह शेष वेतन का 13% खर्च करता है और ₹783 बचाता है। उसका मासिक वेतन (₹ में) है:",
+    "section": "Arithmetic1",
+    "solution": "माना मासिक वेतन 100x है।<br>ऋण भुगतान = 60x<br>शेष = 40x<br>खर्च = 40x का 13% = 5.2x<br>बचत = 40x - 5.2x = 34.8x<br>प्रश्नानुसार, 34.8x = 783 &rArr; x = 783 &divide; 34.8 = 22.5<br>मासिक वेतन = 100 &times; 22.5 = 2250 रुपये।",
+    "topic": "Percentages"
+  },
+  {
+    "ans": "3",
+    "level": "Medium",
+    "op_en": [
+      "₹433",
+      "₹380",
+      "₹400",
+      "₹407"
+    ],
+    "op_hi": [
+      "₹433",
+      "₹380",
+      "₹400",
+      "₹407"
+    ],
+    "q_en": "The marked price of an article is ₹650. The shopkeeper offers a discount of 20% on the purchase of the article. Thereby, he makes a profit of 30%. The cost price of the article is:",
+    "q_hi": "एक वस्तु का अंकित मूल्य ₹650 है। दुकानदार वस्तु की खरीद पर 20% की छूट देता है। इस प्रकार, वह 30% का लाभ कमाता है। वस्तु का क्रय मूल्य है:",
+    "section": "Arithmetic1",
+    "solution": "अंकित मूल्य (MP) = 650 रुपये।<br>छूट = 20%।<br>विक्रय मूल्य (SP) = 650 &times; (80/100) = 520 रुपये।<br>लाभ = 30%।<br>क्रय मूल्य (CP) = SP &times; [100 / (100 + P%)] = 520 &times; (100/130) = 400 रुपये।",
+    "topic": "Profit and Loss"
+  },
+  {
+    "ans": "1",
+    "level": "Easy",
+    "op_en": [
+      "<img align=\"middle\" alt=\"23 over 60\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mfrac»«mn»23«/mn»«mn»60«/mn»«/mfrac»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABoAAAAlCAYAAABcZvm2AAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAZpE86XgAAAelJREFUeNrtV8FHREEYf9bzJIm1njxJ7Cl7zVqr/6BDspcOq8Pqkg7p3iHdkiTdkk5Jlz0kWUvSKWtJspJEVrKylyRZz1pe3/B7jDHv7cw+sYf343eYmW++37w338z3jWHIkSc+E7vET+IO0RRscsQ72PwQT4gpQwNJznEagh5xj7PJEDdhM048gs2tjlBJWH0eTn65vjVhTgI2HSMiRCcJYXwGNrtRRCw4uQwYz+L3HkT9miUI5SRj8xjz98eOIvSAzQ7CFPEeYqeDimzAyUgfu2yUYJiDiMrZGDjqponXgkgRmy7DJITOdEQc4ge3yTwPYfNOPMZCWABUiS3ihI7Qa4CIhygzEMourp833Bq2ESPG0ML7J8aIMcRYIJZRJPaEMRtFC7vFb5BitGEj+TGBLeKspMyqgSzVV4iPEpu+ya9JrCN7hlVHBbQX0V7REapBKBliU4bjDNoptMuqIkWu6qwgk7I0vS7YtWBnCgXKt6pQFRNWuUK/KfktXcld5qFfCR2JA/8r+SqoFyDkqgrJVmpJnHyhz48yE+22qtALJjiS1bYlweBwpbFWMGxjAv8GSqNvn+tbFsK7gHZJVWiU+ITVs3fPGPEKRWVKKIMbuBEsvCYaugfWxsvABc8DDq4DAbavF2GV6h+7TKjvBT0dtQAAAGR0RVh0TWF0aE1MADxtYXRoIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8xOTk4L01hdGgvTWF0aE1MIj48bWZyYWM+PG1uPjIzPC9tbj48bW4+NjA8L21uPjwvbWZyYWM+PC9tYXRoPsVXiroAAAAASUVORK5CYII=\" style=\"max-width: none;\">",
+      "<img align=\"middle\" alt=\"7 over 20\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mfrac»«mn»7«/mn»«mn»20«/mn»«/mfrac»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABoAAAAlCAYAAABcZvm2AAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAZpE86XgAAAUVJREFUeNpjYCAeKAHxfxy4i4GKIAuPRVrUtGgmEBujiekB8XEGKgMVLGKTgDiRgcaADYifQ2magmSoj2gOQHGjQ2tLaJIIGHAkgmR6JIKXo4lgFIyCgQX/aYRHwSgYZMASiK8B8S9oA6QDiFmwqBMF4k1QdXuBWJIUSwSRDFaCWgjKDz04qgwQ5gDibUB8AYiZiLUoEc31llCLvqCpC4eKB0H5AVB+MqWlxjc0sTVozWFhKH8NJW2E/9C4QAZPoeIw3zNB+R/ItQgWROZo4r+wlGX/oeJkgXPQBj46+IPDoh/kWFIAxGegqQodvIMaDEtlLFD+S1ItsYZaIoxDHpYYYHlHlpzEIA/Eu9EsiYbmKRiIRUveQVA+0d0YkAsf46jEkBuOoCC7BC0RQClzP5RPdIa9hae29MLiqP3QlLYBiMVxGQoA4J54cpkr65kAAABjdEVYdE1hdGhNTAA8bWF0aCB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMTk5OC9NYXRoL01hdGhNTCI+PG1mcmFjPjxtbj43PC9tbj48bW4+MjA8L21uPjwvbWZyYWM+PC9tYXRoPjQcuiMAAAAASUVORK5CYII=\" style=\"max-width: none;\">",
+      "<img align=\"middle\" alt=\"17 over 30\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mfrac»«mn»17«/mn»«mn»30«/mn»«/mfrac»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABoAAAAlCAYAAABcZvm2AAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAZpE86XgAAAX1JREFUeNpjYMAOZIE4DYiXA/E3HGqUgPg/DtzFQCS4BMQXkDRiA1l4LNJiIAEwEbBoJhAbo4npAfFxBjIAPotUsIhNAuJEaluEDtiA+DmUpqlFyVAfMdDaIlDc6NDaIrITAakWTYIGHU0tAkX+S3ITAQiII1kkTutEgI6pnghGwSigD/hPIzwKRsEgA+ZAfBSIfwHxJyCeC8TCWNSJAvEmqLq9QCxJiiWgxl81ELMAMR+0/QbKD/txVBEgzAHE26CNTiZiLcrC0ZBEbxqHQ8WDoPwAKJ/oKh3dRRo42tNr0Jq/wlD+GnLiyhSIrwHxBCxyT6EGs6D5/AOplnghlVf7oRGPDH5hKcv+Q8VJBqDuyxmoAYvR5P7gsOgHuUndFEdieAcVh8UpC5T/klyLcKU6WGKQRPI92YkBBKShBixFE49FS95BUD7R3ZaHQDwbmlxBCWAHNIWJY/HpJWiJwAZNMJdIybAToBEKSj13gbgHS4qDAUmoBSC1G/C1aAHhP5OO6UJ0mQAAAGR0RVh0TWF0aE1MADxtYXRoIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8xOTk4L01hdGgvTWF0aE1MIj48bWZyYWM+PG1uPjE3PC9tbj48bW4+MzA8L21uPjwvbWZyYWM+PC9tYXRoPqRD1kUAAAAASUVORK5CYII=\" style=\"max-width: none;\">",
+      "<img align=\"middle\" alt=\"13 over 30\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mfrac»«mn»13«/mn»«mn»30«/mn»«/mfrac»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABoAAAAlCAYAAABcZvm2AAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAZpE86XgAAAWVJREFUeNpjYMAOZIE4DYiXA/E3HGrMgfgoEP8C4k9APBeIhRlIBJeA+AIQ/4didKAFxNVAzALEfEA8E6puPwMZgAmPRVk41H5jIBPgsogJja8BVddFbYuQgSkQXwPiCQwUAEIWeSGpAcWPKC19BEqhZ6DqFtPSIljw0SQxMNAr1aEDaai6peRYIo5kkTia3EMgng0tCUAJYAcQP8WijmifoGMYACXlH9Di5y4Q91CS4kbBKKA9+E8jPApGwSADxDYOQSX2Jqi6vUAsSYolpDQOj0MxBxBvgzY6mYi1iNjGYThUPAjKD4Dyk0lpoRLTOFwDFdeC8oWh/DXkxBW+xuFTqMEsaD7/QKolhBqHv7CUZf+h4iQDfI3DPzgs+kFuUsfVOHwHFYfFKQuU/5Jci3ClOlhikETyPdmJAV/jMBYteQdB+YnEGkxs45AJ2jMElQhs0ARziZQMS0rjUBJqAUjtBnwtVQC2vpsU6IdJ1AAAAGR0RVh0TWF0aE1MADxtYXRoIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8xOTk4L01hdGgvTWF0aE1MIj48bWZyYWM+PG1uPjEzPC9tbj48bW4+MzA8L21uPjwvbWZyYWM+PC9tYXRoPtXJzG8AAAAASUVORK5CYII=\" style=\"max-width: none;\">"
+    ],
+    "op_hi": [
+      "<img align=\"middle\" alt=\"23 over 60\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mfrac»«mn»23«/mn»«mn»60«/mn»«/mfrac»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABoAAAAlCAYAAABcZvm2AAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAZpE86XgAAAelJREFUeNrtV8FHREEYf9bzJIm1njxJ7Cl7zVqr/6BDspcOq8Pqkg7p3iHdkiTdkk5Jlz0kWUvSKWtJspJEVrKylyRZz1pe3/B7jDHv7cw+sYf343eYmW++37w338z3jWHIkSc+E7vET+IO0RRscsQ72PwQT4gpQwNJznEagh5xj7PJEDdhM048gs2tjlBJWH0eTn65vjVhTgI2HSMiRCcJYXwGNrtRRCw4uQwYz+L3HkT9miUI5SRj8xjz98eOIvSAzQ7CFPEeYqeDimzAyUgfu2yUYJiDiMrZGDjqponXgkgRmy7DJITOdEQc4ge3yTwPYfNOPMZCWABUiS3ihI7Qa4CIhygzEMourp833Bq2ESPG0ML7J8aIMcRYIJZRJPaEMRtFC7vFb5BitGEj+TGBLeKspMyqgSzVV4iPEpu+ya9JrCN7hlVHBbQX0V7REapBKBliU4bjDNoptMuqIkWu6qwgk7I0vS7YtWBnCgXKt6pQFRNWuUK/KfktXcld5qFfCR2JA/8r+SqoFyDkqgrJVmpJnHyhz48yE+22qtALJjiS1bYlweBwpbFWMGxjAv8GSqNvn+tbFsK7gHZJVWiU+ITVs3fPGPEKRWVKKIMbuBEsvCYaugfWxsvABc8DDq4DAbavF2GV6h+7TKjvBT0dtQAAAGR0RVh0TWF0aE1MADxtYXRoIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8xOTk4L01hdGgvTWF0aE1MIj48bWZyYWM+PG1uPjIzPC9tbj48bW4+NjA8L21uPjwvbWZyYWM+PC9tYXRoPsVXiroAAAAASUVORK5CYII=\" style=\"max-width: none;\">",
+      "<img align=\"middle\" alt=\"7 over 20\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mfrac»«mn»7«/mn»«mn»20«/mn»«/mfrac»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABoAAAAlCAYAAABcZvm2AAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAZpE86XgAAAUVJREFUeNpjYCAeKAHxfxy4i4GKIAuPRVrUtGgmEBujiekB8XEGKgMVLGKTgDiRgcaADYifQ2magmSoj2gOQHGjQ2tLaJIIGHAkgmR6JIKXo4lgFIyCgQX/aYRHwSgYZMASiK8B8S9oA6QDiFmwqBMF4k1QdXuBWJIUSwSRDFaCWgjKDz04qgwQ5gDibUB8AYiZiLUoEc31llCLvqCpC4eKB0H5AVB+MqWlxjc0sTVozWFhKH8NJW2E/9C4QAZPoeIw3zNB+R/ItQgWROZo4r+wlGX/oeJkgXPQBj46+IPDoh/kWFIAxGegqQodvIMaDEtlLFD+S1ItsYZaIoxDHpYYYHlHlpzEIA/Eu9EsiYbmKRiIRUveQVA+0d0YkAsf46jEkBuOoCC7BC0RQClzP5RPdIa9hae29MLiqP3QlLYBiMVxGQoA4J54cpkr65kAAABjdEVYdE1hdGhNTAA8bWF0aCB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMTk5OC9NYXRoL01hdGhNTCI+PG1mcmFjPjxtbj43PC9tbj48bW4+MjA8L21uPjwvbWZyYWM+PC9tYXRoPjQcuiMAAAAASUVORK5CYII=\" style=\"max-width: none;\">",
+      "<img align=\"middle\" alt=\"17 over 30\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mfrac»«mn»17«/mn»«mn»30«/mn»«/mfrac»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABoAAAAlCAYAAABcZvm2AAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAZpE86XgAAAX1JREFUeNpjYMAOZIE4DYiXA/E3HGqUgPg/DtzFQCS4BMQXkDRiA1l4LNJiIAEwEbBoJhAbo4npAfFxBjIAPotUsIhNAuJEaluEDtiA+DmUpqlFyVAfMdDaIlDc6NDaIrITAakWTYIGHU0tAkX+S3ITAQiII1kkTutEgI6pnghGwSigD/hPIzwKRsEgA+ZAfBSIfwHxJyCeC8TCWNSJAvEmqLq9QCxJiiWgxl81ELMAMR+0/QbKD/txVBEgzAHE26CNTiZiLcrC0ZBEbxqHQ8WDoPwAKJ/oKh3dRRo42tNr0Jq/wlD+GnLiyhSIrwHxBCxyT6EGs6D5/AOplnghlVf7oRGPDH5hKcv+Q8VJBqDuyxmoAYvR5P7gsOgHuUndFEdieAcVh8UpC5T/klyLcKU6WGKQRPI92YkBBKShBixFE49FS95BUD7R3ZaHQDwbmlxBCWAHNIWJY/HpJWiJwAZNMJdIybAToBEKSj13gbgHS4qDAUmoBSC1G/C1aAHhP5OO6UJ0mQAAAGR0RVh0TWF0aE1MADxtYXRoIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8xOTk4L01hdGgvTWF0aE1MIj48bWZyYWM+PG1uPjE3PC9tbj48bW4+MzA8L21uPjwvbWZyYWM+PC9tYXRoPqRD1kUAAAAASUVORK5CYII=\" style=\"max-width: none;\">",
+      "<img align=\"middle\" alt=\"13 over 30\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mfrac»«mn»13«/mn»«mn»30«/mn»«/mfrac»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABoAAAAlCAYAAABcZvm2AAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAZpE86XgAAAWVJREFUeNpjYMAOZIE4DYiXA/E3HGrMgfgoEP8C4k9APBeIhRlIBJeA+AIQ/4didKAFxNVAzALEfEA8E6puPwMZgAmPRVk41H5jIBPgsogJja8BVddFbYuQgSkQXwPiCQwUAEIWeSGpAcWPKC19BEqhZ6DqFtPSIljw0SQxMNAr1aEDaai6peRYIo5kkTia3EMgng0tCUAJYAcQP8WijmifoGMYACXlH9Di5y4Q91CS4kbBKKA9+E8jPApGwSADxDYOQSX2Jqi6vUAsSYolpDQOj0MxBxBvgzY6mYi1iNjGYThUPAjKD4Dyk0lpoRLTOFwDFdeC8oWh/DXkxBW+xuFTqMEsaD7/QKolhBqHv7CUZf+h4iQDfI3DPzgs+kFuUsfVOHwHFYfFKQuU/5Jci3ClOlhikETyPdmJAV/jMBYteQdB+YnEGkxs45AJ2jMElQhs0ARziZQMS0rjUBJqAUjtBnwtVQC2vpsU6IdJ1AAAAGR0RVh0TWF0aE1MADxtYXRoIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8xOTk4L01hdGgvTWF0aE1MIj48bWZyYWM+PG1uPjEzPC9tbj48bW4+MzA8L21uPjwvbWZyYWM+PC9tYXRoPtXJzG8AAAAASUVORK5CYII=\" style=\"max-width: none;\">"
+    ],
+    "q_en": "A can complete a task in 5 days, B can finish the same task in 10 days and C can complete it in 12 days. If they all work together, what fraction of the task can they complete in one day?",
+    "q_hi": "A किसी कार्य को 5 दिनों में पूरा कर सकता है, B उसी कार्य को 10 दिनों में पूरा कर सकता है और C उसे 12 दिनों में पूरा कर सकता है। यदि वे सभी एक साथ कार्य करते हैं, तो वे एक दिन में कार्य का कितना अंश पूरा कर सकते हैं?",
+    "section": "Arithmetic1",
+    "solution": "<p>बच्चों, आइए इस सवाल को समझते हैं...</p>",
+    "topic": "Time and Work"
+  },
+  {
+    "ans": "3",
+    "level": "Hard",
+    "op_en": [
+      "Decrease by 38%",
+      "Decrease by 30%",
+      "Increase by 31%",
+      "Increase by 35%"
+    ],
+    "op_hi": [
+      "38% की कमी",
+      "30% की कमी",
+      "31% की वृद्धि",
+      "35% की वृद्धि"
+    ],
+    "q_en": "The cost of a washing machine is 50% less than the cost of a TV. If the cost of the washing machine increases by 63% and that of the TV decreases by 17%, then what is the percentage change in the total cost of 9 washing machines and 3 TVs?",
+    "q_hi": "एक वाशिंग मशीन का मूल्य टीवी के मूल्य से 50% कम है। यदि वाशिंग मशीन के मूल्य में 63% की वृद्धि होती है और टीवी के मूल्य में 17% की कमी होती है, तो 9 वाशिंग मशीन और 3 टीवी के कुल मूल्य में प्रतिशत परिवर्तन क्या है?",
+    "section": "Arithmetic1",
+    "solution": "माना टीवी का मूल्य = 100 रुपये, तो वाशिंग मशीन का मूल्य = 50 रुपये।<br>प्रारंभिक कुल मूल्य = (9 &times; 50) + (3 &times; 100) = 450 + 300 = 750 रुपये।<br>नया वाशिंग मशीन का मूल्य = 50 &times; 1.63 = 81.5 रुपये।<br>नया टीवी का मूल्य = 100 &times; 0.83 = 83 रुपये।<br>नया कुल मूल्य = (9 &times; 81.5) + (3 &times; 83) = 733.5 + 249 = 982.5 रुपये।<br>मूल्य में वृद्धि = 982.5 - 750 = 232.5 रुपये।<br>प्रतिशत परिवर्तन = (232.5 &divide; 750) &times; 100 = 31%",
+    "topic": "Percentages"
+  },
+  {
+    "ans": "2",
+    "level": "Easy",
+    "op_en": [
+      "0.12% gain",
+      "0.16% loss",
+      "0.12% loss",
+      "0.16% gain"
+    ],
+    "op_hi": [
+      "0.12% लाभ",
+      "0.16% हानि",
+      "0.12% हानि",
+      "0.16% लाभ"
+    ],
+    "q_en": "Two bikes were sold for ₹3,990 each, with a gain of 4% on one and a loss of 4% on the other. The gain or loss percent on the whole transaction is:",
+    "q_hi": "दो बाइकें ₹3,990 प्रत्येक में बेची गईं, एक पर 4% का लाभ और दूसरी पर 4% की हानि हुई। पूरे लेन-देन पर लाभ या हानि प्रतिशत है:",
+    "section": "Arithmetic1",
+    "solution": "जब दो वस्तुओं का विक्रय मूल्य समान हो और एक पर x% लाभ तथा दूसरी पर x% हानि हो, तो हमेशा हानि होती है।<br>हानि % = (x<sup>2</sup> / 100)%<br>यहाँ x = 4 है।<br>हानि % = (4<sup>2</sup> &divide; 100) = 16 &divide; 100 = 0.16%",
+    "topic": "Profit and Loss"
+  },
+  {
+    "ans": "2",
+    "level": "Medium",
+    "op_en": [
+      "550 m",
+      "55 m",
+      "25 m",
+      "35 m"
+    ],
+    "op_hi": [
+      "550 मीटर",
+      "55 मीटर",
+      "25 मीटर",
+      "35 मीटर"
+    ],
+    "q_en": "How much length of fabric, 10 meters in width, is needed to construct a conical tent with a base radius of 7 metres and a height of 24 metres? <span style=\"color:#ffffff;\">66</span>",
+    "q_hi": "7 मीटर आधार त्रिज्या और 24 मीटर ऊंचाई वाले एक शंक्वाकार तंबू को बनाने के लिए 10 मीटर चौड़ाई वाले कितने मीटर कपड़े की आवश्यकता है? <span style=\"color:#ffffff;\">66</span>",
+    "section": "Arithmetic1",
+    "solution": "शंकु की त्रिज्या (r) = 7 मीटर, ऊंचाई (h) = 24 मीटर।<br>तिर्यक ऊंचाई (l) = &radic;(r<sup>2</sup> + h<sup>2</sup>) = &radic;(7<sup>2</sup> + 24<sup>2</sup>) = &radic;(49 + 576) = 25 मीटर।<br>तंबू का वक्र पृष्ठीय क्षेत्रफल = &pi; &times; r &times; l = (22/7) &times; 7 &times; 25 = 550 वर्ग मीटर।<br>कपड़े का क्षेत्रफल = तंबू का वक्र पृष्ठीय क्षेत्रफल।<br>कपड़े की लंबाई &times; 10 = 550 &rArr; लंबाई = 550 &divide; 10 = 55 मीटर।",
+    "topic": "Mensuration 3D"
+  },
+  {
+    "ans": "1",
+    "level": "Easy",
+    "op_en": [
+      "96 : 15 : 88",
+      "94 : 15 : 88",
+      "95 : 15 : 88",
+      "93 : 15 : 88"
+    ],
+    "op_hi": [
+      "96 : 15 : 88",
+      "94 : 15 : 88",
+      "95 : 15 : 88",
+      "93 : 15 : 88"
+    ],
+    "q_en": "Radhika, Gautam and Brijesh invested in a business in the ratio 8 : 5 : 11. They invested their capitals for 12 months, 3 months and 8 months, respectively. What was the ratio of their profits?",
+    "q_hi": "राधिका, गौतम और बृजेश ने एक व्यवसाय में 8 : 5 : 11 के अनुपात में निवेश किया। उन्होंने अपनी पूंजी क्रमशः 12 महीने, 3 महीने और 8 महीने के लिए निवेश की। उनके लाभ का अनुपात क्या था?",
+    "section": "Arithmetic1",
+    "solution": "लाभ का अनुपात = निवेश &times; समय।<br>राधिका का लाभ = 8 &times; 12 = 96<br>गौतम का लाभ = 5 &times; 3 = 15<br>बृजेश का लाभ = 11 &times; 8 = 88<br>अनुपात = 96 : 15 : 88",
+    "topic": "Partnership"
+  },
+  {
+    "ans": "1",
+    "level": "Easy",
+    "op_en": [
+      "50",
+      "30",
+      "40",
+      "70"
+    ],
+    "op_hi": [
+      "50",
+      "30",
+      "40",
+      "70"
+    ],
+    "q_en": "A retailer buys an electronic item for ₹185. His overhead expenses are ₹15. He sells the electronic item for ₹300 and makes x% profit. The value of x is:<span style=\"color:#ffffff;\">3865</span>",
+    "q_hi": "एक खुदरा विक्रेता एक इलेक्ट्रॉनिक वस्तु ₹185 में खरीदता है। उसका ऊपरी खर्च ₹15 है। वह इलेक्ट्रॉनिक वस्तु को ₹300 में बेचता है और x% का लाभ कमाता है। x का मान है:<span style=\"color:#ffffff;\">3865</span>",
+    "section": "Arithmetic1",
+    "solution": "कुल क्रय मूल्य (CP) = 185 + 15 = 200 रुपये।<br>विक्रय मूल्य (SP) = 300 रुपये।<br>लाभ = 300 - 200 = 100 रुपये।<br>लाभ % = (100 &divide; 200) &times; 100 = 50%<br>अतः, x = 50",
+    "topic": "Profit and Loss"
+  }
+]
