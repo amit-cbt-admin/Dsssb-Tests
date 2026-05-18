@@ -1,0 +1,212 @@
+[
+  {
+    "ans": "2",
+    "level": "Medium",
+    "op_en": [
+      "<img align=\"middle\" alt=\"29 over 45\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mfrac»«mn»29«/mn»«mn»45«/mn»«/mfrac»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABoAAAAlCAYAAABcZvm2AAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAZpE86XgAAAaRJREFUeNpjYMAOLIH4GhD/AuLnQNwBxCxoauSBeA0QfwPiL0A8F4hFGUgAgkgGK0Et/A/EPUhqxKEO2ADEXECsAeWD1PIQa1EimustoRZ9QRKbBhVTQhLLgoo1MlAA/kODCAZeQ8WQgSRU7Ba5lrBBDdiEJPYHKsaCxUG/yLUoHGqAOZIYLN5CCficJHAOiGeiicHi4y40nligcQsS20uOJQVAfAaIObDI5QHxU2hQgVJfJdSieFItsYZaIkyk+qNAfJxUS0CZcTeaJdHQuEEHoGCbD8QPoSmPaABS/BgaDOh4Eppj0oD4BhDvILVUYIDmg/84sBdS6voExOuQxEbBKBjE4D+N8CgYBYMcrMKRVJmA+CVSUr5FiSXRePJEKJ76iiQgC63OcVm0F9oooRiAqnM9HBYpIbVgZ0KbyWSBEiDOQCuekEErWrA9JccyHSBeiqUcRAei0OYVrEE5jdQm8A5or4KQRTAAavcdhKZAokEfWvOXGIsYoF0XktrdlBT7D6lVV+ED0kDcTAuLaqGNfSZoougipbdHikVLkfq4fYQsAQBopJ8BrCV8SwAAAGR0RVh0TWF0aE1MADxtYXRoIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8xOTk4L01hdGgvTWF0aE1MIj48bWZyYWM+PG1uPjI5PC9tbj48bW4+NDU8L21uPjwvbWZyYWM+PC9tYXRoPr31/V4AAAAASUVORK5CYII=\" style=\"max-width: none;\">",
+      "<img align=\"middle\" alt=\"31 over 45\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mfrac»«mn»31«/mn»«mn»45«/mn»«/mfrac»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABoAAAAlCAYAAABcZvm2AAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAZpE86XgAAAVdJREFUeNpjYMAOzIH4KBD/AuJPQDwXiIXR1MgCcRoQLwfibwxkAC0grgZiFiDmA+KZQPwfiPejqbsExBegcv/JsSgLjc8ENQibq5kosYgJja8BNagLh3qyLUIGpkB8DYgn4FFDsUVeSIaA4keUlj4CpawzUIMW09IiWPD9x5OEqWYRE70skoYatJTaFj0E4tnQkgCUAHYA8VMgFseiVhzJInFSLQIl5R/Q4ucuEPfgSHH/ceBRMAoGIfhPIzwKRsEgB6twJFVQpfgSKSnfosSSaDx5IhQtz0yiRuMEm0V7gTiRGkG2G4j1cFikBBX7Am02i5NrSQkQZ+BpF7SiBdtTcizTQWuM4Ao6UBUfD23NguSnkWIJG7RBIkhCS4cDiA9CUyDRoA/aPyK1SaUBbdBQrbog1FSjSl1FqKHZTAuLaqGdNiZoogD1n3hoYdFSaJw8h8YrXksAH4CR4CjrgbQAAABkdEVYdE1hdGhNTAA8bWF0aCB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMTk5OC9NYXRoL01hdGhNTCI+PG1mcmFjPjxtbj4zMTwvbW4+PG1uPjQ1PC9tbj48L21mcmFjPjwvbWF0aD5oE1n5AAAAAElFTkSuQmCC\" style=\"max-width: none;\">",
+      "<img align=\"middle\" alt=\"28 over 45\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mfrac»«mn»28«/mn»«mn»45«/mn»«/mfrac»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABoAAAAlCAYAAABcZvm2AAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAZpE86XgAAAbJJREFUeNpjYMAOLIH4GhD/AuLnQNwBxCxoaqKB+CQQ/4CquwDEyQwkAEEkg5WgFv4H4h4kNVlQsQlAzAFV2wMVKyDWokQ011tCDfiCJPYaKsaEJMYEFfvAQAEAGfANiX8XKhaEJCYLFVtFriVsUAM2IYl5QePlGzReeID4IBAvBGIuci0Kh1pkjiZuC8QPoXIvgdiDgUJwDohnYhEXB+LF0KCCWeZGriWgFHQGmrKQgRbU4GgoPxYalOjxRhSwhloijEXuApZUFwoVe0iKJfJAvBvNkmhongKBG1BDBbEk7zPEWiIJxI+hmtDxJCRLYUlZEJrvWqF5SINYi27hsOQ/NFkjlw6gIPwDLYZ2Q+NuFIyCQQj+0wiPglEwyMEqHEmVCVrTwpLyLUosicaTJ0Jx1FckA1lojYnLor3QBifFAFSZ6eGwSAmpBTsT2ioiC5QAcQZa8YQMWtGC7Sk5lukA8VIs5SA6EAXieKSOwDRSm8A70Fo4hApIDmiT+CUpFvVhaf4SUxJrQBuRVKsu8IGHlKY+YiyRBuJmWlhUC23bMUETRRe0+0J1i5Yi9XH7CFkCAEGSpW3b9sJKAAAAZHRFWHRNYXRoTUwAPG1hdGggeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzE5OTgvTWF0aC9NYXRoTUwiPjxtZnJhYz48bW4+Mjg8L21uPjxtbj40NTwvbW4+PC9tZnJhYz48L21hdGg+TC/49AAAAABJRU5ErkJggg==\" style=\"max-width: none;\">",
+      "<img align=\"middle\" alt=\"26 over 45\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mfrac»«mn»26«/mn»«mn»45«/mn»«/mfrac»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABoAAAAlCAYAAABcZvm2AAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAZpE86XgAAAaRJREFUeNpjYMAOLIH4GhD/AuLnQNwBxCwMuIEfEK8B4k9A/IeBSCCIZLAS1ML/QNyDRa0oEO+GWlAPxMZAzESsRYlorreEWvQFTZ0kEN8H4pNALM1AJQCy6Bua2HGoRYLUsoQNatEmJLFoqFgXEG8D4h9A/BSI8yixKBxqqDmS2A6oWAZSXN6HiiWTa9E5IJ6JJvYNaigDFl9eI8eSAiA+A8QcaOK/sFgEC+IfpFpiDbVEGIvcDaihklgSzUtSLJGH5g9htKCBBUsj1NAsJHklqFgfsZaAXPkYqgkdT4Kq4QLiK1DXawAxDxBvgeoTJtaiWzgsAWEvtFJhMTROQHg5NTPuKBgF1AX/aYRHwSgY5GAVjqTKBK0qYEn5FiWWROPJE6E46iuSgSy0Osdl0V5og5NiAKrO9XBYpITUggW1ksTJtaQE2m5jwGFRK1qwPSXHMh0gXoqlHMTWyI9H6ghMI7UJvAOtTU2ogAS1+w6S2tTqQ2v+EmMRA7Q19Iua1QU+8JBadRU+AGpqNdPColpoS5UJmii6oA1Jqlu0FKmP20fIEgCx85+7vqWK3gAAAGR0RVh0TWF0aE1MADxtYXRoIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8xOTk4L01hdGgvTWF0aE1MIj48bWZyYWM+PG1uPjI2PC9tbj48bW4+NDU8L21uPjwvbWZyYWM+PC9tYXRoPuZ0258AAAAASUVORK5CYII=\" style=\"max-width: none;\">"
+    ],
+    "op_hi": [
+      "<img align=\"middle\" alt=\"29 over 45\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mfrac»«mn»29«/mn»«mn»45«/mn»«/mfrac»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABoAAAAlCAYAAABcZvm2AAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAZpE86XgAAAaRJREFUeNpjYMAOLIH4GhD/AuLnQNwBxCxoauSBeA0QfwPiL0A8F4hFGUgAgkgGK0Et/A/EPUhqxKEO2ADEXECsAeWD1PIQa1EimustoRZ9QRKbBhVTQhLLgoo1MlAA/kODCAZeQ8WQgSRU7Ba5lrBBDdiEJPYHKsaCxUG/yLUoHGqAOZIYLN5CCficJHAOiGeiicHi4y40nligcQsS20uOJQVAfAaIObDI5QHxU2hQgVJfJdSieFItsYZaIkyk+qNAfJxUS0CZcTeaJdHQuEEHoGCbD8QPoSmPaABS/BgaDOh4Eppj0oD4BhDvILVUYIDmg/84sBdS6voExOuQxEbBKBjE4D+N8CgYBYMcrMKRVJmA+CVSUr5FiSXRePJEKJ76iiQgC63OcVm0F9oooRiAqnM9HBYpIbVgZ0KbyWSBEiDOQCuekEErWrA9JccyHSBeiqUcRAei0OYVrEE5jdQm8A5or4KQRTAAavcdhKZAokEfWvOXGIsYoF0XktrdlBT7D6lVV+ED0kDcTAuLaqGNfSZoougipbdHikVLkfq4fYQsAQBopJ8BrCV8SwAAAGR0RVh0TWF0aE1MADxtYXRoIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8xOTk4L01hdGgvTWF0aE1MIj48bWZyYWM+PG1uPjI5PC9tbj48bW4+NDU8L21uPjwvbWZyYWM+PC9tYXRoPr31/V4AAAAASUVORK5CYII=\" style=\"max-width: none;\">",
+      "<img align=\"middle\" alt=\"31 over 45\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mfrac»«mn»31«/mn»«mn»45«/mn»«/mfrac»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABoAAAAlCAYAAABcZvm2AAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAZpE86XgAAAVdJREFUeNpjYMAOzIH4KBD/AuJPQDwXiIXR1MgCcRoQLwfibwxkAC0grgZiFiDmA+KZQPwfiPejqbsExBegcv/JsSgLjc8ENQibq5kosYgJja8BNagLh3qyLUIGpkB8DYgn4FFDsUVeSIaA4keUlj4CpawzUIMW09IiWPD9x5OEqWYRE70skoYatJTaFj0E4tnQkgCUAHYA8VMgFseiVhzJInFSLQIl5R/Q4ucuEPfgSHH/ceBRMAoGIfhPIzwKRsEgB6twJFVQpfgSKSnfosSSaDx5IhQtz0yiRuMEm0V7gTiRGkG2G4j1cFikBBX7Am02i5NrSQkQZ+BpF7SiBdtTcizTQWuM4Ao6UBUfD23NguSnkWIJG7RBIkhCS4cDiA9CUyDRoA/aPyK1SaUBbdBQrbog1FSjSl1FqKHZTAuLaqGdNiZoogD1n3hoYdFSaJw8h8YrXksAH4CR4CjrgbQAAABkdEVYdE1hdGhNTAA8bWF0aCB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMTk5OC9NYXRoL01hdGhNTCI+PG1mcmFjPjxtbj4zMTwvbW4+PG1uPjQ1PC9tbj48L21mcmFjPjwvbWF0aD5oE1n5AAAAAElFTkSuQmCC\" style=\"max-width: none;\">",
+      "<img align=\"middle\" alt=\"28 over 45\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mfrac»«mn»28«/mn»«mn»45«/mn»«/mfrac»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABoAAAAlCAYAAABcZvm2AAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAZpE86XgAAAbJJREFUeNpjYMAOLIH4GhD/AuLnQNwBxCxoaqKB+CQQ/4CquwDEyQwkAEEkg5WgFv4H4h4kNVlQsQlAzAFV2wMVKyDWokQ011tCDfiCJPYaKsaEJMYEFfvAQAEAGfANiX8XKhaEJCYLFVtFriVsUAM2IYl5QePlGzReeID4IBAvBGIuci0Kh1pkjiZuC8QPoXIvgdiDgUJwDohnYhEXB+LF0KCCWeZGriWgFHQGmrKQgRbU4GgoPxYalOjxRhSwhloijEXuApZUFwoVe0iKJfJAvBvNkmhongKBG1BDBbEk7zPEWiIJxI+hmtDxJCRLYUlZEJrvWqF5SINYi27hsOQ/NFkjlw6gIPwDLYZ2Q+NuFIyCQQj+0wiPglEwyMEqHEmVCVrTwpLyLUosicaTJ0Jx1FckA1lojYnLor3QBifFAFSZ6eGwSAmpBTsT2ioiC5QAcQZa8YQMWtGC7Sk5lukA8VIs5SA6EAXieKSOwDRSm8A70Fo4hApIDmiT+CUpFvVhaf4SUxJrQBuRVKsu8IGHlKY+YiyRBuJmWlhUC23bMUETRRe0+0J1i5Yi9XH7CFkCAEGSpW3b9sJKAAAAZHRFWHRNYXRoTUwAPG1hdGggeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzE5OTgvTWF0aC9NYXRoTUwiPjxtZnJhYz48bW4+Mjg8L21uPjxtbj40NTwvbW4+PC9tZnJhYz48L21hdGg+TC/49AAAAABJRU5ErkJggg==\" style=\"max-width: none;\">",
+      "<img align=\"middle\" alt=\"26 over 45\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mfrac»«mn»26«/mn»«mn»45«/mn»«/mfrac»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABoAAAAlCAYAAABcZvm2AAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAZpE86XgAAAaRJREFUeNpjYMAOLIH4GhD/AuLnQNwBxCwMuIEfEK8B4k9A/IeBSCCIZLAS1ML/QNyDRa0oEO+GWlAPxMZAzESsRYlorreEWvQFTZ0kEN8H4pNALM1AJQCy6Bua2HGoRYLUsoQNatEmJLFoqFgXEG8D4h9A/BSI8yixKBxqqDmS2A6oWAZSXN6HiiWTa9E5IJ6JJvYNaigDFl9eI8eSAiA+A8QcaOK/sFgEC+IfpFpiDbVEGIvcDaihklgSzUtSLJGH5g9htKCBBUsj1NAsJHklqFgfsZaAXPkYqgkdT4Kq4QLiK1DXawAxDxBvgeoTJtaiWzgsAWEvtFJhMTROQHg5NTPuKBgF1AX/aYRHwSgY5GAVjqTKBK0qYEn5FiWWROPJE6E46iuSgSy0Osdl0V5og5NiAKrO9XBYpITUggW1ksTJtaQE2m5jwGFRK1qwPSXHMh0gXoqlHMTWyI9H6ghMI7UJvAOtTU2ogAS1+w6S2tTqQ2v+EmMRA7Q19Iua1QU+8JBadRU+AGpqNdPColpoS5UJmii6oA1Jqlu0FKmP20fIEgCx85+7vqWK3gAAAGR0RVh0TWF0aE1MADxtYXRoIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8xOTk4L01hdGgvTWF0aE1MIj48bWZyYWM+PG1uPjI2PC9tbj48bW4+NDU8L21uPjwvbWZyYWM+PC9tYXRoPuZ0258AAAAASUVORK5CYII=\" style=\"max-width: none;\">"
+    ],
+    "q_en": "A and B take 5 hours and 18 hours, respectively, to do a work. A works for one hour and then B works for two hours. How much work is yet to be done?",
+    "q_hi": "A and B take 5 hours and 18 hours, respectively, to do a work. A works for one hour and then B works for two hours. How much work is yet to be done?",
+    "section": "Arithmetic1",
+    "solution": "<b>📌 Concept (EN):</b><br>Work done by a person in 1 hour = 1 / (Total hours taken). Total work = 1. Remaining work = 1 - (Work done by A + Work done by B).<br><br><b>📌 संकल्पना (HI):</b><br>1 घंटे में किसी व्यक्ति द्वारा किया गया कार्य = 1 / (कुल घंटे)। कुल कार्य = 1। शेष कार्य = 1 - (A द्वारा किया गया कार्य + B द्वारा किया गया कार्य)।<br><br><b>🧮 Step-by-Step (EN):</b><br>1. A's 1 hour work = 1/5<br>2. B's 1 hour work = 1/18. So, B's 2 hours work = 2/18 = 1/9<br>3. Total work done = 1/5 + 1/9 = (9 + 5)/45 = 14/45<br>4. Remaining work = 1 - 14/45 = 31/45<br><br><b>🧮 चरणबद्ध हल (HI):</b><br>1. A का 1 घंटे का काम = 1/5<br>2. B का 1 घंटे का काम = 1/18। इसलिए, B का 2 घंटे का काम = 2/18 = 1/9<br>3. कुल किया गया कार्य = 1/5 + 1/9 = (9 + 5)/45 = 14/45<br>4. शेष कार्य = 1 - 14/45 = 31/45",
+    "topic": "Miscellaneous"
+  },
+  {
+    "ans": "4",
+    "level": "Moderate",
+    "op_en": [
+      "48",
+      "12",
+      "36",
+      "24"
+    ],
+    "op_hi": [
+      "48",
+      "12",
+      "36",
+      "24"
+    ],
+    "q_en": "A solid metallic sphere of radius 6 cm is melted and recast into small cones, each with radius 3 cm and height 4 cm. How many such cones can be made? (Use π = 22/7)",
+    "q_hi": "6 सेमी त्रिज्या वाले एक ठोस धातु के गोले को पिघलाकर छोटे शंकु बनाए जाते हैं, जिनमें से प्रत्येक की त्रिज्या 3 सेमी और ऊंचाई 4 सेमी है। ऐसे कितने शंकु बनाए जा सकते हैं? (π = 22/7 का प्रयोग करें)",
+    "section": "Arithmetic1",
+    "solution": "<b>📌 Concept (EN):</b><br>When an object is melted and recast, the volumes remain equal. Number of cones = Volume of Sphere / Volume of one Cone.<br><br><b>📌 संकल्पना (HI):</b><br>जब किसी वस्तु को पिघलाकर नया आकार दिया जाता है, तो आयतन समान रहता है। शंकुओं की संख्या = गोले का आयतन / एक शंकु का आयतन।<br><br><b>🧮 Step-by-Step (EN):</b><br>1. Volume of Sphere = (4/3) × π × R³ = (4/3) × π × 6³ = 288π<br>2. Volume of Cone = (1/3) × π × r² × h = (1/3) × π × 3² × 4 = 12π<br>3. Number of cones = 288π / 12π = 24<br><br><b>🧮 चरणबद्ध हल (HI):</b><br>1. गोले का आयतन = (4/3) × π × R³ = (4/3) × π × 6³ = 288π<br>2. शंकु का आयतन = (1/3) × π × r² × h = (1/3) × π × 3² × 4 = 12π<br>3. शंकुओं की संख्या = 288π / 12π = 24",
+    "topic": "Mensuration (3D)"
+  },
+  {
+    "ans": "3",
+    "level": "Moderate",
+    "op_en": [
+      "12",
+      "24",
+      "6",
+      "18"
+    ],
+    "op_hi": [
+      "12",
+      "24",
+      "6",
+      "18"
+    ],
+    "q_en": "A and B complete a piece of work in 6 days. If A alone can do it in 24 days, then B alone can do three-fourth of the same work in _____ days.",
+    "q_hi": "A और B किसी काम को 6 दिनों में पूरा कर सकते हैं। यदि A अकेले उसी काम को 24 दिनों में कर सकता है, तो B अकेले उसी काम का तीन-चौथाई (3/4) भाग कितने दिनों में कर सकता है?",
+    "section": "Arithmetic1",
+    "solution": "<b>📌 Concept (EN):</b><br>Efficiency of B = Total Efficiency (A+B) - Efficiency of A.<br><br><b>📌 संकल्पना (HI):</b><br>B की दक्षता = कुल दक्षता (A+B) - A की दक्षता।<br><br><b>🧮 Step-by-Step (EN):</b><br>1. LCM of 6 and 24 is 24 units (Total Work).<br>2. Efficiency of (A+B) = 24 / 6 = 4 units/day.<br>3. Efficiency of A = 24 / 24 = 1 unit/day.<br>4. Efficiency of B = 4 - 1 = 3 units/day.<br>5. B alone takes 24 / 3 = 8 days to complete the whole work.<br>6. Time for 3/4th work = (3/4) × 8 = 6 days.<br><br><b>🧮 चरणबद्ध हल (HI):</b><br>1. 6 और 24 का LCM 24 इकाइयां (कुल कार्य) है।<br>2. (A+B) की दक्षता = 24 / 6 = 4 इकाई/दिन।<br>3. A की दक्षता = 24 / 24 = 1 इकाई/दिन।<br>4. B की दक्षता = 4 - 1 = 3 इकाई/दिन।<br>5. B अकेले पूरे काम को पूरा करने में 24 / 3 = 8 दिन लेता है।<br>6. 3/4 काम के लिए समय = (3/4) × 8 = 6 दिन।",
+    "topic": "Time and Work"
+  },
+  {
+    "ans": "3",
+    "level": "Easy",
+    "op_en": [
+      "₹380",
+      "₹320",
+      "₹300",
+      "₹350"
+    ],
+    "op_hi": [
+      "₹380",
+      "₹320",
+      "₹300",
+      "₹350"
+    ],
+    "q_en": "Divide ₹1,500 between A and B in the ratio 2 : 3. What is the positive difference between their shares?",
+    "q_hi": "₹1,500 को A और B के बीच 2 : 3 के अनुपात में विभाजित करें। उनके हिस्सों के बीच धनात्मक अंतर क्या है?",
+    "section": "Arithmetic1",
+    "solution": "<b>📌 Concept (EN):</b><br>Value of 1 ratio unit = Total Amount / Sum of ratios. Difference = Difference in ratio units × Value of 1 unit.<br><br><b>📌 संकल्पना (HI):</b><br>1 अनुपात इकाई का मान = कुल राशि / अनुपातों का योग। अंतर = अनुपात इकाइयों में अंतर × 1 इकाई का मान।<br><br><b>🧮 Step-by-Step (EN):</b><br>1. Total ratio units = 2 + 3 = 5 units.<br>2. 5 units = ₹1500.<br>3. 1 unit = 1500 / 5 = ₹300.<br>4. Difference in ratio = 3 - 2 = 1 unit.<br>5. Difference in shares = 1 × 300 = ₹300.<br><br><b>🧮 चरणबद्ध हल (HI):</b><br>1. कुल अनुपात इकाइयां = 2 + 3 = 5 इकाई।<br>2. 5 इकाई = ₹1500।<br>3. 1 इकाई = 1500 / 5 = ₹300।<br>4. अनुपात में अंतर = 3 - 2 = 1 इकाई।<br>5. शेयरों में अंतर = 1 × 300 = ₹300।",
+    "topic": "Ratio and Proportion"
+  },
+  {
+    "ans": "3",
+    "level": "Easy",
+    "op_en": [
+      "₹41,422",
+      "₹41,444",
+      "₹41,433",
+      "₹41,411"
+    ],
+    "op_hi": [
+      "₹41,422",
+      "₹41,444",
+      "₹41,433",
+      "₹41,411"
+    ],
+    "q_en": "A and B start a business together. A’s investment is three times B’s investment. Find A’s share of the annual profit of ₹55,244.",
+    "q_hi": "A और B एक साथ एक व्यवसाय शुरू करते हैं। A का निवेश B के निवेश का तीन गुना है। ₹55,244 के वार्षिक लाभ में A का हिस्सा ज्ञात कीजिए।",
+    "section": "Arithmetic1",
+    "solution": "<b>📌 Concept (EN):</b><br>Profit is distributed in the ratio of their investments (assuming the time period is the same).<br><br><b>📌 संकल्पना (HI):</b><br>लाभ उनके निवेश के अनुपात में वितरित किया जाता है (यह मानते हुए कि समय अवधि समान है)।<br><br><b>🧮 Step-by-Step (EN):</b><br>1. Let B's investment be 1 unit. Then A's investment is 3 units.<br>2. Ratio of profit A:B = 3:1.<br>3. Total profit = 3 + 1 = 4 units.<br>4. 4 units = ₹55,244. So, 1 unit = 55244 / 4 = 13811.<br>5. A's share = 3 units = 3 × 13811 = ₹41,433.<br><br><b>🧮 चरणबद्ध हल (HI):</b><br>1. मान लीजिए B का निवेश 1 इकाई है। तो A का निवेश 3 इकाई है।<br>2. लाभ का अनुपात A:B = 3:1।<br>3. कुल लाभ = 3 + 1 = 4 इकाई।<br>4. 4 इकाई = ₹55,244। इसलिए, 1 इकाई = 55244 / 4 = 13811।<br>5. A का हिस्सा = 3 इकाई = 3 × 13811 = ₹41,433।",
+    "topic": "Partnership"
+  },
+  {
+    "ans": "1",
+    "level": "Moderate",
+    "op_en": [
+      "73.33",
+      "74.33",
+      "42.31",
+      "43.31"
+    ],
+    "op_hi": [
+      "73.33",
+      "74.33",
+      "42.31",
+      "43.31"
+    ],
+    "q_en": "A man buys 10 identical articles for a total of ₹15. If he sells each of them for ₹2.6, then his approximate profit percentage will be ______%.<span style=\"color: white;\">10816</span>",
+    "q_hi": "एक आदमी कुल ₹15 में 10 समान वस्तुएं खरीदता है। यदि वह उनमें से प्रत्येक को ₹2.6 में बेचता है, तो उसका अनुमानित लाभ प्रतिशत ______% होगा।",
+    "section": "Arithmetic1",
+    "solution": "<b>📌 Concept (EN):</b><br>Profit % = ((SP - CP) / CP) × 100. Calculate CP and SP for a single article.<br><br><b>📌 संकल्पना (HI):</b><br>लाभ % = ((SP - CP) / CP) × 100। एक वस्तु के लिए CP और SP की गणना करें।<br><br><b>🧮 Step-by-Step (EN):</b><br>1. CP of 10 articles = ₹15. CP of 1 article = 15 / 10 = ₹1.5.<br>2. SP of 1 article = ₹2.6.<br>3. Profit on 1 article = 2.6 - 1.5 = ₹1.1.<br>4. Profit % = (1.1 / 1.5) × 100 = (11 / 15) × 100.<br>5. Profit % = 1100 / 15 = 220 / 3 = 73.33%.<br><br><b>🧮 चरणबद्ध हल (HI):</b><br>1. 10 वस्तुओं का क्रय मूल्य (CP) = ₹15। 1 वस्तु का CP = 15 / 10 = ₹1.5।<br>2. 1 वस्तु का विक्रय मूल्य (SP) = ₹2.6।<br>3. 1 वस्तु पर लाभ = 2.6 - 1.5 = ₹1.1।<br>4. लाभ % = (1.1 / 1.5) × 100 = (11 / 15) × 100।<br>5. लाभ % = 1100 / 15 = 220 / 3 = 73.33%।",
+    "topic": "Profit and Loss"
+  },
+  {
+    "ans": "1",
+    "level": "Moderate",
+    "op_en": [
+      "720",
+      "696",
+      "715",
+      "671"
+    ],
+    "op_hi": [
+      "720",
+      "696",
+      "715",
+      "671"
+    ],
+    "q_en": "Arvind bought an article for ₹x. He sold it to Biru at a loss of 30%. Biru spent ₹198 on its transportation and sold it to Minu at a profit of 50%. If Minu bought it for ₹1053, then what is the value of x?",
+    "q_hi": "अरविंद ने ₹x में एक वस्तु खरीदी। उसने इसे बीरू को 30% की हानि पर बेचा। बीरू ने इसके परिवहन पर ₹198 खर्च किए और इसे मीनू को 50% के लाभ पर बेच दिया। यदि मीनू ने इसे ₹1053 में खरीदा, तो x का मान क्या है?",
+    "section": "Arithmetic1",
+    "solution": "<b>📌 Concept (EN):</b><br>Work backwards. Minu's CP is Biru's SP. Find Biru's total CP, subtract transport cost to find Arvind's SP, then find x.<br><br><b>📌 संकल्पना (HI):</b><br>उल्टे क्रम में हल करें। मीनू का CP बीरू का SP है। बीरू का कुल CP ज्ञात करें, अरविंद का SP खोजने के लिए परिवहन लागत घटाएं, फिर x का मान ज्ञात करें।<br><br><b>🧮 Step-by-Step (EN):</b><br>1. Minu's CP = Biru's SP = ₹1053.<br>2. Biru sold at 50% profit. So, Biru's Total CP × 1.5 = 1053 => Biru's Total CP = 1053 / 1.5 = 702.<br>3. Biru's Total CP = Price paid to Arvind + Transport (198).<br>4. Price paid to Arvind = 702 - 198 = ₹504. (This is Arvind's SP).<br>5. Arvind sold at a 30% loss. So, 70% of x = 504 => 0.7x = 504.<br>6. x = 504 / 0.7 = 720.<br><br><b>🧮 चरणबद्ध हल (HI):</b><br>1. मीनू का CP = बीरू का SP = ₹1053।<br>2. बीरू ने 50% लाभ पर बेचा। इसलिए, बीरू का कुल CP × 1.5 = 1053 => बीरू का कुल CP = 1053 / 1.5 = 702।<br>3. बीरू का कुल CP = अरविंद को चुकाई गई कीमत + परिवहन (198)।<br>4. अरविंद को चुकाई गई कीमत = 702 - 198 = ₹504। (यह अरविंद का SP है)।<br>5. अरविंद ने 30% हानि पर बेचा। इसलिए, x का 70% = 504 => 0.7x = 504।<br>6. x = 504 / 0.7 = 720।",
+    "topic": "Profit and Loss"
+  },
+  {
+    "ans": "3",
+    "level": "Moderate",
+    "op_en": [
+      "19%",
+      "23%",
+      "22%",
+      "20%"
+    ],
+    "op_hi": [
+      "19%",
+      "23%",
+      "22%",
+      "20%"
+    ],
+    "q_en": "A shopkeeper fixes the marked price of an item 50% above its cost price. What percentage of discount should be allowed on the marked price to gain 17%?",
+    "q_hi": "एक दुकानदार किसी वस्तु का अंकित मूल्य उसके क्रय मूल्य से 50% अधिक निर्धारित करता है। 17% का लाभ प्राप्त करने के लिए अंकित मूल्य पर कितने प्रतिशत की छूट दी जानी चाहिए?",
+    "section": "Arithmetic1",
+    "solution": "<b>📌 Concept (EN):</b><br>Assume CP = 100. Find MP and SP, then calculate the discount percentage on MP.<br><br><b>📌 संकल्पना (HI):</b><br>मान लें CP = 100। MP और SP ज्ञात करें, फिर MP पर छूट प्रतिशत की गणना करें।<br><br><b>🧮 Step-by-Step (EN):</b><br>1. Let Cost Price (CP) = 100.<br>2. Marked Price (MP) = 100 + 50% of 100 = 150.<br>3. Desired gain is 17%, so Selling Price (SP) = 100 + 17 = 117.<br>4. Discount = MP - SP = 150 - 117 = 33.<br>5. Discount % = (Discount / MP) × 100 = (33 / 150) × 100.<br>6. Discount % = 3300 / 150 = 22%.<br><br><b>🧮 चरणबद्ध हल (HI):</b><br>1. मान लीजिए क्रय मूल्य (CP) = 100।<br>2. अंकित मूल्य (MP) = 100 + 100 का 50% = 150।<br>3. वांछित लाभ 17% है, इसलिए विक्रय मूल्य (SP) = 100 + 17 = 117।<br>4. छूट = MP - SP = 150 - 117 = 33।<br>5. छूट % = (छूट / MP) × 100 = (33 / 150) × 100।<br>6. छूट % = 3300 / 150 = 22%।",
+    "topic": "Profit, Loss and Discount"
+  },
+  {
+    "ans": "2",
+    "level": "Moderate",
+    "op_en": [
+      "44.24 km/hr",
+      "43.83 km/hr",
+      "45 km/hr",
+      "42.72 km/hr"
+    ],
+    "op_hi": [
+      "44.24 km/hr",
+      "43.83 km/hr",
+      "45 km/hr",
+      "42.72 km/hr"
+    ],
+    "q_en": "A bus goes from City A to City B at an average speed of 40 km/hr and returns at an average speed of 48 km/hr. On the return journey, the bus takes a slightly longer route, increasing the distance by 12 km. Given that the distance from City A to City B is 120 km, find the average speed of the bus for the entire journey (rounded to two decimal places).",
+    "q_hi": "एक बस शहर A से शहर B तक 40 km/hr की औसत चाल से जाती है और 48 km/hr की औसत चाल से वापस आती है। वापसी यात्रा में, बस थोड़ा लंबा रास्ता लेती है, जिससे दूरी 12 km बढ़ जाती है। दिया गया है कि शहर A से शहर B तक की दूरी 120 km है, तो संपूर्ण यात्रा के लिए बस की औसत चाल (दशमलव के दो स्थानों तक पूर्णांकित) ज्ञात कीजिए।",
+    "section": "Arithmetic1",
+    "solution": "<b>📌 Concept (EN):</b><br>Average Speed = Total Distance / Total Time.<br><br><b>📌 संकल्पना (HI):</b><br>औसत गति = कुल दूरी / कुल समय।<br><br><b>🧮 Step-by-Step (EN):</b><br>1. Journey A to B: Distance D1 = 120 km, Speed S1 = 40 km/hr. Time T1 = 120 / 40 = 3 hours.<br>2. Journey B to A: Distance D2 = 120 + 12 = 132 km, Speed S2 = 48 km/hr. Time T2 = 132 / 48 = 2.75 hours.<br>3. Total Distance = 120 + 132 = 252 km.<br>4. Total Time = 3 + 2.75 = 5.75 hours.<br>5. Average Speed = 252 / 5.75 = 43.826... ≈ 43.83 km/hr.<br><br><b>🧮 चरणबद्ध हल (HI):</b><br>1. A से B की यात्रा: दूरी D1 = 120 किमी, गति S1 = 40 किमी/घंटा। समय T1 = 120 / 40 = 3 घंटे।<br>2. B से A की यात्रा: दूरी D2 = 120 + 12 = 132 किमी, गति S2 = 48 किमी/घंटा। समय T2 = 132 / 48 = 2.75 घंटे।<br>3. कुल दूरी = 120 + 132 = 252 किमी।<br>4. कुल समय = 3 + 2.75 = 5.75 घंटे।<br>5. औसत गति = 252 / 5.75 = 43.826... ≈ 43.83 किमी/घंटा।",
+    "topic": "Time, Speed and Distance"
+  },
+  {
+    "ans": "4",
+    "level": "Moderate",
+    "op_en": [
+      "5069.2",
+      "5249.6",
+      "5049.8",
+      "5149.6"
+    ],
+    "op_hi": [
+      "5069.2",
+      "5249.6",
+      "5049.8",
+      "5149.6"
+    ],
+    "q_en": "A shepherd made a conical tent to keep his sheep such that the diameter of the base is 80 m and the height is 9 m. How many square metres of canvas is required to make the tent? (use π = 3.14.)",
+    "q_hi": "एक चरवाहे ने अपनी भेड़ों को रखने के लिए एक शंक्वाकार तंबू बनाया, जिसके आधार का व्यास 80 मीटर और ऊंचाई 9 मीटर है। तंबू बनाने के लिए कितने वर्ग मीटर कैनवास की आवश्यकता होगी? (π = 3.14 का प्रयोग करें)",
+    "section": "Arithmetic1",
+    "solution": "<b>📌 Concept (EN):</b><br>Canvas required = Curved Surface Area (CSA) of the cone = π × r × l, where l = √(r² + h²).<br><br><b>📌 संकल्पना (HI):</b><br>आवश्यक कैनवास = शंकु का वक्र पृष्ठीय क्षेत्रफल (CSA) = π × r × l, जहाँ l = √(r² + h²)।<br><br><b>🧮 Step-by-Step (EN):</b><br>1. Diameter = 80 m, so radius r = 40 m. Height h = 9 m.<br>2. Slant height l = √(40² + 9²) = √(1600 + 81) = √(1681) = 41 m.<br>3. CSA = 3.14 × 40 × 41 = 125.6 × 41.<br>4. 125.6 × 41 = 5149.6 sq. metres.<br><br><b>🧮 चरणबद्ध हल (HI):</b><br>1. व्यास = 80 मीटर, इसलिए त्रिज्या r = 40 मीटर। ऊँचाई h = 9 मीटर।<br>2. तिर्यक ऊँचाई l = √(40² + 9²) = √(1600 + 81) = √(1681) = 41 मीटर।<br>3. CSA = 3.14 × 40 × 41 = 125.6 × 41।<br>4. 125.6 × 41 = 5149.6 वर्ग मीटर।",
+    "topic": "Mensuration (3D)"
+  }
+]
