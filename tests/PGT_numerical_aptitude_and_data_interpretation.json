@@ -1,0 +1,422 @@
+[
+  {
+    "ans": "3",
+    "level": "Hard",
+    "op_en": [
+      "680",
+      "638",
+      "702",
+      "677"
+    ],
+    "op_hi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "q_en": "<p data-pm-slice=\"1 1 []\">A shopkeeper offers two successive discounts of 22% and 20% on an article. During the festive season, he gives an additional 10% discount. If the marked price of the article is ₹1,250, calculate the final price (in ₹) the customer has to pay.</p>",
+    "q_hi": "",
+    "section": "Numerical Aptitude and Data Interpretation",
+    "solution": "",
+    "topic": "Percentage"
+  },
+  {
+    "ans": "1",
+    "level": "Hard",
+    "op_en": [
+      "₹288",
+      "₹296",
+      "₹255",
+      "₹274"
+    ],
+    "op_hi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "q_en": "The marked price of an article is ₹621. The shopkeeper offers a discount of 36% on the purchase of the article. Thereby, he makes a profit of 38%. The cost price of the article is:<span style=\"color: white;\">1117</span>",
+    "q_hi": "",
+    "section": "Numerical Aptitude and Data Interpretation",
+    "solution": "",
+    "topic": "Profit and Loss"
+  },
+  {
+    "ans": "1",
+    "level": "Medium",
+    "op_en": [
+      "43.75%",
+      "42.25%",
+      "52.6%",
+      "45.5%"
+    ],
+    "op_hi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "q_en": "If the radius of a sphere is decreased by 25%, then by what percent does its surface area decrease?<span style=\"color: white;\">3426</span>",
+    "q_hi": "",
+    "section": "Numerical Aptitude and Data Interpretation",
+    "solution": "",
+    "topic": "Percentage"
+  },
+  {
+    "ans": "3",
+    "level": "Hard",
+    "op_en": [
+      "₹22360",
+      "₹22161",
+      "₹22184",
+      "₹22071"
+    ],
+    "op_hi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "q_en": "A person borrows ₹18400 at 15% compound interest per year, compounded annually. At the end of every year, he pays ₹1000 as part payment. How much does he still owe after two such instalments?<span style=\"color: white;\">4457</span>",
+    "q_hi": "",
+    "section": "Numerical Aptitude and Data Interpretation",
+    "solution": "",
+    "topic": "Percentage"
+  },
+  {
+    "ans": "1",
+    "level": "Medium",
+    "op_en": [
+      "3,262.50",
+      "3,232.50",
+      "3,202.50",
+      "3,242.50"
+    ],
+    "op_hi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "q_en": "After decreasing 68% in the actual cost price, the reduced cost price of an article is ₹1,044. The actual cost price of the article (in ₹) is:<span style=\"color: white;\">4841</span>",
+    "q_hi": "",
+    "section": "Numerical Aptitude and Data Interpretation",
+    "solution": "",
+    "topic": "Percentage"
+  },
+  {
+    "ans": "4",
+    "level": "Hard",
+    "op_en": [
+      "5.88%",
+      "6.25%",
+      "10.5%",
+      "12.5%"
+    ],
+    "op_hi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "q_en": "निम्न तालिका में पांच शहरों का तापमान दर्शाया गया है। तालिका का ध्यानपूर्वक अध्ययन करके नीचे दिए गए प्रश्न का उत्तर दीजिए।<br>\n<br>\n<img loading=\"lazy\" src=\"https://blogger.googleusercontent.com/img/a/AVvXsEicji857kgwb6IM3XR2_3MvheePhyvKf2ZSAtYPWqIxwJTmbOQAir7UiaJyV4_vAS-B09sSJ-n4RiV5u1ZB5JGsUDuEiK3jYJHJ69sbWPjyfCx7FeCvWbYfH5HL04hL5bW7HuU0jWQtdWd1iJ8aEl63qxoi-G5oZ5-yEfDfxA9QIj2zmPm51Ah0JEW91mc=rw\" style=\"height: auto; max-width: 100%;\"><br>\nशहर Q का औसत तापमान, शहर S के औसत तापमान से लगभग कितने प्रतिशत अधिक है?",
+    "q_hi": "",
+    "section": "Numerical Aptitude and Data Interpretation",
+    "solution": "",
+    "topic": "Percentage"
+  },
+  {
+    "ans": "2",
+    "level": "Hard",
+    "op_en": [
+      "7",
+      "6",
+      "8",
+      "4"
+    ],
+    "op_hi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "q_en": "P started a business with an investment of ₹66000, and after a few months, Q joined him and invested ₹44000. At the end of the year, the total profit was divided between them in the ratio of 12 : 4. After how many months did Q join the business?<span style=\"color: white;\">5083</span>",
+    "q_hi": "",
+    "section": "Numerical Aptitude and Data Interpretation",
+    "solution": "",
+    "topic": "Profit and Loss"
+  },
+  {
+    "ans": "2",
+    "level": "Hard",
+    "op_en": [
+      "<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAxCAIAAAAnRXxpAAABVUlEQVR42u2Y0RHDIAiGmYuBnMdpXMZh2gQ1iSJqjF7vUnkr+esXkSgInx8ZLPB/g61RCMqUJVohAogySQAFOZDJYKs3CSptbIcA8nonNkoG06BKZFYFxVDL4NIrtQm6wC6EujLbkqAP7Ic1Zx7sC2lvCDrB5KaRbUj+OAslwUMwzSdxkzLEVhRMAEeLKgqGhLoAFgVDkivyJx5JcA+c+yrcg7A7uFEjXV5QBVu/vZ6GiEnoLp8KIPIdqiZYx+ICL/D7wDDTVqgXeIbttboZ0sJcjj1E1iv4ci+yJnCthfG1ic3VmOH5/bq62sKk9TqvVPrAjQW9LRRhc8DczaY8BZwpm5mLwCg3MNPAmwOP+t7wKnQaOP+X8WtcbUtdEgzP6tY+/XFjniZxqtt/5yLyvIW5Ni0ud3gAjvsP2njbbn0aWhjSHB9LulUfd0yhgeEvv87j94O/IRMDkfiCW74AAAAASUVORK5CYII=\" style=\"height: auto; max-width: 100%;\">",
+      "<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAxCAIAAAAnRXxpAAABLElEQVR42u2Y6xWDIAyFM1cGYh6mYZkMYyv4qJgQjVB7KvzEaz7JA4Iw3DSgg58NpuAQXChLvEMEEGSyBSjYgzhkMPm3BJ0PZLAAvMFkLTgZHKmOZR6yUHS1/Frpk47pTODkY0/Dl8ETN6xRHCNN7cFxOqJpTl0ph6qC44Kz6ahknN8cLEW9gavvAO+XzDnhMpgrm/Rg3j4Sli0v0QIPpmn/XQciZr79qCVAzLcw3kI/Fju4g/8bDC1Hd3UH/xB4vImshyDTxqsCC3huL0hqNlSBDbzrXvL+ShXYwGpnd6L1qwJe5lTBFfD26xlwSWCNcdZDxqv25saiCszltJia+sndGlVBnQ1ETZ06Wd2Iexoc3VjEagIDOIUSC39jNMF5cEqXMXHIKOjH4vPAL4TOfcqNfu42AAAAAElFTkSuQmCC\" style=\"height: auto; max-width: 100%;\">",
+      "<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAyCAIAAACh0Q7HAAABe0lEQVR42u2Y7ZUDIQhFrYuCrMdqbIZiEj8iUWFGxzDJ2T36b3fQq4DIi3n8aJgN3uC5gQ6s1wOjt2CkBb01bHR2cS6UbxC2hVNg9M6CuCCBweGZA9JMrP8ENwJHv7k4KR1sAcznJTRMu3oRXM7LlrobnOc139NerBIYShaYEBk8jbGw0TVwWBjKQiEPwXAHpBtBg7tnDTwKKsY7QVeItqYO7oN6kNXmJjAZ8txSyur4b+GWEknpOvG8yAXzHUHLOK1FzuqZGMfcgKYQA9SPQCqodSHmV7qquZdq9X6PN3iD/zDY3Dm2qzf49+BDCdO+e6Hv6x+9B7YSxs42ewMJU3oTpFe+MSuSJW/nZTDR3g4lTNfqsE4lfq85qNRl9lyxyZJ6KI1mT+ixrompBbCwzPmRmYe+A856zV+6TgrgQ12pE2PRmYeH1ctq2fBcRC9ppz6JJbte58Ti8KmEeVcEJBEqaDQWjDF4JGFIApdK7KUfBPpxoYDs9/hfgJ+UJ3d93rhj9QAAAABJRU5ErkJggg==\" style=\"height: auto; max-width: 100%;\">",
+      "<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAxCAIAAAAnRXxpAAABdklEQVR42u2YYZrEEAyGnSsHch6ncZkcZraCLhEVHZ19dpefhDeNjybM64ea2eD/DUZvwVh/beIsgDHc7OynBtahDkzz4qQ+GB3Qmh6lgWMiZvcJXrONvGBcjWZ0wLS4bZjnWMnJjqhD3QdfudRxcgU4xtjhDJeb3wGnhfy3DiT1RFPSpzR6BxzFEtCVeriuXSlqj++DpR0jSzn4xwEBwa9F4MGuJ7+WhHoKnHxdIq6qn/WEedW0W18sfUccOK8mwhZ2WWxYbrJmj7G8Z6MuAVhsi7NkANgVVt/U88dp/483eIN/Jdg82XaoN/j9FjJzvwIccsUideOZW8r+qrYAzAqSTqqnT7O14Cb/afOrR8CazO6j4LLvOXC9qgyGYT0zuccsh6RiiMn2MIFskHLKYQCM8jCV+eRFvdIV/ooLZFykjjy7B1YUx5qyfRaMrYKbgkVVt5s5KL22eOnCLJ5aQPNMoQTHXQvKwosnp6w/zZHe/+O/D/4C5ElneokQy9kAAAAASUVORK5CYII=\" style=\"height: auto; max-width: 100%;\">"
+    ],
+    "op_hi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "q_en": "The value of 2.3333... + 1.1818... - 1.8888... is:",
+    "q_hi": "",
+    "section": "Numerical Aptitude and Data Interpretation",
+    "solution": "",
+    "topic": "Simplification"
+  },
+  {
+    "ans": "2",
+    "level": "Hard",
+    "op_en": [
+      "14",
+      "24",
+      "27",
+      "29"
+    ],
+    "op_hi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "q_en": "A circular field has a circumference of 120 km. Two cyclists, Kushal and Lokesh, start together and can cycle at speeds of 20 km/hr and 5 km/hr, respectively, around the circular field. After how many hours will they meet again at the starting point?<span style=\"color: white;\">3661</span>",
+    "q_hi": "",
+    "section": "Numerical Aptitude and Data Interpretation",
+    "solution": "",
+    "topic": "Time, Speed and Distance"
+  },
+  {
+    "ans": "3",
+    "level": "Medium",
+    "op_en": [
+      "1",
+      "4",
+      "2",
+      "5"
+    ],
+    "op_hi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "q_en": "At what rate (in percentage) per annum will ₹5,000 give ₹600 as simple interest in 6 years?<span style=\"color: white;\">1167</span>",
+    "q_hi": "",
+    "section": "Numerical Aptitude and Data Interpretation",
+    "solution": "",
+    "topic": "Percentage"
+  },
+  {
+    "ans": "1",
+    "level": "Hard",
+    "op_en": [
+      "21.11",
+      "25.33",
+      "23.22",
+      "19.23"
+    ],
+    "op_hi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "q_en": "A person saves 10% of his monthly income. If his monthly income increases by 20%, then he saves 10% more than the previous savings. The percentage increase (rounded off to two decimal places) in his expenditure is ____%.<span style=\"color: white;\">2189</span>",
+    "q_hi": "",
+    "section": "Numerical Aptitude and Data Interpretation",
+    "solution": "",
+    "topic": "Percentage"
+  },
+  {
+    "ans": "2",
+    "level": "Medium",
+    "op_en": [
+      "1,07,760",
+      "1,07,736",
+      "1,07,706",
+      "1,07,700"
+    ],
+    "op_hi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "q_en": "The total surface area (in m<sup>2</sup>) of a cube, each of whose edges measures 134 m, is:",
+    "q_hi": "",
+    "section": "Numerical Aptitude and Data Interpretation",
+    "solution": "",
+    "topic": "General Mathematics"
+  },
+  {
+    "ans": "3",
+    "level": "Hard",
+    "op_en": [
+      "88",
+      "86",
+      "87",
+      "85"
+    ],
+    "op_hi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "q_en": "A trader purchases bananas at ₹48 per hundred. He spends 25% of the total amount on the transportation. What should be the selling price per hundred (in ₹) to earn a profit of 45%?<span style=\"color: white;\">1957</span>",
+    "q_hi": "",
+    "section": "Numerical Aptitude and Data Interpretation",
+    "solution": "",
+    "topic": "Profit and Loss"
+  },
+  {
+    "ans": "3",
+    "level": "Easy",
+    "op_en": [
+      "10",
+      "12",
+      "11",
+      "5.5"
+    ],
+    "op_hi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "q_en": "The average of first 11 odd natural numbers, is:",
+    "q_hi": "",
+    "section": "Numerical Aptitude and Data Interpretation",
+    "solution": "",
+    "topic": "Average"
+  },
+  {
+    "ans": "4",
+    "level": "Hard",
+    "op_en": [
+      "40",
+      "55",
+      "30",
+      "45"
+    ],
+    "op_hi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "q_en": "If twenty-five people working 12 hours a day can complete 4 units of work in 5 days, how many days are required for 15 persons working 10 hours a day to complete 18 units of work? <br>",
+    "q_hi": "",
+    "section": "Numerical Aptitude and Data Interpretation",
+    "solution": "",
+    "topic": "Time and Work"
+  },
+  {
+    "ans": "1",
+    "level": "Hard",
+    "op_en": [
+      "₹27900",
+      "₹26220",
+      "₹26015",
+      "₹28945"
+    ],
+    "op_hi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "q_en": "Latika and Himani together invested ₹34100 in a business. At the end of the year, out of a total profit of ₹8800, Latika's share was ₹1600. What was the investment of Himani?<span style=\"color: white;\">5986</span>",
+    "q_hi": "",
+    "section": "Numerical Aptitude and Data Interpretation",
+    "solution": "",
+    "topic": "Profit and Loss"
+  },
+  {
+    "ans": "2",
+    "level": "Hard",
+    "op_en": [
+      "<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAABICAIAAAACg4AaAAAB5UlEQVR42u2Za5aDIAxGsy4WxHpcDZthMTOKfSAGwuPLoGf0X1s83pJL4Gvp5wIXPRAPBADCWQqXoYFrEMIvhqybPBNXgTCLnwyxKnEJCGw1OiDwStwYAqxEBwTeyz4IcDXaIRSUGIbYXnJXzOndYs1nmLGnYtKgl6eJCVTRiJ3SOv/iCZtfIhUNeumsKTKEN9LXlBSUsF6GL1pUBgFR9rKSIV3iSAj2AdHHqxCG87IHIveYAkO0hlYIN7o68v1SLkVYrIbOwwjlZQ3Dd6BZBiBySgg6MMsDD1Fg2L744Q7ITDDPKpVib5Hfjsm0iVYI1suyDsedA7FEFfbxZgiNffy2EOijXTuEwvmyC0KhGm0QSkrcE+KgxJQfSZS8bIbQqEYThJYSt4RQUaIJIuOlmPKgMZDzUkx54BjIKiGmPHAMrPKSewYyBtZ4KZ66R2Og0C/zKQ8ZA/P9Ukh5yBgoN+1MygPGwMp++co2XicGVvbL2uXRB8F7mUt5XicG8kqIKa8/Bm6LySQjM16KKa8nBvrtlv2uw+yr7eMshPfxLOrv4yUnfLKitc6Xgpg7xvvJWudLcXXENZkGEWFoein2iXdNnKKXFc3q/ac0zYT4YKhVo65ti5vS3xz5T9vQxB9JHoj/APELKZflcH0OQXAAAAAASUVORK5CYII=\" style=\"height: auto; max-width: 100%;\">",
+      "<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAABICAIAAAACg4AaAAACB0lEQVR42u2Z0bWDIAxAMxcDMY/TsAzDtArqQUlASFL0VP/qS+uVXBLgwecGF7wQL4QAhLMQLgOMiwnhJwPWDR6Ju0CYyQ+GmJW4BYRsNjog5JV4MISwEh0Q8l72QQhnox1CQQk2xPIRu46c3k12jZuFcl4AIlUiG5hAdZQmNDwbHu1j8zsNJTC9dNZUGM53AoaZuBAFJdaXLlHFBFoORNnLnAG5FYdCCwLRYXvvbGyACUGVKoxBB4Kul0gqFCHwbOAMtKoMCEoJNBXEXyKWPATNsNcFXxgykPCSSkXqQPzaXL8RXBDwsswQObbWAcZmraMDQrqFNkNo9PHHQkgv7dohFNaXXRAK2WiDUFLimRAHJYYckih52QyhkY0mCC0lHgmhokQTBOFl2OPtm0Fjs5BqADC93Bayfn1c2OUhex06oA0CVWK5iT3zeoAAxKe+xK8HgKyXpRUvHQBsL/efn/NtMO3qAcDzMjspmZ/hfGuACEQyFw0UV/94AEjXy/NehwrohrhSL69Ojz4I3MvlvZAjkOOuDwvohqA23UlBzMahGkBCLJPJnCIJL4+NAZmB1QAEYtk2mvit7BBOpY+jEN6no6jfx0tO+NOM1lpfVsRMzxX01pfV2ZHmZBhEgqHpZbVObDlxil5eKFbbP6VhJMSOoZaNa2W72pR+s+TP2tDAQ5IX4h8gvjVz08Vp0M9kAAAAAElFTkSuQmCC\" style=\"height: auto; max-width: 100%;\">",
+      "<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAABICAIAAAACg4AaAAACGklEQVR42u2Z25WEMAiGqSsFWY/VpBmK2R2NmZMLmAuw6ll9HHHmE34uYeDnBhe8EC+EAoRfYL8cCC4hBK4OFn+xJ+4C4Va8GOIjiVtA6EZjAkJfEg+GUJbEBIS+LucglKMxDmEgCVUI9OvitoZS3Ef04fPQcZYqmKCky41t+36P1I2PisINDM2v+AbQ0OX+Q4tHznPpAxFKClF4e3+5fpns5jKIShIhDv05GzyRM0shDga/aZJXXoMZhLo8pqwovKg8Ln+CeKQpWuiScu4RdCTVQAYOZLqkIGiVME6Ygah0SaQGBcE6QQWidgXhnA2hMFlkEOULBQnEUhVrEfII4U0EEGQfxyQ/wbm8dAaq8hIVK4M+Pgxh0ccfC6E92o1DGMyXUxAG0RiDMJLEMyEySVyyJDHS5TCERTSGIKwk8UgIE0kMQTC6/J7+uFm7aQBCXcY5Kpu1qVGYNRiDICVBn/ISs6aBAkTPAUvzBNajy+ahUHoCa9TLfQtxdgbkDUCmy2qYpVYUTQMViCQXHZxJgjEA7XrJnkRV9hOd9bI3PeYgaF1Wx6vSE5zBNATxfnEdgWnMU7umAQux7/zq1RTl5LwxEBnYNCAgcHskPJV536yPkxCIqRft+/iZJrDIaKv5siHMfNVgNV82syONyWUQCYalLpt14rsfN9RlR7GKf0rDlRBfDLNo9JXtZlP6m5G/akMXLkleiP8A8Quj/83Q6TzKggAAAABJRU5ErkJggg==\" style=\"height: auto; max-width: 100%;\">",
+      "<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAABICAIAAAACg4AaAAACCUlEQVR42u2Z0bGEIAxFUxcFWY/V0AzFvLeAuiKBAEkGnZU/nbvDgVxDyMLfDQa8EC+EAIRdIAwDjMGEcKuBxU7eibtAmNVNhvhY4hYQstEYgJC3xIMhhC0xACHvyzEI4Wj0QyhYgg3hH7Fx5nTOLuaQmSULJjB9mW1MoDopIqVZbXjj4uF3MRUwfflZY5UhvLg+ewUXomKJsNC6ZYKEB1H3ZQND3IlUIwmRhaJVAzxfdjIESb4GEMuXdCi8Av0xSPmSYihswghEyRJUKIqbIAhBMHiEJIWuZuFBIHPVQ3FFiCthQKC+rDLghwsrWSmc490QGuf4YyGkS7t+CIX6cghCIRp9EEqWeCZEYokpTRIlX3ZDaESjC0LLEo+EULFEFwTlS2fXeN0rHusFAQj5MtZWy3bb6xSAhCW2ItZRVa5AjVmCIGt9UgBcX5JXnoY7ETB9uU1hveXQBgQp6IbI93Rrtu/9h70B8RWWBIIQ2B17u/u7umAMAvUlNkdigqJgGKLt3pM6sSQYg8DzZb7Sy5uSYBgC/dajBfZMtLekHCWgIULP7zJlOWm70+cHxuSZkRJAvr9+fpOtR+0cRyGc+37eaddU5xyveWK7TR8YWvUlYczUY1r1Jfl1nGMyDeKEoelLMk8c/XFFXzYkq/1PaZgJcWCoRaMtbWNH4YSSP2sDTmySvBC/APEPpuHjYioe6toAAAAASUVORK5CYII=\" style=\"height: auto; max-width: 100%;\">"
+    ],
+    "op_hi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "q_en": "The total surface area of a solid hemisphere is 20 cm<sup>2</sup>. Its radius (in cm) is:<br><br><img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGkAAAAqCAYAAACwTnX4AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAATeSURBVHhe7Zs/L3RPFICHb4BOJWhUGkLQaBBRSohCKVm9SKgV1BJ/QiIaCq3/JRESERIlIrREfAK/+5yds5kdd3fvenfv731lnmRydsbM3Hvn3HPmzMxV8xVhAn81tVYGKsD5+bmZnp42ra2tpqamxtTX10v+/f3d1sjy9PRk5ufnTWdnp9QjjY+Pm7u7O1vDA0sK/DlnZ2d4pK/BwcGvx8dHKVtcXMyVuVDW0tIibUDb1tXVfb29vUmZS1BShdCB9gcZZVDuQn5/f9/msmQyGSlXxbkEd1ch+vr60IRpaGiwJVlwfT7UGx4etrksTU1N9td3gpKqzMPDg4msyeYK8/z8LLKxsVFkHmJPgaqgLnBnZ8eWxIOLZD7C5cURlFQlGHjmo0ID7zI2NvbV0dERGzRAUFKVIKIrNvAKESBWdHt7a0u+E5RUBbCeJArCDZZSEAQlVZikA8/fqVdqvoKgpArCwBMoxK2B3PWPzldzc3O2JAsKw/35hBC8gszOzppIIXlrILaAdnd3bS7L5uamyIWFBZHA1tHW1pbNeVhlBf4QDbcLJXV/WBFuLq4OaXV1Veq5hF3wfwBxd7oTWyyxS1su7Apr+6WlJVsaKJdaBhKiSQvXZyKzlHw0gUk+Mk/J9/f3iywH9rOiSVR+9/T0iAyUT+3FxYWJooycpVxeXorUQWXDMFqYme7ubsmXy+vrq8i2tjaRgR/AnOTCFkVM8Y/RhV3g53wLwa+vr8VySoGb1JNFTiCZcziFVPepnJycSD3FbeOfWNIWi9Z5rNg8yCmmW7dQ+hVzoVWWwIkiRf4iy4dFF/VYeBFS6uKMMj2VBO3PXVXTd9yKXPewNARF0jbuEAywePpn4Ug7Re/tN5H3NDwwD+ivmF0YGAbF391lQxFFueiAqeLI4/pcRYKuMdzr6r34yvRBue7xtO4oJ4F2XCNJcq+RNnlK4i3nhrCMQmgdf6AZGF9xajX0x28eNK5v2uogoBSUGfcixEE7dyslabtK4iqzUsklL8dg+dbgw9/9NxWF0bHr1oB67oXjVtPaVhP9Yw1+X4WgjbpEFEw+adt/hTwl8YCl3kLqMIguvMmUu9aFxVCGBQGDH+cy4lxdUrStWifKIV/KRSrcD/WTpLh7T4tcdKdRWbEPIhQiM4Uoa3193URuxjQ3N9tSY66urkT29vaKHBgYMMfHx98iukKsra2Zg4MDm4vn8PBQvh/Qjz9eXl5Etre3iyzF0dERL2miRN3/i5ySlpeXRX5+foosBINCWM1go1h2fqempnIhNWE4O7/39/dSv6urS+TIyIjI09NTacfHgcAiFwVvb29LexJh88bGRq5tHNRbWVkR5Ss3Nzci9T5+DdFbknNXmgqFvYArYXKmHq4RV6ORGC5N3RbuwZ+71L2oC1Tok7b8jb65n7gAw0UDGHf+4dq0p69iz5Am3GOhlNSFipIC1QNl+HOkzqWJgyMrA1UizloIvLD4pAQlpYwuOdy1XSnC8XnK7O3tiRwdHRWZhHAymzJEwUSk/ncPxQiWlCIo5uPjw0xOTtqSZARLSpGhoSH5gJ9UDsGSUoKdGXZcZmZmbElygpJSgm0uKCdgUIKSUoBtKuajTCbz7Z/MkhCUlAKE3QQMExMTtqQ8QuCQAj8NGJSgpH+A4O7+eoz5D6gw2r70z1YVAAAAAElFTkSuQmCC\" style=\"height: auto; max-width: 100%;\"><span style=\"color: white;\">1607</span>",
+    "q_hi": "",
+    "section": "Numerical Aptitude and Data Interpretation",
+    "solution": "",
+    "topic": "Percentage"
+  },
+  {
+    "ans": "1",
+    "level": "Medium",
+    "op_en": [
+      "35",
+      "28",
+      "39",
+      "26"
+    ],
+    "op_hi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "q_en": "The speed of a stream is 7 km/h. A boat can go 51 km downstream and 50 km upstream in 3 hours. What is the speed (in km/h) of the boat in still water?<span style=\"color: white;\">3221</span>",
+    "q_hi": "",
+    "section": "Numerical Aptitude and Data Interpretation",
+    "solution": "",
+    "topic": "Time, Speed and Distance"
+  },
+  {
+    "ans": "2",
+    "level": "Hard",
+    "op_en": [
+      "<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGgAAAAxCAIAAAC5/3vJAAACfklEQVR42u2a67mDIAyGMxcDOQ/TuEyG6RFBhRAQewRNn/CvNVR8++VCBD46vhqgCBScglNwCu7OgbOdjAGAaVZwzdDsQsxMdkZV3EVqk3xmg8HNk3TvfASc91GLHwX3DbfZ5QXwY4l0qOCa/HRFhyGzrl8I9lwYJziCaUUn13mfAyc86o10VQV3h+Q4ESq4kubMVv56bJLLk4E7B4xqETBG+BZCuyP3gcOlyDKHNPI69dSgR3x8m2MDu8qtUA11arzkU4OO7YHPy8FxnLDZoFdmeVkChpY1V7kM2AHQP0sCuNNya0A9tnHDkJW5qIpxxt5X44Jx+g0pxlOD7dN+NfrRpQ6wF8Cdlvcj6v/VUa2d1gKGu2Ei+sNg9lPIriWKl5GBcb/vAre77ClGN1oqKTepGdxpTB4StEn+8Y+JZcnTRaUTGPB8pyab1qw4usJ2A/jfqGqaYslBEAsiuHzXXHCa7Q/BazHuHWLLM+o5N4KGTMiXXQ42oYDkC1W4WWxduEV3ojfOBcRwOyYwJUD9UbZ8kUkEGqqm5eZ5D7Jq0K30zZ6SgqP6SSagf6Fb4cw+EOtccF5s7nmm1eBubgyHRQjBgcKD4yGPAlh0KTSa7814RyW4ORMobAzTQXYOVYOejsqGnajaYnou87bT9Ve85x3zeUcN0qztxvt3R1YZ8IIkzQJRfSboimzXAgMuTffiGsLdwLn4urZQCm/ws6+FvYPo76o8OPFvb94GToy3PgoulZeCawFHG6C0o6Pgyse7dlah/pJ1JuJBcA909n4RnLQTES8Bh+PaLbLAVbvvfmsu7BhJP3DpRtmnAErHQ3WZQdxxCD0CoeAUnIL75fEHbZeF9p+KdSsAAAAASUVORK5CYII=\" style=\"height: auto; max-width: 100%;\">",
+      "<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGgAAAAxCAIAAAC5/3vJAAACd0lEQVR42u2a6xWDIAyFMxcDOQ/TsEyGsSKgEIJtraDpCf+qoPA1j0sEZm2nGigCBafgFJyCu7Khs5MxADA5BfcxNLsQM5N1qBb3JbVJPrPB4Nwk3TtvARd81OKs4M5wcz4vQGhLpEMF95GfrugwZtb1gmDPhXEGRzCt6OQ6733ghEe9ka6q4K4wOc4IFVzL5kySvwGbZHkycOeAmRYBY4RvIbQ6cjm4RWoZPgahv7XbTm8hG9z6aY4Nxz5Vg0vRKThaFLJmBLtnJRJg5hiqPo1NuV9DzmlImPdzeVgChp+rGQN2APTP+gtwA/RY4oYxgnBRFfOMvc1mjdPFFbKwskP6td3NHrroAHsluBH6f3VUa6dVwHAvLIx+7+DCELKQLF5mHYx/vg9R/nagmL1oifp+0HXghgRtkn/CMrFt8nRS5QAGPF+pqYZdZ3F0CftDf2uHNk2x1CBID7KOelkNp0l/CF4c44YphDKjvudGJk4G1NNuB5soIHmhehJc09i6cMveRF9cz5Lhtg9gJMDxUlK+qECcAkdlldd+nWyP8btilXSW1H6KARg+6B5wZhfEOhd8r88qNbolok7cGA6LIUQHigvH3TwaYNGn0Gx86MY7KsHNdYGZU0SmCNbGGBIkqtbLbfkUWoadTG0xNReXdrrhTvC8fTzvqCUDNsj1r460iwUzKRaIqjNBV2QHxQKS7sUVhLuBe1csqC4L+wbR31V5cOK/3jwNnBhvvRVcaV4K7iMhTQqgtKKj4No7kI1V1F+yzkTcCO6Gyt4/gpN2IuIh4HBcuUUWuCMmcWsu7BhJP3BvigUZVJ8ZxB2H0CMQCk7BKbh/bi/v/JhmJekmiQAAAABJRU5ErkJggg==\" style=\"height: auto; max-width: 100%;\">",
+      "<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGgAAAAxCAIAAAC5/3vJAAACkklEQVR42u2a64GDIAyAMxcDOY/TsEyG6clDhRCQ9gqau/CvCjV85o3w0vHRAEWg4BScglNw3xxo18UYAFisguuGtm7EzLJaVI17k9oin9lkcHaRbp23gAs2uuJLwX3Czbq4AGFsng4VXJedenQYI6u/INhyYZ7CEUwenVzjvQ+ccK8301QV3DdUjlNCBVfTObOnvwGb5PRkYuWASS4CxggvIbQ78j1wuCVZ5lQNLk9NlMeY0RV7MOunGTawUu4wYp5KRI4hEuclsrE98Ho4uJRT6cVpGjEjkXXPeFgAhh6ZUy5F+jUhr6BvUwK4AkuZyg5XuZ0bRsfKuV1MI/YhnvPW+RWyg3zC/uu4m/ypc+ZvgOvRr+Eq5w11XRfvVrmCI3t15wQblpBXnfjLZIJx/+88u7sdKCYP2oKhW9QNjvHJN4AjASpss/EqqdT5AgY8H+CKZd0aRyXsBwe/G02lp1hKEGQGUbjS1VSK5n1b+J6PqyYA3Q8eE1GvuREJyYJyX3XxYwLJd1yhX9lqzxl7mEBEoZJVYlXO7VzABLLGXpN4UewPOrKm7eE0rNI8bhg3xu6ab43LMo+fGA50G5zZHbPWB9fJ5hFnmJw4hJtxdlrjsClCNKCkjInqUQGLLoQm6+MGWPkJbm4KVArDfNBlmJ65jCxV+RCau51UmFIau1e64U6wvHM9b6hRNVvl+vjuiFcD3pRJN0FUnwmGIjt0gQGXh3txDeFh4Jx/9T2WSvAoLgs7gxhvqjw48ac3TwMnxlpvBZerl4LrAUc7pLSjo+DqlcXBKuZfsr6JuBHcZRGs4HrASfsi4iHgsN2j+L/gWkxiaS7sM5Jx4PJCOYQASidAdZFB3OcQ+gmEglNwCu4vjx8oIGYxcW35+wAAAABJRU5ErkJggg==\" style=\"height: auto; max-width: 100%;\">",
+      "<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAF8AAAAxCAIAAAAz0OKIAAACYElEQVR42u2ZYcLDEAyGcy4H6nmcxmUcZh/FSETbreWrLv23luGRvEmAlzztBwSB0BE6QucJdKzRi1IAsBihg8loh0Ut2lixHQ7N8ggwl9MxywOcqROd4FLavoROE47xggzhcepjhU52q5WPjXFrfTG3o8GVpkNYrHym9rWedOZXoms9S+gcNh7OnH433wkyk3LBwGbyCH9prmyLcA5KzZ80S43+BR2XrahxVhC88IZ+CBsCa1/jFCTWr/e3nTo2DwjNftD7hTc4nvX2nLwf9IbxrWU7aKrdzT7BsTHmcfWrLePhezJeIPEbspm4QfpVrKb8Xyex+lPd8YMN8Cutl3VMzo/RjuUGJnQhpl1sZtFA+f/3NbL/nBqXY7l8xPc7GLMgE+1s86Gcf49Cd6PydWrLuANDt3leUPU8YjsOTU56DROz4NzDHg3Zxtrr1ZIWxHQ+iSrETb6PWf2EB8erfThkhqRDLZKbITfmWvxJHRwQ5c4nNcSRqF/Vm8XAyR2Yqe7qZtKRav//P6IzboKWQsemloA62HCRtgETDbyhZU3dSRpWxqxultNarBs1Gntcnc273KBnfYAq+odmTb8iWLlWsF9s962z+ACFdaBISZi5mFSlhS/BS3L/pl9FO9u6IriiRl83lPc7XM1Od6QBJ7m8d5V37MJDZzwqhFOKEa7LG7JXvZ7vnBkuko6azhOO4cfTmcm5OtPBhiJ0KIucUdSHB79MB1X6a54y3dVxVzo7abHQmRrOODoDThhvTGdr4bF2nO9K/QwdXMYF7aUIAjkvyTPeGstNsdAROkJn9PMHcYKbsxGOyvAAAAAASUVORK5CYII=\" style=\"height: auto; max-width: 100%;\">"
+    ],
+    "op_hi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "q_en": "Two pipes A and B can fill a tank in 39 hours and 18 hours, respectively. If both the pipes are opened simultaneously, then the time taken to fill the tank is:",
+    "q_hi": "",
+    "section": "Numerical Aptitude and Data Interpretation",
+    "solution": "",
+    "topic": "General Mathematics"
+  },
+  {
+    "ans": "1",
+    "level": "Medium",
+    "op_en": [
+      "56",
+      "59",
+      "57",
+      "58"
+    ],
+    "op_hi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "q_en": "4 men can do a piece of work in 28 days. How many men will do it in 2 days?<span style=\"color: white;\">2465</span>",
+    "q_hi": "",
+    "section": "Numerical Aptitude and Data Interpretation",
+    "solution": "",
+    "topic": "Time and Work"
+  }
+]
