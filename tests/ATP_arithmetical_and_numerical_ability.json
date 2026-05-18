@@ -1,0 +1,422 @@
+[
+  {
+    "ans": "4",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "14.5",
+      "15",
+      "7",
+      "8.9"
+    ],
+    "q_en": "",
+    "q_hi": "एक सेल में, 45% वस्तुओं को 32% के लाभ पर बेचा जाता है। बची हुई वस्तुओं में से 20% को 46% के लाभ पर बेचा जाता है, और शेष को 24% की हानि पर बेचा जाता हैं। यदि समग्र लाभ x% है, तो x का मूल्य ज्ञात कीजिए।<br>\n<br>",
+    "section": "Arithmetical and Numerical Ability",
+    "solution": "माना कुल वस्तुएँ 100 और प्रत्येक का क्रय मूल्य &#36;1 है, तो कुल क्रय मूल्य &#36;100 होगा।<br>\n45% वस्तुओं (45) पर 32% लाभ: लाभ = 45 * 0.32 = &#36;14.4<br>\nशेष (55) का 20% (11) पर 46% लाभ: लाभ = 11 * 0.46 = &#36;5.06<br>\nशेष (44) पर 24% हानि: हानि = 44 * 0.24 = &#36;10.56<br>\nकुल लाभ = &#36;14.4 + &#36;5.06 - &#36;10.56 = &#36;8.9<br>\nसमग्र लाभ प्रतिशत (x%) = (8.9 / 100) * 100 = 8.9%",
+    "topic": ""
+  },
+  {
+    "ans": "1",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "3,147",
+      "5,245",
+      "7,343",
+      "1,049"
+    ],
+    "q_en": "",
+    "q_hi": "फर्नीचर की तीन वस्तुओं का औसत मूल्य ₹5,245 है। यदि उनकी कीमतें 3 : 5 : 7 के अनुपात में हैं, तो सबसे सस्ती वस्तु की कीमत (₹ में) क्‍या होगी?",
+    "section": "Arithmetical and Numerical Ability",
+    "solution": "<ul><li><b>कुल मूल्य</b> = औसत &times; संख्या। अनुपात योग से <b>x</b> ज्ञात करें।<br><br></li><li>कुल मूल्य = 5,245 &times; 3 = 15,735। <b>x</b> = 15,735 &divide; 15 = 1,049।<br><br></li><li>सबसे सस्ती वस्तु = 3 &times; 1,049 = <b>3,147</b>।<br><br></li></ul>",
+    "topic": ""
+  },
+  {
+    "ans": "4",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "5.5 मीटर",
+      "5 मीटर",
+      "4 मीटर",
+      "4.5 मीटर"
+    ],
+    "q_en": "",
+    "q_hi": "एक बेलनाकार आधार पर लगे शंक्वाकार शीर्ष से युक्त एक मिसाइल का डिज़ाइन तैयार करना है। शंक्वाकार शीर्ष का घनत्व, बेलनाकार आधार के घनत्व का दोगुना है। आधार का घनत्व 100 kg/m<sup>3</sup> है और मिसाइल का भार <img align=\"middle\" alt=\"594000 over 7\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mfrac»«mn»594000«/mn»«mn»7«/mn»«/mfrac»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAD4AAAAlCAYAAAAa0FocAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAZpE86XgAAAi5JREFUeNrtWbFKA0EQPUIQERsRkSAiBAsRsbHwH6xECBYiIQREUljZWFiI2FhYWAgWYmUjQcRCBBGxkDQWYiEiWFhICIKIiEgQzhl4gXXYzeY0a5HbB48ws3N79zY77467IDAjQawQQ/BejA8Qi8QP4jtxh9gT1Mc+5pLg446IVeIZMeWwxoqMIpq5qYz1EsvEQ2IHcQjxLbHTMN+MMpdECWwnHhOvsfAuaqzgFcsZxrYgIK3kCsitaOr7iVcG4dPITSGeRJx3UGNFGgfxFt7GP6ziWSMgZWgJxilx1CC8iNww4m7ERQc1VqyJbf4kxH8hnxTHhegvFYvEeWVcCn8ScyUQvzqoaQhsFFn0bYjtXUMtl9EI/1DiEeKeGJfCq5qcXMBm1UQCG8UFHF728wPaIgk/COENjDbiCbHLIvzLcMGfDmoiY0izcgvYXlW4+xJOlMX4BnFccyHy4l6Qq7lvEnHFQc2v8GgZv8StRIo0UZpSSrkDmIzrrzWR0UdcNYzxyu5iYWwPDLp/fFbchqYQ5xzUWLGMPk7A5NY1Dyb85DZHvEMv9zQwr044n+MG3sC+cI444aDGij30bhm92qkR8EY8IE5EmNf05JbChdb8otdhjYeHh4dHSyOMCT08PDw8PJqAdJ1bzXorCy/UET7cysL5Pf2YyPE791Krb/VBTY4/T+Xi1vP8mqiM31ghH/z8IBkbcG+PxE10LEwtMJhaPm6i2cwq3tS8qf0PvgGyJjNlzWFdIgAAAGd0RVh0TWF0aE1MADxtYXRoIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8xOTk4L01hdGgvTWF0aE1MIj48bWZyYWM+PG1uPjU5NDAwMDwvbW4+PG1uPjc8L21uPjwvbWZyYWM+PC9tYXRoPt5p43YAAAAASUVORK5CYII=\" style=\"max-width: none;\"> kg होना चाहिए। बेलनाकार आधार की लंबाई 10 मीटर है और मिसाइल की कुल लंबाई 15 मीटर है। शंक्वाकार शीर्ष की त्रिज्या ज्ञात कीजिए।",
+    "section": "Arithmetical and Numerical Ability",
+    "solution": "<ul><li><b>कुल द्रव्यमान</b> = &Sigma; (<b>घनत्व</b> &times; <b>आयतन</b>).<br><br></li><li><b>r = 4.5 m</b> पर, कुल द्रव्यमान <b>27000&pi; kg</b> (594000/7 kg) है.<br><br></li></ul>",
+    "topic": ""
+  },
+  {
+    "ans": "2",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "<img align=\"middle\" alt=\"11 over 14\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mfrac»«mn»11«/mn»«mn»14«/mn»«/mfrac»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABoAAAAlCAYAAABcZvm2AAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAZpE86XgAAAKhJREFUeNpjYMAOZIE4DYiXA/E3CtQQBJeA+AIQ/4dictUQBZiIMISJGhYxEGnIqEWjFg1Bi8SRDBGnQA1RrkTHpKoZBaNgkID/NMKjYBQMMkBO43AVOcmZ1MZhNCX5htjGIcj3ZyjNoMRo3g3EerS2qASIM6jRdsCnWQeIl1KrkYJLMxsQ7wBiQVpb1AfE5tRsduHSTPWqgRSNZFtCauOQLIvICRK8agB8HZJuShFgCQAAAGR0RVh0TWF0aE1MADxtYXRoIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8xOTk4L01hdGgvTWF0aE1MIj48bWZyYWM+PG1uPjExPC9tbj48bW4+MTQ8L21uPjwvbWZyYWM+PC9tYXRoPtGlDEEAAAAASUVORK5CYII=\" style=\"max-width: none;\">दिन",
+      "<img align=\"middle\" alt=\"15 over 22\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mfrac»«mn»15«/mn»«mn»22«/mn»«/mfrac»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABoAAAAlCAYAAABcZvm2AAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAZpE86XgAAASdJREFUeNpjYMAOZIE4DYiXA/E3BtyACYhfAvF/KL7FQCK4BMQXkAzABUKR1IDwJAYyABMRFu0F4kQGKgB8FilB5b4A8UwgFqeVRa1owfaUEssIBZ0oEMcD8TWoumm0sggGOID4IDQF0tQiENAA4l/0sAgEHtLDImkgbibHEnEki7ClplogzoLmN1Ci6AJiHnJ9go6RwVJonDwH4j5yLBkFo4B+4D+N8CgYBYMMWELbAbDSuQOIWchQgxcIImlSQmp49JCohiBIRHOZJVL7jRQ1ZJca36igBi9ggxqyiUI1BEE41BBzCtUQBOegbWtK1eAFBUB8BtoSpUQNXmANNUCYQjV4gTwQ70YzIBqaX0hRgxdIAvFjHJXYJBLUEAS38NSWXiSoQQEANYaTkZw4B/cAAABkdEVYdE1hdGhNTAA8bWF0aCB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMTk5OC9NYXRoL01hdGhNTCI+PG1mcmFjPjxtbj4xNTwvbW4+PG1uPjIyPC9tbj48L21mcmFjPjwvbWF0aD5var7tAAAAAElFTkSuQmCC\" style=\"max-width: none;\">दिन",
+      "<img align=\"middle\" alt=\"14 over 19\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mfrac»«mn»14«/mn»«mn»19«/mn»«/mfrac»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABoAAAAlCAYAAABcZvm2AAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAZpE86XgAAAR9JREFUeNpjYMAOZIE4DYiXA/E3BuLAKiD+z0AiuATEF6AaidEcTYJaDMBEpGaQ789QYhEDkZp3A7EerS0qAeIMEhxFlkU6QLyURN+TbBEbEO8AYkFaW9QHxOZkxCfJFv0ngGmS6ij2kTiSZnFaWUROkFAUR6NgFNAW/KcRHgWjYJABYhqQ8kC8Bir/BYjnArEotRuQoPrpORBvAGIuINaA8q8BMQ81G5DToOJKSGJZULFGalblr7GIS0LFblHToj9QcRYs6n9R06JrUPFQLOq/UdMiWHzchcYTyGeJULG91G5u5QHxU2hQgVJfJVRtPK3bdUeB+Dgtuy2gYJsPxA+hKY/qDUh5aOlxA9rgF6XEJ7hqSxD7ExCvA2IvYgwEAIPOnNORyDRCAAAAZHRFWHRNYXRoTUwAPG1hdGggeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzE5OTgvTWF0aC9NYXRoTUwiPjxtZnJhYz48bW4+MTQ8L21uPjxtbj4xOTwvbW4+PC9tZnJhYz48L21hdGg++SSdkgAAAABJRU5ErkJggg==\" style=\"max-width: none;\">दिन",
+      "<img align=\"middle\" alt=\"12 over 17\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mfrac»«mn»12«/mn»«mn»17«/mn»«/mfrac»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABoAAAAlCAYAAABcZvm2AAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAZpE86XgAAAQ1JREFUeNpjYMAOZIE4DYiXA/E3HGosgfgaEP8C4udA3AHELAwkgktAfAGI/0MxOhBEMlgJaiFIXQ8DGYAJj0WJaK63hKr7wkAmwGURLrXfaG0RG1TdJlpbFA5VZ05ri84B8UwGCgAxFhUA8Rkg5qClRdZQS4QZKAT4LJIH4t1olkRD8xRJQBzJInE0OUkgfowkj4wnkeMTdAwDt/Co8WIYBaNg0IH/NMKjYBQMMkBMA1IJT5LuolYDEgSy8FikRa0GJAO0MWKMJqYHxMepXZWrYBGbBG3F0rSlygZt7LPR2qJkUtsL5FoEihsdWltEdiIg1aJJ0KCjqUWgyH9JbiIg1ICkeiIgprYkKhEAANDqizm6WljqAAAAZHRFWHRNYXRoTUwAPG1hdGggeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzE5OTgvTWF0aC9NYXRoTUwiPjxtZnJhYz48bW4+MTI8L21uPjxtbj4xNzwvbW4+PC9tZnJhYz48L21hdGg+Y6SGHQAAAABJRU5ErkJggg==\" style=\"max-width: none;\">दिन"
+    ],
+    "q_en": "",
+    "q_hi": "A एक काम को 10 दिनों में पूरा कर सकता है। B उसी समान काम को 12 दिनों में पूरा कर सकता है। यदि वे दोनों मिलकर काम करें, तो काम का आठवां भाग पूरा करने में उन्हें कितने दिन लगेंगे?",
+    "section": "Arithmetical and Numerical Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "1",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "16800",
+      "16704",
+      "16732",
+      "16746"
+    ],
+    "q_en": "",
+    "q_hi": "A ने ₹21000 का निवेश करके एक सॉफ्टवेयर व्यवसाय शुरू किया। तीन महीने बाद, B, ₹32000 की पूंजी के साथ उसके साथ व्यवसाय में शामिल हो गया। 4 वर्ष बाद, उन्होंने ₹40800 का लाभ अर्जित किया। लाभ में A का हिस्सा (₹ में, निकटतम पूर्णांक तक पूर्णांकित) कितना था?",
+    "section": "Arithmetical and Numerical Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "1",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "49",
+      "8",
+      "45",
+      "53"
+    ],
+    "q_en": "",
+    "q_hi": "8 संख्याओं का औसत 45 है। यदि प्रत्येक संख्या में 4 की वृद्धि की जाए, तो नया औसत ज्ञात कीजिए।",
+    "section": "Arithmetical and Numerical Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "4",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "2",
+      "1",
+      "4",
+      "3"
+    ],
+    "q_en": "",
+    "q_hi": "निम्न रेखा ग्राफ वर्ष 2019 से 2023 तक एक कंपनी के आयात और निर्यात के अनुपात के बारे में जानकारी देता है।<br>\nदिए गए वर्षों में से कितने वर्षों तक उस कंपनी का निर्यात, आयात से अधिक था?  <br>\n<br>\n<img loading=\"lazy\" src=\"data:image/png;base64,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\" style=\"max-width:100%;height:auto;\"><br>\nसंदर्भ -<br>\nratio of exports to imports- आयात और निर्यात का अनुपात<br>\nyears - वर्ष <span lang=\"EN-US\" style=\"font-size:12.0pt\"><span style=\"line-height:115%\"><span style=\"font-family:&quot;Times New Roman&quot;,serif\"></span></span></span>",
+    "section": "Arithmetical and Numerical Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "3",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "42",
+      "72",
+      "56",
+      "61"
+    ],
+    "q_en": "",
+    "q_hi": "तीन संख्याएं 7 : 9 : 12 के अनुपात में हैं। यदि सबसे छोटी और सबसे बड़ी संख्या का अंतर 10 है, तो उन संख्याओं का योगफल ज्ञात कीजिए।",
+    "section": "Arithmetical and Numerical Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "3",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "72%",
+      "71.43%",
+      "138.89%",
+      "105%"
+    ],
+    "q_en": "",
+    "q_hi": "एक परीक्षा में, पूर्णांक 105 में से B को 54 अंक प्राप्त हुए, जबकि A को 75 अंक प्राप्त हुए। A के अंक, B के अंकों के लगभग कितने प्रतिशत थे?",
+    "section": "Arithmetical and Numerical Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "1",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "4",
+      "8",
+      "5",
+      "9"
+    ],
+    "q_en": "",
+    "q_hi": "एक नल एक टंकी को 7 घंटे में भरता है। दूसरा नल पूरी भरी टंकी को 56 घंटे में खाली करता है। यदि टंकी शुरू में खाली हो और दोनों नल एक साथ खोल दिए जाएं, तो टंकी को आधा भरने में कितना समय (घंटों में) लगेगा?",
+    "section": "Arithmetical and Numerical Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "2",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "403.2",
+      "7000",
+      "14000",
+      "3500"
+    ],
+    "q_en": "",
+    "q_hi": "किस राशि (₹ में) पर 3 वर्षों में 8% वार्षिक ब्याज दर से साधारण ब्याज के रूप में ₹1680 प्राप्त होगा?",
+    "section": "Arithmetical and Numerical Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "2",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "<img align=\"middle\" alt=\"left parenthesis 5 pi plus 8 right parenthesis space cm\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mo»(«/mo»«mn»5«/mn»«mi»§#960;«/mi»«mo»+«/mo»«mn»8«/mn»«mo»)«/mo»«mo»§#160;«/mo»«mi»cm«/mi»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFsAAAASCAYAAAA0YaI9AAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAPUJuPDwAAAp9JREFUeNrdWEFEBFEYHiNJuqyVDunSIVlJdEiSRJIOHZaVrCRdsoes1S2rQ7qsrHSIjkmXDh0TSTpkLXtIVhIdVpJEkqy1lukfvs3zem/eTO3sbPPzsfu/f977/2/e+///jab9lCRhVfOfJAjrjeRQjJDS/CspxOi5hAhZzf+SQ6yeyjlhSKDXCS8EA7ivkz/V9exKFJulRCgTrglLArthxOqZ9BMykrEIE7iJHW68nZDnbKww7QLZMdhuE1oITYQt6OIC+wxi9kQ2UEBkO37R4tk1B0S7RfYrbHXuRJq6d0mx3PCK7FPCqEDfDYc/CXuEDoFNHI7rEoIMHG0308gDbMOMrgu6I4H9KGL2RD4IzQL9JrcrnySEWxFUD7KnkaeLyNNthEvCPqFVYN+MmO3Me4O5zcLaA30fIU14Q9pKY+1HwgQhSDhA3AXCGDtpxWJBMycvEG4R/K4LZBsOoUl2awHjZkGfUqxZVoyPEK4IA0zbmMfvN8aXWbzQMP6bPqxANw5d3i7ZVWnBbnn5BdnlOpDdgd10xBA+abGmagNcgNSqLONka4qUqYxflkZ46VUQZ9eBWqeREMiN4v88/OTzuJM0UlKs74Rsw06BFElB4QD/Mip1IPta0I1EmGPNi5lDT2ykGQMbrKZkW7V+rHRatExNmLQoeDkGnnWL7DvYBgStX+6XrV8Wzx9grm4mjfyJbNmlJokLg45CmUKlF8kgJr3h9GnoDwkzqNS1JjvKtHkBvPhN9Ni9EiL7FHPOMT5UkKaqzUGAGQvY1AVV1/VDHKdnkNZm4VwSk/JXZHPBYzh87OJ1PYZ0UkG+PZN8A3FyXU/ghZXQRgYlBd2J7rvI5Hz+EUrHrg41gjN+/8S6hRauYSRps1j+N4kjNs/kC6S6JtMFTrxBAAAAm3RFWHRNYXRoTUwAPG1hdGggeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzE5OTgvTWF0aC9NYXRoTUwiPjxtbz4oPC9tbz48bW4+NTwvbW4+PG1pPiYjeDNDMDs8L21pPjxtbz4rPC9tbz48bW4+ODwvbW4+PG1vPik8L21vPjxtbz4mI3hBMDs8L21vPjxtaT5jbTwvbWk+PC9tYXRoPpiLTeMAAAAASUVORK5CYII=\" style=\"max-width: none;\">",
+      "<img align=\"middle\" alt=\"left parenthesis 5 pi plus 10 right parenthesis space cm\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mo»(«/mo»«mn»5«/mn»«mi»§#960;«/mi»«mo»+«/mo»«mn»10«/mn»«mo»)«/mo»«mo»§#160;«/mo»«mi»cm«/mi»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGQAAAASCAYAAACtmXuIAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAPUJuPDwAAAqdJREFUeNrtWD1IW1EUfgQJUlxESgili4OEUkRwkCIShE4OIoVSOpQihVIcRMRNgoO4BMnQoeAoIi4i4lBcijiUEHAoIXToJkVKllCKhPAIPM8t35XL8/69tC/3YfLBB3n3J++88917zrnX8+6iQFzzehOrxI0kGbRELHq9jSL84BxPiBWvD4YL+MMpvhCnJO0pYp0YgD+6ZA9/ny0eE98TD4hNzbiHxBOij2/OSsY8Q58zjBPLir6XgnMYP0o+sBYao+NcTIJUid8s5pXBQeJnzEkpxo27EmQTCU21cxY1c9cjiBGnIHw36+a9Qt8LPC/g+Z0iwW+6EuSUOCNpH4XB18QdYkYyZgWGq5zBnltdCFk28w7Rx/PDCJ4PJWNn4Bcn+ENMS9q3Qqv7SiGKzhlJEuQKfQOhHfVbMjYNv5gwh3DpoxgYQ/tTYonYQHgsIbf9JD7HYtiDby6JefFP24Yk+Jb4HcZ/ikGQICI7FcRX2OdrxuswTfxKnBBK5hp+NwRbWKh8gFAZQIBltM2irWYrCAdT+RwVV1RB/IQI0o64YEwL6QyO5/iAXegZQrjRR6qQFUbO4FxbA1yFLL5qeVU1gOd6hyGrZbAxiiCBTVKX4dJggG+xKl0n9axwdlEl9TzKYh14CMz9b0F0Za+IR5pSkK+2pkTAAHNdC/ImVPbymL7YYdlbwfw97LpRIWT9kyCqg2EB9zopJHeWtIYUxk3iT6uh9hLa94nzqC7iEiQjzMsozilVnK3SyAFVxcGwgkpJh9fC+9oIfbzoGRb6hi3bRkxXJ/vYlr/g2CGNcQXFIYu98AgGH8W4Q2wLgCyEYN91rBAuytXJKspmlk92BafK7LBtu71cvOjfK/7dLZUkXC56Xv/6nWEb5WtiULBM8PcRK/h+Z7gB9sc+6/7lSKIAAACcdEVYdE1hdGhNTAA8bWF0aCB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMTk5OC9NYXRoL01hdGhNTCI+PG1vPig8L21vPjxtbj41PC9tbj48bWk+JiN4M0MwOzwvbWk+PG1vPis8L21vPjxtbj4xMDwvbW4+PG1vPik8L21vPjxtbz4mI3hBMDs8L21vPjxtaT5jbTwvbWk+PC9tYXRoPta46xkAAAAASUVORK5CYII=\" style=\"max-width: none;\">",
+      "<img align=\"middle\" alt=\"left parenthesis 5 pi plus 12 right parenthesis space cm\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mo»(«/mo»«mn»5«/mn»«mi»§#960;«/mi»«mo»+«/mo»«mn»12«/mn»«mo»)«/mo»«mo»§#160;«/mo»«mi»cm«/mi»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGQAAAASCAYAAACtmXuIAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAPUJuPDwAAApxJREFUeNrtWD1IHEEUHkREQho5RIJI4AqRIBKwEBEJgVQWFgERsQgSELGQQ+zCkUIEkXCFhZBSRNJZWEhAJKQQORAJcqSwO4KENCKHBFkOLt+Eb8Mw7vys3rlLvAcf3L59M/PufTvvvRkhbkoeWBIPUxaB92lyaB5YEw9b1hiHxOUZUBRNkXLMeCQqB8BQhL4F+AXUiLN78idcz1d6gFngE/DbYDMMfAcC4CewCrQa7A6SJGMAODK8m1CCI7Guve8ESpqNDWMNIuQU+GYZ16EQkCUx0u6DYb4jxiURWWZBM+2cGcvYdzHIaCQh4W42jZvRdsMw7a4sBX45KUI+A6MR+qzi9EegK8ImR8dNwZDP1/eQsm4zrmZJb6OMSyJSAdoi9Cva131uIMUWjLQS0ka7Xcv7isc8Y0yXAZuBXur7gQJwAbTztyT/B/AKyABbjE0ZeKFOWrUsKGvEGyXnbjSAkFpM1IOQSdoNWWwCxxwjwCHwXGmZS/x9ofgi13oEvOazJGCBupfUlXwJCUWy/JUdV1xCghQScsI0bBPXh/SFgQ9ljllEOFK4M0amlKVLnyO4vg4knbJyTC/tjpRW8SCsVod43NCZinqUlB0O6IRVU0bICMnIOOaROX3PYRNwrb56E2Jre1XptrSCrYaupUx9dwoIeQrsa2RMsz7epu0tcq0tpqiskrLuRIjpYJjnvU4Li7ssWo8Nzg1y0lNNX6B+Gxj3+DLvQkiXMk7vBp+ww4mqSeuGYPc71ptS5qiyvm4oB9HwXYenLuO6OtlWrhkKFjJC8uSkbyNOyDt0eKeBO8TVAJzFOKzGuTqRO+mS9WRTCWqUH766f5eLx817xb/ZoJiGy0Uhmtfvgndbc2lyKO9Z4P9HyfH/JyZ/ACTzN/KZ+K9NAAAAnHRFWHRNYXRoTUwAPG1hdGggeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzE5OTgvTWF0aC9NYXRoTUwiPjxtbz4oPC9tbz48bW4+NTwvbW4+PG1pPiYjeDNDMDs8L21pPjxtbz4rPC9tbz48bW4+MTI8L21uPjxtbz4pPC9tbz48bW8+JiN4QTA7PC9tbz48bWk+Y208L21pPjwvbWF0aD4TebN+AAAAAElFTkSuQmCC\" style=\"max-width: none;\">",
+      "<img align=\"middle\" alt=\"left parenthesis 5 pi plus 14 right parenthesis space cm\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mo»(«/mo»«mn»5«/mn»«mi»§#960;«/mi»«mo»+«/mo»«mn»14«/mn»«mo»)«/mo»«mo»§#160;«/mo»«mi»cm«/mi»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGQAAAASCAYAAACtmXuIAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAPUJuPDwAAAnNJREFUeNrtWE1ERFEUfkZGMpuRzCJtWiRJokWSkWg1ixaRpEUSSYtktMtokTYjs2gRLZNEi1kmkrRIhhbJaNEuSdokScYYXufme7le992fptd7mvn4mLnvnnvPnO/dc85cy/qODHHZqk2kiathcmiBmLVqG1nEIXB0EQtWHQyXiEegOCH2C8YjxCeiDd7+kT/OfrpoI84R94nvmjYHHnsMIB6BoYd44fFsnAsO46breQux6JojY8onQa6JVwZ2U4q5F4hLIFhDQfM6OTMS2xUDMfwUxDnNOnZtSEuyuWnEJRAcEZOC8XY4/EbcJiYEc5bguFcw2PfSH6QsE7tjvP2yuUnEJRC8EqOC8XXX2/3gIYosGGEThLX08xpzo4iLCimkyzJOXQfGu4k54jOxEZ9ZbbsnjhCbibuIzR1xiF+0ItmQ1Yhp4g2c3/JBENuQPxWEBWnPQLyyYq9B4jmxl2uZi/j8zK0/QWwijuE7E2ARY8MYK+oK4oCpfIaOy1SQcggEiSIFxQ0EUb1Ipwi8g3lkEUuRwpUx8kpZbnQqgqvrQBApKydo66tNWSWFjyaC2DpFXYQ7hQNuwSohEcT01LGcfqjYqwzbzt8WRNb28miVtIINWPRdIKAN27B0WTpzddreAux3kaLauZRVlSBefwwzuNeJoLizohXzcK4Pi14LUoWNYjqK7sIvQRKcXaLKPQpoAmSY5NaooL46TU+cexbXHGtWXZ3s4Vg+IrAxiXMZLDrrGmcb5uFw3scT8psNgMnVCTtJL6gnO1xQRX7ojn1dLl7W7xU/s0EhDJeLllW/fmfY4P44hgIZzQL/H7GE3x8YPgCwlTj9FacvcwAAAJx0RVh0TWF0aE1MADxtYXRoIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8xOTk4L01hdGgvTWF0aE1MIj48bW8+KDwvbW8+PG1uPjU8L21uPjxtaT4mI3gzQzA7PC9taT48bW8+KzwvbW8+PG1uPjE0PC9tbj48bW8+KTwvbW8+PG1vPiYjeEEwOzwvbW8+PG1pPmNtPC9taT48L21hdGg+hktdlgAAAABJRU5ErkJggg==\" style=\"max-width: none;\">"
+    ],
+    "q_en": "",
+    "q_hi": "राधा ने अपनी नोटबुक में 5 cm त्रिज्या की एक अर्धवृत्ताकार आकृति बनाई। <img align=\"middle\" alt=\"pi\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mi»§#960;«/mi»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAMCAYAAABSgIzaAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAALV/ZLFgAAAGlJREFUeNpjYIAAUSC+AsT/icReUH0M1SRoQtFYAMTNQMyEJIkMQPwfDATA4NH4i1yN/4nRiG76H0IaWaAKvqGJP4SKS+PSaAxVcAlNvA8qvhSI/YBYGF1jLVRBMpq4IBCvgzp5HQMlAABK6Dxyk6z35gAAAE90RVh0TWF0aE1MADxtYXRoIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8xOTk4L01hdGgvTWF0aE1MIj48bWk+JiN4M0MwOzwvbWk+PC9tYXRoPh9q0fcAAAAASUVORK5CYII=\" style=\"max-width: none;\"> के पदों में उस आकृति का परिमाप (perimeter) ज्ञात कीजिए।",
+    "section": "Arithmetical and Numerical Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "3",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "8 गुना",
+      "6 गुना",
+      "5 गुना",
+      "2 गुना"
+    ],
+    "q_en": "",
+    "q_hi": "एक घनाभ की लंबाई, चौड़ाई और ऊंचाई का अनुपात 4 : 9 : 12 है। यदि घनाभ की लंबाई, चौड़ाई और ऊंचाई में क्रमशः 50%, 100% और 100% की वृद्धि की जाती है, तो घनाभ के आयतन में .............. की वृद्धि होगी।",
+    "section": "Arithmetical and Numerical Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "2",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "30%",
+      "37.5%",
+      "60%",
+      "33.33%"
+    ],
+    "q_en": "",
+    "q_hi": "एक दुकानदार \"5 वस्तुएं खरीदें और 3 वस्तुएं मुफ्त पाएं\" योजना की पेशकश करता है। ग्राहक को प्रदान किया गया प्रभावी छूट प्रतिशत कितना है?",
+    "section": "Arithmetical and Numerical Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "3",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "10%",
+      "15%",
+      "20%",
+      "18%"
+    ],
+    "q_en": "",
+    "q_hi": "एक व्यापारी 40 kg चावल ₹1,200 में खरीदता है। बाद में वह चावल की पूरी मात्रा को ₹1,440 में बेच देता है। व्यापारी का लाभ प्रतिशत ज्ञात कीजिए।",
+    "section": "Arithmetical and Numerical Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "1",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "34 सेकंड",
+      "22 सेकंड",
+      "32 सेकंड",
+      "28 सेकंड"
+    ],
+    "q_en": "",
+    "q_hi": "दो साइकिल सवार, X और Y, 504 मीटर लंबाई के एक वृत्तीय ट्रैक पर एक ही बिंदु से लेकिन विपरीत दिशाओं में चलना शुरू करते हैं। उनकी प्रारंभिक चाल क्रमशः 9 m/s और 27 m/s है। प्रत्येक बार जब भी वे मिलते हैं, तो X की चाल तीन गुनी हो जाती है और Y की चाल अपने पिछले मान की एक तिहाई हो जाती है। वे तीसरी बार कितने समय बाद मिलेंगे?",
+    "section": "Arithmetical and Numerical Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "3",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "4731",
+      "6308",
+      "7885",
+      "15770"
+    ],
+    "q_en": "",
+    "q_hi": "संख्याओं 5, 8.3 और 0.19 का लघुत्तम समापवर्त्य ज्ञात कीजिए।",
+    "section": "Arithmetical and Numerical Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "4",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "28",
+      "37",
+      "30",
+      "34"
+    ],
+    "q_en": "",
+    "q_hi": "एक उबर कैब 16 घंटे में 544 km की दूरी तय करती है। इसकी चाल (km/hr में) ज्ञात कीजिए।",
+    "section": "Arithmetical and Numerical Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "3",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "5,090",
+      "5,540",
+      "5,290",
+      "4,940"
+    ],
+    "q_en": "",
+    "q_hi": "अक्षय ने बैंक में ₹57,500 का निवेश किया। यदि पहले वर्ष की ब्याज दर 4% वार्षिक थी और दूसरे वर्ष की ब्याज दर पहले वर्ष की तुलना में 1% वार्षिक अधिक थी, तो ब्याज को वार्षिक रूप से संयोजित मानते हुए, दो वर्षों में उसे कितना चक्रवृद्धि ब्याज (₹ में) प्राप्त होगा?",
+    "section": "Arithmetical and Numerical Ability",
+    "solution": "पहले वर्ष का ब्याज = 57,500 * 4% = ₹2,300। पहले वर्ष के अंत में राशि = 57,500 + 2,300 = ₹59,800।<br>दूसरे वर्ष का ब्याज = 59,800 * 5% = ₹2,990।<br>कुल चक्रवृद्धि ब्याज = 2,300 + 2,990 = ₹5,290।",
+    "topic": ""
+  },
+  {
+    "ans": "4",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "<img loading=\"lazy\" src=\"data:image/jpeg;base64,/9j/4AAQSkZJRgABAgAAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCAAmABgDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD3+sF/FMUWt22mzaZqMKXM728F5JEqxSSKrMVA3b8YVsMV2nHBPFb1czHaeI38Tm7ubTS3s0kKwSfbZC8MOOSIvKA8xu5L8DgcZyLcOh01FFFAFPUrKe+t1it9Tu9PcOGMtqsTMRg/KfMRxjnPTPA565y/+Ee1T/oc9c/782X/AMj1uTrM0Di3kjjmI+VpELqD7gEZ/MVzuiXep6p4IWeXUWjvi0oa6jtg7AJKw+WMDBO1cAYPPY9xuwdbGtpmnXVh5v2nWb7Ut+Nv2tIF8vGc48qNOue+egxjnJWP4L1O61G31Jbm/lu1t7sxwm6gENyqbVOJowqhTkkj5R8uM0UAdFdW0d5ayW8rSqki7WMUrRuB7MpDA+4IrItPB+i2WjTaTDBc/YZWDmOS9mk2sG3AozOSh3c5UjnnrRRQBe0rRbHRo5UsopAZn8yWSaZ5pJGwBlnclmwAAMngCiiigD//2Q==\" style=\"max-width:100%;height:auto;\">",
+      "<img loading=\"lazy\" src=\"data:image/jpeg;base64,/9j/4AAQSkZJRgABAgAAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCAAmABgDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD3+sJvFEUWtwadcaZqNulzO9vBdyxoIpZFUsQBu34IViCVAOOtbtci+g65ceMrbVZHtIYbeV8zR3czmWEggR+Q42RnlcurZO3pzgC3/r+v6+QdH/X9f16nXUUUUAU9Ssp763WK31O709w4Yy2qxMxGD8p8xHGOc9M8DnrnL/4R7VP+hz1z/vzZf/I9bk6zNA4t5I45iPlaRC6g+4BGfzFc7ol3qeqeCFnl1Fo74tKGuo7YOwCSsPljAwTtXAGDz2PcbsHWxraZp11Yeb9p1m+1Lfjb9rSBfLxnOPKjTrnvnoMY5yVj+C9TutRt9SW5v5btbe7McJuoBDcqm1TiaMKoU5JI+UfLjNFAHRXVtHeWslvK0qpIu1jFK0bgezKQwPuCKyLTwfotlo02kwwXP2GVg5jkvZpNrBtwKMzkod3OVI5560UUAXtK0Wx0aOVLKKQGZ/MlkmmeaSRsAZZ3JZsAADJ4AooooA//2Q==\" style=\"max-width:100%;height:auto;\">",
+      "<img loading=\"lazy\" src=\"data:image/jpeg;base64,/9j/4AAQSkZJRgABAgAAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCAAmABgDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD3+suXX7OPxHb6Htla6mhebcqjYgXHDHPU5yAM8dcZGdSuIk8E6jF4s07UbbXL2SyjmnnuUlkiR9zlWCrtgyynaFIZgQoABwME6h0O3ooooAp6lZT31usVvqd3p7hwxltViZiMH5T5iOMc56Z4HPXOX/wj2qf9Dnrn/fmy/wDketydZmgcW8kccxHytIhdQfcAjP5iud0S71PVPBCzy6i0d8WlDXUdsHYBJWHyxgYJ2rgDB57HuN2DrY1tM066sPN+06zfalvxt+1pAvl4znHlRp1z3z0GMc5Kx/Bep3Wo2+pLc38t2tvdmOE3UAhuVTapxNGFUKckkfKPlxmigDorq2jvLWS3laVUkXaxilaNwPZlIYH3BFZFp4P0Wy0abSYYLn7DKwcxyXs0m1g24FGZyUO7nKkc89aKKAL2laLY6NHKllFIDM/mSyTTPNJI2AMs7ks2AABk8AUUUUAf/9k=\" style=\"max-width:100%;height:auto;\">",
+      "<img loading=\"lazy\" src=\"data:image/jpeg;base64,/9j/4AAQSkZJRgABAgAAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCAAmABgDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD3+syPXLaXxA+jLFci4SAzl3hKxlQwUgE43HJHTI96065prHXz46j1MWum/wBmpbNa7vtknnbSytv2eVtz8uNu73z2oXxJf1t/mD2dv61/yOlooooAp6lZT31usVvqd3p7hwxltViZiMH5T5iOMc56Z4HPXOX/AMI9qn/Q565/35sv/ketydZmgcW8kccxHytIhdQfcAjP5iud0S71PVPBCzy6i0d8WlDXUdsHYBJWHyxgYJ2rgDB57HuN2DrY1tM066sPN+06zfalvxt+1pAvl4znHlRp1z3z0GMc5Kx/Bep3Wo2+pLc38t2tvdmOE3UAhuVTapxNGFUKckkfKPlxmigDorq2jvLWS3laVUkXaxilaNwPZlIYH3BFZFp4P0Wy0abSYYLn7DKwcxyXs0m1g24FGZyUO7nKkc89aKKAL2laLY6NHKllFIDM/mSyTTPNJI2AMs7ks2AABk8AUUUUAf/Z\" style=\"max-width:100%;height:auto;\">"
+    ],
+    "q_en": "",
+    "q_hi": "<img loading=\"lazy\" src=\"data:image/png;base64,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\" style=\"max-width:100%;height:auto;\"> का वर्गमूल ज्ञात कीजिए।",
+    "section": "Arithmetical and Numerical Ability",
+    "solution": "संख्या 0.00000121 का वर्गमूल ज्ञात करने के लिए:<br>\n1. 0.00000121 = 121 / 100,000,000<br>\n2. √(121 / 100,000,000) = √121 / √100,000,000 = 11 / 10,000 = 0.0011",
+    "topic": ""
+  }
+]
