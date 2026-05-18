@@ -1,0 +1,254 @@
+[
+  {
+    "ans": "4",
+    "level": "Easy",
+    "op_en": [
+      "riccomendation",
+      "recomendation",
+      "reccommendation",
+      "recommendation"
+    ],
+    "op_hi": [
+      "riccomendation",
+      "recomendation",
+      "reccommendation",
+      "recommendation"
+    ],
+    "q_en": "Select the correct spelling of the underlined word in the given sentence.<br><br>She gave an excellent <u>reccomendation</u> for the new employee.",
+    "q_hi": "Select the correct spelling of the underlined word in the given sentence.<br><br>She gave an excellent <u>reccomendation</u> for the new employee.",
+    "section": "English1",
+    "solution": "<b>📌 Concept:</b><br>Spelling rule: 'Recommend' में single 'c' और double 'm' आता है।<br><br><b>🧠 Explanation:</b><br>सही स्पेलिंग **Recommendation** है। छात्र अक्सर इसमें double 'c' लगा देते हैं, जो गलत है।",
+    "topic": "Spellings"
+  },
+  {
+    "ans": "2",
+    "level": "Easy",
+    "op_en": [
+      "intellligence",
+      "intelligence",
+      "intelligance",
+      "intelligense"
+    ],
+    "op_hi": [
+      "intellligence",
+      "intelligence",
+      "intelligance",
+      "intelligense"
+    ],
+    "q_en": "Select the most appropriate option that rectifies the highlighted incorrectly spelt word in the given sentence.<br><br>She handled the situation with<strong> inteligence</strong> and care.",
+    "q_hi": "Select the most appropriate option that rectifies the highlighted incorrectly spelt word in the given sentence.<br><br>She handled the situation with<strong> inteligence</strong> and care.",
+    "section": "English1",
+    "solution": "<b>🧠 Explanation:</b><br>सही स्पेलिंग **Intelligence** (I-N-T-E-L-L-I-G-E-N-C-E) है। इसमें double 'l' और अंत में 'ce' आता है।",
+    "topic": "Spellings"
+  },
+  {
+    "ans": "1",
+    "level": "Easy",
+    "op_en": [
+      "Biotechnology",
+      "Engineering",
+      "Physics",
+      "Mathematics"
+    ],
+    "op_hi": [
+      "Biotechnology",
+      "Engineering",
+      "Physics",
+      "Mathematics"
+    ],
+    "q_en": "<b>Comprehension:</b><br>Read the given passage and answer the questions that follow.<br><br>William Thomson was professor of natural philosophy at Glasgow University for 53 years, making revolutionary contributions to physics, mathematics and engineering that still resonate today.<br>He is probably best known for his work on energy and the laws of thermodynamics, the science of heat and work, which are often hailed as the most unbreakable laws of nature. The British astrophysicist Arthur Eddington is reported to have declared in the 1920s that thermodynamics holds 'the supreme position among the laws of nature', adding: “If your theory is found to be against the second law of thermodynamics, I can give you no hope; there is nothing for it but to collapse in deepest humiliation.”<br>Thermodynamics still plays a central role in modern physics, underpinning research in information science, quantum mechanics, cosmology and even theories of life and consciousness. In fact, it is as much a cornerstone of modern physics as general relativity and quantum mechanics.<br>In which of the following fields did William Thomson NOT make revolutionary contributions during his tenure as a professor at Glasgow University?",
+    "q_hi": "<b>Comprehension:</b><br>Read the given passage and answer the questions that follow.<br><br>William Thomson was professor of natural philosophy at Glasgow University for 53 years, making revolutionary contributions to physics, mathematics and engineering that still resonate today.<br>He is probably best known for his work on energy and the laws of thermodynamics, the science of heat and work, which are often hailed as the most unbreakable laws of nature. The British astrophysicist Arthur Eddington is reported to have declared in the 1920s that thermodynamics holds 'the supreme position among the laws of nature', adding: “If your theory is found to be against the second law of thermodynamics, I can give you no hope; there is nothing for it but to collapse in deepest humiliation.”<br>Thermodynamics still plays a central role in modern physics, underpinning research in information science, quantum mechanics, cosmology and even theories of life and consciousness. In fact, it is as much a cornerstone of modern physics as general relativity and quantum mechanics.<br>In which of the following fields did William Thomson NOT make revolutionary contributions during his tenure as a professor at Glasgow University?",
+    "section": "English1",
+    "solution": "<b>🧠 Explanation:</b><br>पैसेज की पहली लाइन में स्पष्ट लिखा है कि उन्होंने Physics, Mathematics और Engineering में योगदान दिया। Biotechnology का कोई जिक्र नहीं है।",
+    "topic": "Reading Comprehension (Fact-based)"
+  },
+  {
+    "ans": "4",
+    "level": "Moderate",
+    "op_en": [
+      "Supreme Law of Universe",
+      "Extreme Condition of Chemicals",
+      "Subsidised Law of Physics",
+      "Ultimate Law of Nature"
+    ],
+    "op_hi": [
+      "Supreme Law of Universe",
+      "Extreme Condition of Chemicals",
+      "Subsidised Law of Physics",
+      "Ultimate Law of Nature"
+    ],
+    "q_en": "<b>Comprehension:</b><br>Read the given passage and answer the questions that follow.<br><br>William Thomson was professor of natural philosophy at Glasgow University for 53 years, making revolutionary contributions to physics, mathematics and engineering that still resonate today.<br>He is probably best known for his work on energy and the laws of thermodynamics, the science of heat and work, which are often hailed as the most unbreakable laws of nature. The British astrophysicist Arthur Eddington is reported to have declared in the 1920s that thermodynamics holds 'the supreme position among the laws of nature', adding: “If your theory is found to be against the second law of thermodynamics, I can give you no hope; there is nothing for it but to collapse in deepest humiliation.”<br>Thermodynamics still plays a central role in modern physics, underpinning research in information science, quantum mechanics, cosmology and even theories of life and consciousness. In fact, it is as much a cornerstone of modern physics as general relativity and quantum mechanics.<br>What did Arthur Eddington call thermodynamics?",
+    "q_hi": "<b>Comprehension:</b><br>Read the given passage and answer the questions that follow.<br><br>William Thomson was professor of natural philosophy at Glasgow University for 53 years, making revolutionary contributions to physics, mathematics and engineering that still resonate today.<br>He is probably best known for his work on energy and the laws of thermodynamics, the science of heat and work, which are often hailed as the most unbreakable laws of nature. The British astrophysicist Arthur Eddington is reported to have declared in the 1920s that thermodynamics holds 'the supreme position among the laws of nature', adding: “If your theory is found to be against the second law of thermodynamics, I can give you no hope; there is nothing for it but to collapse in deepest humiliation.”<br>Thermodynamics still plays a central role in modern physics, underpinning research in information science, quantum mechanics, cosmology and even theories of life and consciousness. In fact, it is as much a cornerstone of modern physics as general relativity and quantum mechanics.<br>What did Arthur Eddington call thermodynamics?",
+    "section": "English1",
+    "solution": "<b>🧠 Explanation:</b><br>पैसेज के अनुसार, उन्होंने इसे 'the supreme position among the laws of nature' कहा, जिसे विकल्प 4 (Ultimate Law of Nature) सबसे सटीक रूप से दर्शाता है।",
+    "topic": "Reading Comprehension (Detail)"
+  },
+  {
+    "ans": "3",
+    "level": "Hard",
+    "op_en": [
+      "Collapse",
+      "Hailed",
+      "Underpinning",
+      "Resonate"
+    ],
+    "op_hi": [
+      "Collapse",
+      "Hailed",
+      "Underpinning",
+      "Resonate"
+    ],
+    "q_en": "<b>Comprehension:</b><br>Read the given passage and answer the questions that follow.<br><br>William Thomson was professor of natural philosophy at Glasgow University for 53 years, making revolutionary contributions to physics, mathematics and engineering that still resonate today.<br>He is probably best known for his work on energy and the laws of thermodynamics, the science of heat and work, which are often hailed as the most unbreakable laws of nature. The British astrophysicist Arthur Eddington is reported to have declared in the 1920s that thermodynamics holds 'the supreme position among the laws of nature', adding: “If your theory is found to be against the second law of thermodynamics, I can give you no hope; there is nothing for it but to collapse in deepest humiliation.”<br>Thermodynamics still plays a central role in modern physics, underpinning research in information science, quantum mechanics, cosmology and even theories of life and consciousness. In fact, it is as much a cornerstone of modern physics as general relativity and quantum mechanics.<br>Identify the word from the passage that can be used as a one-word substitute for the given group of words.<br>\n<br>\nA solid foundation laid below ground level to support or strengthen a building",
+    "q_hi": "<b>Comprehension:</b><br>Read the given passage and answer the questions that follow.<br><br>William Thomson was professor of natural philosophy at Glasgow University for 53 years, making revolutionary contributions to physics, mathematics and engineering that still resonate today.<br>He is probably best known for his work on energy and the laws of thermodynamics, the science of heat and work, which are often hailed as the most unbreakable laws of nature. The British astrophysicist Arthur Eddington is reported to have declared in the 1920s that thermodynamics holds 'the supreme position among the laws of nature', adding: “If your theory is found to be against the second law of thermodynamics, I can give you no hope; there is nothing for it but to collapse in deepest humiliation.”<br>Thermodynamics still plays a central role in modern physics, underpinning research in information science, quantum mechanics, cosmology and even theories of life and consciousness. In fact, it is as much a cornerstone of modern physics as general relativity and quantum mechanics.<br>Identify the word from the passage that can be used as a one-word substitute for the given group of words.<br>\n<br>\nA solid foundation laid below ground level to support or strengthen a building",
+    "section": "English1",
+    "solution": "<b>🔍 Word Insight:</b><br>- <b>Underpinning:</b> नींव या आधार (Foundation).<br>- <b>Resonate:</b> गूँजना/महत्व रखना।",
+    "topic": "Vocabulary (One Word)"
+  },
+  {
+    "ans": "1",
+    "level": "Hard",
+    "op_en": [
+      "Reverential",
+      "Cynical",
+      "Worried",
+      "Depressing"
+    ],
+    "op_hi": [
+      "Reverential",
+      "Cynical",
+      "Worried",
+      "Depressing"
+    ],
+    "q_en": "<b>Comprehension:</b><br>Read the given passage and answer the questions that follow.<br><br>William Thomson was professor of natural philosophy at Glasgow University for 53 years, making revolutionary contributions to physics, mathematics and engineering that still resonate today.<br>He is probably best known for his work on energy and the laws of thermodynamics, the science of heat and work, which are often hailed as the most unbreakable laws of nature. The British astrophysicist Arthur Eddington is reported to have declared in the 1920s that thermodynamics holds 'the supreme position among the laws of nature', adding: “If your theory is found to be against the second law of thermodynamics, I can give you no hope; there is nothing for it but to collapse in deepest humiliation.”<br>Thermodynamics still plays a central role in modern physics, underpinning research in information science, quantum mechanics, cosmology and even theories of life and consciousness. In fact, it is as much a cornerstone of modern physics as general relativity and quantum mechanics.<br>What is the tone of the speaker?",
+    "q_hi": "<b>Comprehension:</b><br>Read the given passage and answer the questions that follow.<br><br>William Thomson was professor of natural philosophy at Glasgow University for 53 years, making revolutionary contributions to physics, mathematics and engineering that still resonate today.<br>He is probably best known for his work on energy and the laws of thermodynamics, the science of heat and work, which are often hailed as the most unbreakable laws of nature. The British astrophysicist Arthur Eddington is reported to have declared in the 1920s that thermodynamics holds 'the supreme position among the laws of nature', adding: “If your theory is found to be against the second law of thermodynamics, I can give you no hope; there is nothing for it but to collapse in deepest humiliation.”<br>Thermodynamics still plays a central role in modern physics, underpinning research in information science, quantum mechanics, cosmology and even theories of life and consciousness. In fact, it is as much a cornerstone of modern physics as general relativity and quantum mechanics.<br>What is the tone of the speaker?",
+    "section": "English1",
+    "solution": "<b>📌 Concept:</b><br>लेखक जिस तरह थॉमसन के काम और ऊष्मप्रवैगिकी (Thermodynamics) की प्रशंसा कर रहा है, उसे **Reverential** (श्रद्धापूर्ण/सम्मानजनक) टोन कहते हैं।",
+    "topic": "Reading Comprehension (Tone)"
+  },
+  {
+    "ans": "4",
+    "level": "Moderate",
+    "op_en": [
+      "Research in Science",
+      "The Way of the World",
+      "Theories and Solutions",
+      "Thomson’s Legacy"
+    ],
+    "op_hi": [
+      "Research in Science",
+      "The Way of the World",
+      "Theories and Solutions",
+      "Thomson’s Legacy"
+    ],
+    "q_en": "<b>Comprehension:</b><br>Read the given passage and answer the questions that follow.<br><br>William Thomson was professor of natural philosophy at Glasgow University for 53 years, making revolutionary contributions to physics, mathematics and engineering that still resonate today.<br>He is probably best known for his work on energy and the laws of thermodynamics, the science of heat and work, which are often hailed as the most unbreakable laws of nature. The British astrophysicist Arthur Eddington is reported to have declared in the 1920s that thermodynamics holds 'the supreme position among the laws of nature', adding: “If your theory is found to be against the second law of thermodynamics, I can give you no hope; there is nothing for it but to collapse in deepest humiliation.”<br>Thermodynamics still plays a central role in modern physics, underpinning research in information science, quantum mechanics, cosmology and even theories of life and consciousness. In fact, it is as much a cornerstone of modern physics as general relativity and quantum mechanics.<br>Select the most appropriate title for the passage.",
+    "q_hi": "<b>Comprehension:</b><br>Read the given passage and answer the questions that follow.<br><br>William Thomson was professor of natural philosophy at Glasgow University for 53 years, making revolutionary contributions to physics, mathematics and engineering that still resonate today.<br>He is probably best known for his work on energy and the laws of thermodynamics, the science of heat and work, which are often hailed as the most unbreakable laws of nature. The British astrophysicist Arthur Eddington is reported to have declared in the 1920s that thermodynamics holds 'the supreme position among the laws of nature', adding: “If your theory is found to be against the second law of thermodynamics, I can give you no hope; there is nothing for it but to collapse in deepest humiliation.”<br>Thermodynamics still plays a central role in modern physics, underpinning research in information science, quantum mechanics, cosmology and even theories of life and consciousness. In fact, it is as much a cornerstone of modern physics as general relativity and quantum mechanics.<br>Select the most appropriate title for the passage.",
+    "section": "English1",
+    "solution": "<b>🧠 Explanation:</b><br>पूरा पैसेज विलियम थॉमसन के जीवनभर के योगदान और उनके प्रभाव (Legacy) पर केंद्रित है।",
+    "topic": "Reading Comprehension (Title)"
+  },
+  {
+    "ans": "1",
+    "level": "Moderate",
+    "op_en": [
+      "built",
+      "build",
+      "builds",
+      "were building"
+    ],
+    "op_hi": [
+      "built",
+      "build",
+      "builds",
+      "were building"
+    ],
+    "q_en": "<b>Comprehension:</b><br>In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank. <br><br>The ancient Egyptians were skilled builders and artists. They (1) _____ massive pyramids and temples using simple tools and human labour. These structures (2) _____ as tombs for their rulers and places of worship. The pyramids were built with limestone blocks, each one of (3) _____ weighed several tons. Workers used ramps and sleds to move the heavy stones into place. Many carvings and paintings inside the tombs (4) _____ scenes from daily life, religious ceremonies and (5) _____ of gods and goddesses.<br>Select the most appropriate option to fill in blank 1.",
+    "q_hi": "<b>Comprehension:</b><br>In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank. <br><br>The ancient Egyptians were skilled builders and artists. They (1) _____ massive pyramids and temples using simple tools and human labour. These structures (2) _____ as tombs for their rulers and places of worship. The pyramids were built with limestone blocks, each one of (3) _____ weighed several tons. Workers used ramps and sleds to move the heavy stones into place. Many carvings and paintings inside the tombs (4) _____ scenes from daily life, religious ceremonies and (5) _____ of gods and goddesses.<br>Select the most appropriate option to fill in blank 1.",
+    "section": "English1",
+    "solution": "<b>📌 Concept:</b><br>पैसेज प्राचीन मिस्र (Ancient Egypt) की बात कर रहा है, जो कि भूतकाल (Past Tense) की घटना है।<br><br><b>🧠 Explanation:</b><br>Simple Past $V_2$ form (built) का प्रयोग होगा।",
+    "topic": "Cloze Test (Grammar)"
+  },
+  {
+    "ans": "2",
+    "level": "Moderate",
+    "op_en": [
+      "are used",
+      "were used",
+      "using",
+      "use"
+    ],
+    "op_hi": [
+      "are used",
+      "were used",
+      "using",
+      "use"
+    ],
+    "q_en": "<b>Comprehension:</b><br>In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank. <br><br>The ancient Egyptians were skilled builders and artists. They (1) _____ massive pyramids and temples using simple tools and human labour. These structures (2) _____ as tombs for their rulers and places of worship. The pyramids were built with limestone blocks, each one of (3) _____ weighed several tons. Workers used ramps and sleds to move the heavy stones into place. Many carvings and paintings inside the tombs (4) _____ scenes from daily life, religious ceremonies and (5) _____ of gods and goddesses.<br>Select the most appropriate option to fill in blank 2.",
+    "q_hi": "<b>Comprehension:</b><br>In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank. <br><br>The ancient Egyptians were skilled builders and artists. They (1) _____ massive pyramids and temples using simple tools and human labour. These structures (2) _____ as tombs for their rulers and places of worship. The pyramids were built with limestone blocks, each one of (3) _____ weighed several tons. Workers used ramps and sleds to move the heavy stones into place. Many carvings and paintings inside the tombs (4) _____ scenes from daily life, religious ceremonies and (5) _____ of gods and goddesses.<br>Select the most appropriate option to fill in blank 2.",
+    "section": "English1",
+    "solution": "<b>🧠 Explanation:</b><br>Structures (piramids) खुद का इस्तेमाल नहीं करते थे, उनका इस्तेमाल 'किया जाता था' (Passive Voice). क्योंकि बात पास्ट की है, इसलिए **were used** सही है।",
+    "topic": "Cloze Test (Voice)"
+  },
+  {
+    "ans": "4",
+    "level": "Moderate",
+    "op_en": [
+      "whose",
+      "that",
+      "what",
+      "which"
+    ],
+    "op_hi": [
+      "whose",
+      "that",
+      "what",
+      "which"
+    ],
+    "q_en": "<b>Comprehension:</b><br>In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank. <br><br>The ancient Egyptians were skilled builders and artists. They (1) _____ massive pyramids and temples using simple tools and human labour. These structures (2) _____ as tombs for their rulers and places of worship. The pyramids were built with limestone blocks, each one of (3) _____ weighed several tons. Workers used ramps and sleds to move the heavy stones into place. Many carvings and paintings inside the tombs (4) _____ scenes from daily life, religious ceremonies and (5) _____ of gods and goddesses.<br>Select the most appropriate option to fill in blank 3.",
+    "q_hi": "<b>Comprehension:</b><br>In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank. <br><br>The ancient Egyptians were skilled builders and artists. They (1) _____ massive pyramids and temples using simple tools and human labour. These structures (2) _____ as tombs for their rulers and places of worship. The pyramids were built with limestone blocks, each one of (3) _____ weighed several tons. Workers used ramps and sleds to move the heavy stones into place. Many carvings and paintings inside the tombs (4) _____ scenes from daily life, religious ceremonies and (5) _____ of gods and goddesses.<br>Select the most appropriate option to fill in blank 3.",
+    "section": "English1",
+    "solution": "<b>🧠 Explanation:</b><br>वस्तुओं (blocks) के लिए relative pronoun **which** का प्रयोग होता है।",
+    "topic": "Cloze Test (Pronouns)"
+  },
+  {
+    "ans": "3",
+    "level": "Moderate",
+    "op_en": [
+      "display",
+      "displays",
+      "displayed",
+      "was displayed"
+    ],
+    "op_hi": [
+      "display",
+      "displays",
+      "displayed",
+      "was displayed"
+    ],
+    "q_en": "<b>Comprehension:</b><br>In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank. <br><br>The ancient Egyptians were skilled builders and artists. They (1) _____ massive pyramids and temples using simple tools and human labour. These structures (2) _____ as tombs for their rulers and places of worship. The pyramids were built with limestone blocks, each one of (3) _____ weighed several tons. Workers used ramps and sleds to move the heavy stones into place. Many carvings and paintings inside the tombs (4) _____ scenes from daily life, religious ceremonies and (5) _____ of gods and goddesses.<br>Select the most appropriate option to fill in blank 4.",
+    "q_hi": "<b>Comprehension:</b><br>In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank. <br><br>The ancient Egyptians were skilled builders and artists. They (1) _____ massive pyramids and temples using simple tools and human labour. These structures (2) _____ as tombs for their rulers and places of worship. The pyramids were built with limestone blocks, each one of (3) _____ weighed several tons. Workers used ramps and sleds to move the heavy stones into place. Many carvings and paintings inside the tombs (4) _____ scenes from daily life, religious ceremonies and (5) _____ of gods and goddesses.<br>Select the most appropriate option to fill in blank 4.",
+    "section": "English1",
+    "solution": "<b>🧠 Explanation:</b><br>नक्काशी (Carvings) दृश्यों को दर्शाती थीं (Displayed)। पास्ट टेंस की निरंतरता के लिए $V_2$ लगेगा।",
+    "topic": "Cloze Test (Verbs)"
+  },
+  {
+    "ans": "4",
+    "level": "Moderate",
+    "op_en": [
+      "representations",
+      "images",
+      "sculptures",
+      "portraits"
+    ],
+    "op_hi": [
+      "representations",
+      "images",
+      "sculptures",
+      "portraits"
+    ],
+    "q_en": "<b>Comprehension:</b><br>In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank. <br><br>The ancient Egyptians were skilled builders and artists. They (1) _____ massive pyramids and temples using simple tools and human labour. These structures (2) _____ as tombs for their rulers and places of worship. The pyramids were built with limestone blocks, each one of (3) _____ weighed several tons. Workers used ramps and sleds to move the heavy stones into place. Many carvings and paintings inside the tombs (4) _____ scenes from daily life, religious ceremonies and (5) _____ of gods and goddesses.<br>Select the most appropriate option to fill in blank 5.",
+    "q_hi": "<b>Comprehension:</b><br>In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank. <br><br>The ancient Egyptians were skilled builders and artists. They (1) _____ massive pyramids and temples using simple tools and human labour. These structures (2) _____ as tombs for their rulers and places of worship. The pyramids were built with limestone blocks, each one of (3) _____ weighed several tons. Workers used ramps and sleds to move the heavy stones into place. Many carvings and paintings inside the tombs (4) _____ scenes from daily life, religious ceremonies and (5) _____ of gods and goddesses.<br>Select the most appropriate option to fill in blank 5.",
+    "section": "English1",
+    "solution": "<b>🔍 Word Insight:</b><br>- <b>Portraits:</b> देवताओं के चित्र या स्वरूप। यहाँ संदर्भ के अनुसार सबसे सटीक है।",
+    "topic": "Cloze Test (Vocabulary)"
+  }
+]
