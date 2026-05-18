@@ -1,0 +1,422 @@
+[
+  {
+    "ans": "1",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "90 km/hr",
+      "100 km/hr",
+      "60 km/hr",
+      "50 km/hr"
+    ],
+    "q_en": "",
+    "q_hi": "एक कार 120 km की दूरी तय करने के बाद ब्रेकडाउन हो जाती है, जिसके बाद वह अपनी मूल चाल के दो-तिहाई चाल से चलती है और अपने गंतव्य पर 50 मिनट देरी से पहुंचती है। यदि ब्रेकडाउन 30 km और आगे होता, तो 40 मिनट की देरी होती। कार की मूल चाल ज्ञात कीजिए।",
+    "section": "Arithmetical and Numerical Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "1",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "7196",
+      "7192",
+      "7197",
+      "7200"
+    ],
+    "q_en": "",
+    "q_hi": "भाग के एक प्रश्न में, भाजक, भागफल का 7 गुना और शेषफल का 8 गुना है। यदि शेषफल 28 है, तो भाज्य ज्ञात कीजिए।",
+    "section": "Arithmetical and Numerical Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "1",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "₹​25,000",
+      "₹​30,000",
+      "₹​15,000​​​​​​",
+      "₹​20,000"
+    ],
+    "q_en": "",
+    "q_hi": "निम्नलिखित तालिका का ध्यानपूर्वक अध्ययन कीजिए और नीचे दिए गए प्रश्न का उत्तर दीजिए।<br>\nदी गई तालिका में छह अलग-अलग वर्षों में पांच विभिन्न पाठ्यक्रमों हेतु सेमेस्टर शुल्क (₹ हजार में) को दर्शाया गया है।<br>\n \n<table class=\"MsoTableGrid\" style=\"margin-left:48px; border-collapse:collapse; border:none\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td rowspan=\"2\" style=\"border-width: 1px; border-style: solid; border-color: black; width: 84px; padding: 0cm 7px; height: 42px; text-align: center;\" valign=\"top\"><strong>वर्ष</strong></td>\n\t\t\t<td colspan=\"5\" style=\"border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:1px solid black;height:17px;padding:0cm 7px;text-align:center;width:406px;\" valign=\"top\"><strong>पाठ्यक्रम</strong><span style=\"display: none;\">...............................................................................................................................................................................................................................................................</span><span style=\"display: none;\">...............................................................................................................................................................................................................................................................</span></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"border-bottom: 1px solid black; width: 66px; padding: 0cm 7px; border-top: none; border-right: 1px solid black; border-left: none; text-align: center; height: 20px;\" valign=\"top\"><strong>B.Ed</strong></td>\n\t\t\t<td style=\"border-bottom: 1px solid black; width: 95px; padding: 0cm 7px; border-top: none; border-right: 1px solid black; border-left: none; text-align: center; height: 20px;\" valign=\"top\"><strong>B.Sc</strong></td>\n\t\t\t<td style=\"border-bottom: 1px solid black; width: 76px; padding: 0cm 7px; border-top: none; border-right: 1px solid black; border-left: none; text-align: center; height: 20px;\" valign=\"top\"><strong>B.Tech</strong></td>\n\t\t\t<td style=\"border-bottom: 1px solid black; width: 85px; padding: 0cm 7px; border-top: none; border-right: 1px solid black; border-left: none; text-align: center; height: 20px;\" valign=\"top\"><strong>M.Tech</strong></td>\n\t\t\t<td style=\"border-bottom: 1px solid black; width: 85px; padding: 0cm 7px; border-top: none; border-right: 1px solid black; border-left: none; text-align: center; height: 20px;\" valign=\"top\"><strong>M.Ed</strong></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"border-bottom: 1px solid black; width: 84px; padding: 0cm 7px; border-top: none; border-right: 1px solid black; border-left: 1px solid black; text-align: center;\" valign=\"top\">2019</td>\n\t\t\t<td style=\"border-bottom: 1px solid black; width: 66px; padding: 0cm 7px; border-top: none; border-right: 1px solid black; border-left: none; text-align: center;\" valign=\"top\">11.5</td>\n\t\t\t<td style=\"border-bottom: 1px solid black; width: 95px; padding: 0cm 7px; border-top: none; border-right: 1px solid black; border-left: none; text-align: center;\" valign=\"top\">5.8</td>\n\t\t\t<td style=\"border-bottom: 1px solid black; width: 76px; padding: 0cm 7px; border-top: none; border-right: 1px solid black; border-left: none; text-align: center;\" valign=\"top\">7.5</td>\n\t\t\t<td style=\"border-bottom: 1px solid black; width: 85px; padding: 0cm 7px; border-top: none; border-right: 1px solid black; border-left: none; text-align: center;\" valign=\"top\">4.7</td>\n\t\t\t<td style=\"border-bottom: 1px solid black; width: 85px; padding: 0cm 7px; border-top: none; border-right: 1px solid black; border-left: none; text-align: center;\" valign=\"top\">1.8</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"border-bottom: 1px solid black; width: 84px; padding: 0cm 7px; border-top: none; border-right: 1px solid black; border-left: 1px solid black; text-align: center;\" valign=\"top\">2020</td>\n\t\t\t<td style=\"border-bottom: 1px solid black; width: 66px; padding: 0cm 7px; border-top: none; border-right: 1px solid black; border-left: none; text-align: center;\" valign=\"top\">14.5</td>\n\t\t\t<td style=\"border-bottom: 1px solid black; width: 95px; padding: 0cm 7px; border-top: none; border-right: 1px solid black; border-left: none; text-align: center;\" valign=\"top\">6.4</td>\n\t\t\t<td style=\"border-bottom: 1px solid black; width: 76px; padding: 0cm 7px; border-top: none; border-right: 1px solid black; border-left: none; text-align: center;\" valign=\"top\">11.6</td>\n\t\t\t<td style=\"border-bottom: 1px solid black; width: 85px; padding: 0cm 7px; border-top: none; border-right: 1px solid black; border-left: none; text-align: center;\" valign=\"top\">5.8</td>\n\t\t\t<td style=\"border-bottom: 1px solid black; width: 85px; padding: 0cm 7px; border-top: none; border-right: 1px solid black; border-left: none; text-align: center;\" valign=\"top\">3.2</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"border-bottom: 1px solid black; width: 84px; padding: 0cm 7px; border-top: none; border-right: 1px solid black; border-left: 1px solid black; text-align: center;\" valign=\"top\">2021</td>\n\t\t\t<td style=\"border-bottom: 1px solid black; width: 66px; padding: 0cm 7px; border-top: none; border-right: 1px solid black; border-left: none; text-align: center;\" valign=\"top\">20.0</td>\n\t\t\t<td style=\"border-bottom: 1px solid black; width: 95px; padding: 0cm 7px; border-top: none; border-right: 1px solid black; border-left: none; text-align: center;\" valign=\"top\">10.2</td>\n\t\t\t<td style=\"border-bottom: 1px solid black; width: 76px; padding: 0cm 7px; border-top: none; border-right: 1px solid black; border-left: none; text-align: center;\" valign=\"top\">13.9</td>\n\t\t\t<td style=\"border-bottom: 1px solid black; width: 85px; padding: 0cm 7px; border-top: none; border-right: 1px solid black; border-left: none; text-align: center;\" valign=\"top\">8.6</td>\n\t\t\t<td style=\"border-bottom: 1px solid black; width: 85px; padding: 0cm 7px; border-top: none; border-right: 1px solid black; border-left: none; text-align: center;\" valign=\"top\">4.8</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"border-bottom: 1px solid black; width: 84px; padding: 0cm 7px; border-top: none; border-right: 1px solid black; border-left: 1px solid black; text-align: center;\" valign=\"top\">2022</td>\n\t\t\t<td style=\"border-bottom: 1px solid black; width: 66px; padding: 0cm 7px; border-top: none; border-right: 1px solid black; border-left: none; text-align: center;\" valign=\"top\">22.2</td>\n\t\t\t<td style=\"border-bottom: 1px solid black; width: 95px; padding: 0cm 7px; border-top: none; border-right: 1px solid black; border-left: none; text-align: center;\" valign=\"top\">14.6</td>\n\t\t\t<td style=\"border-bottom: 1px solid black; width: 76px; padding: 0cm 7px; border-top: none; border-right: 1px solid black; border-left: none; text-align: center;\" valign=\"top\">15.8</td>\n\t\t\t<td style=\"border-bottom: 1px solid black; width: 85px; padding: 0cm 7px; border-top: none; border-right: 1px solid black; border-left: none; text-align: center;\" valign=\"top\">12.7</td>\n\t\t\t<td style=\"border-bottom: 1px solid black; width: 85px; padding: 0cm 7px; border-top: none; border-right: 1px solid black; border-left: none; text-align: center;\" valign=\"top\">5.6</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"border-bottom: 1px solid black; width: 84px; padding: 0cm 7px; border-top: none; border-right: 1px solid black; border-left: 1px solid black; text-align: center;\" valign=\"top\">2023</td>\n\t\t\t<td style=\"border-bottom: 1px solid black; width: 66px; padding: 0cm 7px; border-top: none; border-right: 1px solid black; border-left: none; text-align: center;\" valign=\"top\">35.8</td>\n\t\t\t<td style=\"border-bottom: 1px solid black; width: 95px; padding: 0cm 7px; border-top: none; border-right: 1px solid black; border-left: none; text-align: center;\" valign=\"top\">17.7</td>\n\t\t\t<td style=\"border-bottom: 1px solid black; width: 76px; padding: 0cm 7px; border-top: none; border-right: 1px solid black; border-left: none; text-align: center;\" valign=\"top\">18.5</td>\n\t\t\t<td style=\"border-bottom: 1px solid black; width: 85px; padding: 0cm 7px; border-top: none; border-right: 1px solid black; border-left: none; text-align: center;\" valign=\"top\">25.1</td>\n\t\t\t<td style=\"border-bottom: 1px solid black; width: 85px; padding: 0cm 7px; border-top: none; border-right: 1px solid black; border-left: none; text-align: center;\" valign=\"top\">12.5</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"border-bottom: 1px solid black; width: 84px; padding: 0cm 7px; border-top: none; border-right: 1px solid black; border-left: 1px solid black; text-align: center;\" valign=\"top\">2024</td>\n\t\t\t<td style=\"border-bottom: 1px solid black; width: 66px; padding: 0cm 7px; border-top: none; border-right: 1px solid black; border-left: none; text-align: center;\" valign=\"top\">46</td>\n\t\t\t<td style=\"border-bottom: 1px solid black; width: 95px; padding: 0cm 7px; border-top: none; border-right: 1px solid black; border-left: none; text-align: center;\" valign=\"top\">20.9</td>\n\t\t\t<td style=\"border-bottom: 1px solid black; width: 76px; padding: 0cm 7px; border-top: none; border-right: 1px solid black; border-left: none; text-align: center;\" valign=\"top\">22.6</td>\n\t\t\t<td style=\"border-bottom: 1px solid black; width: 85px; padding: 0cm 7px; border-top: none; border-right: 1px solid black; border-left: none; text-align: center;\" valign=\"top\">18.9</td>\n\t\t\t<td style=\"border-bottom: 1px solid black; width: 85px; padding: 0cm 7px; border-top: none; border-right: 1px solid black; border-left: none; text-align: center;\" valign=\"top\">14.9</td>\n\t\t</tr>\n\t</tbody>\n</table>\n<br>\nसभी वर्षों को मिलाकर B.Ed पाठ्यक्रम के लिए लिया जाने वाला औसत सेमेस्टर शुल्क कितना था?",
+    "section": "Arithmetical and Numerical Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "4",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "1359",
+      "1342",
+      "1355",
+      "1350"
+    ],
+    "q_en": "",
+    "q_hi": "एक लंब वृत्तीय शंकु और एक लंब वृत्तीय बेलन की ऊँचाइयों का अनुपात 6 : 7 है और उनके आधारों की त्रिज्याओं का अनुपात 5 : 2 है। यदि बेलन का आयतन 756 cm<sup>3</sup> है, तो शंकु का आयतन (cm<sup>3</sup> में) ज्ञात कीजिए।",
+    "section": "Arithmetical and Numerical Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "4",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "277",
+      "287",
+      "307",
+      "297"
+    ],
+    "q_en": "",
+    "q_hi": "3 m त्रिज्या और 21 m ऊंचाई वाला एक बेलनाकार टैंक जल से आधा भरा हुआ है। टैंक में कितने घन मीटर जल है?<br>\n<br>\n(<img align=\"middle\" alt=\"pi space equals space 22 over 7\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mi»§#960;«/mi»«mo»§#160;«/mo»«mo»=«/mo»«mo»§#160;«/mo»«mfrac»«mn»22«/mn»«mn»7«/mn»«/mfrac»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEUAAAAlCAYAAAAUeSRzAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAZpE86XgAAAWdJREFUeNpjYBj6wBKIrwHxLyB+DsQdQMxChpphAwSRPKgE9fh/IO4hUc2wAoloMW4J9fAXEtUMewDy8DcqqBk2gA3q4U0UqhlWIBzqYXMK1QwrcA6IZ1JBzbABBUB8Bog5KFQzbIA11LPCFKoZNkAeiHejeTYa2h4hRc2wAZJA/BhacKLjSSSoGVbgFg7PgrAXCWpGwSigAIgC8RU8yWxEJrtqEgKElEAhxcxB2fBpBmImHI4E8X+Q2TkbsoGCzSPUCJRh1fUe7IHyn0aY5ED5NZp9CIuNuEBBTxV/hoLDaQVYGLAP1T2EikuPxEAxhnr+Epp4H1R8KRD7jZTuNwzUQj2fjCYOmiZYB81G60Y7AEMTKOEp0LtGaqBk4QkUrZEaKDOh5SMy0APi4yM5+6hgEQONsiWOliwIAJoAew6lRwEUJDMM0/FYSgCoLNEZDYbRAhYvmISlMTriC9iXowXsaAFLmwIWALX02b5uj24sAAAAm3RFWHRNYXRoTUwAPG1hdGggeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzE5OTgvTWF0aC9NYXRoTUwiPjxtaT4mI3gzQzA7PC9taT48bW8+JiN4QTA7PC9tbz48bW8+PTwvbW8+PG1vPiYjeEEwOzwvbW8+PG1mcmFjPjxtbj4yMjwvbW4+PG1uPjc8L21uPjwvbWZyYWM+PC9tYXRoPuwYB5YAAAAASUVORK5CYII=\" style=\"max-width: none;\"> का उपयोग कीजिए।)",
+    "section": "Arithmetical and Numerical Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "3",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "90 घंटे",
+      "72 घंटे",
+      "84 घंटे",
+      "96 घंटे"
+    ],
+    "q_en": "",
+    "q_hi": "पाइप A एक टैंक को कुछ घंटों में भर सकता है। यदि दूसरा पाइप B, A की जल आपूर्ति दर के 1/6 भाग की दर से जल की आपूर्ति करता है, तो टैंक 12 घंटे में भर जाता है। पाइप B अकेले कार्य करते हुए पूरी टंकी को कितने घंटों में भर सकता है?<br>",
+    "section": "Arithmetical and Numerical Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "4",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "19",
+      "17",
+      "18",
+      "20"
+    ],
+    "q_en": "",
+    "q_hi": "80 और 90 के बीच की अभाज्य संख्याओं के औसत तथा 60 और 70 के बीच 4 के गुणजों के औसत का अंतर ज्ञात कीजिए।",
+    "section": "Arithmetical and Numerical Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "1",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "6",
+      "3",
+      "4",
+      "5"
+    ],
+    "q_en": "",
+    "q_hi": "यदि 10 मशीनें 24 घंटे में 500 यूनिट का उत्पादन कर सकती हैं, तो 15 घंटे में उतना ही उत्पादन पूरा करने के लिए कितनी और मशीनों की आवश्यकता होगी?",
+    "section": "Arithmetical and Numerical Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "3",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "₹9876",
+      "₹9878",
+      "₹9879",
+      "₹9877"
+    ],
+    "q_en": "",
+    "q_hi": "<div>दिवाली की पूर्व संध्या पर एक दुकानदार ने टेलीविजन सेटों पर कई छूटें दीं। यदि अंकित मूल्य ₹16,465 था और क्रमिक छूटें 25% और 20% थीं, तो टेलीविजन सेट का विक्रय मूल्य ज्ञात कीजिए।</div>",
+    "section": "Arithmetical and Numerical Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "1",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "16,44,500",
+      "16,45,500",
+      "16,44,400",
+      "16,45,400"
+    ],
+    "q_en": "",
+    "q_hi": "ABC देश में पुरुषों और महिलाओं का अनुपात 9 : 4 है तथा पुरुष और महिला बच्चों का प्रतिशत क्रमशः 15% और 10% है। यदि देश में वयस्क महिलाओं की संख्या 4,55,400 है, तो ABC देश की कुल जनसंख्या कितनी है?",
+    "section": "Arithmetical and Numerical Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "2",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "2",
+      "3",
+      "1",
+      "4"
+    ],
+    "q_en": "",
+    "q_hi": "A, B और C एक काम को अकेले क्रमशः 5, 12 और 20 दिनों में पूरा कर सकते हैं। यदि तीनों एकसाथ काम करना शुरू करते हैं, तो काम कितने दिनों में पूरा हो जाएगा?",
+    "section": "Arithmetical and Numerical Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "2",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADMAAAAcCAIAAABDORCeAAABKklEQVR42u2X2xECIQxFqSsFUQ/V0AzFKLDgAHmuMyrjwO+G3ENyA+oeuy53yA7Z/5FF7+rycTOyFABCyqrM+hlZB9uum7fAvkqWTWbwl0CWYvAAvfXg0TFTinKABUxVcbjidXRS215naezBFQDhiiACLGCqCkOGQcazkgE62mQyVcXgM2oPcUWpZLL73yCrW0RZnPSy4SxjAFu/82RVQPX3krQQgPeoAuxY8iqOr0MfmphkLkJy7TAJpqiI3cyTDcIrV/SZHs2llC8yRsUZhp3U58pF2M9w9zeVW2T0cArlQkeyPEpNRSIr+VbvIog1KOclqtc6GgkwTkUjG29nomIobUGg+vqyOPpoUMHdnN8zPM/DRA2LaVcneNxV+fxvDa6c53/AIdtkPQFEiOrmYV9LVgAAAABJRU5ErkJggg==\" style=\"max-width:100%;height:auto;\">",
+      "<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADMAAAAcCAIAAABDORCeAAABRklEQVR42u2X7RHDIAiGmcuBmCfTsIzDtBg/ohEM9npprqd/I+EBXiCB11MPLLJF9n9khLAfpIeR+c25zbNX5fyMLIM9rppTYLeSscgM+hqQeU/oXC69w0GYnAW+YcxDC+ZpG3sByRc7Ix/N915SfMe7VrIaLFpidKJ4kcjqK5nUi6pBRCtZIzLZS1tqME2g3nl4F8dsruZY/Z+QSTaZS9FZ1GlrYgA7PwcDWOe61KJ7HAi4xl00alvuYYhtBpdcUr4yjFbNswREsNRAqTXJ28lIUner3UIWIq+vtsjjQcbzwwm7FGbSdWxk4bRB1Po0zP6U5GsyMg6DUW+WilqWUgrkiiy8s04XmynFGE6N9JAEsLMHW846qzwiprdTkXhnHUVx7ABpNIHeMKqGhN5S4DKBpPpqa85Pja98+Mx8X6z/gEV293kDtRvoOhx9C7oAAAAASUVORK5CYII=\" style=\"max-width:100%;height:auto;\">",
+      "52",
+      "22"
+    ],
+    "q_en": "",
+    "q_hi": "एक वर्ग का क्षेत्रफल 36 cm<sup>2</sup> है। इसका परिमाप एक सम षट्भुज के परिमाप के बराबर है। षट्भुज का क्षेत्रफल (cm<sup>2</sup> में) ज्ञात कीजिए।",
+    "section": "Arithmetical and Numerical Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "2",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "9,712",
+      "9,462",
+      "9,262",
+      "9,112"
+    ],
+    "q_en": "",
+    "q_hi": "सलिल ने एक बैंक में ₹57,000 का निवेश किया। दो वर्षों में उसे प्राप्त होने वाला चक्रवृद्धि ब्याज (₹ में) ज्ञात कीजिए, जहाँ ब्याज वार्षिक रूप से संयोजित होता है और पहले वर्ष की ब्याज दर 6% वार्षिक है और दूसरे वर्ष की ब्याज दर पहले वर्ष की ब्याज दर से 4% अधिक है।",
+    "section": "Arithmetical and Numerical Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "1",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "<img align=\"middle\" alt=\"13 1 third km divided by hr\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mn»13«/mn»«mfrac»«mn»1«/mn»«mn»3«/mn»«/mfrac»«mi»km«/mi»«mo»/«/mo»«mi»hr«/mi»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFUAAAAlCAYAAAAz16WbAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAZpE86XgAAAkxJREFUeNrtWD1LA0EQPUIKERGOIEEkvUjaYCmCiASxsPEfBAnBXsTCwiaIpLARsRIRLKws7FJZCBZBxEKwEJEUQgoLCUE4Z+EdHMd97OV2Nzl3HzzILZud2bd7M3NjWXJRItaIV8Qfy0AInogdogMaCELOiCoHRlQjqhHViGpgRDWiGlHHCwvw7zErghY9ohbH1Mcm/Gtk6Yb6OW4fJ13igGj/xzBRJraIPYU213DQN6J94Wl8LBLvcaLfxHNiQfAGv0Zwm69hryral7jGBwvke8Q8cZp4inntjPcJbFySLmwL9yVqkXrIXBntPJWiNmCrKdOXsEX8pzgf40xWRH2ArfIoRPWiQnxBEJdd024EVA1MgGMkkAn8Zm/MB3EFcf6C2Ce+E5dS1Kau3SniScCari8s/s5Cl3ZSUaueOezPMwnKKIezxPKPbcJWCc89z5wt4iTmONjwDsaWMfacojZ17dSx5iqeOwG+rEOft2Fuagmn6+BGyLyprNw58IWfHOdhuGODFLVp2Jr9gDnFtPGsoiBR7eJG5BNs1uHcT1htOoydWM14RVWR/WuejecFixpWm45U1DnMu5T8+m+H3Kg0okbVpsJFjWp8sARwhszKktMd8VNCg8T2+DCNsX08HwbMsTnHCglqUyuBHTtK1Lis3EJwHiC7HYVkftENGIZb/P4Fg+bwjvHUplaCNb18VfVdraJfoBVU9Qu0gsp+gTZQ2S/QErL7BdqBp19gMARk9wu0DgEmUUlIXEZUwZDZL9AGqvoFWkFVv2Ds8Ac181JpOsAdjgAAAI10RVh0TWF0aE1MADxtYXRoIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8xOTk4L01hdGgvTWF0aE1MIj48bW4+MTM8L21uPjxtZnJhYz48bW4+MTwvbW4+PG1uPjM8L21uPjwvbWZyYWM+PG1pPmttPC9taT48bW8+LzwvbW8+PG1pPmhyPC9taT48L21hdGg++25kIAAAAABJRU5ErkJggg==\" style=\"max-width: none;\">",
+      "<img align=\"middle\" alt=\"17 1 fourth space km divided by hr\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mn»17«/mn»«mfrac»«mn»1«/mn»«mn»4«/mn»«/mfrac»«mo»§#160;«/mo»«mi»km«/mi»«mo»/«/mo»«mi»hr«/mi»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFoAAAAlCAYAAADC3P4WAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAZpE86XgAAAkZJREFUeNrtmTFIAzEUhoOUIiLC0aE4dBGnUlwcHEUQEREHFwcnEYqU4uTi4ODg0kGkuDiLCB2cHAQHxyI4FCkOgoM4FBE6SinC+QLv4DiSa6655Lj2/fBDL4Tk9SO595JjzKwK4DL4FvzLSMb0Cm6BXTTJoCYItD0RaAJNoEkEmkATaAJNoGUqYswvaQk47wOdTxHoGsZcTdNKDjoNh6wOuA92xuW1UwJfgLsW51zHBXEXdywqlz9zISu0ZvBP/ySwExo430bcsahc/lRCQBcNb2OboB18ZXRw7thjGTTIFXgx0LYAbo5Y1VIdsEtjiSVskHlBWx28N2Kgn3GuUlKgg8ri9spaBr0lqGA4lHNMUpP4m+eaL/AqOAe+BvfAn+BljdrZm3cafCkY04uFv89nwW/gJx3Q+7iiVUs6V6PcC/bbxuAL+Nz19dkBT2EfFyEcYtsKtrU1amdvngqOuYbPLUEsm5hQP3RAN0O2l8kVzUuv00CikuUXWVtfo3aWjdkT9MnrvjpsJcFgXMe4cjIRALiK/1FWOw8zz0COqqDr+OqwDbrsg5GJGbSsdk4MNE9+35aSoCiuA8nK0wEdVjvHDlr18keWBE0eILy4ZrDtBJ/PBH0cxbZchNqZRZjHCQMdpRqwmQSZJKZ7/P2HFvVRbVOpnVmEMf1+T+qCqMHoA4Bx7TL60mJcBTxtEWjDesTam0Ab1BGWZIxAmxPP4jcJ3cKNjfiB5iFwb0CgDYhfFS4NecQnaRw00vYlfCTgkwg0gU61/gE0pE6qziqFhwAAAJx0RVh0TWF0aE1MADxtYXRoIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8xOTk4L01hdGgvTWF0aE1MIj48bW4+MTc8L21uPjxtZnJhYz48bW4+MTwvbW4+PG1uPjQ8L21uPjwvbWZyYWM+PG1vPiYjeEEwOzwvbW8+PG1pPmttPC9taT48bW8+LzwvbW8+PG1pPmhyPC9taT48L21hdGg+H2zZvwAAAABJRU5ErkJggg==\" style=\"max-width: none;\">",
+      "<img align=\"middle\" alt=\"15 space km divided by hr\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mn»15«/mn»«mo»§#160;«/mo»«mi»km«/mi»«mo»/«/mo»«mi»hr«/mi»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEkAAAARCAYAAACRroFGAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAQ3ZOC+gAAAdBJREFUeNpjYBieQAuI/wPxGYZRgBN0QQMpZzQosAMmIH4OxL+AWHAoOFgHiCcA8Ts62ukBTUXrqO0WWSBOA+LlQPyNQCy9hDoChG8RMPc1klp6gVVQ+7yo7ZZLQHyBCENCkdSA8CQikj49A0kQms2eQ+2muluIMWQvECeSaC49AykHalcXLd2CzxAlqNwXIJ4JxOKDMJBOQu3SGahAakXLak+JDChkM/3QzIAVqH3QApUDygaVi4+B2AWIhYF4MRD/AOKHQGxPQdsIZi8PEE/BYibMLaDySxKIrwHxflJDWhSI46GaQeqmkRHwQVCLZaH8d0hqwoGYC6rmP9QDeVAxR6jYFQraRjB7sqBmukH5F7C4xQda+N8lNzmCYvwgtKYjJZBA1XMjWqGKqyzEJfaLgrYRLjN/YFEjTo3yQwOHg3GZWQmNMRYSHP+fSPfhahuRYw/BMCC1YHtIQiClIXmEhcqBhKttNOCBJA3EzSRmtwwcMU5JIOFrG1E9kMQJ5MdaaIHHBC3Au6C1BKHGHcxMPiRz/kNrS3Q1gkSKCZPQNmIgwR5BfIH0HwdGBkuRYqyPiABiwGHeFij7DxRjU0OsGDFtIwYSzPxPQpdrFCADAOzuBSQIfCkOAAAAeXRFWHRNYXRoTUwAPG1hdGggeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzE5OTgvTWF0aC9NYXRoTUwiPjxtbj4xNTwvbW4+PG1vPiYjeEEwOzwvbW8+PG1pPmttPC9taT48bW8+LzwvbW8+PG1pPmhyPC9taT48L21hdGg+Y+GK7wAAAABJRU5ErkJggg==\" style=\"max-width: none;\">",
+      "<img align=\"middle\" alt=\"12 space km divided by hr\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mn»12«/mn»«mo»§#160;«/mo»«mi»km«/mi»«mo»/«/mo»«mi»hr«/mi»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEkAAAARCAYAAACRroFGAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAQ3ZOC+gAAAdJJREFUeNpjYBieQAuI/wPxGYZRgBN0QQMpZzQosAMmIH4OxL+AWHAoOFgHiCcA8Ts62ukBTUXrqO0WWSBOA+LlQPwNhxpLIL4GjSFQTHUAMQsBc19DHfyfjoG0CmqfF7XdcgmIL+AxRBApUJSggQVS10NE0qdnIAkiRSITLdyCz5BEtFRjCVX3hQhz6RlIOVC7umjpFlIM+Y8naw5UIJ2E2qUzGAKJDapuE4lm+iHx/yMVqH3QApUDygYF/mMgdgFiYSBeDMQ/gPghENtT0DaC2csDxFOwmAlzC6j8koQWK/vJDaRwqDpzMgI+CGqxLJT/DkkNyFwuqJr/UA/kQcUcoWJXKGgbwezJgprpBuVfwOIWH2jhf5fcQDoHxDPJSJ2g6rkRrVDFVRbiEvtFQdsIl5k/sKgRpyS7FUCTNAeJgVQJjTEWEhz/n0j34WobkWMPwTAgpMAaGkDCZJRzaUgeYaFyIOFqG9E9kOSBeDdaAEVDCzdizczAEeOUBBK+thHVA0kcT36UhNY2/7HgSQQadzB1fFCxWii/FYsaQSLFhEloGzGQYI8gvkD6jwPDwC08aryIiDlk87ZA2X+gGJsaYsWIaRsxkGAmMr41OlZAAgAACxYLJvqBeykAAAB5dEVYdE1hdGhNTAA8bWF0aCB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMTk5OC9NYXRoL01hdGhNTCI+PG1uPjEyPC9tbj48bW8+JiN4QTA7PC9tbz48bWk+a208L21pPjxtbz4vPC9tbz48bWk+aHI8L21pPjwvbWF0aD56SCmBAAAAAElFTkSuQmCC\" style=\"max-width: none;\">"
+    ],
+    "q_en": "",
+    "q_hi": "राहुल 24 km की दूरी वाले तीन क्रमिक हिस्सों को 24 km/hr, 12 km/hr और 10 km/hr की चाल से तय करता है। इस दूरी के दौरान औसत चाल ज्ञात कीजिए।",
+    "section": "Arithmetical and Numerical Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "2",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "427.1 gm",
+      "424.2 gm",
+      "429.4 gm",
+      "423.1 gm"
+    ],
+    "q_en": "",
+    "q_hi": "एक दुकानदार अपने सामान को 30% की हानि पर बेचने का दावा करता है, लेकिन वह दोषपूर्ण तराजू का उपयोग करके 65% का लाभ प्राप्त करता है। 1 kg वजन के लिए उसके द्वारा उपयोग किया गया वास्तविक वजन (दशमलव के एक स्थान तक पूर्णांकित) ज्ञात कीजिए।",
+    "section": "Arithmetical and Numerical Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "1",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "₹3,040",
+      "₹2,850",
+      "₹2,900",
+      "₹3,000"
+    ],
+    "q_en": "",
+    "q_hi": "एक स्टोर \"4 खरीदें, 1 मुफ्त पाएं\" योजना की पेशकश करता है, जहां प्रत्येक शर्ट की कीमत ₹800 है। कुल बिल राशि पर 5% की अतिरिक्त छूट प्रदान की जाती है। 5 शर्ट के पैक के लिए अंतिम देय राशि कितनी होगी?",
+    "section": "Arithmetical and Numerical Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "2",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "₹1,800",
+      "₹2,160",
+      "₹2,200",
+      "₹1,980"
+    ],
+    "q_en": "",
+    "q_hi": "एक दुकानदार ₹2,000 में एक मिक्सर का खरीदता है। वह उस मिक्सर को एक ग्राहक को 10% की हानि पर बेच देता है। इसके बाद वह ग्राहक उस मिक्सर को 20% के लाभ पर दूसरे व्यक्ति को बेच देता है। अंतिम विक्रय मूल्य ज्ञात कीजिए।",
+    "section": "Arithmetical and Numerical Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "1",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "1045, 1046",
+      "256, 512",
+      "216, 213",
+      "215, 172"
+    ],
+    "q_en": "",
+    "q_hi": "संख्याओं का निम्नलिखित में से कौन-सा युग्म सह-अभाज्य है?<br>",
+    "section": "Arithmetical and Numerical Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "2",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "3250",
+      "6500",
+      "374.4",
+      "13000"
+    ],
+    "q_en": "",
+    "q_hi": "किस राशि (₹ में) पर 2 वर्षों में 12% वार्षिक ब्याज दर से साधारण ब्याज के रूप में ₹1560 प्राप्त होगा?",
+    "section": "Arithmetical and Numerical Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "4",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "43",
+      "41",
+      "40",
+      "42"
+    ],
+    "q_en": "",
+    "q_hi": "एक दुकान दो प्रकार के चावल बेचती है। पहले प्रकार के चावल की कीमत ₹30/kg है और दूसरे प्रकार के चावल की कीमत ₹50/kg है। यदि एक दुकानदार पहले प्रकार के 40 kg चावल को दूसरे प्रकार के 60 kg चावल के साथ मिलाता है, तो मिश्रण का मूल्य (₹/kg में) ज्ञात कीजिए।",
+    "section": "Arithmetical and Numerical Ability",
+    "solution": "",
+    "topic": ""
+  }
+]
