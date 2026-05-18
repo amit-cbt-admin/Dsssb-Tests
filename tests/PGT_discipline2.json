@@ -1,0 +1,422 @@
+[
+  {
+    "ans": "4",
+    "level": "Medium",
+    "op_en": [
+      "456, 987",
+      "2, 245",
+      "21, 897",
+      "8, 18"
+    ],
+    "op_hi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "q_en": "If the AM and GM of two numbers are 13 and 12, then the two numbers are:",
+    "q_hi": "",
+    "section": "Discipline2",
+    "solution": "",
+    "topic": "Mixed Topic"
+  },
+  {
+    "ans": "1",
+    "level": "Medium",
+    "op_en": [
+      "4 and 16",
+      "8 and 12",
+      "10 and 10",
+      "4 and 6"
+    ],
+    "op_hi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "q_en": "If the geometric mean and arithmetic mean of two positive numbers are 8 and 10, respectively, then the two numbers are:",
+    "q_hi": "",
+    "section": "Discipline2",
+    "solution": "",
+    "topic": "Mixed Topic"
+  },
+  {
+    "ans": "4",
+    "level": "Hard",
+    "op_en": [
+      "<img align=\"middle\" alt=\"15\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mn»15«/mn»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAANCAYAAACkTj4ZAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAMyZLetQAAAJ1JREFUeNpjYIAAWSBOA+LlQPyNATdgAuKXQPwfim+hK7gExBeQFOACoUhqQHgSLtsIGbQXiBMZiAD4DFKCyn0B4plALE6uQa1o3nqKzzBCXhMF4nggvgZVN41cg2CAA4gPQmOQIoNAQAOIf1HDIBB4SA2DpIG4GZuEOJJB2GKjFoizoOkNFOhdQMyDyyXoGBkshYbJcyDuw2YIVQAAwlE5x+NTSqcAAABKdEVYdE1hdGhNTAA8bWF0aCB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMTk5OC9NYXRoL01hdGhNTCI+PG1uPjE1PC9tbj48L21hdGg+TldspAAAAABJRU5ErkJggg==\" style=\"max-width: none;\">",
+      "<img align=\"middle\" alt=\"blank\" class=\"Wirisformula\" data-mathml=\"«math/»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAFCAYAAAB4ka1VAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAEx0lWhwAAAAxJREFUeNpjYBgCAAAApQABc8wLRwAAADl0RVh0TWF0aE1MADxtYXRoIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8xOTk4L01hdGgvTWF0aE1MIi8+Llve3gAAAABJRU5ErkJggg==\" style=\"max-width: none;\"><img align=\"middle\" alt=\"5\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mn»5«/mn»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAkAAAANCAYAAAB7AEQGAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAMyZLetQAAAHNJREFUeNpjYEAAJiB+CcT/ofgWAxYQiqQAhCdhU7QXiBMZ8AAlqO4vQDwTiMWxKWpFs+opLoWiQBwPxNegCqfhs5oDiA9CfYoXaADxLwYiwENCCqSBuBldsBaIs6ChDvJAFxDzoCtaCnXDcyDuw6aAIAAA7C4b7+vAPjoAAABJdEVYdE1hdGhNTAA8bWF0aCB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMTk5OC9NYXRoL01hdGhNTCI+PG1uPjU8L21uPjwvbWF0aD7Ez3cjAAAAAElFTkSuQmCC\" style=\"max-width: none;\">",
+      "<img align=\"middle\" alt=\"25\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mn»25«/mn»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAANCAYAAACkTj4ZAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAMyZLetQAAANBJREFUeNpjYIAASyC+BsS/gPg5EHcAMQsDJmAC4pdA/B+KbyFLCiJpVIIaCFLUg8WgUCRDQHgSsmQimu2WUEVfsBi0F6qeaAAy6BuamBKSBTOBWJyQIWxQDZvQxFvRvPWUkGHhUIXmWOREgTgeKRyn4TPoHNTp+AAHEB+ExiBWUADEZ6AKCQENaHLBANZQQ4RJiJSH6ALyQLwbzZBoaFjgAtJA3IwsIAnEj9FiBFuCqwXiLGjqBgV6FxDzIBt0C4chIOyFpG4pUhbqQzeEagAASPU935fqAE0AAABKdEVYdE1hdGhNTAA8bWF0aCB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMTk5OC9NYXRoL01hdGhNTCI+PG1uPjI1PC9tbj48L21hdGg+MjZJfwAAAABJRU5ErkJggg==\" style=\"max-width: none;\">",
+      "<img align=\"middle\" alt=\"125\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mn»125«/mn»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABsAAAANCAYAAABYWxXTAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAMyZLetQAAAPZJREFUeNpjYIAAWSBOA+LlQPyNATuwBOJrQPwLiJ8DcQcQs2BRxwTEL4H4PxTfQldwCYgvIClAB4JIhitBLQWp68GiNhTJHBCexIDDRbgsS0TzhSVU3RcsavdC1RMEuCzDpRY9yJWQHDETiMWpYRkbVN0mNPFWtCB8is9CYi0Lh6ozxyInCsTxSPE6jVLLzkGDCR/gAOKD0JRJtmUFQHwGahghoAHNKmRZZg21SJiBePCQHMvkgXg3mkXR0LjBBaSBuBmbhDiSZegpSBKIH6OlNGyZthaIs6B5FpRQuoCYB5eP0DEM3MKjxgtJ3VKk4qwPm0V0AwA8IFu3F50ZswAAAEt0RVh0TWF0aE1MADxtYXRoIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8xOTk4L01hdGgvTWF0aE1MIj48bW4+MTI1PC9tbj48L21hdGg+QWDH5wAAAABJRU5ErkJggg==\" style=\"max-width: none;\">"
+    ],
+    "op_hi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "q_en": "<img align=\"middle\" alt=\"The space geometric space mean space of space two space numbers space is space 25. space If space one space number space is space 5 comma space find space the space other space number. space\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mi»The«/mi»«mo»§#160;«/mo»«mi»geometric«/mi»«mo»§#160;«/mo»«mi»mean«/mi»«mo»§#160;«/mo»«mi»of«/mi»«mo»§#160;«/mo»«mi»two«/mi»«mo»§#160;«/mo»«mi»numbers«/mi»«mo»§#160;«/mo»«mi»is«/mi»«mo»§#160;«/mo»«mn»25«/mn»«mo».«/mo»«mo»§#160;«/mo»«mi»If«/mi»«mo»§#160;«/mo»«mi»one«/mi»«mo»§#160;«/mo»«mi»number«/mi»«mo»§#160;«/mo»«mi»is«/mi»«mo»§#160;«/mo»«mn»5«/mn»«mo»,«/mo»«mo»§#160;«/mo»«mi»find«/mi»«mo»§#160;«/mo»«mi»the«/mi»«mo»§#160;«/mo»«mi»other«/mi»«mo»§#160;«/mo»«mi»number«/mi»«mo».«/mo»«mo»§#160;«/mo»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAnQAAAARCAYAAABUzzEPAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAANvpXuIwAACDZJREFUeNrtXX+EV1kUv75GRrKMkZU1IiMjWbGyRjKGZGVlRcZaSeafjJXsP2ustX+sSFZGViQrSSIrWVlLkpWRSJKsDBlJkiG7I9/9+hpm3zHn7ffMmfve/T3f1/ueD5e5991377nnfO65591333eUcsfOLM1k6a0S+GI2S/dFDYU4mqWnWWpl6XmWjohKKj0H68hn4WC1+FdFjnGOzEWQ0Ve3VfMJvRYnVGq8y5YJsMDyAnfcQwclWIuDyK09WerP0kV0loIOqjYHQ/k8mqW/stTO0ussnc5Sn6ZeI0tvyNjnIvs74WB1+RfDZ8biTxFH/o0g41tP3VbNJ/RanFCp8YIQ00h4xQSDsh9YXgK6tfhIdBIFv6MeG6Lv0oWpLnNwgARw2zCwg3H9pKl7mAVg5wL63U7aGfbkoBL+vVeIyZ9UHLHVLfd/3bZJ1eTp6TmxzJ6IuWCbWF4CurWYFJ1EQdNSj72u77rMwWPM94ziuN5p6t7B+ql12JS5XEv+xeRPSo7Y6Fbn/7ppk6rJI3PCQTAJ6FZjSHW2ygXpJ4Xou95zcBkXTIptJNC7kKUPE+pQ/Fv9+BebPynHb2q7yP91yyZVk0fmhGdABzt3P6uVQ6EvsjSmidpf4PU/1Mq2bBk2Zuk8OnM4S3O44EmgrM19WXqkVs7jwIHVL8g1OLh4FsnXj39DXy/xvsEsXfEYzxO1eit/gfQFf29RK6+S7jIZKA5gOyD3Q7XySqgIqcah8O+b2B7I8jhLn2n6BdufI/2OWfCqzDabVPm5Jgqu739Y/jLqk5ZdwHuvkbK9FnKZ9F+kB90YeFmIHfN2PkVuNXEu2s6XIn4CdpN7Thl8gY7PLvdzbMD6v7HyU0x/rxIsyi4cdPU3pvni4ivrzr8UHIvFnyKOcBldbD+GPq2pVr8WVpb+byHxumzieSp5fDnSC3MiSUA3hUHYfsw/JnVyYu5WnfMqTw39XiIL7STpp2XZ5i4k3He4MNzGOuN4nR44nUDZD2EeFHwCy8Y1bZv65jqjfX2OAcZzpT/0CgdrZ1F+wBmDrlKOAybnEpJsL15/jdcWmO03EdubbGuyjetTDq83jPIBVz7AMniVN4+TRpGyd2QS2cpFYaOHzRoZt7CyEDvm9x1AuW9h/ntLWxfxU+E83oF/bzfYQ8dnl/s5JohT5ACdHlWdc3bnu7xDZ+KO7Xxx9ZV1518qjsXkT5m/d7H9MC78N9A3fW3Jv+WSHbHY67KNj0whjwtHem1OJAnoeFmL5P/0eNptkTr5k/qsQ5s3MJ8v6LnS72G+YSAeL2s79F3WLn0S1Mlwlz19HscnyCKkHMcTRqJlDPBM/bYNtjXZJjSgA5zGsm8xP4iyQxrBMpicVz3kstV/25IToXbkdUbU2i/3bDnLdyqWlP2Bcd0YXO7neER2U4vQj2N70+WALsTftAN8Zd35l5pjMfjD5Wk46Lat2cQYYeteSEAXe1228ZGp5AnhSJ3nxLoEdLSsrdzfJ79Sqz/QoNu3Nm3yg6p9Hgb1HY9tu7ryloeuUo0jJzXskD50DFxVoG1CA7ohdPTzmD+Bu53Q900su8peF9jK5aP/WHVc7msHclahA4LyZ7ho9jnqwvX+HCeRc/0WdUcsbJQ6oIvlb9qJ5v/7yr+UHIvFn1i6/dvTn6b0/1VfV2VOdCGgW8L8Dod+j+E9R8lTwEmHNvPAaAOTazGCsUx9hwR0bfaUljKgM43jEwyIHuC2cKyAzsY2oQEd4DrZsobgYKtaebUCZWPoQPs85Kq682ho5PbhLABeV/xCrs846sL1fsAetNegwxx40eWALpa/8fGVdeZfKo7F5E8s3eY6aqxTQOfDtaqtqzInuhDQPcL8LSQC7J6YtrjhyfwSTjRYeKfZdVObd8hirlRn+/paBGOZ+g4J6B5g/gqSYJsqf+WachzzeH1zINk5bGwTI6DLz/3RA6UjZGJd85Qr5KFGV6cR2XnswvzFQM5SjGKA3PS0he39EHTfZsHcV2jDIsAZyB815QcwrUdAF8vf+PjKXuBfTI7Z8Gcrcmf3OgYP+QcFo5jfrrHRevr/lDyPta726pxw8W3/Y1gV/+AmYIBcHygpO6JWvyNus4HpAFvnZe+OTW3mi/l9DA6nsc7HjrLTskHLvhdJ5H2PtWHS35ekbAkNXHZgN+U4mmS3cC+pt8ehX1USaBXZhgZeyxjUloHrWxf409+cys8uHPKQy1f/zzC/H3cUjpM6bwLtmP/i/WHVOYDLv9wrs/WAIaDJ5z44nOeOunC5Hw4lv1T6cyX0jBQcLJ5CpwsPG2dQp77BWJGfc+FgLH/j6ivrzr/YHLPlzxRZbMug4wiX0Va3xwiHQK5xZiNb/5dyXbbxkSnkCeVI3eaE8+6d6V/iqIJrRfXhdWn+5eF1i9cpLU1boKQJhzZhwZ5DRcHCPuYhu894QMZ3uNs2xO6fM8gA+AZ3JaHtywZdpRzHFJbnX5HN4q7dmGMfOpTZxrUtrm+KSQxM+1n9NnttYCuXr/73qc7n6XDQfyPqHT5N3xloxyHkSQvHerHgYajI1kX8zK9N4CI5j8G8qy5s758r8Tv0afSq6vxrsLMFwZzr66pQPsfyN66+su78i80xW/7YBnQ2OnK1/SLKtgv1NWN4qCxbb2KvyzY+MoU8MThSpznx3v2u3yQJalpke3RRCQQCgUCQFhCY/CpqEAjCAe/oD7KyIdX5alEgEAgEghTIf2NtUlQhEIQDXq/CdmS+HQ6/e3NGE+QJBAKBQBATcJ5zWtQgEMQBnJmBw+tNTPD3uKhFIBAIBAKBoBj/AfJlXUkI4x/qAAACNXRFWHRNYXRoTUwAPG1hdGggeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzE5OTgvTWF0aC9NYXRoTUwiPjxtaT5UaGU8L21pPjxtbz4mI3hBMDs8L21vPjxtaT5nZW9tZXRyaWM8L21pPjxtbz4mI3hBMDs8L21vPjxtaT5tZWFuPC9taT48bW8+JiN4QTA7PC9tbz48bWk+b2Y8L21pPjxtbz4mI3hBMDs8L21vPjxtaT50d288L21pPjxtbz4mI3hBMDs8L21vPjxtaT5udW1iZXJzPC9taT48bW8+JiN4QTA7PC9tbz48bWk+aXM8L21pPjxtbz4mI3hBMDs8L21vPjxtbj4yNTwvbW4+PG1vPi48L21vPjxtbz4mI3hBMDs8L21vPjxtaT5JZjwvbWk+PG1vPiYjeEEwOzwvbW8+PG1pPm9uZTwvbWk+PG1vPiYjeEEwOzwvbW8+PG1pPm51bWJlcjwvbWk+PG1vPiYjeEEwOzwvbW8+PG1pPmlzPC9taT48bW8+JiN4QTA7PC9tbz48bW4+NTwvbW4+PG1vPiw8L21vPjxtbz4mI3hBMDs8L21vPjxtaT5maW5kPC9taT48bW8+JiN4QTA7PC9tbz48bWk+dGhlPC9taT48bW8+JiN4QTA7PC9tbz48bWk+b3RoZXI8L21pPjxtbz4mI3hBMDs8L21vPjxtaT5udW1iZXI8L21pPjxtbz4uPC9tbz48bW8+JiN4QTA7PC9tbz48L21hdGg+aIjZZAAAAABJRU5ErkJggg==\" style=\"max-width: none;\">",
+    "q_hi": "",
+    "section": "Discipline2",
+    "solution": "",
+    "topic": "Mixed Topic"
+  },
+  {
+    "ans": "2",
+    "level": "Hard",
+    "op_en": [
+      "<img align=\"middle\" alt=\"space fraction numerator n left parenthesis n plus 1 right parenthesis left parenthesis n plus 2 right parenthesis over denominator 6 end fraction\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mo»§#160;«/mo»«mfrac»«mrow»«mi»n«/mi»«mo»(«/mo»«mi»n«/mi»«mo»+«/mo»«mn»1«/mn»«mo»)«/mo»«mo»(«/mo»«mi»n«/mi»«mo»+«/mo»«mn»2«/mn»«mo»)«/mo»«/mrow»«mn»6«/mn»«/mfrac»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHoAAAAoCAYAAAAxH+4YAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAc1CXO0QAAAqZJREFUeNrtnEEoBGEUx782SXLZpE2SctImF4dtk9wcHFwdnKSkPUhyleQiycHN2cHFSZKS86YkSZLLHiRJOUibNrXea95kGrPb+5jPfPvt+9X/YJq3+/7vNfvNfN98lDLHCmhZ2csSaLWJfBihANpU9rNJubruwwhZ0LlqHC4oZ1d9GOMMlDPwuVUSl17QHGgfVK5zXp5yttUH5ncLqoCeQBugFg0fRhgCFQ19tm6BrkFXzLgi5W6bj3Sgsf3UcIzdYvowxjrdHNjQaCTFjFui3G3zMRO6evMU+870YYwT0KhFjebGjVLuNvsIxpeZPrQZBG2DXkEdoB36sgfQWOC8N1DrL2OTbHQr5W6zDz9PjD1k+tDmJZBggYyO0983gfM+/xAbVQyu4ihsxXIfyBSdl2P60KbWWFdlFIgbm3SjPyz3gVyCdjV8xDa2hI9F/eRxY23/6U7axyI9K7dp+DDW6Fo3MbY3GsfYY4t9jFCTOzV9GGt0rccS2xvNfbxKwkcf6DTU5Gl6po798SodSDBd51jURAM31kSjM4G4TJ3zzumuWlnmo5vu6qPG8x2Gj19fFcEka91IhKcOdWLjbDT3hoc7BZqEj/s6PiaYPoyRpfGkEUjRVZB12IdRGmV5D+eM55vAh1FWlLn54jhYpBybxYcgCILgFlVRw0sQBEEQBEEQBOEfmAQdKO+tjE8ph3t0KW8xHxuMG9SGlbcCJDgELuaXlLes1yPlcJciNTotpXAXfNcKpwVxjRlfosNXYx9BC1IatzihRuMivb9xrUTHZqU87lBWPyf6/av8VsrjDpWIRvv7mT6kPO5wR03tDh3HY89SHndYU9+b5Hz66di2lMcd2pW38xGv3gHl7Yg8Ut5L8p1SHrfAWbE9GpNR+D9OnJ84+QJbR+fv1OiszAAAAOJ0RVh0TWF0aE1MADxtYXRoIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8xOTk4L01hdGgvTWF0aE1MIj48bW8+JiN4QTA7PC9tbz48bWZyYWM+PG1yb3c+PG1pPm48L21pPjxtbz4oPC9tbz48bWk+bjwvbWk+PG1vPis8L21vPjxtbj4xPC9tbj48bW8+KTwvbW8+PG1vPig8L21vPjxtaT5uPC9taT48bW8+KzwvbW8+PG1uPjI8L21uPjxtbz4pPC9tbz48L21yb3c+PG1uPjY8L21uPjwvbWZyYWM+PC9tYXRoPgcbFEcAAAAASUVORK5CYII=\" style=\"max-width: none;\">",
+      "<img align=\"middle\" alt=\"space fraction numerator n left parenthesis n plus 1 right parenthesis left parenthesis n plus 2 right parenthesis over denominator 3 end fraction\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mo»§#160;«/mo»«mfrac»«mrow»«mi»n«/mi»«mo»(«/mo»«mi»n«/mi»«mo»+«/mo»«mn»1«/mn»«mo»)«/mo»«mo»(«/mo»«mi»n«/mi»«mo»+«/mo»«mn»2«/mn»«mo»)«/mo»«/mrow»«mn»3«/mn»«/mfrac»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHoAAAAoCAYAAAAxH+4YAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAc1CXO0QAAApRJREFUeNrtm79LI1EQxx9BxEKEICIicnCVBLE7RETsLPwHLK66Ro5UQexELGyOICJ2IlYi9hYiiFgdISAiIlccXHGIWAgWIkFEiDPsiMuSrPN0h337dj7wLRLeJPN9w+77sW+NkWMJtGDcZR60nCMfIpRBVeM+VcrVdx8ilEB1kx1OKWdffYhxDBoT+N0micsQaA60B2rEtBunnF31gfn9AT2BbkC/QB0WPkQYBdWEftu2gy5A58y4GuXumo9iqLBfqeAYu8r0IcYKTQ5cKDRSYMbNU+6u+fgRuXrHKfaB6UOMQ9CkQ4Xmxk1S7i77CMc3mD6sGQGtge5A3aAN+rMr0FSo3T2o84OxaRa6k3J32cdrnhi7z/RhzW0owTIZnabPl6F2z5+IbdUZXCXRsU+O+0Bmqd0Y04c17ca6JqODuLFpF/rRcR/IGWjTwkdiY0v0u1a3PG6s67futH1UaK3cZeFDrNDtJjGuFxrH2AOHfUxQkXstfYgVut2yxPVCc5dXafj4AjqKFPk7rakTX14VQwkWY75rtdHAjZUodH8orj+mXZ1m1cYxHwM0q281nm8wfHz4qggn2W4iEd06tIlNstDcCQ93CzQNH39jfMwwfYhRovEkCxToKih57EOUrDzewz3jnznwIcqSkdsvToIK5ZgXH4qiKIpfNFWZl6IoiqIoiqIoihD4ROq3CY7/4GmMbfP+A30lY+DTnUUTnJXuMcH5K1xrnmjX+EX0RbTXA38N7Rq/KEQ+D1Ohq9o1/vLNBOeu1rUr/GXGvO0F4/jcp13iL/ha7SkVe0e7w//bt07GcjI500LngEEq9K52hV/8B22ZYCcMJ2D46s21iT/cr2QQXErh24a4/fnPBMdkczHjfgED594sGsoAKgAAAOJ0RVh0TWF0aE1MADxtYXRoIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8xOTk4L01hdGgvTWF0aE1MIj48bW8+JiN4QTA7PC9tbz48bWZyYWM+PG1yb3c+PG1pPm48L21pPjxtbz4oPC9tbz48bWk+bjwvbWk+PG1vPis8L21vPjxtbj4xPC9tbj48bW8+KTwvbW8+PG1vPig8L21vPjxtaT5uPC9taT48bW8+KzwvbW8+PG1uPjI8L21uPjxtbz4pPC9tbz48L21yb3c+PG1uPjM8L21uPjwvbWZyYWM+PC9tYXRoPoo4k2IAAAAASUVORK5CYII=\" style=\"max-width: none;\">",
+      "<img align=\"middle\" alt=\"space fraction numerator n left parenthesis n plus 1 right parenthesis over denominator 2 end fraction\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mo»§#160;«/mo»«mfrac»«mrow»«mi»n«/mi»«mo»(«/mo»«mi»n«/mi»«mo»+«/mo»«mn»1«/mn»«mo»)«/mo»«/mrow»«mn»2«/mn»«/mfrac»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAAAoCAYAAABdGbwdAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAc1CXO0QAAAdVJREFUeNrtmrFLw0AUxo8iwcElOBQHERyLuJYixc3Bf8DByUWkkxTX4uAiRRy6+Re4O4ggzqVQREQcXB0cBAeRUqQQv5AnHOklXJNccqHvB9/QcC/37uPucu+oEOboQCfCXtrQaVGdt6CusJ8u5ZorNWggysOQcs6NB6hu4L0eSZdV6BC6hkYx7RqUcy5sQn1D757VoGfoSTOuT7kb54w2PxsM8qloxrUpd+PcQU2LDNKNa1LuidmALqEvaAnq0bp+h7aldt+QkzC2SIMcyj0xn1JHLRroDv1+kdpNUsSqBqWrLIz9TWNQ1Fr2Qi+epIgt2qCxiT0g/Ey1xHRjS73EdAcZtUnbbpC/F97mYVDUZ952g1J/5l2pIzfmmeqgqBtrwqCqFFeNaTegr23q2SMnGbVRhkuNWWKzNEh3Q8+11PgvVoclKVQrNHtqeXdcluuOC+ioqM47BuuyLDimHBmGsRdvjsUwDMMwTKb4lfWrCK5iP6BzaIFtCXAlQ9bJKI8KSgYchGZLgwz6YWviT/IjtkGNQwbdsBVq9sigOluh5hG6YhvU+Ld9/r32IlsxzRaZs8xWTLMG3YfM2acz0dyzIoK/xKgur3psjxBvIvp2b7eopP4AxYUY3zLXUcgAAACwdEVYdE1hdGhNTAA8bWF0aCB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMTk5OC9NYXRoL01hdGhNTCI+PG1vPiYjeEEwOzwvbW8+PG1mcmFjPjxtcm93PjxtaT5uPC9taT48bW8+KDwvbW8+PG1pPm48L21pPjxtbz4rPC9tbz48bW4+MTwvbW4+PG1vPik8L21vPjwvbXJvdz48bW4+MjwvbW4+PC9tZnJhYz48L21hdGg+revhTwAAAABJRU5ErkJggg==\" style=\"max-width: none;\">",
+      "<img align=\"middle\" alt=\"space fraction numerator n squared left parenthesis n plus 1 right parenthesis over denominator 2 end fraction\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mo»§#160;«/mo»«mfrac»«mrow»«msup»«mi»n«/mi»«mn»2«/mn»«/msup»«mo»(«/mo»«mi»n«/mi»«mo»+«/mo»«mn»1«/mn»«mo»)«/mo»«/mrow»«mn»2«/mn»«/mfrac»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAE4AAAAoCAYAAABQB8xaAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAc1CXO0QAAAhhJREFUeNrtmj9IAzEUxkORw8Hl6FAcRBCnIm5SihQ3B0cXB3HoItJJimsREUGKOHQTcXbvIII4l0IREXFwdXAQHESKFOF8R98QYnLNXXppWt4PvuHS/Hn3NckluWPMPjXQAXOXKujQZoMroAdQD9QGzUnyVEB15j51jNUKR6AsKIMNt4Xf85I0l+lgzFaZwp7Hcw8qpNBWgNIlHAm7oGtQNyJfEWO2blyHu14GtVJqK65xT6BHzXItjN0aO6BN7voYJ10XjGM4neiUq2LsVvBBJ0LaLajkkHG65UoYe2KWQOegT9AMqIHzwxtoTfgnqzhUeb5AXsI6R2mch7En5oNrqII3uo7Xz1y+Mpq2CLrk0n8N6pTdrK6GYXjPxDjVnBBwFTeFoK8GGKdTpwvG/aQxl+g2LhuqpnWOxVA1vUnVw8F148K59maUxqmWI64bZ7wc8bmG/Ig0FbIFsGmdJsbluHK5iHxtfPob9zY+yDgTsWzLNYw6TXrooLZGsuWSkRe2YS6Twd6WdyWgcTlWOgPtuRZULcV96zDYxxgJgph8AlKiJRJBEARBEBNBeDrxwvrH6O+gU/b/JRAh4HNGLaCBAW6+iQjKQu8qonHfZE2yXUyXbIiHh8Y1yYp4bKFxBbIiHuEHixdkQzzCE9nwXcU0WaHPKpqWJSv0mQfdCaZt45qOUDDL+p97yQ4SG2SPmlemPoHdcCHAPxrJLKDJiVzqAAAAx3RFWHRNYXRoTUwAPG1hdGggeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzE5OTgvTWF0aC9NYXRoTUwiPjxtbz4mI3hBMDs8L21vPjxtZnJhYz48bXJvdz48bXN1cD48bWk+bjwvbWk+PG1uPjI8L21uPjwvbXN1cD48bW8+KDwvbW8+PG1pPm48L21pPjxtbz4rPC9tbz48bW4+MTwvbW4+PG1vPik8L21vPjwvbXJvdz48bW4+MjwvbW4+PC9tZnJhYz48L21hdGg+1LLonwAAAABJRU5ErkJggg==\" style=\"max-width: none;\">"
+    ],
+    "op_hi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "q_en": "<img align=\"middle\" alt=\"The space expression space sum from k equals 1 to n of space k left parenthesis k plus 1 right parenthesis space is space equal space to\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mi»The«/mi»«mo»§#160;«/mo»«mi»expression«/mi»«mo»§#160;«/mo»«munderover»«mo»§#8721;«/mo»«mrow»«mi»k«/mi»«mo»=«/mo»«mn»1«/mn»«/mrow»«mi»n«/mi»«/munderover»«mo»§#160;«/mo»«mi»k«/mi»«mo»(«/mo»«mi»k«/mi»«mo»+«/mo»«mn»1«/mn»«mo»)«/mo»«mo»§#160;«/mo»«mi»is«/mi»«mo»§#160;«/mo»«mi»equal«/mi»«mo»§#160;«/mo»«mi»to«/mi»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,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\" style=\"max-width: none;\">",
+    "q_hi": "",
+    "section": "Discipline2",
+    "solution": "",
+    "topic": "Mixed Topic"
+  },
+  {
+    "ans": "2",
+    "level": "Hard",
+    "op_en": [
+      "B ⊂ A",
+      "A is equivalent to B",
+      "A = B",
+      "A ⋂ B is empty"
+    ],
+    "op_hi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "q_en": "Let 'A' be the set of vowels in the first form of English alphabets and 'B' be the set of distinct letters in the word ‘CREATE’. Then, which of the following is correct?",
+    "q_hi": "",
+    "section": "Discipline2",
+    "solution": "",
+    "topic": "Mixed Topic"
+  },
+  {
+    "ans": "2",
+    "level": "Easy",
+    "op_en": [
+      "9",
+      "15",
+      "12",
+      "6"
+    ],
+    "op_hi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "q_en": "The arithmetic mean of the numbers 3 and 27 is:",
+    "q_hi": "",
+    "section": "Discipline2",
+    "solution": "",
+    "topic": "Mixed Topic"
+  },
+  {
+    "ans": "1",
+    "level": "Hard",
+    "op_en": [
+      "2",
+      "3",
+      "-3",
+      "1"
+    ],
+    "op_hi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "q_en": "The sum of the series <img align=\"middle\" alt=\"begin mathsize 12px style 1 plus 1 half plus 1 over 2 squared plus 1 over 2 cubed plus.... infinity end style\" class=\"Wirisformula\" data-mathml=\"«math style=¨font-family:Arial¨ xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mstyle mathsize=¨12px¨»«mrow»«mn»1«/mn»«mo»+«/mo»«mfrac»«mn»1«/mn»«mn»2«/mn»«/mfrac»«mo»+«/mo»«mfrac»«mn»1«/mn»«msup»«mn»2«/mn»«mn»2«/mn»«/msup»«/mfrac»«mo»+«/mo»«mfrac»«mn»1«/mn»«msup»«mn»2«/mn»«mn»3«/mn»«/msup»«/mfrac»«mo»+«/mo»«mo».«/mo»«mo».«/mo»«mo».«/mo»«mo».«/mo»«mo»§#8734;«/mo»«/mrow»«/mstyle»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAK4AAAAiCAYAAADGfuJNAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAVrfl2dQAAAkxJREFUeNrtnDEohGEYx78u6QaLJF2STQZJ6ZIMNkkmJZkMFslgsBptMuiyyWSTDJIySbJIMshiMNsk6VKf/9M9V1/XF3e5+97n9f7/9R/ufe+7+/nu/z3vd897iSK3GoA34fvIhqzx+MIWnA7hVTgmj9dswSomz79gY3DJw+AyuAwuxeCSjWJwGVwGl8Gl+GEwuBSDy+C2Vi52ZuIUuw6FJR5f2JzqLzszFgLHChl49WZwyZaVcvAsPA8XU+bbE/M9DC7ZLLAV9Lb0GL5Slkd4VOeX4Ft4HZ6DS/AMg0s212x7cG/isVTWD/gN3oFP4XzNMVspYw39MXEd/suxzXiNZrw/2VqnUsrYTIKjP2V+Cp5mxSWbS7adlDGppg/KJbcRnTXzC/AEg0s2l2wb8FDicRd8Aa/B28omIR7R+XH4jPe4ZLPAJgGVNuwRfKm3AlUtwnfK+KWhLjC4ZGuE7VXdrLFa5X6ZyzX6hSt0Vc9DWVszRaNsz/ByBu/VrDGvJe2PKz3xN7ps5I2yyhUvvcQXo3xjUaWVRGUg6dNNJpYBuVnfNcwrF9WbUbaiXvyUo2C8G674clEtGWMr6zmL9RjKgdoyXu7qrfgSGNnlWTC6GslzpHHP/7fgSCvwgbGK3xFVWjVDHqxGT4xQ9hqGr6NKE9pSxZfQjnqwGk1o14PK+BvxCdxtsOJbaRH+xPYJn0fpe/tUiyTbePtaUUKv+D6yBam+qPJbTFZ8P9mClew9D7Lie8kWtFz/HtRKxfeNjWLF95KNCrzi+8pmQt9MiTyj1yd4KAAAAXx0RVh0TWF0aE1MADxtYXRoIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8xOTk4L01hdGgvTWF0aE1MIiBzdHlsZT0iZm9udC1mYW1pbHk6QXJpYWwiPjxtc3R5bGUgbWF0aHNpemU9IjEycHgiPjxtbj4xPC9tbj48bW8+KzwvbW8+PG1mcmFjPjxtbj4xPC9tbj48bW4+MjwvbW4+PC9tZnJhYz48bW8+KzwvbW8+PG1mcmFjPjxtbj4xPC9tbj48bXN1cD48bW4+MjwvbW4+PG1uPjI8L21uPjwvbXN1cD48L21mcmFjPjxtbz4rPC9tbz48bWZyYWM+PG1uPjE8L21uPjxtc3VwPjxtbj4yPC9tbj48bW4+MzwvbW4+PC9tc3VwPjwvbWZyYWM+PG1vPis8L21vPjxtbz4uPC9tbz48bW8+LjwvbW8+PG1vPi48L21vPjxtbz4uPC9tbz48bW8+JiN4MjIxRTs8L21vPjwvbXN0eWxlPjwvbWF0aD5bXfqVAAAAAElFTkSuQmCC\" style=\"max-width: none;\"> is:",
+    "q_hi": "",
+    "section": "Discipline2",
+    "solution": "",
+    "topic": "Mixed Topic"
+  },
+  {
+    "ans": "4",
+    "level": "Hard",
+    "op_en": [
+      "<img align=\"middle\" alt=\"blank to the power of 9 C subscript 5\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«msup»«mrow/»«mn»9«/mn»«/msup»«msub»«mi»C«/mi»«mn»5«/mn»«/msub»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAVCAYAAABc6S4mAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAOJ5y/mQAAARhJREFUeNpjYGBg8ALiX0D8H0p7MFAZIBvqAeVTFfwnwAcBFSCeBsRPoQ4A0VOAWA2HerwG/kHjBwHxDyDeDcRaUDFhIM4C4pfEWIAcRDpA/AFJTglq+DUgZsGiV4cYC2DhDnJNKxAvRJLrgRqQiEf/D1LiYzFSMIDAFagFspRGtCkQr8Hi0h/EBAEhAIrUk0DsgiN+/jPQENyHWsBDKwumQC0IpZUFoGT6DYjPATETFnk/IN5AqSWh0HjaC8R6UDFQnogG4jPQTAcDIEc8hPr6AimWGADxciD+hFRUgPKIIJq6eCDeT8tEAcrxx6ElNE0AG9Twu9AyjGZAFho/NAUbaG3BXGobyIJE1wNxOLUtOApNopeQcz4A78ZE5I1fWE4AAAB+dEVYdE1hdGhNTAA8bWF0aCB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMTk5OC9NYXRoL01hdGhNTCI+PG1zdXA+PG1yb3cvPjxtbj45PC9tbj48L21zdXA+PG1zdWI+PG1pPkM8L21pPjxtbj41PC9tbj48L21zdWI+PC9tYXRoPg2c4VAAAAAASUVORK5CYII=\" style=\"max-width: none;\">",
+      "<img align=\"middle\" alt=\"blank to the power of 10 C subscript 4\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«msup»«mrow/»«mn»10«/mn»«/msup»«msub»«mi»C«/mi»«mn»4«/mn»«/msub»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAVCAYAAABR915hAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAOJ5y/mQAAAQJJREFUeNpjYIAARyC+wIAKvID4FxD/h9IeDDQAN6AWIANkyzygfJqA/yTyQUAFiKcB8VOow0D0FCBWw6GeKhYHAfEPIN4NxFpQMWEgzgLil7SyWAlq6TUgZsFilg6tLO6B8hPxmPeDFhZfgfJlKU1YPFCDeIhM1T9ICUpCvv2PZpgHWj72QnPUf4YBAPexhBBdwBSoxaH0thiUnb4B8TkgZsIi7wfEG2hlOci3f4B4LxDrQcVAeToaiM9ACxN0IAotXCgGBkC8HIg/IRWZoDwuiEP9joFIlDlAXElvi0Fl+VI8lQ1NABsQr0LKenSzuBqI5QlUrzSr57FhuoMBsRRuMQB2jFfYJnytkQAAAH90RVh0TWF0aE1MADxtYXRoIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8xOTk4L01hdGgvTWF0aE1MIj48bXN1cD48bXJvdy8+PG1uPjEwPC9tbj48L21zdXA+PG1zdWI+PG1pPkM8L21pPjxtbj40PC9tbj48L21zdWI+PC9tYXRoPpq0HV0AAAAASUVORK5CYII=\" style=\"max-width: none;\">",
+      "<img align=\"middle\" alt=\"blank to the power of 10 C subscript 6\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«msup»«mrow/»«mn»10«/mn»«/msup»«msub»«mi»C«/mi»«mn»6«/mn»«/msub»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAVCAYAAABR915hAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAOJ5y/mQAAAQdJREFUeNpjYIAARyC+wIAKvID4FxD/h9IeDDQAN6AWIANkyzygfJqA/yTyQUAFiKcB8VOow0D0FCBWw6GeKhYHAfEPIN4NxFpQMWEgzgLil7SyWAlq6TUgZsFilg6tLO6B8hPxmPeDFhZfgfJlKU1YPFCDeIhM1T9ICUpCvv2PZpgHWj72QnPUf4YBAPexhBBdwBSoxaH0thiUnb4B8TkgZsIi7wfEG2hlOci3f4B4LxDrQcVAeToaiM9ACxNkAKoPjlKr6DUA4uVA/AmpyATlcUE0dfFAfBda2rHRK1q0oJWQKL3Tw3wgXgjEz2lZvWID74DYmB7VK6lF8fCzmG4tGXSAtcwHAH/VWqEWrT8vAAAAf3RFWHRNYXRoTUwAPG1hdGggeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzE5OTgvTWF0aC9NYXRoTUwiPjxtc3VwPjxtcm93Lz48bW4+MTA8L21uPjwvbXN1cD48bXN1Yj48bWk+QzwvbWk+PG1uPjY8L21uPjwvbXN1Yj48L21hdGg+UHpr0QAAAABJRU5ErkJggg==\" style=\"max-width: none;\">",
+      "<img align=\"middle\" alt=\"blank to the power of 10 C subscript 5\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«msup»«mrow/»«mn»10«/mn»«/msup»«msub»«mi»C«/mi»«mn»5«/mn»«/msub»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAVCAYAAABR915hAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAOJ5y/mQAAAQ1JREFUeNpjYIAARyC+wIAKvID4FxD/h9IeDDQAN6AWIANkyzygfJqA/yTyQUAFiKcB8VOow0D0FCBWw6GeKhYHAfEPIN4NxFpQMWEgzgLil7SyWAlq6TUgZsFilg6tLO6B8hPxmPeDFhZfgfJlKU1YPFCDeIhM1T9ICUpCvv2PZpgHWj72QnPUf4YBAPexhBBdwBSoxaH0thiUnb4B8TkgZsIi7wfEG2hlOci3f4B4LxDrQcVAeToaiM9ACxMYADnuITSULlDDcgMgXg7En5CKTFAeF0RTFw/E+wciMYJKuONoOYMugA1q6V1oGU93IAuN/wEBGwbK4rn0sogFia4H4nB6WXwUmpUuIZd0ADGIUxorSvSnAAAAf3RFWHRNYXRoTUwAPG1hdGggeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzE5OTgvTWF0aC9NYXRoTUwiPjxtc3VwPjxtcm93Lz48bW4+MTA8L21uPjwvbXN1cD48bXN1Yj48bWk+QzwvbWk+PG1uPjU8L21uPjwvbXN1Yj48L21hdGg+/9MmGwAAAABJRU5ErkJggg==\" style=\"max-width: none;\">"
+    ],
+    "op_hi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "q_en": "In the expansion of <img align=\"middle\" alt=\"begin mathsize 12px style left parenthesis 1 plus x right parenthesis to the power of 10 end style\" class=\"Wirisformula\" data-mathml=\"«math style=¨font-family:Arial¨ xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mstyle mathsize=¨12px¨»«mrow»«mo»(«/mo»«mn»1«/mn»«mo»+«/mo»«mi»x«/mi»«msup»«mo»)«/mo»«mn»10«/mn»«/msup»«/mrow»«/mstyle»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADsAAAAPCAYAAABazrcIAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAANvpXuIwAAAXJJREFUeNpjYEAFWUDcwTC4QAfUXehADYhrgfgCFjkOIF4HxL+gNAe6Aj0gPs4wOMFRqPuQwWIgTgPi/1jUNwJxIpQdD+VjGGhAQujRExgD8WEcctg8ewUf3wDqWXSwFJqE/pPhwP9U9vBhqKeJsecLGv8bMqcLiHOo7HBqezYPR3mCzZ53+Pg7gNh2ADwLKjjOAbEskpggEJ/BUqhYAvFeIu1BT6XnkDmfgJhtgGLWFIgPIvGnAXEAFnVsUHcSY089EHtA2V7oBdQfKjj8PxEYF2iGJlNQ2bEFj7pfBOxDTjEbgPgHNIsyUduzlOhhgiZdEFYi0rNkg+dAzDeAnhWEVm/n0GMBCfAA8UtqeHYNEPsMoGdnAnEQEJdjawBAgQ/UnRSDZCCeNECedYTmLxg4CC200MEUpFYRRQBU0t0CYmEiCh1qAg5oPhVHEpOFJmfkqgckf4NAjUES8APi5YO0bbwU6j6qgkooHkygFpqXKQYAMMNpOaH+d64AAADEdEVYdE1hdGhNTAA8bWF0aCB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMTk5OC9NYXRoL01hdGhNTCIgc3R5bGU9ImZvbnQtZmFtaWx5OkFyaWFsIj48bXN0eWxlIG1hdGhzaXplPSIxMnB4Ij48bW8+KDwvbW8+PG1uPjE8L21uPjxtbz4rPC9tbz48bWk+eDwvbWk+PG1zdXA+PG1vPik8L21vPjxtbj4xMDwvbW4+PC9tc3VwPjwvbXN0eWxlPjwvbWF0aD6Xv7umAAAAAElFTkSuQmCC\" style=\"max-width: none;\"> the coefficient of <img align=\"middle\" alt=\"begin mathsize 12px style x to the power of 5 end style\" class=\"Wirisformula\" data-mathml=\"«math style=¨font-family:Arial¨ xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mstyle mathsize=¨12px¨»«msup»«mi»x«/mi»«mn»5«/mn»«/msup»«/mstyle»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAPCAYAAADtc08vAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAOJ5y/mQAAAJVJREFUeNpjYCAe/MeCSQIka6C6AX+A+BIQzwbiRiDmocQwWyBeR6mLfsAYHEB8DohlkSQFgfgMVA4b0ADik8gCpkB8EIk/DYgDcETjJyCeD8SS6KY2A3EeEBsA8RZy/MQEdTYIK5FjAMjfF6DhwUSOATOBOAiIy6HxTBJwBOINSPyD0IAlCnBA/S2OJCYL9QoHA60BAHuLHwpOCp+hAAAAm3RFWHRNYXRoTUwAPG1hdGggeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzE5OTgvTWF0aC9NYXRoTUwiIHN0eWxlPSJmb250LWZhbWlseTpBcmlhbCI+PG1zdHlsZSBtYXRoc2l6ZT0iMTJweCI+PG1zdXA+PG1pPng8L21pPjxtbj41PC9tbj48L21zdXA+PC9tc3R5bGU+PC9tYXRoPguyEiAAAAAASUVORK5CYII=\" style=\"max-width: none;\"> is:",
+    "q_hi": "",
+    "section": "Discipline2",
+    "solution": "",
+    "topic": "Mixed Topic"
+  },
+  {
+    "ans": "2",
+    "level": "Medium",
+    "op_en": [
+      "7",
+      "6",
+      "3",
+      "4"
+    ],
+    "op_hi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "q_en": "In Pascal's triangle, the middle triangle, the middle term of the 4th row is:_____",
+    "q_hi": "",
+    "section": "Discipline2",
+    "solution": "",
+    "topic": "Mixed Topic"
+  },
+  {
+    "ans": "3",
+    "level": "Hard",
+    "op_en": [
+      "45",
+      "<img align=\"middle\" alt=\"begin mathsize 12px style square root of 243 end style\" class=\"Wirisformula\" data-mathml=\"«math style=¨font-family:Arial¨ xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mstyle mathsize=¨12px¨»«msqrt»«mn»243«/mn»«/msqrt»«/mstyle»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACoAAAASCAYAAAAt6kybAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAQ3ZOC+gAAAYZJREFUeNpjYCAeKACxAMMgBzpA/H+AMVGgGYh/A7HIYA/Ry0DcPdgdaQINTZfB7tAGIL6PRdwHiA8D8S8gPg7EPUDMQcCscCzpzQ+Iz0DNeQfES4FYmhyHghw5GYv4FiC2B2ImKL8EiCfhMUcW6iB0h24AYnMkc5KB+CipjlSBGmxDhFpQaH7BIccEDX09InIwEzR0SQLtQPyYiCgFARYg/oan1CiAsgk5FBTy53BJ4gqx8ziiHRvIAOL5WMTtocmEgYBDQSHpCMTroOU21swC0lyGJbcTG+160HQljCYuCk2XwgQcCivUQbEniS9X/4cWQeJI4jVA/BwapfiAOTRDiGKRA4nbYnEUrhC1BOI1UDOxAnFoAr6Kltv7CTgSZPBcPJ4hp0oEefgWPksLkJIArG53IJDo15FR3BGT678QMuQiNAlMgYYovmjfDcQaVHDoFqSo5gPiLgLlMUoSABk2mwgLyWnl/MdSw4Ey3B8gfgrErUTkCzAohhpmwTAEQDOxvqIXAAB0N4Azv2QZewAAAJV0RVh0TWF0aE1MADxtYXRoIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8xOTk4L01hdGgvTWF0aE1MIiBzdHlsZT0iZm9udC1mYW1pbHk6QXJpYWwiPjxtc3R5bGUgbWF0aHNpemU9IjEycHgiPjxtc3FydD48bW4+MjQzPC9tbj48L21zcXJ0PjwvbXN0eWxlPjwvbWF0aD7aPbpNAAAAAElFTkSuQmCC\" style=\"max-width: none;\">",
+      "27",
+      "81"
+    ],
+    "op_hi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "q_en": "<div style=\"text-align: justify;\">What is the geometric mean of the numbers <img align=\"middle\" alt=\"begin mathsize 12px style 3 comma space 9 comma space 27 comma space 81 space &amp; space 243 end style\" class=\"Wirisformula\" data-mathml=\"«math style=¨font-family:Arial¨ xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mstyle mathsize=¨12px¨»«mrow»«mn»3«/mn»«mo»,«/mo»«mo»§#160;«/mo»«mn»9«/mn»«mo»,«/mo»«mo»§#160;«/mo»«mn»27«/mn»«mo»,«/mo»«mo»§#160;«/mo»«mn»81«/mn»«mo»§#160;«/mo»«mo»§#38;«/mo»«mo»§#160;«/mo»«mn»243«/mn»«/mrow»«/mstyle»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAH4AAAAOCAYAAADpAahJAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAALV/ZLFgAAAv1JREFUeNrdWE9knEEU/4wVPVSptaJqlaiqqChVK6Kil4pae8ilqqqql4qqqtJD5RBRqnqqCjlEThUi1qo9lBx6iFglIoceKkTVqqpSVbFWLNs37W8Zn/lm3vwpX/Pjx+63s2/em9+8N2++JPmLGnGLeED8QXxNPJn4YZS4RuzA5oSHjSpxA/60iC+IR1Jj+ga6QNqdJ37GfL+IS8QTqXFniLPEHUf7E7D9HescI/Y0rmniZmnaIFaIAt/vEDc9BLtMfEss4/sl4kfiiKOdJnFS8ecR8SXjf1KcZce55IJcVOYS8HtbM27GY2PtEs+C7X8QexkC92NoKrBTXLGtiD7AFPFVEga54/cZ4+rEoqPtrDg7Gc/7HvYLWNNO5NgFqsMYwy+WpmXNjuegmzHhbqDwBcaiPSBOe9heRTaqkBVgIZLw71CKbxCfR459HnFz/DJqKlCuZeac83ByCWe8iuGMDeGCu5YSPoLS5gOB83CcOIT4bxvGuwg/DL96AVUvK/ZJHAs2v6yaDhqjtqaxcQn0jXKmy02w7nlsDDCGs6loyarRgDmqyPw6epSrEYS/QNwjPsaa1iyV0SX2Es71osUvtqYCO38NjYEPymiEuuhK5QL89LRVQcaUDGNuotL44jpxMfXsoSHrucK/V24094kf8HkIXX5I7A00oAkz49maliKcyyp2PP4zDkELlo2653FrUNHWXJek3a+Bwh9o/JQd+hXGRrXF7nOVZWkqmF0094q34FE16oxx0yjNIegqV55Eycr9QOE/QUD1Xt1Fg1WJELurX1pNm4ozx9B9pu+OK3gJcdRgvKEEKxfvFnb6aUc765pOW4cVlGrT77a5ZGY9gb+DLnrO0IFzhZ9BST+vNKAtPBMRYrf5xdH0T3Ozhe7zC/Gppsw0Ydy0iDWcZT2UymVNEBw73DL2jXjc8jLENpcs88/gbw/CzDJ9suEe7PUg6Cm815iLELtNeI6mbLSUzAhBLDt5m+tQoorSmRc7eZvr0KKYMzt5m+u/wm9gZOZzSm4OJQAAASd0RVh0TWF0aE1MADxtYXRoIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8xOTk4L01hdGgvTWF0aE1MIiBzdHlsZT0iZm9udC1mYW1pbHk6QXJpYWwiPjxtc3R5bGUgbWF0aHNpemU9IjEycHgiPjxtbj4zPC9tbj48bW8+LDwvbW8+PG1vPiYjeEEwOzwvbW8+PG1uPjk8L21uPjxtbz4sPC9tbz48bW8+JiN4QTA7PC9tbz48bW4+Mjc8L21uPjxtbz4sPC9tbz48bW8+JiN4QTA7PC9tbz48bW4+ODE8L21uPjxtbz4mI3hBMDs8L21vPjxtbz4mYW1wOzwvbW8+PG1vPiYjeEEwOzwvbW8+PG1uPjI0MzwvbW4+PC9tc3R5bGU+PC9tYXRoPuqlzn4AAAAASUVORK5CYII=\" style=\"max-width: none;\"> ?</div>",
+    "q_hi": "",
+    "section": "Discipline2",
+    "solution": "",
+    "topic": "Mixed Topic"
+  },
+  {
+    "ans": "2",
+    "level": "Hard",
+    "op_en": [
+      "<img align=\"middle\" alt=\"1 over 24\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mfrac»«mn»1«/mn»«mn»24«/mn»«/mfrac»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABoAAAAlCAYAAABcZvm2AAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAZpE86XgAAANlJREFUeNpjYCAeyAJxGhAvB+JvDDQEl4D4AhD/h2KaAiZ6WcQwatGoRcPXInEki8Rp7RN0PApGwRAA/2mER8EoGGTAEoivAfEvIH4OxB1AzEJAzypSk7MgksFKUAtBBvTg0RNNTr5JRHO9JdSAL3iaymeolUH/42lv7wZiPWpYxAY1YBMWuRIgzqBWWyIcaoA5mrgOEC+lZqPlHBDPxOLLHdCEQxWLCqARzYEm3ofFh2RbZA21RJiMKoVoIA9NTcJoeeUaNRuWkkD8GIdLJ1HTolt4gsSLXIsA+rJ4rlcyu5YAAABjdEVYdE1hdGhNTAA8bWF0aCB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMTk5OC9NYXRoL01hdGhNTCI+PG1mcmFjPjxtbj4xPC9tbj48bW4+MjQ8L21uPjwvbWZyYWM+PC9tYXRoPm+qqacAAAAASUVORK5CYII=\" style=\"max-width: none;\">",
+      "<img align=\"middle\" alt=\"negative 1 over 24\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mo»-«/mo»«mfrac»«mn»1«/mn»«mn»24«/mn»«/mfrac»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACkAAAAlCAYAAADfosCNAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAZpE86XgAAAPJJREFUeNpjYKAPkAXiNCBeDsTfGAYpuATEF4D4PxQPWsA0FBzJMOrIUUeOOnLUkQMHxJEcKT6YQxAdj4JRMApGAYFigpii4z+NMFUdOQpGwSgYCcASiK8B8S8gfg7EHUDMQkDPKnqWGoJIjlKCOhZkeQ8ePdH0LtoS0ULNEmr5FxzqQcMvZwZD+QuyHNf4z24g1htoR7JBLd+ERa4EiDMGQ98nHGq5OZq4DhAvHSwdtHNAPBNL6O6AZrIBd2QBNFNwoIn3YQnZAXGkNdSBwmS0tugC5KG5VhitLLw2WAYNJIH4MY4QmjRYHHkLTzR6ketIAHFejphQOdMcAAAAbXRFWHRNYXRoTUwAPG1hdGggeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzE5OTgvTWF0aC9NYXRoTUwiPjxtbz4tPC9tbz48bWZyYWM+PG1uPjE8L21uPjxtbj4yNDwvbW4+PC9tZnJhYz48L21hdGg+R34kQQAAAABJRU5ErkJggg==\" style=\"max-width: none;\">",
+      "<img align=\"middle\" alt=\"1 over 8\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mfrac»«mn»1«/mn»«mn»8«/mn»«/mfrac»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAAlCAYAAACkhgJBAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAZpE86XgAAANhJREFUeNpjYMAOZIE4DYiXA/E3BjLBJSC+AMT/oZhswEQNQxhGDRnuhogjGSJOiQvQ8SgY0uA/GXgUDFkQDcQngfgHEP+C1kHJpBiQBU0DE4CYA4hZgLgHKlZArCGvoRqYsFRkH4g15C5UQxBa3QwSW0WsIV7QcPgGDQceID4IxAuBmIuUcLEF4odQ218CsQe5hfRiqPNhBrmRYoAWVFM0lB8L9R56OOEFF7DETihU7CGxhtyAahDEEsVnSEmtsOgUhCa2Vmga0SA11YK89Qea9HdDwworAAB7bll1N+MLvgAAAGJ0RVh0TWF0aE1MADxtYXRoIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8xOTk4L01hdGgvTWF0aE1MIj48bWZyYWM+PG1uPjE8L21uPjxtbj44PC9tbj48L21mcmFjPjwvbWF0aD71CKumAAAAAElFTkSuQmCC\" style=\"max-width: none;\">",
+      "<img align=\"middle\" alt=\"negative 1 over 8\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mo»-«/mo»«mfrac»«mn»1«/mn»«mn»8«/mn»«/mfrac»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAlCAYAAAAjt+tHAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAZpE86XgAAAO9JREFUeNpjYKA+kAXiNCBeDsTfGAYAXALiC0D8H4oHBDANtAMYRh0w6oBRBwy0A8SRHCA+UD5Hx6NgFIwCsrMPMVnqPxmYqg4YBaNgFCCDaCA+CcQ/gPgXtI+QTC/Ls6DZdAIQcwAxCxD3QMUK6OGA11DLmLB0Uj7QwwF3oZYFofUVQWKr6OEAL2i8f4PGOw8QHwTihUDMRa90YAvED6G+fgnEHgPRIF0MDXKYI9zoZbkW1MJoKD8WGiXo6YJm4AKWXBAKFXtIDwfcgFomiCUbnqFXKQjLcoLQgqgVWgZo0LM0BEXFH2hxvBuaNrACAIFIb1/z/NY/AAAAbHRFWHRNYXRoTUwAPG1hdGggeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzE5OTgvTWF0aC9NYXRoTUwiPjxtbz4tPC9tbz48bWZyYWM+PG1uPjE8L21uPjxtbj44PC9tbj48L21mcmFjPjwvbWF0aD4jPdOeAAAAAElFTkSuQmCC\" style=\"max-width: none;\">"
+    ],
+    "op_hi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "q_en": "If f(x) is the product of 4th term in the expansion of log (1+x) and 4th term in the expansion <img align=\"middle\" alt=\"begin mathsize 12px style e to the power of x end style\" class=\"Wirisformula\" data-mathml=\"«math style=¨font-family:Arial¨ xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mstyle mathsize=¨12px¨»«msup»«mi»e«/mi»«mi»x«/mi»«/msup»«/mstyle»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAANCAYAAAB2HjRBAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAMyZLetQAAAI5JREFUeNpjYCAMOID4MBCrQPniQHwQKk4UUIEawAbEq4BYjYFEEAnEF4A4loEMUALEN4BYC5tkPBA/BuJzQCyJJqcD9SfI2VuAWBTdSROAmAmIM4B4PlqAnQRiWST/70AOsHNIkiADPpDin19A/B8J/yFVMwsDmeAoEHuRqxmk8RoQy5NrgB/UAJi/aQsAalobcK+gIT8AAACbdEVYdE1hdGhNTAA8bWF0aCB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMTk5OC9NYXRoL01hdGhNTCIgc3R5bGU9ImZvbnQtZmFtaWx5OkFyaWFsIj48bXN0eWxlIG1hdGhzaXplPSIxMnB4Ij48bXN1cD48bWk+ZTwvbWk+PG1pPng8L21pPjwvbXN1cD48L21zdHlsZT48L21hdGg+hODv7gAAAABJRU5ErkJggg==\" style=\"max-width: none;\">, then the value of f(1) is:",
+    "q_hi": "",
+    "section": "Discipline2",
+    "solution": "",
+    "topic": "Mixed Topic"
+  },
+  {
+    "ans": "1",
+    "level": "Hard",
+    "op_en": [
+      "<img align=\"middle\" alt=\"open curly brackets ϕ close curly brackets\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mfenced open=¨{¨ close=¨}¨»«mi»§#981;«/mi»«/mfenced»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAASCAYAAABM8m7ZAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAOJ5y/mQAAASlJREFUeNpjYCAf/IdiqgEVIJ4PxB+oYPE7qFkqhCw1BeJPQLwDiJWoYLE81CyQmeb4FF6CGiZMxaAWhqo7R4lhkkC8HIi/IakFsZcCsTgBc/+QazHI5Y+R1KDj+3hCimDo4HNZB1T+DBCLIhkGYp+EsjvIsZgHKrkbh/w1qLwlFsPMoewbOPQehMrzoEtIA/EWID4K9QE28AuqmQmLxUxQ9g8ceqWhDt8ATScoQTEfyVBqWwxTMxc9yCWhrrkGdR2+oDYnI6hFocGN4WPkOD5MQeJqxqF3B1Sej5xUTUl2+kNMdiKmAPmBpPYHtACRpKSUI6XGIVUt3pLrHFK80bWsNoVWh3uBWIMKFqtBExaoejQm5EJQdTgTiF8TUPeDQL4FgZdQszCqWACs+Y9WIieDeAAAAHV0RVh0TWF0aE1MADxtYXRoIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8xOTk4L01hdGgvTWF0aE1MIj48bWZlbmNlZCBjbG9zZT0ifSIgb3Blbj0ieyI+PG1pPiYjeDNENTs8L21pPjwvbWZlbmNlZD48L21hdGg+QsfkHAAAAABJRU5ErkJggg==\" style=\"max-width: none;\">",
+      "<img align=\"middle\" alt=\"open curly brackets x colon space x equals nπ divided by 2 comma space space n element of Z close curly brackets\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mfenced open=¨{¨ close=¨}¨»«mrow»«mi»x«/mi»«mo»:«/mo»«mo»§#160;«/mo»«mi»x«/mi»«mo»=«/mo»«mi»n§#960;«/mi»«mo»/«/mo»«mn»2«/mn»«mo»,«/mo»«mo»§#160;«/mo»«mo»§#160;«/mo»«mi»n«/mi»«mo»§#8712;«/mo»«mi»Z«/mi»«/mrow»«/mfenced»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJ8AAAAUCAYAAACTbO/7AAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAQ3ZOC+gAAA6lJREFUeNrtWkFkXEEYftaKqghr5RArlhWrqmpZK6IqeonaQ6xStaKHClWRQ/RWFVW9VFQOOZSKyqGiRK2qHkL1sCIq1Kq1onqplUNViKqKWOX1f3zLdDrz3sy8WS+7fR//YWf+N++fmW/++f9/n+PEsI3zJC7Jxz6yuUCyTtIkOSb5jTnE6DOsYOMW+8Teh7BXJDH6CAmSbyQdklQf2HsTJPtJ8ojkCsmZKA2aINkg+RFzSRtXsZm1PjkobZIThAq9whH4NBGkWMIp2CbJxVzSxhbIVxb0TZHswyt63vExSTJCW6/B1ieaz7kKsszoZ8Enj1eTfgM38XD6PyLMKElLcVFlxHJwzXaJlRD0dcmWAwlNNt4mXsKGogH5XpAMc+1l9L0VPJNGX0OF1acFroaY4r7me2TkW0T/iqDvFuflpqD7K8K1/QobEgZ7kuXaxnG9tn0cl4ssOiYfgyUE2wnJWC7ioiDsQfeCxtyOI1zbjuGa8ocvibmfBHjRwH2SsZM3qiIwcpfkgyaZKj1M7T0SrOJEelfEGjb7gGRaY4FUyKdb2xuC/psI59qxdKCfQveO4t4LMYzOd4K+s8hYvP7rJFXoFRi3vQMC+kFlHFs4ZCa8gPnN4HfLMvl0a3s3oD8Z4VxNr10WVYyxqaBbhy4fKzoZBIq7CMBlaMAztkSDaEB1nDDXrt812tEkXyegZKFb2/Pm/8xy2UTX9m7CUTJ8Zx4ZrCoXMki0XpOM8UZuKJyCy9Cth1ws1XHCxnyyDbGlb1LbW8L1bLuYq2u7aamle4N9RsKU1zwkz3mbxsDIfTBUhgITK8yEWChb49jeEJGnCPqfcysgC2ZxCcRLn4K5JhATeiHFOc13bWLcqqS/Iilp1UWej435diQDJtE3C8Y3HbMiqa1xbG9IUpKBttGe0azt8cgivmWJN4cDz+qUDa9CE6895/z999o0kiE/3MYzaz4HTBRnbuO5Ed1sdxysLTGeywWLRzSyXZVxbCHFLH7Kp62LItqbXPsqE1TPcuTxq+3xN8uBJFxgN3HBkRdqbc6VxQONUKaIw7YncRhpkEyUgAR+KSN7KW+QyEiVbFdlnF7VCIPet4y2ecHG1rB4NcPa3hdHrWhtSj435NpeRAL0CZ5f9kxbMf6+a1rniz+liRZeGebVAM4r8B+OBpRGYw5EgiHEhfMDNi+l/3a9WMz7lOq9QQYUIzy82PDegM0pjzjwyFH4iCGH+/8w5kIMC/gOPv3zid4fZPTqLsiHwvMAAAEbdEVYdE1hdGhNTAA8bWF0aCB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMTk5OC9NYXRoL01hdGhNTCI+PG1mZW5jZWQgY2xvc2U9In0iIG9wZW49InsiPjxtcm93PjxtaT54PC9taT48bW8+OjwvbW8+PG1vPiYjeEEwOzwvbW8+PG1pPng8L21pPjxtbz49PC9tbz48bWk+biYjeDNDMDs8L21pPjxtbz4vPC9tbz48bW4+MjwvbW4+PG1vPiw8L21vPjxtbz4mI3hBMDs8L21vPjxtbz4mI3hBMDs8L21vPjxtaT5uPC9taT48bW8+JiN4MjIwODs8L21vPjxtaT5aPC9taT48L21yb3c+PC9tZmVuY2VkPjwvbWF0aD6SQaDxAAAAAElFTkSuQmCC\" style=\"max-width: none;\">",
+      "<img align=\"middle\" alt=\"open curly brackets 0 comma space pi divided by 2 close curly brackets\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mfenced open=¨{¨ close=¨}¨»«mrow»«mn»0«/mn»«mo»,«/mo»«mo»§#160;«/mo»«mi»§#960;«/mi»«mo»/«/mo»«mn»2«/mn»«/mrow»«/mfenced»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAAAUCAYAAAAuoXvLAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAQ3ZOC+gAAAmVJREFUeNrtWM9HRFEUHmOMFokxkjESYySjXZL0D2QWSZsWaZF2mcVsk1ZtkrRo1yKt2iTJSIYxMpJEkpEW7ZJkxEiSPI/XuXzDc7v33fvum35MdfgW950z99zzvXvP/eaFQr/DMgSHcB76N6GtgKDcPxUfLUx4IFiE2FckTBO2CE8tQtAods9egDnqqDmtChwkPBOKhJTA30ko4G2VCYkfQNAOCMoKfMOEa6yX7bJlQkQQ14OaWe1DXsmqSBaX+E+BNsIh4RJb3K8xoq+QSwdZyTwxV/Fhga9BSApEsblWJXPF4b/wWnhjQSKbhG8C43GMZw0IWvBBjhdBOfhXBL4ZbrcMI/ZFUb9tStAufBmO8V0DgvKEJbx1UU42ftOY5wyx/Zp5WeyrYf1KBu/hj7huD6cJzdyUIL/aJ4r4gilB7XCWJH5LUoj1TQT51T6NFuHVhCuIaecdScIB4QQNVGR2gKNgQpDVZO3Dmu+GIiaJZr7P39AOdEBYoRUcV0wE49onEeQ0UfvkcRTbNIXnJp8/AdauwaJXk24w2x2gSat2i60gaEdxu7ltBOTENeVHRbSD3D3oWPLjae6an8B4hhNcWQhOHYtIbpZbPE/61D4iAVjiyJnCRhBZEXk7TG6xMIRkGTfCEcbuRc5hjgNNggYQX+Wer+H5NmGMK9BL+/Cn4k6iq9Z99FlfZz8BYixswy7O75egRYnYjKG/2II+o6t9bgyEpxOUIN3rNGhf+i5TKukLBHUaJojizM+2IDla/8UGoYxZn+kzSMKO4HwLktOLBl1HX/S0FATV4x/66FZDzR8+8bwDH5vtWO6LQesAAAC5dEVYdE1hdGhNTAA8bWF0aCB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMTk5OC9NYXRoL01hdGhNTCI+PG1mZW5jZWQgY2xvc2U9In0iIG9wZW49InsiPjxtcm93Pjxtbj4wPC9tbj48bW8+LDwvbW8+PG1vPiYjeEEwOzwvbW8+PG1pPiYjeDNDMDs8L21pPjxtbz4vPC9tbz48bW4+MjwvbW4+PC9tcm93PjwvbWZlbmNlZD48L21hdGg+GDa5pQAAAABJRU5ErkJggg==\" style=\"max-width: none;\">",
+      "<img align=\"middle\" alt=\"open curly brackets x colon space x equals nπ comma space space n element of Z close curly brackets\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mfenced open=¨{¨ close=¨}¨»«mrow»«mi»x«/mi»«mo»:«/mo»«mo»§#160;«/mo»«mi»x«/mi»«mo»=«/mo»«mi»n§#960;«/mi»«mo»,«/mo»«mo»§#160;«/mo»«mo»§#160;«/mo»«mi»n«/mi»«mo»§#8712;«/mo»«mi»Z«/mi»«/mrow»«/mfenced»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIoAAAAUCAYAAABS66VXAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAQ3ZOC+gAAAw1JREFUeNrtWj1ok0EYDiEUkVIooUOREiiliIgEQnAQEZcOHUooiARxKoh0EjeRIuIqHToIItJBiosUB4eCdAilSJcgIRQ3CU5SKCJSJBQ+35MncJ533/fefRe/mNwDz5D7ee/nfe7uvfuSywX8bygTXxBbxBPiKTEK0xIg4zFEoWNAwG/chiC+E58QrxPPZNmhOeIm8VvwzcAgT+wQfxIv9LGdY/h+LqlgFYrdIc4G/wwMlrGbPLWsFzG4JpUvwfdCA5fjDLdQuThCTpgitpmTKriYQR9fo+2Kg1BeEceV9EXkvdPUKSKvyVHgoCCyoCseWraThVA+o+28w/yVlLQZHDGdmA0hwm0qCEXCPQSHeYOtCLFBlug6jl8VdYF4gPFU0ujApCS1UzVNJ/eJHywdX+vjFe8icR2rR2y9G3h3+EK8ZjFBvoXi0q+up4XyDGXvMv2kxTgy32vyziIaFvk3iHWUK0vb4R7EEgeOHV84kga8ivEt4Hc7Q6G49Mv16JFRh40tRtkGyqqxTe4cApt9BHcmNLHjtHVGLMC1k+boiTtKupZC6Xq+6tq20wtmq45tzuMmw/Wb0MMh8S1xWu3kJkOxV1G2kXKyuHbSxigmh/gqnzb24rbjej3u7eKfiD8gGBtBv1T7NA31HEJNJpSl83IhxUT5suPbIbpVfToAQskjhhFH4HnLtrZgt27IrxmeDBq6HUWOUfYMBgvIW4I6W0izhS87vh1SQPqJkt5BurqASrhVVP+BUARu5f58wheB71hCO3dQZ8OQf8UQF+2g3oTtrWcGCqtKO0IExU1Y3Ho4dnxhUpr8yZi0HipIbynp61IQuCS9PazGPFr57JeMRxZHbwW744FhIRYhCF1wm7iLmhpVO6TrJOfWw7HTrzeYpPbWkLaicew2Jm9bSncVSpRyHi4RnxM/Yvcz1ekwY7v7ru8o4ZM1HzeJb4ZwXIkvs00UmgoaSMQY3oBWhmxcrG89InYQfy/YdYiuRw3iNvBgyMY0j7jlOMf4ADmLM/AoaGHk8BW+/+svJr8AJI+o+L6q7nkAAAEHdEVYdE1hdGhNTAA8bWF0aCB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMTk5OC9NYXRoL01hdGhNTCI+PG1mZW5jZWQgY2xvc2U9In0iIG9wZW49InsiPjxtcm93PjxtaT54PC9taT48bW8+OjwvbW8+PG1vPiYjeEEwOzwvbW8+PG1pPng8L21pPjxtbz49PC9tbz48bWk+biYjeDNDMDs8L21pPjxtbz4sPC9tbz48bW8+JiN4QTA7PC9tbz48bW8+JiN4QTA7PC9tbz48bWk+bjwvbWk+PG1vPiYjeDIyMDg7PC9tbz48bWk+WjwvbWk+PC9tcm93PjwvbWZlbmNlZD48L21hdGg+opOt9wAAAABJRU5ErkJggg==\" style=\"max-width: none;\">"
+    ],
+    "op_hi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "q_en": "<img align=\"middle\" alt=\"Let spaceA equals open curly brackets x colon space x space is space a space solution space of space sin space x equals 0 close curly bracketsB equals open curly brackets x colon space x space is space a space solution space of space cos space x equals 0 close curly bracketsC equals open curly brackets x colon space x space is space a space solution space of space tan space x equals 0 close curly bracketssubscript then space left parenthesis A union C right parenthesis intersection B space is colon end subscript\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mi»Let«/mi»«mo»§#160;«/mo»«mspace linebreak=¨newline¨/»«mi»A«/mi»«mo»=«/mo»«mfenced open=¨{¨ close=¨}¨»«mrow»«mi»x«/mi»«mo»:«/mo»«mo»§#160;«/mo»«mi»x«/mi»«mo»§#160;«/mo»«mi»is«/mi»«mo»§#160;«/mo»«mi»a«/mi»«mo»§#160;«/mo»«mi»solution«/mi»«mo»§#160;«/mo»«mi»of«/mi»«mo»§#160;«/mo»«mi»sin«/mi»«mo»§#160;«/mo»«mi»x«/mi»«mo»=«/mo»«mn»0«/mn»«/mrow»«/mfenced»«mspace linebreak=¨newline¨/»«mi»B«/mi»«mo»=«/mo»«mfenced open=¨{¨ close=¨}¨»«mrow»«mi»x«/mi»«mo»:«/mo»«mo»§#160;«/mo»«mi»x«/mi»«mo»§#160;«/mo»«mi»is«/mi»«mo»§#160;«/mo»«mi»a«/mi»«mo»§#160;«/mo»«mi»solution«/mi»«mo»§#160;«/mo»«mi»of«/mi»«mo»§#160;«/mo»«mi»cos«/mi»«mo»§#160;«/mo»«mi»x«/mi»«mo»=«/mo»«mn»0«/mn»«/mrow»«/mfenced»«mspace linebreak=¨newline¨/»«mi»C«/mi»«mo»=«/mo»«mfenced open=¨{¨ close=¨}¨»«mrow»«mi»x«/mi»«mo»:«/mo»«mo»§#160;«/mo»«mi»x«/mi»«mo»§#160;«/mo»«mi»is«/mi»«mo»§#160;«/mo»«mi»a«/mi»«mo»§#160;«/mo»«mi»solution«/mi»«mo»§#160;«/mo»«mi»of«/mi»«mo»§#160;«/mo»«mi»tan«/mi»«mo»§#160;«/mo»«mi»x«/mi»«mo»=«/mo»«mn»0«/mn»«/mrow»«/mfenced»«msub»«mspace linebreak=¨newline¨/»«mrow»«mi»then«/mi»«mo»§#160;«/mo»«mo»(«/mo»«mi»A«/mi»«mo»§#8746;«/mo»«mi»C«/mi»«mo»)«/mo»«mo»§#8745;«/mo»«mi»B«/mi»«mo»§#160;«/mo»«mi»is«/mi»«mo»:«/mo»«/mrow»«/msub»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,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ZSIvPjxtaT5CPC9taT48bW8+PTwvbW8+PG1mZW5jZWQgY2xvc2U9In0iIG9wZW49InsiPjxtcm93PjxtaT54PC9taT48bW8+OjwvbW8+PG1vPiYjeEEwOzwvbW8+PG1pPng8L21pPjxtbz4mI3hBMDs8L21vPjxtaT5pczwvbWk+PG1vPiYjeEEwOzwvbW8+PG1pPmE8L21pPjxtbz4mI3hBMDs8L21vPjxtaT5zb2x1dGlvbjwvbWk+PG1vPiYjeEEwOzwvbW8+PG1pPm9mPC9taT48bW8+JiN4QTA7PC9tbz48bWk+Y29zPC9taT48bW8+JiN4QTA7PC9tbz48bWk+eDwvbWk+PG1vPj08L21vPjxtbj4wPC9tbj48L21yb3c+PC9tZmVuY2VkPjxtc3BhY2UgbGluZWJyZWFrPSJuZXdsaW5lIi8+PG1pPkM8L21pPjxtbz49PC9tbz48bWZlbmNlZCBjbG9zZT0ifSIgb3Blbj0ieyI+PG1yb3c+PG1pPng8L21pPjxtbz46PC9tbz48bW8+JiN4QTA7PC9tbz48bWk+eDwvbWk+PG1vPiYjeEEwOzwvbW8+PG1pPmlzPC9taT48bW8+JiN4QTA7PC9tbz48bWk+YTwvbWk+PG1vPiYjeEEwOzwvbW8+PG1pPnNvbHV0aW9uPC9taT48bW8+JiN4QTA7PC9tbz48bWk+b2Y8L21pPjxtbz4mI3hBMDs8L21vPjxtaT50YW48L21pPjxtbz4mI3hBMDs8L21vPjxtaT54PC9taT48bW8+PTwvbW8+PG1uPjA8L21uPjwvbXJvdz48L21mZW5jZWQ+PG1zdWI+PG1zcGFjZSBsaW5lYnJlYWs9Im5ld2xpbmUiLz48bXJvdz48bWk+dGhlbjwvbWk+PG1vPiYjeEEwOzwvbW8+PG1vPig8L21vPjxtaT5BPC9taT48bW8+JiN4MjIyQTs8L21vPjxtaT5DPC9taT48bW8+KTwvbW8+PG1vPiYjeDIyMjk7PC9tbz48bWk+QjwvbWk+PG1vPiYjeEEwOzwvbW8+PG1pPmlzPC9taT48bW8+OjwvbW8+PC9tcm93PjwvbXN1Yj48L21hdGg+Fs4MwAAAAABJRU5ErkJggg==\" style=\"max-width: none;\">",
+    "q_hi": "",
+    "section": "Discipline2",
+    "solution": "",
+    "topic": "Mixed Topic"
+  },
+  {
+    "ans": "4",
+    "level": "Medium",
+    "op_en": [
+      "65",
+      "60",
+      "70",
+      "62"
+    ],
+    "op_hi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "q_en": "The 20th term of an AP with the first term 5 and the common difference 3 is:",
+    "q_hi": "",
+    "section": "Discipline2",
+    "solution": "",
+    "topic": "Mixed Topic"
+  },
+  {
+    "ans": "4",
+    "level": "Medium",
+    "op_en": [
+      "12",
+      "14",
+      "8",
+      "4"
+    ],
+    "op_hi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "q_en": "The 5th term of an arithmetic progression (AP) is 20, and the 9th term is 36. Find the first term of the AP.",
+    "q_hi": "",
+    "section": "Discipline2",
+    "solution": "",
+    "topic": "Mixed Topic"
+  },
+  {
+    "ans": "1",
+    "level": "Easy",
+    "op_en": [
+      "100C50x50",
+      "100C50",
+      "100C49x49+100C50x50",
+      "100C49+100C50"
+    ],
+    "op_hi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "q_en": "The middle term in the expansion of (1+x)<sup>100</sup> is:",
+    "q_hi": "",
+    "section": "Discipline2",
+    "solution": "",
+    "topic": "Mixed Topic"
+  },
+  {
+    "ans": "1",
+    "level": "Medium",
+    "op_en": [
+      "1.1",
+      "1.1046",
+      "1.05",
+      "1.2"
+    ],
+    "op_hi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "q_en": "The approximate value of (1.01)<sup>10</sup> up to two terms of binomial expansion is:",
+    "q_hi": "",
+    "section": "Discipline2",
+    "solution": "",
+    "topic": "Mixed Topic"
+  },
+  {
+    "ans": "1",
+    "level": "Hard",
+    "op_en": [
+      "7",
+      "5",
+      "14",
+      "10"
+    ],
+    "op_hi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "q_en": "The value of r in the relation <img align=\"middle\" alt=\"begin mathsize 12px style blank to the power of 10 C subscript r equals space to the power of 10 C subscript 3 end style\" class=\"Wirisformula\" data-mathml=\"«math style=¨font-family:Arial¨ xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mstyle mathsize=¨12px¨»«mrow»«msup»«maction actiontype=¨argument¨»«mrow/»«/maction»«mn»10«/mn»«/msup»«msub»«mi»C«/mi»«mi»r«/mi»«/msub»«mo»=«/mo»«msup»«mo»§#160;«/mo»«mn»10«/mn»«/msup»«msub»«mi»C«/mi»«mn»3«/mn»«/msub»«/mrow»«/mstyle»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFoAAAATCAYAAAAQ/xqmAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAOJ5y/mQAAAVNJREFUeNpjYCAeqAFxLRBfwCLHAcTrgPgXlOZgGLxg0PtjMRCnAfF/LHKNQJwIZcdD+YMVDBl/YHPgFQL8wQgGvT+wOfALGv8bFjUeQLwBiD8B8WsgngbE0qP+IM2B7wjwZwLxciBWgfJFoVlz2yAL6EHlD2wOPIrGP4fEDgfi3UOk6BhU/sDmwHpolgIBL7RKZAeS3GAP6EHhj/9YMHKzCFRu/QDiLiBmQiv32GhkPy73DGZ/0Az8YhgeYND749NgTwnDxR/roOXdYCk6BtofNAMuQHx8GKRoYv0Bi3RQUXMXiJPp6ciZ0LamDpQPyoI+QLx3iAU2qf4wx9HpoSnIAeJL0Jj+AXWwC1pKcIQO9vwZxIFNyB/IwHQw5ub/0AEf6WFQzPyCNgf/Q1P8oO9ADGXABK08L4wGNH3AjdGApj2wBuIzowFN26GKH9DxEXmQIAB1qYt4WBbZGQAAATV0RVh0TWF0aE1MADxtYXRoIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8xOTk4L01hdGgvTWF0aE1MIiBzdHlsZT0iZm9udC1mYW1pbHk6QXJpYWwiPjxtc3R5bGUgbWF0aHNpemU9IjEycHgiPjxtc3VwPjxtYWN0aW9uIGFjdGlvbnR5cGU9ImFyZ3VtZW50Ij48bXJvdy8+PC9tYWN0aW9uPjxtbj4xMDwvbW4+PC9tc3VwPjxtc3ViPjxtaT5DPC9taT48bWk+cjwvbWk+PC9tc3ViPjxtbz49PC9tbz48bXN1cD48bW8+JiN4QTA7PC9tbz48bW4+MTA8L21uPjwvbXN1cD48bXN1Yj48bWk+QzwvbWk+PG1uPjM8L21uPjwvbXN1Yj48L21zdHlsZT48L21hdGg+pZJ1WQAAAABJRU5ErkJggg==\" style=\"max-width: none;\"> is:",
+    "q_hi": "",
+    "section": "Discipline2",
+    "solution": "",
+    "topic": "Mixed Topic"
+  },
+  {
+    "ans": "4",
+    "level": "Hard",
+    "op_en": [
+      "<img align=\"middle\" alt=\"open parentheses r with 7 on top close parentheses x to the power of 7 minus r end exponent space 2 to the power of r space\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mfenced»«mover»«mi»r«/mi»«mn»7«/mn»«/mover»«/mfenced»«msup»«mi»x«/mi»«mrow»«mn»7«/mn»«mo»-«/mo»«mi»r«/mi»«/mrow»«/msup»«mo»§#160;«/mo»«msup»«mn»2«/mn»«mi»r«/mi»«/msup»«mo»§#160;«/mo»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEsAAAAbCAYAAAA0wHIdAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAZpE86XgAAAo1JREFUeNpjYMAOWoE4hwE3yALiLoZRwNAIxEVEqCsB4tqRHFAuQLwBiX8UiP+jYRUk+TVA7DESA4oFiK8AsTSSWA8QM0HZWkB8HE0PSO01JDUjBmQAcR+aGHIgdEDVoIM+aBk2osAFIFbDIQcKtMdAzIdFTgOqd8QANQIeBpVLq/DIX8IT0MMOJALxNDzyoIBywyM/BYiTR0pgLQTicBxyoKz3kID+cKgZIwJsAWJHChqgtkC8Y6QE1jsg5sIhdxKIdQjo54KaMSLADwr1g2rLb0SqJdTQHfTgDxXM+EWkOkIN3dHAIrGhSwtgCe1tgNz5HGo3y2DPhsQ0dEkBjtBAAKXSczjUCCIFjhJU/X9oKifFHDD4AMQcFDiYA2oGKQBfQ/c/AYwMPkHF/Ai0I1nQUhlIzxcSzQGDw0BsTEFg6ZFR9hBq6JIC/pOp5xs55iwH4gAs4jrQjvJrIJaEJtP9WNQFQM3AlioCsKQKYhq6tAwsNqieTeSYAxrEq8TR/oJ50geIvYD4LhZ1IL31SG2u+VA9oUAcCcS7gdgAqXCn5kirIBmBFQ7VY06OOaBAWEOg/BDHo38dA+Yg4DloLQsaI+Mho6FLSqr6D7WHWABy20xyzWGBFnBMeByDr1b7hKUatoXqOzjImkkFQHyGwgoN3BEOIiOwQLXHUiziBtA2zX8qFuSUAmtoQAlTahCuzjChwNoB1YueUg9DAxJUPV8itwFIRSAPLTuRAyoaWmmRBQ6iNSEECQSWKZbaURZqjilSCgPp30CFBii5QBLaAMbWZptErqFa0MKXCUsz4BaWsuo4VA+uBiUDgQYlvcAtPA1cL0oMzkDrBuDrEGcwjAJwu6sEjzxoErZ6pAUKAC3zwEpNJsuiAAAA9nRFWHRNYXRoTUwAPG1hdGggeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzE5OTgvTWF0aC9NYXRoTUwiPjxtZmVuY2VkPjxtb3Zlcj48bWk+cjwvbWk+PG1uPjc8L21uPjwvbW92ZXI+PC9tZmVuY2VkPjxtc3VwPjxtaT54PC9taT48bXJvdz48bW4+NzwvbW4+PG1vPi08L21vPjxtaT5yPC9taT48L21yb3c+PC9tc3VwPjxtbz4mI3hBMDs8L21vPjxtc3VwPjxtbj4yPC9tbj48bWk+cjwvbWk+PC9tc3VwPjxtbz4mI3hBMDs8L21vPjwvbWF0aD7XFs9qAAAAAElFTkSuQmCC\" style=\"max-width: none;\">",
+      "<img align=\"middle\" alt=\"open parentheses r with 7 on top close parentheses x to the power of r space 2 to the power of 7 minus r end exponent space\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mfenced»«mover»«mi»r«/mi»«mn»7«/mn»«/mover»«/mfenced»«msup»«mi»x«/mi»«mi»r«/mi»«/msup»«mo»§#160;«/mo»«msup»«mn»2«/mn»«mrow»«mn»7«/mn»«mo»-«/mo»«mi»r«/mi»«/mrow»«/msup»«mo»§#160;«/mo»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEsAAAAbCAYAAAA0wHIdAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAZpE86XgAAAodJREFUeNrtWU9EREEYH2slSawOSRJJkiSSJB0iyUpWZKVTuqx0SLokSYdI0iGJTumQSJJ0iA5ZK4kkSYfokA4dIkmSxOv71hfjNX/evLdla/rxY/fNfN+b+e28b37zljExpoFDTI5B4Cz7B5sCjnjoNwqcsFmoNuA29/0Q6LhYwbVvAjtsFCoMvACWcNfmgCH6XA08csVg30uujzVIAOdd13gRZqiPG/NUw6zCGbBS0oai3QILBG1VFGsNKjUTxrq0oWg/Vwj959APXFK0o1DtivZF4IAtYq0C45I2fPRuNPFxymEFdoGtAQxoC3DPFrEegHmStmNgjSY+j3JYgdeA8bhbvvzwmHWG+dvwnoEcbz8sls4wWyVWE50OMO8dmeKwoWH+9Y9hK4mAq+FU0ifCiVNO/R1aTSaG2QRexpXGIzA3wI1yKYcXPNHEuzS+L+xaZRjzbGiYHQ1Nx5VGClgfQKxaw5rh+LiHI1m9OsPMMj2udWBMcL2GDsr3wGJapgeCfjHKIfo1Y4Jf01SsHIrZ8WGYMy4WvsQbk/ivz0l2AqPAa0E/jJ3kPNcKxfQAe4H7wDqqLxEfYsUpptGHYfYKz+NCETY1z32RIn6LfX0JeEq7LL4jyxfkuzCYCOZa9mmYTVaVp3GFqcCFFElUO+GTqyB/HoEwLhlwEsPAk4Ab0Lccprt9iIW7x5rgeh15JCdAAW4moQqz7cgjOwzrxNqjWPdKTZGQuN2fC1aeDmVU63ih+miTyQokXRYiohGrQbA7llKeBm6FYfy2gXEsJqMp8kYL2SJWNRXNkMAGXAlq1RHFyIwg0xhBGa4URjKaTY9jQnKsEB1kE+wfad81qmjHP2HHbRPlAxEzwEqgnmANAAAA9nRFWHRNYXRoTUwAPG1hdGggeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzE5OTgvTWF0aC9NYXRoTUwiPjxtZmVuY2VkPjxtb3Zlcj48bWk+cjwvbWk+PG1uPjc8L21uPjwvbW92ZXI+PC9tZmVuY2VkPjxtc3VwPjxtaT54PC9taT48bWk+cjwvbWk+PC9tc3VwPjxtbz4mI3hBMDs8L21vPjxtc3VwPjxtbj4yPC9tbj48bXJvdz48bW4+NzwvbW4+PG1vPi08L21vPjxtaT5yPC9taT48L21yb3c+PC9tc3VwPjxtbz4mI3hBMDs8L21vPjwvbWF0aD5Stq6qAAAAAElFTkSuQmCC\" style=\"max-width: none;\">",
+      "<img align=\"middle\" alt=\"open parentheses r with 7 on top close parentheses left parenthesis x right parenthesis to the power of r space space\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mfenced»«mover»«mi»r«/mi»«mn»7«/mn»«/mover»«/mfenced»«mo»(«/mo»«mi»x«/mi»«msup»«mo»)«/mo»«mi»r«/mi»«/msup»«mo»§#160;«/mo»«mo»§#160;«/mo»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADYAAAAcCAYAAAAqckyNAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAZpE86XgAAAm9JREFUeNrVWE1ERFEUfsZIkmiVpF2SJEOSFkkkSTIio2XaJC2SNiMjSWSMWaVtWiSStEiGJCMZw0gyWkSLtIwkSTK8zuU8ruP+vJ9Lt4+P996557x37rv3/FzHEWMLuOTIsQjMOv8MG8AVH+NWgZn/4tQo8JS7vwG6hB2c/Bg4brtTcWAV2MY9ywFjeN0NLBEdNvaBG2MlFoB58oz/4G0cQ5HHPWct7oCdEhlz8AXYJJB1oa6V6NR8HNtHRwr5vWJS/hRzwF2FnDk1ppDvAOdtdGwfmJLI2PJ71uin0IZ1OAOOREjGQ8CCjY69ARsksjKwR6PfgDZEyGAy14EVBeumHfuOqM+i5peB0itrOnXUDNj4Iffd+LeDooK61jp2CRwIYWcQda1cir2C8isISmjDwaD2gH/xNqihd2B9hA+pRxseNn12CKpAsonXH1h8T4UxdA3si/Ah9A8VMAWEBU0fblhDh8Ck4HkPFrmvwFZcEleCcUm04XCzXEfG0PYnSe551KGNyI6xXJOW5DfvxZPACeCTYFya5KCaJNftoa0Z4CzwApiQtD1eMGqO4tgENo0ieI61KPRPSMOpirK3KGe9X6OPgOa9vxq2yfyQzJyrmbEY6sY1S5HfP8xeUWGTLsXIhfB0CMdYtDogz1TBI4HLzFV0DMPAc1OOyQpZnWMiJ2ThPo4RmE3GJ/ZxcU24N4IiCfvNGsf6JVFSlKDb0X4/9+dcPDxqClF4B4JX38UEIfpRsLdKirqOllQ0tLuScG+0pKKHOjkf43KSwx1+kiohSrOyySI4aA/F9sCaDztB2xbdZFmFjM+6cdkxeLL8Cx13oa2C88TOAAAAyHRFWHRNYXRoTUwAPG1hdGggeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzE5OTgvTWF0aC9NYXRoTUwiPjxtZmVuY2VkPjxtb3Zlcj48bWk+cjwvbWk+PG1uPjc8L21uPjwvbW92ZXI+PC9tZmVuY2VkPjxtbz4oPC9tbz48bWk+eDwvbWk+PG1zdXA+PG1vPik8L21vPjxtaT5yPC9taT48L21zdXA+PG1vPiYjeEEwOzwvbW8+PG1vPiYjeEEwOzwvbW8+PC9tYXRoPh/ZriYAAAAASUVORK5CYII=\" style=\"max-width: none;\">",
+      "<img align=\"middle\" alt=\"open parentheses r with 7 on top close parentheses x to the power of r space 2 to the power of r space\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mfenced»«mover»«mi»r«/mi»«mn»7«/mn»«/mover»«/mfenced»«msup»«mi»x«/mi»«mi»r«/mi»«/msup»«mo»§#160;«/mo»«msup»«mn»2«/mn»«mi»r«/mi»«/msup»«mo»§#160;«/mo»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADcAAAAbCAYAAADYtRcLAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAZpE86XgAAAmhJREFUeNpjYMAOWoE4hwE3yALiLoYhCBqBuIgIdSVAXDuUPOYCxBuQ+EeB+D8aVkGSXwPEHkPBYyxAfAWIpZHEeoCYCcrWAuLjaHpAaq8hqRm0IAOI+9DEkB3dAVWDDvqgeXBQgwtArIZDDuTJx0DMh0VOA6p30AI1Ag4E5atVeOQv4QmYAQeJQDwNjzzIY2545KcAcfJg9dxCIA7HIQdKig8J6A+HmjEowRYgdqSgwrYF4h2D1XPvgJgLh9xJINYhoJ8LasagBD8o1A8qTb8NVs/9oYIZv0Y9RzywhLZ+QOY+hzYiWAZ7snSEOhrUnDuHQ40gkmeUoOr/Q5uDpJgDBh+AmIMCz3FAzSAGfII61I9AvcuCFosgPV9INAcMDgOxMQWe08PSqMYH/pNhx38sqYMoc5YDcQAWcR1ow/g1EEtCk8F+LOoCoGYwYOkiBaDxyfEcG1TPJnI8B+p0VuKo/2CO8gFiLyC+i0UdSG89Up03H6onFIgjgXg3EBtA86YgGZ4Lh+oxR8uXRJnjBe144koOICyOR/86LJ3Wc9BSGNRH5MFi3hUSPAcyayYOdxE0hwWaQZnweA5fSfkJSzFtC9V3kMKSuACIz1BY4IEbvkFkeA5UWi3FIm4AraP+E+hR4APWUI8JU1pp4mr8EvLcDqhe9JRwGOrxL9D+HqkVsDw0ryJ7LBpaqJEFDqJVCYIEPGeKpfSUhZpjihSD/6EDT3xEukMS2vP/jwVPItdzWtBeABOWYv0Wlrx2HKoHW0z/x1E1EANu4fDYf2jhR9FAUQ8R6npwDBgNegCq90rwyIMGbasHuycAQO6rTzjbDKYAAADVdEVYdE1hdGhNTAA8bWF0aCB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMTk5OC9NYXRoL01hdGhNTCI+PG1mZW5jZWQ+PG1vdmVyPjxtaT5yPC9taT48bW4+NzwvbW4+PC9tb3Zlcj48L21mZW5jZWQ+PG1zdXA+PG1pPng8L21pPjxtaT5yPC9taT48L21zdXA+PG1vPiYjeEEwOzwvbW8+PG1zdXA+PG1uPjI8L21uPjxtaT5yPC9taT48L21zdXA+PG1vPiYjeEEwOzwvbW8+PC9tYXRoPj0xZTEAAAAASUVORK5CYII=\" style=\"max-width: none;\">"
+    ],
+    "op_hi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "q_en": "<img align=\"middle\" alt=\"In space the space Binomial space expansion space of space left parenthesis 1 plus 2 x right parenthesis to the power of 7 comma space the space general space term space T subscript n plus 1 end subscript space is space colonspace\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mi»In«/mi»«mo»§#160;«/mo»«mi»the«/mi»«mo»§#160;«/mo»«mi»Binomial«/mi»«mo»§#160;«/mo»«mi»expansion«/mi»«mo»§#160;«/mo»«mi»of«/mi»«mo»§#160;«/mo»«mo»(«/mo»«mn»1«/mn»«mo»+«/mo»«mn»2«/mn»«mi»x«/mi»«mrow»«msup»«mo»)«/mo»«mn»7«/mn»«/msup»«mo»,«/mo»«/mrow»«mo»§#160;«/mo»«mi»the«/mi»«mo»§#160;«/mo»«mi»general«/mi»«mo»§#160;«/mo»«mi»term«/mi»«mo»§#160;«/mo»«msub»«mi»T«/mi»«mrow»«mi»n«/mi»«mo»+«/mo»«mn»1«/mn»«/mrow»«/msub»«mo»§#160;«/mo»«mi»is«/mi»«mo»§#160;«/mo»«mo»:«/mo»«mspace linebreak=¨newline¨/»«mo»§#160;«/mo»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,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\" style=\"max-width: none;\">",
+    "q_hi": "",
+    "section": "Discipline2",
+    "solution": "",
+    "topic": "Mixed Topic"
+  },
+  {
+    "ans": "3",
+    "level": "Medium",
+    "op_en": [
+      "22.5",
+      "24.5",
+      "16",
+      "20"
+    ],
+    "op_hi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "q_en": "If Arithmetic Mean and Geometric Mean of any two positive numbers are 25 and 20, find the Harmonic Mean of those numbers.",
+    "q_hi": "",
+    "section": "Discipline2",
+    "solution": "",
+    "topic": "Mixed Topic"
+  },
+  {
+    "ans": "2",
+    "level": "Hard",
+    "op_en": [
+      "<img align=\"middle\" alt=\"4 over 81 open parentheses 10 to the power of n minus 9 n minus 10 close parentheses\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mfrac»«mn»4«/mn»«mn»81«/mn»«/mfrac»«mfenced»«mrow»«msup»«mn»10«/mn»«mi»n«/mi»«/msup»«mo»-«/mo»«mn»9«/mn»«mi»n«/mi»«mo»-«/mo»«mn»10«/mn»«/mrow»«/mfenced»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIkAAAAlCAYAAAB2+spcAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAZpE86XgAAA6BJREFUeNrtXE1oE0EUHkIoIl6CSMhBhJ6KSK/iIRQvpfQkgeKhFCmClB6kiBcPRaR4KSLiwZuIiAghiHgQoRTxIKWQQylSitBDEZFSKEUkhFCo75lvyTqZ/clmd2cb3wcfdGY3u/vefDvz3ps0SkVHlXisBAIPTEMgIhKBEeeJdRGJwA8rxFERicALd4lz+FtEIujCJeJrV1tEIvgHQ8SPxIKIROCFx8TLWp+IRGAUhBcFAl/hCASJiWQR2ZIgO7hDvJ8VkcwTl2VMMolljI9VXCSuy1hkGnWMkzWsGjIlLvXfIr4hNnw+e474ntjCdUqWbLhArOFZfxOf49lsIk4fXsExK+By/pqhf5O4EWIJWwNPET/gMzkcu0rcIg7jTWgSJxKwoUj8SXxHPE0cQZvvfcaiSOLwoX7eqA1DlhAcmZALMPA6jlXQvob2TbQP0eYd6jwE0krAhme4z7AWY3HfA8uzSb8+1IPYJRtGcNW2HDEYruGYs1aeRbumOUi/XtzYN1y3hL5vGc86g3zoRhnjlTp+qXaJP4qBP3Asr4ni0EcUSYjkSHsO972cmYv3ubhKfYAl6CnihO/EMYsiCeNDB0MYL+PF46bu4KgGtjxE4AxMAe2CRzuqrTq20D9luGZDm22OsRSxUMbR/hpge5RnisuHpvNTRz8iOfIwsGlwsgpwaj8D4sQfO4hL+K2cRd9qQGzgNyBpiCTIhzqaJ225OcAxJxLPo71nwY7bmLpbyHLu4VluBNiSxlZGXD40LjcnJXAtueoCXkFX2vhiSO2zKJJefDiGFDlTKXCQgTNa+lZBe9aiOPhNfEHcNRSlsiiSXnxoLQX2KqY5RSrHwKJHDWAT6z5PhZ/QzlmwgyuuXN3cxuyoV1sLLlsKPn1JFPri8uE6sjQrMJXlwwZoJRjmxAJFS3UIXqvfEidDBqFKJf8dnDh9GKosPw0lNXGxDUNVLuxegQ4u5NSVIKvIYex9N/icFO+Jatf3ed19hL4F13lh9wq87iFfFcgmeKzngk7a19Ikv8pcTkWfPhcDglhB+ljAuARiR4uA3alStcdoWjCgmEQc0kAcwiXlz8SXqr01LiIR/EUZub9TjZuImJcLBhicFr1SnZ+XYKGMi0gE7hR1D2kwY0Z1dg8rIhKBcqW17uxmCn27IhIBY1t1l46dVLcuIhEo1fkVoyqEwsW0h6pdIxkxxC5+ewWCAcY8lh3+kgqX5ldUd5lW/i/4P8EfAfjCj33rv58AAADYdEVYdE1hdGhNTAA8bWF0aCB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMTk5OC9NYXRoL01hdGhNTCI+PG1mcmFjPjxtbj40PC9tbj48bW4+ODE8L21uPjwvbWZyYWM+PG1mZW5jZWQ+PG1yb3c+PG1zdXA+PG1uPjEwPC9tbj48bWk+bjwvbWk+PC9tc3VwPjxtbz4tPC9tbz48bW4+OTwvbW4+PG1pPm48L21pPjxtbz4tPC9tbz48bW4+MTA8L21uPjwvbXJvdz48L21mZW5jZWQ+PC9tYXRoPnxT/+0AAAAASUVORK5CYII=\" style=\"max-width: none;\">",
+      "<img align=\"middle\" alt=\"4 over 81 open parentheses 10 to the power of n plus 1 end exponent minus 9 n minus 10 close parentheses\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mfrac»«mn»4«/mn»«mn»81«/mn»«/mfrac»«mfenced»«mrow»«msup»«mn»10«/mn»«mrow»«mi»n«/mi»«mo»+«/mo»«mn»1«/mn»«/mrow»«/msup»«mo»-«/mo»«mn»9«/mn»«mi»n«/mi»«mo»-«/mo»«mn»10«/mn»«/mrow»«/mfenced»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJwAAAAlCAYAAAC3fYDwAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAZpE86XgAAA8xJREFUeNrtnE1oE0EUx4cQikguQSTkIEJPpUiv4qEUL6X0JIHiIRQpgpQepIgXD0WkeAki4sGbiIgIIYh4EKEU8SClkEMpIkXooYiIFEoQCSEU4nvkv3SZzn5ks5/x/eCBs7vdZvb9O/M+1igVnDpZTwlCDFQhNhGcEDkXyJoiOCEuNsimRHBCHNwlW8a/RXBCpFwie20bi+CEyBgj+0hWFMEJcfCY7LJ2TAQnREbPwwQhNhEKQiYEt4asVxhN7pDdT4vgVshqGXhoV8l2RDuBqcHXiTJJtp2iVdqNPQkbhqYJnyfGpiHj5XbZLbI3ZG2Xnz1P9p6si/uUIxacikFwF8kamPdfsueYZ5KE6Y8rOJcI3BLbMhzfxdbltU1vwc6QfcDP5Gzb3zeycfxVdcjmUi64EtkvsndkZ8kmMOZ5FBIUXBj+0K+bSmIi6wgmTeQ8Jngd5yoYX8P4JsYtjPlNljzE1nWJPf2Wd6IU3DPcf1yLb/nYg4RXuWH9oScQ60lMgrsV0wETkQbOWfHAOYwb2gMaRCxJr3CHhvuXcex7yisRXv6wMw3fx84f1W+TBZngT5zLawJruYgj7YI71uZk/53W6sw9bO70HGGbfYq46gfZTIKC8+MPizH43vdWM4zpDzjoBLsOgrIcU8S46DAOIqYCrin4+MyDPguFWI2PLxju2dZWwR62W/4ssxh/jeAzheUP0/WxM4zgjh0m2DE8ZKXCab35uccwzrXitX3EcbxaLOHYpkcs5ebcOATn5Q+dTta21COcs7KgPMa/M16nuo3tqYts9R7mdcPjucTRWgzLH8YtNStJQ9lWK3IKUrPMF0PpKI2CG8QfMyibpKos4jXBRS0Nr2C8NCJC4xXiBdmBOl1ATaPgBvFHYmURp8IvU7JNsORQF9pFbMNL9CeMcxkXGncauKq/hx1A7zIUbc+l6HIsbML0xzay7UQwtbb8BrRlTMyKd0oZF1sPsc1bsnmfCYBS0b+PGKY/fLW2qlBlBzfjloVeQfbbb9PhQmFTCf8DOejItXlvpepPVL9HxrHFIxxbtV3nt9/m9Dtq4o+Rh3Wz7HXRoZbu2mtBLYOCgy7rax4JhJBtVuFjT/a17MOe8tYHzGQEwZN5xG1txG3cSvlM9lL1X6ERwQmhw8XZA3VSOZ4LWKsRBF9wevtKnXwlF4tuVgQnRMEkBFbFeFGdvBlQEcEJYbNjyFIXcOxABCeEjfU/lewtE6v80RTBCWFjfbtlHaLjwu9D1a/BTRhiPbd+myD4YgVbK79kx+2tDXW6PSHfMyIMzD82/Nt5dbdr6wAAAPl0RVh0TWF0aE1MADxtYXRoIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8xOTk4L01hdGgvTWF0aE1MIj48bWZyYWM+PG1uPjQ8L21uPjxtbj44MTwvbW4+PC9tZnJhYz48bWZlbmNlZD48bXJvdz48bXN1cD48bW4+MTA8L21uPjxtcm93PjxtaT5uPC9taT48bW8+KzwvbW8+PG1uPjE8L21uPjwvbXJvdz48L21zdXA+PG1vPi08L21vPjxtbj45PC9tbj48bWk+bjwvbWk+PG1vPi08L21vPjxtbj4xMDwvbW4+PC9tcm93PjwvbWZlbmNlZD48L21hdGg+MYmZCQAAAABJRU5ErkJggg==\" style=\"max-width: none;\">",
+      "<img align=\"middle\" alt=\"4 over 81 open parentheses 10 to the power of n plus 1 end exponent minus 9 n plus 10 close parentheses\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mfrac»«mn»4«/mn»«mn»81«/mn»«/mfrac»«mfenced»«mrow»«msup»«mn»10«/mn»«mrow»«mi»n«/mi»«mo»+«/mo»«mn»1«/mn»«/mrow»«/msup»«mo»-«/mo»«mn»9«/mn»«mi»n«/mi»«mo»+«/mo»«mn»10«/mn»«/mrow»«/mfenced»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJ0AAAAlCAYAAABYv+vOAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAZpE86XgAAA9ZJREFUeNrtnE1IVFEUxy+DSMRshohhFhG4Egm30UKkjYirGJAWg4QEIS5Cok0LiZA2EhEt2kVERDBIRIsIRKJFiDALkQgJXEhEhCASIcMgTOcw/5ePO/d9zJt334eeHxzovvd8zr3n77vn4zVKRadO1laCkBA1CE5EJyTCBbKGiE5IklWyURGdkBR3yebwbxGdYJ1LZK9dYxGdYJVBso9kJRGdkBSPyS5rx0R0glXaASYIiQpREHIjukVkw8LJ5Q7Z/ayIbp5sOQeLdpVsU7TTF8vwd6qMkG1k6Gntx7aEELHQgN9TY82QCXNr7RbZG7JDn589T/aerIX7VCyLTiUguotkK5j3X7LnmGfa4VCcPrmCc6nA7bN1w/EtbGNBC7MOO0P2AT9TcG2F38iG8JfVJJvMuOjKZL/I3pGdJRvGmOdRTFl0cfhEv240DdEtIbg0UQiY4HWcq2J8DeObGB9gzG/ADEBwLZ/FD1v6sSm6Z7j/kBbv8rEHGUj8+vWJnlQspSE67mqMRVyYFZxzYoNzGK9oC9SLYNJ+0u0Z7l/Bse8ZqTb04xM3Y/B/4vxRnZZalAn+xLkBTWQHPgLJuuiOtDm5f6fzlOaeN3eE9rHlPkWM9YNsPGXRhfGJwyD8H3rb6cf0RY46wZaHqBznlDAueYyjCKqIa4ohPnOva6EQu/HxacM9D7WnYRtbL3+WCYy/xvCZ2hZ9Yro+cfoR3ZHHBJuGhVYqnjZdmHv041wnfttBXMdPjFkcWwuIq/ycm5Tognyi08zb9rqPc05mNIDx75zXsG5jm2ohi72Hed0IWJde/6BsbK+9+MS4veYlkai46kheQWue+WIoK2VVdL34ZBwllUyVTIImOKOl51WMZ0+I2Pgp8YJsV3UXWLMqul58klrJxKs4zJRdEyx71Iy2EOvwo/oTxoWci407Elz538ZOoHcjSq51KfkcsyG6OH2ygUw8FUxtsLABbgUTc+Kfcs4F10ac85ZsKmRSoFS09xmjPhnj8EmoNlgNymziZtza0KvMYXtzOlxIbCjhtFCAlnwb/k4a/0R1+mkcazzCsQXXdWF7c16/Y1n8cSpg7cwFXbSnpcHuWtGBQcVRA9TFgKRCyD8L8HMgO1pG4k6F6zFmRYLwnynEcYeI47jt8pnspeq8fiOiE6zABdxddVxdnow5FReELjjtfaWOvw6MhTchohNsMQKR1TCeUcdvE1RFdIINNg3Z6zSO7YroBBs4/wPK3V5xSiMNEZ1gA+dbNusQHheHH6pOjW7YEPv59eYEITTz2Gb5JT1uha2q7jaGfK+JEIl/FF7xY8LoOokAAAD5dEVYdE1hdGhNTAA8bWF0aCB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMTk5OC9NYXRoL01hdGhNTCI+PG1mcmFjPjxtbj40PC9tbj48bW4+ODE8L21uPjwvbWZyYWM+PG1mZW5jZWQ+PG1yb3c+PG1zdXA+PG1uPjEwPC9tbj48bXJvdz48bWk+bjwvbWk+PG1vPis8L21vPjxtbj4xPC9tbj48L21yb3c+PC9tc3VwPjxtbz4tPC9tbz48bW4+OTwvbW4+PG1pPm48L21pPjxtbz4rPC9tbz48bW4+MTA8L21uPjwvbXJvdz48L21mZW5jZWQ+PC9tYXRoPixr8AwAAAAASUVORK5CYII=\" style=\"max-width: none;\">",
+      "<img align=\"middle\" alt=\"4 over 81 open parentheses 10 to the power of n plus 9 n plus 10 close parentheses\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mfrac»«mn»4«/mn»«mn»81«/mn»«/mfrac»«mfenced»«mrow»«msup»«mn»10«/mn»«mi»n«/mi»«/msup»«mo»+«/mo»«mn»9«/mn»«mi»n«/mi»«mo»+«/mo»«mn»10«/mn»«/mrow»«/mfenced»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIsAAAAlCAYAAAByDxphAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAZpE86XgAAA6pJREFUeNrtnEFoE0EUhodQioiXIFJyEKGnItKreCjFSyk9SaB4CEWKIKUHKeLFQxEpXoqIePAmIiJCCUU8iFCKeJBSyCEUKUXooYhIKZQiUkIoxPfIP3Sdzu5sNtnMxr4PHjizm0nmzZ+d996kKpWcJbKGEgQHJQhFxCJEcpGsImIR4rBCNixiEVzcJ5vBv0UsQihXyN4G2iIWwUo/2SeyvIhFcPGU7KrRJ2IRrDQcJgixBCQIqYtlHtmVkD3ukT3MilhmyRZlTTLNItbJK5fJ1mUteoIK1ssbq5bMio8Q7pC9IzuMeO0Fsg9kdYxT8PikvERWxuf9Q/YSn8/3dt9JX17DNS/wMcGapX+DrBrDMWuwM2Qf8Zocrl0n2yQbxDeiRjae0qIMkP0ie092lmwIbX7/c57F0glfmvcN+xDLAoInGznHBG/iWhHtG2jfRvsAbT4R74NQ6iktygvcO2jEYdz3KAOJRLu+NIPdBR9i4SrwSELHlHFN76Hn0S4bDjLHS2NR9iz3FtD3PSNZZzu+DDKCdes6v1Xz6CDJBH/iWp8hjoMIcaQlliPjswTH0E8zPkvjyvc+tqbniCF+kI16FkscX2r6sW7WwTttppOTTrAeIga9OHm08yHtduZqson+Scu4h8bTp4EtigUzhvY3x/yTfq5O+dJ2f9dpRyxHIROsWRytHE5td1F0fLKNuIW/odPoW3XEDVGL0i2xuHxpUuu1bWgf13TE3of2rqfY4C4e53VkRQ/w+luOMVt9nzS2oVZ8ad2GeiXALQTqCWFBWTcDSc1XS1kgq2JpxZejSK0zlTq7JjhlpHtFtKc9i4W/la/IdiyFrayKpRVfekudw4pyutClJzgQUjvYQEzAj8bPaOc8iYUruFwp3cIT06ze5gNj5iP60hBLJ325jszOC7Zyf9wAroCJ6ThhwFM9o4F9fJlsImawqlSy3wElfRJ1wpexyv0lKKqGwaqW6l7cMwgTLgRVlJB1ctBA5EGiTgufqea5Ae/JT9A3F7gv7hlE2HvITxSyDa/5jOumPSOtiqrw5VTyAGzeEewK/pjD+jjZNiLlYGq1lELKKfQwE4hTDhGncJn6C9lr1TyOF7EI/zCCuoGu6o2nUAcQ/hM4jXqjjv9bDRbMmIhFsKW2u0ifmSl1fEpZFLEIQaqWbGgSfTsiFiHIljpZjtYpckXEIgQpBdJkFgwX5R6rZo1lyBLbRJ1BCKeAWWxH/CMZLvmvqJNlX/m751PGX3VS7mP6jFAKAAAA2HRFWHRNYXRoTUwAPG1hdGggeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzE5OTgvTWF0aC9NYXRoTUwiPjxtZnJhYz48bW4+NDwvbW4+PG1uPjgxPC9tbj48L21mcmFjPjxtZmVuY2VkPjxtcm93Pjxtc3VwPjxtbj4xMDwvbW4+PG1pPm48L21pPjwvbXN1cD48bW8+KzwvbW8+PG1uPjk8L21uPjxtaT5uPC9taT48bW8+KzwvbW8+PG1uPjEwPC9tbj48L21yb3c+PC9tZmVuY2VkPjwvbWF0aD7QtlpbAAAAAElFTkSuQmCC\" style=\"max-width: none;\">"
+    ],
+    "op_hi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "q_en": "A series is given by <img align=\"middle\" alt=\"begin mathsize 12px style S equals 4 plus 44 plus 444 plus 4444 plus... end style\" class=\"Wirisformula\" data-mathml=\"«math style=¨font-family:Arial¨ xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mstyle mathsize=¨12px¨»«mrow»«mi»S«/mi»«mo»=«/mo»«mn»4«/mn»«mo»+«/mo»«mn»44«/mn»«mo»+«/mo»«mn»444«/mn»«mo»+«/mo»«mn»4444«/mn»«mo»+«/mo»«mo».«/mo»«mo».«/mo»«mo».«/mo»«/mrow»«/mstyle»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMYAAAAMCAYAAAA56MKPAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAALV/ZLFgAAAV9JREFUeNrtmTFrAkEQhReR/IGQQiR/wTaEEIKtvQRLuxQWFvYW+SGp0oYU/gMLGysrEVJb2IhYBJv1LbcBm+Du3c5wM+yDr/A4fO8djOcyxhQaghU4gSP4Ak+GVq/AGnqF+EjLojEvV6dgjcAHaPvP9+ANLAg9nccy8kFYIh9pWTTm5eoUpS1oMA6i85qDDvGDCPGRlkVjXq5O0VqDKeNgvINxiXKWwEdaFo15uTpFy03qjz9jDAIDXeM/vYBZyXIx94b4SMuiMS9Xp0rq+lfaBvQIvv/O/4+8DSxXdgBDfKRl0ZiXq1MS3YAJOPhDeUp9g+cKU28T+kjLojEvV6ekegD7xJNbddJj7rvmIy2LxrxcnZKq6Q/l1OL6hbAKs2jMW6s3hjtXuAXf3x6jBT5NsXDJg5EHQ/pg7DzR1x5Nsen+NcXm2y32+kxvJlsjH2lZNOa1RPltyWtZWVmXOgNNU12OXYPXYwAAAQJ0RVh0TWF0aE1MADxtYXRoIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8xOTk4L01hdGgvTWF0aE1MIiBzdHlsZT0iZm9udC1mYW1pbHk6QXJpYWwiPjxtc3R5bGUgbWF0aHNpemU9IjEycHgiPjxtaT5TPC9taT48bW8+PTwvbW8+PG1uPjQ8L21uPjxtbz4rPC9tbz48bW4+NDQ8L21uPjxtbz4rPC9tbz48bW4+NDQ0PC9tbj48bW8+KzwvbW8+PG1uPjQ0NDQ8L21uPjxtbz4rPC9tbz48bW8+LjwvbW8+PG1vPi48L21vPjxtbz4uPC9tbz48L21zdHlsZT48L21hdGg+idGPYQAAAABJRU5ErkJggg==\" style=\"max-width: none;\">. The sum <img align=\"middle\" alt=\"begin mathsize 12px style S subscript n end style\" class=\"Wirisformula\" data-mathml=\"«math style=¨font-family:Arial¨ xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mstyle mathsize=¨12px¨»«msub»«mi»S«/mi»«mi»n«/mi»«/msub»«/mstyle»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAAQCAYAAADJViUEAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAALV/ZLFgAAAJ1JREFUeNpjYICARCC+BMS/gPgLEK8DYmsGIkAOEM8HYmkoXxaIM4D4ODGanwMxEwOZ4AYQ15OrWQ+I70L9HEmuIY5AfBiIbwGxFzkGsAFxCRB/ggYkWcAciD+Qq5kFGpAEwWFoIoHFsyQQLwXicGI0W0JT1A9oCgMljlA0Nf+B2AUaKxegeogG/6GuEYWmwC+kamZB45OkmWHwaAYA65clLp0nVMwAAACbdEVYdE1hdGhNTAA8bWF0aCB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMTk5OC9NYXRoL01hdGhNTCIgc3R5bGU9ImZvbnQtZmFtaWx5OkFyaWFsIj48bXN0eWxlIG1hdGhzaXplPSIxMnB4Ij48bXN1Yj48bWk+UzwvbWk+PG1pPm48L21pPjwvbXN1Yj48L21zdHlsZT48L21hdGg+NTO+8wAAAABJRU5ErkJggg==\" style=\"max-width: none;\">of first n terms of <img align=\"middle\" alt=\"begin mathsize 12px style S end style\" class=\"Wirisformula\" data-mathml=\"«math style=¨font-family:Arial¨ xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mstyle mathsize=¨12px¨»«mi»S«/mi»«/mstyle»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAMCAYAAABfnvydAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAALV/ZLFgAAAHxJREFUeNpjYICARCC+BMS/gPgLEK8DYmuoHEMOEM8HYmkoXxaIM4D4OEzBcyBmYsADbgBxPT4FekB8F+qGSHwKHYH4MBDfAmIvXIrYgLgEiD9BHY8TmAPxB3wKWKCOB4PD0ICChYMkEC8F4nCYAktoyP2AhiQogEIZiAUAviEXP06PkWoAAACEdEVYdE1hdGhNTAA8bWF0aCB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMTk5OC9NYXRoL01hdGhNTCIgc3R5bGU9ImZvbnQtZmFtaWx5OkFyaWFsIj48bXN0eWxlIG1hdGhzaXplPSIxMnB4Ij48bWk+UzwvbWk+PC9tc3R5bGU+PC9tYXRoPrAfLEoAAAAASUVORK5CYII=\" style=\"max-width: none;\"> is:",
+    "q_hi": "",
+    "section": "Discipline2",
+    "solution": "",
+    "topic": "Mixed Topic"
+  }
+]
