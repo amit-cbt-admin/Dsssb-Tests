@@ -1,0 +1,422 @@
+[
+  {
+    "ans": "1",
+    "level": "Medium",
+    "op_en": [
+      "Four",
+      "Three",
+      "One",
+      "Two"
+    ],
+    "op_hi": [
+      "चार",
+      "तीन",
+      "एक",
+      "दो"
+    ],
+    "q_en": "Refer to the following series and answer the question that follows. All numbers are single digit numbers only.<br><br>(Left) 7  8  4  5  6  2  1  9  8  5  1  4  9  7  3  3  6  5 8  4  2  5  7  0  6  1   (Right)<br><br>How many such even digits are there, each of which is immediately preceded by an even digit and also immediately followed by an odd digit?",
+    "q_hi": "निम्नलिखित श्रृंखला को देखें और उसके बाद आने वाले प्रश्न का उत्तर दें। सभी संख्याएँ केवल एक अंक वाली संख्याएँ हैं।<br><br>(बाएं) 7  8  4  5  6  2  1  9  8  5  1  4  9  7  3  3  6  5 8  4  2  5  7  0  6  1   (दाएं)<br><br>ऐसे कितने सम अंक हैं, जिनमें से प्रत्येक के ठीक पहले एक सम अंक और ठीक बाद एक विषम अंक है?",
+    "section": "Mental Ability and Reasoning",
+    "solution": "1. हमें [सम अंक] [सम अंक] [विषम अंक] के पैटर्न की तलाश करनी है।<br>2. श्रृंखला की जांच करने पर:<br>...8, 4, 5... (सम, सम, विषम) - 1<br>...6, 2, 1... (सम, सम, विषम) - 2<br>...4, 2, 5... (सम, सम, विषम) - 3<br>...0, 6, 1... (सम, सम, विषम) - 4<br>3. ऐसे कुल 4 सम अंक हैं।",
+    "topic": "Number Series"
+  },
+  {
+    "ans": "2",
+    "level": "Medium",
+    "op_en": [
+      "WYB",
+      "GIK",
+      "MOR",
+      "ACF"
+    ],
+    "op_hi": [
+      "WYB",
+      "GIK",
+      "MOR",
+      "ACF"
+    ],
+    "q_en": "Based on the English alphabetical order, three of the following four letter-clusters are alike in a certain way and thus form a group. Which letter-cluster DOES NOT belong to that group? <br>(Note: The odd one out is not based on the number of consonants/vowels or their position in the letter-cluster.)<br><span style=\"color: white;\"></span>",
+    "q_hi": "अंग्रेजी वर्णमाला के क्रम के आधार पर, निम्नलिखित चार अक्षर-समूहों में से तीन एक निश्चित तरीके से समान हैं और इस प्रकार एक समूह बनाते हैं। कौन सा अक्षर-समूह उस समूह से संबंधित नहीं है? <br>(नोट: विषम अक्षर-समूह व्यंजनों/स्वरों की संख्या या अक्षर-समूह में उनकी स्थिति पर आधारित नहीं है।)<br><span style=\"color: white;\"></span>",
+    "section": "Mental Ability and Reasoning",
+    "solution": "1. अक्षरों के बीच के अंतर की जांच करें:<br>WYB: W + 2 = Y; Y + 3 = B<br>GIK: G + 2 = I; I + 2 = K<br>MOR: M + 2 = O; O + 3 = R<br>ACF: A + 2 = C; C + 3 = F<br>2. यहाँ GIK को छोड़कर अन्य सभी में +2, +3 का पैटर्न है।<br>3. इसलिए, GIK समूह से अलग है।",
+    "topic": "Odd One Out"
+  },
+  {
+    "ans": "1",
+    "level": "Medium",
+    "op_en": [
+      "M",
+      "S",
+      "J",
+      "L"
+    ],
+    "op_hi": [
+      "M",
+      "S",
+      "J",
+      "L"
+    ],
+    "q_en": "Refer to the following letter series and answer the question that follows. <br><br>(Left) <span style=\"letter-spacing: 4.8pt;\">VIVANSIKHMUSLMJAINHINUDOMEA</span>(Right)<br><br>If all the vowels are dropped from the series, which letter will be seventh from the right?",
+    "q_hi": "निम्नलिखित अक्षर श्रृंखला को देखें और उसके बाद आने वाले प्रश्न का उत्तर दें। <br><br>(बाएं) <span style=\"letter-spacing: 4.8pt;\">VIVANSIKHMUSLMJAINHINUDOMEA</span>(दाएं)<br><br>यदि श्रृंखला से सभी स्वर हटा दिए जाते हैं, तो कौन सा अक्षर दाएं से सातवां होगा?",
+    "section": "Mental Ability and Reasoning",
+    "solution": "1. मूल श्रृंखला: VIVANSIKHMUSLMJAINHINUDOMEA<br>2. स्वर (A, E, I, O, U) हटाने पर शेष व्यंजन: V V N S K H M S L M J N H N D M<br>3. अब दाएं छोर से गिनें:<br>M (1), D (2), N (3), H (4), N (5), J (6), M (7)<br>4. दाएं से सातवां अक्षर M है।",
+    "topic": "Letter Series"
+  },
+  {
+    "ans": "2",
+    "level": "Medium",
+    "op_en": [
+      "Four",
+      "Three",
+      "One",
+      "Two"
+    ],
+    "op_hi": [
+      "चार",
+      "तीन",
+      "एक",
+      "दो"
+    ],
+    "q_en": "A, B, C, D, O, P and Q are sitting in a straight line, facing north. No one sits to the right of B. Only three people sit between B and D. Only two people sit between D and P. Q sits third to the left of O. A sits to the immediate right of O. How many people sit between C and P?",
+    "q_hi": "A, B, C, D, O, P और Q एक सीधी रेखा में उत्तर की ओर मुख करके बैठे हैं। B के दाईं ओर कोई नहीं बैठा है। B और D के बीच केवल तीन लोग बैठे हैं। D और P के बीच केवल दो लोग बैठे हैं। Q, O के बाईं ओर तीसरे स्थान पर बैठा है। A, O के ठीक दाईं ओर बैठा है। C और P के बीच कितने लोग बैठे हैं?",
+    "section": "Mental Ability and Reasoning",
+    "solution": "1. बैठने का क्रम निर्धारित करें (उत्तर की ओर मुख):<br>B के दाईं ओर कोई नहीं है, इसलिए B सबसे दाएं (7वें स्थान पर) है।<br>B और D के बीच तीन लोग हैं, तो D चौथे स्थान पर (दाएं से) या बाएं से तीसरे स्थान पर होगा। (क्रम: _ _ D _ _ _ B)<br>2. D और P के बीच दो लोग हैं, तो P छठे स्थान पर होगा। (क्रम: _ _ D _ _ P B)<br>3. Q, O के बाएं तीसरे स्थान पर है और A, O के ठीक दाएं है। यह तभी संभव है जब Q पहले स्थान पर हो, O चौथे पर और A पांचवें पर।<br>4. अंतिम क्रम: Q, C, D, O, A, P, B<br>5. C और P के बीच D, O, A बैठे हैं, जो कुल 3 लोग हैं।",
+    "topic": "Seating Arrangement"
+  },
+  {
+    "ans": "4",
+    "level": "Medium",
+    "op_en": [
+      "*",
+      "49",
+      "72",
+      "#"
+    ],
+    "op_hi": [
+      "*",
+      "49",
+      "72",
+      "#"
+    ],
+    "q_en": "Refer to the given number, symbol series and answer the question that follows.<br> <br>(Left) 17  ^  12  8  4  5  $  9  21  23  28  *  #  49  72  %  24  (Right)<br><br>If all the odd numbers are dropped, which is the fourth term from the right end of the series?",
+    "q_hi": "दी गई संख्या, प्रतीक श्रृंखला को देखें और उसके बाद आने वाले प्रश्न का उत्तर दें।<br> <br>(बाएं) 17  ^  12  8  4  5  $  9  21  23  28  * #  49  72  %  24  (दाएं)<br><br>यदि सभी विषम संख्याओं को हटा दिया जाता है, तो श्रृंखला के दाएं छोर से चौथा पद कौन सा है?",
+    "section": "Mental Ability and Reasoning",
+    "solution": "1. विषम संख्याओं (17, 5, 9, 21, 23, 49) को हटाने के बाद श्रृंखला: ^  12  8  4  $  28  * #  72  %  24<br>2. अब दाएं छोर से गिनें:<br>24 (पहला), % (दूसरा), 72 (तीसरा), # (चौथा)<br>3. दाएं छोर से चौथा पद # है।",
+    "topic": "Mixed Series"
+  },
+  {
+    "ans": "3",
+    "level": "Medium",
+    "op_en": [
+      "Two",
+      "Five",
+      "Six",
+      "Three"
+    ],
+    "op_hi": [
+      "दो",
+      "पांच",
+      "छह",
+      "तीन"
+    ],
+    "q_en": "Each of C, D, E, F, G, T and U has a flight on a different day of a week starting from Monday and ending on Sunday of the same week. F has a flight on Sunday. Only three people have a flight between D and F. Only one person has a flight between T and U. G has a flight immediately the day before E. C does not have a flight on Friday. How many people have a flight after C?",
+    "q_hi": "C, D, E, F, G, T और U में से प्रत्येक की उड़ान सप्ताह के अलग-अलग दिन है, जो सोमवार से शुरू होकर उसी सप्ताह के रविवार को समाप्त होती है। F की उड़ान रविवार को है। D और F के बीच केवल तीन लोगों की उड़ान है। T और U के बीच केवल एक व्यक्ति की उड़ान है। G की उड़ान E के ठीक एक दिन पहले है। C की उड़ान शुक्रवार को नहीं है। C के बाद कितने लोगों की उड़ान है?",
+    "section": "Mental Ability and Reasoning",
+    "solution": "1. सप्ताह का क्रम और दी गई जानकारी:<br>रविवार: F<br>D और F के बीच तीन लोग: D बुधवार को होगा।<br>G, E से ठीक पहले है: G और E के लिए लगातार दो दिन चाहिए।<br>2. संभावित क्रम:<br>सोमवार: T/U<br>मंगलवार: C (चूंकि C शुक्रवार को नहीं है)<br>बुधवार: D<br>गुरुवार: U/T (T और U के बीच एक व्यक्ति)<br>शुक्रवार: G<br>शनिवार: E<br>रविवार: F<br>3. C की उड़ान मंगलवार को है, इसलिए C के बाद D, U/T, G, E, F की उड़ानें हैं, जो कुल 5 लोग हैं।",
+    "topic": "Scheduling"
+  },
+  {
+    "ans": "2",
+    "level": "Medium",
+    "op_en": [
+      "<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAF8AAABeCAYAAABFEMhQAAADkklEQVR42u2cPY7CMBCFU6WhoaLkGggBEhIHoqGhooNjcR5OwcpIQVY2CY7n703iSCOkDWHj7z0544nt6l0Os6Py3oDn8+kf/uPxeK9WK1exWCzedV27uufr9doNv6qqEsIxCD+cfL1e8HG5XL4N2u128Pd7v9/T4LvoL1uOQj8mA/92u32hH4/Hz2f4W4GvCD98hmzHg/snA78N24P7JwE/dn2c66O7fxLw+yCju989/C7Xe3G/e/gN3D53N+5HLDm4hh+nl0N1nib9LPCVuhwP7ncNP7U/R3W/W/iprkd2v1v4jetTYSK63yX8sa5Hdb9L+L/SSy/udwc/Jb304n638HNLBkjudwefo1ww9mFd4DO4vv071u53BT/3QYvqfjfwud2K4H438CVq89bu7+ILB5+aXqK63xV8iTdSlu53AV/ybVTTnVm4Hx6+pOvjQZeF++Hhc6aXaO6Hhq/1QLRyvwv4GlM/LNwPC1972ofFNBNY+JqulxzIuYRvMdlJ2/2Q8C1cb+F+SPga6SWC++HgS9VxEN0PC99yZrGW+6HgI80q1njRDgUfwfVtI0gOuqDgo82ll3Y/DHwk12u5Hwa+ZXpp5f4k+FzRt/fAcrn8+R2raO4t7OnQPsfFZbvdysMvkQF/s9l8vxj2N/CwD4OH/SEOh8Pn83w+D/f58cgTfVk96tFmOOqBWwTgA5+V7RQBeMBnp5pFADp4Up5fBKCBJw+yigD54FlGuEWAfCYs5YUiQB4LttpOEWA8A9bC2pwFyGk7e1VzjgLktnkQ/ul0+pxcr9ejfnROAlDa2vBNKikXAfjaGF+73+/74YeTRQAZ8El9fu4/m6IAXOCTuh1qVXNKAnCBH11SnrsAlDbEc5KyS8pzFYAbPCnPz72ZvhuZG3jyIGsOAkiBZxnhTlkASfBs5YUpCiANnrW2MyUB4raMnakWt+fXNEOIqiaSABTwH3iJ4NnhexeACn7sWl6RibIeBdAGLwaf0hgLASzAi8L3IoAVeHH46AJYgleBjyqANXg1+GgCcIGnrh9TXRbEIQB1fRQneOpSIfU1WZYCUMFTrzeHT3EPRQA08GbwKQ+sHAEQwZvC1xKA2kdLgTeHLy0AMngI+FICoIOHgc8tABU8ZzrpAj511BgD8wAeDj6nAOjgk+Fr73dQ13Xvfgcp14b9EsburxAiXJtzPSXUNr4o0R2d8MteCXrxD3459I8/HPby9N1ncKEAAAAASUVORK5CYII=\" style=\"height: auto; max-width: 100%;\">",
+      "<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAF4AAABdCAYAAAAsRtHAAAACxklEQVR42u3csW7CMBCA4UwsLEyMvAZCgITEA7GwMLHBY/E8PEUrR02VFiIa353vTH9LJ1cKcchX5NiXxM0HxaU03R/X6/VjPp8TxnE6nR7hm6YhjGMQPm243+9mcTwe2+Ok2vI4udEBabd7uVxew1uW8/ncHifVIfveL3jtAjzwwAMPPPDAAw888MADDzzwwAMPPPDAAw888MADDzzwwAMPPPDVwf/2BR544IEHHnjggQceeOCBBx544IEHHnjggQceeOCBBx544N8TXiuG3uWfTqft9lRHXGtg6PtruaxWK1t4YiT8crn8/pDVegPr9bptP9VR1jDo1ljQPO9+m9vttq0Ph8NwH9/1w1Z98e12+25/t9u59+sW5/u7zT9fXP8Lfgn00aOakvgeo5xS6FnDyXfFL4mePY5/N/z++aRjl/hHZk+g3gXfA108c60dP13EPdBVUga14nuiq+VqasP3RldNktWC36Gn2gtdPTtpjS9tv4/u/Z0G4ff7fbthsViMajAifvplR0Lv+75MC9eKb5WKkJxjf9/NZvMcPm2oFT86+ss+PvdAnvhWw1At9JddjTQ76YEfHX1UWrgW/P4YPQr6sx9CsexkSfzo6MWzk9a5F4snFizQXbKT1vhas1FLdLfspPedJm901+xkZHxrdPfsZER8yY2RMRM29+xkJHzp3agxs+QQ2ckI+FL0sUk49YdWa8QvjW4CLzkRD3wPdDP4WvC90E3ho+N7opvDR8X3Ri8CHw1fC136lkixV3E08KV3kTTRpTmhou9AeeJL0bUf9Sv+8lnur0aCHw3dBV5yccrBj4juBl8KX9onW6G7wlvjR0Z3h7fCj44eAl4bX4pu8SRxWHjpbLCPVQN6KHhN/Ojof4IvvXbAZDLJXtsg7TubzUbtkz6fIu2bs790nQTzRSSI5/EAH2VNgf8QP+ApZcsnP7HpzgCJ1Q4AAAAASUVORK5CYII=\" style=\"height: auto; max-width: 100%;\">",
+      "<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGEAAABdCAYAAAC1vgh1AAACfElEQVR42u3cS46CQBSFYcY6cSJ7MTowcUGOHJiYONNluR7cBJ0iwdAGHxR1H4V/JSfEbgPV57NBwFjUnXG9XuuyLIlwjsdjt/a6eEYoioII5yuE8KSqqtxnvV438w3LHOZ7uVyGIXgf2+3236srPPY+JoXQBbjdbo/H3iEmg9AtPAD0/RwEJYCY34MgDJADRNYIQ4v1CpEtQmyhHiGyRBhbpDeI7BBSFegJIiuE1MV5gcgGQaowDxBZIEgX9XymDYLRK9USwjWC9q7CCsItgtW+2gLCHYKHq5/aEK4Qwh/s5T6AJoQbBE8A2hAuEDwCaEKYI3gGaMf5fBaFMEWQBkhZmCSEGYI0QFtaWHqHeNWvKIIWQBvvEOoImgDdg6pnCFWELkDKUt6tv1uYVwg1BAuAvsI8QqggWALkACGO4AHAO4QogicA6TmNgRBD8AjgFUIEwTOA9FvlGIjkCDkAeINIiqAJkLI0iZtIQ94EJEOQBmgmJXimbQmRBEEDQOOWp8S9g28gRiNMBcASYhTC1ACsIKIRpM4+rQEkLtB96iwKYeoA2hCDEX4FQPI//nmdgxA2m81PAWhB7Ha77xFSZblc9maxWHx8jlVms9nLuaXqZbVa6SGQEQj7/b6+3+9iORwOzXbCUnI7sWnLSr3e0+n06Df5/YTY/aTU8SbVZZPUw+QjLyCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggAACCO2TyrIUTfhui/l83iyltxWTMLcQiXWrf8EI6c9bhKqqiFJeIjCMjkFUYD/+ACv/TRZARHQ/AAAAAElFTkSuQmCC\" style=\"height: auto; max-width: 100%;\">",
+      "<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAF8AAABfCAYAAACOTBv1AAACgUlEQVR42u3cQY6CMBTGcfas5S5GFyYew0O4cmFiwk6P4xE8D17CSUk0JDICfa+vLfybvDCGKWV+H6K+TCxejGijgAD8ZePfbrdXVVVRqixL07WKojBds1vn87kf350UFbZ+4rudTdOY1Gazadd02/v97j136rpurTeGz3yful6v4/Atxm63+wA8Hg/vua7cY8k5+M6fMpLB14J3c6WAVgEkgV/XtRjebbtzcwggOr4WfAjA0AFExQ8Jn0MA0fAt4FMPIAq+JXzKAZjjx4BPNQBT/JjwKQZght+Fdz/HvOJSCcAEPyX4lAIIjp8ivMan6hZK2MoIip8yvEYA7vclAQTDzwFeO4Cpf2cQ/JzgYwagju8Lr9GNzC0AVXwJvPTFK8cA1PDnAG8dgAq+7z0vRXjLAMT4c4TXaIeMcRHhzxleI4ChW7E3/hLgQwfQ5zuIvyT4kAFMxl8ifKgAJuFrwE/9xDvnAEbja7yPzx1eO4D9fj+Mv91ugQ8UwCA+8GEDcBf3F/77aeF2Aq8fwNv3cDj8f+V3dwKvF4DX+3zgdQJQw18yvG8AKvjAj+/nqOID7x+ACB94WQDe+MDLAzDtahJALcOX/FsIAQhaysDrBhC8q8n4P4BR+L5dTcbvAEa1lLVqtVrNqrRc1ut1eHzKA/94PL6ez2fUOp1O7bm4bcxjaNblcvn4iruaFvdKyWuOxjE0h2pLGXzwwQcffPDBBx988MEHH3zwwQcffPDBBx988MEHH3zwwQcffPDBBx988MEHH3zwwQcffPDBBx988MEHH3zwwQcffPDBBx988JeEX1VV9CrLsj0Xt415DO0y++ILqr968ZumoYzqC59hP/4ARKS9H8UUdbQAAAAASUVORK5CYII=\" style=\"height: auto; max-width: 100%;\">"
+    ],
+    "op_hi": [
+      "<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAF8AAABeCAYAAABFEMhQAAADkklEQVR42u2cPY7CMBCFU6WhoaLkGggBEhIHoqGhooNjcR5OwcpIQVY2CY7n703iSCOkDWHj7z0544nt6l0Os6Py3oDn8+kf/uPxeK9WK1exWCzedV27uufr9doNv6qqEsIxCD+cfL1e8HG5XL4N2u128Pd7v9/T4LvoL1uOQj8mA/92u32hH4/Hz2f4W4GvCD98hmzHg/snA78N24P7JwE/dn2c66O7fxLw+yCju989/C7Xe3G/e/gN3D53N+5HLDm4hh+nl0N1nib9LPCVuhwP7ncNP7U/R3W/W/iprkd2v1v4jetTYSK63yX8sa5Hdb9L+L/SSy/udwc/Jb304n638HNLBkjudwefo1ww9mFd4DO4vv071u53BT/3QYvqfjfwud2K4H438CVq89bu7+ILB5+aXqK63xV8iTdSlu53AV/ybVTTnVm4Hx6+pOvjQZeF++Hhc6aXaO6Hhq/1QLRyvwv4GlM/LNwPC1972ofFNBNY+JqulxzIuYRvMdlJ2/2Q8C1cb+F+SPga6SWC++HgS9VxEN0PC99yZrGW+6HgI80q1njRDgUfwfVtI0gOuqDgo82ll3Y/DHwk12u5Hwa+ZXpp5f4k+FzRt/fAcrn8+R2raO4t7OnQPsfFZbvdysMvkQF/s9l8vxj2N/CwD4OH/SEOh8Pn83w+D/f58cgTfVk96tFmOOqBWwTgA5+V7RQBeMBnp5pFADp4Up5fBKCBJw+yigD54FlGuEWAfCYs5YUiQB4LttpOEWA8A9bC2pwFyGk7e1VzjgLktnkQ/ul0+pxcr9ejfnROAlDa2vBNKikXAfjaGF+73+/74YeTRQAZ8El9fu4/m6IAXOCTuh1qVXNKAnCBH11SnrsAlDbEc5KyS8pzFYAbPCnPz72ZvhuZG3jyIGsOAkiBZxnhTlkASfBs5YUpCiANnrW2MyUB4raMnakWt+fXNEOIqiaSABTwH3iJ4NnhexeACn7sWl6RibIeBdAGLwaf0hgLASzAi8L3IoAVeHH46AJYgleBjyqANXg1+GgCcIGnrh9TXRbEIQB1fRQneOpSIfU1WZYCUMFTrzeHT3EPRQA08GbwKQ+sHAEQwZvC1xKA2kdLgTeHLy0AMngI+FICoIOHgc8tABU8ZzrpAj511BgD8wAeDj6nAOjgk+Fr73dQ13Xvfgcp14b9EsburxAiXJtzPSXUNr4o0R2d8MteCXrxD3459I8/HPby9N1ncKEAAAAASUVORK5CYII=\" style=\"height: auto; max-width: 100%;\">",
+      "<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAF4AAABdCAYAAAAsRtHAAAACxklEQVR42u3csW7CMBCA4UwsLEyMvAZCgITEA7GwMLHBY/E8PEUrR02VFiIa353vTH9LJ1cKcchX5NiXxM0HxaU03R/X6/VjPp8TxnE6nR7hm6YhjGMQPm243+9mcTwe2+Ok2vI4udEBabd7uVxew1uW8/ncHifVIfveL3jtAjzwwAMPPPDAAw888MADDzzwwAMPPPDAAw888MADDzzwwAMPPPDVwf/2BR544IEHHnjggQceeOCBBx544IEHHnjggQceeOCBBx544N8TXiuG3uWfTqft9lRHXGtg6PtruaxWK1t4YiT8crn8/pDVegPr9bptP9VR1jDo1ljQPO9+m9vttq0Ph8NwH9/1w1Z98e12+25/t9u59+sW5/u7zT9fXP8Lfgn00aOakvgeo5xS6FnDyXfFL4mePY5/N/z++aRjl/hHZk+g3gXfA108c60dP13EPdBVUga14nuiq+VqasP3RldNktWC36Gn2gtdPTtpjS9tv4/u/Z0G4ff7fbthsViMajAifvplR0Lv+75MC9eKb5WKkJxjf9/NZvMcPm2oFT86+ss+PvdAnvhWw1At9JddjTQ76YEfHX1UWrgW/P4YPQr6sx9CsexkSfzo6MWzk9a5F4snFizQXbKT1vhas1FLdLfspPedJm901+xkZHxrdPfsZER8yY2RMRM29+xkJHzp3agxs+QQ2ckI+FL0sUk49YdWa8QvjW4CLzkRD3wPdDP4WvC90E3ho+N7opvDR8X3Ri8CHw1fC136lkixV3E08KV3kTTRpTmhou9AeeJL0bUf9Sv+8lnur0aCHw3dBV5yccrBj4juBl8KX9onW6G7wlvjR0Z3h7fCj44eAl4bX4pu8SRxWHjpbLCPVQN6KHhN/Ojof4IvvXbAZDLJXtsg7TubzUbtkz6fIu2bs790nQTzRSSI5/EAH2VNgf8QP+ApZcsnP7HpzgCJ1Q4AAAAASUVORK5CYII=\" style=\"height: auto; max-width: 100%;\">",
+      "<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGEAAABdCAYAAAC1vgh1AAACfElEQVR42u3cS46CQBSFYcY6cSJ7MTowcUGOHJiYONNluR7cBJ0iwdAGHxR1H4V/JSfEbgPV57NBwFjUnXG9XuuyLIlwjsdjt/a6eEYoioII5yuE8KSqqtxnvV438w3LHOZ7uVyGIXgf2+3236srPPY+JoXQBbjdbo/H3iEmg9AtPAD0/RwEJYCY34MgDJADRNYIQ4v1CpEtQmyhHiGyRBhbpDeI7BBSFegJIiuE1MV5gcgGQaowDxBZIEgX9XymDYLRK9USwjWC9q7CCsItgtW+2gLCHYKHq5/aEK4Qwh/s5T6AJoQbBE8A2hAuEDwCaEKYI3gGaMf5fBaFMEWQBkhZmCSEGYI0QFtaWHqHeNWvKIIWQBvvEOoImgDdg6pnCFWELkDKUt6tv1uYVwg1BAuAvsI8QqggWALkACGO4AHAO4QogicA6TmNgRBD8AjgFUIEwTOA9FvlGIjkCDkAeINIiqAJkLI0iZtIQ94EJEOQBmgmJXimbQmRBEEDQOOWp8S9g28gRiNMBcASYhTC1ACsIKIRpM4+rQEkLtB96iwKYeoA2hCDEX4FQPI//nmdgxA2m81PAWhB7Ha77xFSZblc9maxWHx8jlVms9nLuaXqZbVa6SGQEQj7/b6+3+9iORwOzXbCUnI7sWnLSr3e0+n06Df5/YTY/aTU8SbVZZPUw+QjLyCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggAACCCCAAAIIIIAAAggggAACCO2TyrIUTfhui/l83iyltxWTMLcQiXWrf8EI6c9bhKqqiFJeIjCMjkFUYD/+ACv/TRZARHQ/AAAAAElFTkSuQmCC\" style=\"height: auto; max-width: 100%;\">",
+      "<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAF8AAABfCAYAAACOTBv1AAACgUlEQVR42u3cQY6CMBTGcfas5S5GFyYew0O4cmFiwk6P4xE8D17CSUk0JDICfa+vLfybvDCGKWV+H6K+TCxejGijgAD8ZePfbrdXVVVRqixL07WKojBds1vn87kf350UFbZ+4rudTdOY1Gazadd02/v97j136rpurTeGz3yful6v4/Atxm63+wA8Hg/vua7cY8k5+M6fMpLB14J3c6WAVgEkgV/XtRjebbtzcwggOr4WfAjA0AFExQ8Jn0MA0fAt4FMPIAq+JXzKAZjjx4BPNQBT/JjwKQZght+Fdz/HvOJSCcAEPyX4lAIIjp8ivMan6hZK2MoIip8yvEYA7vclAQTDzwFeO4Cpf2cQ/JzgYwagju8Lr9GNzC0AVXwJvPTFK8cA1PDnAG8dgAq+7z0vRXjLAMT4c4TXaIeMcRHhzxleI4ChW7E3/hLgQwfQ5zuIvyT4kAFMxl8ifKgAJuFrwE/9xDvnAEbja7yPzx1eO4D9fj+Mv91ugQ8UwCA+8GEDcBf3F/77aeF2Aq8fwNv3cDj8f+V3dwKvF4DX+3zgdQJQw18yvG8AKvjAj+/nqOID7x+ACB94WQDe+MDLAzDtahJALcOX/FsIAQhaysDrBhC8q8n4P4BR+L5dTcbvAEa1lLVqtVrNqrRc1ut1eHzKA/94PL6ez2fUOp1O7bm4bcxjaNblcvn4iruaFvdKyWuOxjE0h2pLGXzwwQcffPDBBx988MEHH3zwwQcffPDBBx988MEHH3zwwQcffPDBBx988MEHH3zwwQcffPDBBx988MEHH3zwwQcffPDBBx988JeEX1VV9CrLsj0Xt415DO0y++ILqr968ZumoYzqC59hP/4ARKS9H8UUdbQAAAAASUVORK5CYII=\" style=\"height: auto; max-width: 100%;\">"
+    ],
+    "q_en": "If the water source is placed along X-Y, as shown in the given figure, which of the given options will be the water reflection of the given figure?<br><br><img loading=\"lazy\" src=\"data:image/png;base64,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\" style=\"height: auto; max-width: 100%;\">",
+    "q_hi": "If the water source is placed along X-Y, as shown in the given figure, which of the given options will be the water reflection of the given figure?<br><br><img loading=\"lazy\" src=\"data:image/png;base64,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\" style=\"height: auto; max-width: 100%;\">",
+    "section": "Mental Ability and Reasoning",
+    "solution": "<p>बच्चों, आइए इस सवाल को समझते हैं...</p>",
+    "topic": "Water Image"
+  },
+  {
+    "ans": "1",
+    "level": "Medium",
+    "op_en": [
+      "LER",
+      "NGZ",
+      "BUN",
+      "SLE"
+    ],
+    "op_hi": [
+      "LER",
+      "NGZ",
+      "BUN",
+      "SLE"
+    ],
+    "q_en": "Based on the English alphabetical order, three of the following four letter-clusters are alike in a certain way and thus form a group. Which is the letter-cluster that does NOT belong to that group?<br>(Note: The odd one out is not based on the number of consonants/vowels or their positions in the letter-cluster.)",
+    "q_hi": "अंग्रेजी वर्णमाला के क्रम के आधार पर, निम्नलिखित चार अक्षर-समूहों में से तीन एक निश्चित तरीके से समान हैं और इस प्रकार एक समूह बनाते हैं। वह कौन सा अक्षर-समूह है जो उस समूह से संबंधित नहीं है?<br>(नोट: विषम अक्षर-समूह व्यंजनों/स्वरों की संख्या या अक्षर-समूह में उनकी स्थिति पर आधारित नहीं है।)",
+    "section": "Mental Ability and Reasoning",
+    "solution": "1. अक्षरों के बीच के अंतर की जांच करें (पीछे की ओर 7 स्थान या आगे की ओर 19 स्थान):<br>NGZ: N - 7 = G; G - 7 = Z (14-7=7, 7-7=26)<br>BUN: B - 7 = U; U - 7 = N (2-7=-5+26=21, 21-7=14)<br>SLE: S - 7 = L; L - 7 = E (19-12=7, 12-7=5)<br>2. LER की जांच करें: L - 7 = E (12-7=5); E - 7 = X (5-7=-2+26=24), लेकिन यहाँ R (18) है।<br>3. अतः LER समूह से अलग है।",
+    "topic": "Odd One Out"
+  },
+  {
+    "ans": "4",
+    "level": "Medium",
+    "op_en": [
+      "Neither conclusion (I) nor (II) follows.",
+      "Only conclusion (I) follows.",
+      "Both conclusions (I) and (II) follow.",
+      "Only conclusion (II) follows."
+    ],
+    "op_hi": [
+      "न तो निष्कर्ष (I) और न ही (II) अनुसरण करता है।",
+      "केवल निष्कर्ष (I) अनुसरण करता है।",
+      "दोनों निष्कर्ष (I) और (II) अनुसरण करते हैं।",
+      "केवल निष्कर्ष (II) अनुसरण करता है।"
+    ],
+    "q_en": "Read the given statement(s) and conclusions carefully. Assuming that the information given in the statements is true, even if it appears to be at variance with commonly known facts, decide which of the given conclusions logically follow(s) from the statement(s).<br><br><strong>Statements</strong>:<br>All pencils are crayons.<br>Some crayons are boards.<br><br><strong>Conclusions: </strong><br>(I) Some pencils are boards.<br>(II) Some crayons are pencils.",
+    "q_hi": "दिए गए कथनों और निष्कर्षों को ध्यानपूर्वक पढ़ें। यह मानते हुए कि कथनों में दी गई जानकारी सत्य है, भले ही वह सामान्य रूप से ज्ञात तथ्यों से भिन्न प्रतीत होती हो, यह तय करें कि दिए गए निष्कर्षों में से कौन सा/से कथनों का तार्किक रूप से अनुसरण करता/करते है/हैं।<br><br><strong>कथन</strong>:<br>सभी पेंसिलें क्रेयॉन हैं।<br>कुछ क्रेयॉन बोर्ड हैं।<br><br><strong>निष्कर्ष: </strong><br>(I) कुछ पेंसिलें बोर्ड हैं।<br>(II) कुछ क्रेयॉन पेंसिलें हैं।",
+    "section": "Mental Ability and Reasoning",
+    "solution": "1. कथन 1 कहता है 'सभी पेंसिलें क्रेयॉन हैं'। इसका अर्थ है कि क्रेयॉन का कुछ हिस्सा निश्चित रूप से पेंसिल है। अतः निष्कर्ष (II) सही है।<br>2. कथन 2 कहता है 'कुछ क्रेयॉन बोर्ड हैं'। पेंसिल और बोर्ड के बीच कोई सीधा संबंध नहीं दिया गया है। अतः निष्कर्ष (I) निश्चित रूप से सही नहीं है।<br>3. इसलिए, केवल निष्कर्ष (II) अनुसरण करता है।",
+    "topic": "Syllogism"
+  },
+  {
+    "ans": "4",
+    "level": "Medium",
+    "op_en": [
+      "<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHgAAAB4CAYAAAA5ZDbSAAAB90lEQVR42u3bS47DIBAFQI7mo3EzH21mMwtvRrGJ+XXXk5CyiYi6ZAdQU0opP0booQhZgKUtq9YPMGABLIABAwYMGDBgwIABC2ABDBgwYMCAAQMGDBgwYAEMGDBgwIABAwYMGDBgASyAAQMGDBgwYMCAAQtgAQwYMGDAgAEDBgwYMGABDBgwYMCAAQMGDBgwYAEsgAEDBgwYMGDAgAFzAiyAAQMGDBgwYMCAAQMGLIAFMGDAgAEDBgwYMGABLIABAwYMGDBgwIAB/42T1ePUnYAht+NuAwy5DXcL4OPyuTK8hbvVK7pAfoy75Soa8mfcY/dtEuR7uFvvgyF/xt3+oKMmRz4/4G4PnBn5Dm4I4IzId3HDAGdCfoIbCvjOgiMK7tlSyAjAkZFbcEMCR0RuxQ0LHAX5utc/vy1kNODdkd/ADQ/csuqMhJsC+Nv/sJ1x0wDvgnx02MunarpbGbkHbjrgVZF74aYELmWt/q5a+h6xpgQ+yhrn1nXA70jb+D4buQ6aP/XNhlnIdeC86a+ujEaug+dzN2kgcp3wxgA8qPgzcAEPQpiFC3gAxkxcwJ1RZuMC7ohz/f6xQiEBv4e0Ci7gDlgr4QJ+GXnF7hHALyGv2hoE+EH+Q1y57wtwI/K5AS7gF57k1fu8AL/0JAP+EtiIORQh8vgF/tJwfE5yMZwAAAAASUVORK5CYII=\" style=\"height: auto; max-width: 100%;\"><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+      "<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHgAAAB4CAYAAAA5ZDbSAAABkklEQVR42u3YywnDMBAEUJem0tSZS8sHbAgBBZJcvLNPsCdfhB4zyNq2bbuZ6HEIXYCvsq62n9Waxz7nRfcHGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABA64GPB6zv+wTcADwO+o5+/ENcEHgcaRzL4QK+Me0nqgVYAGHVDDgP9NafbUFXqGmwLYETqxgwOEV3Ba4Y1rjgav/swL+soJnY9jywCo4FLjzhSkWWFqDgaU1DPhTBYMtCqyCA4GHC1Mm8AoVbGFgFRwKrIIDgaU1EPgJN6U1D3hVwRNsXWAVHArswhQILK2BwOPl4QFqILBH/kbAJmccQvLcASzfxtm+YnxIAAAAAElFTkSuQmCC\" style=\"height: auto; max-width: 100%;\"><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+      "<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHQAAAB1CAYAAACfxsWCAAABu0lEQVR42u3dUYrCMBSG0SzNndmd6c5GhHlwoqLDCEO+ngsXAoU89DRpfyhkjDG+dKrdhCroaRofhlqp7kCvtU3aYBcHHWCboOMb8DTBbu7buqBgo6DPYG3Di4OCjYKCjYKCjYKKOlFQsFFQUScICjYK6sMpCgo2Cgo2Cgo2CirqREHBRkFFnSAo2CioD6coKNgoKNgoKNgoqKgTBX0GuwFdv263YaCR2oACBQoUKFCgQIECBQoUKFCgQIECBQoUKFCgQIECBQoUKFCgQIECBQoUKFCgQIECBQoUKFCgQIEC/WfQ3R/EAxSoLdeWCxQoUKBAgQIFChQoUKBAgQIFChQoUKBAgQIFChQoUKBAgQIFChQoUKBAgQIFChQoUKBAgQL9WzlZaTTPPjsAbUDubWVmQB9B7hVzaVCQEdDN9toABRkCBRkBBRkBBRkBBRkBFUEioCAjoCJIBBRkCBRkBBRkBBRkBBRkBFQEiYCCjICKIBFQkCFQkBFQkBFQkAHQK9p5grz+hX68eX++6uMb14+/nPPd+T4574p9B6ojx3ycphV5np72R+N5Nbwaz3O8uv7p8Z76RyRRi9cF7IpYFKGWl5gAAAAASUVORK5CYII=\" style=\"height: auto; max-width: 100%;\"><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+      "<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHgAAAB4CAYAAAA5ZDbSAAADDklEQVR42u3dQYhNURzH8ZtIIkkkaSbJJImFRJJpmqYkySSRJJJEEkkiiSwmksVIUpJYSGMxmSYLkpQkFhIrkY0kG0k2ovEv/8lfJuaZe+4953++v/rXm/vuPef85tO8xWxeURTFAON6+CXkAuw9MffsNOdbVnZfgOvNZHO2wyH6AhzHuQZC9QW4vuww52oB2BfwHHOm7SH7AlxPbut5robuC3D1OWLOMwlgX8DLzVnWVNEX4GrzVM9xpqq+AFeXbj3Dkyr7AlxN1pozLAXYF/AUmbe6/6Gq+wIcPtd071t19AU4bHbqvl9kZgPsC3iuzFfdd1tdfQEOlzu655U6+wIcJkd1vzcyEwH2Bdxq9ltdd1+Ay88z3et0DH0BLjdndZ/HsfQFuLysM/ssAdgX8FSZd7rHwZj6AlxOruv6/bH1BXjk2aVrf5aZBbAv4Hky33TtrTH2BXhkuavrXo61L8D/n2O65muZCQD7Am4za66KuS/AjWeUzHNd71TsfQFuPOd0rUcp9AW4saw3ay0G2BfwNJn3us6BVPoCPPz06Bp9KfUFeHjZrc9/kpkJsC/g+TLf9fktqfUF+N+5p89eSrEvwH/PcX3ulcx4gH0Bt5vnVqbaF+ChM1rmhT5zMuW+AA+d83r/w9T7AvxnNpj7FwHsC3i6zAe9d7+HvgD/nht6300vfQH+lT16z0eZZoB9AS8w92z21Bfgn7mv71/01hfgojih772UGQewL+AO894Kj31zBh5jrnd57Zsz8AW99sBz31yBN5prCwH2BTzD/LzPe98cgQdf9+bQNzfgveZ1E8D+Cg/Oplw+sXIFLgD2CzwWYP9/wXzzGcAAp/yPDj6iAQYYYIABBhhggAEGGGCAAQYYYIABBhhggAEGGGCAAQYYYIABBhhggAEGGGCAAQYYYIABBhhggAEGGGCAAQYYYIABBhhggAEGGGCAAQYYYIABBhhggAEGGGCAAQYYYIABBhhggAEGGGCAAQYYYIABBhhggAEGGGCAAQYYYIABBhhggAMBM86/+YxxOD8AKA+Rwy134bAAAAAASUVORK5CYII=\" style=\"height: auto; max-width: 100%;\"><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"
+    ],
+    "op_hi": [
+      "<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHgAAAB4CAYAAAA5ZDbSAAAB90lEQVR42u3bS47DIBAFQI7mo3EzH21mMwtvRrGJ+XXXk5CyiYi6ZAdQU0opP0booQhZgKUtq9YPMGABLIABAwYMGDBgwIABC2ABDBgwYMCAAQMGDBgwYAEMGDBgwIABAwYMGDBgASyAAQMGDBgwYMCAAQtgAQwYMGDAgAEDBgwYMGABDBgwYMCAAQMGDBgwYAEsgAEDBgwYMGDAgAFzAiyAAQMGDBgwYMCAAQMGLIAFMGDAgAEDBgwYMGABLIABAwYMGDBgwIAB/42T1ePUnYAht+NuAwy5DXcL4OPyuTK8hbvVK7pAfoy75Soa8mfcY/dtEuR7uFvvgyF/xt3+oKMmRz4/4G4PnBn5Dm4I4IzId3HDAGdCfoIbCvjOgiMK7tlSyAjAkZFbcEMCR0RuxQ0LHAX5utc/vy1kNODdkd/ADQ/csuqMhJsC+Nv/sJ1x0wDvgnx02MunarpbGbkHbjrgVZF74aYELmWt/q5a+h6xpgQ+yhrn1nXA70jb+D4buQ6aP/XNhlnIdeC86a+ujEaug+dzN2kgcp3wxgA8qPgzcAEPQpiFC3gAxkxcwJ1RZuMC7ohz/f6xQiEBv4e0Ci7gDlgr4QJ+GXnF7hHALyGv2hoE+EH+Q1y57wtwI/K5AS7gF57k1fu8AL/0JAP+EtiIORQh8vgF/tJwfE5yMZwAAAAASUVORK5CYII=\" style=\"height: auto; max-width: 100%;\">",
+      "<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHgAAAB4CAYAAAA5ZDbSAAABkklEQVR42u3YywnDMBAEUJem0tSZS8sHbAgBBZJcvLNPsCdfhB4zyNq2bbuZ6HEIXYCvsq62n9Waxz7nRfcHGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABAwYMGDBgwIABA64GPB6zv+wTcADwO+o5+/ENcEHgcaRzL4QK+Me0nqgVYAGHVDDgP9NafbUFXqGmwLYETqxgwOEV3Ba4Y1rjgav/swL+soJnY9jywCo4FLjzhSkWWFqDgaU1DPhTBYMtCqyCA4GHC1Mm8AoVbGFgFRwKrIIDgaU1EPgJN6U1D3hVwRNsXWAVHArswhQILK2BwOPl4QFqILBH/kbAJmccQvLcASzfxtm+YnxIAAAAAElFTkSuQmCC\" style=\"height: auto; max-width: 100%;\">",
+      "<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHQAAAB1CAYAAACfxsWCAAABu0lEQVR42u3dUYrCMBSG0SzNndmd6c5GhHlwoqLDCEO+ngsXAoU89DRpfyhkjDG+dKrdhCroaRofhlqp7kCvtU3aYBcHHWCboOMb8DTBbu7buqBgo6DPYG3Di4OCjYKCjYKCjYKKOlFQsFFQUScICjYK6sMpCgo2Cgo2Cgo2CirqREHBRkFFnSAo2CioD6coKNgoKNgoKNgoqKgTBX0GuwFdv263YaCR2oACBQoUKFCgQIECBQoUKFCgQIECBQoUKFCgQIECBQoUKFCgQIECBQoUKFCgQIECBQoUKFCgQIEC/WfQ3R/EAxSoLdeWCxQoUKBAgQIFChQoUKBAgQIFChQoUKBAgQIFChQoUKBAgQIFChQoUKBAgQIFChQoUKBAgQL9WzlZaTTPPjsAbUDubWVmQB9B7hVzaVCQEdDN9toABRkCBRkBBRkBBRkBBRkBFUEioCAjoCJIBBRkCBRkBBRkBBRkBBRkBFQEiYCCjICKIBFQkCFQkBFQkBFQkAHQK9p5grz+hX68eX++6uMb14+/nPPd+T4574p9B6ojx3ycphV5np72R+N5Nbwaz3O8uv7p8Z76RyRRi9cF7IpYFKGWl5gAAAAASUVORK5CYII=\" style=\"height: auto; max-width: 100%;\">",
+      "<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHgAAAB4CAYAAAA5ZDbSAAADDklEQVR42u3dQYhNURzH8ZtIIkkkaSbJJImFRJJpmqYkySSRJJJEEkkiiSwmksVIUpJYSGMxmSYLkpQkFhIrkY0kG0k2ovEv/8lfJuaZe+4953++v/rXm/vuPef85tO8xWxeURTFAON6+CXkAuw9MffsNOdbVnZfgOvNZHO2wyH6AhzHuQZC9QW4vuww52oB2BfwHHOm7SH7AlxPbut5robuC3D1OWLOMwlgX8DLzVnWVNEX4GrzVM9xpqq+AFeXbj3Dkyr7AlxN1pozLAXYF/AUmbe6/6Gq+wIcPtd071t19AU4bHbqvl9kZgPsC3iuzFfdd1tdfQEOlzu655U6+wIcJkd1vzcyEwH2Bdxq9ltdd1+Ay88z3et0DH0BLjdndZ/HsfQFuLysM/ssAdgX8FSZd7rHwZj6AlxOruv6/bH1BXjk2aVrf5aZBbAv4Hky33TtrTH2BXhkuavrXo61L8D/n2O65muZCQD7Am4za66KuS/AjWeUzHNd71TsfQFuPOd0rUcp9AW4saw3ay0G2BfwNJn3us6BVPoCPPz06Bp9KfUFeHjZrc9/kpkJsC/g+TLf9fktqfUF+N+5p89eSrEvwH/PcX3ulcx4gH0Bt5vnVqbaF+ChM1rmhT5zMuW+AA+d83r/w9T7AvxnNpj7FwHsC3i6zAe9d7+HvgD/nht6300vfQH+lT16z0eZZoB9AS8w92z21Bfgn7mv71/01hfgojih772UGQewL+AO894Kj31zBh5jrnd57Zsz8AW99sBz31yBN5prCwH2BTzD/LzPe98cgQdf9+bQNzfgveZ1E8D+Cg/Oplw+sXIFLgD2CzwWYP9/wXzzGcAAp/yPDj6iAQYYYIABBhhggAEGGGCAAQYYYIABBhhggAEGGGCAAQYYYIABBhhggAEGGGCAAQYYYIABBhhggAEGGGCAAQYYYIABBhhggAEGGGCAAQYYYIABBhhggAEGGGCAAQYYYIABBhhggAEGGGCAAQYYYIABBhhggAEGGGCAAQYYYIABBhhggAMBM86/+YxxOD8AKA+Rwy134bAAAAAASUVORK5CYII=\" style=\"height: auto; max-width: 100%;\">"
+    ],
+    "q_en": "Select the option in which the given figure (X) is embedded as its part (rotation is NOT allowed).<br><br><img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHgAAACWCAYAAAAVKkwgAAACzUlEQVR42u3dW26rMBQFUA/NQ/PMGBr3p5EQShqc+hKzWUfKV5tHWZztY9SWUkpZPSIfrfyUgxEOfJd6/OCzVLsrxB2A24QnHOD/8Fl0byDwo3sXJHnAdfM5KpI84EU05wIbrMKBDVbBwPa8wcCiORxYNAcDi+ZgYNEcDiyag4Ef3etyZCBw1b3ZwAarYGCDVTiwaA4GFs3BwKI5HFg0BwOL5mBg0RwOLJqDgR/d63JkIHDVvdnABqtgYINVOLBoDgYWzcHAojkcWDQHA4vmYOBtNFeHMQ9YNAcDG6zCgXVvMLDBKhhYNIcDi+ZgYNEcDCyaw4FFczCwaA4G3kZzdajygP2DsmBgg1U4sMEqGNhgFQwsmsOBRXMwsGgOBhbN4cCi+QbA/iIwHLg6HPkR7e5ngAFfeR+cXA0wYMCAAQMGDBgwYMCAAQMGDBgwYMCAAQMGDBgwYMCAAQMGDBgwYMCAAQMGDBgwYMCAAQMGDBgwYMCAAQMGDBgwYMCAAQMGDBgwYMCAAQMGDBgwYMCAAQMGDBgwYMCAAQMGDBgwYMCAAQMGDBgwYMCAAQMGDBgwYMBKKaWUmqJqGXfD55GvpQaBjLxlu+lzQtztLdvrD07rAG2756+Q56hlh7vf77aD3bp/jXazPfPlorkdQN526iKqr9O9+6+vH3696OK5B6vfuvhVNL86CXTxZN37G/K7aC7W4u/XehB4+73rk2iug99LDd4a9exr1x1u6zyZxPTEFzbarpN7nmsdPrla+ezK1fph3AL+0oDV/tDB7YQTSp0IvD551A9ODnViRLfOE2Lt3CLp4AuswfVJLLfOqF4Azwv8qlt7YteQNek+uL1Zb4928dGrZmpgvQOuBwCPRrUrWV8EbgcGq6MD2F/SQp24DreOrnvXxdbfiWP6Ku+hBu2HZ3t99eUOM1xdbE/cU9beYGS4E1YtY3/xPQr3H1asF6A9K9RDAAAAAElFTkSuQmCC\" style=\"height: auto; max-width: 100%;\"><br>",
+    "q_hi": "Select the option in which the given figure (X) is embedded as its part (rotation is NOT allowed).<br><br><img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHgAAACWCAYAAAAVKkwgAAACzUlEQVR42u3dW26rMBQFUA/NQ/PMGBr3p5EQShqc+hKzWUfKV5tHWZztY9SWUkpZPSIfrfyUgxEOfJd6/OCzVLsrxB2A24QnHOD/8Fl0byDwo3sXJHnAdfM5KpI84EU05wIbrMKBDVbBwPa8wcCiORxYNAcDi+ZgYNEcDiyag4Ef3etyZCBw1b3ZwAarYGCDVTiwaA4GFs3BwKI5HFg0BwOL5mBg0RwOLJqDgR/d63JkIHDVvdnABqtgYINVOLBoDgYWzcHAojkcWDQHA4vmYOBtNFeHMQ9YNAcDG6zCgXVvMLDBKhhYNIcDi+ZgYNEcDCyaw4FFczCwaA4G3kZzdajygP2DsmBgg1U4sMEqGNhgFQwsmsOBRXMwsGgOBhbN4cCi+QbA/iIwHLg6HPkR7e5ngAFfeR+cXA0wYMCAAQMGDBgwYMCAAQMGDBgwYMCAAQMGDBgwYMCAAQMGDBgwYMCAAQMGDBgwYMCAAQMGDBgwYMCAAQMGDBgwYMCAAQMGDBgwYMCAAQMGDBgwYMCAAQMGDBgwYMCAAQMGDBgwYMCAAQMGDBgwYMCAAQMGDBgwYMBKKaWUmqJqGXfD55GvpQaBjLxlu+lzQtztLdvrD07rAG2756+Q56hlh7vf77aD3bp/jXazPfPlorkdQN526iKqr9O9+6+vH3696OK5B6vfuvhVNL86CXTxZN37G/K7aC7W4u/XehB4+73rk2iug99LDd4a9exr1x1u6zyZxPTEFzbarpN7nmsdPrla+ezK1fph3AL+0oDV/tDB7YQTSp0IvD551A9ODnViRLfOE2Lt3CLp4AuswfVJLLfOqF4Azwv8qlt7YteQNek+uL1Zb4928dGrZmpgvQOuBwCPRrUrWV8EbgcGq6MD2F/SQp24DreOrnvXxdbfiWP6Ku+hBu2HZ3t99eUOM1xdbE/cU9beYGS4E1YtY3/xPQr3H1asF6A9K9RDAAAAAElFTkSuQmCC\" style=\"height: auto; max-width: 100%;\"><br>",
+    "section": "Mental Ability and Reasoning",
+    "solution": "<p>बच्चों, आइए इस सवाल को समझते हैं...</p>",
+    "topic": "Embedded Figure"
+  },
+  {
+    "ans": "1",
+    "level": "Medium",
+    "op_en": [
+      "O",
+      "U",
+      "I",
+      "A"
+    ],
+    "op_hi": [
+      "O",
+      "U",
+      "I",
+      "A"
+    ],
+    "q_en": "Refer to the following letter series and answer the question.<br>(Left) <span style=\"letter-spacing: 5.0pt;\">SAEFJIOPOIHKJAAREERPIOOFHFKYUK</span>(Right)<br>If all the consonants are dropped from the series, which letter will be fifth from the left?<span style=\"color: white;\">5615</span>",
+    "q_hi": "निम्नलिखित अक्षर श्रृंखला को देखें और प्रश्न का उत्तर दें।<br>(बाएं) <span style=\"letter-spacing: 5.0pt;\">SAEFJIOPOIHKJAAREERPIOOFHFKYUK</span>(दाएं)<br>यदि श्रृंखला से सभी व्यंजन हटा दिए जाते हैं, तो कौन सा अक्षर बाएं से पांचवां होगा?<span style=\"color: white;\">5615</span>",
+    "section": "Mental Ability and Reasoning",
+    "solution": "1. मूल श्रृंखला से व्यंजन हटाने पर केवल स्वर बचेंगे:<br>A, E, I, O, O, I, A, A, E, E, I, O, O, U<br>2. अब बाएं छोर से गिनें:<br>A (1), E (2), I (3), O (4), O (5)<br>3. बाएं से पांचवां अक्षर O है।",
+    "topic": "Letter Series"
+  },
+  {
+    "ans": "1",
+    "level": "Medium",
+    "op_en": [
+      "ZV 33",
+      "ZU 33",
+      "YV 30",
+      "YU 30"
+    ],
+    "op_hi": [
+      "ZV 33",
+      "ZU 33",
+      "YV 30",
+      "YU 30"
+    ],
+    "q_en": "TI 12 is related to XK 23 in a certain way. In the same way, KO 18 is related to OQ 29. To which of the following is VT 22 related, following the same logic?",
+    "q_hi": "TI 12 एक निश्चित तरीके से XK 23 से संबंधित है। उसी तरह, KO 18, OQ 29 से संबंधित है। उसी तर्क का अनुसरण करते हुए, VT 22 निम्नलिखित में से किससे संबंधित है?",
+    "section": "Mental Ability and Reasoning",
+    "solution": "1. पैटर्न की पहचान करें:<br>TI 12 &rarr; XK 23: T+4=X, I+2=K, 12+11=23<br>KO 18 &rarr; OQ 29: K+4=O, O+2=Q, 18+11=29<br>2. VT 22 पर यही तर्क लागू करें:<br>V + 4 = Z<br>T + 2 = V<br>22 + 11 = 33<br>3. अतः अभीष्ट उत्तर ZV 33 है।",
+    "topic": "Analogy"
+  },
+  {
+    "ans": "1",
+    "level": "Medium",
+    "op_en": [
+      "Three",
+      "Four",
+      "Two",
+      "One"
+    ],
+    "op_hi": [
+      "तीन",
+      "चार",
+      "दो",
+      "एक"
+    ],
+    "q_en": "Refer to the following series and answer the question that follows. All numbers are single digit numbers only.<br><br>(Left) 7  5  2  6  9  1  5  7  3  4  6  4  3  8  9  4  2  1  6  5  2  7  3  6  8 (Right)<br><br>How many such even digits are there, each of which is immediately preceded by an odd digit and also immediately followed by an odd digit?",
+    "q_hi": "निम्नलिखित श्रृंखला को देखें और उसके बाद आने वाले प्रश्न का उत्तर दें। सभी संख्याएँ केवल एक अंक वाली संख्याएँ हैं।<br><br>(बाएं) 7  5  2  6  9  1  5  7  3  4  6  4  3  8  9  4  2  1  6  5  2  7  3  6  8 (दाएं)<br><br>ऐसे कितने सम अंक हैं, जिनमें से प्रत्येक के ठीक पहले एक विषम अंक और ठीक बाद एक विषम अंक है?",
+    "section": "Mental Ability and Reasoning",
+    "solution": "1. हमें [विषम अंक] [सम अंक] [विषम अंक] के पैटर्न की तलाश करनी है।<br>2. श्रृंखला की जांच करने पर:<br>...3, 8, 9... (विषम, सम, विषम) - 1<br>...1, 6, 5... (विषम, सम, विषम) - 2<br>...5, 2, 7... (विषम, सम, विषम) - 3<br>3. ऐसे कुल 3 सम अंक हैं।",
+    "topic": "Number Series"
+  },
+  {
+    "ans": "1",
+    "level": "Medium",
+    "op_en": [
+      "H",
+      "G",
+      "S",
+      "D"
+    ],
+    "op_hi": [
+      "H",
+      "G",
+      "S",
+      "D"
+    ],
+    "q_en": "Each letter in the word FIGHTER is changed to the letter immediately preceding it in the English alphabetical order and then all the letters thus formed are arranged in the English alphabetical order. Which of the following letters will be third from the right in the new group of letters thus formed?<br> <span style=\"color: white;\">854</span>",
+    "q_hi": "शब्द FIGHTER के प्रत्येक अक्षर को अंग्रेजी वर्णमाला के क्रम में उसके ठीक पहले वाले अक्षर से बदल दिया जाता है और फिर इस प्रकार बने सभी अक्षरों को अंग्रेजी वर्णमाला के क्रम में व्यवस्थित किया जाता है। इस प्रकार बने अक्षरों के नए समूह में निम्नलिखित में से कौन सा अक्षर दाएं से तीसरा होगा?<br> <span style=\"color: white;\">854</span>",
+    "section": "Mental Ability and Reasoning",
+    "solution": "1. शब्द FIGHTER के प्रत्येक अक्षर को पिछले अक्षर से बदलें:<br>F&rarr;E, I&rarr;H, G&rarr;F, H&rarr;G, T&rarr;S, E&rarr;D, R&rarr;Q<br>2. नया समूह: E, H, F, G, S, D, Q<br>3. इन्हें वर्णमाला क्रम में व्यवस्थित करें: D, E, F, G, H, Q, S<br>4. दाएं से तीसरा अक्षर गिनें: S (1), Q (2), H (3)<br>5. दाएं से तीसरा अक्षर H है।",
+    "topic": "Alphabet Test"
+  },
+  {
+    "ans": "4",
+    "level": "Medium",
+    "op_en": [
+      "Both I and II are true.",
+      "Only II is true.",
+      "Only I is true.",
+      "Neither I nor II is true."
+    ],
+    "op_hi": [
+      "I और II दोनों सत्य हैं।",
+      "केवल II सत्य है।",
+      "केवल I सत्य है।",
+      "न तो I और न ही II सत्य है।"
+    ],
+    "q_en": "In this question, a statement is followed by two conclusions. Find out which conclusion is true based on the given statement.<br><br><strong>Statement</strong>: P &gt; V &lt; Y ≥ T  = X<br><br><strong>Conclusions</strong>:<br>I: P &lt; Y<br>II: V &gt; X",
+    "q_hi": "इस प्रश्न में, एक कथन के बाद दो निष्कर्ष दिए गए हैं। दिए गए कथन के आधार पर ज्ञात कीजिए कि कौन सा निष्कर्ष सत्य है।<br><br><strong>कथन</strong>: P &gt; V &lt; Y ≥ T  = X<br><br><strong>निष्कर्ष</strong>:<br>I: P &lt; Y<br>II: V &gt; X",
+    "section": "Mental Ability and Reasoning",
+    "solution": "1. निष्कर्ष I (P < Y): P और Y के बीच प्रतीकों के मुख विपरीत दिशाओं में हैं (P > V < Y), इसलिए उनके बीच कोई निश्चित संबंध स्थापित नहीं किया जा सकता।<br>2. निष्कर्ष II (V > X): V और X के बीच भी प्रतीकों के मुख विपरीत दिशाओं में हैं (V < Y ≥ T = X), इसलिए इनके बीच भी कोई निश्चित संबंध नहीं है।<br>3. अतः कोई भी निष्कर्ष सत्य नहीं है।",
+    "topic": "Inequality"
+  },
+  {
+    "ans": "2",
+    "level": "Medium",
+    "op_en": [
+      "5",
+      "2",
+      "3",
+      "7"
+    ],
+    "op_hi": [
+      "5",
+      "2",
+      "3",
+      "7"
+    ],
+    "q_en": "In a certain code language, ‘CARD’ is coded as ‘3758’ and ‘RACK’ is coded as ‘5238’. What is the code for ‘K’ in that language?",
+    "q_hi": "एक निश्चित कूट भाषा में, ‘CARD’ को ‘3758’ और ‘RACK’ को ‘5238’ के रूप में कूटबद्ध किया जाता है। उस भाषा में ‘K’ का कूट क्या है?",
+    "section": "Mental Ability and Reasoning",
+    "solution": "1. दोनों शब्दों की तुलना करें:<br>CARD = 3 7 5 8<br>RACK = 5 2 3 8<br>2. उभयनिष्ठ अक्षर C, A, R हैं और उभयनिष्ठ कूट 3, 5, 8 हैं।<br>3. RACK में केवल 'K' बचा है और कूट में केवल '2' बचा है।<br>4. अतः 'K' का कूट 2 है।",
+    "topic": "Coding-Decoding"
+  },
+  {
+    "ans": "2",
+    "level": "Medium",
+    "op_en": [
+      "Son",
+      "Mother's sister's son",
+      "Mother's sister's husband",
+      "Husband"
+    ],
+    "op_hi": [
+      "पुत्र",
+      "माँ की बहन का पुत्र",
+      "माँ की बहन का पति",
+      "पति"
+    ],
+    "q_en": "In a certain code language,<br>A + B means ‘A is the son of B’,<br>A # B means ‘A is the sister of B’,<br>A x B means ‘A is the wife of B’ and<br>A &amp; B means ‘A is the father of B’.<br>Based on the above, how is S related to T if 'S + G # J x K &amp; T'?",
+    "q_hi": "एक निश्चित कूट भाषा में,<br>A + B का अर्थ है ‘A, B का पुत्र है’,<br>A # B का अर्थ है ‘A, B की बहन है’,<br>A x B का अर्थ है ‘A, B की पत्नी है’ और<br>A &amp; B का अर्थ है ‘A, B का पिता है’।<br>उपरोक्त के आधार पर, यदि 'S + G # J x K &amp; T' है, तो S, T से किस प्रकार संबंधित है?",
+    "section": "Mental Ability and Reasoning",
+    "solution": "1. व्यंजक को डिकोड करें:<br>S + G: S, G का पुत्र है।<br>G # J: G, J की बहन है।<br>J x K: J, K की पत्नी है।<br>K &amp; T: K, T का पिता है।<br>2. संबंधों का विश्लेषण:<br>K पिता है और J पत्नी है, तो J, T की माँ है।<br>G, माँ (J) की बहन है।<br>S, माँ की बहन (G) का पुत्र है।<br>3. अतः S, T की माँ की बहन का पुत्र (मौसेरा भाई) है।",
+    "topic": "Blood Relation"
+  },
+  {
+    "ans": "1",
+    "level": "Medium",
+    "op_en": [
+      "Neither conclusion (I) nor (II) follows.",
+      "Only conclusion (I) follows.",
+      "Only conclusion (II) follows.",
+      "Both conclusions (I) and (II) follow."
+    ],
+    "op_hi": [
+      "न तो निष्कर्ष (I) और न ही (II) अनुसरण करता है।",
+      "केवल निष्कर्ष (I) अनुसरण करता है।",
+      "केवल निष्कर्ष (II) अनुसरण करता है।",
+      "निष्कर्ष (I) और (II) दोनों अनुसरण करते हैं।"
+    ],
+    "q_en": "Read the given statements and conclusions carefully. Assuming that the information given in the statements is true, even if it appears to be at variance with commonly known facts, decide which of the given conclusions logically follow(s) from the statements.<br><br><strong>Statements:</strong><br>Some bottles are cans.<br>All jars are cans.<br><br><strong>Conclusions:</strong><br>(I) Some bottles are jars.<br>(II) All cans are jars.",
+    "q_hi": "दिए गए कथनों और निष्कर्षों को ध्यानपूर्वक पढ़ें। यह मानते हुए कि कथनों में दी गई जानकारी सत्य है, भले ही वह सामान्य रूप से ज्ञात तथ्यों से भिन्न प्रतीत होती हो, यह तय करें कि दिए गए निष्कर्षों में से कौन सा/से कथनों का तार्किक रूप से अनुसरण करता/करते है/हैं।<br><br><strong>कथन:</strong><br>कुछ बोतलें डिब्बे (cans) हैं।<br>सभी जार डिब्बे हैं।<br><br><strong>निष्कर्ष:</strong><br>(I) कुछ बोतलें जार हैं।<br>(II) सभी डिब्बे जार हैं।",
+    "section": "Mental Ability and Reasoning",
+    "solution": "1. वेन आरेख के अनुसार:<br>बोतल और डिब्बे के बीच कुछ हिस्सा साझा है।<br>सभी जार डिब्बे के अंदर हैं।<br>2. निष्कर्ष I: बोतल और जार के बीच कोई निश्चित संबंध नहीं दिया गया है, वे अलग हो सकते हैं। अतः यह अनुसरण नहीं करता।<br>3. निष्कर्ष II: सभी जार डिब्बे हैं, लेकिन इसका अर्थ यह नहीं है कि सभी डिब्बे जार हैं। अतः यह भी गलत है।<br>4. इसलिए, कोई भी निष्कर्ष अनुसरण नहीं करता है।",
+    "topic": "Syllogism"
+  },
+  {
+    "ans": "3",
+    "level": "Medium",
+    "op_en": [
+      "Both I and II are true.",
+      "Only I is true.",
+      "Neither I nor II is true.",
+      "Only II is true."
+    ],
+    "op_hi": [
+      "I और II दोनों सत्य हैं।",
+      "केवल I सत्य है।",
+      "न तो I और न ही II सत्य है।",
+      "केवल II सत्य है।"
+    ],
+    "q_en": "In this question, a statement is followed by two conclusions. Find out which conclusion is true based on the given statement.<br><br><strong>Statement</strong>: V ≤ Q &gt; T &lt; U  = R<br><br><strong>Conclusions</strong>:<br>I: V &gt; T<br>II: Q &lt; R",
+    "q_hi": "इस प्रश्न में, एक कथन के बाद दो निष्कर्ष दिए गए हैं। दिए गए कथन के आधार पर ज्ञात कीजिए कि कौन सा निष्कर्ष सत्य है।<br><br><strong>कथन</strong>: V ≤ Q &gt; T &lt; U  = R<br><br><strong>निष्कर्ष</strong>:<br>I: V &gt; T<br>II: Q &lt; R",
+    "section": "Mental Ability and Reasoning",
+    "solution": "1. निष्कर्ष I (V > T): V और T के बीच प्रतीक विपरीत दिशाओं में हैं (V ≤ Q > T), इसलिए संबंध अज्ञात है।<br>2. निष्कर्ष II (Q < R): Q और R के बीच भी प्रतीकों के मुख विपरीत हैं (Q > T < U = R), इसलिए संबंध निर्धारित नहीं किया जा सकता।<br>3. अतः न तो I और न ही II सत्य है।",
+    "topic": "Inequality"
+  },
+  {
+    "ans": "3",
+    "level": "Medium",
+    "op_en": [
+      "KGM",
+      "TPV",
+      "QPY",
+      "HDJ"
+    ],
+    "op_hi": [
+      "KGM",
+      "TPV",
+      "QPY",
+      "HDJ"
+    ],
+    "q_en": "Based on the English alphabetical order, three of the following four letter-clusters are alike in a certain way and thus form a group. Which is the letter-cluster that does NOT belong to that group?<br>(Note: The odd one out is not based on the number of consonants/vowels or their positions in the letter-cluster.)<span style=\"color: white;\"></span>",
+    "q_hi": "अंग्रेजी वर्णमाला के क्रम के आधार पर, निम्नलिखित चार अक्षर-समूहों में से तीन एक निश्चित तरीके से समान हैं और इस प्रकार एक समूह बनाते हैं। वह कौन सा अक्षर-समूह है जो उस समूह से संबंधित नहीं है?<br>(नोट: विषम अक्षर-समूह व्यंजनों/स्वरों की संख्या या अक्षर-समूह में उनकी स्थिति पर आधारित नहीं है।)<span style=\"color: white;\"></span>",
+    "section": "Mental Ability and Reasoning",
+    "solution": "1. अक्षरों के बीच के अंतर की जांच करें:<br>KGM: K (11) - 4 = G (7); G (7) + 6 = M (13)<br>TPV: T (20) - 4 = P (16); P (16) + 6 = V (22)<br>HDJ: H (8) - 4 = D (4); D (4) + 6 = J (10)<br>2. QPY की जांच करें: Q (17) - 1 = P (16); P (16) + 9 = Y (25)<br>3. QPY अन्य समूहों के -4, +6 पैटर्न का पालन नहीं करता है।",
+    "topic": "Odd One Out"
+  }
+]
