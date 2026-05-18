@@ -1,0 +1,422 @@
+[
+  {
+    "ans": "3",
+    "level": "",
+    "op_en": [
+      "<img align=\"middle\" alt=\"817.76 space cm cubed\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mn»817«/mn»«mo».«/mo»«mn»76«/mn»«mo»§#160;«/mo»«msup»«mi»cm«/mi»«mn»3«/mn»«/msup»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFQAAAAPCAYAAAB6Iuj1AAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAOJ5y/mQAAAo9JREFUeNrtV0FIG0EUFZFQQi9LkCChFylFgohQeiqlCKWEHDwEikjwIAsScpDSmyfpoZdSQsmh0GPxUAg9SSlCD8GDBMFDEBEvIkFEgiDiISyL0P6RN/A7zO7MrDZ6yIfH7v7d/+f/N/P/zA4NDSSpjBLWCSFQGFByM1khPMK9IDPgL8uEbSgF222CrzgQxkuE74RexCDjhD8R+GgI0NV2lvCDcEm4ugNCh9l9mtCUD1UE/ZnwgDBC+ATdW2a0C6JlkjqpxpCSNwRoaytK7TeIXCU8VZLrtzxD6eek4gxBDyvsC92FZlbiCP2KBLlMEVoWgdnYjhGOUE25e1D2PuOjIpWHUJSU8ha6hsZJHKGPNbo6YdEiOBvbFgj17lk/LfC2U0Tf7IHxh4RNwjf0BhdCVUkRTnF1FdW2zPrpL/T7E8Kypb8i2pbIdYfwBPpJQo1wjpZXAxfHhFeEDGEN43UILyP8/8PJC3wslF3DEcCFUB+rLGk5cdsNVloj2MSOoPMNvp4TtgjTeBaTsof7c5bTHBZRCc8dTJjQzUC3F7FCQ67IYhYajNTXt0BoCysgiai2Pc24ctXuG3w1QZyUClZ33L4QpZPEbbNvQlTAteRBYBnPC/hA7auuhNpuRra2oWbcFHSBwV9giNmFUGPubc0u/4Yt+aSE1i1K0cX2AOOOaeLpGvzJyZjoB6EyUE9zPNpJSGgKSaZiNoiio+17jFvV/AzUDPHI8lxDbuOs5G+d0DI7Inlo+B9wBlVnNMucZm+wGcUFFmWbxobQRVziNPITu3HGkOM8G/MKPr7gncfeeZY603jXs97GYAH+RPIRJKhIshkltR1lR5gAv8G2B/x3WCQBjoSZiLxcdAP53/IXe6QL3jCkXMkAAACRdEVYdE1hdGhNTAA8bWF0aCB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMTk5OC9NYXRoL01hdGhNTCI+PG1uPjgxNzwvbW4+PG1vPi48L21vPjxtbj43NjwvbW4+PG1vPiYjeEEwOzwvbW8+PG1zdXA+PG1pPmNtPC9taT48bW4+MzwvbW4+PC9tc3VwPjwvbWF0aD5pC3cJAAAAAElFTkSuQmCC\" style=\"max-width: none;\">",
+      "<img align=\"middle\" alt=\"359.35 space cm cubed\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mn»359«/mn»«mo».«/mo»«mn»35«/mn»«mo»§#160;«/mo»«msup»«mi»cm«/mi»«mn»3«/mn»«/msup»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFQAAAAPCAYAAAB6Iuj1AAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAOJ5y/mQAAAmZJREFUeNrtV09EREEYf549JCtWnpUk9pCkQ5d06JDokI6x0mklkj106LbSIemyktUhkiTplqRTl6wOSXRKkuiwkpVYyVrrWaZv+D3GmNmdfft297I/frz3ffNmvvnm+zPPsjrwC4d4TXTB2Y5LGkOKOIBn7syyqJwg3sPTf8RjYq9iEpv4TWTgu6QfJF4QS8Qi5nEMDQzKhlbBFp67iVnvZYS4QQwRe4iHMDSrmCQubIRzX9BFiXniFRYYxvsrMVzDuKBsaAfGkfr9niCp8DxDlMm4JS5pJj7AdzFBloRsq4ZRQdnQaiwLB7uqCl0LkcUHpCV5DPIiIigq6X+gF9FnmJZB2dAu8Bpa0YUvT9GMQrcjpdqXtKEK5CHpO4a6WE8K+bWhGuaIz7DliTgE+Shxj1ggduGZZ8YncQZ1/AxNJ0ec0szPVAsyoXY5mqtCAhtmSHMPniyuWKhUx6YbsUGHSTS8MbzzyH/Bc0FYcwH1fx7v3IFrkE1D9qKJUGXQDOD0GE5FB36Sd+i2cr38QGqGUOsY6p4pGrFBhywc52EV0S3Wa6YIBFYl2x6FMS6CQZtyJlE1rDiVNRjqotunMFfCR+f0a4MKZVVKGjjPRGZ0vzJN01wNPU+zB593vKBssOB0hgNouUP78dG5wbhtjY6n+wk226eplXNNtkHEo1BCbJSkr2Y5lG/6CN2MF/wbTffcRJ20MS6tuLDzP6UV4hvmcQwjIkgbVFgU1qyg7nrNLCLoIoay3mqLZVBjXDSUXY0jzjEmj6tFWOEk/st4WSP6VA4NyoZqWCf+Yp1TwSlMYj2yDpqNfx35BYtqfmPWAAAAkXRFWHRNYXRoTUwAPG1hdGggeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzE5OTgvTWF0aC9NYXRoTUwiPjxtbj4zNTk8L21uPjxtbz4uPC9tbz48bW4+MzU8L21uPjxtbz4mI3hBMDs8L21vPjxtc3VwPjxtaT5jbTwvbWk+PG1uPjM8L21uPjwvbXN1cD48L21hdGg+JOel6wAAAABJRU5ErkJggg==\" style=\"max-width: none;\">",
+      "<img align=\"middle\" alt=\"718.67 space cm cubed\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mn»718«/mn»«mo».«/mo»«mn»67«/mn»«mo»§#160;«/mo»«msup»«mi»cm«/mi»«mn»3«/mn»«/msup»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFQAAAAPCAYAAAB6Iuj1AAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAOJ5y/mQAAAn9JREFUeNrtV0FEBFEYTrKSLmtlZe0lyVorkU5JIkmHDkuS1SFLsoekW6d06JKs7CE6pkOsTkmiw+qQFR3WSrokK8mKlQ5rrNj+4Rt+03szb97aOe3HZ2f/9+a9b743///edHV1oIsB4iWxAc53LGkNO8Qork0zDd44RGxKeIA+5s3rxHNiXTJJiviAwc1VKxHTGmIXiRfEH+KvR51+oZtd9xELvDHjIDSOPmUYZMXtsMY4IvYSe4iHiG15SKNbGLlLHLcJV9HpNyaQ+hEePIF4jlFiUbAqMkO/EO8W9P9WEDZIfMMbHpH0UdXpF9LMjw3eMCzonCOuCeIyQ18RT7JYFLG8grgiDA069PGi00/M20rTPwSIn/hVNXQBdbOOlesn3hFPUWOckGJ18Bo1+IO46XKfk06RvjI0PhJHEE8Qs8QaSlUWz/BOnCWGiGfQVCFOS8Zvur3KOYcbZTdPYVKzverhKHHD0qYHm88bYmlNnRyTxHviGP6bC/eE6xp7pmUsfhL/K1hUMzaD2JPkDW24pV9Cw9AwVjPPTJ1TeOC6YEzrrX3W1MlRgHEWNpABTvuCLGYZ98D6NJABQrgVeZmhcRiYwv9VTGSvqyI0BGMGEDM0dXIYLinpxdCm1wKbc0kz2aAlwS6/xFLHCS/oNyiYq6qpU7RgMb8NDeABAhqGWqYEBcemR8EGwVNkD/0ygkN8VlMnh5WeZ9A0xFK+rYa6FfkwGzQsqXl5mGpuLvs4g8ZchPWh2FfR1zwhXGGnDbWwGVlYYXP+Yp5jtAVZW1AxFlKdWGUzstP+tVSCaANfPXHFt3yAHU8MfOJGWtyMOLaxuAaOciHJc3mJddBu/AFzFAve1ZjsygAAAJF0RVh0TWF0aE1MADxtYXRoIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8xOTk4L01hdGgvTWF0aE1MIj48bW4+NzE4PC9tbj48bW8+LjwvbW8+PG1uPjY3PC9tbj48bW8+JiN4QTA7PC9tbz48bXN1cD48bWk+Y208L21pPjxtbj4zPC9tbj48L21zdXA+PC9tYXRoPsGphyAAAAAASUVORK5CYII=\" style=\"max-width: none;\">",
+      "<img align=\"middle\" alt=\"1437.34 space cm cubed\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mn»1437«/mn»«mo».«/mo»«mn»34«/mn»«mo»§#160;«/mo»«msup»«mi»cm«/mi»«mn»3«/mn»«/msup»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAF0AAAAPCAYAAACGN8M/AAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAOJ5y/mQAAAkZJREFUeNrtVz1LA0EQDUFELIQQQgqxEZEQRAQJFhYiWEhKGxErEURSWIiN+A9EQkghiFiIiGBpJVikkhCwEAl2FiJBbIJYSDgCcRZeYFlub2ZP8lFk4JG73dm3c+92Zi6RyMA6aQnCHcEDVgeSdN4OCRO4VoI39Ek1sUO4IfwKCW8JLWNsgfCIt/pDuCDEDZ9JrPPDMbOnhF8SZ7csql2PEkr65AvhWXt4zjZ9fNOEI8IQYYxwhvmSsTYXIHo6YE8pPxdnLyyDMjPu91YkAaqsePLxzVn4zMxRYs0bY7OEMrOvlJ+Ls9u2rcWw6+cgCfABIpm+UcMvZSkZUz6cRcKWQ6oG8XNx9spUTW+GEf1Ae1tBviqdXgkFQTDDhE/8uqRrEL80TtOyKLUesmQa4zOEPKFOGMG1yrAPwgr6yhUa5TthycLfchVdbXwt8M1qcyV8NnHpV3QQnOOXxmnaIpr0HO5VBlVxXdd41tEU13CvRN7D2DLGqpaT7rmIrk7hPSEmfBi9nl4xD1uGUC5m43eNU7cSxG2bypQa0+9sY21xK5qPhwMjFj2PzzWXUpRhGp20gbrwh4mzbQ3Gz0V0px5iW9BiYGt8nOhFlJew38Amf5g42+bBJ9UvoofxHcf8dUAD/QpooFlbOgr5XZ+popWrKP7E1TotelJbkAwhumoo5+jkCdTWWgAX10D/y+8qwobm28SBOMVcTJuLCcfiUgFd0tH0KaAuqjR9I5wwXy5cA/0vf5iTt0/4xj6XmnB+ukjHBtYP9gfA7CDuu/ZydgAAAJJ0RVh0TWF0aE1MADxtYXRoIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8xOTk4L01hdGgvTWF0aE1MIj48bW4+MTQzNzwvbW4+PG1vPi48L21vPjxtbj4zNDwvbW4+PG1vPiYjeEEwOzwvbW8+PG1zdXA+PG1pPmNtPC9taT48bW4+MzwvbW4+PC9tc3VwPjwvbWF0aD4L6eO4AAAAAElFTkSuQmCC\" style=\"max-width: none;\">"
+    ],
+    "op_hi": [
+      "<img align=\"middle\" alt=\"817.76 space cm cubed\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mn»817«/mn»«mo».«/mo»«mn»76«/mn»«mo»§#160;«/mo»«msup»«mi»cm«/mi»«mn»3«/mn»«/msup»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFQAAAAPCAYAAAB6Iuj1AAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAOJ5y/mQAAAo9JREFUeNrtV0FIG0EUFZFQQi9LkCChFylFgohQeiqlCKWEHDwEikjwIAsScpDSmyfpoZdSQsmh0GPxUAg9SSlCD8GDBMFDEBEvIkFEgiDiISyL0P6RN/A7zO7MrDZ6yIfH7v7d/+f/N/P/zA4NDSSpjBLWCSFQGFByM1khPMK9IDPgL8uEbSgF222CrzgQxkuE74RexCDjhD8R+GgI0NV2lvCDcEm4ugNCh9l9mtCUD1UE/ZnwgDBC+ATdW2a0C6JlkjqpxpCSNwRoaytK7TeIXCU8VZLrtzxD6eek4gxBDyvsC92FZlbiCP2KBLlMEVoWgdnYjhGOUE25e1D2PuOjIpWHUJSU8ha6hsZJHKGPNbo6YdEiOBvbFgj17lk/LfC2U0Tf7IHxh4RNwjf0BhdCVUkRTnF1FdW2zPrpL/T7E8Kypb8i2pbIdYfwBPpJQo1wjpZXAxfHhFeEDGEN43UILyP8/8PJC3wslF3DEcCFUB+rLGk5cdsNVloj2MSOoPMNvp4TtgjTeBaTsof7c5bTHBZRCc8dTJjQzUC3F7FCQ67IYhYajNTXt0BoCysgiai2Pc24ctXuG3w1QZyUClZ33L4QpZPEbbNvQlTAteRBYBnPC/hA7auuhNpuRra2oWbcFHSBwV9giNmFUGPubc0u/4Yt+aSE1i1K0cX2AOOOaeLpGvzJyZjoB6EyUE9zPNpJSGgKSaZiNoiio+17jFvV/AzUDPHI8lxDbuOs5G+d0DI7Inlo+B9wBlVnNMucZm+wGcUFFmWbxobQRVziNPITu3HGkOM8G/MKPr7gncfeeZY603jXs97GYAH+RPIRJKhIshkltR1lR5gAv8G2B/x3WCQBjoSZiLxcdAP53/IXe6QL3jCkXMkAAACRdEVYdE1hdGhNTAA8bWF0aCB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMTk5OC9NYXRoL01hdGhNTCI+PG1uPjgxNzwvbW4+PG1vPi48L21vPjxtbj43NjwvbW4+PG1vPiYjeEEwOzwvbW8+PG1zdXA+PG1pPmNtPC9taT48bW4+MzwvbW4+PC9tc3VwPjwvbWF0aD5pC3cJAAAAAElFTkSuQmCC\" style=\"max-width: none;\">",
+      "<img align=\"middle\" alt=\"359.35 space cm cubed\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mn»359«/mn»«mo».«/mo»«mn»35«/mn»«mo»§#160;«/mo»«msup»«mi»cm«/mi»«mn»3«/mn»«/msup»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFQAAAAPCAYAAAB6Iuj1AAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAOJ5y/mQAAAmZJREFUeNrtV09EREEYf549JCtWnpUk9pCkQ5d06JDokI6x0mklkj106LbSIemyktUhkiTplqRTl6wOSXRKkuiwkpVYyVrrWaZv+D3GmNmdfft297I/frz3ffNmvvnm+zPPsjrwC4d4TXTB2Y5LGkOKOIBn7syyqJwg3sPTf8RjYq9iEpv4TWTgu6QfJF4QS8Qi5nEMDQzKhlbBFp67iVnvZYS4QQwRe4iHMDSrmCQubIRzX9BFiXniFRYYxvsrMVzDuKBsaAfGkfr9niCp8DxDlMm4JS5pJj7AdzFBloRsq4ZRQdnQaiwLB7uqCl0LkcUHpCV5DPIiIigq6X+gF9FnmJZB2dAu8Bpa0YUvT9GMQrcjpdqXtKEK5CHpO4a6WE8K+bWhGuaIz7DliTgE+Shxj1ggduGZZ8YncQZ1/AxNJ0ec0szPVAsyoXY5mqtCAhtmSHMPniyuWKhUx6YbsUGHSTS8MbzzyH/Bc0FYcwH1fx7v3IFrkE1D9qKJUGXQDOD0GE5FB36Sd+i2cr38QGqGUOsY6p4pGrFBhywc52EV0S3Wa6YIBFYl2x6FMS6CQZtyJlE1rDiVNRjqotunMFfCR+f0a4MKZVVKGjjPRGZ0vzJN01wNPU+zB593vKBssOB0hgNouUP78dG5wbhtjY6n+wk226eplXNNtkHEo1BCbJSkr2Y5lG/6CN2MF/wbTffcRJ20MS6tuLDzP6UV4hvmcQwjIkgbVFgU1qyg7nrNLCLoIoay3mqLZVBjXDSUXY0jzjEmj6tFWOEk/st4WSP6VA4NyoZqWCf+Yp1TwSlMYj2yDpqNfx35BYtqfmPWAAAAkXRFWHRNYXRoTUwAPG1hdGggeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzE5OTgvTWF0aC9NYXRoTUwiPjxtbj4zNTk8L21uPjxtbz4uPC9tbz48bW4+MzU8L21uPjxtbz4mI3hBMDs8L21vPjxtc3VwPjxtaT5jbTwvbWk+PG1uPjM8L21uPjwvbXN1cD48L21hdGg+JOel6wAAAABJRU5ErkJggg==\" style=\"max-width: none;\">",
+      "<img align=\"middle\" alt=\"718.67 space cm cubed\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mn»718«/mn»«mo».«/mo»«mn»67«/mn»«mo»§#160;«/mo»«msup»«mi»cm«/mi»«mn»3«/mn»«/msup»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFQAAAAPCAYAAAB6Iuj1AAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAOJ5y/mQAAAn9JREFUeNrtV0FEBFEYTrKSLmtlZe0lyVorkU5JIkmHDkuS1SFLsoekW6d06JKs7CE6pkOsTkmiw+qQFR3WSrokK8mKlQ5rrNj+4Rt+03szb97aOe3HZ2f/9+a9b743///edHV1oIsB4iWxAc53LGkNO8Qork0zDd44RGxKeIA+5s3rxHNiXTJJiviAwc1VKxHTGmIXiRfEH+KvR51+oZtd9xELvDHjIDSOPmUYZMXtsMY4IvYSe4iHiG15SKNbGLlLHLcJV9HpNyaQ+hEePIF4jlFiUbAqMkO/EO8W9P9WEDZIfMMbHpH0UdXpF9LMjw3eMCzonCOuCeIyQ18RT7JYFLG8grgiDA069PGi00/M20rTPwSIn/hVNXQBdbOOlesn3hFPUWOckGJ18Bo1+IO46XKfk06RvjI0PhJHEE8Qs8QaSlUWz/BOnCWGiGfQVCFOS8Zvur3KOYcbZTdPYVKzverhKHHD0qYHm88bYmlNnRyTxHviGP6bC/eE6xp7pmUsfhL/K1hUMzaD2JPkDW24pV9Cw9AwVjPPTJ1TeOC6YEzrrX3W1MlRgHEWNpABTvuCLGYZ98D6NJABQrgVeZmhcRiYwv9VTGSvqyI0BGMGEDM0dXIYLinpxdCm1wKbc0kz2aAlwS6/xFLHCS/oNyiYq6qpU7RgMb8NDeABAhqGWqYEBcemR8EGwVNkD/0ygkN8VlMnh5WeZ9A0xFK+rYa6FfkwGzQsqXl5mGpuLvs4g8ZchPWh2FfR1zwhXGGnDbWwGVlYYXP+Yp5jtAVZW1AxFlKdWGUzstP+tVSCaANfPXHFt3yAHU8MfOJGWtyMOLaxuAaOciHJc3mJddBu/AFzFAve1ZjsygAAAJF0RVh0TWF0aE1MADxtYXRoIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8xOTk4L01hdGgvTWF0aE1MIj48bW4+NzE4PC9tbj48bW8+LjwvbW8+PG1uPjY3PC9tbj48bW8+JiN4QTA7PC9tbz48bXN1cD48bWk+Y208L21pPjxtbj4zPC9tbj48L21zdXA+PC9tYXRoPsGphyAAAAAASUVORK5CYII=\" style=\"max-width: none;\">",
+      "<img align=\"middle\" alt=\"1437.34 space cm cubed\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mn»1437«/mn»«mo».«/mo»«mn»34«/mn»«mo»§#160;«/mo»«msup»«mi»cm«/mi»«mn»3«/mn»«/msup»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAF0AAAAPCAYAAACGN8M/AAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAOJ5y/mQAAAkZJREFUeNrtVz1LA0EQDUFELIQQQgqxEZEQRAQJFhYiWEhKGxErEURSWIiN+A9EQkghiFiIiGBpJVikkhCwEAl2FiJBbIJYSDgCcRZeYFlub2ZP8lFk4JG73dm3c+92Zi6RyMA6aQnCHcEDVgeSdN4OCRO4VoI39Ek1sUO4IfwKCW8JLWNsgfCIt/pDuCDEDZ9JrPPDMbOnhF8SZ7csql2PEkr65AvhWXt4zjZ9fNOEI8IQYYxwhvmSsTYXIHo6YE8pPxdnLyyDMjPu91YkAaqsePLxzVn4zMxRYs0bY7OEMrOvlJ+Ls9u2rcWw6+cgCfABIpm+UcMvZSkZUz6cRcKWQ6oG8XNx9spUTW+GEf1Ae1tBviqdXgkFQTDDhE/8uqRrEL80TtOyKLUesmQa4zOEPKFOGMG1yrAPwgr6yhUa5TthycLfchVdbXwt8M1qcyV8NnHpV3QQnOOXxmnaIpr0HO5VBlVxXdd41tEU13CvRN7D2DLGqpaT7rmIrk7hPSEmfBi9nl4xD1uGUC5m43eNU7cSxG2bypQa0+9sY21xK5qPhwMjFj2PzzWXUpRhGp20gbrwh4mzbQ3Gz0V0px5iW9BiYGt8nOhFlJew38Amf5g42+bBJ9UvoofxHcf8dUAD/QpooFlbOgr5XZ+popWrKP7E1TotelJbkAwhumoo5+jkCdTWWgAX10D/y+8qwobm28SBOMVcTJuLCcfiUgFd0tH0KaAuqjR9I5wwXy5cA/0vf5iTt0/4xj6XmnB+ukjHBtYP9gfA7CDuu/ZydgAAAJJ0RVh0TWF0aE1MADxtYXRoIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8xOTk4L01hdGgvTWF0aE1MIj48bW4+MTQzNzwvbW4+PG1vPi48L21vPjxtbj4zNDwvbW4+PG1vPiYjeEEwOzwvbW8+PG1zdXA+PG1pPmNtPC9taT48bW4+MzwvbW4+PC9tc3VwPjwvbWF0aD4L6eO4AAAAAElFTkSuQmCC\" style=\"max-width: none;\">"
+    ],
+    "q_en": "<img align=\"middle\" alt=\"Find space the space volume space left parenthesis approximate space to space two space decimals right parenthesis space of space a space hemisphere space if space its space base space area space is space 154 space cm squared. space left square bracket Use space pi equals 22 divided by 7 right square bracket\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mi»Find«/mi»«mo»§#160;«/mo»«mi»the«/mi»«mo»§#160;«/mo»«mi»volume«/mi»«mo»§#160;«/mo»«mo»(«/mo»«mi»approximate«/mi»«mo»§#160;«/mo»«mi»to«/mi»«mo»§#160;«/mo»«mi»two«/mi»«mo»§#160;«/mo»«mi»decimals«/mi»«mo»)«/mo»«mo»§#160;«/mo»«mi»of«/mi»«mo»§#160;«/mo»«mi»a«/mi»«mo»§#160;«/mo»«mi»hemisphere«/mi»«mo»§#160;«/mo»«mi»if«/mi»«mo»§#160;«/mo»«mi»its«/mi»«mo»§#160;«/mo»«mi»base«/mi»«mo»§#160;«/mo»«mi»area«/mi»«mo»§#160;«/mo»«mi»is«/mi»«mo»§#160;«/mo»«mn»154«/mn»«mo»§#160;«/mo»«msup»«mi»cm«/mi»«mn»2«/mn»«/msup»«mo».«/mo»«mo»§#160;«/mo»«mo»[«/mo»«mi»Use«/mi»«mo»§#160;«/mo»«mi»§#960;«/mi»«mo»=«/mo»«mn»22«/mn»«mo»/«/mo»«mn»7«/mn»«mo»]«/mo»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,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9MUHV59DdVN5GXo2pM8UOXRhv/J71mxtXPZP16HY/VidEptH1T0uP0roApe+BmkZ20cBuOzIMNjFabN9L12dIIFjLzn2sUTbUvmOIL9AFu2pSu/hGDJvwh/1KimDFnaf07x3fwbv38IJyX5TFnB4za8mvHJ0jZHHIvdthBBSG5aDPKQudVGWxmJlTKHhe4kOHpy8cjXjfIzjjPFDFA5uffZ0l+8ZjB4zW+9rhwBO1QIK42Oz/eiwUFs+NFt7Ha6jMrxGQTzM6FPJfsKMpv8e5CSWYU8S+AVnZ0569V/EfIs4+ITkI5bHbf9CDdpSZLEOXXO08OVSyotYOSk6cMuyBmHFbH+ncRzL72XyIQWKjudoBDPyb/D3m87vO8XfWBnjODgtBhyPE6hTFORoy3ndICenhlA2165I6c6lK8eWlOjLQkSeqfrMaQ/l2ZA+5+TQxyDq0Crq/42AI0ux+6k6uTaPqntcfpTSBQ59KX7TLWeWd4YQIHBn9qn2sq6MlgwSbKBwxwmG7ar2UKSskjLoBnAb5u1XbiBwuo2BF+cdfyoWTP7DbZQ8/ooS5yvVc4T8+p2VdxhgRLmfW6+zfKtQ7Fa00EgfUlIUhdoShUL1V6E8VHQIMPMyXVhgVKgU7xrgyOTzSgYdoBQKheqv8lCxmwDLbZcI+dyvh/bVyKNQ7CZMme0fplKUgdoShUIdTIXyUNElWPWSNI9CoVCUsDcKhUJ1WLEDvPs/Z1qC1g4uymMAAAK6dEVYdE1hdGhNTAA8bWF0aCB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMTk5OC9NYXRoL01hdGhNTCI+PG1pPkZpbmQ8L21pPjxtbz4mI3hBMDs8L21vPjxtaT50aGU8L21pPjxtbz4mI3hBMDs8L21vPjxtaT52b2x1bWU8L21pPjxtbz4mI3hBMDs8L21vPjxtbz4oPC9tbz48bWk+YXBwcm94aW1hdGU8L21pPjxtbz4mI3hBMDs8L21vPjxtaT50bzwvbWk+PG1vPiYjeEEwOzwvbW8+PG1pPnR3bzwvbWk+PG1vPiYjeEEwOzwvbW8+PG1pPmRlY2ltYWxzPC9taT48bW8+KTwvbW8+PG1vPiYjeEEwOzwvbW8+PG1pPm9mPC9taT48bW8+JiN4QTA7PC9tbz48bWk+YTwvbWk+PG1vPiYjeEEwOzwvbW8+PG1pPmhlbWlzcGhlcmU8L21pPjxtbz4mI3hBMDs8L21vPjxtaT5pZjwvbWk+PG1vPiYjeEEwOzwvbW8+PG1pPml0czwvbWk+PG1vPiYjeEEwOzwvbW8+PG1pPmJhc2U8L21pPjxtbz4mI3hBMDs8L21vPjxtaT5hcmVhPC9taT48bW8+JiN4QTA7PC9tbz48bWk+aXM8L21pPjxtbz4mI3hBMDs8L21vPjxtbj4xNTQ8L21uPjxtbz4mI3hBMDs8L21vPjxtc3VwPjxtaT5jbTwvbWk+PG1uPjI8L21uPjwvbXN1cD48bW8+LjwvbW8+PG1vPiYjeEEwOzwvbW8+PG1vPls8L21vPjxtaT5Vc2U8L21pPjxtbz4mI3hBMDs8L21vPjxtaT4mI3gzQzA7PC9taT48bW8+PTwvbW8+PG1uPjIyPC9tbj48bW8+LzwvbW8+PG1uPjc8L21uPjxtbz5dPC9tbz48L21hdGg+h+UlMgAAAABJRU5ErkJggg==\" style=\"max-width: none;\"><span style=\"color: white;\">24</span>",
+    "q_hi": "<img align=\"middle\" alt=\"Find space the space volume space left parenthesis approximate space to space two space decimals right parenthesis space of space a space hemisphere space if space its space base space area space is space 154 space cm squared. space left square bracket Use space pi equals 22 divided by 7 right square bracket\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mi»Find«/mi»«mo»§#160;«/mo»«mi»the«/mi»«mo»§#160;«/mo»«mi»volume«/mi»«mo»§#160;«/mo»«mo»(«/mo»«mi»approximate«/mi»«mo»§#160;«/mo»«mi»to«/mi»«mo»§#160;«/mo»«mi»two«/mi»«mo»§#160;«/mo»«mi»decimals«/mi»«mo»)«/mo»«mo»§#160;«/mo»«mi»of«/mi»«mo»§#160;«/mo»«mi»a«/mi»«mo»§#160;«/mo»«mi»hemisphere«/mi»«mo»§#160;«/mo»«mi»if«/mi»«mo»§#160;«/mo»«mi»its«/mi»«mo»§#160;«/mo»«mi»base«/mi»«mo»§#160;«/mo»«mi»area«/mi»«mo»§#160;«/mo»«mi»is«/mi»«mo»§#160;«/mo»«mn»154«/mn»«mo»§#160;«/mo»«msup»«mi»cm«/mi»«mn»2«/mn»«/msup»«mo».«/mo»«mo»§#160;«/mo»«mo»[«/mo»«mi»Use«/mi»«mo»§#160;«/mo»«mi»§#960;«/mi»«mo»=«/mo»«mn»22«/mn»«mo»/«/mo»«mn»7«/mn»«mo»]«/mo»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,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9MUHV59DdVN5GXo2pM8UOXRhv/J71mxtXPZP16HY/VidEptH1T0uP0roApe+BmkZ20cBuOzIMNjFabN9L12dIIFjLzn2sUTbUvmOIL9AFu2pSu/hGDJvwh/1KimDFnaf07x3fwbv38IJyX5TFnB4za8mvHJ0jZHHIvdthBBSG5aDPKQudVGWxmJlTKHhe4kOHpy8cjXjfIzjjPFDFA5uffZ0l+8ZjB4zW+9rhwBO1QIK42Oz/eiwUFs+NFt7Ha6jMrxGQTzM6FPJfsKMpv8e5CSWYU8S+AVnZ0569V/EfIs4+ITkI5bHbf9CDdpSZLEOXXO08OVSyotYOSk6cMuyBmHFbH+ncRzL72XyIQWKjudoBDPyb/D3m87vO8XfWBnjODgtBhyPE6hTFORoy3ndICenhlA2165I6c6lK8eWlOjLQkSeqfrMaQ/l2ZA+5+TQxyDq0Crq/42AI0ux+6k6uTaPqntcfpTSBQ59KX7TLWeWd4YQIHBn9qn2sq6MlgwSbKBwxwmG7ar2UKSskjLoBnAb5u1XbiBwuo2BF+cdfyoWTP7DbZQ8/ooS5yvVc4T8+p2VdxhgRLmfW6+zfKtQ7Fa00EgfUlIUhdoShUL1V6E8VHQIMPMyXVhgVKgU7xrgyOTzSgYdoBQKheqv8lCxmwDLbZcI+dyvh/bVyKNQ7CZMme0fplKUgdoShUIdTIXyUNElWPWSNI9CoVCUsDcKhUJ1WLEDvPs/Z1qC1g4uymMAAAK6dEVYdE1hdGhNTAA8bWF0aCB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMTk5OC9NYXRoL01hdGhNTCI+PG1pPkZpbmQ8L21pPjxtbz4mI3hBMDs8L21vPjxtaT50aGU8L21pPjxtbz4mI3hBMDs8L21vPjxtaT52b2x1bWU8L21pPjxtbz4mI3hBMDs8L21vPjxtbz4oPC9tbz48bWk+YXBwcm94aW1hdGU8L21pPjxtbz4mI3hBMDs8L21vPjxtaT50bzwvbWk+PG1vPiYjeEEwOzwvbW8+PG1pPnR3bzwvbWk+PG1vPiYjeEEwOzwvbW8+PG1pPmRlY2ltYWxzPC9taT48bW8+KTwvbW8+PG1vPiYjeEEwOzwvbW8+PG1pPm9mPC9taT48bW8+JiN4QTA7PC9tbz48bWk+YTwvbWk+PG1vPiYjeEEwOzwvbW8+PG1pPmhlbWlzcGhlcmU8L21pPjxtbz4mI3hBMDs8L21vPjxtaT5pZjwvbWk+PG1vPiYjeEEwOzwvbW8+PG1pPml0czwvbWk+PG1vPiYjeEEwOzwvbW8+PG1pPmJhc2U8L21pPjxtbz4mI3hBMDs8L21vPjxtaT5hcmVhPC9taT48bW8+JiN4QTA7PC9tbz48bWk+aXM8L21pPjxtbz4mI3hBMDs8L21vPjxtbj4xNTQ8L21uPjxtbz4mI3hBMDs8L21vPjxtc3VwPjxtaT5jbTwvbWk+PG1uPjI8L21uPjwvbXN1cD48bW8+LjwvbW8+PG1vPiYjeEEwOzwvbW8+PG1vPls8L21vPjxtaT5Vc2U8L21pPjxtbz4mI3hBMDs8L21vPjxtaT4mI3gzQzA7PC9taT48bW8+PTwvbW8+PG1uPjIyPC9tbj48bW8+LzwvbW8+PG1uPjc8L21uPjxtbz5dPC9tbz48L21hdGg+h+UlMgAAAABJRU5ErkJggg==\" style=\"max-width: none;\">",
+    "section": "Arithmetical and Numerical Ability1",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "3",
+    "level": "",
+    "op_en": [
+      "6",
+      "3",
+      "4",
+      "5"
+    ],
+    "op_hi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "q_en": "A, B, and C together finish a piece of work in 3 days. If A alone can finish the same work in 36 days and B in 18 days, how long (in days) will C take to finish the same work?",
+    "q_hi": "",
+    "section": "Arithmetical and Numerical Ability1",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "2",
+    "level": "",
+    "op_en": [
+      "12",
+      "14",
+      "23",
+      "9"
+    ],
+    "op_hi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "q_en": "The speed of a stream is 6 km/hr. A boat can go 35 km downstream and 18 km upstream in 4 hours. What is the speed (in km/hr) of the boat in still water?",
+    "q_hi": "",
+    "section": "Arithmetical and Numerical Ability1",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "1",
+    "level": "",
+    "op_en": [
+      "₹16,200",
+      "₹18,400",
+      "₹21,600",
+      "₹12,600"
+    ],
+    "op_hi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "q_en": "A, B, and C together invested ₹56,000 in a business. A invests ₹6,000 more than B, and B invests ₹4,000 more than C. After 1 year, their profit was ₹50,400. Find the profit share of B.",
+    "q_hi": "",
+    "section": "Arithmetical and Numerical Ability1",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "4",
+    "level": "",
+    "op_en": [
+      "24420",
+      "24240",
+      "20244",
+      "22440"
+    ],
+    "op_hi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "q_en": "<img align=\"middle\" alt=\"The space area space of space the space base space of space a space right space circular space cone space is space 7056 pi space cm squared space and space its space height space is space 13 space cm. space The space curved space surface space area space of space the space cone space left parenthesis in space cm squared right parenthesis space is colonspace open parentheses use space pi equals 22 over 7 close parentheses\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mi»The«/mi»«mo»§#160;«/mo»«mi»area«/mi»«mo»§#160;«/mo»«mi»of«/mi»«mo»§#160;«/mo»«mi»the«/mi»«mo»§#160;«/mo»«mi»base«/mi»«mo»§#160;«/mo»«mi»of«/mi»«mo»§#160;«/mo»«mi»a«/mi»«mo»§#160;«/mo»«mi»right«/mi»«mo»§#160;«/mo»«mi»circular«/mi»«mo»§#160;«/mo»«mi»cone«/mi»«mo»§#160;«/mo»«mi»is«/mi»«mo»§#160;«/mo»«mn»7056«/mn»«mi»§#960;«/mi»«mo»§#160;«/mo»«msup»«mi»cm«/mi»«mn»2«/mn»«/msup»«mo»§#160;«/mo»«mi»and«/mi»«mo»§#160;«/mo»«mi»its«/mi»«mo»§#160;«/mo»«mi»height«/mi»«mo»§#160;«/mo»«mi»is«/mi»«mo»§#160;«/mo»«mn»13«/mn»«mo»§#160;«/mo»«mi»cm«/mi»«mo».«/mo»«mo»§#160;«/mo»«mi»The«/mi»«mo»§#160;«/mo»«mi»curved«/mi»«mo»§#160;«/mo»«mi»surface«/mi»«mo»§#160;«/mo»«mi»area«/mi»«mo»§#160;«/mo»«mi»of«/mi»«mo»§#160;«/mo»«mi»the«/mi»«mo»§#160;«/mo»«mi»cone«/mi»«mo»§#160;«/mo»«mo»(«/mo»«mi»in«/mi»«mo»§#160;«/mo»«msup»«mi»cm«/mi»«mn»2«/mn»«/msup»«mo»)«/mo»«mo»§#160;«/mo»«mi»is«/mi»«mo»:«/mo»«mspace linebreak=¨newline¨/»«mo»§#160;«/mo»«mfenced»«mrow»«mi»use«/mi»«mo»§#160;«/mo»«mi»§#960;«/mi»«mo»=«/mo»«mfrac»«mn»22«/mn»«mn»7«/mn»«/mfrac»«/mrow»«/mfenced»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,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pnGJ+QHCCAAAAADFbuj0iDAkKfsCJuOJTncIIQAAAADEWaPm3yI8RigaZ+6yvtXpE0IBAAAAAPHMY8Lmu60rCEVjTGwnJdYAAAAAgERHdbpEGBpjfmLoGGEAAAAAgHn/Bd6384GyUqnnAAAEVHRFWHRNYXRoTUwAPG1hdGggeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzE5OTgvTWF0aC9NYXRoTUwiPjxtaT5UaGU8L21pPjxtbz4mI3hBMDs8L21vPjxtaT5hcmVhPC9taT48bW8+JiN4QTA7PC9tbz48bWk+b2Y8L21pPjxtbz4mI3hBMDs8L21vPjxtaT50aGU8L21pPjxtbz4mI3hBMDs8L21vPjxtaT5iYXNlPC9taT48bW8+JiN4QTA7PC9tbz48bWk+b2Y8L21pPjxtbz4mI3hBMDs8L21vPjxtaT5hPC9taT48bW8+JiN4QTA7PC9tbz48bWk+cmlnaHQ8L21pPjxtbz4mI3hBMDs8L21vPjxtaT5jaXJjdWxhcjwvbWk+PG1vPiYjeEEwOzwvbW8+PG1pPmNvbmU8L21pPjxtbz4mI3hBMDs8L21vPjxtaT5pczwvbWk+PG1vPiYjeEEwOzwvbW8+PG1uPjcwNTY8L21uPjxtaT4mI3gzQzA7PC9taT48bW8+JiN4QTA7PC9tbz48bXN1cD48bWk+Y208L21pPjxtbj4yPC9tbj48L21zdXA+PG1vPiYjeEEwOzwvbW8+PG1pPmFuZDwvbWk+PG1vPiYjeEEwOzwvbW8+PG1pPml0czwvbWk+PG1vPiYjeEEwOzwvbW8+PG1pPmhlaWdodDwvbWk+PG1vPiYjeEEwOzwvbW8+PG1pPmlzPC9taT48bW8+JiN4QTA7PC9tbz48bW4+MTM8L21uPjxtbz4mI3hBMDs8L21vPjxtaT5jbTwvbWk+PG1vPi48L21vPjxtbz4mI3hBMDs8L21vPjxtaT5UaGU8L21pPjxtbz4mI3hBMDs8L21vPjxtaT5jdXJ2ZWQ8L21pPjxtbz4mI3hBMDs8L21vPjxtaT5zdXJmYWNlPC9taT48bW8+JiN4QTA7PC9tbz48bWk+YXJlYTwvbWk+PG1vPiYjeEEwOzwvbW8+PG1pPm9mPC9taT48bW8+JiN4QTA7PC9tbz48bWk+dGhlPC9taT48bW8+JiN4QTA7PC9tbz48bWk+Y29uZTwvbWk+PG1vPiYjeEEwOzwvbW8+PG1vPig8L21vPjxtaT5pbjwvbWk+PG1vPiYjeEEwOzwvbW8+PG1zdXA+PG1pPmNtPC9taT48bW4+MjwvbW4+PC9tc3VwPjxtbz4pPC9tbz48bW8+JiN4QTA7PC9tbz48bWk+aXM8L21pPjxtbz46PC9tbz48bXNwYWNlIGxpbmVicmVhaz0ibmV3bGluZSIvPjxtbz4mI3hBMDs8L21vPjxtZmVuY2VkPjxtcm93PjxtaT51c2U8L21pPjxtbz4mI3hBMDs8L21vPjxtaT4mI3gzQzA7PC9taT48bW8+PTwvbW8+PG1mcmFjPjxtbj4yMjwvbW4+PG1uPjc8L21uPjwvbWZyYWM+PC9tcm93PjwvbWZlbmNlZD48L21hdGg+KaghWwAAAABJRU5ErkJggg==\" style=\"max-width: none;\">",
+    "q_hi": "<img align=\"middle\" alt=\"The space area space of space the space base space of space a space right space circular space cone space is space 7056 pi space cm squared space and space its space height space is space 13 space cm. space The space curved space surface space area space of space the space cone space left parenthesis in space cm squared right parenthesis space is colonspace open parentheses use space pi equals 22 over 7 close parentheses\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mi»The«/mi»«mo»§#160;«/mo»«mi»area«/mi»«mo»§#160;«/mo»«mi»of«/mi»«mo»§#160;«/mo»«mi»the«/mi»«mo»§#160;«/mo»«mi»base«/mi»«mo»§#160;«/mo»«mi»of«/mi»«mo»§#160;«/mo»«mi»a«/mi»«mo»§#160;«/mo»«mi»right«/mi»«mo»§#160;«/mo»«mi»circular«/mi»«mo»§#160;«/mo»«mi»cone«/mi»«mo»§#160;«/mo»«mi»is«/mi»«mo»§#160;«/mo»«mn»7056«/mn»«mi»§#960;«/mi»«mo»§#160;«/mo»«msup»«mi»cm«/mi»«mn»2«/mn»«/msup»«mo»§#160;«/mo»«mi»and«/mi»«mo»§#160;«/mo»«mi»its«/mi»«mo»§#160;«/mo»«mi»height«/mi»«mo»§#160;«/mo»«mi»is«/mi»«mo»§#160;«/mo»«mn»13«/mn»«mo»§#160;«/mo»«mi»cm«/mi»«mo».«/mo»«mo»§#160;«/mo»«mi»The«/mi»«mo»§#160;«/mo»«mi»curved«/mi»«mo»§#160;«/mo»«mi»surface«/mi»«mo»§#160;«/mo»«mi»area«/mi»«mo»§#160;«/mo»«mi»of«/mi»«mo»§#160;«/mo»«mi»the«/mi»«mo»§#160;«/mo»«mi»cone«/mi»«mo»§#160;«/mo»«mo»(«/mo»«mi»in«/mi»«mo»§#160;«/mo»«msup»«mi»cm«/mi»«mn»2«/mn»«/msup»«mo»)«/mo»«mo»§#160;«/mo»«mi»is«/mi»«mo»:«/mo»«mspace linebreak=¨newline¨/»«mo»§#160;«/mo»«mfenced»«mrow»«mi»use«/mi»«mo»§#160;«/mo»«mi»§#960;«/mi»«mo»=«/mo»«mfrac»«mn»22«/mn»«mn»7«/mn»«/mfrac»«/mrow»«/mfenced»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAA60AAABFCAYAAAChWgCtAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAhjE2CwAAAEatJREFUeNrt3Q+kVdkewPHluJJkSDKSDEmSJMaVJImMJyOJkWdkXJcneUYyPCMZ44mRJHmGZCTJkGSMJJKMjGtIkoxEkpFckSTXdV3uW+vd3353n9Vaa6+1/5x9zrnfD0udffff3/qz19p7n32UAgAAAAD02gmdvhng/T+m03dkIwBg2Izq9ECnGZ3+0GktIQEALEJHdDo1BOfuU3IsfWezTmd1ekNZ+7+vdHqs07ROz3Q61GIchyF/ysSzit91mujT+KbsG/W6v2OMed/rtFKnjpzo/ujj81jdZaOuetZmm0V9od0d5lj0uv9BX3jx1oFNjvNfP7evRefu+3JMjZ9D5iKT8dr6vNjtk1js0GmpThekshZpKo6Dnj9l41nFPalE/RjflH1bzOWmzRivC7SZ+Suoq3T6Vc1fpbyj02rHuszJYDK3/NOCunJNp3c6zQ5o7EckHr32JrK8113/6qpnbbZZVWNirs7/Q6efdZryzLNNtjEj5fsn6SwNAvpTzdbJYet/0BdevHXgjrR1bfT5mjh3b5djarxfawrLt9JhUlYBMtO+sz7TyC64KbHoFMy3xopZU3Ec9PyJjWdbYuO7ZsDygHpd3pFAxzR/1XFC0lIp5w8d5fwLa/lzju2Zwe9t6cybtvlTaz3m748TOs97Wz7x3R+g8l61XrdRz/qtzXokZd+3T6bOHJey8ZFO52W+uwM0aKU/NZjnoH7vf9AXHh5b1GA/seI7d0/IsTXeyI5Yn/MFaLn1mUZ2wVRkLMYd8zUVx0HOn6kB2PeY+I4PYB5Qr8s5LwPH0AnpoMT2gHzeL5/HreXMVcqxwLbM3dnnav6xnDWeeY4nDFjbHrQeysVkEMp7HfW6jXrWb21WqKN6xDPv1AC1o/SnBvMcNEVeDFVfuJ/9W82/wGhQ+c7dx+TY+qrhoJFNi4V5HOoNg9ah2feiffTlN7EfTusd085Zg89rqvvO60r5fC03T/aY8XsZCH/sWO+EDFpXBPbnqJw0fAMD83m6D+JmjuHkAJX3uup1Pw5a22izfPtk36nZqD581H6Y2lXa3f6JBXkxXH3hfnZLp50Duu+hc/dOOba+bGTNFcP/SAfohU67rPnGZfq0HMSagu2av/+i5q/YmGelzSNEf5O/mS9rn1Hzz7+buw1/qu7HhULbCq03ZI9aeFOWedxuf+5vy5X/eyq2R9Y8rxuOY7bebRKnKVm/SojJaG6bJx3HlrpPdcazTJ76yk82Pf8SgGU6/SjrfqXmH9lMKf++/PbZK8uY4zCPW2yw9vlNZB3wrccVz9C0OupjynHGlI98LJbLoNDs118V64sr/4vKfpElUm6W5Ka9VN13YLIB5dvcPCetfHlpDVy/zHXeb8r+mXm+TmzLUwetMeVzqfw/y5M9MjC/7GnXzPEfU913pKqcF2LKxS45jinV/Rh2bNnw1evU8lK13W+zzaqzvsR0VEelbTnbcnkdxP5U1XOCq41/Ys13O7f89dz0PZH7nFonQ+Wt7DHdLeh/xPQ1is5t9IXb6Qv3a7/DeGf1EUJ9vpjt98u5e4kcW119rqiXNsU2skfkZPmZfH6YmydrgEYlUHNSIEJMcGcls3fKMq/kb/kv6X8umfEscluh9fpslYw+LplwW5bbXfIK0Vzg6lLdccw/9mf2/YZ8PpEQE7MP2V2hDda+l9mnuuOZmqe+8uN6+cNF+bxTLTzKku/ox+Rb7HHskEq5VT6fysXS3rdQHQitZ5Vjf1ZHDFrL1sfU44wpH6+tuC/Pxf1xhbLpyv9Q2Y8xrj78LuqMp/7bLzIwefWVdETmZCCSvzJrph2WE4a5M/tcuR8zrmvQGls+D0pdOCCfX8hgepnkoZ0PY3IM5i71hQp1PbZcrJeT8nXZ7j8j6uibiDpSprxUbffbbLPqrC9F29ubm+eu1I22ymsvBq119wOqnhN8bfwmWe8T9eFd8Xu5znrRPpepk6HyVuWYQnlV1NcoOrfRF26vL9yv/Q6l3C9PtNvX2O3327l7psZzSNRLm8o8zmJ3hH5LvHOWVSi7AZl1bNd+bK5oW0XrdcmuGn4kn7PMu9dARa07jvY82eNVTxNiMqvcL4Epu091x7NMnrrKj+sRyunc5yXy/98T8y32OO5aV5wOy90z37756kBoPbHlL7Xe+PYl9ThjykfoUdeZCmXTtd5Q2Y8xIVcT7RNUyuBxqRzLZG6a6ztD2d3XPxPbndg39qaWz5ht/mrlzU8V6npsucgGdRutep1aNlzLpJaXqu1+m21WnfUl9nHC+zLf5ZbKa68GrXX3A+o8J9htfNZxPp2btkW2EbvPZepkUXmrckyhQWvoPFgUZ/rC7fWF+7Xf4Ru0diLa+tj2qc1z93SP+1ylG9m5gjsLMTpypfh+ZIchdluh9brYHcQRT0FpoqJWjWNsIQ/F5Kl8fiKFaaTiPtUdzzJ56pvHnm4/ymk/LldmAKgClTulrvnWO11DnXXNU6Y+ljnOmPLRq/oSKvtFfG8EzK4udqzjmwysa6N1/K5jW1Iw+I1td+oqn3Vss47zgj3tbcl9itlWanmpoxy32WbVVV9itzeq4l/E1C/ltR/6U02dEzLZ43xZfv+suu+8Fu1z2ToZKm9Vjyn0PWtf+1MUZ/rC7fWF+7nf4Xo8OLa8xsS6rbaw6PHguvtctTWy2Z2FTQnbNW/gzN6MOZpQUYu2VbTeUIYvsbb/rscVtUwc7XV0HPteFJPlchUlm3624j7VHc8yeRo7aB2Tz1/lrrwdbagDmDV2GysOWlPXE7PusvWxzHHGlI9e1ZdQ2S9yTrkf1c1exJT9Nuta9eGLmHwdw8wTax35/Z8MHNuMp71UDZTPJgYBZcqhr1x0Ghi0ppaXOspxm21WXfUldnspbw/uh/LaL/2pJs4JeSfkb/ulrB1I7JeVrZOh8tbEoLWo/SmKM33h9vrC/dzv8L2Iqa5Ba1ttofn+680e9rlqa2QfyOcbUiDWqvBdBaUWvp+1KrGxKdpW0Xpd7qiF7wxkVw/m5GpiLytqmTja69gqny+UiIn5seCrVoehzD7VHc8yeRo7aDWPZl6UAYO5GvxtzSf7vD/UwqNv5uRtvqf4ssR6i9YzG9jnjmfdZetjmeOMKR+9qi+hsl90hXHSc/X0kOr+yZvs+yOhn7cx3zvKvzr+e7Xw3ZZM9sbhM47lRzyd/RcyfU0D5bOJQUCZcuh6LG5O8tTY4Cj/VS4apZSXOspxm21WXfUldnvZ7zpeabm87lXlfh6qrf5UE+eEvLWyDvMY4u0S/bKydTJU3qoek+tvRe1PUZzpC7fXF+7nfofvJ2/qGrS2de6O+cmbus4h/7M+t0LXTzmsyP19RWDaIdX97POMKn7hxlTuysDO3LI7rG34OoS+bYXW65PNNyEdgm9lvfkfzd2YW9e6gmN7l7sSc6/hOE7KvF+ohRcx2W8iLYpJPv9NBXyWEO9exDM1T33lxxXzc8r/Pc3YfLPz2+fvuWVnJe9+9Kw3VAdC6zGyu3SfyVWtw7n5Jz3HULY+qhL7V1Q+mqovrnWEyn6I6wVMmY500u5InbwrnzvWnYsjMs10Kk5JXmXMixEeS+w2yt9M3TZv/Fvpuao+J9vJO5MbBOzzLFumfMZMW1mi0x9bDkP7MJYrXya2u63yH1s2XPU6pbzUUY7bbLPqqi8fK//38l7Isa6UvLrlOH+1UV7LXHhpsz9V5znB52bgvFu0z2XqZFF5q3JMvv5HUV+jKM70hdvrC/drv0Mp91eJQn2+0Pb76dxtBsuba+xzBd8e7Pvx+dA8KjC/eWTEfK9mWkbPRQd9RObN3iT1u1wZ2mWt/6lj2dC2QusNOSDbmpErKbsiYuFj3tD1XjJ0bcNxNOu/JPNPSeX5OCHW2b4clMLz3NGope5T3fFMzVNf+XFtc9oxfVLiEZtvdn4XXZl6K9u9lIvlXCA9TViPsUctfAfpvAyAXssAZrPnGKrUR5W4f0Xlo6n64ltvqOz7TBQ01qtlsGqO7xdHnbwif3sl+bLcsY5VauFV9NNyRdh3xzR7fG/ccdK4Liey6xXyLTZPUup1lfNCTLl4J/HdKmXkrNX5KiobrnqdUl7qKMdttll11JeifsZZOZ4ZWedpFffm4KbLa2r5bbs/Vec5wdfG75W2zKdon1PrZFF5q3JMvrjH9DWKzm30hdvpC/drvyNjLmJvi2gzyp5Pe33u3i7HpEqcA311OurtwcBiNp6r6NNq4ZGjd4QGAG0WAKAic+Hg/pAcS0cuRGwiW4HeMt9v2GdNM1cEnxMaALRZAIAamLvfp4bgOMwTMYfJTqD3zGN15lGP7PHMj6RR2UdoANBmAQBqYr7Kc2yA9/+oHAOAFpjv6Zgfi56SZP6/m7AAoM0CAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACCV+S2ey4ShMRclxgAAAACARJ/r9EqnFYSiMeYH4V8qfhAeAAAAAJKs1emtTmOEonGHdHqn0yeEAgAAAADi3NbpT8LQM490ukMYAAAAAKCYeVR1TnGX1WW7DOZn1Pyj0z/oNFJiHtshifkBQgwAAAAAYeau36ROHULRZUVuALpOBqZmoHk6cR6XjgxwHxFmAAAAAPDbJYOsM4TiA2Oq+47pdonV+8R5fE7LvLsINQAAAAC4XZKB03ZCEcXEaqqGeYxtMi8/MQQAAAAADuYR1fcq7q4glFoig8xfK86T91YGuDyaDQAAAACW7NHgq4QiykGJ17aK8+Rdk/l3E14AAAAA6HZUBkwnCEWUBzqdr2GevH9JHhwjvAAAAADQ7WcZMO0nFFED/Ps6La04j22/5MEVQgwAAAAA3W6ptEdZF6sdMhhdWXEely2SB3cJMwAAAAB0eysDpqWEwusTnW5bg9Ev1fzvsabM47NU8uANoQYAAACAblMyYILbap3+khjZ6VzCPCEdFf8TOQAAAACwqMwxaA166hmMmrQ3YZ6YfJgh3AAAAADw4WAJ5AUAAAAAMFACeQEAAAAAgzxQWqXTY+V/3Lbs47fkBQAAAAAwUKrseMKA1TdoTVmevAAAAAAABq3Rjur0b7XwRt05x/5ORxwTg1YAAAAAGOJBq2tg55o2qtMLGUiedKxvPPf3WzqtSdy3MoNWLiAAAAAAwJAPlFY5Bo2rHdMe6rRJ/r/B+tsX8nk097fHAzJonWsoMWgFAAAAgBoGraFBY37arE7nPMv/pqo9kuvb/kzkcjweDAAAAACLfND6VD4/kcHrSO5vMxUHYjHbZ9AKAAAAAAxavdOW6/RTbvrZ3N9mZdqmCvtm31WdHeLBHYNWAAAAAEgYKM0GBq0da/p2na7qNJWb9kDmvaHTEp3W6jQZuV8jsuyUNf2FTF+zyPICAAAAABi0Wp7I3z9T83dUD+cGrZO55dfL/82g9Flu+UOq+1Fcc9f0QuR+fSrLPLKmn5HpV3Tap9NKBq0AAAAAMLxCj9vuUQs/V3Nep2U6vZaB4+bcQOugDFaf67TDWsdRWcas42rCIPOErHvcmr5Cp+uy39eHbMA6Q3EEAAAAgG5Tijt8ZaxT/pc7nUpcV0e5H4UGAAAAgEXvrQyYlhKKJEcCg9bUF08tk+XeEFYAAAAA6HZTBkyfEook5x0x26LTRIl1bZc8uEtYAQAAAKDbZRkw7ScUSdY7ppnfqR0rsa79auHlUgAAAACAnK9lwPQNoajE/KTPK/k31QnyAAAAAADcdsiA6SqhqMS85fhcyWWvSR7sJowAAAAA0M28ufad4iVAVZnvsm4uGf/3av7NwR3CCAAAAAAfuqjm7/SNEopSyr6Aydglsb9MGAEAAADAbacMnH4gFKWYx4LHSy57VmK/izACAAAAgN8DnV4qHlFNZV68NKnKvYBpRKfXOj0kjAAAAAAQ9rmav+N3iFAkqfICpnGJ+QHCCAAAAADFbuj0iDAkKfsCJuOJTncIIQAAAADEWaPm3yI8RigaZ+6yvtXpE0IBAAAAAPHMY8Lmu60rCEVjTGwnJdYAAAAAgERHdbpEGBpjfmLoGGEAAAAAgHn/Bd6384GyUqnnAAAEVHRFWHRNYXRoTUwAPG1hdGggeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzE5OTgvTWF0aC9NYXRoTUwiPjxtaT5UaGU8L21pPjxtbz4mI3hBMDs8L21vPjxtaT5hcmVhPC9taT48bW8+JiN4QTA7PC9tbz48bWk+b2Y8L21pPjxtbz4mI3hBMDs8L21vPjxtaT50aGU8L21pPjxtbz4mI3hBMDs8L21vPjxtaT5iYXNlPC9taT48bW8+JiN4QTA7PC9tbz48bWk+b2Y8L21pPjxtbz4mI3hBMDs8L21vPjxtaT5hPC9taT48bW8+JiN4QTA7PC9tbz48bWk+cmlnaHQ8L21pPjxtbz4mI3hBMDs8L21vPjxtaT5jaXJjdWxhcjwvbWk+PG1vPiYjeEEwOzwvbW8+PG1pPmNvbmU8L21pPjxtbz4mI3hBMDs8L21vPjxtaT5pczwvbWk+PG1vPiYjeEEwOzwvbW8+PG1uPjcwNTY8L21uPjxtaT4mI3gzQzA7PC9taT48bW8+JiN4QTA7PC9tbz48bXN1cD48bWk+Y208L21pPjxtbj4yPC9tbj48L21zdXA+PG1vPiYjeEEwOzwvbW8+PG1pPmFuZDwvbWk+PG1vPiYjeEEwOzwvbW8+PG1pPml0czwvbWk+PG1vPiYjeEEwOzwvbW8+PG1pPmhlaWdodDwvbWk+PG1vPiYjeEEwOzwvbW8+PG1pPmlzPC9taT48bW8+JiN4QTA7PC9tbz48bW4+MTM8L21uPjxtbz4mI3hBMDs8L21vPjxtaT5jbTwvbWk+PG1vPi48L21vPjxtbz4mI3hBMDs8L21vPjxtaT5UaGU8L21pPjxtbz4mI3hBMDs8L21vPjxtaT5jdXJ2ZWQ8L21pPjxtbz4mI3hBMDs8L21vPjxtaT5zdXJmYWNlPC9taT48bW8+JiN4QTA7PC9tbz48bWk+YXJlYTwvbWk+PG1vPiYjeEEwOzwvbW8+PG1pPm9mPC9taT48bW8+JiN4QTA7PC9tbz48bWk+dGhlPC9taT48bW8+JiN4QTA7PC9tbz48bWk+Y29uZTwvbWk+PG1vPiYjeEEwOzwvbW8+PG1vPig8L21vPjxtaT5pbjwvbWk+PG1vPiYjeEEwOzwvbW8+PG1zdXA+PG1pPmNtPC9taT48bW4+MjwvbW4+PC9tc3VwPjxtbz4pPC9tbz48bW8+JiN4QTA7PC9tbz48bWk+aXM8L21pPjxtbz46PC9tbz48bXNwYWNlIGxpbmVicmVhaz0ibmV3bGluZSIvPjxtbz4mI3hBMDs8L21vPjxtZmVuY2VkPjxtcm93PjxtaT51c2U8L21pPjxtbz4mI3hBMDs8L21vPjxtaT4mI3gzQzA7PC9taT48bW8+PTwvbW8+PG1mcmFjPjxtbj4yMjwvbW4+PG1uPjc8L21uPjwvbWZyYWM+PC9tcm93PjwvbWZlbmNlZD48L21hdGg+KaghWwAAAABJRU5ErkJggg==\" style=\"max-width: none;\">",
+    "section": "Arithmetical and Numerical Ability1",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "2",
+    "level": "",
+    "op_en": [
+      "755",
+      "725",
+      "705",
+      "745"
+    ],
+    "op_hi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "q_en": "A man sells a mobile phone for ₹600 and loses something. If he had sold it for ₹1200, his gain would have been 3.8-times the former loss. The cost price (in ₹) of the mobile phone is ________.",
+    "q_hi": "",
+    "section": "Arithmetical and Numerical Ability1",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "3",
+    "level": "",
+    "op_en": [
+      "69",
+      "70",
+      "65",
+      "62"
+    ],
+    "op_hi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "q_en": "A person drove at 63 km/hr for 8.5 hours, then increased his speed by 19 km/hr and reached the destination in another hour. Find the average speed (in km/hr) of the person during the entire journey.",
+    "q_hi": "",
+    "section": "Arithmetical and Numerical Ability1",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "1",
+    "level": "",
+    "op_en": [
+      "49",
+      "42",
+      "21",
+      "24.5"
+    ],
+    "op_hi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "q_en": "The diameter of a sphere is 7 cm more than the diameter of a smaller sphere. The surface area of the larger sphere is 2002 cm<sup>2</sup> more than the surface area of the smaller sphere. What is the diameter (in cm) of the larger sphere?<br><img align=\"middle\" alt=\"open parentheses Use space pi equals 22 over 7 close parentheses\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mfenced»«mrow»«mi»Use«/mi»«mo»§#160;«/mo»«mi»§#960;«/mi»«mo»=«/mo»«mfrac»«mn»22«/mn»«mn»7«/mn»«/mfrac»«/mrow»«/mfenced»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGoAAAAsCAYAAACNIC3mAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAdoyL+RwAAA8pJREFUeNrtnF9kW1Ecx4+oqZoStYeJKlEzNX2pqqipvU5MjenD5KHytoeZGnuYPM2oqaq81UxVVImpqZlRNXvay1RFzYyZmqoYVVNVUbLzk1/k5OR3bs659yZZm9+Hn7Tn/O7tze97zz3/frdCmHkiLSeYdrGCMXciKe1QWpTj1zb6pR1Iu2d7wKC0Y2mzHLu2k5L2V9qQjfOWtG8cs45RkLbdzAmaXZlbkxUJvKFL2E3MS+vx4UO1KtDgfjM1i9IirIMnUSXocRQDgrvg6EMRQVELJocpPNEi69CUWa1lJDB2J44+JhbQd4qqXMXKBOvgC4jdaQg+wAT65qjmdmKpNtPIFQzsZkAflWMUNUI99vIcc1/MYPwmAvqovEX/O/oqBBRmOOa+2JG2HIKPyjPUZE4tXMfCaY65M3CTf5XWG9BHZxo1WVMLPzo2S6bCJAowENCHYhQ1+aR3XGVHxbsdWObZ0gR4KOpXdWx8TPSiJkdq4SkWMnZcl/YbY6Zb1sGn2cS3YThfZqGc+GEQAOyug4/N3KykFzD/70S6qVCmO8KrnumAUMANRYSbRH0c62618GKvSdvzuHH8PloulVA2fVirW9JzB5FMQrkcz0IFmFS+UEZCZeLvn1l+BxZKYVzaPgbvJVGfVuphsh1zvHA/QvGjj6jblTai9XFVHuDv40rd3gURqtwi65hQ5x6Tus8BHzcmoUr86KsE3svnzDAh/I6CqTudpYDBMAlVZqEqKUzg029Y6ihqZVelvVG++BIh+kiACy853khd00dtos8MUQervGuG42BbP6+tV+3gud6Lyq7nICG0iR5Bb2fvY3ms24UaxeBAJmc14aJPVBI4CkTrgPMN488gxE+lLqU9ZqB1vLa86DE8Rs/QWRS1vRtIeRu4rEKdW4r1TnkMwue6YbWi2vpAoF+isiejz4v+YN+WdwhsBs+d1sohNWsDv8fGJROp7jHP2xzhEPcYoLxyPBe5zcEbh+HwyEMo18FTnyA2Dj9g4RjHOhDLRAyhy/ji41zVhM26rfic4OSWMBgmyrLCXy4/mdzyGAufcqxDBaYfh/jpSobSZFJwAmYrSAu7/AgKMgEzgsPtI45tqEDf5GdDtZpi3pDSDKyI2qo2Exy/gwghainm5DvUt7FynmMcClliYm7LkvB47QaAdbgDwS+yhTGIKPocRMB6Jqza7Ho5JVHJFMe6Y4OItLB4NRSAVe0Cx7ojgwgA9vC2bRxjOPrjF6470xJhOW/I9oAk9lX8D0HaRxT7taTrgbAVscrxaxswPZozVf4DIcvAqSF5Xa8AAAC4dEVYdE1hdGhNTAA8bWF0aCB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMTk5OC9NYXRoL01hdGhNTCI+PG1mZW5jZWQ+PG1yb3c+PG1pPlVzZTwvbWk+PG1vPiYjeEEwOzwvbW8+PG1pPiYjeDNDMDs8L21pPjxtbz49PC9tbz48bWZyYWM+PG1uPjIyPC9tbj48bW4+NzwvbW4+PC9tZnJhYz48L21yb3c+PC9tZmVuY2VkPjwvbWF0aD4UAfvWAAAAAElFTkSuQmCC\" style=\"max-width: none;\">",
+    "q_hi": "<img align=\"middle\" alt=\"open parentheses Use space pi equals 22 over 7 close parentheses\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mfenced»«mrow»«mi»Use«/mi»«mo»§#160;«/mo»«mi»§#960;«/mi»«mo»=«/mo»«mfrac»«mn»22«/mn»«mn»7«/mn»«/mfrac»«/mrow»«/mfenced»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGoAAAAsCAYAAACNIC3mAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAdoyL+RwAAA8pJREFUeNrtnF9kW1Ecx4+oqZoStYeJKlEzNX2pqqipvU5MjenD5KHytoeZGnuYPM2oqaq81UxVVImpqZlRNXvay1RFzYyZmqoYVVNVUbLzk1/k5OR3bs659yZZm9+Hn7Tn/O7tze97zz3/frdCmHkiLSeYdrGCMXciKe1QWpTj1zb6pR1Iu2d7wKC0Y2mzHLu2k5L2V9qQjfOWtG8cs45RkLbdzAmaXZlbkxUJvKFL2E3MS+vx4UO1KtDgfjM1i9IirIMnUSXocRQDgrvg6EMRQVELJocpPNEi69CUWa1lJDB2J44+JhbQd4qqXMXKBOvgC4jdaQg+wAT65qjmdmKpNtPIFQzsZkAflWMUNUI99vIcc1/MYPwmAvqovEX/O/oqBBRmOOa+2JG2HIKPyjPUZE4tXMfCaY65M3CTf5XWG9BHZxo1WVMLPzo2S6bCJAowENCHYhQ1+aR3XGVHxbsdWObZ0gR4KOpXdWx8TPSiJkdq4SkWMnZcl/YbY6Zb1sGn2cS3YThfZqGc+GEQAOyug4/N3KykFzD/70S6qVCmO8KrnumAUMANRYSbRH0c62618GKvSdvzuHH8PloulVA2fVirW9JzB5FMQrkcz0IFmFS+UEZCZeLvn1l+BxZKYVzaPgbvJVGfVuphsh1zvHA/QvGjj6jblTai9XFVHuDv40rd3gURqtwi65hQ5x6Tus8BHzcmoUr86KsE3svnzDAh/I6CqTudpYDBMAlVZqEqKUzg029Y6ihqZVelvVG++BIh+kiACy853khd00dtos8MUQervGuG42BbP6+tV+3gud6Lyq7nICG0iR5Bb2fvY3ms24UaxeBAJmc14aJPVBI4CkTrgPMN488gxE+lLqU9ZqB1vLa86DE8Rs/QWRS1vRtIeRu4rEKdW4r1TnkMwue6YbWi2vpAoF+isiejz4v+YN+WdwhsBs+d1sohNWsDv8fGJROp7jHP2xzhEPcYoLxyPBe5zcEbh+HwyEMo18FTnyA2Dj9g4RjHOhDLRAyhy/ji41zVhM26rfic4OSWMBgmyrLCXy4/mdzyGAufcqxDBaYfh/jpSobSZFJwAmYrSAu7/AgKMgEzgsPtI45tqEDf5GdDtZpi3pDSDKyI2qo2Exy/gwghainm5DvUt7FynmMcClliYm7LkvB47QaAdbgDwS+yhTGIKPocRMB6Jqza7Ho5JVHJFMe6Y4OItLB4NRSAVe0Cx7ojgwgA9vC2bRxjOPrjF6470xJhOW/I9oAk9lX8D0HaRxT7taTrgbAVscrxaxswPZozVf4DIcvAqSF5Xa8AAAC4dEVYdE1hdGhNTAA8bWF0aCB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMTk5OC9NYXRoL01hdGhNTCI+PG1mZW5jZWQ+PG1yb3c+PG1pPlVzZTwvbWk+PG1vPiYjeEEwOzwvbW8+PG1pPiYjeDNDMDs8L21pPjxtbz49PC9tbz48bWZyYWM+PG1uPjIyPC9tbj48bW4+NzwvbW4+PC9tZnJhYz48L21yb3c+PC9tZmVuY2VkPjwvbWF0aD4UAfvWAAAAAElFTkSuQmCC\" style=\"max-width: none;\">",
+    "section": "Arithmetical and Numerical Ability1",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "3",
+    "level": "",
+    "op_en": [
+      "730",
+      "720",
+      "700",
+      "680"
+    ],
+    "op_hi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "q_en": "A man sells a mobile phone for ₹600 and loses something. If he had sold it for ₹1180, his gain would have been 4.8-times the former loss. The cost price (in ₹) of the mobile phone is _________.",
+    "q_hi": "",
+    "section": "Arithmetical and Numerical Ability1",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "4",
+    "level": "",
+    "op_en": [
+      "2165",
+      "2170",
+      "2150",
+      "2160"
+    ],
+    "op_hi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "q_en": "A typist takes 40 minutes to type 2 pages. How long (in minutes) will he take to type 108 pages?",
+    "q_hi": "",
+    "section": "Arithmetical and Numerical Ability1",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "4",
+    "level": "",
+    "op_en": [
+      "6",
+      "5",
+      "3",
+      "9"
+    ],
+    "op_hi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "q_en": "P varies directly with Q and inversely with R. If the value of P is 25 when Q is 40 and R is 8, then find the value of P when Q becomes 27 and R becomes 15.<span style=\"color: white;\"></span>",
+    "q_hi": "",
+    "section": "Arithmetical and Numerical Ability1",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "3",
+    "level": "",
+    "op_en": [
+      "5",
+      "17",
+      "9",
+      "3"
+    ],
+    "op_hi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "q_en": "The speed of a stream is 6 km/hr. A boat can go 25 km downstream and 16 km upstream in 7 hours. What is the speed (in km/hr) of the boat in still water?",
+    "q_hi": "",
+    "section": "Arithmetical and Numerical Ability1",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "3",
+    "level": "",
+    "op_en": [
+      "4,350",
+      "4,800",
+      "4,550",
+      "4,000"
+    ],
+    "op_hi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "q_en": "A pair of articles was bought for ₹7,280 at a discount of 20%, and the marked price of each article is the same. What is the marked price (in ₹) of an article?",
+    "q_hi": "",
+    "section": "Arithmetical and Numerical Ability1",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "1",
+    "level": "",
+    "op_en": [
+      "23,000",
+      "18,000",
+      "21,000",
+      "32,000"
+    ],
+    "op_hi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "q_en": "Salaries of A and B were in the ratio 3 : 4. As the salaries of both A and B increase by ₹3,000, the ratio becomes 18 : 23. The salary (in ₹) of B after the increase is:<span style=\"color: white;\">545</span>",
+    "q_hi": "",
+    "section": "Arithmetical and Numerical Ability1",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "3",
+    "level": "",
+    "op_en": [
+      "191",
+      "196",
+      "192",
+      "194"
+    ],
+    "op_hi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "q_en": "The speed of a bike is 16 metres/second. The distance (in kilometres) travelled by the bike in 3 hours and 20 minutes is ______.",
+    "q_hi": "",
+    "section": "Arithmetical and Numerical Ability1",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "4",
+    "level": "",
+    "op_en": [
+      "23",
+      "31",
+      "25",
+      "29"
+    ],
+    "op_hi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "q_en": "The number of girls and boys in a coaching centre are in the ratio (7X + 1) : (13X +2). If 5 girls and 14 boys join the coaching centre, then the ratio would change to 1 : 2. Find the initial number of girls in the coaching centre.",
+    "q_hi": "",
+    "section": "Arithmetical and Numerical Ability1",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "2",
+    "level": "",
+    "op_en": [
+      "2130",
+      "2120",
+      "2110",
+      "2125"
+    ],
+    "op_hi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "q_en": "A typist takes 40 minutes to type 2 pages. How long (in minutes) will he take to type 106 pages?",
+    "q_hi": "",
+    "section": "Arithmetical and Numerical Ability1",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "3",
+    "level": "",
+    "op_en": [
+      "4",
+      "6",
+      "5",
+      "7"
+    ],
+    "op_hi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "q_en": "A, B, and C together finish a piece of work in 3 days. If A alone can finish the same work in 45 days and B in 9 days, how long (in days) will C take to finish the same work?",
+    "q_hi": "",
+    "section": "Arithmetical and Numerical Ability1",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "2",
+    "level": "",
+    "op_en": [
+      "6047π  cm<sup>2</sup>",
+      "5776π  cm<sup>2</sup>",
+      "6577π  cm<sup>2</sup>",
+      "6238π  cm<sup>2</sup>"
+    ],
+    "op_hi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "q_en": "Find the surface area of a sphere whose diameter is 76 cm.",
+    "q_hi": "",
+    "section": "Arithmetical and Numerical Ability1",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "1",
+    "level": "",
+    "op_en": [
+      "3,300",
+      "3,000",
+      "3,600",
+      "2,700"
+    ],
+    "op_hi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "q_en": "The shopkeeper offers a 10% discount on the marked price of an article and still earns 10% profit. If the cost price of an article is ₹2,700, then the marked price (in ₹) of an article is:<span style=\"color: white;\">600</span>",
+    "q_hi": "",
+    "section": "Arithmetical and Numerical Ability1",
+    "solution": "",
+    "topic": ""
+  }
+]
