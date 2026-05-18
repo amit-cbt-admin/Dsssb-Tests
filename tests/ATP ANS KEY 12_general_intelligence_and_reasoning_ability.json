@@ -1,0 +1,422 @@
+[
+  {
+    "ans": "2",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "1",
+      "4",
+      "3",
+      "9"
+    ],
+    "q_en": "",
+    "q_hi": "किसी निश्चित कूट भाषा में, 'FILE' को '9316' और 'LEAF' को '4963' के रूप में कूटबद्ध किया जाता है। दी गई कूट भाषा में 'A' का कूट क्या होगा?",
+    "section": "General Intelligence and Reasoning Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "1",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "CHE110",
+      "CHF110",
+      "EHE110",
+      "CUE110"
+    ],
+    "q_en": "",
+    "q_hi": "निम्नलिखित में से कौन-सा अक्षर-संख्या समूह दी गई शृंखला में प्रश्न-चिह्न (?) के स्थान पर आकर शृंखला को तार्किक रूप से पूर्ण करेगा?<br>\nWBY190,     RWT170,     MRO150,     HMJ130,     ?",
+    "section": "General Intelligence and Reasoning Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "1",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "34",
+      "46",
+      "26",
+      "29"
+    ],
+    "q_en": "",
+    "q_hi": "एक निश्चित तर्क का अनुसरण करने पर, 18 का संबंध 32 से है। समान तर्क का अनुसरण करने पर, 15 का संबंध 26 से है। समान तर्क का अनुसरण करने पर, 19 का संबंध निम्नलिखित में से किससे है?<br>\n(नोट: संख्याओं को उनके घटक अंकों में तोड़े बिना संक्रियाएँ केवल पूर्ण संख्याओं पर की जानी चाहिए। उदाहरण के लिए, 13 लीजिए - 13 पर संक्रियाएँ, जैसे 13 में जोड़ना/घटाना/गुणा करना, की जा सकती हैं। 13 को 1 और 3 में तोड़ना तथा फिर 1 और 3 पर गणितीय संक्रियाएँ करने की अनुमति नहीं है।)",
+    "section": "General Intelligence and Reasoning Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "4",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "RL  -  QK",
+      "KE  -  JD",
+      "HB  -  GA",
+      "NH  -  LK"
+    ],
+    "q_en": "",
+    "q_hi": "अंग्रेजी वर्णमाला के क्रम के आधार पर, निम्नलिखित चार अक्षर-समूह युग्मों में से तीन किसी निश्चित प्रकार से समान हैं और इस प्रकार वे एक ग्रुप बनाते हैं। निम्नलिखित में से कौन-सा अक्षर-समूह युग्म, उस ग्रुप से संबंधित <strong>नहीं </strong>है?<br>\n(नोट: असंगत अक्षर-समूह युग्म, व्यंजनों/स्वरों की संख्या या उनकी स्थिति पर आधारित नहीं है।)",
+    "section": "General Intelligence and Reasoning Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "2",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGMAAABjCAYAAACPO76VAAAE5ElEQVR42u2dwW4jIQyGc+4pt6pVo0aNcu8t1zxRL32APlpfJFUTJeprsDvdnRWLZgCDf2MaI3HYbkIYf2BjY5iFs6KmLEwEimG8v79DqxUCjP1+7xaLhdXfdZAFqk4NzFkYUw0sl8vv/1uv18WdMMh/KgnG1IeHv42Nvb294abr39/IKch+INR0TL4kGFJAKDBifdVYWGGMozE23aRhDH2+WhhoIFQYPQGBwPCBcAuiBAbajqmHEa6+WsPoAQgUhi8QLkGUwEDbsW5gcK+wSmCEduxqYXAD8dtJ1VD4CLXZHQzOFVaJRzv1DBrthxgMLiBhfChnhrSIFKiHwaEqUjEcqtrUZNDFYdQC4YAhESnoBkaNquCCodGgN4FRA4QThj87NNiPZjBKVQVCTWkx5E1hlADhgKERhAoYVO+41s/QCkINDIoxrYGhGYQqGLlASmNTmp09lTByBFYCowcQZBgSUc+U4FrsZwzfk3AM1cFIrbCkd/okPfXYszWDEROC5B643wcJT10tDF8YvhCkskPClZdE6F01jKkVFqUPpSCm7FbrnDAVMEIgaHUREzo69N4FDF8ISBg5o79VTpgaGKGgEDAoagg1Q7uBMWfQuQWR2zbCoENhcDtL4+jlhlEy0hEGHQrDH22cG1KcMGpUDrdBF4HBBYUbBofu5zToYjODAwonDM4MQy6DLgLDF2YIhqJvuWAglqccBl0URgxKzmzhgIHyEzgMehMYpVBqYaAjsLUGvSkMKpQaGFKh8JrfUQEjfJg5u1IKQ3rvu9Sgq4MRmy3Pz8/kh2yVhFACRC2M8KFKAoUts0FKDLpaGOEu2xhayYWhIS2HatBV2ow5PyQXhqZsEIpBVwMjBoECQ2NaDjVBrxmMHAi5MHo4lVSaoAeFQYGQA0N7olptgh4ERgmEHBg9XE2RMuhiMGogpGBoP1Kca9BF9zNqVcgUjJ5AhEDCPovB4NDjIYweQcQGERwGpzH1YfRw/QTVoHeVHRLmT/V201rKoBfByLmVAFGnwuzhZ9DXvXJfGxsubMgwrGJrFzMjDP7NzR5EHa6IHUL4XO2xwWitY1usnq7+fIYWGFLheINBjCYjV3AGg+ALIBOvDUaml+yrJqTXbzCI8SPk6aVuTi4NdcwOCV+bwG1UU1ulqFCMahhT6Tqxyn1OItae9AXKas6Bz73kY/h36AzWQhnbSrXR9LCMlL4OZwPlQWv9Aar6aXZYRgpG7RmOGiDj915eXtzt7a27u7tz9/f37uHhwa1WK/f4+PgdFnl6enKbzcZtt1t3c3PDIpeUfMVh5KqIWgOc+t5utyMH92r7rAoG9woltT+QMsyvr6/u6+vLXS4Xdz6f3el0csfj0X1+frqPjw93OBz+QUPsYjaFgYj9lJwmyrUD3N64GhiotktnR2qWIs56qIHBZStis4MqtJgfgZjFamBIHO2i9nvOj0ANHHUwKAIqeeNk7aoMmZFiMIjqCrnB1C0M6Z0+iZdoGQzwquxHG/CWCQlTb6n5kTByw9EtYUjNPjVOX0oNGAwhQeQ4ZwZDSBA5MSGDISiIVMzHYAgLwo+Gcl7kYjAq7UfpoXyDAVRZ4X3kBsP7MPLwSPibU7muBqMiSPfTKuoMCAkGqhOURLVrAJ2EYeX/gSlx3s9gKC0Gw2BYMRgGw0pu+QVEcThobLLSHAAAAABJRU5ErkJggg==\" style=\"height: auto; max-width: 100%;\">",
+      "<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGUAAABkCAYAAACfIP5qAAAEnUlEQVR42u3dTW7iMBQAYHZsC2oBURY9QrfsuAm3YMsROBKXASra3sGjVLJkeZzE9vvxs/MiRaORGBL8xfbzs+OZGT3EHTMtAkXRQ1EURQ9qlNlspifDqSitoNR0nM/nqM8dDoe/33a9Xknuo/teW3599zQJFFsQElDGQCaDYgu6NIr97rFa2zxKVwAp90uFYu+j+/7Y2tQkigtSEiX1wWgWxQcpheLeR+x3NoniRzilUNxrx0Z/zaL4BVECJSb0nQyKLVS3Q3ULZ+z8+PgAo0BAmkPpa6pSRtEvLy9glNjQt3mUoQ41pobYfw9FCdXUSaLkdqihJgeCkhpUNI0CBcFAyQl9m0WBtt8YKBg1tRkUaJSDgYIN0kRNwSqUHBTMh0I7eiQUCpBmQ2K/kCjGKRih7+QGjy5MzlTsEApW6DuZNEsoNMXMfWGGvpNBCRUcFgpFpFUdik1/QGEwULhARKNghJtYM49UoW91KLZwoIXhfk8uCieIWBR3kQFGswFZzUIZ+laDEgo3sWBSUVJWoDSLMlT4HKGoXzM4ricaJaYz5YDx+zJuEFEosc0TNYyLwtWxi0RJbbspYbDmZ6pGyc0jUUVFlMtWq0CBPvEUMJQrJMWjYI2SsWEwUNzVMakZhaIomJ0pJgwEJQRRTU3B7kwxc1M5KH0YueXFjkI1QYTdHMag+Bg2LQQtL1YU6jEGBkzMJJePMTbFIBaFaz4CCjM0n5KbuRaJwj0fAXkAfJSx/qJalBKj5FwYe6/H4zGqv6gSpVT6OxfGb6Iw+kBRKFzpdsx7sCiXy+U/oO7vOb9DDArnQgNMGL9P6f6E4ohA4e7YMWH6oq8QTlXRlzSQFJixcUoOTnGUkh07Rp4sdkSfglMUhXqNLQdMau4rBqcYioRICwMmN0s8hFMERWLHngsDnU8J4RRBqRGk72HC3HHCx2FDKbGCkBIGezrYxWFBqaVjT4Gh6hexBpvRG3t2ON1Faz5DcySl7kV3W21tt9WuraQ6Pz8//3YUorxG6OT4bbH3QJa6h4ar3GOeUtdlS91j5Ki4ozpFiQDhHv8oyki47UYiXIWkKD21xK0Z3FlnRYnMMHM2Y4rS02wNjbgpRtqhcBTyDn8TKKFmq+8zGM3YUCa37+QEquqlIYzkZ2j9r01v+J8LpV6aR0mdh4E2Y364nbP7Xe4yo2pQ7I+dz+dmt9uZ9/d3s91uzWazMev12qxWK/P29mZeX1/Ncrk0i8XC7Pf7ImuZ3SaPOhIUU1NSz5SCxZyq5ogExfQpXQ243W7mfr+bx+Nhvr6+zPP5NN/f3+bn58f8/v6a0+kEWmCNUZAcA1oR0VfM05c7oRYT2VEGJ9WixDx90NcQsJsbykFmFSP63KedopZw9C2icl+h6AbSVFCi2Nrd/G6rfjOG9aoc9m6r1OXQ9HyKohA0YyWWL6V04JNCoYyaFAXYv5RInae8CqHbqgtDoYzsFCUTRfe6F4ZCWUsUJQOF410cRUlA4Xo5SlEiUdxJrsn+BwSSUPyF39SHovSgQLaSUhTiFA/XYgk0FD0FvjSkpyAUPcodiqIoeiiKouiBdfwDN+LHvxbM8vAAAAAASUVORK5CYII=\" style=\"height: auto; max-width: 100%;\">",
+      "<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGAAAABjCAYAAABkDAWWAAAEB0lEQVR42u2d2a0rIQxAU0pKSAnpJKWktJR2n/jgCVkzYIxXMJI/7lWEGJ/BG8s8/rKZtkeqIAEkgGxOADwejxQFSQDeAVi29/v9fxzf73cvcxMNQJHydwIwAFDe/hbC7/dLAJoAisKLtDMiOoRwAGprZ0NkvxAWAIQQ1S+EBlBa+V9kvxAeQIUQ1S9sASByvrAVgIjOeTsA0ZzzlgAi+YVtAUTxC9sD8O4XjgDg2S8cA8Br0mYCoCoCaw64AHj0C+oAWlOAVQA3AE9+QQ0ADAuh9JQgAcCLX1ABAB+0jc0x5kAKgAe/IArgTsGwz9FKlyQA66RNDEBPqVd99nyDNABLv8AOAGNWen1eKUELgAUEVgCtPe0pbNQnnA3P51PVNGj6BVYA2BBz1CcE+Xq91G2zll8Q8QGjaYw1QfXt0zRB2uZIxQnDB7jqs+c7LABo+YIMQ40d8fGJ2FZR0IxJahU/ijQyD9iwGOelOGdSjq4Pi1WoNADLyuhRCzIj5Vss0BwNgCPRqkkjtZx9LABO5a+ULY4D0Ia+K4sw0G9QgR69KM/ttCnO/BgA0sqnQjgCQKv8lTATq9wZ2NsD4IrxZ/vBlrPFALSDXU1uqACslH8XbWFL86wAZssOXAA8KB/Th9oMWAGxcj6AS/llDFBG5qeVu4Pm4gA4FGNxQqa3iWx2TftKatKmCoCqICwALuXXA+F3ggVQlTzblygASliIAaBZVMMCMM0DZnY+YE8/3v1Oe1fbFgDgVKUCsNhSuA0AjD3tAeAoqh0NAGvf4W+46joJ4A+3oAGvq/G4p/8IAJ5PtRwBwNu5rpGwAuC4DbA3iLIB9yrdv8pI734HpdfnimCfvezqxvZlDiCvrUQAkNwW8vl8btP11geMUvsqpb9Rv61c7U/VkCkAElEHxmGtlqO1S9irvrJrgrhnwUoihq1Gzt6yohnmogFIZJ3YcI0KgDpml0eUZopn3CaCuh5ANV+adaapPICz5Cu1OxrOKmzBDwNBwi9MJ2KrjoqyRYSyIHM3i1dnKzcEUiZMHRD1boZZAHBMElsRTQFcRRp18b3Gt/Vtv7qkQ2JRvudTsGVviwhpqRYEExjsQjTVDmMAjM6Zrb693BESWzGu7hCGdQ6OQY4AYCKq1X38sC+uCGmLrYlS+YRGhBQewEw+wTkLuJxzeADU/fherj/b5vsBs8rirvNQQ+zQAChvHXdJZTVM3eITJtT+JKqdsxFSWABc5RDpMY8ghASw8vZLhaRU5xwSAOdarPSiC+XyKtcAZkofWLG8heX4uyK02l2ElACUIcAaWQIwfJ5wn7PdBQD0CwnAAYQEYNQSQAJIAAkgASSAIYAUB+cDUgwAZDMwS6mCBJAAsiWAY9s/38ODRsoctjQAAAAASUVORK5CYII=\" style=\"height: auto; max-width: 100%;\">",
+      "<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGMAAABmCAYAAADf9i8mAAAEFklEQVR42u2dgW30IAyFM8qNcCPcJjfKjXajtU0lJGQl4YGNceAhRX9/KSWEL+bZxkm3H7YwbeMUEAYbYRAGG2FMAGPbNh4OB2HcFcZs7fv9/t/X6/UauxQRBmEQBmEQBmH0hPH5fAgjCozZgNweRoTBE8bfsQ9+H3i6gf3/hDFYwBOQBIgwBntTu3Z46UiaNMtjH/NUrq0nkNwarfJA08UZXkAsJk6Oc8qgL19Get6YRqfyh2b6CFwC6SHsuSentYol0iE9Pa0ceE3fR1axTG4qB2KtI6nvmn7PxrJMorCXsOfWobGKpWD0BJKsA1mqrq6/XAo9B2J10+gkpmufPQhL7mf08LQQ6yhZpRUMmbPLD2RFcN9cygds4Wmlp/5sIktWoYUh7wdNv4SA0cP1veoH0apWGPnSm1t7Gkf6eT9Pnns0nqHbrlbCfhYEIlbRCqPVbb+65+F74BZAztxctN9aGPmYtSmZfGwhChIsPC0ZBKJWUQvjKl5pfYDSGMNUh2iTjHJCa6ytBoZlvCTTOqFKdbSeVq4dNRNmFa9o9S5k3VQrELkTaA2jx/0f7V6GgqER9pbfQWD0sIqjh6+pOsTjkO4j8jvv9/v//P1f9Dp54FjqtwcMaR1VMPjuBGadLu9nyLyLPB6PB3zhUl8tx/P5hM9Fx7P3GRJGbZpA+6R56FJJM1rS9SGytojYjYYhHQTCGARDus6IN0UYTjEMAqMlSieMhuxubdBXsg7CUOS9UBhomoUwFAlIFAZar0UYYJraMoXesn1qDgNNYyAwSn155LY0m0u126ddYCCb8AiMq8jcK8nYsu3aun3abZmSQGQK4erJvkpNaJJxLdleq4IEWXjgrhkWe9hWhQmt/Wjrps7SP0MEXLOHPRqEBYx8DEMt48yFRMQ3AghLGNpm7tqiW6Y9QLR6X1PX2pYm2rp4TVuVOH3h89mERwOxBIwjHelRzmlRyb7MKwFHAaJ2bbeeuOXez6jZnPEEsSQMj4QfYXRuHl9eqIWRzrceT2gYET+Bgbz0Mh2MEV/rKe2B546IdEosxhgShicIBIbMvUlnwmqs4WB4g7iCcVTvezQXR7BuD2MEiDMYpQmWc2GhJWFgjAIhYVxZAzIXmvsI+xqZ5zcP07VTcbO2AqTVSqZ6jUwLQ1bPt1a3yPct0PugN3WgGcj10V3PmgeKcQYg4EgFCKo1t43AvXSErm0gHWHQV9l6fmKv5m3Xs4I7i4fkVn8/o/cn9pgoVADx/qKbHIP1knnLvyxjrSPcXAqkI4QRSEcII5COEEagAJEwAukIYQTSEcIIpCOEEUhHCCNQgEgYgYSdMAIJO2EE0hHCCKQjyMe/CMNRRwjjZvFISBg8/D/XShiRYbANXMI4BYTBRhiEwUYY92u/QOXChS7fY3MAAAAASUVORK5CYII=\" style=\"height: auto; max-width: 100%;\">"
+    ],
+    "q_en": "",
+    "q_hi": "उस विकल्प आकृति का चयन करें जिसमें दी गई आकृति उसके भाग के रूप में अंतर्निहित है (आकृति को घुमाने की अनुमति नहीं है)।<br>\n<br>\n<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACkAAABECAYAAAAcChxyAAABeklEQVR42u3Ziw2EIAwG4M7jFG7jGK7iJk7hPF4w6YUQ4JD+lZ4pCblHct5H5VWk8w8KOdKRjqyXdV3tIgOOiK5qChlgMc4UMgczE8kS7osZiUxx8zznB8jTyFx/4++KU81TyF+3tDofaiMlOHVka38bgkyjxnXf91N6TThy27Yremk0e7BqyOM4rs8BJcWqI7lIsHDkNE1ZpAT7OLKGLY3+Ycg72OHIFqwZZA1rDlnDmkPmsGaRMdY8EprSOtKRjgRu1Rz5CiQvW1wZuSxLd3YIQdZ2KqWqAaY7+XRAp2tr6ThFHRn/aXjfmvHFv+tNa5uQKVCy5QqvcGQMlEaBoYhbT7lpBXHh0EhUgymNIrLT146Yu5BaI5Nvu+ggSyuKyL6pjuS+KRnpFLe2p0oOot6H1B4QjkQgYQNHE4mYOdSR0BVHA4maf9WQ8QbDJBIJVEHGm17UMgtDpkkbalcOQYZotT4CGYZEPFNURXLNpbomkE8WRzrSkR3lA6r3mlomDAvvAAAAAElFTkSuQmCC\" style=\"height: auto; max-width: 100%;\">",
+    "section": "General Intelligence and Reasoning Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "4",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "8",
+      "9",
+      "11",
+      "10"
+    ],
+    "q_en": "",
+    "q_hi": "Each of the digits in the number '6712398' is arranged in ascending order from left to right. What will be the sum of the digits which are second from the left and second from the right in the new number thus formed?",
+    "section": "General Intelligence and Reasoning Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "3",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "5",
+      "7",
+      "6",
+      "8"
+    ],
+    "q_en": "",
+    "q_hi": "निम्नलिखित संख्या-श्रृंखला का संदर्भ लीजिए तथा दिए गए प्रश्न का उत्तर दीजिए। सभी संख्याएँ केवल एक-अंकीय संख्याएँ हैं। गिनती केवल बाएँ से दाएँ की जानी है।<br>\n<br>\n(बाएँ) 8    8    2    9    1    9    7    2    9    5    9    3    6    4    9    7    2    2    2    7    4    5    8    1    7    9    9 (दाएँ)<br>\n<br>\nऐसी कितनी विषम संख्याएँ (बाएँ से दाएँ) हैं, जिनमें से प्रत्येक के ठीक पहले एक विषम संख्या है तथा ठीक बाद में भी एक विषम संख्या है?",
+    "section": "General Intelligence and Reasoning Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "4",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "दो",
+      "एक",
+      "तीन",
+      "तीन से अधिक"
+    ],
+    "q_en": "",
+    "q_hi": "निम्नलिखित श्रृंखला का संदर्भ लें और प्रश्न का उत्तर दें। गिनती केवल बाएँ से दाएँ की जानी है। (सभी संख्याएँ केवल एकल अंकीय संख्याएँ हैं)<br>\n(बाएँ) 4  6 5   1 4  3  5  3  9  4   6   2   1 8  3  2  3  8  9  3  6  4  7  6  7   8  5  7  5 (दाएँ)<br>\nऐसे कितने विषम अंक हैं जिनमें से प्रत्येक के ठीक पहले एक सम अंक है और ठीक बाद में एक पूर्ण घन भी है?",
+    "section": "General Intelligence and Reasoning Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "4",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "DCWC",
+      "DAWV",
+      "DBWV",
+      "DBXV"
+    ],
+    "q_en": "",
+    "q_hi": "अंग्रेजी वर्णमाला क्रम पर आधारित एक निश्चित तरीके से, TRNL का संबंध HFBZ से है। इसी प्रकार, NLHF का संबंध BZVT से है। समान तर्क के आधार पर, PNJH का संबंध निम्नलिखित में से किससे है?",
+    "section": "General Intelligence and Reasoning Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "3",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "<img loading=\"lazy\" src=\"https://blogger.googleusercontent.com/img/a/AVvXsEhGv4FzI81r2K-KO9kmTMLKvZXVL-lpxvaCIMBboaK-_QyV0aDBayL_0dvBiQpSMjjXiohl6OISpY5TKEkCnZCQxsAzBQfskqYqyo0gwJJ5se6cMfbt-P9Z2WkZiHYMU9PPz6WUwV5lfgP637yVyS2BJJk0nLGiep7nwfADmsjolAo0AG30kCuSaPk6rFQ=rw\" style=\"height: auto; max-width: 100%;\">",
+      "<img loading=\"lazy\" src=\"https://blogger.googleusercontent.com/img/a/AVvXsEjTCJTVHmE9sHe-av0Tsjb-pMG5SL9spJt-DbAY7w2DO_1czzb9Z6E22AkbrPXoviNgrZFeqG2Qyi29eHedyQ0WZW4yT0aShu6x6Pl8RMX2Mm1tkfBWZ-OqpIs-6Wi99RBg9AOeD8oewlvJwLrVlztO81H9OtNt2_UQQZwJ4p2StUREF4KRO4ooc0gwkEA=rw\" style=\"height: auto; max-width: 100%;\">",
+      "<img loading=\"lazy\" src=\"https://blogger.googleusercontent.com/img/a/AVvXsEjerw2quKZ9TZMIxGdrPGa0f-Ar76AAkxyY92kVZmasiEOevO7Pd4h0Ecxih4ujcIo9isvzTL8l1It8xZrHN3Qt22JoLp0TKQ25XF-V_l1N9mgkprQcMBHGom2zHV2RsRfw01wQ38rLpFIfynNtlR1QrYrL45Gr4UgpgF4Ogiyjy9TCjQ8ZgKsD-hC6-Yg=rw\" style=\"height: auto; max-width: 100%;\">",
+      "<img loading=\"lazy\" src=\"https://blogger.googleusercontent.com/img/a/AVvXsEiqfaI3z-jAo79FgXiIJqO38Qf2bH3kB5QPl-gqg_bGWGgbSpVUlKDlEp1T6hkjwyyu77XaP9nnSREMqHjMZ0zXow2EwekWVvjnaPUgLEHmBaECQgg25sTZOTuLGMM_1MO28uYxut57CxmUp3HdaIhI4fG1dT418vxL0NxMWTWZ7vrobKuizUD8Z-O6JaA=rw\" style=\"height: auto; max-width: 100%;\">"
+    ],
+    "q_en": "",
+    "q_hi": "उस विकल्प का चयन कीजिए जिसमें दी गई आकृति अंतर्निहित है (घूर्णन की अनुमति <strong>नहीं </strong>है)।<br>\n<img loading=\"lazy\" src=\"data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD/4RD6RXhpZgAATU0AKgAAAAgABQESAAMAAAABAAEAAAE7AAIAAAAMAAAIVodpAAQAAAABAAAIYpydAAEAAAAYAAAQ2uocAAcAAAgMAAAASgAAAAAc6gAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFN1cmFqIEthZGFtAAAFkAMAAgAAABQAABCwkAQAAgAAABQAABDEkpEAAgAAAAMzNAAAkpIAAgAAAAMzNAAA6hwABwAACAwAAAikAAAAABzqAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMjAyMzowODowNCAxMjo1NToyNAAyMDIzOjA4OjA0IDEyOjU1OjI0AAAAUwB1AHIAYQBqACAASwBhAGQAYQBtAAAA/+ELHmh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8APD94cGFja2V0IGJlZ2luPSfvu78nIGlkPSdXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQnPz4NCjx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iPjxyZGY6UkRGIHhtbG5zOnJkZj0iaHR0cDovL3d3dy53My5vcmcvMTk5OS8wMi8yMi1yZGYtc3ludGF4LW5zIyI+PHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9InV1aWQ6ZmFmNWJkZDUtYmEzZC0xMWRhLWFkMzEtZDMzZDc1MTgyZjFiIiB4bWxuczpkYz0iaHR0cDovL3B1cmwub3JnL2RjL2VsZW1lbnRzLzEuMS8iLz48cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0idXVpZDpmYWY1YmRkNS1iYTNkLTExZGEtYWQzMS1kMzNkNzUxODJmMWIiIHhtbG5zOnhtcD0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wLyI+PHhtcDpDcmVhdGVEYXRlPjIwMjMtMDgtMDRUMTI6NTU6MjQuMzM3PC94bXA6Q3JlYXRlRGF0ZT48L3JkZjpEZXNjcmlwdGlvbj48cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0idXVpZDpmYWY1YmRkNS1iYTNkLTExZGEtYWQzMS1kMzNkNzUxODJmMWIiIHhtbG5zOmRjPSJodHRwOi8vcHVybC5vcmcvZGMvZWxlbWVudHMvMS4xLyI+PGRjOmNyZWF0b3I+PHJkZjpTZXEgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj48cmRmOmxpPlN1cmFqIEthZGFtPC9yZGY6bGk+PC9yZGY6U2VxPg0KCQkJPC9kYzpjcmVhdG9yPjwvcmRmOkRlc2NyaXB0aW9uPjwvcmRmOlJERj48L3g6eG1wbWV0YT4NCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgPD94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\" style=\"height: auto; max-width: 100%;\">",
+    "section": "General Intelligence and Reasoning Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "1",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "एक",
+      "तीन",
+      "दो",
+      "एक भी नहीं"
+    ],
+    "q_en": "",
+    "q_hi": "निम्नलिखित अक्षर श्रृंखला का संदर्भ लें और प्रश्न का उत्तर दें।<br>\n(बाएँ) H  H  G  S  D  V  C  F  O  W  X  Y  P  O  O  R  V  A  Z  W  C  (दाएँ)<br>\nऐसे कितने स्वर हैं जिनमें से प्रत्येक के ठीक पहले एक स्वर है और ठीक बाद में एक व्यंजन भी है?",
+    "section": "General Intelligence and Reasoning Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "1",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "37",
+      "36",
+      "34",
+      "38"
+    ],
+    "q_en": "",
+    "q_hi": "आराधना अपनी कक्षा में ऊपर से 30वें और नीचे से 8वें स्थान पर है। उसकी कक्षा में कुल कितने विद्यार्थी हैं?",
+    "section": "General Intelligence and Reasoning Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "4",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "तीन",
+      "एक",
+      "दो",
+      "एक भी नहीं"
+    ],
+    "q_en": "",
+    "q_hi": "निम्नलिखित अक्षर श्रृंखला का संदर्भ लें और उसके नीचे दिए गए प्रश्न का उत्तर दें। गिनती केवल बाएँ से दाएँ की जानी है।<br>\n<br>\n(बाएँ)  O  J  R  S  J  G  W  S  V  C  C  B  V  A  K  P  P  J  J  J  M  (दाएँ)<br>\n<br>\nऐसे कितने स्वर हैं, जिनमें से प्रत्येक के ठीक पहले एक व्यंजन है और ठीक बाद में एक स्वर भी है?",
+    "section": "General Intelligence and Reasoning Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "3",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "तीन",
+      "एक",
+      "दो",
+      "चार"
+    ],
+    "q_en": "",
+    "q_hi": "सात व्यक्ति, R, O, A, M, I, N और G, एक पंक्ति में उत्तर की ओर अभिमुख होकर बैठे हैं। A और I के बीच केवल तीन व्यक्ति बैठे हैं। N, I के ठीक बाईं ओर पड़ोस में बैठा है। G के दाईं ओर कोई भी नहीं बैठा है। G और N के बीच केवल दो व्यक्ति बैठे हैं। M, R के ठीक दाईं ओर पड़ोस में बैठा है। O और M के बीच में कितने व्यक्ति बैठे हैं?",
+    "section": "General Intelligence and Reasoning Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "1",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "पुत्री का पति",
+      "पिता",
+      "भाई",
+      "पुत्री का पुत्र"
+    ],
+    "q_en": "",
+    "q_hi": "G, L की माता है। L, U की बहन है। T, N का पिता है। N, U का पति है। N का G से क्या संबंध है?",
+    "section": "General Intelligence and Reasoning Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "3",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "6",
+      "2",
+      "4",
+      "8"
+    ],
+    "q_en": "",
+    "q_hi": "यदि संख्या 8654731 के प्रत्येक विषम अंक में 1 जोड़ दिया जाए तथा प्रत्येक सम अंक में से 2 घटा दिया जाए, तो इस प्रकार बनी नई संख्या में बाईं ओर से दूसरा अंक निम्नलिखित में से कौन-सा होगा?",
+    "section": "General Intelligence and Reasoning Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "4",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "GH  -  EF",
+      "HI  -  FG",
+      "YZ  -  WX",
+      "JK  -  HJ"
+    ],
+    "q_en": "",
+    "q_hi": "अंग्रेजी वर्णमाला के क्रम के आधार पर, निम्नलिखित चार अक्षर-समूह युग्मों में से तीन किसी निश्चित प्रकार से समान हैं और इस प्रकार वे एक ग्रुप बनाते हैं। निम्नलिखित में से कौन-सा अक्षर-समूह युग्म, उस ग्रुप से संबंधित <strong>नहीं </strong>है?<br>\n(नोट: असंगत अक्षर-समूह युग्म, व्यंजनों/स्वरों की संख्या या उनकी स्थिति पर आधारित नहीं है।)",
+    "section": "General Intelligence and Reasoning Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "3",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "एक",
+      "दो",
+      "चार",
+      "तीन"
+    ],
+    "q_en": "",
+    "q_hi": "H, U, S, B, A, N और D में से प्रत्येक की परीक्षा सोमवार से शुरू होकर रविवार को समाप्त होने वाले एक ही सप्ताह के अलग-अलग दिन है। N और D के बीच केवल तीन लोगों की परीक्षा है। H और B के बीच भी केवल तीन लोगों की परीक्षा है। A की परीक्षा D से पहले किसी दिन और U के बाद किसी दिन है। केवल S की परीक्षा B से पहले है। N के बाद कितने लोगों की परीक्षा है?",
+    "section": "General Intelligence and Reasoning Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "2",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "2",
+      "4",
+      "3",
+      "0"
+    ],
+    "q_en": "",
+    "q_hi": "A, B, C, D, E और F एक ही इमारत के छह अलग-अलग तलों पर रहते हैं। इमारत में सबसे निचले तल का क्रमांक 1 है, उसके ऊपर वाले तल का क्रमांक 2 है और इसी प्रकार आगे, सबसे ऊपरी तल का क्रमांक 6 है। B और D जिन तलों पर रहते हैं उनका गुणनफल 6 है और उनमें से कोई भी अभाज्य संख्या वाले तल पर नहीं रहता है। D और E जिन तलों पर रहते हैं उनका योग 5 है। A, F के ठीक नीचे रहता है। C के नीचे कितने व्यक्ति रहते हैं?",
+    "section": "General Intelligence and Reasoning Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "1",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "280",
+      "200",
+      "240",
+      "320"
+    ],
+    "q_en": "",
+    "q_hi": "दी गई श्रृंखला में '?' के स्थान पर क्या आना चाहिए?<br>\n<br>\n30           55           105            180             ?             405",
+    "section": "General Intelligence and Reasoning Ability",
+    "solution": "",
+    "topic": ""
+  }
+]
