@@ -1,0 +1,422 @@
+[
+  {
+    "ans": "4",
+    "level": "Easy",
+    "op_en": [
+      "burnt",
+      "salty",
+      "sour",
+      "delicious"
+    ],
+    "op_hi": [
+      "burnt",
+      "salty",
+      "sour",
+      "delicious"
+    ],
+    "q_en": "Select the most appropriate option to fill in the blank.<br><br>The cake she baked was so ____________ that everyone asked for a second slice.",
+    "q_hi": "Select the most appropriate option to fill in the blank.<br><br>The cake she baked was so ____________ that everyone asked for a second slice.",
+    "section": "Test of English Language and Comprehension",
+    "solution": "1. वाक्य का संदर्भ सकारात्मक है क्योंकि सभी ने दूसरा टुकड़ा (second slice) माँगा है।<br>2. 'burnt' (जला हुआ), 'salty' (नमकीन) और 'sour' (खट्टा) नकारात्मक गुण हैं।<br>3. 'delicious' (स्वादिष्ट) यहाँ सबसे उपयुक्त शब्द है जो केक की अच्छी गुणवत्ता को दर्शाता है।",
+    "topic": "Vocabulary"
+  },
+  {
+    "ans": "4",
+    "level": "Medium",
+    "op_en": [
+      "with",
+      "among",
+      "across",
+      "between"
+    ],
+    "op_hi": [
+      "with",
+      "among",
+      "across",
+      "between"
+    ],
+    "q_en": "Select the most appropriate option that rectifies the underlined preposition in the given sentence.<br><br>The emergence of AI has spurred the competition <u>for</u> the two tech giants.",
+    "q_hi": "Select the most appropriate option that rectifies the underlined preposition in the given sentence.<br><br>The emergence of AI has spurred the competition <u>for</u> the two tech giants.",
+    "section": "Test of English Language and Comprehension",
+    "solution": "1. यहाँ दो तकनीकी दिग्गजों (two tech giants) के बीच प्रतिस्पर्धा की बात हो रही है।<br>2. जब तुलना या संबंध केवल दो व्यक्तियों या वस्तुओं के बीच हो, तो 'between' का प्रयोग किया जाता है।<br>3. 'among' का प्रयोग दो से अधिक के लिए किया जाता है, इसलिए 'between' सही सुधार है।",
+    "topic": "Prepositions"
+  },
+  {
+    "ans": "1",
+    "level": "Medium",
+    "op_en": [
+      "a, an",
+      "a, a",
+      "the, a",
+      "a, the"
+    ],
+    "op_hi": [
+      "a, an",
+      "a, a",
+      "the, a",
+      "a, the"
+    ],
+    "q_en": "Select the most appropriate option to fill in the blanks.<br><br>Taylor Swift’s music world tour ended in Vancouver with ____ dazzling finale, featuring an array of performances and ____ emotional farewell to the fans.",
+    "q_hi": "Select the most appropriate option to fill in the blanks.<br><br>Taylor Swift’s music world tour ended in Vancouver with ____ dazzling finale, featuring an array of performances and ____ emotional farewell to the fans.",
+    "section": "Test of English Language and Comprehension",
+    "solution": "1. पहले रिक्त स्थान के लिए: 'dazzling' व्यंजन ध्वनि (consonant sound 'd') से शुरू होता है, इसलिए आर्टिकल 'a' का प्रयोग होगा।<br>2. दूसरे रिक्त स्थान के लिए: 'emotional' स्वर ध्वनि (vowel sound 'e') से शुरू होता है, इसलिए आर्टिकल 'an' का प्रयोग होगा।<br>3. अतः 'a, an' सही संयोजन है।",
+    "topic": "Articles"
+  },
+  {
+    "ans": "2",
+    "level": "Easy",
+    "op_en": [
+      "play",
+      "played",
+      "playing",
+      "plays"
+    ],
+    "op_hi": [
+      "play",
+      "played",
+      "playing",
+      "plays"
+    ],
+    "q_en": "Select the most appropriate option to fill in the blank.<br><br>The children _________ happily in the park yesterday afternoon.",
+    "q_hi": "Select the most appropriate option to fill in the blank.<br><br>The children _________ happily in the park yesterday afternoon.",
+    "section": "Test of English Language and Comprehension",
+    "solution": "1. वाक्य में 'yesterday afternoon' शब्द दिया गया है, जो यह दर्शाता है कि क्रिया भूतकाल (Past Tense) में हुई है।<br>2. Simple Past Tense में क्रिया के दूसरे रूप (V2) का उपयोग होता है।<br>3. 'play' का V2 रूप 'played' है।",
+    "topic": "Verb Tense"
+  },
+  {
+    "ans": "1",
+    "level": "Medium",
+    "op_en": [
+      "demonstrated",
+      "illustrated",
+      "showed",
+      "told"
+    ],
+    "op_hi": [
+      "demonstrated",
+      "illustrated",
+      "showed",
+      "told"
+    ],
+    "q_en": "Select the most appropriate option that rectifies the underlined verb in the given sentence.<br><br>The students <u>solved</u> the experiment right in front of the principal.",
+    "q_hi": "Select the most appropriate option that rectifies the underlined verb in the given sentence.<br><br>The students <u>solved</u> the experiment right in front of the principal.",
+    "section": "Test of English Language and Comprehension",
+    "solution": "1. प्रयोग (experiment) को हल (solve) नहीं किया जाता, बल्कि उसे करके दिखाया जाता है।<br>2. किसी वैज्ञानिक प्रक्रिया या प्रयोग को दूसरों के सामने प्रदर्शित करने के लिए 'demonstrate' सबसे सटीक शब्द है।<br>3. 'Solve' गणितीय समस्याओं या पहेलियों के लिए उपयुक्त होता है।",
+    "topic": "Vocabulary"
+  },
+  {
+    "ans": "1",
+    "level": "Easy",
+    "op_en": [
+      "a",
+      "the",
+      "No article required",
+      "an"
+    ],
+    "op_hi": [
+      "a",
+      "the",
+      "No article required",
+      "an"
+    ],
+    "q_en": "Select the most appropriate article to fill in the blank. If no article is needed, select 'No article required'.<br><br>There is _____ migratory bird that comes here every winter.",
+    "q_hi": "Select the most appropriate article to fill in the blank. If no article is needed, select 'No article required'.<br><br>There is _____ migratory bird that comes here every winter.",
+    "section": "Test of English Language and Comprehension",
+    "solution": "1. यहाँ एक अनिर्दिष्ट प्रवासी पक्षी (migratory bird) की बात हो रही है।<br>2. शब्द 'migratory' व्यंजन ध्वनि 'm' से शुरू होता है।<br>3. इसलिए, एकवचन गणनीय संज्ञा के साथ आर्टिकल 'a' का प्रयोग सही है।",
+    "topic": "Articles"
+  },
+  {
+    "ans": "2",
+    "level": "Hard",
+    "op_en": [
+      "Occasionally",
+      "Hardly",
+      "Barely",
+      "Finally"
+    ],
+    "op_hi": [
+      "Occasionally",
+      "Hardly",
+      "Barely",
+      "Finally"
+    ],
+    "q_en": "Select the most appropriate option to fill in the blank.<br><br>_________ does she admit the mistakes she made during the heated debate last night.",
+    "q_hi": "Select the most appropriate option to fill in the blank.<br><br>_________ does she admit the mistakes she made during the heated debate last night.",
+    "section": "Test of English Language and Comprehension",
+    "solution": "1. वाक्य की संरचना 'Adverb + does + subject' (Inversion) है।<br>2. नकारात्मक एडवर्ब्स जैसे 'Hardly', 'Scarcely' या 'Barely' वाक्य की शुरुआत में आने पर Inversion पैदा करते हैं।<br>3. यहाँ 'Hardly' सबसे उपयुक्त है, जिसका अर्थ है कि वह शायद ही कभी अपनी गलतियाँ मानती है।",
+    "topic": "Adverbs"
+  },
+  {
+    "ans": "1",
+    "level": "Medium",
+    "op_en": [
+      "the, the",
+      "a, a",
+      "a, the",
+      "the, a"
+    ],
+    "op_hi": [
+      "the, the",
+      "a, a",
+      "a, the",
+      "the, a"
+    ],
+    "q_en": "Select the most appropriate articles to fill in the blanks.<br><br>My daughter started learning _____ piano at _____ age of five.",
+    "q_hi": "Select the most appropriate articles to fill in the blanks.<br><br>My daughter started learning _____ piano at _____ age of five.",
+    "section": "Test of English Language and Comprehension",
+    "solution": "1. संगीत वाद्ययंत्रों (musical instruments) के नाम से पहले जब उन्हें बजाने या सीखने की बात हो, तो 'the' का प्रयोग होता है (the piano)।<br>2. 'age of five' एक विशिष्ट उम्र को दर्शाता है, जिसके पहले 'the' का प्रयोग अनिवार्य है।<br>3. अतः 'the, the' सही विकल्प है।",
+    "topic": "Articles"
+  },
+  {
+    "ans": "4",
+    "level": "Medium",
+    "op_en": [
+      "No correction required",
+      "The lawyer argued cogenting, presenting facts that convinced the jury of her client's innocence.",
+      "The lawyer argued cogency, presenting facts that convinced the jury of her client's innocence.",
+      "The lawyer argued cogently, presenting facts that convinced the jury of her client's innocence."
+    ],
+    "op_hi": [
+      "No correction required",
+      "The lawyer argued cogenting, presenting facts that convinced the jury of her client's innocence.",
+      "The lawyer argued cogency, presenting facts that convinced the jury of her client's innocence.",
+      "The lawyer argued cogently, presenting facts that convinced the jury of her client's innocence."
+    ],
+    "q_en": "Select the most appropriate option that rectifies the grammatical error(s) in the given sentence. If there is no error, select 'No correction required'.<br><br>The lawyer argued cogent, presenting facts that convinced the jury of her client's innocence.<span style=\"color: white;\">4646</span>",
+    "q_hi": "Select the most appropriate option that rectifies the grammatical error(s) in the given sentence. If there is no error, select 'No correction required'.<br><br>The lawyer argued cogent, presenting facts that convinced the jury of her client's innocence.<span style=\"color: white;\">4646</span>",
+    "section": "Test of English Language and Comprehension",
+    "solution": "1. वाक्य में 'argued' एक क्रिया (verb) है, और क्रिया की विशेषता बताने के लिए एडवर्ब (adverb) की आवश्यकता होती है।<br>2. 'cogent' एक एडजेक्टिव (विशेषण) है, इसका एडवर्ब रूप 'cogently' है।<br>3. अतः 'argued cogently' व्याकरणिक रूप से सही संरचना है।",
+    "topic": "Adverbs"
+  },
+  {
+    "ans": "3",
+    "level": "Easy",
+    "op_en": [
+      "a, a",
+      "a, an",
+      "an, a",
+      "an, an"
+    ],
+    "op_hi": [
+      "a, a",
+      "a, an",
+      "an, a",
+      "an, an"
+    ],
+    "q_en": "Select the most appropriate option to fill in the blanks.<br><br>A horror movie often has ____ eerie setting and an unexpected twist, keeping the audience engaged with ____ suspenseful story.",
+    "q_hi": "Select the most appropriate option to fill in the blanks.<br><br>A horror movie often has ____ eerie setting and an unexpected twist, keeping the audience engaged with ____ suspenseful story.",
+    "section": "Test of English Language and Comprehension",
+    "solution": "1. 'eerie' शब्द स्वर ध्वनि (vowel sound 'e') से शुरू होता है, इसलिए इसके पहले 'an' का प्रयोग होगा।<br>2. 'suspenseful' शब्द व्यंजन ध्वनि (consonant sound 's') से शुरू होता है, इसलिए इसके पहले 'a' का प्रयोग होगा।<br>3. अतः 'an, a' सही विकल्प है।",
+    "topic": "Articles"
+  },
+  {
+    "ans": "4",
+    "level": "Hard",
+    "op_en": [
+      "an absent-minded distraction from the question",
+      "a lack of understanding or preparation",
+      "an intentional attempt to delay the response for dramatic effect",
+      "an internal cognitive process that takes time to complete before a response emerges"
+    ],
+    "op_hi": [
+      "an absent-minded distraction from the question",
+      "a lack of understanding or preparation",
+      "an intentional attempt to delay the response for dramatic effect",
+      "an internal cognitive process that takes time to complete before a response emerges"
+    ],
+    "q_en": "<b>Comprehension:</b><br>Read the given passage and answer the questions that follow.<br><br>In old persons, there is sometimes a long interval of obscure mental action before the answer to a question is evolved. (. . .) The delay here, probably, corresponded to what machinists call 'lost time', or 'back lash' in turning an old screw, the thread of which is worn. But, (. . .) I examined a young man for his degree in whom I noticed a certain regular interval, and a pretty long one, between every question and its answer. Yet the answer was, in almost every instance, correct, when at last it did come. (. . .) I do not think the mind knows what it is doing in the interval, in such cases. This latent period, during which the brain is obscurely at work, may, perhaps, belong to mathematicians more than others. Swift said of Sir Isaac Newton that, if one were to ask him a question, “he would revolve it in a circle in his brain, round and round and round” (the narrator here describing a circle on his own fore-head), “before he could produce an answer.”<span style=\"color: white;\">466</span><br>In describing the young man who answered questions after a regular delay, the narrator most likely attributes this pause to:<span style=\"color: white;\">467</span>",
+    "q_hi": "<b>Comprehension:</b><br>Read the given passage and answer the questions that follow.<br><br>In old persons, there is sometimes a long interval of obscure mental action before the answer to a question is evolved. (. . .) The delay here, probably, corresponded to what machinists call 'lost time', or 'back lash' in turning an old screw, the thread of which is worn. But, (. . .) I examined a young man for his degree in whom I noticed a certain regular interval, and a pretty long one, between every question and its answer. Yet the answer was, in almost every instance, correct, when at last it did come. (. . .) I do not think the mind knows what it is doing in the interval, in such cases. This latent period, during which the brain is obscurely at work, may, perhaps, belong to mathematicians more than others. Swift said of Sir Isaac Newton that, if one were to ask him a question, “he would revolve it in a circle in his brain, round and round and round” (the narrator here describing a circle on his own fore-head), “before he could produce an answer.”<span style=\"color: white;\">466</span><br>In describing the young man who answered questions after a regular delay, the narrator most likely attributes this pause to:<span style=\"color: white;\">467</span>",
+    "section": "Test of English Language and Comprehension",
+    "solution": "1. गद्यांश के अनुसार, लेखक 'अस्पष्ट मानसिक क्रिया' (obscure mental action) और 'सुप्त अवधि' (latent period) की बात करता है।<br>2. लेखक बताता है कि मस्तिष्क इस अंतराल के दौरान गुप्त रूप से काम कर रहा होता है ताकि उत्तर विकसित किया जा सके।<br>3. यह दर्शाता है कि यह एक आंतरिक संज्ञानात्मक प्रक्रिया (internal cognitive process) है जो प्रतिक्रिया देने से पहले समय लेती है।",
+    "topic": "Reading Comprehension"
+  },
+  {
+    "ans": "2",
+    "level": "Hard",
+    "op_en": [
+      "The process of refining incorrect responses into accurate ones",
+      "A gap caused by the wear and tear of intellectual ability",
+      "The mental fatigue experienced by mathematicians",
+      "The time taken by an older individual to recall an answer"
+    ],
+    "op_hi": [
+      "The process of refining incorrect responses into accurate ones",
+      "A gap caused by the wear and tear of intellectual ability",
+      "The mental fatigue experienced by mathematicians",
+      "The time taken by an older individual to recall an answer"
+    ],
+    "q_en": "<b>Comprehension:</b><br>Read the given passage and answer the questions that follow.<br><br>In old persons, there is sometimes a long interval of obscure mental action before the answer to a question is evolved. (. . .) The delay here, probably, corresponded to what machinists call 'lost time', or 'back lash' in turning an old screw, the thread of which is worn. But, (. . .) I examined a young man for his degree in whom I noticed a certain regular interval, and a pretty long one, between every question and its answer. Yet the answer was, in almost every instance, correct, when at last it did come. (. . .) I do not think the mind knows what it is doing in the interval, in such cases. This latent period, during which the brain is obscurely at work, may, perhaps, belong to mathematicians more than others. Swift said of Sir Isaac Newton that, if one were to ask him a question, “he would revolve it in a circle in his brain, round and round and round” (the narrator here describing a circle on his own fore-head), “before he could produce an answer.”<span style=\"color: white;\">466</span><br>What does the term 'lost time' or 'backlash' metaphorically represent in the passage?<span style=\"color: white;\">468</span>",
+    "q_hi": "<b>Comprehension:</b><br>Read the given passage and answer the questions that follow.<br><br>In old persons, there is sometimes a long interval of obscure mental action before the answer to a question is evolved. (. . .) The delay here, probably, corresponded to what machinists call 'lost time', or 'back lash' in turning an old screw, the thread of which is worn. But, (. . .) I examined a young man for his degree in whom I noticed a certain regular interval, and a pretty long one, between every question and its answer. Yet the answer was, in almost every instance, correct, when at last it did come. (. . .) I do not think the mind knows what it is doing in the interval, in such cases. This latent period, during which the brain is obscurely at work, may, perhaps, belong to mathematicians more than others. Swift said of Sir Isaac Newton that, if one were to ask him a question, “he would revolve it in a circle in his brain, round and round and round” (the narrator here describing a circle on his own fore-head), “before he could produce an answer.”<span style=\"color: white;\">466</span><br>What does the term 'lost time' or 'backlash' metaphorically represent in the passage?<span style=\"color: white;\">468</span>",
+    "section": "Test of English Language and Comprehension",
+    "solution": "1. लेखक पुराने व्यक्तियों (old persons) के संदर्भ में 'घिसे हुए पेंच' (worn screw) का उदाहरण देता है।<br>2. 'Backlash' या 'lost time' यांत्रिक पेंच के घिसने के कारण होने वाले अंतराल को दर्शाता है।<br>3. रूपक के रूप में, यह बौद्धिक क्षमता के कम होने या उम्र के कारण होने वाले अंतराल (gap) का प्रतिनिधित्व करता है।",
+    "topic": "Reading Comprehension"
+  },
+  {
+    "ans": "4",
+    "level": "Hard",
+    "op_en": [
+      "The latent period is a flaw that compromises the accuracy of answers.",
+      "A longer latent period always leads to incorrect answers.",
+      "A longer latent period often results in more accurate answers.",
+      "The accuracy of answers is unrelated to the length of the latent period."
+    ],
+    "op_hi": [
+      "The latent period is a flaw that compromises the accuracy of answers.",
+      "A longer latent period always leads to incorrect answers.",
+      "A longer latent period often results in more accurate answers.",
+      "The accuracy of answers is unrelated to the length of the latent period."
+    ],
+    "q_en": "<b>Comprehension:</b><br>Read the given passage and answer the questions that follow.<br><br>In old persons, there is sometimes a long interval of obscure mental action before the answer to a question is evolved. (. . .) The delay here, probably, corresponded to what machinists call 'lost time', or 'back lash' in turning an old screw, the thread of which is worn. But, (. . .) I examined a young man for his degree in whom I noticed a certain regular interval, and a pretty long one, between every question and its answer. Yet the answer was, in almost every instance, correct, when at last it did come. (. . .) I do not think the mind knows what it is doing in the interval, in such cases. This latent period, during which the brain is obscurely at work, may, perhaps, belong to mathematicians more than others. Swift said of Sir Isaac Newton that, if one were to ask him a question, “he would revolve it in a circle in his brain, round and round and round” (the narrator here describing a circle on his own fore-head), “before he could produce an answer.”<span style=\"color: white;\">466</span><br>What does the narrator suggest about the relationship between the accuracy of answers and the duration of the latent period?<span style=\"color: white;\">469</span>",
+    "q_hi": "<b>Comprehension:</b><br>Read the given passage and answer the questions that follow.<br><br>In old persons, there is sometimes a long interval of obscure mental action before the answer to a question is evolved. (. . .) The delay here, probably, corresponded to what machinists call 'lost time', or 'back lash' in turning an old screw, the thread of which is worn. But, (. . .) I examined a young man for his degree in whom I noticed a certain regular interval, and a pretty long one, between every question and its answer. Yet the answer was, in almost every instance, correct, when at last it did come. (. . .) I do not think the mind knows what it is doing in the interval, in such cases. This latent period, during which the brain is obscurely at work, may, perhaps, belong to mathematicians more than others. Swift said of Sir Isaac Newton that, if one were to ask him a question, “he would revolve it in a circle in his brain, round and round and round” (the narrator here describing a circle on his own fore-head), “before he could produce an answer.”<span style=\"color: white;\">466</span><br>What does the narrator suggest about the relationship between the accuracy of answers and the duration of the latent period?<span style=\"color: white;\">469</span>",
+    "section": "Test of English Language and Comprehension",
+    "solution": "1. गद्यांश में युवा व्यक्ति का उदाहरण दिया गया है जो उत्तर देने से पहले लंबा समय लेता था, फिर भी उसके उत्तर लगभग हर बार सही होते थे।<br>2. वहीं पुराने व्यक्तियों के लिए भी समान अंतराल की बात की गई है जो 'lost time' के समान है।<br>3. लेखक यह स्पष्ट नहीं करता कि समय की लंबाई उत्तर की सटीकता को सीधे प्रभावित करती है, बल्कि यह केवल प्रक्रिया के होने का समय है।",
+    "topic": "Reading Comprehension"
+  },
+  {
+    "ans": "1",
+    "level": "Hard",
+    "op_en": [
+      "His meticulous and circular reasoning process",
+      "His ability to think rapidly and spontaneously",
+      "His frustration with questions that required long consideration",
+      "His hesitation and uncertainty in providing answers"
+    ],
+    "op_hi": [
+      "His meticulous and circular reasoning process",
+      "His ability to think rapidly and spontaneously",
+      "His frustration with questions that required long consideration",
+      "His hesitation and uncertainty in providing answers"
+    ],
+    "q_en": "<b>Comprehension:</b><br>Read the given passage and answer the questions that follow.<br><br>In old persons, there is sometimes a long interval of obscure mental action before the answer to a question is evolved. (. . .) The delay here, probably, corresponded to what machinists call 'lost time', or 'back lash' in turning an old screw, the thread of which is worn. But, (. . .) I examined a young man for his degree in whom I noticed a certain regular interval, and a pretty long one, between every question and its answer. Yet the answer was, in almost every instance, correct, when at last it did come. (. . .) I do not think the mind knows what it is doing in the interval, in such cases. This latent period, during which the brain is obscurely at work, may, perhaps, belong to mathematicians more than others. Swift said of Sir Isaac Newton that, if one were to ask him a question, “he would revolve it in a circle in his brain, round and round and round” (the narrator here describing a circle on his own fore-head), “before he could produce an answer.”<span style=\"color: white;\">466</span><br>What aspect of Newton’s mental process is highlighted by the anecdote from Swift?<span style=\"color: white;\">470</span>",
+    "q_hi": "<b>Comprehension:</b><br>Read the given passage and answer the questions that follow.<br><br>In old persons, there is sometimes a long interval of obscure mental action before the answer to a question is evolved. (. . .) The delay here, probably, corresponded to what machinists call 'lost time', or 'back lash' in turning an old screw, the thread of which is worn. But, (. . .) I examined a young man for his degree in whom I noticed a certain regular interval, and a pretty long one, between every question and its answer. Yet the answer was, in almost every instance, correct, when at last it did come. (. . .) I do not think the mind knows what it is doing in the interval, in such cases. This latent period, during which the brain is obscurely at work, may, perhaps, belong to mathematicians more than others. Swift said of Sir Isaac Newton that, if one were to ask him a question, “he would revolve it in a circle in his brain, round and round and round” (the narrator here describing a circle on his own fore-head), “before he could produce an answer.”<span style=\"color: white;\">466</span><br>What aspect of Newton’s mental process is highlighted by the anecdote from Swift?<span style=\"color: white;\">470</span>",
+    "section": "Test of English Language and Comprehension",
+    "solution": "1. स्विफ्ट के अनुसार, न्यूटन उत्तर देने से पहले समस्या को अपने दिमाग में 'गोल-गोल' (round and round) घुमाते थे।<br>2. यह उनकी गहन और सूक्ष्म विचार प्रक्रिया (meticulous and circular reasoning) को दर्शाता है।<br>3. यह हिचकिचाहट नहीं बल्कि एक व्यवस्थित तरीके से उत्तर तक पहुँचने की प्रक्रिया थी।",
+    "topic": "Reading Comprehension"
+  },
+  {
+    "ans": "3",
+    "level": "Hard",
+    "op_en": [
+      "It allows the mind to work on the problem unconsciously.",
+      "It indicates a lack of mental clarity or focus.",
+      "It reflects a tendency to overanalyse simple problems.",
+      "It results from inexperience in answering questions."
+    ],
+    "op_hi": [
+      "It allows the mind to work on the problem unconsciously.",
+      "It indicates a lack of mental clarity or focus.",
+      "It reflects a tendency to overanalyse simple problems.",
+      "It results from inexperience in answering questions."
+    ],
+    "q_en": "<b>Comprehension:</b><br>Read the given passage and answer the questions that follow.<br><br>In old persons, there is sometimes a long interval of obscure mental action before the answer to a question is evolved. (. . .) The delay here, probably, corresponded to what machinists call 'lost time', or 'back lash' in turning an old screw, the thread of which is worn. But, (. . .) I examined a young man for his degree in whom I noticed a certain regular interval, and a pretty long one, between every question and its answer. Yet the answer was, in almost every instance, correct, when at last it did come. (. . .) I do not think the mind knows what it is doing in the interval, in such cases. This latent period, during which the brain is obscurely at work, may, perhaps, belong to mathematicians more than others. Swift said of Sir Isaac Newton that, if one were to ask him a question, “he would revolve it in a circle in his brain, round and round and round” (the narrator here describing a circle on his own fore-head), “before he could produce an answer.”<span style=\"color: white;\">466</span><br>What is implied about the latent period in younger individuals?<span style=\"color: white;\">471</span>",
+    "q_hi": "<b>Comprehension:</b><br>Read the given passage and answer the questions that follow.<br><br>In old persons, there is sometimes a long interval of obscure mental action before the answer to a question is evolved. (. . .) The delay here, probably, corresponded to what machinists call 'lost time', or 'back lash' in turning an old screw, the thread of which is worn. But, (. . .) I examined a young man for his degree in whom I noticed a certain regular interval, and a pretty long one, between every question and its answer. Yet the answer was, in almost every instance, correct, when at last it did come. (. . .) I do not think the mind knows what it is doing in the interval, in such cases. This latent period, during which the brain is obscurely at work, may, perhaps, belong to mathematicians more than others. Swift said of Sir Isaac Newton that, if one were to ask him a question, “he would revolve it in a circle in his brain, round and round and round” (the narrator here describing a circle on his own fore-head), “before he could produce an answer.”<span style=\"color: white;\">466</span><br>What is implied about the latent period in younger individuals?<span style=\"color: white;\">471</span>",
+    "section": "Test of English Language and Comprehension",
+    "solution": "1. लेखक युवा व्यक्ति के मामले में 'निश्चित नियमित अंतराल' (certain regular interval) देखता है।<br>2. वह यह भी बताता है कि यह सुप्त अवधि (latent period) गणितज्ञों में अधिक हो सकती है।<br>3. यह पहेलियों या समस्याओं को बहुत अधिक गहराई से विश्लेषण करने (overanalyse) की प्रवृत्ति को दर्शाता है, भले ही वे सरल हों।",
+    "topic": "Reading Comprehension"
+  },
+  {
+    "ans": "3",
+    "level": "Hard",
+    "op_en": [
+      "A little boy offering his storybook to his ill mother",
+      "A child showing concern for their elder sister’s distress by crawling towards her",
+      "A child pretending to have a headache after observing their mother’s discomfort",
+      "A child expressing concern about their mother’s aging"
+    ],
+    "op_hi": [
+      "A little boy offering his storybook to his ill mother",
+      "A child showing concern for their elder sister’s distress by crawling towards her",
+      "A child pretending to have a headache after observing their mother’s discomfort",
+      "A child expressing concern about their mother’s aging"
+    ],
+    "q_en": "<b>Comprehension:</b><br>Read the given passage and answer the questions that follow.<br><br>Sympathy, it is commonly said, is a kind of imitation, and this is strikingly illustrated in its early forms. A child has been observed under the age of seven months to look unhappy, drawing down well the corners of the mouth in the characteristic baby-fashion when his nurse pretended to cry. This imitative sympathy deepens with attachment. When, for example, a little girl on finding that her mother's head ached pretended to have a bad head, we appear to see the working of an impulse to get near and share in others' experiences. From this imitative acting of another's trouble, so as to share in it, there is but a step to that more direct apprehension of it which we call sympathy. (. . . ) A deeper and thoughtful kind of sympathy often comes with the advent of the more reflective years. Thought about the overhanging terror, death, is sometimes its awakener. \"Are you old, mother?\" asked a boy of five. \"Why?\" she answered. \"Because,\" he continued, \"the older you are the nearer you are to dying.\" (. . . ) This first thought for others frequently takes the practical form of helpfulness.  <span style=\"color: white;\">472</span><br>Which of the following best illustrates the concept of 'imitative sympathy' as described in the passage?<span style=\"color: white;\">473</span>",
+    "q_hi": "<b>Comprehension:</b><br>Read the given passage and answer the questions that follow.<br><br>Sympathy, it is commonly said, is a kind of imitation, and this is strikingly illustrated in its early forms. A child has been observed under the age of seven months to look unhappy, drawing down well the corners of the mouth in the characteristic baby-fashion when his nurse pretended to cry. This imitative sympathy deepens with attachment. When, for example, a little girl on finding that her mother's head ached pretended to have a bad head, we appear to see the working of an impulse to get near and share in others' experiences. From this imitative acting of another's trouble, so as to share in it, there is but a step to that more direct apprehension of it which we call sympathy. (. . . ) A deeper and thoughtful kind of sympathy often comes with the advent of the more reflective years. Thought about the overhanging terror, death, is sometimes its awakener. \"Are you old, mother?\" asked a boy of five. \"Why?\" she answered. \"Because,\" he continued, \"the older you are the nearer you are to dying.\" (. . . ) This first thought for others frequently takes the practical form of helpfulness.  <span style=\"color: white;\">472</span><br>Which of the following best illustrates the concept of 'imitative sympathy' as described in the passage?<span style=\"color: white;\">473</span>",
+    "section": "Test of English Language and Comprehension",
+    "solution": "1. गद्यांश के अनुसार, नकल आधारित सहानुभूति (imitative sympathy) तब होती है जब बच्चा दूसरे के दुःख की नकल करता है।<br>2. गद्यांश में एक लड़की का उदाहरण दिया गया है जो अपनी माँ के सिरदर्द को देखकर खुद भी सिरदर्द होने का नाटक (pretended to have a bad head) करती है।<br>3. यह दूसरों के अनुभवों को साझा करने की शुरुआती अवस्था को दर्शाता है।",
+    "topic": "Reading Comprehension"
+  },
+  {
+    "ans": "3",
+    "level": "Hard",
+    "op_en": [
+      "Imitation and true sympathy are unrelated processes.",
+      "True sympathy arises solely from intellectual understanding.",
+      "Imitation is a precursor to more profound forms of sympathy.",
+      "Imitation is unnecessary for the development of true sympathy."
+    ],
+    "op_hi": [
+      "Imitation and true sympathy are unrelated processes.",
+      "True sympathy arises solely from intellectual understanding.",
+      "Imitation is a precursor to more profound forms of sympathy.",
+      "Imitation is unnecessary for the development of true sympathy."
+    ],
+    "q_en": "<b>Comprehension:</b><br>Read the given passage and answer the questions that follow.<br><br>Sympathy, it is commonly said, is a kind of imitation, and this is strikingly illustrated in its early forms. A child has been observed under the age of seven months to look unhappy, drawing down well the corners of the mouth in the characteristic baby-fashion when his nurse pretended to cry. This imitative sympathy deepens with attachment. When, for example, a little girl on finding that her mother's head ached pretended to have a bad head, we appear to see the working of an impulse to get near and share in others' experiences. From this imitative acting of another's trouble, so as to share in it, there is but a step to that more direct apprehension of it which we call sympathy. (. . . ) A deeper and thoughtful kind of sympathy often comes with the advent of the more reflective years. Thought about the overhanging terror, death, is sometimes its awakener. \"Are you old, mother?\" asked a boy of five. \"Why?\" she answered. \"Because,\" he continued, \"the older you are the nearer you are to dying.\" (. . . ) This first thought for others frequently takes the practical form of helpfulness.  <span style=\"color: white;\">472</span><br>What is implied about the relationship between imitation and true sympathy?<span style=\"color: white;\">474</span>",
+    "q_hi": "<b>Comprehension:</b><br>Read the given passage and answer the questions that follow.<br><br>Sympathy, it is commonly said, is a kind of imitation, and this is strikingly illustrated in its early forms. A child has been observed under the age of seven months to look unhappy, drawing down well the corners of the mouth in the characteristic baby-fashion when his nurse pretended to cry. This imitative sympathy deepens with attachment. When, for example, a little girl on finding that her mother's head ached pretended to have a bad head, we appear to see the working of an impulse to get near and share in others' experiences. From this imitative acting of another's trouble, so as to share in it, there is but a step to that more direct apprehension of it which we call sympathy. (. . . ) A deeper and thoughtful kind of sympathy often comes with the advent of the more reflective years. Thought about the overhanging terror, death, is sometimes its awakener. \"Are you old, mother?\" asked a boy of five. \"Why?\" she answered. \"Because,\" he continued, \"the older you are the nearer you are to dying.\" (. . . ) This first thought for others frequently takes the practical form of helpfulness.  <span style=\"color: white;\">472</span><br>What is implied about the relationship between imitation and true sympathy?<span style=\"color: white;\">474</span>",
+    "section": "Test of English Language and Comprehension",
+    "solution": "1. गद्यांश कहता है कि दुःख के नकल वाले अभिनय से सहानुभूति की प्रत्यक्ष समझ तक केवल एक कदम का फासला है।<br>2. यह स्पष्ट करता है कि बचपन में की जाने वाली नकल ही आगे चलकर गहरी सहानुभूति में बदल जाती है।<br>3. अतः नकल सहानुभूति के गहरे रूपों के लिए एक पूर्वगामी (precursor) के रूप में कार्य करती है।",
+    "topic": "Reading Comprehension"
+  },
+  {
+    "ans": "3",
+    "level": "Hard",
+    "op_en": [
+      "It eliminates the fear of losing others by addressing existential concerns.",
+      "It causes individuals to focus only on their own mortality.",
+      "It encourages an understanding of shared human vulnerability in death.",
+      "It triggers a suppressive response against thoughts of aging and loss."
+    ],
+    "op_hi": [
+      "It eliminates the fear of losing others by addressing existential concerns.",
+      "It causes individuals to focus only on their own mortality.",
+      "It encourages an understanding of shared human vulnerability in death.",
+      "It triggers a suppressive response against thoughts of aging and loss."
+    ],
+    "q_en": "<b>Comprehension:</b><br>Read the given passage and answer the questions that follow.<br><br>Sympathy, it is commonly said, is a kind of imitation, and this is strikingly illustrated in its early forms. A child has been observed under the age of seven months to look unhappy, drawing down well the corners of the mouth in the characteristic baby-fashion when his nurse pretended to cry. This imitative sympathy deepens with attachment. When, for example, a little girl on finding that her mother's head ached pretended to have a bad head, we appear to see the working of an impulse to get near and share in others' experiences. From this imitative acting of another's trouble, so as to share in it, there is but a step to that more direct apprehension of it which we call sympathy. (. . . ) A deeper and thoughtful kind of sympathy often comes with the advent of the more reflective years. Thought about the overhanging terror, death, is sometimes its awakener. \"Are you old, mother?\" asked a boy of five. \"Why?\" she answered. \"Because,\" he continued, \"the older you are the nearer you are to dying.\" (. . . ) This first thought for others frequently takes the practical form of helpfulness.  <span style=\"color: white;\">472</span><br>Why might reflective thought about death lead to deeper sympathy?<span style=\"color: white;\">475</span>",
+    "q_hi": "<b>Comprehension:</b><br>Read the given passage and answer the questions that follow.<br><br>Sympathy, it is commonly said, is a kind of imitation, and this is strikingly illustrated in its early forms. A child has been observed under the age of seven months to look unhappy, drawing down well the corners of the mouth in the characteristic baby-fashion when his nurse pretended to cry. This imitative sympathy deepens with attachment. When, for example, a little girl on finding that her mother's head ached pretended to have a bad head, we appear to see the working of an impulse to get near and share in others' experiences. From this imitative acting of another's trouble, so as to share in it, there is but a step to that more direct apprehension of it which we call sympathy. (. . . ) A deeper and thoughtful kind of sympathy often comes with the advent of the more reflective years. Thought about the overhanging terror, death, is sometimes its awakener. \"Are you old, mother?\" asked a boy of five. \"Why?\" she answered. \"Because,\" he continued, \"the older you are the nearer you are to dying.\" (. . . ) This first thought for others frequently takes the practical form of helpfulness.  <span style=\"color: white;\">472</span><br>Why might reflective thought about death lead to deeper sympathy?<span style=\"color: white;\">475</span>",
+    "section": "Test of English Language and Comprehension",
+    "solution": "1. लेखक बताता है कि चिंतनशील वर्षों में मृत्यु का विचार अक्सर सहानुभूति को जगाने वाला (awakener) होता है।<br>2. जब कोई मृत्यु जैसे सार्वभौमिक संकट के बारे में सोचता है, तो वह दूसरों के प्रति अधिक संवेदनशील हो जाता है।<br>3. यह साझा मानवीय भेद्यता (shared human vulnerability) की समझ को प्रोत्साहित करता है।",
+    "topic": "Reading Comprehension"
+  },
+  {
+    "ans": "3",
+    "level": "Hard",
+    "op_en": [
+      "Attachment prevents imitation from developing into deeper empathy.",
+      "Attachment is irrelevant to the development of true sympathy.",
+      "Attachment intensifies the impulse to understand and share others’ experiences.",
+      "Attachment only matters in adulthood, not in childhood."
+    ],
+    "op_hi": [
+      "Attachment prevents imitation from developing into deeper empathy.",
+      "Attachment is irrelevant to the development of true sympathy.",
+      "Attachment intensifies the impulse to understand and share others’ experiences.",
+      "Attachment only matters in adulthood, not in childhood."
+    ],
+    "q_en": "<b>Comprehension:</b><br>Read the given passage and answer the questions that follow.<br><br>Sympathy, it is commonly said, is a kind of imitation, and this is strikingly illustrated in its early forms. A child has been observed under the age of seven months to look unhappy, drawing down well the corners of the mouth in the characteristic baby-fashion when his nurse pretended to cry. This imitative sympathy deepens with attachment. When, for example, a little girl on finding that her mother's head ached pretended to have a bad head, we appear to see the working of an impulse to get near and share in others' experiences. From this imitative acting of another's trouble, so as to share in it, there is but a step to that more direct apprehension of it which we call sympathy. (. . . ) A deeper and thoughtful kind of sympathy often comes with the advent of the more reflective years. Thought about the overhanging terror, death, is sometimes its awakener. \"Are you old, mother?\" asked a boy of five. \"Why?\" she answered. \"Because,\" he continued, \"the older you are the nearer you are to dying.\" (. . . ) This first thought for others frequently takes the practical form of helpfulness.  <span style=\"color: white;\">472</span><br>What role does 'attachment' play in the progression from imitation to true sympathy?<span style=\"color: white;\">476</span>",
+    "q_hi": "<b>Comprehension:</b><br>Read the given passage and answer the questions that follow.<br><br>Sympathy, it is commonly said, is a kind of imitation, and this is strikingly illustrated in its early forms. A child has been observed under the age of seven months to look unhappy, drawing down well the corners of the mouth in the characteristic baby-fashion when his nurse pretended to cry. This imitative sympathy deepens with attachment. When, for example, a little girl on finding that her mother's head ached pretended to have a bad head, we appear to see the working of an impulse to get near and share in others' experiences. From this imitative acting of another's trouble, so as to share in it, there is but a step to that more direct apprehension of it which we call sympathy. (. . . ) A deeper and thoughtful kind of sympathy often comes with the advent of the more reflective years. Thought about the overhanging terror, death, is sometimes its awakener. \"Are you old, mother?\" asked a boy of five. \"Why?\" she answered. \"Because,\" he continued, \"the older you are the nearer you are to dying.\" (. . . ) This first thought for others frequently takes the practical form of helpfulness.  <span style=\"color: white;\">472</span><br>What role does 'attachment' play in the progression from imitation to true sympathy?<span style=\"color: white;\">476</span>",
+    "section": "Test of English Language and Comprehension",
+    "solution": "1. गद्यांश में कहा गया है कि 'नकल आधारित सहानुभूति लगाव (attachment) के साथ गहरी होती है'।<br>2. यह लगाव ही बच्चे में दूसरों के अनुभवों के करीब आने और उन्हें साझा करने की प्रवृत्ति को जन्म देता है।<br>3. अतः लगाव दूसरों के अनुभवों को साझा करने के आवेग को तेज करता है।",
+    "topic": "Reading Comprehension"
+  },
+  {
+    "ans": "3",
+    "level": "Hard",
+    "op_en": [
+      "Both forms are equally developed from infancy.",
+      "Practical sympathy in household tasks diminishes with age.",
+      "Early displays are primarily instinctive, while reflective empathy involves conscious thought.",
+      "Reflective empathy is an extension of the child’s imaginative play."
+    ],
+    "op_hi": [
+      "Both forms are equally developed from infancy.",
+      "Practical sympathy in household tasks diminishes with age.",
+      "Early displays are primarily instinctive, while reflective empathy involves conscious thought.",
+      "Reflective empathy is an extension of the child’s imaginative play."
+    ],
+    "q_en": "<b>Comprehension:</b><br>Read the given passage and answer the questions that follow.<br><br>Sympathy, it is commonly said, is a kind of imitation, and this is strikingly illustrated in its early forms. A child has been observed under the age of seven months to look unhappy, drawing down well the corners of the mouth in the characteristic baby-fashion when his nurse pretended to cry. This imitative sympathy deepens with attachment. When, for example, a little girl on finding that her mother's head ached pretended to have a bad head, we appear to see the working of an impulse to get near and share in others' experiences. From this imitative acting of another's trouble, so as to share in it, there is but a step to that more direct apprehension of it which we call sympathy. (. . . ) A deeper and thoughtful kind of sympathy often comes with the advent of the more reflective years. Thought about the overhanging terror, death, is sometimes its awakener. \"Are you old, mother?\" asked a boy of five. \"Why?\" she answered. \"Because,\" he continued, \"the older you are the nearer you are to dying.\" (. . . ) This first thought for others frequently takes the practical form of helpfulness.  <span style=\"color: white;\">472</span><br>According to the passage, what is implied about the relationship between early displays of sympathy and later, more reflective empathy?<span style=\"color: white;\">477</span>",
+    "q_hi": "<b>Comprehension:</b><br>Read the given passage and answer the questions that follow.<br><br>Sympathy, it is commonly said, is a kind of imitation, and this is strikingly illustrated in its early forms. A child has been observed under the age of seven months to look unhappy, drawing down well the corners of the mouth in the characteristic baby-fashion when his nurse pretended to cry. This imitative sympathy deepens with attachment. When, for example, a little girl on finding that her mother's head ached pretended to have a bad head, we appear to see the working of an impulse to get near and share in others' experiences. From this imitative acting of another's trouble, so as to share in it, there is but a step to that more direct apprehension of it which we call sympathy. (. . . ) A deeper and thoughtful kind of sympathy often comes with the advent of the more reflective years. Thought about the overhanging terror, death, is sometimes its awakener. \"Are you old, mother?\" asked a boy of five. \"Why?\" she answered. \"Because,\" he continued, \"the older you are the nearer you are to dying.\" (. . . ) This first thought for others frequently takes the practical form of helpfulness.  <span style=\"color: white;\">472</span><br>According to the passage, what is implied about the relationship between early displays of sympathy and later, more reflective empathy?<span style=\"color: white;\">477</span>",
+    "section": "Test of English Language and Comprehension",
+    "solution": "1. गद्यांश के अनुसार, शुरुआती सहानुभूति केवल नकल (imitation) या स्वभाव आधारित होती है।<br>2. 'चिंतनशील वर्षों' (reflective years) के आगमन के साथ एक गहरा और विचारपूर्ण प्रकार की सहानुभूति आती है।<br>3. यह इंगित करता है कि शुरुआती प्रदर्शन स्वाभाविक/सहज होते हैं, जबकि बाद के चरणों में सचेत विचार शामिल होते हैं।",
+    "topic": "Reading Comprehension"
+  }
+]
