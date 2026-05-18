@@ -1,0 +1,422 @@
+[
+  {
+    "ans": "3",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "दो",
+      "तीन",
+      "एक",
+      "एक भी नहीं"
+    ],
+    "q_en": "",
+    "q_hi": "निम्नलिखित अक्षर श्रृंखला का संदर्भ लें और नीचे दिए गए प्रश्न का उत्तर दें। गिनती केवल बाएँ से दाएँ की जानी है।<br>\n<br>\n(बाएँ) R   N   R   Y    V   I    F   E  D   H   I   T   O   J   U   E    D   S  A  B   S    I   H   R   S   A    C (दाएँ)<br>\n<br>\nऐसे कितने स्वर हैं जिनमें से प्रत्येक के ठीक पहले एक व्यंजन है और ठीक बाद एक स्वर है?",
+    "section": "General Intelligence and Reasoning Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "4",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "261",
+      "264",
+      "255",
+      "259"
+    ],
+    "q_en": "",
+    "q_hi": "<div>दी गई श्रृंखला में ‘?’ के स्थान पर क्या आना चाहिए?</div>\n<br>\n149     161     178     200     227     ?",
+    "section": "General Intelligence and Reasoning Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "2",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "H",
+      "Z",
+      "X",
+      "U"
+    ],
+    "q_en": "",
+    "q_hi": "AWAITING शब्द में प्रत्येक स्वर को अंग्रेजी वर्णमाला क्रम में उसके ठीक पहले वाले अक्षर से बदल दिया जाता है और प्रत्येक व्यंजन को अंग्रेजी वर्णमाला क्रम में उसके ठीक बाद वाले अक्षर से बदल दिया जाता है। निम्नलिखित में से कौन-सा अक्षर इस प्रकार बने अक्षरों के नए समूह में ठीक दो बार दिखाई देगा?",
+    "section": "General Intelligence and Reasoning Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "3",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "<img loading=\"lazy\" src=\"data:image/png;base64,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\" style=\"max-width:100%;height:auto;\">",
+      "<img loading=\"lazy\" src=\"data:image/png;base64,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\" style=\"max-width:100%;height:auto;\">",
+      "<img loading=\"lazy\" src=\"data:image/png;base64,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\" style=\"max-width:100%;height:auto;\">",
+      "<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHgAAABlCAYAAACGLCeXAAAFj0lEQVR42u2d7VEjMQyGXQIlUAIlUAIdQAehA+gAOoAOKIESUgIlUMLevJnRzU7YD1uWbElrzewPjgvZ5IlsPbJ3k6YRoSMd5YW+vr5OPz8/A3DEANiU0vT09DQARwyAfXx8nG5ubqbv7+8BOFJ8fHxMt7e3lyzGMH1/fz8ARwrABWTE7+/v5efPz88BOEphBaDz+Pr6uvwbYA/AzgsrzLnn8/nP7zBMA/4A7LywWquaUWgB/hG0KUXO3i2AWx+AAdhBYfXy8rL5fzAHH0GbwgEmLcotwqJrUyjAGJLnWrQXR9CmUICfn5+nh4cHVsZH1aYUKXvRb+ZUxpG1KQxgVMSn04n12MjaFALwvN+s4c0DsAEtyi2s9tw5mja5B7zUb675W9G0yTVg0qKlfjMnSJuwIDEAGymspOfNaNqUPGcvV4uOpE1uAef0m7lB2hQhi10CxjCq7a1RtMkdYCqE7u7uVPvIUbTJHWDMjdRvpoJIC3QEbXIFeK2wmoOWVJwI2uQK8N68SKCR4VLzs3dtcgM4t9+M36O6pisZJEB71iY3gEv7zQALwBKgPWuTC8Dv7+/sfjOBxuORhVxIXrXJPGDqN9fqCvrVGGq5FbdXbTIPWDpzatTKozYl69mr1W+eg87NSo/aZBqwZr+Z4u3t7fI8uYWYN20yC7hkf7PESIEdmbkVtydtMgmYhsLabTjcinsPtCdtMgkY2YHFhJ5z/1ytlgLdMg/aZA6wZmHFaXCsrVp50SZzgC02FNbUyoM2mQJMV99b3YB+rVYerlA0BbhHYcUJqBupFW3btVpwmQFc02/uWYihXsBhVZuSlTcLcOnN8nhY1SYTgDUKq2un1QaMahvNkgFYWYtQ8KCyRUZhrqSs0oSLdqdVbeoOGJ98iX7zGtj/L1QJ7vzcLWpTV8AS/eY9sJqAr69HtqhNXQHXaFEuWC3Aa61Ua6tN3QBz+82lYDUA7zVjLK02dQHMKay4YKUB53TaLK02dQFcokW1YCUBr937cimw2mRBm5oDzu03S4GVBFy6bddCwdUcMODCG1uBlQLMUTkL2tQU8JYWaYGVAMz1dAva1Aww9ZuvdyTiZ02wtYBL75xnTZuaAb4urOZrqy2WCLkVswSYntqUWmUvaVFrsFzAkhsPempTE8B0yUgPsBzAGreHwHvQQ5vUAQPmPCtoqG59lADWKIp6aZM64PlCPm1x6XGULP1ptmdba5Mq4KU3tluxoahDlrVJDTAVVtoFjBRg7q2IS4OuhXIPOGfea5nNnKU/zaKz1WtXAYwhqIeOcAD3GE1aapMKYM4OSe1PtBW4rbVJHPBci3o2F/YAlyz9adUoLc4hSZ+0xP5mjWyuWfrzrE2igCX3H0tnc0sdsqRNSTJ7NXYuSmWzNbittEkMMJbVtPYeS2Qzzbu9OmlbB52XWcA1hVWrbKa1Xcn+Nq1j1/4dnJeWNokAbnnhGDebNe4agLlTanjV0qZqwCWN/J7ZbB2wljal2pPqeclmSTZbB6ylTVWAW1yWKZXNHgBraBMbMIYSSxdg72WzB8Aa2sQGbPWK/LVs9gIYgdUtMf+3rEWS2ewJsORqUzFgT/fTmGeBJ8CS2lQMmG7a6eWgbPYGmM65VpsS50m9Hp4AS2lTEWC01FAA4Em9HR4BS2hTNmCJr1HvGR4BS2hTNmAvtxmMBpi0CXcCVAMs+TXqA3BbbdoFTE1wr0NzBMA12rQLOMz36DoHzFW9dITsjQCYq01pr7CytofpyIA52pT2tChKRADM0aa0NjR716KogEu1aREwqrXam48MwDa0KUlVawNw28jVprSkRa2ulR2A9bUpXRdWeBA+Hb3upaF5jw7pfdG0n7nXa8KHa0+b/gC2uPN/HNvH1lycphGhYwAegEcMwCPMxj9Tq+eDbmbZ4QAAAABJRU5ErkJggg==\" style=\"max-width:100%;height:auto;\">"
+    ],
+    "q_en": "",
+    "q_hi": "यदि जल स्रोत को चित्र में दिखाए अनुसार M-N दिशा के अनुदिश रखा जाए, तो दिए गए विकल्पों में से कौन-सा विकल्प चित्र का जल प्रतिबिंब होगा?<br>\n<img loading=\"lazy\" src=\"data:image/png;base64,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\" style=\"max-width:100%;height:auto;\">",
+    "section": "General Intelligence and Reasoning Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "4",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "T",
+      "U",
+      "S",
+      "R"
+    ],
+    "q_en": "",
+    "q_hi": "T, A, R, G, U और S एक ही इमारत के छह अलग-अलग तलों पर रहते हैं। इमारत के सबसे निचले तल का क्रमांक 1 है, उसके ऊपर वाले तल का क्रमांक 2 है और इसी प्रकार सबसे ऊपर वाले तल का क्रमांक 6 है। S तल क्रमांक 4 पर रहता है। S और G के बीच केवल दो व्यक्ति रहते हैं। S और U के बीच केवल T रहता है। A, S के ठीक नीचे रहता है। तल क्रमांक 2 पर कौन रहता है?",
+    "section": "General Intelligence and Reasoning Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "3",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "46",
+      "50",
+      "48",
+      "52"
+    ],
+    "q_en": "",
+    "q_hi": "उत्तर की ओर अभिमुख होकर बैठे व्‍यक्तियों की एक पंक्ति में, ज़ोहा दाएँ छोर से 25वें स्थान पर है। पिया दाएँ छोर से 34वें स्थान पर है। ज़ोहा और मीनल के ठीक बीच पिया है। यदि मीनल पंक्ति के बाएँ छोर से छठे स्थान पर है, तो पंक्ति में कितने व्यक्ति हैं?",
+    "section": "General Intelligence and Reasoning Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "2",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "73",
+      "51",
+      "76",
+      "77"
+    ],
+    "q_en": "",
+    "q_hi": "एक निश्चित तर्क का अनुसरण करते हुए, 16 का संबंध 63 से है। समान तर्क का अनुसरण करते हुए, 28 का संबंध 99 से है। उसी तर्क का अनुसरण करने पर, 12 का संबंध निम्नलिखित में से किस विकल्प से हैं?<br>\n(<strong>नोट</strong>: संख्याओं को उनके घटक अंकों में तोड़े बिना, पूर्ण संख्याओं पर संक्रियाएं की जानी चाहिए। उदाहरण के लिए 13 लीजिए, 13 पर संक्रियाएं जैसे कि 13 में जोड़ना/घटाना/गुणा करना, किया जा सकता है। 13 को 1 और 3 में तोड़ना तथा फिर 1 और 3 पर गणितीय संक्रियाएं करने की अनुमति नहीं है।)",
+    "section": "General Intelligence and Reasoning Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "4",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "19वां",
+      "22वां",
+      "21वां",
+      "18वां"
+    ],
+    "q_en": "",
+    "q_hi": "उत्तर की ओर अभिमुख होकर 39 व्यक्तियों की एक पंक्ति में, लावण्या बाएं छोर से 17वें स्थान पर बैठी है। यदि रजत, लावण्या के दाएं से 5वें स्थान पर बैठा है, तो पंक्ति के दाएं छोर से रजत का स्थान क्या है?",
+    "section": "General Intelligence and Reasoning Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "3",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "14",
+      "17",
+      "15",
+      "13"
+    ],
+    "q_en": "",
+    "q_hi": "यह प्रश्न नीचे दी गई पाँच, तीन-अंकीय संख्याओं पर आधारित है।<br>\n<br>\n(बाएँ)  471  496  687  492  678 (दाएँ)<br>\n<br>\n(उदाहरण- 697– पहला अंक = 6, दूसरा अंक = 9 और तीसरा अंक = 7)<br>\n<strong>नोट </strong>- सभी संक्रियाएँ बाएँ से दाएँ की जानी हैं।<br>\n<br>\nयदि सबसे बड़ी संख्या के दूसरे अंक को सबसे छोटी संख्या के दूसरे अंक में जोड़ा जाता है, तो क्या परिणाम प्राप्त होगा?",
+    "section": "General Intelligence and Reasoning Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "3",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "<img loading=\"lazy\" src=\"data:image/png;base64,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\" style=\"max-width:100%;height:auto;\">",
+      "<img loading=\"lazy\" src=\"data:image/png;base64,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\" style=\"max-width:100%;height:auto;\">",
+      "<img loading=\"lazy\" src=\"data:image/png;base64,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\" style=\"max-width:100%;height:auto;\">",
+      "<img loading=\"lazy\" src=\"data:image/png;base64,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\" style=\"max-width:100%;height:auto;\">"
+    ],
+    "q_en": "",
+    "q_hi": "यदि एक जल स्रोत को X-Y के अनुदिश रखा जाता है, जैसा कि दिए गए चित्र में दिखाया गया है, तो दिए गए विकल्पों में से कौन-सा निम्न चित्र का जल प्रतिबिंब होगा?<br>\n<img loading=\"lazy\" src=\"data:image/png;base64,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\" style=\"max-width:100%;height:auto;\">",
+    "section": "General Intelligence and Reasoning Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "2",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "5",
+      "7",
+      "2",
+      "4"
+    ],
+    "q_en": "",
+    "q_hi": "एक निश्चित कूट भाषा में, 'WIRE' को '5421' के रूप में कूटबद्ध किया जाता है और 'PERI' को '2745' के रूप में कूटबद्ध किया जाता है। दी गई कूट भाषा में 'P' के लिए कूट क्या है?",
+    "section": "General Intelligence and Reasoning Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "3",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "PAST - APST - TASP",
+      "SWAN - SAWN - NAWS",
+      "LIFT - IFLT - TFIL",
+      "CURB - URCB - URBC"
+    ],
+    "q_en": "",
+    "q_hi": "निम्नलिखित त्रिकों में, प्रत्येक अक्षर-समूह एक निश्चित तर्क का अनुसरण करते हुए, अगले समूह से संबंधित है। दिए गए विकल्पों में से उस विकल्प का चयन कीजिए जो समान तर्क का अनुसरण करता हो।<br>\nTRUE - RUTE - EURT<br>\nWASH - ASWH - HSAW",
+    "section": "General Intelligence and Reasoning Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "1",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "CE - GI",
+      "HJ - KM",
+      "TV - WY",
+      "KM - NP"
+    ],
+    "q_en": "",
+    "q_hi": "अंग्रेज़ी वर्णमाला क्रम पर आधारित, निम्नलिखित चार अक्षर-समूह युग्मों में से तीन एक निश्चित प्रकार से समान हैं और इस प्रकार वे एक ग्रुप बनाते हैं। कौन-सा अक्षर-समूह युग्म, उस ग्रुप से संबंधित <strong>नहीं </strong>है?<br>\n(नोट: असंगत अक्षर-समूह युग्म, व्यंजनों/स्वरों की संख्या या उनकी स्थिति पर आधारित नहीं है।)",
+    "section": "General Intelligence and Reasoning Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "1",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "तीन",
+      "चार",
+      "दो",
+      "एक"
+    ],
+    "q_en": "",
+    "q_hi": "सात व्यक्ति, D, A, N, U, B, E और S, एक पंक्ति में उत्तर दिशा की ओर अभिमुख होकर बैठे हैं। S के दाएं कोई नहीं बैठा है। S और B के बीच केवल तीन व्यक्ति बैठे हैं। B और A के बीच केवल दो व्यक्ति बैठे हैं। E, D के बाएं तीसरे स्थान पर बैठा है। U, D के दाएं ठीक पड़ोस में बैठा है। N और A के बीच कितने व्यक्ति बैठे हैं?",
+    "section": "General Intelligence and Reasoning Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "4",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "QJ-MO",
+      "IB-EG",
+      "NG-JL",
+      "TM-PS"
+    ],
+    "q_en": "",
+    "q_hi": "अंग्रेजी वर्णमाला क्रम के आधार पर, निम्नलिखित चार अक्षर-समूह युग्मों में से तीन एक निश्चित तरीके से समान हैं और इस प्रकार एक ग्रुप बनाते हैं। कौन-सा अक्षर-समूह युग्म, उस ग्रुप से संबंधित <strong>नहीं </strong>है?<br>\n(<strong>नोट</strong>: असंगत अक्षर-समूह युग्म, व्यंजनों/स्वरों की संख्या या उनकी स्थिति पर आधारित नहीं है।)",
+    "section": "General Intelligence and Reasoning Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "1",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "माता का पिता",
+      "पत्नी का पिता",
+      "पिता",
+      "पिता का भाई"
+    ],
+    "q_en": "",
+    "q_hi": "<div>A, B की बहन है। B, C का पुत्र है। C का विवाह D से हुआ है। D, E की पुत्री है। E, F की पत्नी है। G, D का भाई है। F का A से क्या संबंध है?</div>",
+    "section": "General Intelligence and Reasoning Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "4",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "5",
+      "7",
+      "3",
+      "8"
+    ],
+    "q_en": "",
+    "q_hi": "संख्या 6543127 के प्रत्येक अंक को बाएं से दाएं आरोही क्रम में व्यवस्थित किए जाने पर बनी नई संख्या में बाएं से दूसरे और दाएं से दूसरे अंक का योगफल क्या होगा?",
+    "section": "General Intelligence and Reasoning Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "4",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "1",
+      "3",
+      "4",
+      "2"
+    ],
+    "q_en": "",
+    "q_hi": "निम्नलिखित अक्षर श्रृंखला का संदर्भ लें और प्रश्न का उत्तर दें। (गिनती केवल बाएँ से दाएँ की जानी है)<br>\n(बाएँ) E B J E R A J N I D U R N L U H L T R (दाएँ)<br>\nऐसे कितने व्यंजन हैं जिनमें से प्रत्येक के ठीक पहले एक स्वर है और ठीक बाद में भी एक स्वर है?",
+    "section": "General Intelligence and Reasoning Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "3",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "120",
+      "121",
+      "118",
+      "119"
+    ],
+    "q_en": "",
+    "q_hi": "यदि ‘A’ का अर्थ ‘÷’ है, ‘B’ का अर्थ ‘×’ है, ‘C’ का अर्थ ‘+’ है और ‘D’ का अर्थ ‘-’ है, तो निम्नलिखित समीकरण में प्रश्न-चिह्न ‘?’ के स्थान पर क्या आएगा?<br>\n36  B 3 C 18 D 16 A 2=?",
+    "section": "General Intelligence and Reasoning Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "1",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "ZCU",
+      "ZUC",
+      "ZDC",
+      "ZCD"
+    ],
+    "q_en": "",
+    "q_hi": "अंग्रेजी वर्णमाला क्रम के आधार पर दी गई श्रृंखला में ? के स्थान पर क्या आना चाहिए?<br>\n<br>\nBEW  HKC  NQI  TWO  ?",
+    "section": "General Intelligence and Reasoning Ability",
+    "solution": "",
+    "topic": ""
+  }
+]
