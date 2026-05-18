@@ -1,0 +1,422 @@
+[
+  {
+    "ans": "2",
+    "level": "Medium",
+    "op_en": [
+      "The new product will being launched by the company next month.",
+      "The new product will be launched by the company next month.",
+      "The new product will launched by the company next month.",
+      "The new product will be launch by the company next month."
+    ],
+    "op_hi": [
+      "The new product will being launched by the company next month.",
+      "The new product will be launched by the company next month.",
+      "The new product will launched by the company next month.",
+      "The new product will be launch by the company next month."
+    ],
+    "q_en": "Select the option that expresses the given sentence in passive voice.<br><br>The company will launch the new product next month.",
+    "q_hi": "Select the option that expresses the given sentence in passive voice.<br><br>The company will launch the new product next month.",
+    "section": "English Language and Comprehension1",
+    "solution": "वाक्य Simple Future Tense में है (will + V1)। इसका Passive Voice बनाने का नियम है: Object + will be + V3 + by + Subject.<br>यहाँ object 'the new product' है। अतः सही वाक्य 'The new product will be launched by the company next month.' होगा।",
+    "topic": "Active and Passive Voice"
+  },
+  {
+    "ans": "3",
+    "level": "Easy",
+    "op_en": [
+      "how",
+      "where",
+      "that",
+      "which"
+    ],
+    "op_hi": [
+      "how",
+      "where",
+      "that",
+      "which"
+    ],
+    "q_en": "Select the most appropriate option to fill in the blank.<br><br>The novelist said _______ the beauty of a story lies not in its conclusion but in the journey of its characters.",
+    "q_hi": "Select the most appropriate option to fill in the blank.<br><br>The novelist said _______ the beauty of a story lies not in its conclusion but in the journey of its characters.",
+    "section": "English Language and Comprehension1",
+    "solution": "Indirect speech (अप्रत्यक्ष कथन) में 'said' के बाद clause को जोड़ने के लिए conjunction 'that' का प्रयोग किया जाता है। अतः 'that' सही विकल्प है।",
+    "topic": "Fill in the Blanks"
+  },
+  {
+    "ans": "2",
+    "level": "Hard",
+    "op_en": [
+      "antediluvian",
+      "consciencious",
+      "supercilious",
+      "ombudsman"
+    ],
+    "op_hi": [
+      "antediluvian",
+      "consciencious",
+      "supercilious",
+      "ombudsman"
+    ],
+    "q_en": "Identify the INCORRECTLY spelt word in the given sentence.<br><br>The ombudsman dismissed the supercilious remarks of an official who defended the antediluvian policies, instead praising the consciencious efforts of citizens demanding reform.",
+    "q_hi": "Identify the INCORRECTLY spelt word in the given sentence.<br><br>The ombudsman dismissed the supercilious remarks of an official who defended the antediluvian policies, instead praising the consciencious efforts of citizens demanding reform.",
+    "section": "English Language and Comprehension1",
+    "solution": "वाक्य में 'consciencious' की स्पेलिंग गलत है। सही स्पेलिंग 'conscientious' (ईमानदार/कर्तव्यनिष्ठ) होती है।",
+    "topic": "Spelling Correction"
+  },
+  {
+    "ans": "2",
+    "level": "Medium",
+    "op_en": [
+      "I had been learning French for the last six months to communicate effectively with my international clients and to improve my cultural understanding.",
+      "I have been learning French for the last six months to communicate effectively with my international clients and to improve my cultural understanding.",
+      "I learnt French for the last six months to communicate effectively with my international clients and to improve my cultural understanding.",
+      "I was learning French since the last six months to communicate effectively with my international clients and to improve my cultural understanding."
+    ],
+    "op_hi": [
+      "I had been learning French for the last six months to communicate effectively with my international clients and to improve my cultural understanding.",
+      "I have been learning French for the last six months to communicate effectively with my international clients and to improve my cultural understanding.",
+      "I learnt French for the last six months to communicate effectively with my international clients and to improve my cultural understanding.",
+      "I was learning French since the last six months to communicate effectively with my international clients and to improve my cultural understanding."
+    ],
+    "q_en": "Read the sentence given in indirect speech and complete the corresponding sentence in direct speech by selecting the most appropriate option.<br><br>Ritika told me that she had been learning French for the last six months to communicate effectively with her international clients and to improve her cultural understanding.<br>Ritika said to me, “________”",
+    "q_hi": "Read the sentence given in indirect speech and complete the corresponding sentence in direct speech by selecting the most appropriate option.<br><br>Ritika told me that she had been learning French for the last six months to communicate effectively with her international clients and to improve her cultural understanding.<br>Ritika said to me, “________”",
+    "section": "English Language and Comprehension1",
+    "solution": "Indirect speech में 'had been learning' (Past Perfect Continuous Tense) का प्रयोग हुआ है, जो Direct speech में 'have been learning' (Present Perfect Continuous Tense) से बदलता है। साथ ही 'she' 'I' में और 'her' 'my' में बदल जाएगा। अतः विकल्प 2 सही है।",
+    "topic": "Direct and Indirect Speech"
+  },
+  {
+    "ans": "1",
+    "level": "Medium",
+    "op_en": [
+      "Love and understanding are needed by all children.",
+      "Love and understanding is needed by all children.",
+      "All children are needed by love and understanding.",
+      "Love and understanding need all children."
+    ],
+    "op_hi": [
+      "Love and understanding are needed by all children.",
+      "Love and understanding is needed by all children.",
+      "All children are needed by love and understanding.",
+      "Love and understanding need all children."
+    ],
+    "q_en": "Select the option that expresses the given sentence in passive voice.<br><br>All children need love and understanding.",
+    "q_hi": "Select the option that expresses the given sentence in passive voice.<br><br>All children need love and understanding.",
+    "section": "English Language and Comprehension1",
+    "solution": "यह वाक्य Present Indefinite Tense में है। Passive Voice का नियम: Object + is/are/am + V3 + by + Subject.<br>यहाँ object 'Love and understanding' बहुवचन (plural) है, इसलिए 'are' का प्रयोग होगा। अतः 'Love and understanding are needed by all children.' सही है।",
+    "topic": "Active and Passive Voice"
+  },
+  {
+    "ans": "1",
+    "level": "Hard",
+    "op_en": [
+      "Why was the assignment given by the boss not being completed by you?",
+      "Why was the assignment by the boss being not completed by you?",
+      "Why is the assignment given by the boss not being completed by you?",
+      "Why the assignment given by the boss not completed by you?"
+    ],
+    "op_hi": [
+      "Why was the assignment given by the boss not being completed by you?",
+      "Why was the assignment by the boss being not completed by you?",
+      "Why is the assignment given by the boss not being completed by you?",
+      "Why the assignment given by the boss not completed by you?"
+    ],
+    "q_en": "Select the option that expresses the given sentence in passive voice.<br><br>Why were you not completing the assignment given by the boss?",
+    "q_hi": "Select the option that expresses the given sentence in passive voice.<br><br>Why were you not completing the assignment given by the boss?",
+    "section": "English Language and Comprehension1",
+    "solution": "वाक्य Past Continuous Tense का Interrogative है (Why + was/were + subject + not + V-ing + object)। इसका Passive Voice: Why + was/were + object + not + being + V3 + by + subject होगा।<br>Object 'the assignment given by the boss' एकवचन (singular) है, अतः 'was' लगेगा। अतः विकल्प 1 सही है।",
+    "topic": "Active and Passive Voice"
+  },
+  {
+    "ans": "1",
+    "level": "Medium",
+    "op_en": [
+      "Flourescent",
+      "Assassination",
+      "Embarrass",
+      "Copyright"
+    ],
+    "op_hi": [
+      "Flourescent",
+      "Assassination",
+      "Embarrass",
+      "Copyright"
+    ],
+    "q_en": "Select the INCORRECTLY spelt word.",
+    "q_hi": "Select the INCORRECTLY spelt word.",
+    "section": "English Language and Comprehension1",
+    "solution": "विकल्प 1 की स्पेलिंग गलत है। 'Flourescent' की सही स्पेलिंग 'Fluorescent' (प्रतिदीप्त/चमकदार) होती है।",
+    "topic": "Spelling Correction"
+  },
+  {
+    "ans": "2",
+    "level": "Easy",
+    "op_en": [
+      "has checked",
+      "checks",
+      "is checking",
+      "check"
+    ],
+    "op_hi": [
+      "has checked",
+      "checks",
+      "is checking",
+      "check"
+    ],
+    "q_en": "Select the most appropriate option to fill in the blank.<br><br>She always ______ her emails first thing in the morning.",
+    "q_hi": "Select the most appropriate option to fill in the blank.<br><br>She always ______ her emails first thing in the morning.",
+    "section": "English Language and Comprehension1",
+    "solution": "वाक्य में 'always' का प्रयोग हुआ है जो कि एक नियमित आदत (regular habit) को दर्शाता है। इसलिए यहाँ Present Indefinite Tense (Simple Present) का प्रयोग होगा। 'She' (singular subject) के साथ 'checks' आएगा।",
+    "topic": "Fill in the Blanks"
+  },
+  {
+    "ans": "2",
+    "level": "Medium",
+    "op_en": [
+      "vacillates",
+      "Patriarchi",
+      "Association",
+      "Underrated"
+    ],
+    "op_hi": [
+      "vacillates",
+      "Patriarchi",
+      "Association",
+      "Underrated"
+    ],
+    "q_en": "Select the INCORRECTLY spelt word.",
+    "q_hi": "Select the INCORRECTLY spelt word.",
+    "section": "English Language and Comprehension1",
+    "solution": "यहाँ 'Patriarchi' की स्पेलिंग गलत है। सही स्पेलिंग 'Patriarchy' (पितृसत्ता) होती है।",
+    "topic": "Spelling Correction"
+  },
+  {
+    "ans": "1",
+    "level": "Medium",
+    "op_en": [
+      "The committee has suggested a solution to the problem.",
+      "The committee suggests a solution to the problem.",
+      "The committee suggested a solution to the problem.",
+      "The committee is suggesting a solution to the problem."
+    ],
+    "op_hi": [
+      "The committee has suggested a solution to the problem.",
+      "The committee suggests a solution to the problem.",
+      "The committee suggested a solution to the problem.",
+      "The committee is suggesting a solution to the problem."
+    ],
+    "q_en": "Select the option that expresses the given sentence in active voice.<br><br>A solution to the problem has been suggested by the committee.",
+    "q_hi": "Select the option that expresses the given sentence in active voice.<br><br>A solution to the problem has been suggested by the committee.",
+    "section": "English Language and Comprehension1",
+    "solution": "वाक्य Present Perfect Tense के Passive Voice (has been + V3) में है। इसका Active Voice: Subject + has/have + V3 + Object होगा। 'The committee' singular subject है, इसलिए 'has suggested' का प्रयोग होगा। अतः विकल्प 1 सही है।",
+    "topic": "Active and Passive Voice"
+  },
+  {
+    "ans": "1",
+    "level": "Hard",
+    "op_en": [
+      "Ram said to Manohar, “I saw my sister this Children’s Day while attending the grand school celebration where students performed dances and speeches to honour childhood joy and creativity.”&nbsp;",
+      "Ram said Manohar, “I was seeing my sister this Children’s Day while attending the grand school celebration where students performed dances and speeches to honour childhood joy and creativity.”",
+      "Ram said to Manohar, “He had seen his sister that Children’s Day while attending the grand school celebration where students performed dances and speeches to honour childhood joy and creativity.”",
+      "Ram said to Manohar, “I had seen my sister that Children’s Day while attending the grand school celebration where students performed dances and speeches to honour childhood joy and creativity.”"
+    ],
+    "op_hi": [
+      "Ram said to Manohar, “I saw my sister this Children’s Day while attending the grand school celebration where students performed dances and speeches to honour childhood joy and creativity.”&nbsp;",
+      "Ram said Manohar, “I was seeing my sister this Children’s Day while attending the grand school celebration where students performed dances and speeches to honour childhood joy and creativity.”",
+      "Ram said to Manohar, “He had seen his sister that Children’s Day while attending the grand school celebration where students performed dances and speeches to honour childhood joy and creativity.”",
+      "Ram said to Manohar, “I had seen my sister that Children’s Day while attending the grand school celebration where students performed dances and speeches to honour childhood joy and creativity.”"
+    ],
+    "q_en": "Select the option that expresses the given sentence in direct speech.<br><br>Ram told Manohar that he had seen his sister this Children’s Day while attending the grand school celebration, where students performed dances and speeches to honour childhood joy and creativity.",
+    "q_hi": "Select the option that expresses the given sentence in direct speech.<br><br>Ram told Manohar that he had seen his sister this Children’s Day while attending the grand school celebration, where students performed dances and speeches to honour childhood joy and creativity.",
+    "section": "English Language and Comprehension1",
+    "solution": "Indirect speech में 'had seen' (Past Perfect) का प्रयोग हुआ है, जो Direct speech में 'saw' (Simple Past) या 'have seen' से बनता है। 'told' बदलकर 'said to' हो जाएगा। 'he' और 'his' बदलकर 'I' और 'my' हो जाएंगे। अतः विकल्प 1 सबसे उपयुक्त है।",
+    "topic": "Direct and Indirect Speech"
+  },
+  {
+    "ans": "4",
+    "level": "Medium",
+    "op_en": [
+      "He didn't be sure of the answers to most questions.",
+      "He can't be sure of the answers to most questions.",
+      "He weren't sure of the answers to most questions.",
+      "He wasn't sure of the answers to most questions."
+    ],
+    "op_hi": [
+      "He didn't be sure of the answers to most questions.",
+      "He can't be sure of the answers to most questions.",
+      "He weren't sure of the answers to most questions.",
+      "He wasn't sure of the answers to most questions."
+    ],
+    "q_en": "Select the option that expresses the given sentence correctly in the past tense form.<br><br>He hadn't sure of the answers to most questions.",
+    "q_hi": "Select the option that expresses the given sentence correctly in the past tense form.<br><br>He hadn't sure of the answers to most questions.",
+    "section": "English Language and Comprehension1",
+    "solution": "यहाँ 'hadn't sure' व्याकरणिक रूप से गलत है क्योंकि 'sure' एक Adjective है और इसके साथ 'be' verb (was/were) का प्रयोग होना चाहिए। Past tense में 'He' के साथ 'was' का प्रयोग होता है, अतः 'He wasn't sure' सही होगा।",
+    "topic": "Grammar Error"
+  },
+  {
+    "ans": "3",
+    "level": "Easy",
+    "op_en": [
+      "Enhance",
+      "Eminent",
+      "Despare",
+      "Households"
+    ],
+    "op_hi": [
+      "Enhance",
+      "Eminent",
+      "Despare",
+      "Households"
+    ],
+    "q_en": "Select the INCORRECTLY spelt word.",
+    "q_hi": "Select the INCORRECTLY spelt word.",
+    "section": "English Language and Comprehension1",
+    "solution": "यहाँ 'Despare' की स्पेलिंग गलत है। सही स्पेलिंग 'Despair' (निराशा) होती है।",
+    "topic": "Spelling Correction"
+  },
+  {
+    "ans": "1",
+    "level": "Medium",
+    "op_en": [
+      "The project will have been completed by them by next month.",
+      "The project will be completed by next month by them.",
+      "The project would have completed by them by next month.",
+      "Next month, the project is going to be completed by them."
+    ],
+    "op_hi": [
+      "The project will have been completed by them by next month.",
+      "The project will be completed by next month by them.",
+      "The project would have completed by them by next month.",
+      "Next month, the project is going to be completed by them."
+    ],
+    "q_en": "Select the option that expresses the given sentence in passive voice.<br><br>They will have completed the project by next month.",
+    "q_hi": "Select the option that expresses the given sentence in passive voice.<br><br>They will have completed the project by next month.",
+    "section": "English Language and Comprehension1",
+    "solution": "वाक्य Future Perfect Tense (will have + V3) में है। इसका Passive Voice: Object + will have been + V3 + by + Subject होगा। 'The project' object है, अतः सही वाक्य 'The project will have been completed by them by next month.' होगा।",
+    "topic": "Active and Passive Voice"
+  },
+  {
+    "ans": "3",
+    "level": "Medium",
+    "op_en": [
+      "amiable",
+      "elevating",
+      "estcatic",
+      "candescent"
+    ],
+    "op_hi": [
+      "amiable",
+      "elevating",
+      "estcatic",
+      "candescent"
+    ],
+    "q_en": "Identify the INCORRECTLY spelt word in the given sentence.<br><br>The amiable teacher delivered an elevating speech, leaving the students estcatic under the candescent glow of the morning sun.",
+    "q_hi": "Identify the INCORRECTLY spelt word in the given sentence.<br><br>The amiable teacher delivered an elevating speech, leaving the students estcatic under the candescent glow of the morning sun.",
+    "section": "English Language and Comprehension1",
+    "solution": "वाक्य में 'estcatic' की स्पेलिंग गलत है। सही स्पेलिंग 'ecstatic' (अति प्रसन्न / भावविभोर) होती है।",
+    "topic": "Spelling Correction"
+  },
+  {
+    "ans": "2",
+    "level": "Medium",
+    "op_en": [
+      "The Decline of Biodiversity",
+      "Impact of Urbanisation on Ecosystems",
+      "The Sustainable Housing Solutions",
+      "Urban Development Challenges"
+    ],
+    "op_hi": [
+      "The Decline of Biodiversity",
+      "Impact of Urbanisation on Ecosystems",
+      "The Sustainable Housing Solutions",
+      "Urban Development Challenges"
+    ],
+    "q_en": "<b>Comprehension:</b><br>Read the given passage carefully and answer the questions that follow.<br><br>Urbanisation has become a defining characteristic of the 21<sup>st</sup> century, with cities expanding rapidly to accommodate growing populations. While urbanisation provides economic opportunities and improved infrastructure, it also exerts significant pressure on local ecosystems. Forests, wetlands, and grasslands are often cleared to make way for urban projects, leading to habitat destruction and the displacement of native species. One notable consequence is the decline in biodiversity. Urban areas frequently replace diverse ecosystems with monoculture landscapes, such as lawns and ornamental plants, which cannot support the same range of species. Additionally, pollution from vehicles and industries adversely affects air and water quality, further endangering wildlife. Efforts to mitigate these effects include green urban planning, which integrates parks, rooftop gardens, and sustainable drainage systems into cityscapes. Cities like Singapore have embraced the concept of vertical gardens to enhance greenery despite space constraints. Urban planners worldwide are increasingly recognising the need to balance development with ecological preservation. Nevertheless, challenges persist. The demand for housing and infrastructure often outweighs environmental concerns, especially in developing countries. Effective policies require collaboration among governments, businesses, and citizens to create urban spaces that are both livable and sustainable.<p style=\"text-align: justify;\"> </p><br>What is the most appropriate title for the passage?",
+    "q_hi": "<b>Comprehension:</b><br>Read the given passage carefully and answer the questions that follow.<br><br>Urbanisation has become a defining characteristic of the 21<sup>st</sup> century, with cities expanding rapidly to accommodate growing populations. While urbanisation provides economic opportunities and improved infrastructure, it also exerts significant pressure on local ecosystems. Forests, wetlands, and grasslands are often cleared to make way for urban projects, leading to habitat destruction and the displacement of native species. One notable consequence is the decline in biodiversity. Urban areas frequently replace diverse ecosystems with monoculture landscapes, such as lawns and ornamental plants, which cannot support the same range of species. Additionally, pollution from vehicles and industries adversely affects air and water quality, further endangering wildlife. Efforts to mitigate these effects include green urban planning, which integrates parks, rooftop gardens, and sustainable drainage systems into cityscapes. Cities like Singapore have embraced the concept of vertical gardens to enhance greenery despite space constraints. Urban planners worldwide are increasingly recognising the need to balance development with ecological preservation. Nevertheless, challenges persist. The demand for housing and infrastructure often outweighs environmental concerns, especially in developing countries. Effective policies require collaboration among governments, businesses, and citizens to create urban spaces that are both livable and sustainable.<p style=\"text-align: justify;\"> </p><br>What is the most appropriate title for the passage?",
+    "section": "English Language and Comprehension1",
+    "solution": "पूरे गद्यांश में शहरीकरण (Urbanisation) के कारण प्राकृतिक आवासों के विनाश, जैव विविधता में कमी और प्रदूषण जैसे पारिस्थितिक तंत्र (Ecosystems) पर पड़ने वाले प्रभावों की चर्चा की गई है। अतः 'Impact of Urbanisation on Ecosystems' सबसे उपयुक्त शीर्षक है।",
+    "topic": "Reading Comprehension"
+  },
+  {
+    "ans": "3",
+    "level": "Medium",
+    "op_en": [
+      "Growing housing demands in urban areas",
+      "The vital role of biodiversity in city planning",
+      "Balancing urban growth with ecological preservation",
+      "The negative impacts of pollution on urban life"
+    ],
+    "op_hi": [
+      "Growing housing demands in urban areas",
+      "The vital role of biodiversity in city planning",
+      "Balancing urban growth with ecological preservation",
+      "The negative impacts of pollution on urban life"
+    ],
+    "q_en": "<b>Comprehension:</b><br>Read the given passage carefully and answer the questions that follow.<br><br>Urbanisation has become a defining characteristic of the 21<sup>st</sup> century, with cities expanding rapidly to accommodate growing populations. While urbanisation provides economic opportunities and improved infrastructure, it also exerts significant pressure on local ecosystems. Forests, wetlands, and grasslands are often cleared to make way for urban projects, leading to habitat destruction and the displacement of native species. One notable consequence is the decline in biodiversity. Urban areas frequently replace diverse ecosystems with monoculture landscapes, such as lawns and ornamental plants, which cannot support the same range of species. Additionally, pollution from vehicles and industries adversely affects air and water quality, further endangering wildlife. Efforts to mitigate these effects include green urban planning, which integrates parks, rooftop gardens, and sustainable drainage systems into cityscapes. Cities like Singapore have embraced the concept of vertical gardens to enhance greenery despite space constraints. Urban planners worldwide are increasingly recognising the need to balance development with ecological preservation. Nevertheless, challenges persist. The demand for housing and infrastructure often outweighs environmental concerns, especially in developing countries. Effective policies require collaboration among governments, businesses, and citizens to create urban spaces that are both livable and sustainable.<p style=\"text-align: justify;\"> </p><br>Identify the central theme of the passage.",
+    "q_hi": "<b>Comprehension:</b><br>Read the given passage carefully and answer the questions that follow.<br><br>Urbanisation has become a defining characteristic of the 21<sup>st</sup> century, with cities expanding rapidly to accommodate growing populations. While urbanisation provides economic opportunities and improved infrastructure, it also exerts significant pressure on local ecosystems. Forests, wetlands, and grasslands are often cleared to make way for urban projects, leading to habitat destruction and the displacement of native species. One notable consequence is the decline in biodiversity. Urban areas frequently replace diverse ecosystems with monoculture landscapes, such as lawns and ornamental plants, which cannot support the same range of species. Additionally, pollution from vehicles and industries adversely affects air and water quality, further endangering wildlife. Efforts to mitigate these effects include green urban planning, which integrates parks, rooftop gardens, and sustainable drainage systems into cityscapes. Cities like Singapore have embraced the concept of vertical gardens to enhance greenery despite space constraints. Urban planners worldwide are increasingly recognising the need to balance development with ecological preservation. Nevertheless, challenges persist. The demand for housing and infrastructure often outweighs environmental concerns, especially in developing countries. Effective policies require collaboration among governments, businesses, and citizens to create urban spaces that are both livable and sustainable.<p style=\"text-align: justify;\"> </p><br>Identify the central theme of the passage.",
+    "section": "English Language and Comprehension1",
+    "solution": "गद्यांश का मुख्य विषय शहरी विकास और पारिस्थितिकी के संरक्षण के बीच संतुलन बनाना है (Urban planners worldwide are increasingly recognising the need to balance development with ecological preservation)। अतः विकल्प 3 सही है।",
+    "topic": "Reading Comprehension"
+  },
+  {
+    "ans": "4",
+    "level": "Medium",
+    "op_en": [
+      "Singapore uses vertical gardens to maximise green spaces.",
+      "Pollution from vehicles significantly affects air quality.",
+      "Accelerated urbanisation leads to habitat destruction.",
+      "Renewable energy sources are adopted in urban planning."
+    ],
+    "op_hi": [
+      "Singapore uses vertical gardens to maximise green spaces.",
+      "Pollution from vehicles significantly affects air quality.",
+      "Accelerated urbanisation leads to habitat destruction.",
+      "Renewable energy sources are adopted in urban planning."
+    ],
+    "q_en": "<b>Comprehension:</b><br>Read the given passage carefully and answer the questions that follow.<br><br>Urbanisation has become a defining characteristic of the 21<sup>st</sup> century, with cities expanding rapidly to accommodate growing populations. While urbanisation provides economic opportunities and improved infrastructure, it also exerts significant pressure on local ecosystems. Forests, wetlands, and grasslands are often cleared to make way for urban projects, leading to habitat destruction and the displacement of native species. One notable consequence is the decline in biodiversity. Urban areas frequently replace diverse ecosystems with monoculture landscapes, such as lawns and ornamental plants, which cannot support the same range of species. Additionally, pollution from vehicles and industries adversely affects air and water quality, further endangering wildlife. Efforts to mitigate these effects include green urban planning, which integrates parks, rooftop gardens, and sustainable drainage systems into cityscapes. Cities like Singapore have embraced the concept of vertical gardens to enhance greenery despite space constraints. Urban planners worldwide are increasingly recognising the need to balance development with ecological preservation. Nevertheless, challenges persist. The demand for housing and infrastructure often outweighs environmental concerns, especially in developing countries. Effective policies require collaboration among governments, businesses, and citizens to create urban spaces that are both livable and sustainable.<p style=\"text-align: justify;\"> </p><br>Which of the following is a fact that is NOT mentioned in the passage?",
+    "q_hi": "<b>Comprehension:</b><br>Read the given passage carefully and answer the questions that follow.<br><br>Urbanisation has become a defining characteristic of the 21<sup>st</sup> century, with cities expanding rapidly to accommodate growing populations. While urbanisation provides economic opportunities and improved infrastructure, it also exerts significant pressure on local ecosystems. Forests, wetlands, and grasslands are often cleared to make way for urban projects, leading to habitat destruction and the displacement of native species. One notable consequence is the decline in biodiversity. Urban areas frequently replace diverse ecosystems with monoculture landscapes, such as lawns and ornamental plants, which cannot support the same range of species. Additionally, pollution from vehicles and industries adversely affects air and water quality, further endangering wildlife. Efforts to mitigate these effects include green urban planning, which integrates parks, rooftop gardens, and sustainable drainage systems into cityscapes. Cities like Singapore have embraced the concept of vertical gardens to enhance greenery despite space constraints. Urban planners worldwide are increasingly recognising the need to balance development with ecological preservation. Nevertheless, challenges persist. The demand for housing and infrastructure often outweighs environmental concerns, especially in developing countries. Effective policies require collaboration among governments, businesses, and citizens to create urban spaces that are both livable and sustainable.<p style=\"text-align: justify;\"> </p><br>Which of the following is a fact that is NOT mentioned in the passage?",
+    "section": "English Language and Comprehension1",
+    "solution": "गद्यांश में 'Renewable energy sources' (नवीकरणीय ऊर्जा स्रोतों) को अपनाने के बारे में कोई उल्लेख नहीं किया गया है। अन्य सभी तथ्य गद्यांश में स्पष्ट रूप से दिए गए हैं।",
+    "topic": "Reading Comprehension"
+  },
+  {
+    "ans": "1",
+    "level": "Medium",
+    "op_en": [
+      "Informative",
+      "Pessimistic",
+      "Persuasive",
+      "Optimistic"
+    ],
+    "op_hi": [
+      "Informative",
+      "Pessimistic",
+      "Persuasive",
+      "Optimistic"
+    ],
+    "q_en": "<b>Comprehension:</b><br>Read the given passage carefully and answer the questions that follow.<br><br>Urbanisation has become a defining characteristic of the 21<sup>st</sup> century, with cities expanding rapidly to accommodate growing populations. While urbanisation provides economic opportunities and improved infrastructure, it also exerts significant pressure on local ecosystems. Forests, wetlands, and grasslands are often cleared to make way for urban projects, leading to habitat destruction and the displacement of native species. One notable consequence is the decline in biodiversity. Urban areas frequently replace diverse ecosystems with monoculture landscapes, such as lawns and ornamental plants, which cannot support the same range of species. Additionally, pollution from vehicles and industries adversely affects air and water quality, further endangering wildlife. Efforts to mitigate these effects include green urban planning, which integrates parks, rooftop gardens, and sustainable drainage systems into cityscapes. Cities like Singapore have embraced the concept of vertical gardens to enhance greenery despite space constraints. Urban planners worldwide are increasingly recognising the need to balance development with ecological preservation. Nevertheless, challenges persist. The demand for housing and infrastructure often outweighs environmental concerns, especially in developing countries. Effective policies require collaboration among governments, businesses, and citizens to create urban spaces that are both livable and sustainable.<p style=\"text-align: justify;\"> </p><br>Identify the tone of the passage.",
+    "q_hi": "<b>Comprehension:</b><br>Read the given passage carefully and answer the questions that follow.<br><br>Urbanisation has become a defining characteristic of the 21<sup>st</sup> century, with cities expanding rapidly to accommodate growing populations. While urbanisation provides economic opportunities and improved infrastructure, it also exerts significant pressure on local ecosystems. Forests, wetlands, and grasslands are often cleared to make way for urban projects, leading to habitat destruction and the displacement of native species. One notable consequence is the decline in biodiversity. Urban areas frequently replace diverse ecosystems with monoculture landscapes, such as lawns and ornamental plants, which cannot support the same range of species. Additionally, pollution from vehicles and industries adversely affects air and water quality, further endangering wildlife. Efforts to mitigate these effects include green urban planning, which integrates parks, rooftop gardens, and sustainable drainage systems into cityscapes. Cities like Singapore have embraced the concept of vertical gardens to enhance greenery despite space constraints. Urban planners worldwide are increasingly recognising the need to balance development with ecological preservation. Nevertheless, challenges persist. The demand for housing and infrastructure often outweighs environmental concerns, especially in developing countries. Effective policies require collaboration among governments, businesses, and citizens to create urban spaces that are both livable and sustainable.<p style=\"text-align: justify;\"> </p><br>Identify the tone of the passage.",
+    "section": "English Language and Comprehension1",
+    "solution": "लेखक ने शहरीकरण के कारणों, प्रभावों (सकारात्मक और नकारात्मक) और समाधानों का निष्पक्ष रूप से विवरण दिया है। यह जानकारी प्रदान करने वाला लेख है, इसलिए इसकी टोन 'Informative' (सूचनात्मक) है।",
+    "topic": "Reading Comprehension"
+  },
+  {
+    "ans": "4",
+    "level": "Hard",
+    "op_en": [
+      "Developing countries prioritise ecological health over urban growth.",
+      "Habitat destruction is an unavoidable consequence of urbanisation.",
+      "Rapid urbanisation and biodiversity can never coexist together.",
+      "Green urban planning can mitigate some negative effects of urbanisation."
+    ],
+    "op_hi": [
+      "Developing countries prioritise ecological health over urban growth.",
+      "Habitat destruction is an unavoidable consequence of urbanisation.",
+      "Rapid urbanisation and biodiversity can never coexist together.",
+      "Green urban planning can mitigate some negative effects of urbanisation."
+    ],
+    "q_en": "<b>Comprehension:</b><br>Read the given passage carefully and answer the questions that follow.<br><br>Urbanisation has become a defining characteristic of the 21<sup>st</sup> century, with cities expanding rapidly to accommodate growing populations. While urbanisation provides economic opportunities and improved infrastructure, it also exerts significant pressure on local ecosystems. Forests, wetlands, and grasslands are often cleared to make way for urban projects, leading to habitat destruction and the displacement of native species. One notable consequence is the decline in biodiversity. Urban areas frequently replace diverse ecosystems with monoculture landscapes, such as lawns and ornamental plants, which cannot support the same range of species. Additionally, pollution from vehicles and industries adversely affects air and water quality, further endangering wildlife. Efforts to mitigate these effects include green urban planning, which integrates parks, rooftop gardens, and sustainable drainage systems into cityscapes. Cities like Singapore have embraced the concept of vertical gardens to enhance greenery despite space constraints. Urban planners worldwide are increasingly recognising the need to balance development with ecological preservation. Nevertheless, challenges persist. The demand for housing and infrastructure often outweighs environmental concerns, especially in developing countries. Effective policies require collaboration among governments, businesses, and citizens to create urban spaces that are both livable and sustainable.<p style=\"text-align: justify;\"> </p><br>What inference can be drawn from the passage?",
+    "q_hi": "<b>Comprehension:</b><br>Read the given passage carefully and answer the questions that follow.<br><br>Urbanisation has become a defining characteristic of the 21<sup>st</sup> century, with cities expanding rapidly to accommodate growing populations. While urbanisation provides economic opportunities and improved infrastructure, it also exerts significant pressure on local ecosystems. Forests, wetlands, and grasslands are often cleared to make way for urban projects, leading to habitat destruction and the displacement of native species. One notable consequence is the decline in biodiversity. Urban areas frequently replace diverse ecosystems with monoculture landscapes, such as lawns and ornamental plants, which cannot support the same range of species. Additionally, pollution from vehicles and industries adversely affects air and water quality, further endangering wildlife. Efforts to mitigate these effects include green urban planning, which integrates parks, rooftop gardens, and sustainable drainage systems into cityscapes. Cities like Singapore have embraced the concept of vertical gardens to enhance greenery despite space constraints. Urban planners worldwide are increasingly recognising the need to balance development with ecological preservation. Nevertheless, challenges persist. The demand for housing and infrastructure often outweighs environmental concerns, especially in developing countries. Effective policies require collaboration among governments, businesses, and citizens to create urban spaces that are both livable and sustainable.<p style=\"text-align: justify;\"> </p><br>What inference can be drawn from the passage?",
+    "section": "English Language and Comprehension1",
+    "solution": "गद्यांश से यह निष्कर्ष (inference) निकाला जा सकता है कि यद्यपि शहरीकरण पारिस्थितिकी तंत्र को नुकसान पहुंचाता है, लेकिन 'green urban planning' (जैसे पार्क, वर्टिकल गार्डन, आदि) इसके कुछ नकारात्मक प्रभावों को कम (mitigate) कर सकता है। अतः विकल्प 4 सही है।",
+    "topic": "Reading Comprehension"
+  }
+]
