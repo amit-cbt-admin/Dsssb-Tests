@@ -1,0 +1,422 @@
+[
+  {
+    "ans": "4",
+    "level": "Hard",
+    "op_en": [
+      "Only conclusion II follows.",
+      "Only conclusion I follows.",
+      "Both conclusions I and II follow.",
+      "Neither conclusion I nor II follows."
+    ],
+    "op_hi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "q_en": "In this question, a statement is followed by two conclusions numbered I and II. You have to assume everything in the statement to be true and decide which of them logically follows beyond a reasonable doubt from the information given in the statement.<br><br>Statement: The boys team of school X lost 21 out of 30 basketball matches, but won 18 out of 24 cricket matches that they played this year.<br><br>Conclusions:<br>I. The boys team of school X likes cricket more than basketball.<br>II. The boys team of school X should start playing football instead of basketball.",
+    "q_hi": "",
+    "section": "Mental Ability and Reasoning Ability",
+    "solution": "Network error or API limit reached. Please try again later.",
+    "topic": "Syllogism / Statement & Conclusion"
+  },
+  {
+    "ans": "1",
+    "level": "Hard",
+    "op_en": [
+      "X = 7  , Y = 82",
+      "X = 9   , Y = 69",
+      "X = 6  , Y = 93",
+      "X = 8   , Y = 71"
+    ],
+    "op_hi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "q_en": "In the following number-pairs, the second number is obtained by applying certain mathematical operations to the first number. Which numbers should replace X and Y so that the pattern followed by the two numbers on the left side of :: is the same as that on the right side of :: ?<br><br>(NOTE: Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13 – Operations on 13 such as adding/subtracting/multiplying, etc. to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed.)<br><br>X : 54 :: 11 : Y <span style=\"color: white;\">1888</span>",
+    "q_hi": "",
+    "section": "Mental Ability and Reasoning Ability",
+    "solution": "",
+    "topic": "General Reasoning"
+  },
+  {
+    "ans": "1",
+    "level": "Hard",
+    "op_en": [
+      "6",
+      "7",
+      "9",
+      "8"
+    ],
+    "op_hi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "q_en": "A, B, C, D, E and F live on six different floors of the same building. The lowermost floor in the building is numbered 1, the floor above it, number 2 and so on till the topmost floor is numbered 6. The product of floors on which E and B live is 15. D lives immediately above A .The sum of floors on which F and B live is 7. What is the sum of the floors on which D and F live?<span style=\"color: white;\">7376</span>",
+    "q_hi": "",
+    "section": "Mental Ability and Reasoning Ability",
+    "solution": "",
+    "topic": "General Reasoning"
+  },
+  {
+    "ans": "3",
+    "level": "Hard",
+    "op_en": [
+      "Either 'wa' or 'fg'",
+      "Either 'fg' or 'oi'",
+      "Either 'wa' or 'nj'",
+      "Either 'oi' or 'wa'"
+    ],
+    "op_hi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "q_en": "In a certain code,<br>'do what i will' is coded as 'nh fg rf dc'<br>'do you if i' is coded as 'rf dc fy hb'<br>'will are in not' is coded as 'nj oi fg wa'<br>'left you not i' is coded as 'rf hb sr oi'<br>(all the codes are two letter coded only)<br>What is the possible code for ‘are’?<span style=\"color: white;\">2730</span>",
+    "q_hi": "",
+    "section": "Mental Ability and Reasoning Ability",
+    "solution": "",
+    "topic": "Coding-Decoding"
+  },
+  {
+    "ans": "3",
+    "level": "Medium",
+    "op_en": [
+      "3.9&amp;nbsp;",
+      "3.5&amp;nbsp;",
+      "3.6&amp;nbsp;",
+      "3.8&amp;nbsp;"
+    ],
+    "op_hi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "q_en": "What will come in place of the question mark (?) in the given series?<br><br>2.3, 3.2, 2.5, 3.4, 2.7, ? <span style=\"color: white;\">2493</span>",
+    "q_hi": "",
+    "section": "Mental Ability and Reasoning Ability",
+    "solution": "",
+    "topic": "Series & Patterns"
+  },
+  {
+    "ans": "1",
+    "level": "Hard",
+    "op_en": [
+      "Saagar",
+      "Gileon",
+      "John",
+      "Priya"
+    ],
+    "op_hi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "q_en": "Seven persons, of which two are girls— Priya and Gileon, two are men— Ali and Sabir and three are boys— Chandran, Saagar and John, are sitting in a row for lunch. Ali and Sabir have a girl sitting between them. Only Priya is sitting between Chandran and John. No two girls, no two boys and no two men are sitting next to each other. If Ali is sitting to the immediate right of Chandran, then who is sitting at the extreme right end?<span style=\"color: white;\">450</span>",
+    "q_hi": "",
+    "section": "Mental Ability and Reasoning Ability",
+    "solution": "Network error or API limit reached. Please try again later.",
+    "topic": "General Reasoning"
+  },
+  {
+    "ans": "3",
+    "level": "Hard",
+    "op_en": [
+      "Only conclusion (I) follows",
+      "Only conclusion (II) follows",
+      "Neither conclusion (I) nor (II) follows",
+      "Both conclusions (I) and (II) follow"
+    ],
+    "op_hi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "q_en": "Read the given statements and conclusions carefully. You have to take the given statements to be true even if they seem to be at variance from commonly known facts. You have to decide which conclusions logically follow(s) from the given statements.<br><br><strong>Statements:</strong><br>Some cakes are tyres.<br>Some donkeys are tyres.<br>No rings are donkeys.<br><br><strong>Conclusions:</strong><br>(I): All cakes are donkeys.<br>(II): Some cakes are not rings.<span style=\"color: white;\">4464</span>",
+    "q_hi": "",
+    "section": "Mental Ability and Reasoning Ability",
+    "solution": "",
+    "topic": "Syllogism / Statement & Conclusion"
+  },
+  {
+    "ans": "3",
+    "level": "Hard",
+    "op_en": [
+      "7",
+      "12",
+      "6",
+      "9"
+    ],
+    "op_hi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "q_en": "This question is based on the five, three-digit numbers given below.<br>(Left) 861  869  820  844  853 (Right)<br>(Example- 697 – First digit = 6, second digit = 9 and third digit = 7)<br>NOTE - All operations to be done from left to right.<br>What will be the resultant if the second digit of the second highest number is added to the third digit of the lowest number?<span style=\"color: white;\">2757</span>",
+    "q_hi": "",
+    "section": "Mental Ability and Reasoning Ability",
+    "solution": "",
+    "topic": "General Reasoning"
+  },
+  {
+    "ans": "1",
+    "level": "Hard",
+    "op_en": [
+      "T",
+      "U",
+      "Z",
+      "S"
+    ],
+    "op_hi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "q_en": "X, Y, Z, S, T and U live on six different floors of the same building. The lowermost floor in the building is numbered 1, the floor above it, number 2 and so on till the topmost floor is numbered 6. Only Z lives above U. T lives immediately below U. Only Y lives below S. Who lives on the floor numbered 4?<span style=\"color: white;\">2629</span>",
+    "q_hi": "",
+    "section": "Mental Ability and Reasoning Ability",
+    "solution": "",
+    "topic": "General Reasoning"
+  },
+  {
+    "ans": "1",
+    "level": "Hard",
+    "op_en": [
+      "YTRK",
+      "SNJE",
+      "ZUQL",
+      "GBXS"
+    ],
+    "op_hi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "q_en": "Based on the English alphabetical order, three of the following four are alike in a certain way and thus form a group. Which is the one that does not belong to that group?<br>(Note: The odd one out is not based on the number of consonants/vowels or their position in the letter-cluster.)<span style=\"color: white;\">5155</span>",
+    "q_hi": "",
+    "section": "Mental Ability and Reasoning Ability",
+    "solution": "",
+    "topic": "General Reasoning"
+  },
+  {
+    "ans": "1",
+    "level": "Hard",
+    "op_en": [
+      "# = IFM, % = NKR",
+      "# = IFM, % = NLR",
+      "# = IFN, % = NKR",
+      "# = IFM, % = NKS"
+    ],
+    "op_hi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "q_en": "<span style=\"font-size: 11pt;\"><span style=\"line-height: 107%;\"><span style=\"font-family: &quot;Calibri&quot;,sans-serif;\">Which of the following letter-clusters should replace # and % so that the pattern and relationship followed between the letter-cluster pair on the left side of :: is the same as that on the right side of :: ? </span></span></span><br><span style=\"font-size: 11pt;\"><span style=\"line-height: 107%;\"><span style=\"font-family: &quot;Calibri&quot;,sans-serif;\"># : KHO :: LIP : %</span></span></span><br> <span style=\"color: white;\">12130</span>",
+    "q_hi": "",
+    "section": "Mental Ability and Reasoning Ability",
+    "solution": "",
+    "topic": "General Reasoning"
+  },
+  {
+    "ans": "4",
+    "level": "Hard",
+    "op_en": [
+      "ACE",
+      "HJL",
+      "QSU",
+      "TVY"
+    ],
+    "op_hi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "q_en": "Based on the English alphabetical order, three of the following four are alike in a certain way and thus form a group. Which is the one that does not belong to that group? <style type=\"text/css\"><!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--></style><br>(Note: The odd man out is not based on the number of consonants/vowels or their position in the letter-cluster.)<span style=\"color: white;\">8217</span>",
+    "q_hi": "",
+    "section": "Mental Ability and Reasoning Ability",
+    "solution": "",
+    "topic": "General Reasoning"
+  },
+  {
+    "ans": "3",
+    "level": "Hard",
+    "op_en": [
+      "2 km",
+      "10 km",
+      "12 km",
+      "8 km"
+    ],
+    "op_hi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "q_en": "Navin starts from Point A and drives 5 km towards the North. He then takes a left turn and drives 4 km to reach Point B. Barun starts from Point X, which is 2 km East of Point A, and drives 5 km towards the North. He takes a right turn and drives 6 km to reach Point Y. What is the shortest distance between Point Y and Point B? (All turns are 90 degree turns only)<span style=\"color: white;\">12478</span>",
+    "q_hi": "",
+    "section": "Mental Ability and Reasoning Ability",
+    "solution": "",
+    "topic": "Direction Sense"
+  },
+  {
+    "ans": "3",
+    "level": "Hard",
+    "op_en": [
+      "mq jd",
+      "mq kl",
+      "wv sb",
+      "gd kl"
+    ],
+    "op_hi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "q_en": "In a certain code,<br>‘type in job’ is coded as ‘mq kl sb’,<br>‘people do job’ is coded as ‘gd wv sb’,<br>‘people type material’ is coded as ‘jd gd kl’.<br>All the codes are two-letter codes only.<br>What is the possible code for ‘do job’?<span style=\"color: white;\">1068</span>",
+    "q_hi": "",
+    "section": "Mental Ability and Reasoning Ability",
+    "solution": "",
+    "topic": "Coding-Decoding"
+  },
+  {
+    "ans": "4",
+    "level": "Hard",
+    "op_en": [
+      "Mother's Mother",
+      "Father's Brother",
+      "Mother's Brother",
+      "Father's Mother"
+    ],
+    "op_hi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "q_en": "In a certain code language,<br>E + F means ‘E is the wife of F’,<br>E – F means ‘E is the father of F’,<br>E x F means ‘E is the husband of F’ and<br>E ÷ F means ‘E is the mother of F’.<br>How is P related to T if ‘P + Q – R x S÷ T’?<br><span style=\"color: white;\">12415</span>",
+    "q_hi": "",
+    "section": "Mental Ability and Reasoning Ability",
+    "solution": "",
+    "topic": "Coding-Decoding"
+  },
+  {
+    "ans": "4",
+    "level": "Hard",
+    "op_en": [
+      "19",
+      "17",
+      "18",
+      "20"
+    ],
+    "op_hi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "q_en": "This question is based on the following words.<br><br>IVY NED TAW HUG<br><br>How many letters are there between the second letter of the second word from the right and the second letter of the first word from the left, counted in English alphabetical order?<span style=\"color: white;\">6629</span>",
+    "q_hi": "",
+    "section": "Mental Ability and Reasoning Ability",
+    "solution": "",
+    "topic": "General Reasoning"
+  },
+  {
+    "ans": "3",
+    "level": "Hard",
+    "op_en": [
+      "527",
+      "553",
+      "567",
+      "549"
+    ],
+    "op_hi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "q_en": "If A stands for '÷', B stands for '×', C stands for '+' and D stands for '−', what will come in place of the question mark (?) in the following equation?<br><br>36 B 13 C 552 A 4 D 39 = ?<span style=\"color: white;\">4016</span>",
+    "q_hi": "",
+    "section": "Mental Ability and Reasoning Ability",
+    "solution": "",
+    "topic": "General Reasoning"
+  },
+  {
+    "ans": "4",
+    "level": "Hard",
+    "op_en": [
+      "70",
+      "71",
+      "89",
+      "72"
+    ],
+    "op_hi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "q_en": "If ‘+’ means ‘−’, ‘−’ means ‘×’, ‘×’ means ‘÷’, ‘÷’ means ‘+’, then what will come in place of the question mark (?) in the following equation?<br><br>24 − 3 ÷ 8 + 32 × 4 = ?<span style=\"color: white;\">5851</span>",
+    "q_hi": "",
+    "section": "Mental Ability and Reasoning Ability",
+    "solution": "",
+    "topic": "General Reasoning"
+  },
+  {
+    "ans": "1",
+    "level": "Hard",
+    "op_en": [
+      "X = 14 , Y = 76",
+      "X = 14 , Y = 91",
+      "X = 12  , Y = 89",
+      "X = 13 , Y = 84"
+    ],
+    "op_hi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "q_en": "In the following number-pairs, the second number is obtained by applying certain mathematical operations to the first number. Which numbers should replace X and Y so that the pattern followed by the two numbers on the left side of :: is the same as that on the right side of :: ?<br><br>(NOTE: Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13 – Operations on 13 such as adding/subtracting/multiplying, etc. to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed.)<br><br>X : 61 :: 17 : Y <span style=\"color: white;\">1889</span>",
+    "q_hi": "",
+    "section": "Mental Ability and Reasoning Ability",
+    "solution": "",
+    "topic": "General Reasoning"
+  },
+  {
+    "ans": "2",
+    "level": "Hard",
+    "op_en": [
+      "Only I is a possible reason",
+      "Only II is a possible reason",
+      "Both I and II are possible reasons&amp;nbsp;",
+      "Neither I nor II is a possible reason&amp;nbsp;"
+    ],
+    "op_hi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "q_en": "Read the statement, followed by two possible reasons numbered I and II, and decide which explains the event/observation/information given in the statement.<br><br>Statement:<br>The percentage of people who opt for counselling services is higher in urban areas as compared to rural areas.<br><br>Reasons:<br>I. People living in urban areas have more psychological problems.<br>II. Rural areas have fewer counselling centres.",
+    "q_hi": "",
+    "section": "Mental Ability and Reasoning Ability",
+    "solution": "",
+    "topic": "Syllogism / Statement & Conclusion"
+  }
+]
