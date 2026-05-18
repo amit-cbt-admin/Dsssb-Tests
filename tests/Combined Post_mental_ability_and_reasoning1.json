@@ -1,0 +1,317 @@
+[
+  {
+    "ans": "1",
+    "level": "Easy",
+    "op_en": [
+      "sb",
+      "ty",
+      "ps",
+      "nu"
+    ],
+    "op_hi": [
+      "sb",
+      "ty",
+      "ps",
+      "nu"
+    ],
+    "q_en": "In a certain code language, ‘are you better’ is coded as ‘ps rw sb’ and ‘you came late’ is coded as ‘nu sb ty’. How is ‘you’ coded in the given language? (All codes are two-letter codes).",
+    "q_hi": "एक निश्चित कूट भाषा में, ‘are you better’ को ‘ps rw sb’ के रूप में और ‘you came late’ को ‘nu sb ty’ के रूप में कूटबद्ध किया गया है। दी गई भाषा में ‘you’ का कूट क्या है? (सभी कूट दो-अक्षर वाले कूट हैं)।",
+    "section": "Mental Ability and Reasoning1",
+    "solution": "1. पहले वाक्य 'are you better' और दूसरे वाक्य 'you came late' की तुलना करें।<br>2. दोनों वाक्यों में एकमात्र सामान्य शब्द 'you' है।<br>3. अब उनके कूटों की तुलना करें: 'ps rw sb' और 'nu sb ty'।<br>4. दोनों में सामान्य कूट 'sb' है।<br>5. इसलिए, 'you' का कूट 'sb' है।",
+    "topic": "Coding-Decoding"
+  },
+  {
+    "ans": "3",
+    "level": "Easy",
+    "op_en": [
+      "7",
+      "6",
+      "3",
+      "4"
+    ],
+    "op_hi": [
+      "7",
+      "6",
+      "3",
+      "4"
+    ],
+    "q_en": "In a certain code language, ‘DATE’ is coded as ‘4679’ and ‘TIDE’ is coded as ‘6439’. What is the code for ‘I’ in that language?",
+    "q_hi": "एक निश्चित कूट भाषा में, ‘DATE’ को ‘4679’ और ‘TIDE’ को ‘6439’ के रूप में कूटबद्ध किया गया है। उस भाषा में ‘I’ का कूट क्या है?",
+    "section": "Mental Ability and Reasoning1",
+    "solution": "1. 'DATE' का कूट '4679' है और 'TIDE' का कूट '6439' है।<br>2. दोनों शब्दों में सामान्य अक्षर D, T, और E हैं।<br>3. दोनों कूटों में सामान्य अंक 4, 6, और 9 हैं।<br>4. 'TIDE' शब्द में बचा हुआ एकमात्र अक्षर 'I' है और इसके कूट में बचा हुआ एकमात्र अंक '3' है।<br>5. अतः, 'I' का कूट 3 है।",
+    "topic": "Coding-Decoding"
+  },
+  {
+    "ans": "1",
+    "level": "Medium",
+    "op_en": [
+      "3",
+      "2",
+      "4",
+      "6"
+    ],
+    "op_hi": [
+      "3",
+      "2",
+      "4",
+      "6"
+    ],
+    "q_en": "Each letter in the word GUILDER is arranged in alphabetical order. How many letters are there in the English alphabetical order between the letter which is second from the left and the one which is fourth from the right in the new letter-cluster thus formed?",
+    "q_hi": "शब्द GUILDER के प्रत्येक अक्षर को वर्णमाला के क्रम में व्यवस्थित किया जाता है। इस प्रकार बने नए अक्षर-समूह में बाएं से दूसरे अक्षर और दाएं से चौथे अक्षर के बीच अंग्रेजी वर्णमाला क्रम में कितने अक्षर हैं?",
+    "section": "Mental Ability and Reasoning1",
+    "solution": "1. मूल शब्द: GUILDER<br>2. वर्णानुक्रम में व्यवस्थित करने पर: D, E, G, I, L, R, U<br>3. बाएं से दूसरा अक्षर = E<br>4. दाएं से चौथा अक्षर = I (दाएं से: U, R, L, I)<br>5. E और I के बीच अंग्रेजी वर्णमाला के अक्षर: F, G, H<br>6. अक्षरों की कुल संख्या = 3।",
+    "topic": "Alphabet Test"
+  },
+  {
+    "ans": "2",
+    "level": "Medium",
+    "op_en": [
+      "Four",
+      "Seven",
+      "Six",
+      "Five"
+    ],
+    "op_hi": [
+      "चार",
+      "सात",
+      "छह",
+      "पाँच"
+    ],
+    "q_en": "Refer to the following letter series and answer the question that follows. Counting to be done from left to right only.<br><br>(Left) P F Y A D M I G H W V X E Q K O J Q N L B (Right)<br><br>How many letters are there in the English alphabetical series between the letter which is fourth from the right end and third from the left end of the series?",
+    "q_hi": "निम्नलिखित अक्षर श्रृंखला को देखें और उसके बाद आने वाले प्रश्न का उत्तर दें। गिनती केवल बाएं से दाएं की जानी है।<br><br>(बाएं) P F Y A D M I G H W V X E Q K O J Q N L B (दाएं)<br><br>श्रृंखला के दाएं छोर से चौथे और बाएं छोर से तीसरे अक्षर के बीच अंग्रेजी वर्णमाला श्रृंखला में कितने अक्षर हैं?",
+    "section": "Mental Ability and Reasoning1",
+    "solution": "1. बाएं छोर से तीसरा अक्षर = Y<br>2. दाएं छोर से चौथा अक्षर = Q (B, L, N, Q)<br>3. हमें Q और Y के बीच वर्णमाला क्रम में अक्षरों की संख्या ज्ञात करनी है।<br>4. Q और Y के बीच के अक्षर: R, S, T, U, V, W, X<br>5. अक्षरों की कुल संख्या = 7।",
+    "topic": "Alphabet Test"
+  },
+  {
+    "ans": "2",
+    "level": "Easy",
+    "op_en": [
+      "Two",
+      "One",
+      "Zero",
+      "Three"
+    ],
+    "op_hi": [
+      "दो",
+      "एक",
+      "शून्य",
+      "तीन"
+    ],
+    "q_en": "Each of the digits in the number 5746298 is arranged in the ascending order from left to right. The position(s) of how many digits will remain unchanged as compared to that in the original number?",
+    "q_hi": "संख्या 5746298 के प्रत्येक अंक को बाएं से दाएं आरोही क्रम में व्यवस्थित किया जाता है। मूल संख्या की तुलना में कितने अंकों की स्थिति अपरिवर्तित रहेगी?",
+    "section": "Mental Ability and Reasoning1",
+    "solution": "1. मूल संख्या: 5 7 4 6 2 9 8<br>2. आरोही क्रम: 2 4 5 6 7 8 9<br>3. तुलना करने पर:<br>मूल: 5 7 4 <b>6</b> 2 9 8<br>नया: 2 4 5 <b>6</b> 7 8 9<br>4. केवल अंक '6' अपनी पुरानी स्थिति (चौथे स्थान) पर बना हुआ है।<br>5. अतः, 1 अंक की स्थिति अपरिवर्तित है।",
+    "topic": "Number Test"
+  },
+  {
+    "ans": "2",
+    "level": "Medium",
+    "op_en": [
+      "Anu",
+      "Rajeev",
+      "Punit",
+      "Tiya"
+    ],
+    "op_hi": [
+      "अनु",
+      "राजीव",
+      "पुनीत",
+      "टिया"
+    ],
+    "q_en": "Anu, Seema, Punit, Rajeev, and Tiya each have scored different marks in an English test. Punit scored more than Anu but less than Seema. Only one person scored more marks than Seema. Tiya is not the highest scorer. <br>Who scored more than Seema?",
+    "q_hi": "अनु, सीमा, पुनीत, राजीव और टिया में से प्रत्येक ने अंग्रेजी की परीक्षा में अलग-अलग अंक प्राप्त किए हैं। पुनीत ने अनु से अधिक लेकिन सीमा से कम अंक प्राप्त किए। सीमा से अधिक अंक केवल एक व्यक्ति ने प्राप्त किए। टिया उच्चतम स्कोरर नहीं है।<br>सीमा से अधिक अंक किसने प्राप्त किए?",
+    "section": "Mental Ability and Reasoning1",
+    "solution": "1. दी गई जानकारी के अनुसार क्रम बनाएं:<br>पुनीत &gt; अनु<br>सीमा &gt; पुनीत<br>अतः: सीमा &gt; पुनीत &gt; अनु<br>2. सीमा से अधिक अंक प्राप्त करने वाला केवल एक व्यक्ति है। इसका मतलब है कि सीमा दूसरे स्थान पर है।<br>3. टिया उच्चतम स्कोरर नहीं है, तो सीमा से ऊपर वाला व्यक्ति टिया नहीं हो सकता।<br>4. पांच लोग हैं, सीमा से ऊपर राजीव बचा है।<br>5. अतः, राजीव उच्चतम स्कोरर है और सीमा से अधिक अंक प्राप्त करने वाला व्यक्ति है।",
+    "topic": "Comparison"
+  },
+  {
+    "ans": "4",
+    "level": "Easy",
+    "op_en": [
+      "11",
+      "15",
+      "17",
+      "13"
+    ],
+    "op_hi": [
+      "11",
+      "15",
+      "17",
+      "13"
+    ],
+    "q_en": "If ‘A’ stands for ‘÷’, ‘B’ stands for ‘×’, ‘C’ stands for ‘+’, and ‘D’ stands for ‘−’, then what will come in place of the question mark (?) in the following equation?  <br><br>48 A 12 B 3 C 11 D 10 = ?",
+    "q_hi": "यदि ‘A’ का अर्थ ‘&divide;’, ‘B’ का अर्थ ‘&times;’, ‘C’ का अर्थ ‘+’ और ‘D’ का अर्थ ‘&minus;’ है, तो निम्नलिखित समीकरण में प्रश्न चिह्न (?) के स्थान पर क्या आएगा?<br><br>48 A 12 B 3 C 11 D 10 = ?",
+    "section": "Mental Ability and Reasoning1",
+    "solution": "1. अक्षरों के स्थान पर चिह्न रखें: 48 &divide; 12 &times; 3 + 11 &minus; 10<br>2. BODMAS नियम लागू करें:<br>सबसे पहले भाग: (48 &divide; 12) = 4<br>अब: 4 &times; 3 + 11 &minus; 10<br>3. फिर गुणा: 4 &times; 3 = 12<br>अब: 12 + 11 &minus; 10<br>4. फिर जोड़ और घटाव: 23 &minus; 10 = 13<br>5. उत्तर 13 है।",
+    "topic": "Mathematical Operations"
+  },
+  {
+    "ans": "3",
+    "level": "Easy",
+    "op_en": [
+      "779",
+      "772",
+      "776",
+      "775"
+    ],
+    "op_hi": [
+      "779",
+      "772",
+      "776",
+      "775"
+    ],
+    "q_en": "दी गई श्रृंखला में प्रश्न चिह्न (?) के स्थान पर क्या आना चाहिए?<br><br>671&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 678&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 692&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 713&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 741&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ?",
+    "q_hi": "दी गई श्रृंखला में प्रश्न चिह्न (?) के स्थान पर क्या आना चाहिए?<br><br>671&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 678&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 692&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 713&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 741&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ?",
+    "section": "Mental Ability and Reasoning1",
+    "solution": "1. श्रृंखला के पदों के बीच का अंतर देखें:<br>678 &minus; 671 = 7<br>692 &minus; 678 = 14<br>713 &minus; 692 = 21<br>741 &minus; 713 = 28<br>2. हम देख सकते हैं कि अंतर 7 की तालिका में बढ़ रहा है (7, 14, 21, 28...)।<br>3. अगला अंतर 35 होना चाहिए (28 + 7 = 35)।<br>4. अगली संख्या = 741 + 35 = 776।",
+    "topic": "Number Series"
+  },
+  {
+    "ans": "3",
+    "level": "Easy",
+    "op_en": [
+      "Only conclusion II is true",
+      "Only conclusion I is true",
+      "Neither conclusion I nor II is true",
+      "Both conclusions I and II are true"
+    ],
+    "op_hi": [
+      "केवल निष्कर्ष II सत्य है",
+      "केवल निष्कर्ष I सत्य है",
+      "न तो निष्कर्ष I और न ही II सत्य है",
+      "निष्कर्ष I और II दोनों सत्य हैं"
+    ],
+    "q_en": "In this question, a statement is given followed by two conclusions, numbered I and II. Select the conclusion(s) that is/are true based on the given statement. <br><br><strong>Statement:</strong><br>B = A &gt; C &lt; K = S<br><br><strong>Conclusions:</strong><br>I. B &lt; C<br>II. S &lt; B",
+    "q_hi": "इस प्रश्न में, एक कथन और उसके बाद दो निष्कर्ष I और II दिए गए हैं। दिए गए कथन के आधार पर वह निष्कर्ष चुनें जो सत्य है।<br><br><strong>कथन:</strong><br>B = A &gt; C &lt; K = S<br><br><strong>निष्कर्ष:</strong><br>I. B &lt; C<br>II. S &lt; B",
+    "section": "Mental Ability and Reasoning1",
+    "solution": "1. कथन: B = A &gt; C और C &lt; K = S<br>2. निष्कर्ष I की जांच: B = A और A &gt; C, इसलिए B &gt; C। निष्कर्ष I कहता है B &lt; C, जो गलत है।<br>3. निष्कर्ष II की जांच: B &gt; C और S &gt; C। B और S के बीच के चिह्नों की दिशा विपरीत है (A &gt; C &lt; K), इसलिए B और S के बीच कोई निश्चित संबंध नहीं निकाला जा सकता।<br>4. अतः, न तो निष्कर्ष I और न ही II सत्य है।",
+    "topic": "Inequality"
+  },
+  {
+    "ans": "2",
+    "level": "Medium",
+    "op_en": [
+      "L",
+      "H",
+      "S",
+      "R"
+    ],
+    "op_hi": [
+      "L",
+      "H",
+      "S",
+      "R"
+    ],
+    "q_en": "Refer to the following letter series and answer the question that follows.<br><br>(Left) <span style=\"letter-spacing: 4.8pt;\">SUHISHLAEARORANEGAEOIUVANDO</span>(Right)<br><br>If all the vowels are dropped from the series, which letter will be ninth from the right?",
+    "q_hi": "निम्नलिखित अक्षर श्रृंखला को देखें और उसके बाद आने वाले प्रश्न का उत्तर दें।<br><br>(बाएं) <span style=\"letter-spacing: 4.8pt;\">SUHISHLAEARORANEGAEOIUVANDO</span>(दाएं)<br><br>यदि श्रृंखला से सभी स्वर हटा दिए जाते हैं, तो दाएं से नौवां अक्षर कौन सा होगा?",
+    "section": "Mental Ability and Reasoning1",
+    "solution": "1. मूल श्रृंखला: SUHISHLAEARORANEGAEOIUVANDO<br>2. स्वर (A, E, I, O, U) हटाने पर शेष व्यंजन: S H S H L R R N G V N D<br>3. अब दाएं से नौवां अक्षर गिनें:<br>D (1), N (2), V (3), G (4), N (5), R (6), R (7), L (8), H (9)<br>4. दाएं से नौवां अक्षर 'H' है।",
+    "topic": "Letter Series"
+  },
+  {
+    "ans": "3",
+    "level": "Easy",
+    "op_en": [
+      "IGL",
+      "GEJ",
+      "LOR",
+      "OMR"
+    ],
+    "op_hi": [
+      "IGL",
+      "GEJ",
+      "LOR",
+      "OMR"
+    ],
+    "q_en": "Based on the English alphabetical order, three of the following four letter-clusters are alike in a certain way and thus form a group. Which is the letter-cluster that does NOT belong to that group?<br>(Note: The odd one out is not based on the number of consonants/vowels or their positions in the letter-cluster.)<span style=\"color: white;\"></span>",
+    "q_hi": "अंग्रेजी वर्णमाला के क्रम के आधार पर, निम्नलिखित चार अक्षर-समूहों में से तीन एक निश्चित तरीके से समान हैं और इस प्रकार एक समूह बनाते हैं। वह अक्षर-समूह कौन सा है जो उस समूह से संबंधित नहीं है?<br>(नोट: विषम का चयन व्यंजनों/स्वरों की संख्या या अक्षर-समूह में उनकी स्थिति पर आधारित नहीं है।)<span style=\"color: white;\"></span>",
+    "section": "Mental Ability and Reasoning1",
+    "solution": "1. प्रत्येक समूह के अक्षरों के बीच का अंतर देखें:<br>IGL: I &minus; 2 = G, G + 5 = L<br>GEJ: G &minus; 2 = E, E + 5 = J<br>OMR: O &minus; 2 = M, M + 5 = R<br>2. अब LOR को देखें: L + 3 = O, O + 3 = R<br>3. अन्य सभी में (&minus;2, +5) का पैटर्न है, जबकि LOR में (+3, +3) का पैटर्न है।<br>4. अतः, LOR समूह से अलग है।",
+    "topic": "Odd One Out"
+  },
+  {
+    "ans": "1",
+    "level": "Easy",
+    "op_en": [
+      "850",
+      "868",
+      "860",
+      "864"
+    ],
+    "op_hi": [
+      "850",
+      "868",
+      "860",
+      "864"
+    ],
+    "q_en": "दी गई श्रृंखला में प्रश्न चिह्न (?) के स्थान पर क्या आना चाहिए?<br><br>760&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 766&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 778&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 796&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 820&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ?",
+    "q_hi": "दी गई श्रृंखला में प्रश्न चिह्न (?) के स्थान पर क्या आना चाहिए?<br><br>760&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 766&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 778&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 796&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 820&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ?",
+    "section": "Mental Ability and Reasoning1",
+    "solution": "1. श्रृंखला का अंतर देखें:<br>766 &minus; 760 = 6<br>778 &minus; 766 = 12<br>796 &minus; 778 = 18<br>820 &minus; 796 = 24<br>2. अंतर 6 की तालिका (6, 12, 18, 24...) में बढ़ रहा है।<br>3. अगला अंतर 30 होना चाहिए (24 + 6 = 30)।<br>4. अगली संख्या = 820 + 30 = 850।",
+    "topic": "Number Series"
+  },
+  {
+    "ans": "2",
+    "level": "Easy",
+    "op_en": [
+      "9",
+      "10",
+      "7",
+      "12"
+    ],
+    "op_hi": [
+      "9",
+      "10",
+      "7",
+      "12"
+    ],
+    "q_en": "Each of the digits in the number 5163984 is arranged in the ascending order from left to right. What will be the sum of the digits that are first from the left and first from the right in the new number thus formed?",
+    "q_hi": "संख्या 5163984 के प्रत्येक अंक को बाएं से दाएं आरोही क्रम में व्यवस्थित किया जाता है। इस प्रकार बनी नई संख्या में बाएं से पहले और दाएं से पहले अंकों का योग क्या होगा?",
+    "section": "Mental Ability and Reasoning1",
+    "solution": "1. मूल संख्या: 5 1 6 3 9 8 4<br>2. आरोही क्रम में व्यवस्थित करने पर: 1, 3, 4, 5, 6, 8, 9<br>3. बाएं से पहला अंक = 1<br>4. दाएं से पहला अंक = 9<br>5. योग = 1 + 9 = 10।",
+    "topic": "Number Test"
+  },
+  {
+    "ans": "1",
+    "level": "Easy",
+    "op_en": [
+      "29",
+      "31",
+      "30",
+      "28"
+    ],
+    "op_hi": [
+      "29",
+      "31",
+      "30",
+      "28"
+    ],
+    "q_en": "If '+' means 'subtraction', '−' means 'multiplication', '×' means 'division' and '÷' means 'addition', then what will come in place of the question mark (?) in the following equation?<br><br>7 − 3 ÷ 11 + 15 × 5 = ?",
+    "q_hi": "यदि '+' का अर्थ 'घटाव', '&minus;' का अर्थ 'गुणा', '&times;' का अर्थ 'भाग' और '&divide;' का अर्थ 'जोड़' है, तो निम्नलिखित समीकरण में प्रश्न चिह्न (?) के स्थान पर क्या आएगा?<br><br>7 &minus; 3 &divide; 11 + 15 &times; 5 = ?",
+    "section": "Mental Ability and Reasoning1",
+    "solution": "1. प्रतीकों को बदलें: 7 &times; 3 + 11 &minus; 15 &divide; 5<br>2. BODMAS नियम लागू करें:<br>भाग: 15 &divide; 5 = 3<br>समीकरण: 7 &times; 3 + 11 &minus; 3<br>3. गुणा: 7 &times; 3 = 21<br>समीकरण: 21 + 11 &minus; 3<br>4. जोड़ और घटाव: 32 &minus; 3 = 29।",
+    "topic": "Mathematical Operations"
+  },
+  {
+    "ans": "3",
+    "level": "Hard",
+    "op_en": [
+      "(15, 6, 451)",
+      "(17, 5, 494)",
+      "(18, 6, 576)",
+      "(12, 7, 371)"
+    ],
+    "op_hi": [
+      "(15, 6, 451)",
+      "(17, 5, 494)",
+      "(18, 6, 576)",
+      "(12, 7, 371)"
+    ],
+    "q_en": "Select the set in which the numbers are related in the same way as are the numbers of the following sets.<br>(NOTE: Operations should be performed on the whole numbers, without breaking down the numbers into their constituent digits. E.g. 13 – Operations on 13 such as adding to/subtracting from/multiplying with 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed.)<br><br>(13, 7, 400)<br>(14, 8, 484)",
+    "q_hi": "Select the set in which the numbers are related in the same way as are the numbers of the following sets.<br>(NOTE: Operations should be performed on the whole numbers, without breaking down the numbers into their constituent digits. E.g. 13 – Operations on 13 such as adding to/subtracting from/multiplying with 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed.)<br><br>(13, 7, 400)<br>(14, 8, 484)",
+    "section": "Mental Ability and Reasoning1",
+    "solution": "1. पहले दो सेटों में संबंध खोजें:<br>(13, 7, 400) &rArr; (13 + 7)<sup>2</sup> = 20<sup>2</sup> = 400<br>(14, 8, 484) &rArr; (14 + 8)<sup>2</sup> = 22<sup>2</sup> = 484<br>2. तर्क: (पहली संख्या + दूसरी संख्या)<sup>2</sup> = तीसरी संख्या<br>3. विकल्पों की जांच करें:<br>विकल्प (3): (18, 6, 576) &rArr; (18 + 6)<sup>2</sup> = 24<sup>2</sup> = 576<br>4. यह विकल्प उसी तर्क का पालन करता है।",
+    "topic": "Analogy"
+  }
+]
