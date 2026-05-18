@@ -1,0 +1,4202 @@
+[
+  {
+    "ans": "4",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "चार",
+      "एक",
+      "दो",
+      "तीन"
+    ],
+    "q_en": "",
+    "q_hi": "सात व्यक्ति, B, U, C, K, E, T और S, एक गोल मेज के परित: केंद्र की ओर अभिमुख होकर बैठे हैं। B के बाईं ओर से गिनने पर U और B के बीच केवल एक व्यक्ति बैठा है। T, K के दाईं ओर तीसरे स्थान पर बैठा है। S, E के बाईं ओर तीसरे स्थान पर बैठा है। T, S के ठीक दाईं ओर पड़ोस में बैठा है। C, S का निकटतम पड़ोसी नहीं है। C के दाईं ओर से गिनने पर C और B के बीच कितने व्यक्ति बैठे हैं?",
+    "section": "General Intelligence and Reasoning Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "4",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "0",
+      "1",
+      "3",
+      "2"
+    ],
+    "q_en": "",
+    "q_hi": "शब्द JUMBLED में प्रत्येक स्वर को अंग्रेजी वर्णमाला क्रम में उसके ठीक बाद वाले अक्षर से बदल दिया जाता है और प्रत्येक व्यंजन को अंग्रेजी वर्णमाला क्रम में उसके ठीक पहले वाले अक्षर से बदल दिया जाता है। इस प्रकार बने अक्षरों के समूह में कितने स्वर हैं?",
+    "section": "General Intelligence and Reasoning Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "3",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "RQT",
+      "LKN",
+      "OMH",
+      "WVY"
+    ],
+    "q_en": "",
+    "q_hi": "अंग्रेजी वर्णमाला क्रम के आधार पर, निम्नलिखित चार अक्षर-समूहों में से तीन एक निश्चित तरीके से समान हैं और इस प्रकार एक ग्रुप बनाते हैं। कौन-सा अक्षर-समूह उस ग्रुप से संबंधित <strong>नहीं </strong>है?<br>\n(नोट: असंगत अक्षर-समूह, व्यंजनों/स्वरों की संख्या या उनकी स्थिति पर आधारित नहीं है।)",
+    "section": "General Intelligence and Reasoning Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "2",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGAAAABjCAYAAABkDAWWAAADOklEQVR42u3dUY7rIAwF0CytO+vSurT3lI+OkAXFgO1ryI3Ex2imSfBpgwlO5/rHDbpdDAEBCPD3w3WxBTQCZAc4+iMP7CMBCEAAFcDn8yEAEuBur9eLACiAO/inImwzBpyKsNUgfCLCdlnQF+GUwXnLNPQkhG3nAVkR7nP51Y6aiL3f73QI5Ruj1u5zPmomnA2hTBTKdiyARJAdRAHIN8P3HI8EyITwWIAsCI8GyIDweAA0AgHACFYA9+u9z9t9QQaBYAngfd4hK2LRCNYAnucdtiQZieAB4DHJLPfvDhCJ0APQlIbUACwR5L5DAKI+1tYA9/4sb7fUYMMAIhBaACPXYQkg7zFZXPehhVklgvXqmheABUL5enhlnBeCJ8AKgnxditJEDwRvgJlLaA0tVW2o5WJ/az2g1UYBRhHKAbw1FsABLBF6K2IzWdBsMvEre0pZHV0izKZ7vTVh2WYBenObXuqatjw9erF/BaAVaM28IfXzAZEIqwAy4NpzHwLQDmiWTRYGex+n9TvtmCRn2r3BmY8oDTRtutm64ddLFLoAowPbapNlJJ77/9VHeWnRJgEjn5THDcIyc+n10XKyKAfntGmoV/BrBVraPq6eWy0zSgNQXhZW5gAzARzp4yxCKy1NAeB5Z1SD6137pJkNH3UzbnT/nrVPvb+DAngvUWpxvWqfNP2DAXgHf2T/HrVP2uNDADIF36KP8nir+K4A2YJv1cfaQvssfkhZSlSOHwWgXR+AAUROsEb371F6s3JscwDP4FtM4I6tjs6Q4z8WYJfgHwmQMdPRBMFrjSAUYLfgHwWwY/BX3mSpALyD75lJbQ+wc/DLPn5vI9RaWoDsOb7FGCCzrDQA3sGP+q66X5+AlADynZk5x18ZA1qFWVAA7+AgHmvdBuDE4G8DEP2EY+R3D20BgHjQOmt1NAwg8rIQeTnaahCO3KIQCABGIAAYgQBgBAKAZ8gjX9aRfkFmRwQCgOcK/B8yYAQCgAdnAoARCABGIAAYgQBgBAKA5woEcELQVlQQADxXIAB4XCAAGIEAYAQCgBEIAEYgAHiuQIAkCKkB2HwbAbICcANclhgCAhCAGwEIwA2z/QcSnEaCaPHdfAAAAABJRU5ErkJggg==\" style=\"max-width:100%;height:auto;\">",
+      "<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGIAAABiCAYAAACrpQYOAAADWUlEQVR42u3dDYrsIBAE4BxtbjZHm6O9RxYCEozxp7qt1hKEZZfdMX5JtE3HPf6pUJRDXSAIlRLEcRyqDlUQ0SDS8vv9/r73+Xx8L9eHRluU7/fr8nlDEGc5EbwxvCCuE+2sJwg1RPozLwwPCE8EGARLoy0+w+N4YBAslzGqMN1uj56D98KwhJiBAIfwwrCCuGZI3ggmEB4YFhDpNPVs/xIQ1hhoiNkIphD3A0RiICEYEMwhrDBQEFYnCiWExQEjILxjHwoINMZoW9gQXCGQGCNtYURwh0BhjLRlVsBGB4GYqfS2hRVhGsQoRk9bmBGmQoxgtLaFJVaghejtpJa2RECggOjprNq2REGggWjttJq2MEXNoSBaBlSmh1RLQtRiMD22XRaiBuOpLVERaCHeMJhSe5aHKHVsri0WCJ5XFTVE+rlpB9/bYoXAkKtFA5G776dtsYgV0s8MlWDmjZH72gLBMxYJAZE7S9OKjJrvHT87V4sO4gkD2TlPY43HlREKwvIMfRvwrTHCQVi0pXassVxE3B6itXOtMLaG6O1Ui7eItoUYveejg8gtIVADPhJjOwj0rMs6aW5ZiOssRk1BUbBbQVgtkyMwtoGwflYxOvhvAeGVzTGCsTyEd0oNOmkO8urWeRtA1fSg2POakElzB/J2gKitELPzmlqf8JlDXGdzb70G2RYIlmyOlgmCOcRoR7RCsKXU1MYty0GgAzavGGMpCNa8phoMlzHi/Lqm5mYYtRDsyWVvkweqWVOuE2sgoqTflzBM44jaK6F0Nr9BRHoHotReisi6tDdgCSIaQgkjNETUzO87xhIQERFyEwzt+6oNeFVhG/BGWAav/RuoABR9TIIQhCAEIQhBUOxOg3hqh4JArI+FuyIQGIJwWh6uiUpn3N7Q/zuDbncaLwxBvBxY68GhE7q2h+jF6E0WSH+nty79fkSaQnNPLENioNaGln9RJV0abn23rQZj5Eq41+UDOmsMpkIfWfec6REfn4ZY4tgBI8xa0wiGICZjRNrRLNzqa8sAnk5rte/rpCtC+74KQbOmyLHEUnGEAjoHhLfBNjLCMmtN0RFoIXZDoIRoCcJWQaCD6EWItLhHDVHa09UypSY0hKrS8gWhMvGWpS4QhIogBKHyUP4DSjbaIFaJzhYAAAAASUVORK5CYII=\" style=\"max-width:100%;height:auto;\">",
+      "<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGIAAABhCAYAAAAtMXSgAAADS0lEQVR42u3da27rIBAF4CwtO8vSsrR75R9ILiIGhnmcgYOEWrWJg/lsGAx2Xv+YINKLVUAIpieI1+vF7JAJkQ0i5PS8FfT7/e7ZBGWD2BUjFcTn8/nzOyECC7krRjqIXTFSQuyIkRZiN4zUEFe6Iqjy//f7TYgoiJIuhMzh7TYQ2TG2gsjcb2wHkRVjS4iMGNtCZMPYGiITxvYQWcYaR0BkwHCHuDcVrdyK/zUPAtSxxnEQqBhhEHXHWSrHAwKxEz8WAg3jaAgkjOMhUDAIEYxRBy/HQ0SMNVoRJCFuGKUs10+r8LY+AwkR0Ey1xjGEAEAghOOIu9fkwUFcf6+zB4Q1Qi8IgIOYWbKeoXMejcRgIFpngvUZYR2uzvQ3MBCSQmpVUjTCsRDWkZFk+3DzEdZ9BCLCcRCeCLOd/jFz1tazcqvbPwICHWF7CJQxQiiE5k5LIKzHCNrbN4FY6bQ0INDGCCEQrahoFQNpWb7V9lUh6kJqFVpyEGRCUIX4VUiNwksOgkwIahC9Qq7uRA/COjz1WFiwDDFayJWdeYLIMEYwh7iHcCOVq3kdxmOS33ONrBhiFmEl/n76bKsxwh05ctD6CCFFkFak50NRou6jmIZYRZCc+l6PCYq8mUX8KLleRYy2qXeMa5vX++pcf3bpEzRzPRrX3n4viyB6R0vZqdGjamWO4uiHK85U6mgTcu8c63w/AKxyfaB5Z1WIuo2dwYheYBZ9s6MaRKsTn+nYT1wNrg7xVOGjkc4IxNPap1Zejeagw1fJ6HpkfmIEYiavViL8gK5+8WjT08PQPCO0KtATYwlitqBPGFp9RDlDtSoP9qJfebH0aPn1PlQILwzxgG5lZ1vvR4bwwBBf4tDuDNEhRoMOdwjN1RnXDkqjpjpIsISwxBBBaBWgdUEPHcLqUrzoMrjVaHamafq1vN8DwgIDYsll73RHhNDGgFn7WnYqE4QmBtQi5DIxlAlCCyP91xYgQGhgEAIEgxAgGIQAwSAECMYW3zHUmohHeMjuzFTxFhAWM3TeGKlvZuwt2kJJkE+n0YTIlHoYhADBIERAagUUhADBIAQIBiFAMAgB1okTIjgRghCEWIJgBrp1izkQgimoyWIVEIKJEHjpP+d5TlzRqBnRAAAAAElFTkSuQmCC\" style=\"max-width:100%;height:auto;\">",
+      "<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGEAAABkCAYAAACWy14QAAADXUlEQVR42u3cW47DIAwF0CytO+vSurQZ8REJoZZg4ye+SPy1M2lOQjB2uP7Q3NuFUwAENCAAAe0bwnVd6AYdCFkQTmifz4d9ktp3VYadSgg9wOv1evx8+4w2QCmEHuD9focBKIPABVi5W4Cw0NpJXwWgDldAOATgaAQuwMpwBYTDAI5EoABQPguEgwGOQqAMK54P4ePvBMqV3d8J2sFYKQTqQxbPBEBgihoJAsFaAAhzhPYDpbr0w7fM2pFmJiorhBvCzh1APR7qdxpEv5x9XD5B4m9x/gYnR3BsZs0LITJEKQRqVG01c3JDaFcYpfc/fud4xgfvau8nBNIQaWZHUgjjlS1xPOkQ2pVI6fcJk0S474Z75sPtZSJmbYQIDQhAAAIQMiKgozQeCJrBisfwNg5HsyFKezgmIUQolNqNUfqLKSXC+EMyQYzLFakRLBa0NAHa8X474SsIklk/kSlqJojxyuciaL1atRUnRCqgWgXgIHCyfmYI0SF+JXGoCJz/aYrQQ0SJQJ8ujiMRZlddNICjEfoD8HxQrwyPTwg7OQZ3BO8YYvX/zxCkuhuCJwTn/YQRgZr3nnVXBI8YggpfJp9gCUGdFJRK6ljEEJxZWbnMmiYEd1pcMr3JKeLVxC2bY5YM5nbvrtKJfgkIieGtfLXFzoxJKgYpj8A9kZJBIOqONoIrqZgDCIxgTnqFFghECI0l8miJKPcyyNkJ0QD4tlqKvS1+QGhcrbPlak+IMAXB49CkCdDfYf2rUOUR+uFH4+oc30vuhznv1Gy40niNFOlK3ZEnRMj3EzQBZlNUL4gy+6L2Q9ssTvCAKLHVzkrd0bffi22aFYOxJwTrYoWS+6KuLFtYQpTciHB17cgKovS+qCtjvgXEEQjadUfaEEcgWNQdaUKkR7CsO9IqaEuN4FF3pAGRFmGnlmk3syYNkRIhQt2RJEQ6hEh1R1IQqRCkfrRkol/imNIgSN7+0tUWu3dnCoQMdUc7EOERNIIkrbojt5fJtZtGcKRZ/MWBCI2gleXSrsCjQoRF0EwzWpRBUiDCJvo1T5JVLepqTVM4BIs6UcuC4JU7OhSCVaGudVX2E0TIMkjtulCP0vgZRBgEjx0ArIu8fm0+gn1RsTkt+jICmk8DAhDQgAAEtLv9A93ZVRwbyNyKAAAAAElFTkSuQmCC\" style=\"max-width:100%;height:auto;\">"
+    ],
+    "q_en": "",
+    "q_hi": "नीचे दिए गए चित्रानुसार दर्पण को MN पर रखे जाने पर, दी गई आकृति के सही दर्पण प्रतिबिंब का चयन करें।<br>\n<br>\n<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHsAAAC8CAYAAABYKtFzAAAE20lEQVR42u3dDW7bIBgG4BytN2tv1qNt8iRPyPIfNh/Y8LwSWtpmqZWnYCAYf/7IMPl4C2ALbIEtsAW2wBbYAltgC2yBDVtgS5P8/v7+KznP3Xo+7IdDfz6ff+UM+Pzcr68v2G/G3gKc8/39DbsX7KPaDbsT7Blyr3afeR7sl2BPgNPjvVoNuxPs+fFaUz433/Nj2C/H3oJMazXsjrDnpjyt3TN2Wsthd4A9f51ipj+H3RF2WrvXmnDYnWGnHbW0Ywa7Q+y09731M9gdYc9N+dq4G3Zn2Fvfhy2wYQtsgS2wJTI/Pz//h13TY9iwYcMW2AJbYAtsgS2wBbbAhg0bNmzYsGELbIEtsAW2wBbYAhs2bNh3sNPrgJW4Aht2G+yopFtFrF1rHPX7jvYBLZ354vmtHRSGwJ6S7rl5dqvlN2HP0Gu/czjsmuC1sfegh8VegveAne57srnZ+6jYZ2rCW7DPtlRDY0eD18DOOSUNj53+3tI99Gjs3L4H7MAhWST2lU4m7EDwKOyrownYG29iCfAI7DvHCDsQvDT23WODHTjpUhK7xB8h7EDwUtilWhvYJ9/kVtglTyuwAydd7mKX7jDCDgS/gx0xFISdCZ7zxl/FjprkgR0IcAU7coEF7EDwXOzolTSwAztNOdg1lkzBDgQ/i51z32rYDwU/ix29iAJ2YfC1WbYz2LWgYQeDH2HXhIZdGHyJtoddG3p47JLLiNfwtrBbQA+NfWVGLPc117D3bnUIOxA64kKBtIe+xK55NQrsxRt+ZmH9lVPD8vWnf1tDD4e99oZHXBmSgi9LK+ihsPdqVkSHKf19T4AeBvvMbFc0eGvoIbBzPmB4y7px2Dehrzwf9oOwr8A9ed047IwZrdrgsCtgl+hsPWndOOwTSK1707ADsSOGOnf+eGAHYUeOaVusG4ddoQd9BF5j3TjsSmPjkkM52AUPptWOhVHrxmE/BPrKKWMNe/re9HWpMsQ2G62W9uSAb2GX3HS2e+yW0Dm9/z3suVZeLfN70DX2E6DPgh9hlxgddIv9tM+HjyZdYF88mCdCH7U2sC8czJOh9yZdcrGn/3u2dIldY3YsatIlF3vo3nirsXSpSZer2Dk1vAvst0GvtUQ5lwRdxXj9DNpbodfAYR8czJPG0qVqOOwCHRTFTdyU0W/idqbZTfsId4/HR5ywYcOGDRs2bNgFevYR2HeKXYlfgr3cu6Ul9BDYrV7jyixg9Cd8sANe44nQsANe48q1YbUWZ3SPnfPZ8LLUQIvYnksHLXguORc6XQ5so9oC4+ZSpfT5ttZm8iZVgiZjWm3SA7tScuFaL56EPQg07EK9/TdAw76YnF70k9a9w77RITsaYrXqdcNuBK5md3DOzkF0zu5g6PU2cNgVwVtf6QK7IbhbPb0Q+y3gsAcCh104Oefl2h9zwm4MPiUFt1Ll5eCRW2e8Hltxya7SE7Y8L7Bhw4YNG7bAFtgCW2ALbIEtsAU2bNiwYcMW2NJbYMMW2AJbYnN2HzfYHUAfrUKdn3N0AQTsF2FvXZIEu0Pso5vAw+4EO91AF3bn2OnOzEtU2B1iT1m7KTvsTrH37gEOuzPsKcvmHHbH2MvmHHbn2GlzDrtz7LQ5n2s57I6x0+Yc9gDYOZsDwX45dlq7YQts2AJbYMvL8hezgtRHTFUbfQAAAABJRU5ErkJggg==\" style=\"max-width:100%;height:auto;\">",
+    "section": "General Intelligence and Reasoning Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "1",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "तीन",
+      "दो",
+      "चार",
+      "एक"
+    ],
+    "q_en": "",
+    "q_hi": "E, F, G, H, Q, R और S में से प्रत्येक की परीक्षा, सोमवार से शुरू होकर रविवार को समाप्त होने वाले एक ही सप्ताह के अलग-अलग दिन है। E की परीक्षा गुरुवार को है और Q की परीक्षा शनिवार को है। R की परीक्षा H से ठीक पहले है। S की परीक्षा G के बाद किसी एक दिन है। F की परीक्षा H के ठीक बाद है। S और F के बीच कितने व्यक्तियों की परीक्षा है?",
+    "section": "General Intelligence and Reasoning Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "4",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "तीन",
+      "एक की भी नहीं",
+      "एक",
+      "दो"
+    ],
+    "q_en": "",
+    "q_hi": "यदि शब्द VICTORY के प्रत्येक अक्षर को अंग्रेजी वर्णमाला क्रम में व्यवस्थित किया जाए, तो कितने अक्षरों की स्थिति अपरिवर्तित रहेगी?",
+    "section": "General Intelligence and Reasoning Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "2",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "31",
+      "32",
+      "30",
+      "33"
+    ],
+    "q_en": "",
+    "q_hi": "सुधीर अपनी कक्षा में नीचे से 14वें और ऊपर से 19वें स्थान पर है। उसकी कक्षा में कुल कितने विद्यार्थी हैं?<br>",
+    "section": "General Intelligence and Reasoning Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "4",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "15 - 21 - 17 - 68",
+      "49 - 53 - 51 - 255",
+      "35 - 40 - 38 - 152",
+      "12 - 17 - 18 - 72"
+    ],
+    "q_en": "",
+    "q_hi": "<p>संख्याओं के दो सेट नीचे दिए गए हैं। संख्याओं के प्रत्येक सेट में, पहली संख्या पर कुछ गणितीय संक्रियाएं करके दूसरी संख्या प्राप्‍त की जाती है। इसी प्रकार, दूसरी संख्या पर कुछ गणितीय संक्रियाएं करके तीसरी संख्या प्राप्‍त की जाती है, और इसी प्रकार आगे की संख्‍याएं प्राप्‍त की जाती हैं। दिए गए विकल्पों में से कौन-सा विकल्प प्रश्‍न में दिए गए सेटों के समान संक्रियाओं का अनुसरण करता है?</p>\n\n<p>(नोट- दो/तीन अंकों वाली संख्या को संक्रियाओं के लिए अलग-अलग अंकों में नहीं तोड़ा जा सकता है जैसे कि यदि 37 के बाद 10 है, तो संक्रिया 3+7 नहीं हो सकती है क्योंकि दो अंकों वाली संख्या को अलग-अलग अंकों में नहीं तोड़ा जा सकता है।)<!--EndFragment --></p>\n<!--EndFragment --><br>\n48 - 53 - 54 - 216<br>\n6 - 11 - 12 - 48",
+    "section": "General Intelligence and Reasoning Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "4",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "2",
+      "0",
+      "3",
+      "1"
+    ],
+    "q_en": "",
+    "q_hi": "निम्नलिखित अक्षर, प्रतीक श्रृंखला का संदर्भ लें और प्रश्न का उत्तर दें। गिनती केवल बाएँ से दाएँ की जानी है।<br>\n(बाएँ)    &amp;    €    #    Y    J    £    M    &amp;    N    K    V    £    N    %    %    &amp;    #    Z    P    *    J    I    (दाएँ)<br>\nऐसे कितने प्रतीक हैं जिनमें से प्रत्येक के ठीक पहले एक अक्षर है और ठीक बाद में एक प्रतीक भी है?",
+    "section": "General Intelligence and Reasoning Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "3",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "28",
+      "20",
+      "24",
+      "25"
+    ],
+    "q_en": "",
+    "q_hi": "यदि '+' और '-' को परस्पर बदल दिया जाए तथा 'x' और '÷' को परस्पर बदल दिया जाए, तो निम्नलिखित समीकरण में '?' के स्थान पर क्या आएगा?<br>\n9 ÷ 3 - 20 x 5 + 7 = ?",
+    "section": "General Intelligence and Reasoning Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "1",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "801",
+      "108",
+      "180",
+      "810"
+    ],
+    "q_en": "",
+    "q_hi": "यदि ‘+’ और ‘-’ को आपस में बदल दिया जाए तथा ‘x’ और ‘÷’ को आपस में बदल दिया जाए, तो निम्नलिखित समीकरण में ‘?’ के स्थान पर क्या आएगा?<br>\n625 - 452 ÷ 378 x 126 + 295 ÷ 948 x 237 =?",
+    "section": "General Intelligence and Reasoning Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "2",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "8",
+      "7",
+      "2",
+      "9"
+    ],
+    "q_en": "",
+    "q_hi": "एक निश्चित कूट भाषा में, ‘FISH’ को ‘5892’ के रूप में कूटबद्ध किया जाता है और ‘SHIP’ को ‘7589’ के रूप में कूटबद्ध किया जाता है। उस भाषा में ‘P’ के लिए कूट क्या होगा?",
+    "section": "General Intelligence and Reasoning Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "1",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "168",
+      "160",
+      "152",
+      "164"
+    ],
+    "q_en": "",
+    "q_hi": "दी गई श्रृंखला में '?' के स्थान पर क्या आना चाहिए?<br>\n<br>\n120           136          104          152          88            ?",
+    "section": "General Intelligence and Reasoning Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "1",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "तीन",
+      "एक",
+      "एक भी नहीं",
+      "दो"
+    ],
+    "q_en": "",
+    "q_hi": "P, Q, R, S, T, U और V में से प्रत्येक की परीक्षा सोमवार से शुरू होकर रविवार को समाप्त होने वाले एक ही सप्ताह के अलग-अलग दिन है।<br>\nQ की परीक्षा मंगलवार को है। U और V के बीच केवल एक व्यक्ति की परीक्षा है। U की परीक्षा, T की परीक्षा के ठीक पहले वाले दिन है, लेकिन बुधवार को नहीं है। V और T के बीच केवल दो व्यक्तियों की परीक्षा है। V की परीक्षा, R की परीक्षा के बाद किसी एक दिन है, लेकिन S की परीक्षा से पहले किसी एक दिन है। Q की परीक्षा, P की परीक्षा के ठीक बाद वाले दिन है।<br>\nV से पहले कितने व्यक्तियों की परीक्षा है?",
+    "section": "General Intelligence and Reasoning Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "4",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "पुत्र",
+      "पिता",
+      "पुत्री का पति",
+      "पुत्री का पुत्र"
+    ],
+    "q_en": "",
+    "q_hi": "G, L की माता है। L, U की बहन है। T, N का पिता है। N, U का पुत्र है। N का G से क्या संबंध है?",
+    "section": "General Intelligence and Reasoning Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "1",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "एक भी नहीं",
+      "दो",
+      "तीन",
+      "एक"
+    ],
+    "q_en": "",
+    "q_hi": "निम्नलिखित अक्षर श्रृंखला का संदर्भ लें और उसके नीचे दिए गए प्रश्न का उत्तर दें। गिनती केवल बाएँ से दाएँ की जानी है।<br>\n<br>\n(बाएँ)  K  L  S  U  G  Q  X  M  X  O  G  W  S  H  Y  L  X  T  H  A  A  (दाएँ)<br>\n<br>\nऐसे कितने व्यंजन हैं, जिनमें से प्रत्येक के ठीक पहले एक स्वर है और ठीक बाद में भी एक स्वर है?",
+    "section": "General Intelligence and Reasoning Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "3",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "LKO−MMP",
+      "LJM−MLP",
+      "LKO−NMQ",
+      "LJM−NMQ"
+    ],
+    "q_en": "",
+    "q_hi": "उस युग्म का चयन करें जो नीचे दिए गए दो युग्मों द्वारा अनुसरण किए जाने वाले समान पैटर्न का अनुसरण है। दिए गए दोनों युग्म समान पैटर्न का अनुसरण करते हैं।<br>\nWVZ−YXB<br>\nRQU−TSW<br>\n<br>",
+    "section": "General Intelligence and Reasoning Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "1",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "XB - YE",
+      "FH - JL",
+      "HJ - LN",
+      "QS - UW"
+    ],
+    "q_en": "",
+    "q_hi": "अंग्रेजी वर्णमाला क्रम के आधार पर, निम्नलिखित चार अक्षर-समूह युग्मों में से तीन किसी निश्चित तरीके से एक समान हैं और इस प्रकार एक ग्रुप बनाते हैं। कौन-सा अक्षर-समूह युग्म, उस ग्रुप से संबंधित नहीं है?<br>\n(नोटः असंगत अक्षर-समूह युग्म, अक्षर समूह में व्यंजनों/स्वरों की संख्या या उनकी स्थिति पर आधारित नहीं है)",
+    "section": "General Intelligence and Reasoning Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "2",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "AFRE",
+      "ZFAR",
+      "ZARF",
+      "ZSWE"
+    ],
+    "q_en": "",
+    "q_hi": "अंग्रेजी वर्णमाला क्रम के आधार पर दी गई श्रृंखला में ? के स्थान पर क्या आना चाहिए?<br>\n<br>\nXDYP     EKFW     LRMD     SYTK     ?",
+    "section": "General Intelligence and Reasoning Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "3",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "<img loading=\"lazy\" src=\"data:image/png;base64,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\" style=\"max-width:100%;height:auto;\">",
+      "<img loading=\"lazy\" src=\"data:image/png;base64,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\" style=\"max-width:100%;height:auto;\">",
+      "<img loading=\"lazy\" src=\"data:image/png;base64,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\" style=\"max-width:100%;height:auto;\">",
+      "<img loading=\"lazy\" src=\"data:image/png;base64,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\" style=\"max-width:100%;height:auto;\">"
+    ],
+    "q_en": "",
+    "q_hi": "जब दर्पण को चित्रानुसार MN पर रखा जाता है, तो दी गई आकृति के सही दर्पण प्रतिबिंब का चयन कीजिए।<br>\n<br>\n<img loading=\"lazy\" src=\"data:image/png;base64,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\" style=\"max-width:100%;height:auto;\">",
+    "section": "General Intelligence and Reasoning Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "2",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "एक पृथ्वी, एक भविष्य (One Earth, One Future)",
+      "एकजुटता, समानता, स्थिरता (Solidarity, Equality, Sustainability)",
+      "सुधार, पुनर्निर्माण, पुनःस्थापन (Reform, Rebuild, Restore)",
+      "मानवता सबसे पहले (Humanity First)"
+    ],
+    "q_en": "",
+    "q_hi": "2025 में G20 शिखर सम्मेलन की मेजबानी के लिए दक्षिण अफ्रीका द्वारा कौन-सा आधिकारिक विषय चुना गया था?",
+    "section": "General Awareness",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "3",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "प्रथागत प्रणाली",
+      "US मानक प्रणाली",
+      "SI प्रणाली",
+      "CGS प्रणाली"
+    ],
+    "q_en": "",
+    "q_hi": "वैज्ञानिक अनुसंधान में, मात्रकों की मुख्यतः किस प्रणाली का उपयोग किया जाता है?",
+    "section": "General Awareness",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "3",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "विलियम हॉडसन",
+      "जॉन निकोलसन",
+      "हेनरी लॉरेंस",
+      "जेम्स आउट्राम"
+    ],
+    "q_en": "",
+    "q_hi": "सन् 1857 में हुए चिनहट के युद्ध के दौरान, निम्नलिखित में से किस अधिकारी की कमान में ब्रिटिश टुकड़ी को नुकसान उठाना पड़ा था?",
+    "section": "General Awareness",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "2",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "गुजरात",
+      "तमिलनाडु",
+      "केरल",
+      "महाराष्ट्र"
+    ],
+    "q_en": "",
+    "q_hi": "निम्नलिखित में से किस राज्य में भारत का सबसे बड़ा पवन चक्की फार्म संकुल है?",
+    "section": "General Awareness",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "1",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "जिला परिषद",
+      "लोकसभा",
+      "ब्लॉक पंचायत",
+      "ग्राम पंचायत"
+    ],
+    "q_en": "",
+    "q_hi": "भारत में जिला स्तरीय नियोजन (planning) के लिए निम्नलिखित में से कौन-सा पंचायत स्तर जिम्मेदार है?",
+    "section": "General Awareness",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "1",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "माइक्रोफोन",
+      "चुंबकीय कुंडली",
+      "ऑप्टिकल फाइबर",
+      "LED संवेदक"
+    ],
+    "q_en": "",
+    "q_hi": "एक डेसिबल मीटर के भीतर प्रमुख घटक क्या है जो ध्वनि दाब का पता लगाने में सहायता करता है?",
+    "section": "General Awareness",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "1",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "राज्यपाल राष्ट्रपति के प्रसादपर्यंत पद धारण करता है और राष्ट्रपति को संबोधित अपने हस्ताक्षर सहित लेख द्वारा अपना पद त्याग कर सकता है।",
+      "राज्य की विधानसभा राज्यपाल को निर्वाचित करती है।",
+      "राज्यपाल को केवल भारत के मुख्य न्यायाधीश की सिफारिश पर संसद में महाभियोग के माध्यम से ही पद से हटाया जा सकता है।",
+      "एक बार नियुक्त होने के बाद राज्यपाल पाँच वर्ष की पदावधि पूरी होने तक पद त्याग नहीं कर सकता है।"
+    ],
+    "q_en": "",
+    "q_hi": "भारत में राज्यपाल की पदावधि के संबंध में निम्नलिखित में से कौन-सा कथन सही है?",
+    "section": "General Awareness",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "1",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "गोंड (Gond)",
+      "संथाल (Santhal)",
+      "जुआंग (Juang)",
+      "भील (Bhil)"
+    ],
+    "q_en": "",
+    "q_hi": "ब्रिटिश अप्रत्यक्ष शासन के दौरान बस्तर क्षेत्र में किस आदिवासी समुदाय का प्रभुत्व था?",
+    "section": "General Awareness",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "3",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "शक्तियों के संघीय वितरण में परिवर्तन करना",
+      "राष्ट्रपति की चुनाव प्रक्रिया को बदलना",
+      "जेल में बंद सार्वजनिक पदाधिकारियों के लिए त्यागपत्र अनिवार्य करना",
+      "स्थानीय स्वशासन की शक्तियों का प्रसार करना"
+    ],
+    "q_en": "",
+    "q_hi": "130वें संविधान संशोधन विधेयक (2025) का प्राथमिक उद्देश्य क्या है?",
+    "section": "General Awareness",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "2",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "मृणालिनी साराभाई",
+      "रुक्मिणी देवी अरुंडेल",
+      "शोवना नारायण",
+      "अलार्मेल वल्ली"
+    ],
+    "q_en": "",
+    "q_hi": "भरतनाट्यम को पुनर्जीवित करने और कलाक्षेत्र फाउंडेशन की स्थापना का श्रेय किस शास्त्रीय नर्तक/नर्तकी को दिया जाता है?",
+    "section": "General Awareness",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "3",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "स्पोर्ट्समैन ऑफ द ईयर (Sportsman of the Year)",
+      "स्पोर्टस्टार ऑफ द ईयर (Sportstar of the Year)",
+      "स्पेशल रिकग्निशन गेम चेंजर अवॉर्ड (Special Recognition Game Changer Award)",
+      "लाइफटाइम अचीवमेंट अवॉर्ड (Lifetime Achievement Award)"
+    ],
+    "q_en": "",
+    "q_hi": "स्पोर्टस्टार एसेस अवार्ड्स 2025 में, ICC के नवनियुक्त अध्यक्ष जय शाह को कौन-सा पुरस्कार मिला?",
+    "section": "General Awareness",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "2",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "स्थानीय हस्तशिल्प को बढ़ावा देना",
+      "अंतर्राष्ट्रीय प्रतिस्पर्धात्मकता बढ़ाना और विदेशी निवेश आकर्षित करना",
+      "जनसंख्या वृद्धि बढ़ाना",
+      "सभी करों को समाप्त करना"
+    ],
+    "q_en": "",
+    "q_hi": "भारत के 1991 के व्यापार एवं निवेश नीति सुधारों का प्रमुख लक्ष्य निम्नलिखित में से क्या था?",
+    "section": "General Awareness",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "3",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "दक्षिण-पश्चिमी पठार क्षेत्र (सह्याद्री रेंज)",
+      "हिमालय क्षेत्र",
+      "उत्तर-पश्चिमी क्षेत्र (अरावली रेंज)",
+      "उत्तर-पूर्वी पठार क्षेत्र"
+    ],
+    "q_en": "",
+    "q_hi": "भारत में निम्नलिखित में से कौन-सा बेल्ट (belts), तांबा और जिंक खनिजों से समृद्ध है, जो मुख्य रूप से शैलों की धारवाड़ प्रणाली से संबंधित हैं?",
+    "section": "General Awareness",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "1",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "महात्मा गांधी",
+      "जवाहरलाल नेहरू",
+      "सरदार पटेल",
+      "सुभाष चंद्र बोस"
+    ],
+    "q_en": "",
+    "q_hi": "प्रथम गोलमेज सम्मेलन के बाद जब कांग्रेस ने भारत के ब्रिटिश वायसराय लॉर्ड इरविन के साथ सीधी बातचीत करने के लिए एक वार्ताकार नियुक्त किया, तो निम्नलिखित में से किस नेता को इस भूमिका के लिए चुना गया था?",
+    "section": "General Awareness",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "2",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "फिलीपींस",
+      "पनामा",
+      "वियतनाम",
+      "इंडोनेशिया"
+    ],
+    "q_en": "",
+    "q_hi": "फरवरी 2025 में, किस देश ने चीन के साथ 2017 के समझौता ज्ञापन का नवीनीकरण न करने का निर्णय लेकर चीन की बेल्ट एंड रोड इनिशिएटिव (BRI) से स्‍वयं को अलग कर लिया?",
+    "section": "General Awareness",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "3",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "हिमनद हिमोढ़",
+      "वलित पर्वत",
+      "रिफ्ट घाटियां",
+      "प्रवाल द्वीप"
+    ],
+    "q_en": "",
+    "q_hi": "निम्नलिखित में से क्या, भारत के प्रायद्वीपीय पठार की एक प्रमुख विशेषता है?",
+    "section": "General Awareness",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "1",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "जब राज्यसभा में राष्ट्रीय हित में दो-तिहाई बहुमत से प्रस्ताव पारित किया जाता है।",
+      "जब राष्ट्रपति द्वारा बिना सिफारिश के अनुमति प्रदान की जाती है।",
+      "जब लोकसभा में राष्ट्रीय हित में साधारण बहुमत से प्रस्ताव पारित किया जाता है।",
+      "जब किसी राज्य का राज्यपाल केंद्र सरकार से हस्तक्षेप का अनुरोध करता है।"
+    ],
+    "q_en": "",
+    "q_hi": "निम्नलिखित में से किस परिस्थिति में संसद राज्य सूची के किसी विषय पर विधि बना सकती है?",
+    "section": "General Awareness",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "2",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "रेलवे",
+      "राजमार्ग",
+      "हवाई अड्डे",
+      "स्मार्ट सिटी"
+    ],
+    "q_en": "",
+    "q_hi": "भारतमाला परियोजना किस प्रकार के अवसंरचना विकास से संबंधित है?",
+    "section": "General Awareness",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "2",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "वह महाराष्ट्र के एक प्रसिद्ध सितार वादक हैं।",
+      "वह पश्चिम बंगाल के एक प्रसिद्ध ढाक वादक हैं।",
+      "वह दिल्ली के एक समकालीन चित्रकार हैं।",
+      "वह तमिलनाडु के एक शास्त्रीय गायक हैं।"
+    ],
+    "q_en": "",
+    "q_hi": "2025 में, गोकुल चंद्र दास को कला के क्षेत्र में पद्म श्री से सम्मानित किया गया। निम्नलिखित में से कौन-सा कथन सही है?",
+    "section": "General Awareness",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "3",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "भगवान कृष्ण, उत्तर प्रदेश",
+      "देवी दुर्गा, पश्चिम बंगाल",
+      "भगवान जगन्नाथ, ओडिशा",
+      "भगवान शिव, तमिलनाडु"
+    ],
+    "q_en": "",
+    "q_hi": "पट्टाचित्र चित्रकारी परंपरागत रूप से किस देवी/देवता और क्षेत्र से संबंधित है?",
+    "section": "General Awareness",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "4",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "3",
+      "8",
+      "5.5",
+      "13.6"
+    ],
+    "q_en": "",
+    "q_hi": "एक सेल में, 60% वस्तुओं को 27% के लाभ पर बेचा जाता है। शेष बची वस्तुओं में से, 30% को  39% के लाभ पर बेचा जाता है और शेष को 26% की हानि पर बेचा जाता है। यदि समग्र लाभ x% है, तो x का मान ज्ञात कीजिए।",
+    "section": "Arithmetical and Numerical Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "4",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "4 cm",
+      "6 cm",
+      "10 cm",
+      "8 cm"
+    ],
+    "q_en": "",
+    "q_hi": "यदि किसी गोलाकार गुब्बारे की त्रिज्या 2 cm बढ़ा दी जाए, तो उसका पृष्ठीय क्षेत्रफल 352 cm<sup>2 </sup>बढ़ जाता है। बढ़ाने बाद गुब्बारे की त्रिज्या कितनी होगी?",
+    "section": "Arithmetical and Numerical Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "1",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "36, 60",
+      "35, 61",
+      "45, 51",
+      "40, 56"
+    ],
+    "q_en": "",
+    "q_hi": "दो संख्याओं का अनुपात 3 : 5 हैं। यदि संख्याओं का योग 96 है, तो संख्याएं ज्ञात कीजिए।",
+    "section": "Arithmetical and Numerical Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "2",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "<img align=\"middle\" alt=\"18 square root of 3\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mn»18«/mn»«msqrt»«mn»3«/mn»«/msqrt»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAC0AAAAWCAYAAABUpxX0AAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAASM53j1gAAAfBJREFUeNrVljFIAmEUxw9pOEIiKXGowCnEXXKoLSIkGoJosKaiwakxaBEighB0jYgIiaKloUWIqIaGUEgaosXCoSEcigaLlOr/wV84ru/Ovjso7sFv8N275/++733vfZr2vxYG3ZqHLA6+HPJvtg6eQa9XVrkD1MCql0pjnNsc9pLofVB0m2QALDJZ3SImCa7AO/gAZTDv4L9Et3gDC5JnQ+CS+V/BNuixSnRDEVanM0V/DuisyQx9S4qiZ0FDcgCjYIW5u8Am85/ZJfPZiK7R75PEvyiKLnJHZQsj01Nvl9BKdIX+KVNJCd+hguB+vjNhsWhGizB2w6noBOuszjr2gwuwCzoVRKe5a/42cTFwy3LUnIoWNgKqfP7EtqVqDxwqdpYw6BD1HHQjOgTyLIeW8DFJ3CgPk9mG+V78l92sxPi8U9FRikzy9xzLxVznafoykhw74FphV2JuD2JZ0j2m6atKRDe5My3TWcvLCqJdd487+gOSpCVT7Az955LerDK2+5hnzy4oZBAdkkzDVnsLsGbX2KMjFh/5yS0WdgSO24gUO7bFCSgOXwE8SrT8WGG7e2uKZdLkKD9hrctskKLv2ZsbFmPbaDnDFaHCcxHU/tgK/PBT1rPuhZuczhUWwg+8dAXNUvSk5jHLWgwbx/YNpo2kmSSm95sAAABjdEVYdE1hdGhNTAA8bWF0aCB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMTk5OC9NYXRoL01hdGhNTCI+PG1uPjE4PC9tbj48bXNxcnQ+PG1uPjM8L21uPjwvbXNxcnQ+PC9tYXRoPq4hEVcAAAAASUVORK5CYII=\" style=\"max-width: none;\">",
+      "<img align=\"middle\" alt=\"12 square root of 3\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mn»12«/mn»«msqrt»«mn»3«/mn»«/msqrt»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAC0AAAAWCAYAAABUpxX0AAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAASM53j1gAAAcVJREFUeNpjYBhYoADEAgxDCFgA8X8y8YCBdiB+D8QiQyWUWYD4NRA3D6Wk4QGNZoWh5OjlQHyaUkNkgTgNatg3HGosgfgaEP8C4udA3AGNZlIBqLT4DsQpWOTMgfgo1I5PQDwXiIVxGXQJiC/gyZ2CSI5UgjoepK6HDEfHAPFvLBlQC4iroXbwAfFMqB378RnGhMfRiWihaglV94UMR5+Gxig6yMLhnm+EDCSlHCTKQDQgA9XngyPQkIEGVG0XtRzNBlW3iURHN0CLOh4C6kyhSXACsaFHjKPDoerMSXT0fWilgg94IbkDlJ5FqeXoc9CMgg244ChVbKBmWxBZmp2Bql9MDUcXQA3kwBH9uEqV+UB8noRYMaVWRrSGOlgYT5oF6f8DxOJI4hzQtFxBgqOpUnrIA/FuNAdHQzMMtvR+AEvZTEq1LQ01Zyk+ReJIjhZHk5ME4sc4momTsJh1A4j/QaMYBNYD8WYCjnwIxLOhgQLKfDuA+CkWt2CEMK526y08arywmKcGdfQ9aNn8G0e1jQxAxdsPaBV+F5ovRBnoDHZAPbUXmp45hkJLjgMawiCHrxhKTdB+qKP9GIYY6CezCYsTAADV/5fgLPO9bQAAAGN0RVh0TWF0aE1MADxtYXRoIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8xOTk4L01hdGgvTWF0aE1MIj48bW4+MTI8L21uPjxtc3FydD48bW4+MzwvbW4+PC9tc3FydD48L21hdGg+2SAWRAAAAABJRU5ErkJggg==\" style=\"max-width: none;\">",
+      "<img align=\"middle\" alt=\"24 square root of 3\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mn»24«/mn»«msqrt»«mn»3«/mn»«/msqrt»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAC0AAAAWCAYAAABUpxX0AAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAASM53j1gAAAdlJREFUeNpjYBhYoADEAgxDCFgA8X8y8YCBdiB+D8QiQyWUWYD4NRA3D6Wk4QGNZoWh5OjlQHyaUkMsgfgaEP8C4udA3AGNQnxgFZmZAlRafAfiFCxy5kB8FOqOT0A8F4iFsRkiiORIJajjQY7pwWNxNAU5OQaIf2PJgFpAXA11Bx8Qz4Savx+bIYlooWoJVfwFh6WyQHyGAkefhiYPdJCFxmeCmv+NWIPxKd4NxHpkOloGqscHixwTGl8DqraLGIPZoIo3YZErAeIMJI+R6ugGaFHHQ0CdKTSZTiDW4HCoY8zRxHWAeClabJDq6PvQSgUf8EIyG5SeRYkx+Bw0E6CH/g5opiXkaBccJY8NVL0FEW5AzjeLCSkugCrmQBPvwxLy2BzdgKfkmQ/E50mIFVNiMqI11MHCODImMQ0YmKP/ALE4kjgHNC1XkOBogqWHPLRUEEYri68RKGH+48kTB7CUzaRU29JQc5Zik5QE4sc4QnASGY4GgRtA/A8axSCwHog3E3DkQyCeDQ04UWgeeooWY3BwC0+0e5HpaDWoo+9By+bfOKptZAAq3n5Aq/C70HwhykBnsAPqqb3Q9MwxFFpyHNAQBjl8xVBqgvZDHe3HMMRAPxHNXJIAAGcunQM2O+ZtAAAAY3RFWHRNYXRoTUwAPG1hdGggeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzE5OTgvTWF0aC9NYXRoTUwiPjxtbj4yNDwvbW4+PG1zcXJ0Pjxtbj4zPC9tbj48L21zcXJ0PjwvbWF0aD6RawpxAAAAAElFTkSuQmCC\" style=\"max-width: none;\">",
+      "<img align=\"middle\" alt=\"36 square root of 3\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mn»36«/mn»«msqrt»«mn»3«/mn»«/msqrt»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAC0AAAAWCAYAAABUpxX0AAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAASM53j1gAAAehJREFUeNrVljFIQlEUhh8SIRFRlIRYIA4hrSE5NDZEhGtDbTVEQ3PQUNEQRKRrRDRI1BA0GBFE2BIRBi0hLSURDtEQNJhoVP+FX3lc7zPve4S8A9/g7/H6v3vOvecZRnMjCDoNF0UU/NikabEO3kGPW3a5BbyBNTe1xhjLHHST6QOQcbrIMLgCJfABdkF3nfwYOGLul+Z/idviE8w68TEIlthnHWCbpUsrcn3gnAsugyHg0TQ9DcqKA6jjw5iXPnuYXJB0P8iBGxBwUNUM28Ouj+qX5ggzeUPSr2m6y4HhPq494cBHTURAFiQkfcq0wCkogjxY0DS9wquu3aaPmhg3TZw0+7cSZ9Tn2HMh7rrQZjRM5zhU7PpQRj+45Q+SJr2gGJ+V3c9K+igfTI4R5kcbeDgrH3VLIx+AksJ0K7WiVH6hbSrW3QN3GlWJ1DuIRgOn9oGaX8oV2qvCtLi7e026l728qGHao2M6wOR9k7ZKzXwthahtSb+fpH6puJt1xrbKRzWewQ4nj4+HLi/tVBu4566GefpPwIvFxBKV+WaJRRyD1B8mG/FRjQT7UvTtI/vRZzENk8wtckBYDZkBmn7i3Vy2GNt2fPxrVK7JC/az1w1vcl7usDB+6KZX0DhNxwyXRdxi2NiOXytqoEOB3B3DAAAAY3RFWHRNYXRoTUwAPG1hdGggeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzE5OTgvTWF0aC9NYXRoTUwiPjxtbj4zNjwvbW4+PG1zcXJ0Pjxtbj4zPC9tbj48L21zcXJ0PjwvbWF0aD4fgvxdAAAAAElFTkSuQmCC\" style=\"max-width: none;\">"
+    ],
+    "q_en": "",
+    "q_hi": "उस समबाहु त्रिभुज का क्षेत्रफल (cm<sup>2</sup> में) ज्ञात कीजिए, जिसकी भुजा <img align=\"middle\" alt=\"4 square root of 3\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mn»4«/mn»«msqrt»«mn»3«/mn»«/msqrt»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACQAAAAWCAYAAACosj4+AAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAASM53j1gAAAYBJREFUeNpjYKAdUABiAYZBAiyA+D+ZmCagHYjfA7HIYAgdFiB+DcTNgyW6PKBBrzBYHLQciE9T29BVZCYwUK76DsQpWOTMgfgoEP8C4k9APBeIhYkxNJqCFB8DxL+xJGYtIK6Gpi8+IJ4JNX8/IQNlgfgMBQ46DY0ydJCFxmeCmv+NkIG7gViPTAfJQPX4YJFjQuNrQNV24TOwBIgzoGxyHNQAze48BNSZAvE1IJ6AT5EOEC9F4pPjoPvQAhEf8EIyG5R+RLEpYgPiHUAsSISDXKAJEx3YQNVbEOFw5HS6GJuCPmiWZCDgoAaoWA8WM+YD8XkSQtMUX6ImtrKDOegPEIsjiXNA004FCQ4iOpcRirJwqPgBLGUPKVWFNNScpZQ6CARuAPE/aLCDwHog3kzAvIdAPBtaMotC0+xTtJAm20FqUAfdg5Y9v3FUFcgAlMV/QKuNu9B0KErNum4H1MF7oemHY6BrdA5oyIActWKwNDP6oQ7yYxhEoB9HQUk2AAB4HHsTGLMCDgAAAGJ0RVh0TWF0aE1MADxtYXRoIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8xOTk4L01hdGgvTWF0aE1MIj48bW4+NDwvbW4+PG1zcXJ0Pjxtbj4zPC9tbj48L21zcXJ0PjwvbWF0aD4GU2h/AAAAAElFTkSuQmCC\" style=\"max-width: none;\"> cm है।",
+    "section": "Arithmetical and Numerical Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "3",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "50.2 kg",
+      "53.4 kg",
+      "51.2 kg",
+      "52.4 kg"
+    ],
+    "q_en": "",
+    "q_hi": "एक परिवार के 40 kg, 48 kg, 57 kg, 76 kg और 35 kg वजन वाले पांच सदस्यों का औसत वजन ज्ञात कीजिए।",
+    "section": "Arithmetical and Numerical Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "4",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "51",
+      "53",
+      "55",
+      "52"
+    ],
+    "q_en": "",
+    "q_hi": "यदि 16 व्यक्ति मिलकर 13 दिनों में 69 फीट गहरा कुआँ खोदते हैं तो 8 दिनों में 138 फीट गहरा कुआँ खोदने में कितने व्यक्तियों की आवश्यकता होगी?",
+    "section": "Arithmetical and Numerical Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "3",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "39",
+      "32",
+      "34.5",
+      "42.5"
+    ],
+    "q_en": "",
+    "q_hi": "<div style=\"margin-bottom:11px; margin-left:8px\"><span style=\"font-size:11pt\"><span style=\"line-height:107%\"><span style=\"font-family:Calibri,sans-serif\"> नीचे दिए गए रेखा आलेख में किसी विशेष सप्ताह के सातों दिनों का अधिकतम तापमान (डिग्री सेल्सियस में) दर्शाया गया है।<br>\n<br>\nआलेख का अध्ययन करें और निम्नलिखित प्रश्न का उत्तर दें।<br>\n<img loading=\"lazy\" src=\"data:image/png;base64,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\" style=\"max-width:100%;height:auto;\"></span></span></span></div>\n<span style=\"font-size:11.0pt\"><span style=\"line-height:107%\"><span style=\"font-family:&quot;Calibri&quot;,sans-serif\">सप्ताह के पहले चार दिनों (अर्थात रविवार से बुधवार तक) का औसत तापमान (डिग्री सेल्सियस में) ज्ञात कीजिए।<br>\n<br>\n<strong>Remarks:</strong></span></span></span><br>\nSunday = रविवार<br>\nMonday = सोमवार<br>\nTuesday = मंगलवार<br>\nWednesday = बुधवार<br>\nThursday = गुरुवार<br>\nFriday = शुक्रवार<br>\nSaturday = शनिवार<br>\nSeries 1 = सीरीज़ 1",
+    "section": "Arithmetical and Numerical Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "1",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "48 मिनट",
+      "30 मिनट",
+      "44 मिनट",
+      "37 मिनट"
+    ],
+    "q_en": "",
+    "q_hi": "A, B और C, 2400 m लम्‍बे एक वृत्‍ताकार ट्रैक पर क्रमशः 15 km/hr, 24 km/hr और 27 km/hr की चाल से दौड़ते हैं। यदि वे समान बिंदु से एक ही समय पर एक ही दिशा में दौड़ना शुरू करते हैं, तो वे कितने समय बाद पुनः आरंभिक बिंदु पर मिलेंगे?",
+    "section": "Arithmetical and Numerical Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "2",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "1825",
+      "1729",
+      "1720",
+      "1629"
+    ],
+    "q_en": "",
+    "q_hi": "1 जनवरी 2021 को एक पक्षी अभयारण्य में पक्षियों की एक विशेष प्रजाति की संख्या 1600 थी। यदि उनकी संख्या में दो वर्ष तक 5% की दर से वृद्धि हुई, और अगले एक वर्ष में 2% की कमी हुई, तो 1 जनवरी 2024 को उनकी कुल संख्या कितनी थी? (निकटतम प्राकृत संख्या तक पूर्णांकित)",
+    "section": "Arithmetical and Numerical Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "1",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "<img align=\"middle\" alt=\"855 over 242\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mfrac»«mn»855«/mn»«mn»242«/mn»«/mfrac»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACMAAAAlCAYAAADIgFBEAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAZpE86XgAAAfhJREFUeNrtVzFIAzEUPYpIEZdSRESK0KmIuEoRV5GOgjgUkeIiTh1cnaQgUop0EBxFXDo6CeLgKIh0KqXgcIhIcXGQIiLUf/AOcmmS+7lDXe7BG/r78vJzSf79cxw1ysR74ifxi9gm7ih0KWKfOAR7ETVa7GHQCTFNHCPWEatK2g1hEo9NhR9Ho8UbBqWk1Xmxd0l7S6yE+HE0Wjxh4nUhlkOsJcTyiH0Qz4jTCi+OxogSzskA52SSeEc8J04Iupr0+F8Uk3E0oVghujDwDt+aRjdF3CZ2oD2NqDHCy/4C2+IntGrQp/H0+jE1I5jHgDJ+b2Hb5HMkowCdE1MTQFtxm/zr6YaMdRn+rk0yXUycUVztB8O4WeJhiDdHM1J9/WucQdGrocYUBN0BCmQKh/QYN8+x1LCqsLdd33gl3OAsibjE/r8SG5pJOJoECRL8Kob/yAQJEvwJiuhZ/TfuEVoJE1qKaxrFJ4CMMCgvNNJ1Rg80jOkzgoqUfVH49lEhhw5QTsbWx6o6DzT/eY3XIrOamnxYGIfJleK/feKu9DqJ4sPGJkyWpPgC2kqHmYzOxwqP+E6WV3ktfUGEJaPysUIVhzMtxRuKFZqS0fmwsQyDbIR2g+vDwhxuSVaqJR1GPxTXJ4AZ4rNmxU2LZKL6BNAzPP6SRTLWPj/8ZuxCO2Rq9QAAAGZ0RVh0TWF0aE1MADxtYXRoIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8xOTk4L01hdGgvTWF0aE1MIj48bWZyYWM+PG1uPjg1NTwvbW4+PG1uPjI0MjwvbW4+PC9tZnJhYz48L21hdGg+/LUFUwAAAABJRU5ErkJggg==\" style=\"max-width: none;\">",
+      "<img align=\"middle\" alt=\"242 over 855\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mfrac»«mn»242«/mn»«mn»855«/mn»«/mfrac»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACMAAAAlCAYAAADIgFBEAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAZpE86XgAAAfhJREFUeNrtmDFIAzEYhY9SpIhLKSIiInQSEVcp4irSURCHIiIu4uTg6iSCiBRxEBxFunR0EoqDo1DEqUjB4RCR4tJBiohw/oFXyaVJ7s+16HIfvKHXl5c/1+SanOfpKZAapC/SG+mIlPbsVEnBAHJCZKVGeYSJTk4sbUrwBH3m9LCpVF9AyIfBP0mqa4pxzWEjQjqG72qkOU0xrjkshhByrfluj7QtdRTEzGGzhpB55fosqaKMOoiR48QD6UIzyhtMUm4xuhwndjE5M8r1smaEtmJMOWwWEJAzTESbuDksprBKcsqzpBGxUoIB5IQYJ70YRnzmUEzcnBBNy+0vOhQTNychIWGgBP+ohISEP0HsOe5JnziAPZK2NL4UqSUt0WZMj5EdNDrFNjGNg1eA7aPMKmOfwvEYeUejlDI6ca2teG9xWLPB8Rh5RscryqkxwHm6S146IYpd/5gmi+OxUsQ86WCejJDuSJekYcl3qNz+V01nHE8kiyQfAWLyLRt8o6QN6VB/HtNjRVR/Jb3mEAUtWfwZ3L1Wn54eZtCghM/r+NnUeaQyDZ/XpyfEo2Y1dZenH9HWZ+T7LsU8oeOsZmnXLe0mSAcR2RyP9i1UFQWlsSrauM1d9vGATGGSHmPleY4e1lNY/Fzf+EuoYS7JVKR3dWVDJxzPLz+c3+xCwgCdxAAAAGZ0RVh0TWF0aE1MADxtYXRoIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8xOTk4L01hdGgvTWF0aE1MIj48bWZyYWM+PG1uPjI0MjwvbW4+PG1uPjg1NTwvbW4+PC9tZnJhYz48L21hdGg+RQJcPwAAAABJRU5ErkJggg==\" style=\"max-width: none;\">",
+      "<img align=\"middle\" alt=\"955 over 242\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mfrac»«mn»955«/mn»«mn»242«/mn»«/mfrac»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACMAAAAlCAYAAADIgFBEAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAZpE86XgAAAelJREFUeNrtmLFLAzEYxY9SpIiLiEgRETp1EFcp/gfdi0OH0kXEQRxcHBxEBBHp0KHgIE4uIiJOheLgIC7iKFJwEBERN5EORajfwSuk6Zfcl7Tqcj94Q3MvL7kkl8s1CHhmSWekFumLdESaZHwJ0jupAzU9PUamSG+kC9IoKYvfD6QxzVtQGglVZfIkHiM1VMooZaso29a8V6RyRJ7EY+QDDaukmSHOoCycxkOMqI7EY+UbAUmtPCxrK793teF/ZRqTeKw8oGKB6UxLKwsXdUmpU2PyJB4j3fXxhGFOYs47mH+OFOkaT00wgIdlDUPaxlO1ic6ULHWy2jT6eiK5Id0KfM9D8rCEU3SMgHSEd5q0MwQPuwMvkx5JdcPuu4X1lcD1fWZTlHishGvjk3ROylt8J5j/cHeuGBqReGJiYn6Vzj8qJibmT8jhzNp94+4xB3SdU+Yx9cnpYVyplFEO0geWOkVmz/DJ6aOs9T6nfPtwzJDumM645jjtzi3DtQZpXrib2nJEjCDkkrm2QVrRXic+OWKWELKglc/hWBkIO2PKceIe38n6XdaxSKWd4XKcWMfiTGnlFeYObZ0x5YhZRMCEx3FDmiP+bmpoAUXsFVHnoUFz+v6LeTHccdWhM745PTQtw5936Ixzzg9TcuXWJZ4guAAAAGZ0RVh0TWF0aE1MADxtYXRoIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8xOTk4L01hdGgvTWF0aE1MIj48bWZyYWM+PG1uPjk1NTwvbW4+PG1uPjI0MjwvbW4+PC9tZnJhYz48L21hdGg+MysSmwAAAABJRU5ErkJggg==\" style=\"max-width: none;\">",
+      "<img align=\"middle\" alt=\"242 over 955\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mfrac»«mn»242«/mn»«mn»955«/mn»«/mfrac»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACMAAAAlCAYAAADIgFBEAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAZpE86XgAAAeRJREFUeNrtmLFLAzEUxo9SRMRFikgRETp1EFcp/gfuxcGhuIg4iIOLg4OIICIdHAodxKmLiIiTIA4O4iKOpRQcRETETcShCPEFvkoaX3Lvrocu94Nv6N2X73K5JOYZBDwlUpPUIb2QdknZwM8xSSWQ08OI0aiAMP2QfU+bBXhUnzm/WLR6X0LIh8M/QbpjOhM1R4wO+XTcuyRNM52JmiNiACHnzL110rLxIBUzR8w8Qmas61OkhvXWKkZOJO5JdeYtLzBJpZ3hciKxhsk5aF2vMm/o64wrR8wsAnKOieiTNEfEJFZJztpLmiErRSWQ00Oe9OR444MInYmb00PbM/xzEToTNyclJSVR1D8qJSXlT9DnkBOc5HVpcUgaZXwZ0quxRNsxPU7GUP2dkYZIRfzWB6Jhy1sWnFMkHic1NCoY11ZwbcvyXqFY8yHxOHljdsU8M8QFo0KsY0RtJB4vXwjIMn8uOsbvHWv4n5mHSTxeugV6WVCa6kldMdrUmDyJx0l3fjxgmLP45grfn0PXQ9dYNUEfHpZVDGkHq2oDnal42hStzxjXE8oN6Vbge0zIw6I/0REC8iHecdJ2Ah52B14itVDgc7vvJuZXBvf3mE1R4gk98b2TTkOKrYbxv7qq4yESzw/fZi/l1rhRKJkAAABmdEVYdE1hdGhNTAA8bWF0aCB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMTk5OC9NYXRoL01hdGhNTCI+PG1mcmFjPjxtbj4yNDI8L21uPjxtbj45NTU8L21uPjwvbWZyYWM+PC9tYXRoPt5xtusAAAAASUVORK5CYII=\" style=\"max-width: none;\">"
+    ],
+    "q_en": "",
+    "q_hi": "<img align=\"middle\" alt=\"4 cross times square root of 11 over 161051 end root plus 3.5\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mn»4«/mn»«mo»§#215;«/mo»«msqrt»«mfrac»«mn»11«/mn»«mn»161051«/mn»«/mfrac»«/msqrt»«mo»+«/mo»«mn»3«/mn»«mo».«/mo»«mn»5«/mn»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,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\" style=\"max-width: none;\"> का मान ज्ञात कीजिए।",
+    "section": "Arithmetical and Numerical Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "3",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "5",
+      "7",
+      "4",
+      "8"
+    ],
+    "q_en": "",
+    "q_hi": "वह सबसे बड़ी संख्या कौन-सी है, जिसे 37 और 60 से विभाजित करने पर शेषफल क्रमशः 1 और 4 बचता है?",
+    "section": "Arithmetical and Numerical Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "4",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "<img align=\"middle\" alt=\"11 2 over 5 percent sign\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mn»11«/mn»«mfrac»«mn»2«/mn»«mn»5«/mn»«/mfrac»«mo»%«/mo»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADQAAAAlCAYAAAAN8srVAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAZpE86XgAAAdlJREFUeNpjYKAtsATia0D8C4ifA3EHELMwDFEgiOQBJajH/gNxz1D1UCJabFhCPfSFYRgBkIe+DRfPsEE9tGm4eCgc6iHz4eKhc0A8c7h4pgCIzwAxx3DwjDXUM8LDwTPyQLwbzTPR0DppyAFJIH4MLQjQ8aSh6KFbODwDwl4Mo4A0IAvEaUC8HE9NTowaalXAoPbeB6g984GYB4s6cXyFzSUgvoCUJMhVQw0wAWq+CzRp4spzewlV0kxEOJaJDh76gmQ+E44GbT0QFxHbePxPBTWUgG9YPPQDSR4UcxtIaQ0PtIcmISW5ACh7IVq+EaSnh/6TgZEBB9RT36AxMxOpUCCYbwZjDOECjdA2IbKnQXnrE7Qg4RhKHkLPN7CS0INASTgoPYQt38AKDiY8JeGg9BATtHGLnm9+YCkJv2ELCZhjxfGEFiE11ASgFkMGnpLQDYh90EpCvCUTqWqoCUB5YxUOOVAB0AdNZqDYmoKjeUSzZPMSKQBuDfWGb+hw6AuhNyITh0u3RAmpSJ1Jp4KEpqAVLbk9HQ6eEgXieAbEYP204ZL8QEXtQWiJN2yABgNkrmhYgYfDyTPSQNw8lD1QC8RZ0NYCqHDoomcThRZgKQNifrWPHp4BAMqPvRDXdj6TAAAAd3RFWHRNYXRoTUwAPG1hdGggeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzE5OTgvTWF0aC9NYXRoTUwiPjxtbj4xMTwvbW4+PG1mcmFjPjxtbj4yPC9tbj48bW4+NTwvbW4+PC9tZnJhYz48bW8+JTwvbW8+PC9tYXRoPvQeJJoAAAAASUVORK5CYII=\" style=\"max-width: none;\">",
+      "<img align=\"middle\" alt=\"12 2 over 3 percent sign\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mn»12«/mn»«mfrac»«mn»2«/mn»«mn»3«/mn»«/mfrac»«mo»%«/mo»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADQAAAAlCAYAAAAN8srVAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAZpE86XgAAAfBJREFUeNrtmDFIw0AUhkOQ0kGEIlJERHAS9yLFVUSKg5uDk4uIk7g6iJuISCkuRURERHASJ0HEya2IODgIDiLiKlJCcYnvwR84juTSlrbnPXzwQ0pCkq9377//4nndrSLpmfRD+iTtkPo8RyunAIwDLCTtuQq0rI1GEUB1T1AxUCAFJgOgKylAiwCakgL0QKpKgVkn1UhZCTDTgBmUADNGutFglrAmOVfDpHcYga6Ki0AvCTCskvdfrdUoaYV0bljJexU0M8h7X3iXY1J/zHV5k9k8kR6VKWEzaJZx7xlMzaSeu01bpH0DUC+DZl15Bz/hOVukjWbDY2g5aAYxQA3lPI/cZStpOGxynncraFaUKbeA4xOtb3KdBjIFzbANqZUFVICRqSqmkNo37QLZCJrbyIQqNPfWN4wk2y6QjaCp903khHMpTpgKZCNoxvVNZBy+wQlTgWwETR/P1PumEeOEQdw/EQHl/0jQ5IV71eCEs6R5zQmNzmQzaPJ9LxLOcf/uY5rxaB0kxKOOF0+Ve+Q/dqMjlzd6k6RNRKYB2DyP6J2rQGsJWdHZ73K+9nsCQLsS9lsF2HtZAkxJcUTunyEpO+IaoE6lbPMLnrCP9b40oBEAnbkK8EY6RDJgI7gmfcTkRGeqjJzFsecVQbPrDvcL1g3EbrBDW3wAAAB3dEVYdE1hdGhNTAA8bWF0aCB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMTk5OC9NYXRoL01hdGhNTCI+PG1uPjEyPC9tbj48bWZyYWM+PG1uPjI8L21uPjxtbj4zPC9tbj48L21mcmFjPjxtbz4lPC9tbz48L21hdGg+DQdGyQAAAABJRU5ErkJggg==\" style=\"max-width: none;\">",
+      "<img align=\"middle\" alt=\"18 2 over 5 percent sign\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mn»18«/mn»«mfrac»«mn»2«/mn»«mn»5«/mn»«/mfrac»«mo»%«/mo»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADQAAAAlCAYAAAAN8srVAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAZpE86XgAAAkdJREFUeNrtmdFHQ1Ecx68rmfRyJZMk9jT9A5n0lsz0kJgeJplIekrvSTKSzExiT5kkekqv00OPMZkektHDJJleJnNNYv0O32vHce69m3bGPfrxZTt37s7n3N/ve35nMwy1ESM9k75JH6Qj0pAR0LA4gAjA2qSToAKlhacRA1DT0CgYkK0LzDCAbnUBWgXQrC5Aj6SCLjA7pDIppAPMHGDGdICZJpUEmBT2pMDFBOkNRiAqH0SgqgsMU8L4j95iirRJuvLYyVnuP5BaaDYrpA1FGzDr9xqYyzlpVPK5sJfZPGGCTkqIsY3xHKx3CF/ahiX3M3K47wJS063m7vw2adMD6BPjpuTzjT4DNbk5mC4N7T5pt9vmUQb0ivEVIU3Z2HWfgWwJUIu7zp7cTS/dsAwogbqxUTcsp+9JRdJIn4HyXMot43VRqBvrr0As5kk1XK+T4j736EV8hABl48kUOFPwrZtegNjqXCDFHKjFATrxAWdADjSrrS/OrLoGmgFACu/XkIJiXakKsW4cJ4z7OKErUEXickmM1RTDyOrG5uZjeh3t3YBeMG5JbLusEMZEcyvWTUvihLZsJRygsKRLcCzawsaawR4UVQjENu8tDydkNbwkOKGnM4ndAku9H6xQCbWlKhIeexwzgCzSjM3l1KU9UpY2dW6RqkFvfJM6nIXEJjKty7EkwllqQWI2gYuMkG7vOkCNk9aNzo/1Z7qkXwgdel2no34UPaBWUdMJZpJ0GGSAPbRMJszheJAtioq4NDr/r2YHAfMLaHjN4VLVZPQAAAB3dEVYdE1hdGhNTAA8bWF0aCB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMTk5OC9NYXRoL01hdGhNTCI+PG1uPjE4PC9tbj48bWZyYWM+PG1uPjI8L21uPjxtbj41PC9tbj48L21mcmFjPjxtbz4lPC9tbz48L21hdGg+hXJdUgAAAABJRU5ErkJggg==\" style=\"max-width: none;\">",
+      "<img align=\"middle\" alt=\"16 2 over 3 percent sign\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mn»16«/mn»«mfrac»«mn»2«/mn»«mn»3«/mn»«/mfrac»«mo»%«/mo»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADQAAAAlCAYAAAAN8srVAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAZpE86XgAAAkZJREFUeNrtmF9EQ1Ecx68rM0lMZiaJPaXXTKbXJJP01sOeEkkPSa89ZG/JZKaXSZIk0kOSRLKnJCZJksgkk96S65qJ+h2+4zjO2R914hz9+DK/O9v93HN+v9/3XMfRGwnSPalKeiWtkNocQyPEAcQA9kXKmAo0JaxGAkCeY1EwIN8WmACAjmwBmgTQoC1A16S8LTALpCIpaAPMEGC6bIDpJZ0JMCnMJOMiSnpBIxCVMxHoUQHDlHT+o7XoIc2Q9pqc5OOkA9IH6VPDAGZ+7x33skXqkHwvUq/Z3JJuuC2hijCKnIEskwZI7i8DZXEPw9iaqpo7bzSk3QZArMhLpCtSt8bd4nH34CoMLXuYi82aRxXQJYBCmre/LwGqcNfZyh224oZlQCnkV0kn+IMyaV4DUI7bchP4vC3UTeinQKfIz3IHthJy04rfaEV8BAHl48HluabQsG6aBfIl+dqq/dXUT8MT8tAeGlRW5RNVQFVJPiDZ37pCrJtaJxxt0AmVQA/IRyXff9MMI6ub2o5x63TCukBp5Oe4XAy5NY0wLuaeWDcVSSf0ZU+iBhQRrrWT7rAafSjSY5hPnceCDBqRqhOOkMaETli3M4kuYQdPpwKbpHPAstrYV1wLYmd4uJd1hT369WBb5QJNhXWjTZMPev2kJcytTswTtuoFU4HmFF7R2Pdyogvv4+yT8RGHo8jaAJPkumYB3dKKE3ERUDu2HPPjjmUv613bgLoBtGsqwDNpA84gjENiWeITjYksfBazPU8wmto73DdP9ct1OajJMAAAAHd0RVh0TWF0aE1MADxtYXRoIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8xOTk4L01hdGgvTWF0aE1MIj48bW4+MTY8L21uPjxtZnJhYz48bW4+MjwvbW4+PG1uPjM8L21uPjwvbWZyYWM+PG1vPiU8L21vPjwvbWF0aD79an7EAAAAAElFTkSuQmCC\" style=\"max-width: none;\">"
+    ],
+    "q_en": "",
+    "q_hi": "एक टेलीविजन का अंकित मूल्य ₹60,000 है। त्योहारों के दौरान इस पर कुछ प्रतिशत की छूट दी जाती है। मिस्टर गोपाल ने इसे छूट प्राप्‍त मूल्‍य पर खरीदा। उन्होंने इसे ₹70,000 में बेचकर 40% का लाभ प्राप्त किया। इस पर दी गई छूट का प्रतिशत ज्ञात कीजिए।",
+    "section": "Arithmetical and Numerical Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "1",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "4,300",
+      "3,800",
+      "4,700",
+      "4,500"
+    ],
+    "q_en": "",
+    "q_hi": "किस धनराशि (₹ में) पर 10% वार्षिक दर से 2 वर्षों में ₹860 साधारण ब्याज प्राप्त होगा?<br>",
+    "section": "Arithmetical and Numerical Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "2",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "<img align=\"middle\" alt=\"12\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mn»12«/mn»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAANCAYAAACkTj4ZAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAMyZLetQAAAKBJREFUeNpjYIAAWSBOA+LlQPyNATuwBOJrQPwLiJ8DcQcQs6ArugTEF4D4PxSjA0EkjUpQA0HqerDZyITHoEQ02y2h6r7gcD1Og3Cp/UapQWxQdZsoNSgcqs6cUoPOAfFMQv4mZFABEJ8BYg5KDLKGGiJMTEzgMkgeiHejGRINTVMoQBzJIHE0OUkgfowkj4wnYXMJOoaBW3jUeDFQEwAACYc/yTOSnL4AAABKdEVYdE1hdGhNTAA8bWF0aCB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMTk5OC9NYXRoL01hdGhNTCI+PG1uPjEyPC9tbj48L21hdGg+MyRq/AAAAABJRU5ErkJggg==\" style=\"max-width: none;\">",
+      "<img align=\"middle\" alt=\"16\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mn»16«/mn»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAANCAYAAACkTj4ZAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAMyZLetQAAAMZJREFUeNpjYIAAWSBOA+LlQPyNgTDwA+I1QPwJiP8gS1wC4gtA/B+KcQFRIN4NNaAeiI2BmAldERMBgySB+D4QnwRiaUJOxmfQcahBgkR4HadB0VDxLiDeBsQ/gPgpEOeRatAOqHgGELMAsRLUdSCxZFIM+oZFHObKa6QY9AuLOBtU7AcpBt2AiktiUf+SFIMaoeJZSGJKULE+dMXiSAaJo8lxAfEVqO0aQMwDxFuA+DEQC2NzCTpGT9WLoWHyA5qdpBmoDQCDLUbQlfW4WwAAAEp0RVh0TWF0aE1MADxtYXRoIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8xOTk4L01hdGgvTWF0aE1MIj48bW4+MTY8L21uPjwvbWF0aD7znQBqAAAAAElFTkSuQmCC\" style=\"max-width: none;\">",
+      "<img align=\"middle\" alt=\"18\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mn»18«/mn»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAANCAYAAACkTj4ZAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAMyZLetQAAAM1JREFUeNpjYIAAWSBOA+LlQPyNATuIBuKTQPwDiH8B8QUgTkZXdAkq8R+K0UEWVHwCEHMAMQsQ90DFCtAVM+Ex6DVUnAmL+g/YnI/LoLtQ8SAkMVmo2CpSDPKChss3aLjwAPFBIF4IxFykGAQCtkD8ECr/Eog9GPAAfAaJA/FiqFdghrmRapAWVGM0lB8L9Sp6uBE06AKWWAuFij0kxaAbUHFBLNF/BlsYwAwSx5KqYVEtCE2QrdA0pIHNJegYPXWDvPgHmk12Q8OOugAAbvxMgqZ5b84AAABKdEVYdE1hdGhNTAA8bWF0aCB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMTk5OC9NYXRoL01hdGhNTCI+PG1uPjE4PC9tbj48L21hdGg+CXsM2gAAAABJRU5ErkJggg==\" style=\"max-width: none;\">",
+      "<img align=\"middle\" alt=\"15\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mn»15«/mn»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAANCAYAAACkTj4ZAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAMyZLetQAAAJ1JREFUeNpjYIAAWSBOA+LlQPyNATdgAuKXQPwfim+hK7gExBeQFOACoUhqQHgSLtsIGbQXiBMZiAD4DFKCyn0B4plALE6uQa1o3nqKzzBCXhMF4nggvgZVN41cg2CAA4gPQmOQIoNAQAOIf1HDIBB4SA2DpIG4GZuEOJJB2GKjFoizoOkNFOhdQMyDyyXoGBkshYbJcyDuw2YIVQAAwlE5x+NTSqcAAABKdEVYdE1hdGhNTAA8bWF0aCB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMTk5OC9NYXRoL01hdGhNTCI+PG1uPjE1PC9tbj48L21hdGg+TldspAAAAABJRU5ErkJggg==\" style=\"max-width: none;\">"
+    ],
+    "q_en": "",
+    "q_hi": "दो पेंटर P और Q एक फ्लैट को 12 दिनों में पेंट करते हैं। यदि P अकेले उसी फ्लैट को 48 दिनों में पेंट कर सकता है, तो Q अकेले उसी पेंट के कार्य को कितने दिनों में पूरा कर सकता है?",
+    "section": "Arithmetical and Numerical Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "2",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "8",
+      "9",
+      "11",
+      "10"
+    ],
+    "q_en": "",
+    "q_hi": "16 cm ऊंचाई और 12 cm आधार त्रिज्या वाले एक ठोस लोहे के शंकु को पिघलाकर 4 cm त्रिज्या वाले ठोस गोले बनाए जाते हैं। बनाए गए गोलों की संख्या ज्ञात कीजिए।",
+    "section": "Arithmetical and Numerical Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "1",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "19.8",
+      "20.2",
+      "21.9",
+      "21.4"
+    ],
+    "q_en": "",
+    "q_hi": "एक व्यक्ति A से B तक 18 km/hr की चाल से यात्रा करता है और B से A तक 22 km/hr की चाल से वापस आता है। उसकी औसत चाल (km/hr में) ज्ञात कीजिए।",
+    "section": "Arithmetical and Numerical Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "1",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "992",
+      "932",
+      "1,032",
+      "962"
+    ],
+    "q_en": "",
+    "q_hi": "₹6,510 को A, B, C और D के बीच इस प्रकार विभाजित किया जाता है कि A और B, B और C, तथा C और D के हिस्से का अनुपात क्रमशः 2 : 3, 4 : 5 और 6 : 7 है। A का हिस्सा (₹ में) ज्ञात कीजिए।",
+    "section": "Arithmetical and Numerical Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "3",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "12.25",
+      "11.75",
+      "11.25",
+      "12.75"
+    ],
+    "q_en": "",
+    "q_hi": "एक बर्तन में 20 लीटर दूध है। इस बर्तन से, 5 लीटर दूध निकालकर उसकी जगह पानी डाल दिया जाता है। यह प्रक्रिया एक बार फिर दोहराई जाती है। बर्तन में शेष दूध की मात्रा (लीटर में, दो दशमलव स्थानों तक पूर्णांकित) ज्ञात कीजिए।",
+    "section": "Arithmetical and Numerical Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "3",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "15.23%",
+      "12.56%",
+      "20.63%",
+      "18.72%"
+    ],
+    "q_en": "",
+    "q_hi": "प्याज की कीमत 26% बढ़ जाती है। एक गृहिणी को प्याज पर व्‍यय को समान रखने के लिए प्याज की खपत कितने प्रतिशत (दशमलव के दो स्थानों तक सही) कम करनी चाहिए?",
+    "section": "Arithmetical and Numerical Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "2",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "18.18%",
+      "17.19%",
+      "15.16%",
+      "25.27%"
+    ],
+    "q_en": "",
+    "q_hi": "एक दुकानदार ₹240/kg और ₹280/kg मूल्य वाली दो प्रकार की चायपत्ती को 3:2 के अनुपात में मिश्रित करके उस मिश्रण को ₹300/kg मूल्य पर बेचता है। लाभ प्रतिशत ज्ञात कीजिए। (दो दशमलव स्थानों तक पूर्णांकित कीजिए)",
+    "section": "Arithmetical and Numerical Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "1",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "SQPR",
+      "PQRS",
+      "QRSP",
+      "QSPR"
+    ],
+    "q_en": "",
+    "q_hi": "Rearrange all the segments to form a coherent statement.<br><br>was shrouded in darkness (P) / the abandoned house (Q) / creaking with every gust of wind (R) / standing at the edge of the forest (S)",
+    "section": "English Language and Comprehension",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "2",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "an / a",
+      "the / the",
+      "the / a",
+      "a / a"
+    ],
+    "q_en": "",
+    "q_hi": "Choose the appropriate option to complete the sentence.<br><br>Dr. Meera emphasized ___ importance of ethics in journalism and highlighted ___ role of responsible reporting in shaping society.",
+    "section": "English Language and Comprehension",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "2",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "impulsively",
+      "unanimously",
+      "leisurely",
+      "melancholy"
+    ],
+    "q_en": "",
+    "q_hi": "Select the most appropriate option that can substitute the underlined words in the given sentence.<br>The council <u>having the agreement and consent of all</u> resolved to remove it.",
+    "section": "English Language and Comprehension",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "2",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "compete",
+      "endure",
+      "persuade",
+      "admit"
+    ],
+    "q_en": "",
+    "q_hi": "Select the most appropriate option that can substitute the underlined words in the given sentence.<br>Unless you have a sound attitude of mind, a right psychology, you cannot construct or reconstruct anything that will <u>remain firm</u>.",
+    "section": "English Language and Comprehension",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "1",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "conceal",
+      "acknowledge",
+      "declare",
+      "admit"
+    ],
+    "q_en": "",
+    "q_hi": "Select the option that is the most appropriate antonym of the highlighted word in the given sentence.<br>She decided to <strong>confess </strong>her mistake and tell the truth.",
+    "section": "English Language and Comprehension",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "2",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "sweetness, gentleness",
+      "sweet, gentle",
+      "sweetly, gently",
+      "sweeter, gentle"
+    ],
+    "q_en": "",
+    "q_hi": "Choose the most appropriate option to fill in the given blanks.<br><br>Her voice was ___ and her tone was ___.",
+    "section": "English Language and Comprehension",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "2",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "positive",
+      "brief",
+      "ambiguous",
+      "alternative"
+    ],
+    "q_en": "",
+    "q_hi": "Select the most appropriate antonym of the underlined word in the given sentence.<br><br>He wrote an <u>extensive</u> report.",
+    "section": "English Language and Comprehension",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "1",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "A fair-weather friend",
+      "A man of letters",
+      "A man of means",
+      "A gentleman at large"
+    ],
+    "q_en": "",
+    "q_hi": "In the following question a statement has been given with highlighted text. You are required to replace the text with the correct idiom from the given alternatives.<br><br>Although he seems trustworthy, in reality he is <strong>an unreliable person</strong> who often cheats his friends.",
+    "section": "English Language and Comprehension",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "3",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "over, into",
+      "upon, into",
+      "on, in",
+      "above, onto"
+    ],
+    "q_en": "",
+    "q_hi": "Choose the most appropriate option to fill in the given blanks.<br><br>The book is ___ the table and the pen is ___ the drawer.",
+    "section": "English Language and Comprehension",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "3",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "PRSQ",
+      "PSRQ",
+      "PQRS",
+      "RQSP"
+    ],
+    "q_en": "",
+    "q_hi": "The following sentence has been divided into segments. While the first segment (S1) is in the correct order, the segments below it are jumbled up. Arrange the segments in the correct order to form a meaningful and coherent sentence.<br><br><strong>Fixed segment:</strong><br>As the sun dipped below the horizon, (S1)<br><br><strong>Jumbled segments:</strong><br>painting the sky in hues of orange and pink (P)/ a cool breeze rustled the leaves (Q)/ casting long shadows across the fields (R)/ and the world seemed to pause for a moment (S)",
+    "section": "English Language and Comprehension",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "3",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "No article required",
+      "a",
+      "the",
+      "an"
+    ],
+    "q_en": "",
+    "q_hi": "Select the most appropriate article to fill in the blank. If no article is needed, select 'No article required'.<br>She visited ______ Taj Mahal during her vacation in Agra.",
+    "section": "English Language and Comprehension",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "3",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "Misconduct",
+      "Professional",
+      "Aleggations",
+      "Several"
+    ],
+    "q_en": "",
+    "q_hi": "Parts of the given sentence have been underlined. One of them may contain a spelling error. Select the option with a misspelt word. <br><br><u>Several</u> of her patients have made <u>aleggations</u> of <u>professional</u> <u>m</u><u><u>i</u>sconduct</u> against her.",
+    "section": "English Language and Comprehension",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "1",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "of embarrassment made",
+      "She spoke eloqeuently",
+      "yet a sudden surege",
+      "her loose her train of thought."
+    ],
+    "q_en": "",
+    "q_hi": "Identify the misspelt word in the sentence and choose the option that has the  correct spelling.<br>She spoke eloquently, yet a sudden surge of embarassment made her lose her train of thought.",
+    "section": "English Language and Comprehension",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "1",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "elbow grease is the best polish",
+      "fair exchange is no robbery",
+      "easier said than done",
+      "great oaks grow from small acorns"
+    ],
+    "q_en": "",
+    "q_hi": "In the following sentence, a segment is highlighted. You are required to replace the highlighted text with the correct proverb from the given options. <br>She finally achieved a spotless kitchen because she believes that <strong>hard work produces the best results</strong>.",
+    "section": "English Language and Comprehension",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "1",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "after",
+      "unless",
+      "whereas",
+      "until"
+    ],
+    "q_en": "",
+    "q_hi": "Complete the sentence with the appropriate word.<br><br>The proposal was accepted ______ minor revisions were made to the final draft.",
+    "section": "English Language and Comprehension",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "2",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "Pope Julius II and his Love for Fresco",
+      "Michelangelo and the Pinnacle of Fresco Painting",
+      "The Art and History of Sculpture",
+      "The History of Italian Plaster"
+    ],
+    "q_en": "",
+    "q_hi": "<b>Comprehension:</b><br>Read the passage carefully and answer the following questions.<br><br>Fresco painting, derived from the Italian word fresco meaning \"fresh,\" is a celebrated mural technique that involves applying water-based pigments to freshly laid lime plaster. The process begins with preparing the wall surface by spreading wet plaster, which must remain damp to absorb the pigments effectively. As the plaster dries, the pigments chemically bond with it, making the artwork a permanent part of the wall. This method, known as <em>buon fresco</em>, requires the artist to work swiftly and precisely, completing each section—called a \"giornata\" or \"day’s work\"—before the plaster sets. This technique reached its pinnacle during the Italian Renaissance, most notably through the work of Michelangelo. Though he considered himself primarily a sculptor, Michelangelo was commissioned by Pope Julius II to paint the ceiling of the Sistine Chapel, a project he undertook from 1508 to 1512. The ceiling features over 300 figures from the Book of Genesis, including the iconic Creation of Adam, which showcases his mastery of human anatomy and expressive composition. Michelangelo returned to the Sistine Chapel decades later to paint The Last Judgment on the altar wall (1536–1541), a dramatic and emotionally charged fresco that reflects his evolving style and deepening psychological insight. Despite his personal frustrations with the medium, Michelangelo’s frescoes remain monumental achievements in art history. His disciplined approach and visionary execution transformed the Sistine Chapel into a lasting testament to the power of fresco as both a technical and expressive form.<br>Identify the most appropriate title for the passage.",
+    "section": "English Language and Comprehension",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "4",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "Michaelangelo was moody and did not agree to the commission for Sistine Chapel",
+      "Pope Julius II was the greatest Fresco painter of Italian Rennaisance",
+      "The technique Buon Fresco requires artists to work very slowly and patiently",
+      "Michaelangelo's artistic style and psychology evolved over time and his frescoes reflect it"
+    ],
+    "q_en": "",
+    "q_hi": "<b>Comprehension:</b><br>Read the passage carefully and answer the following questions.<br><br>Fresco painting, derived from the Italian word fresco meaning \"fresh,\" is a celebrated mural technique that involves applying water-based pigments to freshly laid lime plaster. The process begins with preparing the wall surface by spreading wet plaster, which must remain damp to absorb the pigments effectively. As the plaster dries, the pigments chemically bond with it, making the artwork a permanent part of the wall. This method, known as <em>buon fresco</em>, requires the artist to work swiftly and precisely, completing each section—called a \"giornata\" or \"day’s work\"—before the plaster sets. This technique reached its pinnacle during the Italian Renaissance, most notably through the work of Michelangelo. Though he considered himself primarily a sculptor, Michelangelo was commissioned by Pope Julius II to paint the ceiling of the Sistine Chapel, a project he undertook from 1508 to 1512. The ceiling features over 300 figures from the Book of Genesis, including the iconic Creation of Adam, which showcases his mastery of human anatomy and expressive composition. Michelangelo returned to the Sistine Chapel decades later to paint The Last Judgment on the altar wall (1536–1541), a dramatic and emotionally charged fresco that reflects his evolving style and deepening psychological insight. Despite his personal frustrations with the medium, Michelangelo’s frescoes remain monumental achievements in art history. His disciplined approach and visionary execution transformed the Sistine Chapel into a lasting testament to the power of fresco as both a technical and expressive form.<br>Identify the correct inference that can be drawn from the passage.",
+    "section": "English Language and Comprehension",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "1",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "expository",
+      "cause and effect",
+      "argumentative",
+      "compare and contrast"
+    ],
+    "q_en": "",
+    "q_hi": "<b>Comprehension:</b><br>Read the passage carefully and answer the following questions.<br><br>Fresco painting, derived from the Italian word fresco meaning \"fresh,\" is a celebrated mural technique that involves applying water-based pigments to freshly laid lime plaster. The process begins with preparing the wall surface by spreading wet plaster, which must remain damp to absorb the pigments effectively. As the plaster dries, the pigments chemically bond with it, making the artwork a permanent part of the wall. This method, known as <em>buon fresco</em>, requires the artist to work swiftly and precisely, completing each section—called a \"giornata\" or \"day’s work\"—before the plaster sets. This technique reached its pinnacle during the Italian Renaissance, most notably through the work of Michelangelo. Though he considered himself primarily a sculptor, Michelangelo was commissioned by Pope Julius II to paint the ceiling of the Sistine Chapel, a project he undertook from 1508 to 1512. The ceiling features over 300 figures from the Book of Genesis, including the iconic Creation of Adam, which showcases his mastery of human anatomy and expressive composition. Michelangelo returned to the Sistine Chapel decades later to paint The Last Judgment on the altar wall (1536–1541), a dramatic and emotionally charged fresco that reflects his evolving style and deepening psychological insight. Despite his personal frustrations with the medium, Michelangelo’s frescoes remain monumental achievements in art history. His disciplined approach and visionary execution transformed the Sistine Chapel into a lasting testament to the power of fresco as both a technical and expressive form.<br>Choose an appropriate structure of the passage from the options given below.",
+    "section": "English Language and Comprehension",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "4",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "Deductive",
+      "Imperative",
+      "Assertive",
+      "Informative"
+    ],
+    "q_en": "",
+    "q_hi": "<b>Comprehension:</b><br>Read the passage carefully and answer the following questions.<br><br>Fresco painting, derived from the Italian word fresco meaning \"fresh,\" is a celebrated mural technique that involves applying water-based pigments to freshly laid lime plaster. The process begins with preparing the wall surface by spreading wet plaster, which must remain damp to absorb the pigments effectively. As the plaster dries, the pigments chemically bond with it, making the artwork a permanent part of the wall. This method, known as <em>buon fresco</em>, requires the artist to work swiftly and precisely, completing each section—called a \"giornata\" or \"day’s work\"—before the plaster sets. This technique reached its pinnacle during the Italian Renaissance, most notably through the work of Michelangelo. Though he considered himself primarily a sculptor, Michelangelo was commissioned by Pope Julius II to paint the ceiling of the Sistine Chapel, a project he undertook from 1508 to 1512. The ceiling features over 300 figures from the Book of Genesis, including the iconic Creation of Adam, which showcases his mastery of human anatomy and expressive composition. Michelangelo returned to the Sistine Chapel decades later to paint The Last Judgment on the altar wall (1536–1541), a dramatic and emotionally charged fresco that reflects his evolving style and deepening psychological insight. Despite his personal frustrations with the medium, Michelangelo’s frescoes remain monumental achievements in art history. His disciplined approach and visionary execution transformed the Sistine Chapel into a lasting testament to the power of fresco as both a technical and expressive form.<br>What is the correct tone of the passage?",
+    "section": "English Language and Comprehension",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "3",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "oracle",
+      "reek",
+      "peak",
+      "sneak"
+    ],
+    "q_en": "",
+    "q_hi": "<b>Comprehension:</b><br>Read the passage carefully and answer the following questions.<br><br>Fresco painting, derived from the Italian word fresco meaning \"fresh,\" is a celebrated mural technique that involves applying water-based pigments to freshly laid lime plaster. The process begins with preparing the wall surface by spreading wet plaster, which must remain damp to absorb the pigments effectively. As the plaster dries, the pigments chemically bond with it, making the artwork a permanent part of the wall. This method, known as <em>buon fresco</em>, requires the artist to work swiftly and precisely, completing each section—called a \"giornata\" or \"day’s work\"—before the plaster sets. This technique reached its pinnacle during the Italian Renaissance, most notably through the work of Michelangelo. Though he considered himself primarily a sculptor, Michelangelo was commissioned by Pope Julius II to paint the ceiling of the Sistine Chapel, a project he undertook from 1508 to 1512. The ceiling features over 300 figures from the Book of Genesis, including the iconic Creation of Adam, which showcases his mastery of human anatomy and expressive composition. Michelangelo returned to the Sistine Chapel decades later to paint The Last Judgment on the altar wall (1536–1541), a dramatic and emotionally charged fresco that reflects his evolving style and deepening psychological insight. Despite his personal frustrations with the medium, Michelangelo’s frescoes remain monumental achievements in art history. His disciplined approach and visionary execution transformed the Sistine Chapel into a lasting testament to the power of fresco as both a technical and expressive form.<br>Find the correct synonym for the word <strong>pinnacle </strong>in the passage.",
+    "section": "English Language and Comprehension",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "1",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "में",
+      "ने",
+      "का",
+      "से"
+    ],
+    "q_en": "",
+    "q_hi": "मेरे घर .........चार आदमी हैं । <br>उपर्युक्त वाक्य में रिक्त स्थान की पूर्ति के लिए उचित कारक  शब्द का चयन करें –",
+    "section": "Hindi Language and Comprehension",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "4",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "1324",
+      "2134",
+      "4132",
+      "2413"
+    ],
+    "q_en": "",
+    "q_hi": "नीचे दिए गए वाक्य खंडों को सही क्रम में व्यवस्थित करें -<br>1. कम्पन बढ़ <br>2. उसके हृदय <br>3. रहे थे <br>4. में जैसे",
+    "section": "Hindi Language and Comprehension",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "3",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "मेरा नाम शभूनाथ है।",
+      "नेपाल के राजा हिंदु हैं।",
+      "खरगोश निरीह पशु है।",
+      "संगीत में निरसता थी।"
+    ],
+    "q_en": "",
+    "q_hi": "नीचे दिए गए वाक्यों में से वर्तनी की दृष्टि से शुद्ध वाक्य का चयन कीजिए।",
+    "section": "Hindi Language and Comprehension",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "2",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "चतुर",
+      "प्रतिघात",
+      "नगर",
+      "अचर"
+    ],
+    "q_en": "",
+    "q_hi": "वाक्य में रेखांकित शब्द का सही विलोम चुनिए।<br>'रोहन ने सुरेश के साथ <u>घात</u> किया है ।'",
+    "section": "Hindi Language and Comprehension",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "4",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "विज्ञान",
+      "किताब",
+      "कुंजी",
+      "नियमित"
+    ],
+    "q_en": "",
+    "q_hi": "'परीक्षा में सफलता प्राप्त करने के लिए सलीम -----------------------पढ़ता है।' वाक्य के रिक्त स्थान के लिए क्रिया-विशेषण शब्द कौन-सा है?",
+    "section": "Hindi Language and Comprehension",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "1",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "शुभ",
+      "महत्ता",
+      "गौरव",
+      "गरिमा"
+    ],
+    "q_en": "",
+    "q_hi": "निम्नलिखित वाक्य के रेखांकित शब्द का पर्यायवाची कौन-सा नहीं है?<br>'सत्संग में आज श्री कृष्ण की <strong><u>महिमा </u></strong>का गुणगान हुआ।'",
+    "section": "Hindi Language and Comprehension",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "4",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "आत्मिक",
+      "मानसिक",
+      "बौद्धिक",
+      "आंतरिक"
+    ],
+    "q_en": "",
+    "q_hi": "निम्नलिखित वाक्य में रेखांकित शब्द के विलोम शब्द का चयन दिए गए विकल्पों में से कीजिए-<br>जगत के ‘<u><strong>बाह्य’</strong></u> रूप को देखकर मोहित न होइए।",
+    "section": "Hindi Language and Comprehension",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "3",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "जटिल",
+      "गंभीर",
+      "विशाल",
+      "भयानक"
+    ],
+    "q_en": "",
+    "q_hi": "उन्हें यह देखकर <u>बड़ा</u> आश्चर्य हुआ । <br>उपर्युक्त रेखांकित शब्द का पर्यायवाची क्या होगा ?",
+    "section": "Hindi Language and Comprehension",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "3",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "तमाशा दिखाना",
+      "घृणा दिलाना",
+      "पूरी तरह वश में करना",
+      "इलाज करना"
+    ],
+    "q_en": "",
+    "q_hi": "'नाक में नकेल डालना' मुहावरा का सही अर्थ क्या होगा ?",
+    "section": "Hindi Language and Comprehension",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "2",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "1 2 3 4 5",
+      "5 1 2 3 4",
+      "2 3 4 5 1",
+      "4 5 1 2 3"
+    ],
+    "q_en": "",
+    "q_hi": "दिए गए वाक्य को सही क्रम में लगाइए-<br>(1)किताब (2)पढ़ (3)रही (4)है (5)रिया",
+    "section": "Hindi Language and Comprehension",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "1",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "चला",
+      "सुला",
+      "घुला",
+      "उड़ा"
+    ],
+    "q_en": "",
+    "q_hi": "उपयुक्त 'क्रिया' का चयन कर रिक्त स्थान की पूर्ति कीजिए ।<br>'राघव साइकिल ..........................रहा है।'",
+    "section": "Hindi Language and Comprehension",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "2",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "सुकाल",
+      "अधिक",
+      "अभिज्ञ",
+      "क्षर"
+    ],
+    "q_en": "",
+    "q_hi": "निम्नलिखित विकल्पों में से रेखांकित शब्द का विलोम पहचानिए।<br>'इस वर्ष वर्षा अपेक्षाकृत <u>न्यून</u> होने के कारण फसल प्रभावित हो गई है।'",
+    "section": "Hindi Language and Comprehension",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "2",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "कहने की तीव्र",
+      "आकांछा",
+      "हो रही है ।",
+      "उसे कथा"
+    ],
+    "q_en": "",
+    "q_hi": "नीचे दिए गए वाक्य के किस भाग में वर्तनी संबंधी अशुद्धि है ?<br>उसे कथा कहने की तीव्र आकांछा हो रही है ।",
+    "section": "Hindi Language and Comprehension",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "2",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "तक",
+      "उधर",
+      "हरेक",
+      "नहीं"
+    ],
+    "q_en": "",
+    "q_hi": "दिए गए वाक्य के रिक्त स्थान में क्रिया-विशेषण शब्द का प्रयोग करें -<br>'पक्षी दाना चुगकर <u>               </u> उड़ गये।'",
+    "section": "Hindi Language and Comprehension",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "2",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "पढना",
+      "पढ़ाई",
+      "पढ़े",
+      "पढ़ते"
+    ],
+    "q_en": "",
+    "q_hi": "निम्नांकित विकल्पों में से उचित क्रिया का चयन करके वाक्य पूर्ण करें-<br>परीक्षा की तैयारी के लिए बच्चों ने सारी रात जागकर........... की।",
+    "section": "Hindi Language and Comprehension",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "1",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "पतन से",
+      "वैज्ञानिक प्रगति से",
+      "आर्थिक विकास से",
+      "सांस्कृतिक उत्थान से"
+    ],
+    "q_en": "",
+    "q_hi": "<b>Comprehension:</b><br>निम्नलिखित गद्यांश को ध्यानपूर्वक पढ़कर पूछे गये प्रश्नों के सही उत्तर दीजिए। <br>सत्यनिष्ठा जीवन का वह मूल्य है जो व्यक्ति को सत्य के मार्ग पर अडिग रखता है तथा सामाजिक व्यवस्था को मजबूत बनाता है। यह गुण न केवल व्यक्तिगत सफलता का आधार है बल्कि राष्ट्र निर्माण का भी प्राणतत्व है। भ्रष्टाचार और अनैतिकता के इस युग में सत्यनिष्ठा ही समाज को पतन से बचाती है। व्यक्तिगत स्तर पर सत्यनिष्ठा आत्मविश्वास बढ़ाती है तथा मानसिक शांति प्रदान करती है। कार्यालय में ईमानदार कर्मचारी को सम्मान प्राप्त होता है तथा प्रमोशन मिलता है। शिक्षा क्षेत्र में सत्यनिष्ठावान शिक्षक छात्रों को आदर्श प्रस्तुत करते हैं। राजनीति में यह जनसेवा को प्राथमिकता देती है। उद्योगपतियों के लिए सत्यनिष्ठा उपभोक्ता विश्वास अर्जित करती है। परिवार में सत्यनिष्ठा विश्वास का आधार बनती है तथा संतान को नैतिक मूल्य सिखाती है। सामाजिक जीवन में यह साम्प्रदायिक सद्भाव को बढ़ावा देती है। पर्यावरण संरक्षण में सत्यनिष्ठापूर्ण प्रयास ही स्थायी समाधान दे सकते हैं। अंत में सत्यनिष्ठा ही सच्ची अमीरी है जो व्यक्ति को आंतरिक संतुष्टि प्रदान करती है तथा समाज को प्रेरित करती है।<br>भ्रष्टाचार के युग में सत्यनिष्ठा समाज को किससे बचाती है?",
+    "section": "Hindi Language and Comprehension",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "1",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "सत्य के मार्ग पर अडिग रखना",
+      "परिवार का विस्तार करना",
+      "भौतिक समृद्धि प्राप्त करना",
+      "राजनीतिक लाभ कमाना"
+    ],
+    "q_en": "",
+    "q_hi": "<b>Comprehension:</b><br>निम्नलिखित गद्यांश को ध्यानपूर्वक पढ़कर पूछे गये प्रश्नों के सही उत्तर दीजिए। <br>सत्यनिष्ठा जीवन का वह मूल्य है जो व्यक्ति को सत्य के मार्ग पर अडिग रखता है तथा सामाजिक व्यवस्था को मजबूत बनाता है। यह गुण न केवल व्यक्तिगत सफलता का आधार है बल्कि राष्ट्र निर्माण का भी प्राणतत्व है। भ्रष्टाचार और अनैतिकता के इस युग में सत्यनिष्ठा ही समाज को पतन से बचाती है। व्यक्तिगत स्तर पर सत्यनिष्ठा आत्मविश्वास बढ़ाती है तथा मानसिक शांति प्रदान करती है। कार्यालय में ईमानदार कर्मचारी को सम्मान प्राप्त होता है तथा प्रमोशन मिलता है। शिक्षा क्षेत्र में सत्यनिष्ठावान शिक्षक छात्रों को आदर्श प्रस्तुत करते हैं। राजनीति में यह जनसेवा को प्राथमिकता देती है। उद्योगपतियों के लिए सत्यनिष्ठा उपभोक्ता विश्वास अर्जित करती है। परिवार में सत्यनिष्ठा विश्वास का आधार बनती है तथा संतान को नैतिक मूल्य सिखाती है। सामाजिक जीवन में यह साम्प्रदायिक सद्भाव को बढ़ावा देती है। पर्यावरण संरक्षण में सत्यनिष्ठापूर्ण प्रयास ही स्थायी समाधान दे सकते हैं। अंत में सत्यनिष्ठा ही सच्ची अमीरी है जो व्यक्ति को आंतरिक संतुष्टि प्रदान करती है तथा समाज को प्रेरित करती है।<br>गद्यांश के अनुसार सत्यनिष्ठा का मुख्य कार्य क्या है?",
+    "section": "Hindi Language and Comprehension",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "1",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "मानसिक शांति",
+      "सामाजिक प्रसिद्धि",
+      "भौतिक संपत्ति",
+      "राजनीतिक शक्ति"
+    ],
+    "q_en": "",
+    "q_hi": "<b>Comprehension:</b><br>निम्नलिखित गद्यांश को ध्यानपूर्वक पढ़कर पूछे गये प्रश्नों के सही उत्तर दीजिए। <br>सत्यनिष्ठा जीवन का वह मूल्य है जो व्यक्ति को सत्य के मार्ग पर अडिग रखता है तथा सामाजिक व्यवस्था को मजबूत बनाता है। यह गुण न केवल व्यक्तिगत सफलता का आधार है बल्कि राष्ट्र निर्माण का भी प्राणतत्व है। भ्रष्टाचार और अनैतिकता के इस युग में सत्यनिष्ठा ही समाज को पतन से बचाती है। व्यक्तिगत स्तर पर सत्यनिष्ठा आत्मविश्वास बढ़ाती है तथा मानसिक शांति प्रदान करती है। कार्यालय में ईमानदार कर्मचारी को सम्मान प्राप्त होता है तथा प्रमोशन मिलता है। शिक्षा क्षेत्र में सत्यनिष्ठावान शिक्षक छात्रों को आदर्श प्रस्तुत करते हैं। राजनीति में यह जनसेवा को प्राथमिकता देती है। उद्योगपतियों के लिए सत्यनिष्ठा उपभोक्ता विश्वास अर्जित करती है। परिवार में सत्यनिष्ठा विश्वास का आधार बनती है तथा संतान को नैतिक मूल्य सिखाती है। सामाजिक जीवन में यह साम्प्रदायिक सद्भाव को बढ़ावा देती है। पर्यावरण संरक्षण में सत्यनिष्ठापूर्ण प्रयास ही स्थायी समाधान दे सकते हैं। अंत में सत्यनिष्ठा ही सच्ची अमीरी है जो व्यक्ति को आंतरिक संतुष्टि प्रदान करती है तथा समाज को प्रेरित करती है।<br>गद्यांश के अनुसार सत्यनिष्ठा व्यक्तिगत स्तर पर क्या प्रदान करती है?",
+    "section": "Hindi Language and Comprehension",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "1",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "उपभोक्ता विश्वास",
+      "सरकारी अनुदान",
+      "बाजार विस्तार",
+      "प्रतिस्पर्धा कम करना"
+    ],
+    "q_en": "",
+    "q_hi": "<b>Comprehension:</b><br>निम्नलिखित गद्यांश को ध्यानपूर्वक पढ़कर पूछे गये प्रश्नों के सही उत्तर दीजिए। <br>सत्यनिष्ठा जीवन का वह मूल्य है जो व्यक्ति को सत्य के मार्ग पर अडिग रखता है तथा सामाजिक व्यवस्था को मजबूत बनाता है। यह गुण न केवल व्यक्तिगत सफलता का आधार है बल्कि राष्ट्र निर्माण का भी प्राणतत्व है। भ्रष्टाचार और अनैतिकता के इस युग में सत्यनिष्ठा ही समाज को पतन से बचाती है। व्यक्तिगत स्तर पर सत्यनिष्ठा आत्मविश्वास बढ़ाती है तथा मानसिक शांति प्रदान करती है। कार्यालय में ईमानदार कर्मचारी को सम्मान प्राप्त होता है तथा प्रमोशन मिलता है। शिक्षा क्षेत्र में सत्यनिष्ठावान शिक्षक छात्रों को आदर्श प्रस्तुत करते हैं। राजनीति में यह जनसेवा को प्राथमिकता देती है। उद्योगपतियों के लिए सत्यनिष्ठा उपभोक्ता विश्वास अर्जित करती है। परिवार में सत्यनिष्ठा विश्वास का आधार बनती है तथा संतान को नैतिक मूल्य सिखाती है। सामाजिक जीवन में यह साम्प्रदायिक सद्भाव को बढ़ावा देती है। पर्यावरण संरक्षण में सत्यनिष्ठापूर्ण प्रयास ही स्थायी समाधान दे सकते हैं। अंत में सत्यनिष्ठा ही सच्ची अमीरी है जो व्यक्ति को आंतरिक संतुष्टि प्रदान करती है तथा समाज को प्रेरित करती है।<br>गद्यांश के अनुसार उद्योगपतियों के लिए सत्यनिष्ठा क्या अर्जित करती है?",
+    "section": "Hindi Language and Comprehension",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "3",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "भोजन",
+      "यात्रा",
+      "विश्वास",
+      "धन संचय"
+    ],
+    "q_en": "",
+    "q_hi": "<b>Comprehension:</b><br>निम्नलिखित गद्यांश को ध्यानपूर्वक पढ़कर पूछे गये प्रश्नों के सही उत्तर दीजिए। <br>सत्यनिष्ठा जीवन का वह मूल्य है जो व्यक्ति को सत्य के मार्ग पर अडिग रखता है तथा सामाजिक व्यवस्था को मजबूत बनाता है। यह गुण न केवल व्यक्तिगत सफलता का आधार है बल्कि राष्ट्र निर्माण का भी प्राणतत्व है। भ्रष्टाचार और अनैतिकता के इस युग में सत्यनिष्ठा ही समाज को पतन से बचाती है। व्यक्तिगत स्तर पर सत्यनिष्ठा आत्मविश्वास बढ़ाती है तथा मानसिक शांति प्रदान करती है। कार्यालय में ईमानदार कर्मचारी को सम्मान प्राप्त होता है तथा प्रमोशन मिलता है। शिक्षा क्षेत्र में सत्यनिष्ठावान शिक्षक छात्रों को आदर्श प्रस्तुत करते हैं। राजनीति में यह जनसेवा को प्राथमिकता देती है। उद्योगपतियों के लिए सत्यनिष्ठा उपभोक्ता विश्वास अर्जित करती है। परिवार में सत्यनिष्ठा विश्वास का आधार बनती है तथा संतान को नैतिक मूल्य सिखाती है। सामाजिक जीवन में यह साम्प्रदायिक सद्भाव को बढ़ावा देती है। पर्यावरण संरक्षण में सत्यनिष्ठापूर्ण प्रयास ही स्थायी समाधान दे सकते हैं। अंत में सत्यनिष्ठा ही सच्ची अमीरी है जो व्यक्ति को आंतरिक संतुष्टि प्रदान करती है तथा समाज को प्रेरित करती है।<br>गद्यांश के अनुसार परिवार में सत्यनिष्ठा किसका आधार बनती है?",
+    "section": "Hindi Language and Comprehension",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "3",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "राष्ट्रवाद की कमजोर भावना",
+      "मातृभाषा पर अत्यधिक बल",
+      "आरोपित सामाजिक स्तरीकरण",
+      "पाठ्यचर्या रूपांतरण का अभाव"
+    ],
+    "q_en": "",
+    "q_hi": "अन्य समूहों की तुलना में SC/ST के विद्यार्थियों में उच्चतर ड्रॉपआउट दर (dropout rate) मुख्य रूप से <strong>शिक्षा के माध्यम से सामाजिक समानता</strong> प्राप्त करने में विफलता को इंगित करती है। यह क्या दर्शाता है?",
+    "section": "Discipline1",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "2",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "यह असंरचित अन्योन्यक्रिया के माध्यम से शैक्षणिक कौशल सिखाता है।",
+      "यह संरचित अन्योन्यक्रिया के माध्यम से मूल्यों और मानदंडों को आकार देता है।",
+      "यह व्यक्तियों के लिए केवल आर्थिक अवसर प्रदान करता है।",
+      "यह मुख्यत: व्यक्तिगत कैरियर लक्ष्यों और आकांक्षाओं को बढ़ावा देता है।"
+    ],
+    "q_en": "",
+    "q_hi": "समकालीन भारतीय समाज के संदर्भ में, औपचारिक शिक्षा व्यवस्था के भीतर समाजीकरण की प्रक्रिया व्यक्तिगत पहचान के विकास में किस प्रकार योगदान देती है?",
+    "section": "Discipline1",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "2",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "10+2+3 शिक्षा प्रणाली की शुरुआत",
+      "विश्वविद्यालय अनुदान आयोग की स्थापना",
+      "राष्ट्रीय साक्षरता मिशन का शुभारंभ",
+      "ग्रामीण क्षेत्रों में प्राथमिक विद्यालयों का निर्माण"
+    ],
+    "q_en": "",
+    "q_hi": "विश्वविद्यालय शिक्षा आयोग के महत्वपूर्ण प्रभावों में से, कौन-सा परिणाम भारत में उच्च शिक्षा नीति के विकास पर आयोग के प्रभाव को सर्वोत्तम रूप से निरूपित करता है?",
+    "section": "Discipline1",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "2",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "प्रथाओं को सूचीबद्ध करना",
+      "समाज का अध्ययन करना",
+      "घटनाओं की रिकॉर्डिंग करना",
+      "मिथकों का परिरक्षण करना"
+    ],
+    "q_en": "",
+    "q_hi": "सामाजिक अध्ययन में, समाजशास्त्र का मुख्‍य उद्देश्य _____ है।",
+    "section": "Discipline1",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "1",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "व्यक्तिगत भिन्नता और दरें",
+      "निरंतरता और क्रमिकता",
+      "अनुक्रमिक और दिशात्मक पैटर्न",
+      "एकीकरण और पूर्वानुमेयता"
+    ],
+    "q_en": "",
+    "q_hi": "एक शिक्षिका देखती है कि उसकी कक्षा में बच्चों का एक समूह सूक्ष्म गत्यात्मक कौशल प्राप्त करने के विभिन्न चरणों में है; कुछ बच्चे स्पष्ट रूप से लिख सकते हैं, जबकि अन्य को अभी भी पेंसिल पकड़ने में कठिनाई हो रही है। यह स्थिति वृद्धि और विकास के किस सिद्धांत को सर्वोत्तम रूप से दर्शाती है?",
+    "section": "Discipline1",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "2",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "आनुक्रमिकता (Sequentiality)",
+      "सातत्य (Continuity)",
+      "सामान्यता से विशिष्टता (Generality to Specificity)",
+      "विभेदकता  (Differentiality)"
+    ],
+    "q_en": "",
+    "q_hi": "विकास का कौन-सा सिद्धांत यह व्याख्यायित करता है कि एक व्यक्ति में गर्भाधान से लेकर मृत्युपर्यंत परिवर्तन होते रहते हैं और प्रत्येक चरण में जो परिवर्तन होता है वह अगले चरण को प्रभावित करता है?<br>\n<br>",
+    "section": "Discipline1",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "4",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "प्रॉक्सिमोडिस्टल डेवलपमेंट प्रिंसिपल (Proximodistal development principle)",
+      "कॉन्टिन्यूइटी ऑफ डेवलपमेंट प्रिंसिपल (Continuity of development principle)",
+      "प्रेडिक्टेबिलिटी इन डेवलपमेंट प्रिंसिपल (Predictability in development principle)",
+      "सेफलोकॉडल डेवलपमेंट प्रिंसिपल (Cephalocaudal development principle)"
+    ],
+    "q_en": "",
+    "q_hi": "एक विकासात्मक मनोवैज्ञानिक देखता है कि शिशु कंधे और कोहनी की गतिविधियों में समन्वय स्थापित करने से पहले गर्दन पर शारीरिक मुद्रा (postural) नियंत्रण प्राप्त कर लेता है और बाद में ही उंगलियों का उपयोग करके सटीक हस्तकौशल (manipulation) विकसित करता है। गति विकास का यह पैटर्न वृद्धि और विकास के किस सिद्धांत को सर्वोत्तम रूप से दर्शाता है?",
+    "section": "Discipline1",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "1",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "यह समाज को योग्यता के स्थान पर जाति के आधार पर कल्पित समूहों में विभाजित करता है।",
+      "यह राजनीतिक क्षेत्र में विभिन्न जातियों के बीच एकता को प्रोत्साहित करता है।",
+      "यह सरकारी पदों पर सभी जातियों के समान प्रतिनिधित्व को सुनिश्चित करता है।",
+      "यह विभिन्न जातियों के बीच आर्थिक समानता को बढ़ावा देता है।"
+    ],
+    "q_en": "",
+    "q_hi": "निम्‍न में से कौन-सा, भारत में जाति आधारित भेदभाव के प्रमुख प्रभावों में से एक है?",
+    "section": "Discipline1",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "4",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "समुदायों के बीच मतभेदों की उपेक्षा करना",
+      "सांस्कृतिक अभिव्यक्ति को हतोत्साहित करना",
+      "सभी नागरिकों के लिए एकल संस्कृति बाध्य करना",
+      "विभिन्न संस्कृतियों और धर्मों का सम्मान करना"
+    ],
+    "q_en": "",
+    "q_hi": "यदि किसी नीति का उद्देश्य बहुसांस्कृतिक और बहुधार्मिक समाज में सामंजस्य को बढ़ावा देना है, तो कौन-सा उपागम सबसे प्रभावी है?",
+    "section": "Discipline1",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "2",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "मध्याह्न भोजन योजना की शुरुआत",
+      "बहुउद्देशीय माध्यमिक विद्यालयों की स्थापना",
+      "उच्च शिक्षा का सार्वभौमिकरण",
+      "सार्व विद्यालय प्रणाली की शुरुआत"
+    ],
+    "q_en": "",
+    "q_hi": "माध्यमिक शिक्षा आयोग (1952-53) की एक प्रमुख सिफारिश निम्नलिखित में से कौन-सी थी?",
+    "section": "Discipline1",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "1",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "निर्धारित विद्यार्थी-शिक्षक अनुपात (PTR) मानक",
+      "शिक्षकों को निजी संस्थानों में अंशकालिक रूप से काम करने की अनुमति देना",
+      "शिक्षकों के लिए वार्षिक राष्ट्रीय योग्यता परीक्षा",
+      "प्रत्येक तीन वर्षों में शिक्षकों का अनिवार्य स्थानांतरण"
+    ],
+    "q_en": "",
+    "q_hi": "RTE-2009 का कौन-सा घटक, प्रारंभिक विद्यालयों में शिक्षकों की उपलब्धता में सुधार लाने के लिए सबसे महत्वपूर्ण माना जाता है?",
+    "section": "Discipline1",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "4",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "बच्चे सामान्य गतिविधियों से पहले विशिष्ट अनुक्रियाएँ विकसित करते हैं।",
+      "किशोरावस्था में विकास स्थिरता प्राप्त कर लेता है।",
+      "विकास केवल पर्यावरणीय कारकों से प्रभावित होता है।",
+      "विकास एक प्रतिमान का अनुसरण करता है जहाँ एक चरण अगले चरण की ओर ले जाता है।"
+    ],
+    "q_en": "",
+    "q_hi": "अनुक्रमिकता का सिद्धांत (Principle of Sequentiality) बच्चों में विकासात्मक उपलब्धियों के क्रम के संबंध में क्या सुझाव देता है?",
+    "section": "Discipline1",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "3",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "भौतिक अवसंरचना",
+      "राजनीतिक संस्थानों",
+      "लोगों के मन और हृदय",
+      "आर्थिक प्रणालियों"
+    ],
+    "q_en": "",
+    "q_hi": "डॉ. एस. राधाकृष्णन के अनुसार, राष्ट्रीय एकता मुख्य रूप से _______________ में विकसित होती है।",
+    "section": "Discipline1",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "1",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "स्थिर व्यवहारिक और संवेगात्मक विशेषताएँ",
+      "विद्यालय में अलग-अलग सहपाठियों की मित्रता",
+      "खेल के दौरान यादृच्छिक संवेगात्मक सहसोद्भिद्",
+      "आवसरिक अकादमिक उपलब्धियाँ"
+    ],
+    "q_en": "",
+    "q_hi": "बच्चों में व्यक्तित्व के विकास पर विचार करते समय, इसकी परिभाषा के लिए कौन-सा पहलू सबसे महत्वपूर्ण है?",
+    "section": "Discipline1",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "3",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "केवल पाठ्यपुस्तक पूर्ण करने पर ध्यान केंद्रित करना",
+      "बालिकाओं को अतिरिक्त गृहकार्य सौंपना",
+      "जीवन कौशल और अभिकरण-निर्माण गतिविधियों को शामिल करना",
+      "पाठ के दौरान बालिकाओं को बालकों से अलग करना"
+    ],
+    "q_en": "",
+    "q_hi": "एक शिक्षक, बालिकाओं में बहुआयामी गरीबी को संबोधित करने के लिए एक पाठ योजना विकसित कर रहा है। प्रभावी अधिगम परिणामों के लिए कौन-सा घटक सबसे आवश्यक है?",
+    "section": "Discipline1",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "4",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "Industrial Psychology",
+      "Child Psychology",
+      "Abnormal Psychology",
+      "Educational Psychology"
+    ],
+    "q_en": "",
+    "q_hi": "Which branch of psychology focuses on the study of teaching and learning processes in educational settings?",
+    "section": "Discipline1",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "4",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "विवादित विद्यार्थी समूहों को अलग करना",
+      "कठोर सामान्य नियमों को लागू करना",
+      "केवल व्यक्तिगत योग्यता पर बल देना",
+      "सामूहिक अंतर्द्वंद समाधान को बढ़ावा देना"
+    ],
+    "q_en": "",
+    "q_hi": "एक शिक्षक भाषा संबंधी निष्ठाओं पर आधारित विद्यार्थी उपसमूहों के बीच निरंतर तनाव देखता है। शांति शिक्षा के उद्देश्य को लागू करने के लिए शिक्षक को किस विधि को प्राथमिकता देनी चाहिए?",
+    "section": "Discipline1",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "2",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "बच्चों का विकास केवल औपचारिक शिक्षा के माध्यम से ही होता है।",
+      "प्रत्येक बच्चा अपनी अद्‍‍वितीय गति से बढ़ता और विकसित होता है।",
+      "सभी बच्चे एक ही समय में विकास के पड़ावों तक पहुंचते हैं।",
+      "बच्चों में वृद्धि और विकास में कोई भिन्नता नहीं होती है।"
+    ],
+    "q_en": "",
+    "q_hi": "शैक्षिक मनोविज्ञान के अनुसार, बाल्यावस्था वृद्धि और विकास के संदर्भ में 'वैयक्तिक भिन्नताओं' के सिद्धांत का क्या अर्थ है?",
+    "section": "Discipline1",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "4",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "रस्सी कूदना",
+      "पार्क में दौड़ना",
+      "सीढ़ी चढ़ना",
+      "कपड़ों के बटन लगाना"
+    ],
+    "q_en": "",
+    "q_hi": "निम्नलिखित में से कौन-सी गतिविधि सूक्ष्म गामक कौशल विकास की गतिविधि का उदाहरण है?",
+    "section": "Discipline1",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "1",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "निर्धनता/गरीबी",
+      "विविधता",
+      "जेंडर समानता",
+      "सांस्कृतिक विरासत"
+    ],
+    "q_en": "",
+    "q_hi": "भारत में संसाधनों की कमी से जुड़ी एक प्रमुख सामाजिक चुनौती कौन-सी है?",
+    "section": "Discipline1",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "2",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "प्रतिमानक निर्मिति और नेतृत्व प्रतिरूप",
+      "गुटीय और प्रतिस्पर्धी प्रतिरूप",
+      "अनुरूपता और सामाजिक स्वैरचारिता",
+      "सहकारी और संवेगात्मक प्रतिरूप"
+    ],
+    "q_en": "",
+    "q_hi": "एक शिक्षक देखता है कि समान पृष्ठभूमि वाले विद्यार्थी प्रायः अपने-अपने समूह का निर्माण कर लेते हैं, जिससे अन्य विद्यार्थी अलग-थलग पड़ जाते हैं एवं कुछ विद्यार्थियों में चिंता और अलगाव की भावना उत्पन्न हो जाती है। इस स्थिति के लिए कौन-सा समूह व्यवहार प्रतिरूप सबसे अधिक उत्तरदायी है?",
+    "section": "Discipline2",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "3",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "विद्यार्थी के प्रदर्शन के विभिन्न साक्ष्यों की आवश्यकता को कम करने",
+      "आकलन को डेटा संग्रह की एक निश्चित विधि तक सीमित करने",
+      "विद्यार्थी अधिगम और प्रगति की समग्र जानकारी प्राप्त करने",
+      "उपलब्धि के मूल्यांकन के लिए केवल एक ही परीक्षण पर निर्भर न रहने"
+    ],
+    "q_en": "",
+    "q_hi": "व्यापक आकलन के लिए कई स्रोतों का उपयोग करने से शिक्षकों को किसमें सहायता मिलती है?",
+    "section": "Discipline2",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "1",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "यह कक्षा की गतिविधियों को कठोर और बाध्यकारी बनाता है।",
+      "यह शिक्षण के दौरान शिक्षकों को आत्मविश्वास प्रदान करता है।",
+      "यह शिक्षण को क्रमबद्ध और सुव्यवस्थित बनाता है।",
+      "यह शिक्षकों को उपलब्ध समय का उचित उपयोग करने में सक्षम बनाता है।"
+    ],
+    "q_en": "",
+    "q_hi": "पाठ योजना के महत्व के संदर्भ में निम्नलिखित में से कौन-सा कथन सही <strong>नहीं </strong>है?",
+    "section": "Discipline2",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "2",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "यह सैद्धांतिक संकल्पनाओं के व्यावहारिक अनुप्रयोग के अवसरों को सीमित करता है।",
+      "यह शिक्षार्थी की संलग्नता और ज्ञान निर्माण पर बल देता है।",
+      "यह पूरी तरह से शिक्षक की टॉपिक की समझ और व्याख्या पर निर्भर करता है।",
+      "यह विद्यार्थियों में सहभागी अधिगम को हतोत्साहित करता है।"
+    ],
+    "q_en": "",
+    "q_hi": "शिक्षणशास्त्र के लिए रचनावादी उपागम, पारंपरिक व्याख्यान-आधारित विधियों से किस प्रकार अलग है?",
+    "section": "Discipline2",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "1",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "भाषा व्याकरणिक संरचनाओं का अनुसरण करती है।",
+      "भाषा यादृच्छिक रूप से बदलती है।",
+      "भाषा बिना संरचना के सीखी जाती है।",
+      "भाषा केवल बोली जाती है।"
+    ],
+    "q_en": "",
+    "q_hi": "'नियम-शासित प्रणाली (rule-governed system)' की संकल्पना का भाषा के संबंध में क्या अर्थ है?",
+    "section": "Discipline2",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "3",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "विशिष्ट से सामान्य",
+      "मनोवैज्ञानिक से तार्किक",
+      "मूर्त से अमूर्त",
+      "ज्ञात से अज्ञात"
+    ],
+    "q_en": "",
+    "q_hi": "शिक्षण का कौन-सा सिद्धांत इस बात पर जोर देता है कि अमूर्त विचारों को पेश करने से पहले शिक्षार्थियों को वास्तविक, ठोस अनुभव (tangible experience) दिए जाने चाहिए?",
+    "section": "Discipline2",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "2",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "बच्चों से वर्कशीट शीघ्र पूरा करवाना",
+      "बच्चों में समस्या-समाधान कौशल विकसित करने में सहायता करना",
+      "विद्यार्थियों को सभी सूत्र स्मरण करवाना सुनिश्चित करना",
+      "विद्यार्थियों को हाई स्कूल परीक्षाओं के लिए तैयार करना"
+    ],
+    "q_en": "",
+    "q_hi": "प्राइमरी विद्यालय स्तर पर गणित पढ़ाने का मुख्य लक्ष्य क्या है?",
+    "section": "Discipline2",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "4",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "यह आत्म-जागरूकता को कम करता है।",
+      "यह अलगाव की ओर ले जाता है।",
+      "यह आत्म-अनुचिंतन की आवश्यकता को समाप्त करता है।",
+      "यह आपके स्वयं को बेहतर रूप से समझने में सहायता करता है।"
+    ],
+    "q_en": "",
+    "q_hi": "प्रेक्षण के माध्यम से दूसरों को समझना आत्म-अवगाहन (self-understanding) में कैसे योगदान देता है?",
+    "section": "Discipline2",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "2",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "रवींद्रनाथ टैगोर",
+      "महात्मा गांधी",
+      "जवाहरलाल नेहरू",
+      "बी. आर. अंबेडकर"
+    ],
+    "q_en": "",
+    "q_hi": "शिक्षा के परिप्रेक्ष्य में स्वयं (self) को समझने के लिए की गई चर्चा में एक प्रतिष्ठित सांस्कृतिक व्यक्तित्व किसे माना जाता है?",
+    "section": "Discipline2",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "3",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "एक भाषा को कम सुनने से साक्षरता का विकास तेजी से होता है",
+      "एक से अधिक भाषाओं का उपयोग करने से बच्चों के पठन कौशल में कठिनाई उत्पन्न हो जाती है",
+      "एक भाषा के कौशल बच्चों को दूसरी भाषा में साक्षरता सीखने में मदद कर सकते हैं",
+      "बच्चे विद्यालय में मित्रों से साक्षरता की आदतें कॉपी करते हैं"
+    ],
+    "q_en": "",
+    "q_hi": "एक शिक्षक ने प्रेक्षण किया कि घर पर कई भाषाओं का उपयोग करने वाले बच्चे, अपने एकभाषी समकक्षी की तुलना में प्रारंभिक साक्षरता अर्जन के विभिन्न पैटर्न प्रदर्शित करते हैं। बहुभाषावाद की प्रकृति को ध्यान में रखते हुए, इस अंतर का मुख्य कारण क्या है?",
+    "section": "Discipline2",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "3",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "तुलना (Comparison)",
+      "मूल्यांकन (Evaluation)",
+      "अनुचिंतन (Reflection)",
+      "अनुदेशन (Instruction)"
+    ],
+    "q_en": "",
+    "q_hi": "अवलोकन तब शैक्षिक रूप से अर्थपूर्ण हो जाता है जब उसके बाद __________ किया जाता है।",
+    "section": "Discipline2",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "2",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "Isolated drill activities",
+      "Rich exposure to spoken language",
+      "Grammar-focused instruction",
+      "Early memorization of written words"
+    ],
+    "q_en": "",
+    "q_hi": "Vocabulary growth during pre-school years is largely supported by:",
+    "section": "Discipline2",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "1",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "तर्कसंगत से अनुभवजन्य",
+      "सरल से जटिल",
+      "विश्लेषण से संश्लेषण",
+      "अनुभवजन्य से तर्कसंगत"
+    ],
+    "q_en": "",
+    "q_hi": "सूक्तियों (Maxims) की विषयवस्तु के संदर्भ में निम्नलिखित में से कौन-सा सही <strong>नहीं </strong>है?",
+    "section": "Discipline2",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "4",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "एक शिक्षक को सामाजिक परिवर्तन का प्रतिनिधि माना जाता है।",
+      "एक शिक्षक समाज में परिवर्तन और आधुनिकता के लिए आदर्श के रूप में कार्य करता है।",
+      "शिक्षक समाज के शक्तिशाली तत्व हैं जिन्होंने शिक्षा के माध्यम से सकारात्मक परिवर्तन लाया है।",
+      "शिक्षक भारतीय समाज में विद्यमान सभी सामाजिक समस्याओं का समाधान स्वयं कर सकते हैं।"
+    ],
+    "q_en": "",
+    "q_hi": "निम्नलिखित में से कौन-सा विकल्प समाज में परिवर्तन लाने के संबंध में शिक्षक की भूमिका <strong>नहीं </strong>है?<br>",
+    "section": "Discipline2",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "2",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "They become uninterested in the figure's legacy",
+      "They develop a sense of identity",
+      "They ignore the values the figure represented",
+      "They see celebrations only as holidays with no meaning"
+    ],
+    "q_en": "",
+    "q_hi": "If a community celebrates an iconic figure annually, what is a likely outcome for the younger generation?",
+    "section": "Discipline2",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "1",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "स्थानीय सांस्कृतिक विरासत से जोड़कर छात्रों के बीच जुड़ाव बढ़ाना",
+      "उत्सव को शहरी शैक्षणिक संस्थानों तक सीमित रखना",
+      "केवल प्रसिद्ध प्रतीकों को ही राष्ट्रव्यापी स्तर पर मनाए जाने को सुनिश्चित करना",
+      "गतिविधियों के लिए केवल पाठ्यपुस्तकों के उदाहरणों पर ध्यान केंद्रित करना"
+    ],
+    "q_en": "",
+    "q_hi": "कक्षा में उत्सव मनाने की प्रक्रिया पर चर्चा करते समय, एक सुविधा प्रदाता क्षेत्रीय पहचान को दर्शाने वाले प्रतीक का चयन करने पर बल देता है। इस उपागम का मुख्य लाभ क्या है?",
+    "section": "Discipline2",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "1",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "पाठ के विशिष्ट उद्देश्यों का वर्णन करना",
+      "उपलब्ध शिक्षण साधनों की सूची बनाना",
+      "अवकाश के लिए समय निर्धारित करना",
+      "योग्यता के आधार पर विद्यार्थियों को वर्गीकृत करना"
+    ],
+    "q_en": "",
+    "q_hi": "पाठ योजना में कौन-सा चरण यह सुनिश्चित करता है कि शिक्षण स्पष्ट परिणामों की ओर केंद्रित और निर्देशित हो?",
+    "section": "Discipline2",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "4",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "भाषा अर्जन अनुकरण पर आधारित होता है, अधिगम पर नहीं।",
+      "भाषा अधिगम स्वाभाविक रूप से होता है, जबकि अर्जन औपचारिक होता है।",
+      "भाषा अधिगम केवल बालकों के लिए है, अर्जन वयस्कों के लिए है।",
+      "अर्जन अवचेतन होता है; अधिगम चेतन होता है।"
+    ],
+    "q_en": "",
+    "q_hi": "भाषा अधिगम और भाषा अर्जन में मुख्य अंतर क्या है?",
+    "section": "Discipline2",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "4",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "भाषाओं का उपयोग बोले या सुने बिना केवल पढ़ने और लिखने के लिए किया जाता है।",
+      "केवल एक ही भाषा को सीखने की आवश्यकता, जबकि अन्य सभी भाषाओं को पूर्णत: अनदेखा किया जाता है।",
+      "स्थानीय भाषाओं को पूर्णत: एकल वैश्विक भाषा से बदल दिया जाता है।",
+      "विभिन्न संदर्भों में बहु भाषाओं का प्रभावी रूप से उपयोग करने और समझने की क्षमता।"
+    ],
+    "q_en": "",
+    "q_hi": "शिक्षा में बहुभाषावाद का प्रमुख पहलू क्या है?",
+    "section": "Discipline2",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "4",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "कार्यक्षेत्र सिद्धांत (Scope Principle)",
+      "सातत्य सिद्धांत (Continuity Principle)",
+      "एकीकरण सिद्धांत (Integration Principle)",
+      "नम्यता सिद्धांत (Flexibility Principle)"
+    ],
+    "q_en": "",
+    "q_hi": "पाठ्यचर्या के प्रकारों का मूल्यांकन करते समय, कौन-सा सिद्धांत यह अच्‍छी तरह से सुनिश्चित करता है कि पाठ्यचर्या की विषयवस्तु प्रासंगिक, समावेशी और सामाजिक परिवर्तनों के अनुकूल बनी रहे?<br>",
+    "section": "Discipline2",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "2",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "बॉक्स बड़ा दिखेगा",
+      "प्रत्येक विद्यार्थी के उत्तर विभिन्न होंगे",
+      "घनों का आकार बदल जाएगा",
+      "कार्य शीघ्रता से होगा"
+    ],
+    "q_en": "",
+    "q_hi": "जब विद्यार्थी समान बॉक्स को मापने के लिए विभिन्न आकार के घनों का उपयोग करते हैं, तो कौन-सी समस्या उत्पन्न होगी?",
+    "section": "Discipline3",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "4",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "त्वरित विषय-वस्‍तु वितरण कौशल",
+      "केवल सख्त नियम प्रवर्तन",
+      "यांत्रिक पुनरावृत्ति विधि",
+      "सक्रिय श्रवण और तद्नुभूति"
+    ],
+    "q_en": "",
+    "q_hi": "किसी अच्छे प्रशिक्षक हेतु अधिगमकर्ताओं की आवश्यकताओं को समझने के लिए कौन-सा मनोवैज्ञानिक कौशल सर्वाधिक आवश्यक है?",
+    "section": "Discipline3",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "4",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "Contextual vocabulary",
+      "Passive vocabulary",
+      "Receptive vocabulary",
+      "Active vocabulary"
+    ],
+    "q_en": "",
+    "q_hi": "<div>A student who can accurately use a wide range of words while speaking and writing is demonstrating which aspect of vocabulary knowledge, considering both usage and understanding?</div>",
+    "section": "Discipline3",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "4",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "विद्यार्थी इस शब्द के अर्थ का अनुमान लगा रहा है।",
+      "विद्यार्थी 'पैटर्न' शब्द से अनभिज्ञ है।",
+      "विद्यार्थी के पास 'पैटर्न' के लिए केवल निष्क्रिय शब्दावली है।",
+      "'पैटर्न' शब्द उनकी सक्रिय शब्दावली का हिस्सा है।"
+    ],
+    "q_en": "",
+    "q_hi": "गणित की कक्षा के दौरान, एक विद्यार्थी आत्मविश्वास से 'पैटर्न' की संकल्पना को समझाता है और प्रश्नों को हल करते समय इसका सही उपयोग करता है। इससे विद्यार्थी के शब्दावली ज्ञान के संबंध में क्या प्रदर्शित होता है?",
+    "section": "Discipline3",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "4",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "कार्यात्मक खेल",
+      "एकांतिक खेल",
+      "रचनात्मक खेल",
+      "समाज-नाटकीय खेल"
+    ],
+    "q_en": "",
+    "q_hi": "बच्चों में सामाजिक भूमिकाओं को समझने और समूह सेटिंग में नियमों पर बातचीत करने की क्षमता को बढ़ावा देने में किस प्रकार का खेल सबसे प्रभावी है?",
+    "section": "Discipline3",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "4",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "They enjoying the movie every weekend",
+      "They enjoys the movie every weekend",
+      "They enjoy the movie every weekends",
+      "They enjoy the movie every weekend"
+    ],
+    "q_en": "",
+    "q_hi": "Which of the following sentences uses correct subject-verb agreement?",
+    "section": "Discipline3",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "2",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "केवल विद्यालय की भौतिक सुविधाओं को मापना",
+      "बहुआयामी मूल्यांकन",
+      "प्रदर्शन-आधारित मूल्यांकन",
+      "केवल शिक्षकों की उपस्थिति के आंकड़ों पर भरोसा"
+    ],
+    "q_en": "",
+    "q_hi": "एक बाह्य टीम शिक्षण, विद्यार्थी रिकॉर्ड, शिक्षक सर्वेक्षण और विद्यार्थी साक्षात्कार की समीक्षा करके विद्यालय के प्रदर्शन का मूल्यांकन करती है। विद्यालय की प्रभावशीलता मापने की यह कौन-सी विधि है?",
+    "section": "Discipline3",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "1",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "मूल दर्शन और लक्ष्यों को परिभाषित करना",
+      "कक्षाओं की पेंटिंग करना",
+      "विद्यालय यूनिफार्म के रंगों का चयन करना",
+      "खेल सामग्री की खरीद करना"
+    ],
+    "q_en": "",
+    "q_hi": "किसी विद्यालय की पूरी तरह शुरूआत से (from scratch) कल्‍पना करते समय कौन-सा घटक सबसे महत्वपूर्ण होता है?",
+    "section": "Discipline3",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "2",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "वस्तुओं को श्रेणियों और तार्किक क्रम के अनुसार व्यवस्थित करना",
+      "वस्तु का स्थायित्व और वस्तुओं का संख्याओं से संबंध स्थापित करना",
+      "अमूर्त तर्कणा और परिकल्पना परीक्षण",
+      "प्रतीकात्मक विचार और भाषा का अतिसामान्यीकरण"
+    ],
+    "q_en": "",
+    "q_hi": "संवेदीप्रेरक अवस्था के दौरान, निम्नलिखित में से कौन-सी एक प्रमुख संज्ञानात्मक योग्यता है?",
+    "section": "Discipline3",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "3",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "विषय में निपुणता",
+      "सख्त अनुशासन",
+      "वास्तविक परानुभूति",
+      "संगठनात्मक स्पष्टता"
+    ],
+    "q_en": "",
+    "q_hi": "शिक्षा के मानवतावादी दर्शन के अनुसार, एक शिक्षक के लिए अधिगम सुविधादाता के रूप में सफलतापूर्वक कार्य करने के लिए कौन-सा मूल संवेगात्मक गुण अनिवार्य होता है?",
+    "section": "Discipline3",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "1",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "Passive vocabulary through receptive listening activities",
+      "Metalinguistic awareness through translation",
+      "Active vocabulary via productive tasks",
+      "Morphological knowledge of word roots"
+    ],
+    "q_en": "",
+    "q_hi": "A teacher asks students to listen to an audio story and later identify new words they understood but have not yet used in speech or writing. Which vocabulary type are the students primarily engaging with?",
+    "section": "Discipline3",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "3",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "कक्षा प्रबंधन (Classroom management)",
+      "वास्तविक परानुभूति (Genuine empathy)",
+      "संज्ञानात्मक स्पष्टता (Cognitive clarity)",
+      "शैक्षणिक प्रवीणता (Academic proficiency)"
+    ],
+    "q_en": "",
+    "q_hi": "कौन-सा मनोवैज्ञानिक गुण, एक शिक्षक-सुविधाकर्ता को विभिन्न विद्यार्थी आवश्यकताओं का प्रबंधन करते हुए लगातार विवेकपूर्ण और वस्तुनिष्ठ होने के लिए सशक्त बनाता है?",
+    "section": "Discipline3",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "1",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "कक्षा में तैयार होकर आना",
+      "कक्षाकक्ष का नियम सख्त होना",
+      "अकादमिक आर्टिकल प्रकाशित करना",
+      "प्रतिष्ठित विश्वविद्यालयों में उपस्थित होना"
+    ],
+    "q_en": "",
+    "q_hi": "निम्नलिखित में से कौन-सी विशेषता विद्यार्थियों द्वारा शिक्षक को प्रभावी बनाने के रूप में वर्णित है?",
+    "section": "Discipline3",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "4",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "मापन तथ्यों को स्मरण करने पर ध्यान केंद्रित करना",
+      "मापन के लिए केवल पाठ्यपुस्तक के अभ्यासों का उपयोग करना",
+      "क्रियाकलापों के बिना मौखिक स्पष्टीकरण पर निर्भर रहना",
+      "मानक इकाइयों के साथ व्यावहारिक क्रियाकलापों का उपयोग करना"
+    ],
+    "q_en": "",
+    "q_hi": "निम्नलिखित में से कौन-सी अध्यापन विधि, गणित के पाठों में मापन इकाइयों की अवधारणा को वास्तविक जीवन के उदाहरणों के साथ सर्वोत्तम रूप से एकीकृत करती है?",
+    "section": "Discipline3",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "4",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "केवल परीक्षा परिणामों की निगरानी करके",
+      "साझा जिम्मेदारी की उपेक्षा करके",
+      "सभी निर्णयन को केंद्रीकृत करके",
+      "शिक्षकों और विद्यार्थियों के अधिगम में सहयोग करके"
+    ],
+    "q_en": "",
+    "q_hi": "विद्यालय के प्रभावी लीडर ____________ गुणवत्तापूर्ण शिक्षा को बढ़ावा देते हैं।",
+    "section": "Discipline3",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "4",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "भाव का पृथक्करण (Isolation of affect)",
+      "विस्थापन (Displacement)",
+      "प्रतिक्रिया-निर्मिति (Reaction formation)",
+      "प्रक्षेपण (Projection)"
+    ],
+    "q_en": "",
+    "q_hi": "निम्नलिखित में से कौन-सा रक्षा तंत्र, किसी व्यक्ति के अपने अस्वीकार्य आवेगों को दूसरे व्यक्ति पर थोपने के रूप में प्रकट होने की सबसे अधिक संभावना रखता है?",
+    "section": "Discipline3",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "3",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "अनुकरण",
+      "स्मरण",
+      "विमर्शी चिंतन",
+      "पुनरावृत्ति"
+    ],
+    "q_en": "",
+    "q_hi": "शिक्षा की दृष्‍टि को विकसित करने के लिए मुख्‍य कौशल क्या है?",
+    "section": "Discipline3",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "2",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "अननुकूलित उद्दीपन (Unconditioned stimulus)",
+      "अनुकूलित उद्दीपन (Conditioned stimulus)",
+      "तटस्थ उद्दीपन (Neutral stimulus)",
+      "अनुकूलित अनुक्रिया (Conditioned response)"
+    ],
+    "q_en": "",
+    "q_hi": "शास्त्रीय अनुबंधन के संदर्भ में, जब घंटी को कुत्ते से भोजन के लिए लार टपकाने से जोड़ा जाता है, तो घंटी क्या भूमिका निभाती है?",
+    "section": "Discipline3",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "2",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "यह विद्यार्थियों को बिना किसी सहभागिता के निष्क्रिय रूप से सुनने तक सीमित करता है।",
+      "यह सक्रिय भागीदारी के माध्यम से समग्र विकास और आलोचनात्मक चिंतन को बढ़ावा देता है।",
+      "यह कक्षा में सामाजिक चुनौतियों के बारे में खुले संवाद को हतोत्साहित करता है।",
+      "यह परीक्षा के उद्देश्य से ऐतिहासिक तथ्यों को रट कर स्मरण करने पर बल देता है।"
+    ],
+    "q_en": "",
+    "q_hi": "विद्यालय में आयोजित एक कार्यक्रम के दौरान, एक शिक्षक विद्यार्थियों को संवैधानिक मूल्यों और सामाजिक मुद्दों पर चर्चा में भाग लेने के लिए प्रोत्साहित करता है। यह NEP 2020 द्वारा प्रचारित शिक्षा के दृष्टिकोण में किस प्रकार सहायता करता है?",
+    "section": "Discipline3",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "2",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "विद्यार्थी क्रिया के बिना केवल सिद्धांत पर ध्यान केंद्रित करना।",
+      "विद्यार्थियों को सकारात्मक प्रतिपुष्टि के साथ समाधान खोजने का प्रयास करने देना।",
+      "बिना किसी स्पष्टीकरण या प्रतिपुष्टि के त्रुटियों को सुधारना।",
+      "व्यावहारिक अभ्यास के बिना केवल पुनरावृत्ति का उपयोग करना।"
+    ],
+    "q_en": "",
+    "q_hi": "एक शिक्षक कक्षा में अधिगम के लिए प्रयत्न एवं त्रुटि और शास्त्रीय अनुबंधन (Classical Conditioning) दोनों को किस प्रकार लागू कर सकता है?",
+    "section": "Discipline3",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "4",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "उच्चारण (Pronunciation)",
+      "स्वन-लिपि (Phonetics)",
+      "शब्दावली (Vocabulary)",
+      "व्याकरण के नियम (Grammar rules)"
+    ],
+    "q_en": "",
+    "q_hi": "व्याकरण अनुवाद पद्धति का मुख्य फोकस क्या है?",
+    "section": "Discipline4",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "2",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "विद्यार्थियों के बीच प्रतिस्पर्धा को प्रोत्साहित करना",
+      "यह सुनिश्चित करना कि सभी को समान अवसर मिले",
+      "कुछ समूहों के साथ विशिष्ट तरीके से बर्ताव करना",
+      "केवल शैक्षिक उपलब्धि पर फोकस करना"
+    ],
+    "q_en": "",
+    "q_hi": "निम्नलिखित में से कौन-सा कथन सामाजिक विज्ञान शिक्षा में समानता के लक्ष्य का सर्वोत्तम वर्णन करता है?",
+    "section": "Discipline4",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "1",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "शिक्षण गतिविधियों का आयोजन करना",
+      "पाठ्यपुस्तकों का सृजन करना",
+      "शिक्षकों का पर्यवेक्षण करना",
+      "विद्यार्थियों का मूल्यांकन करना"
+    ],
+    "q_en": "",
+    "q_hi": "शिक्षाशास्त्र में पाठ योजना का प्राथमिक उद्देश्य क्या है?",
+    "section": "Discipline4",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "1",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "महंगे शुल्क के कारण बढ़ती असमानता",
+      "वैश्विक पाठ्यचर्या से सांस्कृतिक समरूपता",
+      "सार्वजनिक खर्च से वर्धित राजकोषीय घाटा",
+      "संस्थानों में अनुसंधान पर ध्यान केंद्रित करने में कमी"
+    ],
+    "q_en": "",
+    "q_hi": "भारत में एक नीति निर्माता 1991 से निजी, लाभ अर्जित वाले कॉलेजों (for-profit college) के उदय का मूल्यांकन कर रही हैं। वह देखती हैं कि ऐसे कई कॉलेज त्वरित रोजगारोन्मुखी पाठ्यक्रम तो प्रदान करते हैं, लेकिन साथ ही उच्च शुल्क भी लेते हैं। LPG सुधारों के प्रभाव के आधार पर, समतामूलक शैक्षिक पहुंच सुनिश्चित करने हेतु, उसके लिए किस अंतर्निहित चुनौती का समाधान करना सबसे अधिक प्रासंगिक है?",
+    "section": "Discipline4",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "1",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "यह वाचन और श्रवण कौशल के विकास को सीमित करता है।",
+      "यह केवल पुनरावर्ती लिखित अनुवादों पर निर्भर करता है।",
+      "यह शिक्षण के लिए पारंपरिक साहित्यिक ग्रंथों (texts) का उपयोग करता है।",
+      "यह मुख्यत: व्याकरण के परिशुद्धता परीक्षणों पर केंद्रित है।"
+    ],
+    "q_en": "",
+    "q_hi": "व्याकरण अनुवाद विधि की कौन-सी प्रमुख समालोचना अंग्रेजी अधिगमकर्ता में संवादात्मक क्षमता पर इसके प्रभाव को उजागर करती है?",
+    "section": "Discipline4",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "1",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "कुशल मानव संसाधन और रोजगार क्षमता विकसित करके",
+      "अभिजात वर्ग के बीच धन और अवसरों को केंद्रित करके",
+      "शिक्षा को श्रम बाजार की माँगों से पृथक करके",
+      "व्यावसायिक और तकनीकी प्रशिक्षण की आवश्यकता को समाप्त करके"
+    ],
+    "q_en": "",
+    "q_hi": "शिक्षा समाज में आर्थिक विकास को किस प्रकार प्रभावित करती है?",
+    "section": "Discipline4",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "2",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "प्रशासनिक दक्षता",
+      "जटिलता का सरलीकरण",
+      "तत्काल आँकड़ा विश्लेषण",
+      "विस्तृत विषय-वस्तु समावेशन"
+    ],
+    "q_en": "",
+    "q_hi": "सूक्ष्म शिक्षण (Microteaching) तकनीक में कक्षा विद्यार्थी संख्या (5–10 विद्यार्थियों तक) और पाठवधि (लगभग 6 मिनट तक) कम करने का प्राथमिक शिक्षणशास्त्रीय उद्देश्य क्या है?",
+    "section": "Discipline4",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "1",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "वर्तमान विद्यार्थी परिणामों पर आधारभूत आँकड़ें एकत्र करना और उसका विश्लेषण करना",
+      "शिक्षकों के लिए मासिक रूप से अनिवार्य कार्यशालाओं में भाग लेने की आवश्यकता",
+      "विद्यार्थियों के कार्यभार को कम करने के लिए विद्यालय दिवसों की संख्या में कमी करना",
+      "सभी कक्षाओं में नई तकनीक को तत्काल लागू करना"
+    ],
+    "q_en": "",
+    "q_hi": "आपको एक निम्न प्रदर्शन वाले जिले में स्कूल की प्रभावशीलता में सुधार के लिए एक योजना तैयार करने का कार्य सौंपा गया है। मापन सिद्धांतों के आधार पर कौन-सा प्रारंभिक कदम सबसे उपयुक्त है?",
+    "section": "Discipline4",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "3",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "लिखावट की गति",
+      "व्याकरण नियमों का स्मरण",
+      "आलोचनात्मक चिंतन और मूल्यांकन",
+      "मौन पठन की धाराप्रवाहता"
+    ],
+    "q_en": "",
+    "q_hi": "एक शिक्षक सहकर्मी सम्मेलन का उपयोग करता है जिसमें विद्यार्थी विचारों और संगठन पर केंद्रित चेकलिस्ट का उपयोग करके एक-दूसरे के लेखन पर चर्चा करते हैं। इस पद्धति के माध्यम से मुख्य रूप से कौन-सा प्रमुख कौशल विकसित होता है?",
+    "section": "Discipline4",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "4",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "मध्यमार्गी सुलह का प्रयास करें (Seek a middle-ground compromise)",
+      "आकस्मिक पुरस्कार प्रदान करें (Offer contingent rewards)",
+      "नौकरशाही नियमों को लागू करें (Impose bureaucratic rules)",
+      "चक्रीय अनुक्रिया की सुविधा प्रदान करें (Facilitate a circular response)"
+    ],
+    "q_en": "",
+    "q_hi": "प्राथमिक शिक्षा निदेशक के रूप में, विद्यालयी संस्कृति में शिफ्ट (shift) का प्रबंधन करते हुए, शिक्षकों के विरोध का समाधान करते समय कौन-सी क्रिया संघर्ष समाधान की एकीकरण पद्धति के अनुरूप है?",
+    "section": "Discipline4",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "4",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "Instructional Classroom Tool (इंस्ट्रक्शनल क्लासरूम टूल)",
+      "Integrated Curriculum Theory (इंटीग्रेटेड करिकुलम थ्योरी)",
+      "Interactive Communication Training (इंटरैक्टिव कम्युनिकेशन ट्रेनिंग)",
+      "Information and Communication Technology (इन्फॉर्मेशन एंड कम्युनिकेशन टेक्नोलॉजी)"
+    ],
+    "q_en": "",
+    "q_hi": "अंग्रेजी भाषा शिक्षण में ICT का पूर्ण रूप क्या है?",
+    "section": "Discipline4",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "3",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "तात्कालिक प्रतीकात्मक अनुदेशात्मक निरूपण",
+      "अमूर्त संख्यात्मक पुनर्बलन साधन",
+      "स्थानीय रूप से उपलब्ध मूर्त अधिगम संसाधन",
+      "मानकीकृत हस्तपरक आकलन युक्‍ति"
+    ],
+    "q_en": "",
+    "q_hi": "एक शिक्षक गिनती सिखाने के लिए बोतलों के ढक्कन और पत्थरों का उपयोग करता है। ये सामग्रियां क्या हैं?",
+    "section": "Discipline4",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "4",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "विश्लेषण और अनुचिंतन के लिए केस स्टडी का उपयोग करना",
+      "उदाहरणों के साथ संदर्भ में प्रमुख परिभाषाओं पर चर्चा करना",
+      "अध्यायों का सारांश और मुख्य विचारों पर बहस करना",
+      "वास्तविक विश्व की समस्याओं को हल करने के लिए अभ्यासों को लागू करना"
+    ],
+    "q_en": "",
+    "q_hi": "कोई शिक्षक, वैकल्पिक शिक्षणशास्त्रीय पाठ्यक्रम में पाठ्यपुस्तकों का उपयोग करके समालोचनात्मक चिंतन को बढ़ावा देना चाहता है। शिक्षण-अधिगम प्रक्रिया में पाठ्यपुस्तक की भूमिका का सबसे प्रभावी तरीके से उपयोग करने के लिए कौन-सा उपागम उपयुक्त है?",
+    "section": "Discipline4",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "2",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "मध्यस्थ प्रभाव",
+      "विपरीत प्रभाव",
+      "अप्रत्यक्ष प्रभाव",
+      "प्रत्यक्ष प्रभाव"
+    ],
+    "q_en": "",
+    "q_hi": "निम्नलिखित में से कौन-सा प्रभाव उन विद्यार्थियों को संदर्भित करता है जो लीडर के पूर्व प्रभाव के बिना विद्यालय के लीडर की कार्य प्रणाली को प्रभावित करते हैं?",
+    "section": "Discipline4",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "2",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "यह सुनिश्चित करना चाहिए कि सभी शब्द अत्यधिक तकनीकी हो",
+      "यह सुनिश्चित करना चाहिए कि भाषा अधिगमकर्ता के अनुकूल हो",
+      "यह सुनिश्चित करना चाहिए कि केवल एक ही संदर्भ का उपयोग किया गया हो",
+      "यह सुनिश्चित करना चाहिए कि गद्यांश संभावित रूप से लंबे हों"
+    ],
+    "q_en": "",
+    "q_hi": "एक विद्यालय विज्ञान और सामाजिक विज्ञान की पाठ्यपुस्तकों के गद्यांशो की समीक्षा कर रहा है। प्रभावी भाषा अधिगम को बढ़ावा देने के लिए शिक्षकों को क्या करना चाहिए?",
+    "section": "Discipline4",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "1",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "पर्यावरण के प्रति जागरूकता",
+      "प्रतिस्पर्धा की भावना",
+      "प्रौद्योगिकी पर ध्यान केंद्रण",
+      "आर्थिक विकास के लिए अभियान"
+    ],
+    "q_en": "",
+    "q_hi": "राष्ट्रीय शिक्षा नीति (1986) में, समाज के सभी वर्गों में कम आयु से ही किन सामाजिक मूल्यों को पोषित करने की आवश्यकता पर प्रकाश डाला गया है?",
+    "section": "Discipline4",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "3",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "विद्यार्थी की आवश्यकताओं को अनदेखा करना",
+      "यादृच्छिक गतिविधि चयन",
+      "उद्देश्यों की स्पष्टता",
+      "केवल आकलन पर फोकस करना"
+    ],
+    "q_en": "",
+    "q_hi": "निम्नलिखित में से कौन-सा, पाठ योजना का प्राथमिक सिद्धांत है?",
+    "section": "Discipline4",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "2",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "जल; स्रोतों का वर्गीकरण",
+      "पादप; प्रत्यक्ष जाँच और प्रेक्षण",
+      "आश्रय; गृह डिज़ाइन का मानचित्रण",
+      "यात्रा; प्रवासन प्रारूप का पूर्वानुमान"
+    ],
+    "q_en": "",
+    "q_hi": "विद्यार्थी, समय के साथ पादप सामग्री के अपघटन का प्रेक्षण करने के लिए साधारण कंपोस्ट बिन्स बनाते हैं। इसमें मुख्यतः किस पाठ्यक्रम संप्रत्यय और उपागम का उपयोग किया जा रहा है?",
+    "section": "Discipline4",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "3",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "विश्व स्तर पर बेहतर सामाजिक मूल्यों का एकीकरण",
+      "वाणिज्‍यीकरण के जोखिमों के बिना अभिगम का विस्तार",
+      "विखंडन जो ज्ञान साइलो को विभाजित कर रहा है",
+      "सभी अधिगम क्षेत्रों का व्यापक एकीकरण"
+    ],
+    "q_en": "",
+    "q_hi": "उदारीकरण, निजीकरण, वैश्वीकरण का संयुक्त प्रभाव किस विशिष्‍ट गुणवत्ता को कम करने वाली प्रक्रिया से शैक्षिक लक्ष्यों को कमजोर करता है?",
+    "section": "Discipline4",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "3",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "विद्यार्थियों के स्मरण हेतु जल चक्र के मुद्रित आरेख वितरित करना।",
+      "बिना किसी प्रदर्शन के जल चक्र के बारे में निबंध लिखने के लिए विद्यार्थियों को देना।",
+      "एक सरल जल चक्र मॉडल बनाने के लिए एक प्लास्टिक की बोतल और कुछ जल का उपयोग करना।",
+      "किसी नजदीकी विज्ञान केंद्र से एक इलेक्ट्रॉनिक जल चक्र सिम्युलेटर किराए पर लेना।"
+    ],
+    "q_en": "",
+    "q_hi": "एक शिक्षिका न्यूनतम संसाधनों का उपयोग करके अपनी कक्षा के लिए जलचक्र मॉडल बनाना चाहती है। संदर्भ में वर्णित कम लागत वाली सामग्रियों के उपयोग को प्रदर्शित करने के लिए कौन-सा उपागम सबसे उपयुक्त है?",
+    "section": "Discipline4",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "2",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "Solving real-life number set problems",
+      "Practicing patterns and relationships",
+      "Analyzing examples and counterexamples",
+      "Exploring historical context of numbers"
+    ],
+    "q_en": "",
+    "q_hi": "Suppose you are designing a mathematics curriculum for graduate students focusing on numbers. Which approach best fosters deep understanding of the hierarchy and relationships among natural, integer, rational, real, and complex numbers?",
+    "section": "Discipline5",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "1",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "गणित से संबद्ध भय और दुश्‍चिंता को कम करता है",
+      "औपचारिक एल्गोरिथ्म के कठोर अनुपालन को बढ़ावा देता है",
+      "शिक्षार्थी की रचनात्मकता और कल्पना को सीमित करता है",
+      "रटकर याद करने की विधियों पर निर्भरता को बढ़ाता है"
+    ],
+    "q_en": "",
+    "q_hi": "मनोविनोदात्मक गणित (Recreational mathematics) आनंदपूर्ण अधिगम का समर्थन करती है क्योंकि यह ____________________।",
+    "section": "Discipline5",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "2",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "केवल परीक्षण आधारित उपागम (A test‑only approach)",
+      "एकाधिक आकलन तकनीकों (Multiple assessment techniques)",
+      "एकल-प्रारूप आकलन (A single‑format assessment)",
+      "एक गैर-मूल्यांकन वाली कक्षा (A non‑evaluative classroom)"
+    ],
+    "q_en": "",
+    "q_hi": "एक शिक्षक मौखिक चर्चा, लिखित कार्यों और प्रेक्षण टिप्पणियों के माध्यम से विद्यार्थियों का मूल्यांकन करता है। यह ________ को निरूपित करता है।",
+    "section": "Discipline5",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "3",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "सामयिक घटनाओं पर बहस करने की तकनीकों का अभ्यास करना",
+      "वैश्विक मुद्दों पर संवाद करने के लिए विदेशी भाषाओं का अधिगम करना",
+      "विभिन्न पर्यावरणीय मुद्दों के प्रति जागरूकता और संवेदनशीलता सृजित करना",
+      "पर्यावरण सांख्यिकी के माध्यम से गणितीय कौशल में सुधार करना"
+    ],
+    "q_en": "",
+    "q_hi": "किसी इको-क्लब का कौन-सा उद्देश्य पर्यावरण के प्रति सकारात्मक अभिवृत्‍ति और नीति विकसित करने से प्रत्यक्ष रूप से संबंधित है?",
+    "section": "Discipline5",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "2",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "वैज्ञानिक अवधारणाएँ सर्वमान्य और स्थिर होती हैं।",
+      "नए साक्ष्यों और पुनर्व्याख्या के साथ वैज्ञानिक अवधारणाएँ विकसित होती रहती हैं।",
+      "वैज्ञानिक अवधारणाएँ वैज्ञानिकों की वैयक्तिक धारणाएँ होती हैं।",
+      "वैज्ञानिक अवधारणाओं को प्रचलित तकनीक के अनुरूप बनाया जाता है।"
+    ],
+    "q_en": "",
+    "q_hi": "एक व्यावसायिक विकास कार्यशाला के दौरान, शिक्षक इस कथन पर वाद-विवाद कर रहे हैं कि 'वैज्ञानिक अवधारणाएँ निरपेक्ष और अपरिवर्तनीय होती हैं।' विज्ञान शिक्षा विशेषज्ञ के रूप में, आप वैज्ञानिक अवधारणाओं की प्रकृति को स्पष्ट करने के लिए किस तर्क का उपयोग करेंगे?",
+    "section": "Discipline5",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "3",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "वैज्ञानिक उपकरण, प्रयोगशाला कोट और आवर्त सारणी",
+      "गणितीय चार्ट, संख्या ब्लॉक और मापन टेप",
+      "ऑडियो रिकॉर्डिंग, पिक्चर कार्ड और रोल-प्ले प्रॉप्स",
+      "भौगोलिक मानचित्र, कम्पास और मौसम जर्नल"
+    ],
+    "q_en": "",
+    "q_hi": "एक विविध कक्षा में कहानी सुनाने (storytelling) पर आधारित भाषा के पाठ के लिए कौन-सी शिक्षण सहायक सामग्रियां सर्वाधिक प्रभावी होंगी?",
+    "section": "Discipline5",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "3",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "Minimal brain damage",
+      "Curricular assessment",
+      "Response to intervention",
+      "Syndrome analysis"
+    ],
+    "q_en": "",
+    "q_hi": "Which method replaces IQ-achievement gap criteria by assessing learner difficulty based on instructional failure?",
+    "section": "Discipline5",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "1",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "हाशिए पर स्थित समुदायों के बच्चों को नियमित कक्षाओं में प्रवेश देना",
+      "केवल उच्च प्रदर्शन करने वाले विद्यार्थियों के लिए अलग कक्षाएं उपलब्ध कराना",
+      "अशक्त बच्चों की क्रियाकलापों में सहभागिता सीमित करना",
+      "पाठ्यपुस्तकों के माध्यम से केवल मुख्यधारा की सांस्कृतिक विषय-वस्तु को पढ़ाना"
+    ],
+    "q_en": "",
+    "q_hi": "निम्नलिखित में से भारतीय विद्यालयों में समावेशन का उदाहरण कौन-सा है?",
+    "section": "Discipline5",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "1",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "वैज्ञानिक अवधारणाओं की व्यावहारिक समझ में कमी",
+      "विज्ञान का पाठ्यक्रम तेजी से पूरा होगा",
+      "प्रयोगशाला प्रयोगों पर निर्भरता में वृद्धि होगी",
+      "विद्यार्थियों में बेहतर वैज्ञानिक कौशल विकसित होंगे"
+    ],
+    "q_en": "",
+    "q_hi": "एक ऐसे कक्षाकक्ष की कल्पना कीजिए जिसमें विज्ञान किट का उपयोग नहीं किया जाता है। विद्यार्थियों के अधिगम पर इसका संभावित परिणाम क्या होगा?",
+    "section": "Discipline5",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "4",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "शिक्षकों की भर्ती",
+      "पाठ योजना",
+      "विद्यार्थी का आकलन",
+      "कार्यक्रम का मूल्यांकन"
+    ],
+    "q_en": "",
+    "q_hi": "यदि कोई विद्यालय व्यवस्थित रूप से जानकारी एकत्र करके, अनुमान लगाकर और संशोधनों पर निर्णय लेकर अपने अंग्रेजी कार्यक्रम में सुधार करना चाहता है, तो किस प्रक्रिया का अनुपालन किया जा रहा है?",
+    "section": "Discipline5",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "2",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "समस्या समाधान (Problem solving)",
+      "रटना और अभ्यास (Rote learning and drill)",
+      "आगमन तर्क (Inductive reasoning)",
+      "संकल्‍पनात्‍मक ज्ञान (Conceptual knowledge)"
+    ],
+    "q_en": "",
+    "q_hi": "गणित पढ़ाने में शैक्षिक शिफ्ट, पारंपरिक मॉडल (traditional model) से हटकर निम्नलिखित में से किस पर केंद्रित हो जाता है?",
+    "section": "Discipline5",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "1",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "गणन-वैकल्‍य (Dyscalculia)",
+      "पठन- वैकल्‍य (Dyslexia)",
+      "लेखन-वैकल्‍य (Dysgraphia)",
+      "गतिसमन्वयवैकल्‍य (Dyspraxia)"
+    ],
+    "q_en": "",
+    "q_hi": "निम्नलिखित में से कौन-सी अधिगम अक्षमता किसी व्यक्ति की संख्याओं को समझने और गणितीय तथ्यों को सीखने की क्षमता को प्रभावित करती है?",
+    "section": "Discipline5",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "1",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "परिमेय संख्याएं",
+      "अपरिमेय संख्याएं",
+      "प्राकृत संख्याएं",
+      "पूर्ण संख्याएं"
+    ],
+    "q_en": "",
+    "q_hi": "वह कौन-सा शब्द है जो उन संख्याओं का वर्णन करता है जिन्हें भिन्नों के रूप में लिखा जा सकता है?",
+    "section": "Discipline5",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "1",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "मानकीकृत विकासात्मक स्क्रीनिंग चेकलिस्ट का प्रबंध करना",
+      "केवल शारीरिक स्वस्थता का मूल्यांकन करना",
+      "केवल विशिष्ट विषय निष्पादन का मूल्यांकन करना",
+      "केवल सामान्य बुद्धि परीक्षण का उपयोग करना"
+    ],
+    "q_en": "",
+    "q_hi": "एक बच्चे में विलंबित वाक् विकास के लक्षण हैं और उसे सामाजिक अन्योन्यक्रियाओं में कठिनाई हो रही है। इस मामले में संभावित विकासात्मक अक्षमताओं की पहचान करने के लिए कौन-सा आकलन साधन सबसे उपयुक्त है?",
+    "section": "Discipline5",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "2",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "मौजूदा यूनिफॉर्म और रेस्टरूम संबंधी प्रतिबंधों को बनाए रखते हुए परामर्श प्रदान करना",
+      "विद्यार्थी को उनके जेंडर पहचान के अनुसार यूनिफॉर्म और शौचालय का चयन करने देना",
+      "विद्यार्थी द्वारा शुरू किए गए किसी भी पहचान संबंधी समायोजन के लिए माता-पिता की स्वीकृति अनिवार्य करना",
+      "केवल ट्रांसजेंडर विद्यार्थियों के लिए अलग से डिज़ाइन किए गए रेस्टरूम और यूनिफॉर्म उपलब्ध कराना"
+    ],
+    "q_en": "",
+    "q_hi": "एक स्कूल, ट्रांसजेंडर और नॉन-बाइनरी विद्यार्थियों को सहयोग देने के लिए अपनी नीतियों में संशोधन करना चाहता है। कौन-सा नीतिगत बदलाव समावेशी परिवेश को सबसे प्रभावी रूप से संवर्धित करेगा?",
+    "section": "Discipline5",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "2",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "प्रशासनिक बोझ",
+      "अधिगम के अवसर",
+      "पाठ्यचर्या से संबंधित दोष",
+      "कक्षा में कठिनाई"
+    ],
+    "q_en": "",
+    "q_hi": "समावेशी शिक्षा, मुख्यत: शिक्षार्थियों के बीच विविधता को ___________ के रूप में देखती है।",
+    "section": "Discipline5",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "4",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "Science as unchanging facts",
+      "Science as only memorizing textbooks",
+      "Science as guessing answers",
+      "Science as inquiry driven knowledge"
+    ],
+    "q_en": "",
+    "q_hi": "A teacher encourages students to ask questions about why it rains more in some seasons. What does this teaching strategy highlight?",
+    "section": "Discipline5",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "2",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "विश्लेषणात्मक और विमर्शी चिंतन प्रक्रियाओं को प्रोत्साहित करना",
+      "ज्ञान और सूचना तक पहुँच की क्षमता को कम करना",
+      "शिक्षार्थियों को विभिन्न प्रकार के पाठों से अर्थपूर्ण रूप से जुड़ने में सहायता करना",
+      "लिखित सामग्री की व्याख्या को प्रभावी रूप से सुगम बनाना"
+    ],
+    "q_en": "",
+    "q_hi": "निम्नलिखित में से कौन-सा, पठन कौशल का एक महत्व <strong>नहीं </strong>है?",
+    "section": "Discipline5",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "2",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "आर्थिक बहिष्कार",
+      "सामाजिक बहिष्कार",
+      "शारीरिक बहिष्कार",
+      "शैक्षणिक बहिष्कार"
+    ],
+    "q_en": "",
+    "q_hi": "भारत में एक स्कूल एक विशेष अल्पसंख्यक समुदाय के बच्चों को प्रवेश देने से इनकार करता है। यह किस प्रकार का बहिष्कार है?",
+    "section": "Discipline5",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "4",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "केवल चिकित्सा निदान के आधार पर शिक्षार्थियों को लेबल करना",
+      "एकल परीक्षणों के माध्यम से बुद्धि का निर्धारण करना",
+      "शिक्षार्थियों को विशेष स्कूलों में अलग करना",
+      "अधिगम को प्रभावित करने वाली कार्यात्मक कठिनाइयों की पहचान करना"
+    ],
+    "q_en": "",
+    "q_hi": "शिक्षा में अशक्तता की पहचान मुख्य रूप से किस प्रक्रिया को संदर्भित करती है?",
+    "section": "Discipline5",
+    "solution": "",
+    "topic": ""
+  }
+]
