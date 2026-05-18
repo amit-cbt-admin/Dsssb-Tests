@@ -1,0 +1,422 @@
+[
+  {
+    "ans": "3",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "8.4",
+      "6.4",
+      "7.8",
+      "4.8"
+    ],
+    "q_en": "",
+    "q_hi": "एक सेल के दौरान, 55% वस्तुओं को 15% लाभ पर बेचा जाता है। शेष वस्तुओं में से 40% वस्तुओं को 32% लाभ पर बेचा जाता है, और उसके बाद शेष वस्तुओं को 23% की हानि पर बेचा जाता है। यदि इसमें समग्र लाभ x% होता है, तो x का मान कितना होगा?",
+    "section": "Arithmetical and Numerical Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "2",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "12,500",
+      "13,000",
+      "12,250",
+      "13,350"
+    ],
+    "q_en": "",
+    "q_hi": "गोपाल के दो पौत्र, अक्षय और अतुल हैं। 13 वर्षीय अक्षय को गोपाल की संपत्ति से कुछ धनराशि मिलती हैं, और 14 वर्षीय अतुल को शेष धनराशि मिलती है। लेकिन अक्षय और अतुल को ये धनराशि तभी मिलेगी जब वे 25 वर्ष के हो जाएंगे। तब तक, धनराशि किसी बैंक में रखी जाएगी जिस पर 4% वार्षिक दर से ब्याज (वार्षिक रूप से संयोजित) अर्जित होगा। जब दोनों 25 वर्ष के हो जाते हैं, तो उन्हें समान धनराशि मिलती है। यदि गोपाल के पास कुल धनराशि ₹25,500 थी, तो गोपाल ने शुरू में अतुल को कितनी धनराशि (₹ में) दी थी?",
+    "section": "Arithmetical and Numerical Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "3",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "7.5",
+      "7.4",
+      "7.2",
+      "7.3"
+    ],
+    "q_en": "",
+    "q_hi": "18 व्यक्ति किसी कार्य को 6 दिन में पूरा कर सकते हैं। 15 व्यक्ति उसी कार्य को कितने दिन में पूरा कर सकते हैं?",
+    "section": "Arithmetical and Numerical Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "1",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "245",
+      "255",
+      "225",
+      "235"
+    ],
+    "q_en": "",
+    "q_hi": "दी गई तालिका का अध्ययन कीजिए और उसके बाद दिए गए प्रश्न का उत्तर दीजिए। तालिका में एक विशेष कॉलेज में विभिन्न इंजीनियरिंग शाखाओं में निर्दिष्ट वर्षों के दौरान छात्रों के नामांकन का विवरण दिया गया है।\n<table class=\"MsoTableGrid\" style=\":#333333; font-family:&quot;Segoe UI&quot;, sans-serif, arial; font-size:12px; font-style:normal; font-variant-ligatures:normal; font-weight:400; text-align:justify; white-space:normal; background-:#e6f3fb; text-decoration-thickness:initial; text-decoration-style:initial; text-decoration-:initial;  border-collapse:collapse; border:none\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td rowspan=\"2\" style=\"border-bottom:1px solid black; width:72px; padding:0in 7px; height:17px; text-align:center; background-:#e6f3fb; border-top:1px solid black; border-right:1px solid black; border-left:1px solid black\" valign=\"top\"><span style=\"font-size:16px\"><span style=\"font-family:Arial, Helvetica, sans-serif\"><span style=\"line-height:normal\">वर्ष</span></span></span></td>\n\t\t\t<td colspan=\"6\" style=\"border-bottom:1px solid black; width:486px; padding:0in 7px; height:17px; text-align:center; background-:#e6f3fb; border-top:1px solid black; border-right:1px solid black; border-left:none\"><span style=\"font-size:16px\"><span style=\"font-family:Arial, Helvetica, sans-serif\"><span style=\"line-height:normal\">इंजीनियरिंग शाखाएं</span></span></span></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"border-bottom:1px solid black; width:66px; padding:0in 7px; height:11px; text-align:center; background-:#e6f3fb; border-top:none; border-right:1px solid black; border-left:none\" valign=\"top\"><span style=\"font-size:16px\"><span style=\"font-family:Arial, Helvetica, sans-serif\"><span style=\"line-height:normal\">CSE</span></span></span></td>\n\t\t\t<td style=\"border-bottom:1px solid black; width:78px; padding:0in 7px; height:11px; text-align:center; background-:#e6f3fb; border-top:none; border-right:1px solid black; border-left:none\" valign=\"top\"><span style=\"font-size:16px\"><span style=\"font-family:Arial, Helvetica, sans-serif\"><span style=\"line-height:normal\">IT</span></span></span></td>\n\t\t\t<td style=\"border-bottom:1px solid black; width:78px; padding:0in 7px; height:11px; text-align:center; background-:#e6f3fb; border-top:none; border-right:1px solid black; border-left:none\" valign=\"top\"><span style=\"font-size:16px\"><span style=\"font-family:Arial, Helvetica, sans-serif\"><span style=\"line-height:normal\">सिविल</span></span></span></td>\n\t\t\t<td style=\"border-bottom:1px solid black; width:84px; padding:0in 7px; height:11px; text-align:center; background-:#e6f3fb; border-top:none; border-right:1px solid black; border-left:none\" valign=\"top\"><span style=\"font-size:16px\"><span style=\"font-family:Arial, Helvetica, sans-serif\"><span style=\"line-height:normal\">EEE</span></span></span></td>\n\t\t\t<td style=\"border-bottom:1px solid black; width:84px; padding:0in 7px; height:11px; text-align:center; background-:#e6f3fb; border-top:none; border-right:1px solid black; border-left:none\" valign=\"top\"><span style=\"font-size:16px\"><span style=\"font-family:Arial, Helvetica, sans-serif\"><span style=\"line-height:normal\">ECE</span></span></span></td>\n\t\t\t<td style=\"border-bottom:1px solid black; width:96px; padding:0in 7px; height:11px; text-align:center; background-:#e6f3fb; border-top:none; border-right:1px solid black; border-left:none\" valign=\"top\"><font face=\"Arial, Helvetica, sans-serif\"><span style=\"font-size: 16px;\">कुल</span></font></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"border-bottom:1px solid black; width:72px; padding:0in 7px; height:21px; text-align:center; background-:#e6f3fb; border-top:none; border-right:1px solid black; border-left:1px solid black\" valign=\"top\"><span style=\"font-size:16px\"><span style=\"font-family:Arial, Helvetica, sans-serif\"><span style=\"line-height:normal\">2015</span></span></span></td>\n\t\t\t<td style=\"border-bottom:1px solid black; width:66px; padding:0in 7px; height:21px; text-align:center; background-:#e6f3fb; border-top:none; border-right:1px solid black; border-left:none\" valign=\"top\"><span style=\"font-size:16px\"><span style=\"font-family:Arial, Helvetica, sans-serif\"><span style=\"line-height:normal\">75</span></span></span></td>\n\t\t\t<td style=\"border-bottom:1px solid black; width:78px; padding:0in 7px; height:21px; text-align:center; background-:#e6f3fb; border-top:none; border-right:1px solid black; border-left:none\" valign=\"top\"><span style=\"font-size:16px\"><span style=\"font-family:Arial, Helvetica, sans-serif\"><span style=\"line-height:normal\">144</span></span></span></td>\n\t\t\t<td style=\"border-bottom:1px solid black; width:78px; padding:0in 7px; height:21px; text-align:center; background-:#e6f3fb; border-top:none; border-right:1px solid black; border-left:none\" valign=\"top\"><span style=\"font-size:16px\"><span style=\"font-family:Arial, Helvetica, sans-serif\"><span style=\"line-height:normal\">114</span></span></span></td>\n\t\t\t<td style=\"border-bottom:1px solid black; width:84px; padding:0in 7px; height:21px; text-align:center; background-:#e6f3fb; border-top:none; border-right:1px solid black; border-left:none\" valign=\"top\"><span style=\"font-size:16px\"><span style=\"font-family:Arial, Helvetica, sans-serif\"><span style=\"line-height:normal\">102</span></span></span></td>\n\t\t\t<td style=\"border-bottom:1px solid black; width:84px; padding:0in 7px; height:21px; text-align:center; background-:#e6f3fb; border-top:none; border-right:1px solid black; border-left:none\" valign=\"top\"><span style=\"font-size:16px\"><span style=\"font-family:Arial, Helvetica, sans-serif\"><span style=\"line-height:normal\">108</span></span></span></td>\n\t\t\t<td style=\"border-bottom:1px solid black; width:96px; padding:0in 7px; height:21px; text-align:center; background-:#e6f3fb; border-top:none; border-right:1px solid black; border-left:none\" valign=\"top\"><span style=\"font-size:16px\"><span style=\"font-family:Arial, Helvetica, sans-serif\"><span style=\"line-height:normal\">543</span></span></span></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"border-bottom:1px solid black; width:72px; padding:0in 7px; height:20px; text-align:center; background-:#e6f3fb; border-top:none; border-right:1px solid black; border-left:1px solid black\" valign=\"top\"><span style=\"font-size:16px\"><span style=\"font-family:Arial, Helvetica, sans-serif\"><span style=\"line-height:normal\">2016</span></span></span></td>\n\t\t\t<td style=\"border-bottom:1px solid black; width:66px; padding:0in 7px; height:20px; text-align:center; background-:#e6f3fb; border-top:none; border-right:1px solid black; border-left:none\" valign=\"top\"><span style=\"font-size:16px\"><span style=\"font-family:Arial, Helvetica, sans-serif\"><span style=\"line-height:normal\">90</span></span></span></td>\n\t\t\t<td style=\"border-bottom:1px solid black; width:78px; padding:0in 7px; height:20px; text-align:center; background-:#e6f3fb; border-top:none; border-right:1px solid black; border-left:none\" valign=\"top\"><span style=\"font-size:16px\"><span style=\"font-family:Arial, Helvetica, sans-serif\"><span style=\"line-height:normal\">126</span></span></span></td>\n\t\t\t<td style=\"border-bottom:1px solid black; width:78px; padding:0in 7px; height:20px; text-align:center; background-:#e6f3fb; border-top:none; border-right:1px solid black; border-left:none\" valign=\"top\"><span style=\"font-size:16px\"><span style=\"font-family:Arial, Helvetica, sans-serif\"><span style=\"line-height:normal\">102</span></span></span></td>\n\t\t\t<td style=\"border-bottom:1px solid black; width:84px; padding:0in 7px; height:20px; text-align:center; background-:#e6f3fb; border-top:none; border-right:1px solid black; border-left:none\" valign=\"top\"><span style=\"font-size:16px\"><span style=\"font-family:Arial, Helvetica, sans-serif\"><span style=\"line-height:normal\">84</span></span></span></td>\n\t\t\t<td style=\"border-bottom:1px solid black; width:84px; padding:0in 7px; height:20px; text-align:center; background-:#e6f3fb; border-top:none; border-right:1px solid black; border-left:none\" valign=\"top\"><span style=\"font-size:16px\"><span style=\"font-family:Arial, Helvetica, sans-serif\"><span style=\"line-height:normal\">126</span></span></span></td>\n\t\t\t<td style=\"border-bottom:1px solid black; width:96px; padding:0in 7px; height:20px; text-align:center; background-:#e6f3fb; border-top:none; border-right:1px solid black; border-left:none\" valign=\"top\"><span style=\"font-size:16px\"><span style=\"font-family:Arial, Helvetica, sans-serif\"><span style=\"line-height:normal\">528</span></span></span></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"border-bottom:1px solid black; width:72px; padding:0in 7px; height:21px; text-align:center; background-:#e6f3fb; border-top:none; border-right:1px solid black; border-left:1px solid black\" valign=\"top\"><span style=\"font-size:16px\"><span style=\"font-family:Arial, Helvetica, sans-serif\"><span style=\"line-height:normal\">2017</span></span></span></td>\n\t\t\t<td style=\"border-bottom:1px solid black; width:66px; padding:0in 7px; height:21px; text-align:center; background-:#e6f3fb; border-top:none; border-right:1px solid black; border-left:none\" valign=\"top\"><span style=\"font-size:16px\"><span style=\"font-family:Arial, Helvetica, sans-serif\"><span style=\"line-height:normal\">96</span></span></span></td>\n\t\t\t<td style=\"border-bottom:1px solid black; width:78px; padding:0in 7px; height:21px; text-align:center; background-:#e6f3fb; border-top:none; border-right:1px solid black; border-left:none\" valign=\"top\"><span style=\"font-size:16px\"><span style=\"font-family:Arial, Helvetica, sans-serif\"><span style=\"line-height:normal\">114</span></span></span></td>\n\t\t\t<td style=\"border-bottom:1px solid black; width:78px; padding:0in 7px; height:21px; text-align:center; background-:#e6f3fb; border-top:none; border-right:1px solid black; border-left:none\" valign=\"top\"><span style=\"font-size:16px\"><span style=\"font-family:Arial, Helvetica, sans-serif\"><span style=\"line-height:normal\">75</span></span></span></td>\n\t\t\t<td style=\"border-bottom:1px solid black; width:84px; padding:0in 7px; height:21px; text-align:center; background-:#e6f3fb; border-top:none; border-right:1px solid black; border-left:none\" valign=\"top\"><span style=\"font-size:16px\"><span style=\"font-family:Arial, Helvetica, sans-serif\"><span style=\"line-height:normal\">105</span></span></span></td>\n\t\t\t<td style=\"border-bottom:1px solid black; width:84px; padding:0in 7px; height:21px; text-align:center; background-:#e6f3fb; border-top:none; border-right:1px solid black; border-left:none\" valign=\"top\"><span style=\"font-size:16px\"><span style=\"font-family:Arial, Helvetica, sans-serif\"><span style=\"line-height:normal\">135</span></span></span></td>\n\t\t\t<td style=\"border-bottom:1px solid black; width:96px; padding:0in 7px; height:21px; text-align:center; background-:#e6f3fb; border-top:none; border-right:1px solid black; border-left:none\" valign=\"top\"><span style=\"font-size:16px\"><span style=\"font-family:Arial, Helvetica, sans-serif\"><span style=\"line-height:normal\">525</span></span></span></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"border-bottom:1px solid black; width:72px; padding:0in 7px; height:20px; text-align:center; background-:#e6f3fb; border-top:none; border-right:1px solid black; border-left:1px solid black\" valign=\"top\"><span style=\"font-size:16px\"><span style=\"font-family:Arial, Helvetica, sans-serif\"><span style=\"line-height:normal\">2018</span></span></span></td>\n\t\t\t<td style=\"border-bottom:1px solid black; width:66px; padding:0in 7px; height:20px; text-align:center; background-:#e6f3fb; border-top:none; border-right:1px solid black; border-left:none\" valign=\"top\"><span style=\"font-size:16px\"><span style=\"font-family:Arial, Helvetica, sans-serif\"><span style=\"line-height:normal\">105</span></span></span></td>\n\t\t\t<td style=\"border-bottom:1px solid black; width:78px; padding:0in 7px; height:20px; text-align:center; background-:#e6f3fb; border-top:none; border-right:1px solid black; border-left:none\" valign=\"top\"><span style=\"font-size:16px\"><span style=\"font-family:Arial, Helvetica, sans-serif\"><span style=\"line-height:normal\">90</span></span></span></td>\n\t\t\t<td style=\"border-bottom:1px solid black; width:78px; padding:0in 7px; height:20px; text-align:center; background-:#e6f3fb; border-top:none; border-right:1px solid black; border-left:none\" valign=\"top\"><span style=\"font-size:16px\"><span style=\"font-family:Arial, Helvetica, sans-serif\"><span style=\"line-height:normal\">150</span></span></span></td>\n\t\t\t<td style=\"border-bottom:1px solid black; width:84px; padding:0in 7px; height:20px; text-align:center; background-:#e6f3fb; border-top:none; border-right:1px solid black; border-left:none\" valign=\"top\"><span style=\"font-size:16px\"><span style=\"font-family:Arial, Helvetica, sans-serif\"><span style=\"line-height:normal\">90</span></span></span></td>\n\t\t\t<td style=\"border-bottom:1px solid black; width:84px; padding:0in 7px; height:20px; text-align:center; background-:#e6f3fb; border-top:none; border-right:1px solid black; border-left:none\" valign=\"top\"><span style=\"font-size:16px\"><span style=\"font-family:Arial, Helvetica, sans-serif\"><span style=\"line-height:normal\">75</span></span></span></td>\n\t\t\t<td style=\"border-bottom:1px solid black; width:96px; padding:0in 7px; height:20px; text-align:center; background-:#e6f3fb; border-top:none; border-right:1px solid black; border-left:none\" valign=\"top\"><span style=\"font-size:16px\"><span style=\"font-family:Arial, Helvetica, sans-serif\"><span style=\"line-height:normal\">510</span></span></span></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"border-bottom:1px solid black; width:72px; padding:0in 7px; height:21px; text-align:center; background-:#e6f3fb; border-top:none; border-right:1px solid black; border-left:1px solid black\" valign=\"top\"><span style=\"font-size:16px\"><span style=\"font-family:Arial, Helvetica, sans-serif\"><span style=\"line-height:normal\">2019</span></span></span></td>\n\t\t\t<td style=\"border-bottom:1px solid black; width:66px; padding:0in 7px; height:21px; text-align:center; background-:#e6f3fb; border-top:none; border-right:1px solid black; border-left:none\" valign=\"top\"><span style=\"font-size:16px\"><span style=\"font-family:Arial, Helvetica, sans-serif\"><span style=\"line-height:normal\">90</span></span></span></td>\n\t\t\t<td style=\"border-bottom:1px solid black; width:78px; padding:0in 7px; height:21px; text-align:center; background-:#e6f3fb; border-top:none; border-right:1px solid black; border-left:none\" valign=\"top\"><span style=\"font-size:16px\"><span style=\"font-family:Arial, Helvetica, sans-serif\"><span style=\"line-height:normal\">75</span></span></span></td>\n\t\t\t<td style=\"border-bottom:1px solid black; width:78px; padding:0in 7px; height:21px; text-align:center; background-:#e6f3fb; border-top:none; border-right:1px solid black; border-left:none\" valign=\"top\"><span style=\"font-size:16px\"><span style=\"font-family:Arial, Helvetica, sans-serif\"><span style=\"line-height:normal\">135</span></span></span></td>\n\t\t\t<td style=\"border-bottom:1px solid black; width:84px; padding:0in 7px; height:21px; text-align:center; background-:#e6f3fb; border-top:none; border-right:1px solid black; border-left:none\" valign=\"top\"><span style=\"font-size:16px\"><span style=\"font-family:Arial, Helvetica, sans-serif\"><span style=\"line-height:normal\">75</span></span></span></td>\n\t\t\t<td style=\"border-bottom:1px solid black; width:84px; padding:0in 7px; height:21px; text-align:center; background-:#e6f3fb; border-top:none; border-right:1px solid black; border-left:none\" valign=\"top\"><span style=\"font-size:16px\"><span style=\"font-family:Arial, Helvetica, sans-serif\"><span style=\"line-height:normal\">90</span></span></span></td>\n\t\t\t<td style=\"border-bottom:1px solid black; width:96px; padding:0in 7px; height:21px; text-align:center; background-:#e6f3fb; border-top:none; border-right:1px solid black; border-left:none\" valign=\"top\"><span style=\"font-size:16px\"><span style=\"font-family:Arial, Helvetica, sans-serif\"><span style=\"line-height:normal\">465</span></span></span></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"border-bottom:1px solid black; width:72px; padding:0in 7px; height:20px; text-align:center; background-:#e6f3fb; border-top:none; border-right:1px solid black; border-left:1px solid black\" valign=\"top\"><span style=\"font-size:16px\"><span style=\"font-family:Arial, Helvetica, sans-serif\"><span style=\"line-height:normal\">2020</span></span></span></td>\n\t\t\t<td style=\"border-bottom:1px solid black; width:66px; padding:0in 7px; height:20px; text-align:center; background-:#e6f3fb; border-top:none; border-right:1px solid black; border-left:none\" valign=\"top\"><span style=\"font-size:16px\"><span style=\"font-family:Arial, Helvetica, sans-serif\"><span style=\"line-height:normal\">105</span></span></span></td>\n\t\t\t<td style=\"border-bottom:1px solid black; width:78px; padding:0in 7px; height:20px; text-align:center; background-:#e6f3fb; border-top:none; border-right:1px solid black; border-left:none\" valign=\"top\"><span style=\"font-size:16px\"><span style=\"font-family:Arial, Helvetica, sans-serif\"><span style=\"line-height:normal\">60</span></span></span></td>\n\t\t\t<td style=\"border-bottom:1px solid black; width:78px; padding:0in 7px; height:20px; text-align:center; background-:#e6f3fb; border-top:none; border-right:1px solid black; border-left:none\" valign=\"top\"><span style=\"font-size:16px\"><span style=\"font-family:Arial, Helvetica, sans-serif\"><span style=\"line-height:normal\">165</span></span></span></td>\n\t\t\t<td style=\"border-bottom:1px solid black; width:84px; padding:0in 7px; height:20px; text-align:center; background-:#e6f3fb; border-top:none; border-right:1px solid black; border-left:none\" valign=\"top\"><span style=\"font-size:16px\"><span style=\"font-family:Arial, Helvetica, sans-serif\"><span style=\"line-height:normal\">45</span></span></span></td>\n\t\t\t<td style=\"border-bottom:1px solid black; width:84px; padding:0in 7px; height:20px; text-align:center; background-:#e6f3fb; border-top:none; border-right:1px solid black; border-left:none\" valign=\"top\"><span style=\"font-size:16px\"><span style=\"font-family:Arial, Helvetica, sans-serif\"><span style=\"line-height:normal\">120</span></span></span></td>\n\t\t\t<td style=\"border-bottom:1px solid black; width:96px; padding:0in 7px; height:20px; text-align:center; background-:#e6f3fb; border-top:none; border-right:1px solid black; border-left:none\" valign=\"top\"><span style=\"font-size:16px\"><span style=\"font-family:Arial, Helvetica, sans-serif\"><span style=\"line-height:normal\">495</span></span></span></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td style=\"border-bottom:1px solid black; width:72px; padding:0in 7px; height:20px; text-align:center; background-:#e6f3fb; border-top:none; border-right:1px solid black; border-left:1px solid black\" valign=\"top\"><span style=\"font-size:16px\"><span style=\"font-family:Arial, Helvetica, sans-serif\"><span style=\"line-height:normal\">2021</span></span></span></td>\n\t\t\t<td style=\"border-bottom:1px solid black; width:66px; padding:0in 7px; height:20px; text-align:center; background-:#e6f3fb; border-top:none; border-right:1px solid black; border-left:none\" valign=\"top\"><span style=\"font-size:16px\"><span style=\"font-family:Arial, Helvetica, sans-serif\"><span style=\"line-height:normal\">115</span></span></span></td>\n\t\t\t<td style=\"border-bottom:1px solid black; width:78px; padding:0in 7px; height:20px; text-align:center; background-:#e6f3fb; border-top:none; border-right:1px solid black; border-left:none\" valign=\"top\"><span style=\"font-size:16px\"><span style=\"font-family:Arial, Helvetica, sans-serif\"><span style=\"line-height:normal\">85</span></span></span></td>\n\t\t\t<td style=\"border-bottom:1px solid black; width:78px; padding:0in 7px; height:20px; text-align:center; background-:#e6f3fb; border-top:none; border-right:1px solid black; border-left:none\" valign=\"top\"><span style=\"font-size:16px\"><span style=\"font-family:Arial, Helvetica, sans-serif\"><span style=\"line-height:normal\">180</span></span></span></td>\n\t\t\t<td style=\"border-bottom:1px solid black; width:84px; padding:0in 7px; height:20px; text-align:center; background-:#e6f3fb; border-top:none; border-right:1px solid black; border-left:none\" valign=\"top\"><span style=\"font-size:16px\"><span style=\"font-family:Arial, Helvetica, sans-serif\"><span style=\"line-height:normal\">100</span></span></span></td>\n\t\t\t<td style=\"border-bottom:1px solid black; width:84px; padding:0in 7px; height:20px; text-align:center; background-:#e6f3fb; border-top:none; border-right:1px solid black; border-left:none\" valign=\"top\"><span style=\"font-size:16px\"><span style=\"font-family:Arial, Helvetica, sans-serif\"><span style=\"line-height:normal\">145</span></span></span></td>\n\t\t\t<td style=\"border-bottom:1px solid black; width:96px; padding:0in 7px; height:20px; text-align:center; background-:#e6f3fb; border-top:none; border-right:1px solid black; border-left:none\" valign=\"top\"><span style=\"font-size:16px\"><span style=\"font-family:Arial, Helvetica, sans-serif\"><span style=\"line-height:normal\">605</span></span></span></td>\n\t\t</tr>\n\t</tbody>\n</table>\nवर्ष 2015 से 2021 तक, CSE और सिविल शाखाओं में छात्रों के नामांकन में अंतर ज्ञात कीजिए।<font></font>",
+    "section": "Arithmetical and Numerical Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "3",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "₹5,800",
+      "₹5,500",
+      "₹6,000",
+      "₹5,600"
+    ],
+    "q_en": "",
+    "q_hi": "एक व्यापारी एक वस्तु को ₹4,500 में खरीदता है। वह अंकित मूल्य पर 10% की छूट प्रदान करने के बाद 20% का लाभ अर्जित करना चाहता है। उसे वस्तु का अंकित मूल्य कितना रखना होगा?",
+    "section": "Arithmetical and Numerical Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "3",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "101",
+      "108",
+      "105",
+      "109"
+    ],
+    "q_en": "",
+    "q_hi": "भाग के एक प्रश्न में, भाजक, भागफल का 10 गुना और शेषफल का दोगुना है। यदि शेषफल 15 है, तो भाज्य ज्ञात कीजिए।",
+    "section": "Arithmetical and Numerical Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "2",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "54,000",
+      "66,000",
+      "72,000",
+      "60,000"
+    ],
+    "q_en": "",
+    "q_hi": "डेविड का मासिक वेतन ₹13,000 है। वह मकान किराए पर ₹4,000 और बिलों पर ₹3,000 खर्च करता है; शेष राशि उसकी मासिक बचत है। यदि वह अपने जन्मदिन के महीने में अपने जन्मदिन समारोह पर पूरी मासिक बचत खर्च कर देता है, तो एक वर्ष बाद उसकी बचत (₹ में) कितनी होगी?",
+    "section": "Arithmetical and Numerical Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "1",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "<img align=\"middle\" alt=\"28 pi\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mn»28«/mn»«mi»§#960;«/mi»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAANCAYAAADISGwcAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAMyZLetQAAAWNJREFUeNpjYIAASyC+BsS/gPg5EHcAMQsDKogG4pNA/AOq7gIQJzNQAQgiWagEdch/IO5BUpMFFZsAxBxQtT1QsQIkdaJAfAUqTgz2AmlKRPOtJVTyC5LYa6gYE5IYE1TsA5JYNQmWwx2ADYAkvyHx70LFgpDEZKFiq5DEQKHRjOS4/1jM/UEoStigCjchiXlB4/0bNN55gPggEC8EYi48niDLAeFQheZo4rZA/BAq9xKIPQiYQ7YDzgHxTCzi4kC8GBrkMEe4keGAX/gsB8XhGWhKRwZaUAujofxYqEHo6YIYB/zHZbk11HJhLHIXsOSCUKjYQzwOQPftH1wOkAfi3WiWR0PLBBC4AdUoiCUbnsFiHguWnMSAlIakkQUlgfgxjnw6CckxsCwnCLWgFVoGaGBxgDFU/SU08T6o+FIg9oN5+BaRBUUWNCr+QFPybmjawAZqofqTsZS666BmrGMYDAAA4QaNCy10fqkAAABadEVYdE1hdGhNTAA8bWF0aCB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMTk5OC9NYXRoL01hdGhNTCI+PG1uPjI4PC9tbj48bWk+JiN4M0MwOzwvbWk+PC9tYXRoPiv/J4QAAAAASUVORK5CYII=\" style=\"max-width: none;\">",
+      "<img align=\"middle\" alt=\"32 pi\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mn»32«/mn»«mi»§#960;«/mi»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAANCAYAAADISGwcAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAMyZLetQAAATtJREFUeNpjYIAAcyA+CsS/gPgTEM8FYmEGVGAJxNegap4DcQcQszBQAWgBcTXUMD4gngnE/4F4P5IaQSQLlaAOAanpQTNLFIivQOWIwV4gTVlohjBBJb8hiSWi+dYSquYLmt5qEiyHO4AJzRANqGQXgZBDdyQIFABxM5In/mPR8wOfoabQ4J1AwHI2qGGbCDiQJAd4IWnaD41PXCAcqs6cmg4AAVkgPgNVuBiPunPQxMpAhgN+EcoVpjjiFzmeQY7kINMB/wk5gAmPA6yhlgsTkb2x+fYPMQ6QhipaiiYuD8S70SyPhiZadMCCwxMPoeLS6IKzoQaDEt4OIH4KxOJIaiSB+DGOvDwJiwOMoXKX0MT7kDznB/PMBGjKBAXXXWjphp4DbhEqTNBALVQuGU0cVKKug0bFOobBAABqo32W005kZgAAAFp0RVh0TWF0aE1MADxtYXRoIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8xOTk4L01hdGgvTWF0aE1MIj48bW4+MzI8L21uPjxtaT4mI3gzQzA7PC9taT48L21hdGg+f0yzZgAAAABJRU5ErkJggg==\" style=\"max-width: none;\">",
+      "<img align=\"middle\" alt=\"16 pi\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mn»16«/mn»«mi»§#960;«/mi»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAANCAYAAADISGwcAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAMyZLetQAAARpJREFUeNpjYIAAWSBOA+LlQPyNgTDwA+I1QPwJiP8wUAFcAuILQPwfinEBUSDeDbW4HoiNgZgJTf4KkjmEsBey4UwEHCAJxPeB+CQQS+NQU02C5RgOYCDggONQBwjiCaECIG7G4xkQ/we+qMDlgGioeBcQb4Ma8hSI80g0i2wH7ICKZwAxCxArQUMDJJZMDwd8wyIOC5VrJDrgFzkO+IVFnI2Aj3A54D85DrgBFZfEov4lHrPQffuHXAc0QsWzkMSUoGJ9WNSzQOXQC7WHUHGs2VgcyQHiaHJc0AIG5FsNIOYB4i1A/BiIhbGYZQw15xKaeB9UfCm0NBVG9zk6Ri8FF0Pj/Ae02MZVINXiyCGgMmQdNCrWMQwGAABpA4NBmOMgBAAAAFp0RVh0TWF0aE1MADxtYXRoIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8xOTk4L01hdGgvTWF0aE1MIj48bW4+MTY8L21uPjxtaT4mI3gzQzA7PC9taT48L21hdGg+UOMXpwAAAABJRU5ErkJggg==\" style=\"max-width: none;\">",
+      "<img align=\"middle\" alt=\"40 pi\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mn»40«/mn»«mi»§#960;«/mi»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAANCAYAAADISGwcAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAMyZLetQAAAR9JREFUeNpjYMAOVgHxfyziokC8CYh/AfFeIJZkoAGIhlqOzQHHoZgDiLcB8QUgZkJz4BUk/YSwF7oFskB8BocDwqFiQVB+AJSfjKSmmgTLsTpgNxDr4XDAGqiYFpQvDOWvQVJTAMTN0FDBZgaI/wNX0JcAcQaSQnTNT6FiLFA+zJIPOMwjyQE6QLyUgOZfOAz8RakD2IB4BxALEtD8h8Qg/U+sg/uA2JwIze+gYrBUzwLlvyTRAf9xKcSF0ROhJFKOQU+EhHz7B0f2Jsr1sWjZMAjKT8SiHxY639DEH0LFpclxACjoL0FLQFC62Q/lM2HRbwzVfwlLdP+HJng/aFYm2gEM0ODfDw3aDUAsjkN/LZZCigGa0NdBo2Idw2AAAMN4iFZL8ohHAAAAWnRFWHRNYXRoTUwAPG1hdGggeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzE5OTgvTWF0aC9NYXRoTUwiPjxtbj40MDwvbW4+PG1pPiYjeDNDMDs8L21pPjwvbWF0aD4MYagWAAAAAElFTkSuQmCC\" style=\"max-width: none;\">"
+    ],
+    "q_en": "",
+    "q_hi": "एक अर्धगोला 2 cm त्रिज्या के उभयनिष्ठ आधार वाले बेलन पर स्थापित है। यदि ठोस की ऊँचाई 7 cm है, तो ठोस का वक्र पृष्ठीय क्षेत्रफल (cm<sup>2 </sup>) ज्ञात कीजिए।<span style=\"color:#ffffff;\"></span>",
+    "section": "Arithmetical and Numerical Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "1",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "4",
+      "6",
+      "5",
+      "3"
+    ],
+    "q_en": "",
+    "q_hi": "मनोज किसी कार्य को 8 घंटे में पूरा कर सकता है। आनंद भी उसी कार्य को 8 घंटे में पूरा कर सकता है। अनिल की सहायता से उन्होंने वह कार्य 2 घंटे में पूरा कर लिया। अनिल अकेले उस कार्य को कितने घंटे में पूरा कर सकता है?",
+    "section": "Arithmetical and Numerical Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "1",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "2,33,750 cm3",
+      "2,23,750 cm3",
+      "2,33,850 cm3",
+      "2,23,650 cm3"
+    ],
+    "q_en": "",
+    "q_hi": "उस बेलन का आयतन ज्ञात कीजिए जिसकी त्रिज्या 25 cm तथा ऊँचाई 119 cm है। <br>\n(<img align=\"middle\" alt=\"pi space equals space 22 over 7\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mi»§#960;«/mi»«mo»§#160;«/mo»«mo»=«/mo»«mo»§#160;«/mo»«mfrac»«mn»22«/mn»«mn»7«/mn»«/mfrac»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEUAAAAlCAYAAAAUeSRzAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAZpE86XgAAAWdJREFUeNpjYBj6wBKIrwHxLyB+DsQdQMxChpphAwSRPKgE9fh/IO4hUc2wAoloMW4J9fAXEtUMewDy8DcqqBk2gA3q4U0UqhlWIBzqYXMK1QwrcA6IZ1JBzbABBUB8Bog5KFQzbIA11LPCFKoZNkAeiHejeTYa2h4hRc2wAZJA/BhacKLjSSSoGVbgFg7PgrAXCWpGwSigAIgC8RU8yWxEJrtqEgKElEAhxcxB2fBpBmImHI4E8X+Q2TkbsoGCzSPUCJRh1fUe7IHyn0aY5ED5NZp9CIuNuEBBTxV/hoLDaQVYGLAP1T2EikuPxEAxhnr+Epp4H1R8KRD7jZTuNwzUQj2fjCYOmiZYB81G60Y7AEMTKOEp0LtGaqBk4QkUrZEaKDOh5SMy0APi4yM5+6hgEQONsiWOliwIAJoAew6lRwEUJDMM0/FYSgCoLNEZDYbRAhYvmISlMTriC9iXowXsaAFLmwIWALX02b5uj24sAAAAm3RFWHRNYXRoTUwAPG1hdGggeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzE5OTgvTWF0aC9NYXRoTUwiPjxtaT4mI3gzQzA7PC9taT48bW8+JiN4QTA7PC9tbz48bW8+PTwvbW8+PG1vPiYjeEEwOzwvbW8+PG1mcmFjPjxtbj4yMjwvbW4+PG1uPjc8L21uPjwvbWZyYWM+PC9tYXRoPuwYB5YAAAAASUVORK5CYII=\" style=\"max-width: none;\"> लीजिए)<span style=\"font-size:20px;\"></span>",
+    "section": "Arithmetical and Numerical Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "1",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "22500",
+      "22250",
+      "22100",
+      "22000"
+    ],
+    "q_en": "",
+    "q_hi": "किस राशि (₹ में) पर 2 वर्षों में 4% वार्षिक ब्याज दर से साधारण ब्याज के रूप में ₹1800 प्राप्त होगा?",
+    "section": "Arithmetical and Numerical Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "3",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "7 : 9",
+      "13 : 10",
+      "10 : 13",
+      "9 : 7"
+    ],
+    "q_en": "",
+    "q_hi": "एक विद्यालय में 480 विद्यार्थी हैं, जहां लड़कों और लड़कियों का अनुपात 7 : 9 है। यदि विद्यालय में 3 और लड़कियों का प्रवेश हो जाए, तो लड़कों और लड़कियों का अनुपात कितना होगा?",
+    "section": "Arithmetical and Numerical Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "3",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "85.24 km/hr",
+      "78.24 km/hr",
+      "87.49 km/hr",
+      "95.41 km/hr"
+    ],
+    "q_en": "",
+    "q_hi": "A और B के बीच की दूरी 813 km है। A से, अमित 107 km/hr की चाल से B तक जाता है और 74 km/hr की चाल से A पर वापस आता है।<br>\nअमित की औसत चाल ज्ञात कीजिए। (दो दशमलव स्थानों तक पूर्णांकित)",
+    "section": "Arithmetical and Numerical Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "1",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "375 लीटर",
+      "285 लीटर",
+      "298 लीटर",
+      "346 लीटर"
+    ],
+    "q_en": "",
+    "q_hi": "एक बर्तन में दो तरल पदार्थ A और B का मिश्रण 5 : 3 के अनुपात में है। यदि मिश्रण से 15 लीटर निकालकर उसके स्थान पर तरल B डाल दिया जाए, तो नया अनुपात 3 : 2 हो जाता है। मिश्रण की प्रारंभिक मात्रा ज्ञात कीजिए।",
+    "section": "Arithmetical and Numerical Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "1",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "<div><img align=\"middle\" alt=\"16 2 over 3 percent sign space\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mn»16«/mn»«mfrac»«mn»2«/mn»«mn»3«/mn»«/mfrac»«mo»%«/mo»«mo»§#160;«/mo»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADkAAAAlCAYAAAD4DEFlAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAZpE86XgAAAkpJREFUeNrtmV9EQ1Ecx68rM0lMkkyip+k1k+k1ySS99bCnRLKHpNcesrckmfSSJJlEekiSSHpKYpIkiUwy6S2Zaybqd/iO4zin7Van9Fs/vszvzrqf8+d7v+fmOHYrRromlUiPpFlSncOoQhJUB2DfSPOcIEeUWYsBsuAwLwHpcQYMAHKXM+QwILs5Q56TljkDTpKypCBXwB4ANnEFbCcdKoAJPDNZVCvpAWajapEL5K0BUCju/JedaiONkTarTCSDpG3SC+nVQmgQ+fYZ97JGatB8r8WvoV2SLqTlZKpmGImAmyF1kdxvhkzjHnqxrE17+OgzwcKtACmMJEc6I4UtrqqCdA+uIdSLAZ76SoA2QZ4CMmR563gayKJ0XczwzldPCTrIBPpzpH380TxpwgLkorRch/B5XdmHIRuQB+iPS4fgHHqjht/wI7mCAPUwmMuS8XxqH1YL6Wn65dn9qfSSQgaWB6IAE0z7ycUmyJKmH9DsF1ul7sOyA/dXcGBfkDfot2q+/2QZULcPyyvL/cCBfUOm0E9KvQ70FiwCunguq/uwqHFgr9oRK0O2KNfqSVeYtQiMYA8B3OYRah5mZ3LgPtKA4sAVZ/Aj1xNpJ4NRLCIC2gwFYq9tGa4FsYIKuJclQ/T7kRLL7ATGJVxwldvhuZM0jedqI553YnUcc4JMGrIxq/eu6ukkIkVDlhVFMkpzBYxLbn0Ml2b75iEL0AznVyxRpwb+4ePWAmQYkBucoO5JK0g4zTh45zW5+E9XGrlSRLo7hO1fcdZ3/gvLdfF7nBgAAACGdEVYdE1hdGhNTAA8bWF0aCB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMTk5OC9NYXRoL01hdGhNTCI+PG1uPjE2PC9tbj48bWZyYWM+PG1uPjI8L21uPjxtbj4zPC9tbj48L21mcmFjPjxtbz4lPC9tbz48bW8+JiN4QTA7PC9tbz48L21hdGg+mlfb9gAAAABJRU5ErkJggg==\" style=\"max-width: none;\">की हानि</div>",
+      "<div><img align=\"middle\" alt=\"20 percent sign space\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mn»20«/mn»«mo»%«/mo»«mo»§#160;«/mo»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAANCAYAAADbnyzoAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAMyZLetQAAAaNJREFUeNrVVT1LA0EQXY4jXGFzBBELESz9AxJsRUQsJI2FWAQby+AfELsUInLYWImtpAgpbERS2oiIhYWtiNhICOE4DuGcxbcwzO3enVzlgweZ/Zh7Oztvo9QvWsQXYkr8IPaIvspjljjEujvivJhvEE+IY2JMvCTOWPLMER+ITVUBIRO0BKEZPiRxDwbEG+IT0WPzZ9i7RtzE78iSRx9uRVVER1SrhcRTsW4H423E24j32ZopxhSE2/IcEQ9VTWS4Io4+xpcRNxH32ZrYIjBh87qyg7riGkg8FOPvGPeFgDFbE7ErNhW+En0X1hVorlL2SMqqwyudsjiAyBiVu2Am+VPfFeERiSW+HQKTCjmPiV1xCN2bExgrqCqui2uwbfiCIONaH/FnSU7Zd8bpGyVOz2G15G0yJjFv34LFJK73LrQYyStweg6LxFshbhdvosGeeGbaiDuOnB5yyr5LLE6Pi8TpirxhoWQkPviMZtdOHyH2HHn1Q39gGTdOXyduCadb8eoQl6FH5GFGcO4AV2iD3nftmNP9fYpr1dU8d/wd/g/8ADNggWhRgb4NAAAAY3RFWHRNYXRoTUwAPG1hdGggeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzE5OTgvTWF0aC9NYXRoTUwiPjxtbj4yMDwvbW4+PG1vPiU8L21vPjxtbz4mI3hBMDs8L21vPjwvbWF0aD7nSBwEAAAAAElFTkSuQmCC\" style=\"max-width: none;\">का लाभ </div>",
+      "<div><img align=\"middle\" alt=\"20 percent sign space\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mn»20«/mn»«mo»%«/mo»«mo»§#160;«/mo»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAANCAYAAADbnyzoAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAMyZLetQAAAaNJREFUeNrVVT1LA0EQXY4jXGFzBBELESz9AxJsRUQsJI2FWAQby+AfELsUInLYWImtpAgpbERS2oiIhYWtiNhICOE4DuGcxbcwzO3enVzlgweZ/Zh7Oztvo9QvWsQXYkr8IPaIvspjljjEujvivJhvEE+IY2JMvCTOWPLMER+ITVUBIRO0BKEZPiRxDwbEG+IT0WPzZ9i7RtzE78iSRx9uRVVER1SrhcRTsW4H423E24j32ZopxhSE2/IcEQ9VTWS4Io4+xpcRNxH32ZrYIjBh87qyg7riGkg8FOPvGPeFgDFbE7ErNhW+En0X1hVorlL2SMqqwyudsjiAyBiVu2Am+VPfFeERiSW+HQKTCjmPiV1xCN2bExgrqCqui2uwbfiCIONaH/FnSU7Zd8bpGyVOz2G15G0yJjFv34LFJK73LrQYyStweg6LxFshbhdvosGeeGbaiDuOnB5yyr5LLE6Pi8TpirxhoWQkPviMZtdOHyH2HHn1Q39gGTdOXyduCadb8eoQl6FH5GFGcO4AV2iD3nftmNP9fYpr1dU8d/wd/g/8ADNggWhRgb4NAAAAY3RFWHRNYXRoTUwAPG1hdGggeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzE5OTgvTWF0aC9NYXRoTUwiPjxtbj4yMDwvbW4+PG1vPiU8L21vPjxtbz4mI3hBMDs8L21vPjwvbWF0aD7nSBwEAAAAAElFTkSuQmCC\" style=\"max-width: none;\">की हानि  </div>",
+      "<div><img align=\"middle\" alt=\"16 2 over 3 percent sign space\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mn»16«/mn»«mfrac»«mn»2«/mn»«mn»3«/mn»«/mfrac»«mo»%«/mo»«mo»§#160;«/mo»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADkAAAAlCAYAAAD4DEFlAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAZpE86XgAAAkpJREFUeNrtmV9EQ1Ecx68rM0lMkkyip+k1k+k1ySS99bCnRLKHpNcesrckmfSSJJlEekiSSHpKYpIkiUwy6S2Zaybqd/iO4zin7Van9Fs/vszvzrqf8+d7v+fmOHYrRromlUiPpFlSncOoQhJUB2DfSPOcIEeUWYsBsuAwLwHpcQYMAHKXM+QwILs5Q56TljkDTpKypCBXwB4ANnEFbCcdKoAJPDNZVCvpAWajapEL5K0BUCju/JedaiONkTarTCSDpG3SC+nVQmgQ+fYZ97JGatB8r8WvoV2SLqTlZKpmGImAmyF1kdxvhkzjHnqxrE17+OgzwcKtACmMJEc6I4UtrqqCdA+uIdSLAZ76SoA2QZ4CMmR563gayKJ0XczwzldPCTrIBPpzpH380TxpwgLkorRch/B5XdmHIRuQB+iPS4fgHHqjht/wI7mCAPUwmMuS8XxqH1YL6Wn65dn9qfSSQgaWB6IAE0z7ycUmyJKmH9DsF1ul7sOyA/dXcGBfkDfot2q+/2QZULcPyyvL/cCBfUOm0E9KvQ70FiwCunguq/uwqHFgr9oRK0O2KNfqSVeYtQiMYA8B3OYRah5mZ3LgPtKA4sAVZ/Aj1xNpJ4NRLCIC2gwFYq9tGa4FsYIKuJclQ/T7kRLL7ATGJVxwldvhuZM0jedqI553YnUcc4JMGrIxq/eu6ukkIkVDlhVFMkpzBYxLbn0Ml2b75iEL0AznVyxRpwb+4ePWAmQYkBucoO5JK0g4zTh45zW5+E9XGrlSRLo7hO1fcdZ3/gvLdfF7nBgAAACGdEVYdE1hdGhNTAA8bWF0aCB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMTk5OC9NYXRoL01hdGhNTCI+PG1uPjE2PC9tbj48bWZyYWM+PG1uPjI8L21uPjxtbj4zPC9tbj48L21mcmFjPjxtbz4lPC9tbz48bW8+JiN4QTA7PC9tbz48L21hdGg+mlfb9gAAAABJRU5ErkJggg==\" style=\"max-width: none;\">का लाभ </div>"
+    ],
+    "q_en": "",
+    "q_hi": "एक दुकानदार प्रति kg वास्तविक क्रय मूल्य पर सही भार से 20% अधिक भार का उपयोग करके चावल की बिक्री करता है। उसका लाभ या हानि प्रतिशत ज्ञात कीजिए।",
+    "section": "Arithmetical and Numerical Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "3",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "14",
+      "18",
+      "15",
+      "17"
+    ],
+    "q_en": "",
+    "q_hi": "19 - 20 ÷ 5 का मान ज्ञात कीजिए।",
+    "section": "Arithmetical and Numerical Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "2",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "<img loading=\"lazy\" src=\"data:image/jpeg;base64,/9j/4AAQSkZJRgABAgAAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCAAcAE8DASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD3+iobuOeW3aO2uBbyHH7zZvKjvgHjOOmcj2PSuX+HV3eXnh26a+vZ7yaPUruHzpyCxVJWUdAAOB0AA9AKFq7f10/zB6HXUV5f4k8ywu7awsPFd1deMpr1HihF6yRiIvkq9vuMYQRk8lctgEZJxXfza7pdvrFvpEt9CuoXGfKt92WOFLdO3AJ564oWquHWxHruux6HDAxsb2+kmZlWCyRXkwql2baWGQAvQZJJAAJNVP8AhMtL/wCfXXP/AARXv/xmnL/pvjSaTqmnWYiX/rpM25vyWNP++jXE+B7jQ7zTdB/tm/1t9ZmIkT7dd3wgmmUlgF3t5LkYB2jPTpxQtf6/rtcH1PQNN1+z1W4aC3h1JHVC5N1ptxbrjIHDSIoJ56Zz19DWpVDWNYtNDsDeXjNtLrFHGg3PLIxCqijuSTj/AOtWDf8AjtdK0+5vdS8Oa5aRW0sUcpkihbAkOAwKykMAcAhSSMjigDraK5k+NIBrE2kf2Pqp1BYPtMMHlxg3EWcblJfC4PUOUPIGMmtPQNctfEeiwapZpNHFKWHlzpskRlYqysOxBBH4UdLgXbuaS3tZJYrWW6dRkQwlA7+w3sq/mRXJfD231bTrG9sdU0S7sTJfXN0ksksDoVklLKvySMQ2DzxjjrXZ0ULR3B6qx554hsvE3ivw+2hXugJbXxulZNUSaI28KrIGEiDeZQ+0Yxt6nritvx3pNzqHhv7Tp43arpki31kcZLSR8lf+BLuX8a6iilbSy9fn/SH11OX8JT3GoeF59chgEV3qzPexRz9gVCxBsdtipnFZd/a+IfFkWiWeo6E2mtZ3sF7eXL3ETRkxHOIQjs53H+8FwPU13lFV1uulvw2F0t6/ic34z0m+1Kx06406MTXOm6hDfC3LhPPCZBQMeAcMSM8ZAzjrWZ4w/t3XvB1xb2nhu6W4e4tzHbyXMAkwkiuzNhygGFwMMSSegrt6KS0++/5f5B1v/X9anHG21Q/E6PVv7GuvsA0g2xm82HiQuJMY8zd225xjPtzUvw7sNS0zww9tqunyWNz9tuJfKkkjfKvIXBBRmHRseuQe2CesooWmn9b3B6/15WP/2Q==\" style=\"max-width:100%;height:auto;\">",
+      "<img loading=\"lazy\" src=\"data:image/jpeg;base64,/9j/4AAQSkZJRgABAgAAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCAAcAE8DASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD3+iobuOeW3aO2uBbyHH7zZvKjvgHjOOmcj2PSuX+HV3eXfh26a/vZ7yaPUruHzpyCxVJWUdAAOB0AA9AKFv8A15f5g9DrqK8juNT1S8+H2p+PINUvUv4LqWa2hWdhAsEcxTymizsbKqSWI3ZPXivR18R6T9vstPa+hW+vE3w2+fnI27uR24BPPXFC1/r+v6QPR/f+Aa7rsehwwMbG9vpJmZVgskV5MKpdm2lhkAL0GSSQACTVT/hMtL/59dc/8EV7/wDGaGR9Q8X3Jjk2f2fY+TG+M7ZZjuJx3wsaH/gR9a5vU9P1HQdb8Kx2OtanfardXm2/E1y7RTwBSZZPJLFIwDtxtAxuA5zQtbf1/XcH/X5/8A7DTdfs9VuGgt4dSR1QuTdabcW64yBw0iKCeemc9fQ1qVQ1jWLTQ7A3l4zbS6xRxoNzyyMQqoo7kk4/+tWDf+O10rT7m91Lw5rlpFbSxRymSKFsCQ4DArKQwBwCFJIyOKAOtormT40gGsTaR/Y+qnUFg+0wweXGDcRZxuUl8Lg9Q5Q8gYya09A1y18R6LBqlmk0cUpYeXOmyRGVirKw7EEEfhR0uBdu5pLe1klitZbp1GRDCUDv7Deyr+ZFcl8PrfVtOsb2x1TQ7uxMl7c3SSySwOhWSUsq/JIxDYPPGOOtdnRQtHcHqrHmJ8Ma/H4T1HwRFpw+x3N1J5OpiWPyktpJPMYMhbf5gBZQApGcHNdJ440Wa78LrLpaf8TLSXS9sABnLx/wf8CXcv411VFLW2n9W2Drd/1fc5rwZcPf+Hn11raRJdWka9ELYD7CAsY64zsRO9Y+jSeIorp7+68LX39s308aT3E89sYLa3D/AOrTbMW2qhY8LlmOSOcDvaKrrdC6WOb8Z6TfalY6dcadGJrnTdQhvhblwnnhMgoGPAOGJGeMgZx1rM8Yf27r3g64t7Tw3dLcPcW5jt5LmASYSRXZmw5QDC4GGJJPQV29FJafff8AL/IfW/8AX9anHG21Q/E6PVv7GuvsA0g2xm82HiQuJMY8zd225xjPtzUvw7sNS0zww9tqunyWNz9tuJfKkkjfKvIXBBRmHRseuQe2CesooWmn9b3B6/15WP/Z\" style=\"max-width:100%;height:auto;\">",
+      "<img loading=\"lazy\" src=\"data:image/jpeg;base64,/9j/4AAQSkZJRgABAgAAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCAAcAEYDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD3+iub8faveaF4H1TUdPbZcxRqEk27vK3MFL477QS3PHHNYVxKnhbxZ4XgsdYvbyLV2eCeG7vnuPNAjLLModjt5GDtwpDdOlC1f9f1/XqD0Vz0GsLUfFVtpurGxk07VJ1RVaW4s7RrhIiwYqrLHmTJ2HkKQMjJGRVzT9d0vVby7tLC+huZ7Tb56xtnZuzjnofunp6VzU0s58C+KtZtpJEuLxLueCSNiGVUjMcZUjkHEatx3NJuyb8ilG7sa3/CZaX/AM+uuf8Agivf/jNamm6nBqtu09vHdoiuUIurSW3bOAeFkVSRz1xjr6GuP8Jv4cnvdOUXervrSWwmWPUrm9w5KbXeNZ22P948qDgGup1nXLbRltkkimuLq7k8q2tbcKZJmALEDcQAAASSSAPWqkuV2Ii7q5p0Vyk/jqGz+xfb9B1uz+13psVEsEZKy4yv3XO5WGcMm4cHpSN49twdUhGh6w17pYD3VmkcRkWMruDg+ZsYEZwAxY4PHFK/UdtbHWUVV03ULfVdMtdRtGLW11Cs0TEYJVgCOO3BoptWdmCd9SxJGksTxyIrxuCrIwyGB6giuM0rwpFJ4hstUGhWuh2OniRrayhSJXklcbTJII8qMLkAAt94kkdK7Wil1uD1Vjz7x6t/oGs2XibSbd5pbmM6VcxoBk+Yf3D9vuyED6PXVT2t9pHhUWmgwwTXlpbJFbR3BKo+0AYJHTIH51r0UdLf1/V2/vDrf+v62OMey1bxH4s0HU7rR5tKttI82VvtM8TySyOmzaojZhtGSSSQTxxVvxPp2onXtB13T7V73+zXmWazjkVHdJUCllLkKWUgcEjIJ5rqKKAOK8SLrmqP4cnh8PXP+jaql1NH9pg3xRKjLlsuBuJfOFLDC9cnFQx2OsxeJPGl5/Yd00N/bRJZsJoP3zIjJgfvMrktkbgOAc4PFd3RSaTTXe/42/yGnqn/AFvcwPA9leab4H0aw1C1e1u7a1SGWJ2VirKNvVSQQcZHPQ84PFFb9FVJ3bbJSsrH/9k=\" style=\"max-width:100%;height:auto;\">",
+      "<img loading=\"lazy\" src=\"data:image/jpeg;base64,/9j/4AAQSkZJRgABAgAAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCAAcAEUDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD3+is7WdKbWLSK2F7c2kYmSSRraV4ndQclA6MGUHuQelcp4Ztl/wCE31y6tr/Uv7H0yNbIJdalPPHJPjfK5812xtBVfzoX9f1+AP8Ar+vxO8rnpvGFpb6pcWcmm6u0UDmP7Xb2L3MTOApKjytzAjeOWUA4OCcGr1l4i0nUrG7vbG+iuLe0ZkmkjOQpVQx+vBByOOaydO0i+vPB1rDHqE2nXN3J9ruZYVBfEjmSRFJ+6TuKhhyO1HX+uu36g/6+RZ/4TLS/+fXXP/BFe/8AxmtixvYtQs47qFJ0jfOBPA8LjBI5RwGHTuOevSuP0BLuy+I2q6ZZXt7daJDYxNKLu5e48m6LH5VeQluUwxXPGQeMiuh1XxDDpl7b6fFaXV/qE6NKlpabN/lqQGcl2VVXJA5IyTxmjon3/r+vIOrRr0Vyo8cwi+02yl0PWoLnUYpZLeOWBFJaM4ZGG/5T0OT8uCDuxVd/iRp0ek3WotpWr+TY3Bt9QAhQtZsDg7/nwwGQf3e/AOaFrt/XQDsqKQEMAR0PIooAq6nLdwaVdy2Ft9pvEhZoINwXzHx8q5OAMnHJrP8ACOiN4f8ADFnYTNvutplupP78zktI3/fRNbdFCA818UWN3p3jI21pA8mn+LVS0utgGIpU+85/3oN4+qCu08Rz6rbaBcNodmbrUCAkKKUGzJwX+dlU7Rk4yM4xxnNa1FHSwdbnK+GFvrKSHTo/D97YWCxSS3F1fzQPLPOWU7j5Uj5LZcsSB2x6U3VLLU9P8cw+IbPT5tStpNPNjNbwSxpJGQ+9XAkZVIPIPzA9OtdZRR1T7B0scdfQ61d+OPDOoHRJRa20FytzKtxERCZdoUEFgxI2c4BAzwWxXPXGieIZvBPjbT18P3Qu9VvppbSNp7f50k2jJIkIGNpJB9RjPOPUqKVv1X3u477Few8z+zrXzYXhk8pN8TkFkOBlSVJGR04JHuaKsUVTd3clKysf/9k=\" style=\"max-width:100%;height:auto;\">"
+    ],
+    "q_en": "",
+    "q_hi": "उस घनाभ के विकर्ण की लंबाई ज्ञात कीजिए, जिसकी विमाएं, लंबाई = 8cm, चौड़ाई = 6cm और ऊंचाई = 110cm हैं।<span style=\"color:#ffffff;\"></span>",
+    "section": "Arithmetical and Numerical Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "4",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "3,210",
+      "5,350",
+      "1,070",
+      "7,490"
+    ],
+    "q_en": "",
+    "q_hi": "फर्नीचर की तीन वस्तुओं का औसत मूल्य ₹5,350 है। यदि उनके मूल्यों का अनुपात 3 : 5 : 7 है, तो सबसे महंगी वस्तु का मूल्य (₹ में) ______ है।",
+    "section": "Arithmetical and Numerical Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "2",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "5.05",
+      "6.06",
+      "8.08",
+      "7.07"
+    ],
+    "q_en": "",
+    "q_hi": "1200 m की एक रैखिक दौड़ में, A, B को 200 m की शुरुआती बढ़त (head start) देता है और B को 10 सेकंड पहले दौड़ शुरू करने की अनुमति भी देता है। इसके बाद भी, A यह दौड़ 5 सेकंड से जीत जाता है। यदि A, 8 m/s की नियत चाल से दौड़ता है, तो B की चाल (m/s में, दशमलव के दो स्थानों तक पूर्णांकित) ज्ञात कीजिए।",
+    "section": "Arithmetical and Numerical Ability",
+    "solution": "",
+    "topic": ""
+  },
+  {
+    "ans": "1",
+    "level": "",
+    "op_en": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "op_hi": [
+      "z",
+      "−z",
+      "x2y2",
+      "x − y"
+    ],
+    "q_en": "",
+    "q_hi": "यदि x ≠ y, z &gt; 0, और (x + z)<sup>2</sup> : (y + z)<sup>2</sup> :: x ∶ y है, तो a ज्ञात कीजिए, जहां a &gt; 0 इस प्रकार है कि x ∶ a :: a ∶ y है।",
+    "section": "Arithmetical and Numerical Ability",
+    "solution": "",
+    "topic": ""
+  }
+]
