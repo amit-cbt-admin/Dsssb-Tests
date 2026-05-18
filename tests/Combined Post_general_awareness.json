@@ -1,0 +1,422 @@
+[
+  {
+    "ans": "2",
+    "level": "Medium",
+    "op_en": [
+      "9°C–12°C",
+      "26°C–37°C",
+      "47°C–50°C",
+      "15°C–18°C"
+    ],
+    "op_hi": [
+      "9&deg;C–12&deg;C",
+      "26&deg;C–37&deg;C",
+      "47&deg;C–50&deg;C",
+      "15&deg;C–18&deg;C"
+    ],
+    "q_en": "The melting point of butter is _______.",
+    "q_hi": "मक्खन का गलनांक _______ होता है।",
+    "section": "General Awareness",
+    "solution": "1. मक्खन का गलनांक वह तापमान होता है जिस पर वह ठोस अवस्था से तरल अवस्था में परिवर्तित होना शुरू होता है।<br>2. मक्खन का गलनांक सामान्यतः 26&deg;C और 37&deg;C के बीच होता है।<br>3. क्योंकि यह तापमान मानव शरीर के तापमान के करीब है, इसलिए मक्खन मुंह में आसानी से पिघल जाता है और भोजन में एक विशेष बनावट देता है।",
+    "topic": "Chemistry"
+  },
+  {
+    "ans": "2",
+    "level": "Medium",
+    "op_en": [
+      "Lord Cornwallis",
+      "Warren Hastings",
+      "Lord Wellesley",
+      "Sir John Shore"
+    ],
+    "op_hi": [
+      "लॉर्ड कॉर्नवालिस",
+      "वारेन हेस्टिंग्स",
+      "लॉर्ड वेलेज़ली",
+      "सर जॉन शोर"
+    ],
+    "q_en": "_______ was the Governor-General, under whose authority, in 1775, eleven pandits were tasked with compiling a digest of Hindu laws to bring about uniformity.",
+    "q_hi": "_______ वह गवर्नर-जनरल थे, जिनके अधिकार में 1775 में ग्यारह पंडितों को एकरूपता लाने के लिए हिंदू कानूनों का एक सार संकलित करने का कार्य सौंपा गया था।",
+    "section": "General Awareness",
+    "solution": "1. 1775 में वारेन हेस्टिंग्स के कार्यकाल के दौरान ब्रिटिश प्रशासन ने हिंदू कानूनों को संहिताबद्ध करने का निर्णय लिया।<br>2. इसके लिए 11 पंडितों की एक समिति बनाई गई जिन्होंने 'विवादार्णवसेतु' (A Code of Gentoo Laws) नामक ग्रंथ तैयार किया।<br>3. इसका उद्देश्य न्यायिक प्रणाली में एकरूपता लाना और स्थानीय रीति-रिवाजों के अनुसार न्याय करना था।",
+    "topic": "Indian History"
+  },
+  {
+    "ans": "1",
+    "level": "Medium",
+    "op_en": [
+      "Rajasthan",
+      "Bihar",
+      "Jharkhand",
+      "Uttar Pradesh"
+    ],
+    "op_hi": [
+      "राजस्थान",
+      "बिहार",
+      "झारखंड",
+      "उत्तर प्रदेश"
+    ],
+    "q_en": "According to Census Report 2011, which of the following states has the highest literacy gap between males and females?",
+    "q_hi": "जनगणना रिपोर्ट 2011 के अनुसार, निम्नलिखित में से किस राज्य में पुरुषों और महिलाओं के बीच साक्षरता का अंतर सबसे अधिक है?",
+    "section": "General Awareness",
+    "solution": "1. 2011 की जनगणना के अनुसार, राजस्थान में पुरुष साक्षरता (79.2%) और महिला साक्षरता (52.1%) के बीच लगभग 27% का अंतर दर्ज किया गया था।<br>2. यह भारत के किसी भी राज्य में दर्ज किया गया सबसे अधिक साक्षरता अंतर (Literacy Gap) है।<br>3. हालांकि बिहार की कुल साक्षरता दर सबसे कम है, लेकिन लैंगिक अंतर राजस्थान में सर्वाधिक है।",
+    "topic": "Demography"
+  },
+  {
+    "ans": "2",
+    "level": "Easy",
+    "op_en": [
+      "The Pradhan Mantri Gram Sadak Yojana",
+      "The Pradhan Mantri Ujjwala Yojana",
+      "The Rurban Mission",
+      "The Atal Mission for Rejuvenation and Urban Transformation"
+    ],
+    "op_hi": [
+      "प्रधानमंत्री ग्राम सड़क योजना",
+      "प्रधानमंत्री उज्ज्वला योजना",
+      "रूर्बन मिशन",
+      "अटल कायाकल्प और शहरी परिवर्तन मिशन (AMRUT)"
+    ],
+    "q_en": "Which of the following initiatives focuses on providing LPG connections to rural households?",
+    "q_hi": "निम्नलिखित में से कौन सी पहल ग्रामीण परिवारों को एलपीजी (LPG) कनेक्शन प्रदान करने पर केंद्रित है?",
+    "section": "General Awareness",
+    "solution": "1. प्रधानमंत्री उज्ज्वला योजना (PMUY) 1 मई 2016 को शुरू की गई थी।<br>2. इसका मुख्य लक्ष्य गरीबी रेखा से नीचे (BPL) रहने वाले परिवारों की महिलाओं को मुफ्त एलपीजी कनेक्शन प्रदान करना है।<br>3. यह योजना धुआं रहित ईंधन के उपयोग को बढ़ावा देकर ग्रामीण स्वास्थ्य में सुधार करने में सहायक रही है।",
+    "topic": "Govt Schemes"
+  },
+  {
+    "ans": "3",
+    "level": "Medium",
+    "op_en": [
+      "Grilling is a dry-heat cooking method, while broiling is a moist-heat cooking method",
+      "Grilling is done at a high temperature, while broiling at a very low temperature",
+      "Grilling applies heat from below and broiling uses upper heat",
+      "Grilling does not form harmful compounds, while broiling does"
+    ],
+    "op_hi": [
+      "ग्रिलिंग शुष्क-गर्मी (dry-heat) पकाने की विधि है, जबकि ब्रॉयलिंग नम-गर्मी (moist-heat) पकाने की विधि है",
+      "ग्रिलिंग उच्च तापमान पर की जाती है, जबकि ब्रॉयलिंग बहुत कम तापमान पर",
+      "ग्रिलिंग नीचे से गर्मी लागू करती है और ब्रॉयलिंग ऊपरी गर्मी का उपयोग करती है",
+      "ग्रिलिंग हानिकारक यौगिक नहीं बनाती है, जबकि ब्रॉयलिंग बनाती है"
+    ],
+    "q_en": "The main difference between grilling and broiling is that:",
+    "q_hi": "ग्रिलिंग (grilling) और ब्रॉयलिंग (broiling) के बीच मुख्य अंतर यह है कि:",
+    "section": "General Awareness",
+    "solution": "1. ग्रिलिंग में भोजन को गर्मी के स्रोत (जैसे कोयला या बर्नर) के ऊपर रखा जाता है, जिससे गर्मी नीचे से आती है।<br>2. ब्रॉयलिंग में गर्मी का स्रोत भोजन के ऊपर स्थित होता है, जिससे ऊपरी सतह पर सीधी गर्मी पड़ती है।<br>3. दोनों ही विधियाँ शुष्क-गर्मी (dry-heat) का उपयोग करती हैं, लेकिन ऊष्मा के स्रोत की स्थिति ही इनमें प्रमुख अंतर है।",
+    "topic": "General Science"
+  },
+  {
+    "ans": "2",
+    "level": "Medium",
+    "op_en": [
+      "Urban females",
+      "Rural females",
+      "Rural males",
+      "Urban males"
+    ],
+    "op_hi": [
+      "शहरी महिलाएं",
+      "ग्रामीण महिलाएं",
+      "ग्रामीण पुरुष",
+      "शहरी पुरुष"
+    ],
+    "q_en": "During 2001 to 2011, the highest improvement in literacy rate was observed among:",
+    "q_hi": "2001 से 2011 के दौरान, साक्षरता दर में सबसे अधिक सुधार किसके बीच देखा गया था?",
+    "section": "General Awareness",
+    "solution": "1. 2001 से 2011 के दशक के दौरान भारत की साक्षरता दर में 9.21% की वृद्धि हुई।<br>2. आंकड़ों के अनुसार, ग्रामीण महिलाओं की साक्षरता दर में इस अवधि के दौरान सबसे तेज सुधार देखा गया।<br>3. यह महिला साक्षरता और ग्रामीण शिक्षा के प्रति बढ़ती जागरूकता और सरकारी योजनाओं का परिणाम है।",
+    "topic": "Demography"
+  },
+  {
+    "ans": "2",
+    "level": "Medium",
+    "op_en": [
+      "Gram Sabha",
+      "District Planning Committee",
+      "Panchayat Samiti",
+      "Municipal Corporation"
+    ],
+    "op_hi": [
+      "ग्राम सभा",
+      "जिला योजना समिति",
+      "पंचायत समिति",
+      "नगर निगम"
+    ],
+    "q_en": "Which body is responsible for preparing plans for the economic development of the district?",
+    "q_hi": "जिले के आर्थिक विकास के लिए योजनाएँ तैयार करने के लिए कौन सा निकाय जिम्मेदार है?",
+    "section": "General Awareness",
+    "solution": "1. भारतीय संविधान के अनुच्छेद 243ZD के तहत प्रत्येक राज्य में जिला स्तर पर 'जिला योजना समिति' (District Planning Committee) का गठन किया गया है।<br>2. यह समिति पंचायतों और नगर पालिकाओं द्वारा तैयार की गई योजनाओं को समेकित करती है।<br>3. इसका मुख्य कार्य पूरे जिले के लिए विकास योजना का मसौदा तैयार करना है।",
+    "topic": "Indian Polity"
+  },
+  {
+    "ans": "3",
+    "level": "Hard",
+    "op_en": [
+      "342",
+      "343",
+      "344",
+      "341"
+    ],
+    "op_hi": [
+      "342",
+      "343",
+      "344",
+      "341"
+    ],
+    "q_en": "Which of the following Articles of the Indian Constitution states that ‘It shall be the duty of the Commission (of Parliament on official language) to make recommendations to the President as to the progressive use of the Hindi language for the official purposes of the Union’?",
+    "q_hi": "Which of the following Articles of the Indian Constitution states that ‘It shall be the duty of the Commission (of Parliament on official language) to make recommendations to the President as to the progressive use of the Hindi language for the official purposes of the Union’?",
+    "section": "General Awareness",
+    "solution": "1. अनुच्छेद 344 राजभाषा पर आयोग और संसद की समिति के गठन का प्रावधान करता है।<br>2. यह स्पष्ट करता है कि राजभाषा आयोग का कर्तव्य होगा कि वह राष्ट्रपति को हिंदी के प्रयोग को बढ़ाने और अंग्रेजी के प्रयोग को सीमित करने पर सिफारिशें दे।<br>3. अनुच्छेद 343 संघ की आधिकारिक भाषा के रूप में हिंदी (देवनागरी लिपि) को मान्यता देता है।",
+    "topic": "Indian Constitution"
+  },
+  {
+    "ans": "2",
+    "level": "Easy",
+    "op_en": [
+      "Hamara Shahar Us Baras",
+      "Tomb of Sand",
+      "Khali Jagah",
+      "Mai"
+    ],
+    "op_hi": [
+      "हमारा शहर उस बरस",
+      "टॉम्ब ऑफ सैंड",
+      "खाली जगह",
+      "माई"
+    ],
+    "q_en": "Which novel, written by Geetanjali Shree and translated by Daisy Rockwell, won the 2022 International Booker Prize for Translated Fiction?",
+    "q_hi": "गीतांजलि श्री द्वारा लिखित और डेज़ी रॉकवेल द्वारा अनुवादित किस उपन्यास ने अनुवादित फिक्शन के लिए 2022 का अंतर्राष्ट्रीय बुकर पुरस्कार जीता?",
+    "section": "General Awareness",
+    "solution": "1. 'टॉम्ब ऑफ सैंड' (Tomb of Sand) गीतांजलि श्री के हिंदी उपन्यास 'रेत समाधि' का अंग्रेजी अनुवाद है।<br>2. 2022 में, इसने प्रतिष्ठित अंतर्राष्ट्रीय बुकर पुरस्कार जीता, जिससे यह पुरस्कार जीतने वाला किसी भी भारतीय भाषा का पहला उपन्यास बन गया।<br>3. इसका अनुवाद डेज़ी रॉकवेल द्वारा बहुत ही कुशलता से किया गया था।",
+    "topic": "Awards"
+  },
+  {
+    "ans": "4",
+    "level": "Medium",
+    "op_en": [
+      "Government of India Act, 1858&nbsp;",
+      "Indian Councils Act, 1892&nbsp;",
+      "Montagu-Chelmsford Reforms, 1919&nbsp;",
+      "Morley-Minto Reforms, 1909&nbsp;"
+    ],
+    "op_hi": [
+      "भारत सरकार अधिनियम, 1858",
+      "भारतीय परिषद अधिनियम, 1892",
+      "मोंटेग्यू-चेम्सफोर्ड सुधार, 1919",
+      "मार्ले-मिंटो सुधार, 1909"
+    ],
+    "q_en": "Which of the following introduced separate electorates for Muslims in India?",
+    "q_hi": "निम्नलिखित में से किसने भारत में मुसलमानों के लिए अलग निर्वाचन क्षेत्र (separate electorates) की शुरुआत की?",
+    "section": "General Awareness",
+    "solution": "1. मार्ले-मिंटो सुधार (भारतीय परिषद अधिनियम, 1909) ने भारत में सांप्रदायिक प्रतिनिधित्व की शुरुआत की।<br>2. इसके तहत मुसलमानों के लिए अलग निर्वाचन मंडल का प्रावधान किया गया था।<br>3. लॉर्ड मिंटो को इसी कारण 'सांप्रदायिक निर्वाचन के जनक' के रूप में भी जाना जाता है।",
+    "topic": "Indian History"
+  },
+  {
+    "ans": "1",
+    "level": "Easy",
+    "op_en": [
+      "Article 123",
+      "Article 121",
+      "Article 124",
+      "Article 122"
+    ],
+    "op_hi": [
+      "अनुच्छेद 123",
+      "अनुच्छेद 121",
+      "अनुच्छेद 124",
+      "अनुच्छेद 122"
+    ],
+    "q_en": "An Ordinance promulgated under ____________ is a law having the same force and effect as an Act of the Parliament.",
+    "q_hi": "____________ के तहत प्रख्यापित एक अध्यादेश एक ऐसा कानून है जिसका वही बल और प्रभाव होता है जो संसद के अधिनियम का होता है।",
+    "section": "General Awareness",
+    "solution": "1. अनुच्छेद 123 राष्ट्रपति को संसद के अवकाश (recess) के दौरान अध्यादेश जारी करने की शक्ति देता है।<br>2. इन अध्यादेशों की कानूनी शक्ति संसद द्वारा पारित अधिनियम के बराबर होती है।<br>3. इन्हें संसद के पुनः सत्र शुरू होने के छह सप्ताह के भीतर अनुमोदित किया जाना आवश्यक है।",
+    "topic": "Indian Polity"
+  },
+  {
+    "ans": "4",
+    "level": "Easy",
+    "op_en": [
+      "twelve",
+      "sixteen",
+      "ten",
+      "fourteen"
+    ],
+    "op_hi": [
+      "बारह",
+      "सोलह",
+      "दस",
+      "चौदह"
+    ],
+    "q_en": "Article 24 of the Indian Constitution states that no child below the age of ________ years shall be employed to work in any factory or mine or engaged in any other hazardous employment.",
+    "q_hi": "भारतीय संविधान के अनुच्छेद 24 में कहा गया है कि ________ वर्ष से कम आयु के किसी भी बच्चे को किसी कारखाने या खदान में काम करने के लिए नियोजित नहीं किया जाएगा या किसी अन्य खतरनाक रोजगार में नहीं लगाया जाएगा।",
+    "section": "General Awareness",
+    "solution": "1. अनुच्छेद 24 'शोषण के विरुद्ध अधिकार' के अंतर्गत आता है और बाल श्रम को रोकता है।<br>2. यह स्पष्ट रूप से 14 वर्ष से कम आयु के बच्चों को कारखानों, खानों या अन्य खतरनाक उद्योगों में काम करने से प्रतिबंधित करता है।<br>3. यह बच्चों के शारीरिक और मानसिक स्वास्थ्य की रक्षा के लिए एक महत्वपूर्ण मौलिक अधिकार है।",
+    "topic": "Indian Constitution"
+  },
+  {
+    "ans": "3",
+    "level": "Easy",
+    "op_en": [
+      "Khizr Khan",
+      "Balban",
+      "Ibrahim Lodi",
+      "Bahlol Lodi"
+    ],
+    "op_hi": [
+      "खिज्र खान",
+      "बलबन",
+      "इब्राहिम लोदी",
+      "बहलोल लोदी"
+    ],
+    "q_en": "Cannons were an important addition in sixteenth-century warfare, used by Babur effectively to defeat ______ in the first battle of Panipat.",
+    "q_hi": "सोलहवीं शताब्दी के युद्धों में तोपें एक महत्वपूर्ण तकनीक थीं, जिसका उपयोग बाबर ने पानीपत की पहली लड़ाई में ______ को हराने के लिए प्रभावी ढंग से किया था।",
+    "section": "General Awareness",
+    "solution": "1. पानीपत की पहली लड़ाई 1526 में बाबर और दिल्ली के सुल्तान इब्राहिम लोदी के बीच हुई थी।<br>2. बाबर की जीत का एक प्रमुख कारण तोपों (artillery) का उपयोग और उसकी विशिष्ट 'तुलुगमा' युद्ध पद्धति थी।<br>3. इसी युद्ध के साथ भारत में मुगल साम्राज्य की नींव पड़ी थी।",
+    "topic": "Indian History"
+  },
+  {
+    "ans": "2",
+    "level": "Medium",
+    "op_en": [
+      "Parliament",
+      "Local bodies",
+      "Cooperative societies",
+      "State Assemblies"
+    ],
+    "op_hi": [
+      "संसद",
+      "स्थानीय निकाय",
+      "सहकारी समितियाँ",
+      "राज्य विधानसभाएं"
+    ],
+    "q_en": "The State Election Commission supervises and conducts elections for which of the following?",
+    "q_hi": "राज्य चुनाव आयोग निम्नलिखित में से किसके लिए चुनाव की निगरानी और संचालन करता है?",
+    "section": "General Awareness",
+    "solution": "1. भारत का निर्वाचन आयोग (ECI) संसद और राज्य विधानसभाओं के चुनाव कराता है।<br>2. राज्य निर्वाचन आयोग (State Election Commission) पंचायतों और नगर पालिकाओं जैसे स्थानीय निकायों (Local Bodies) के चुनावों के लिए जिम्मेदार है।<br>3. इसका गठन 73वें और 74वें संवैधानिक संशोधनों के माध्यम से किया गया था।",
+    "topic": "Indian Polity"
+  },
+  {
+    "ans": "4",
+    "level": "Medium",
+    "op_en": [
+      "Sharada script",
+      "Perso Arabic script",
+      "Devanagari script",
+      "Gurumukhi script"
+    ],
+    "op_hi": [
+      "शारदा लिपि",
+      "फारसी अरबी लिपि",
+      "देवनागरी लिपि",
+      "गुरुमुखी लिपि"
+    ],
+    "q_en": "Which of the following scripts is NOT used to write the Kashmiri language?",
+    "q_hi": "निम्नलिखित में से किस लिपि का उपयोग कश्मीरी भाषा लिखने के लिए नहीं किया जाता है?",
+    "section": "General Awareness",
+    "solution": "1. कश्मीरी भाषा पारंपरिक रूप से शारदा लिपि में लिखी जाती थी।<br>2. आधुनिक समय में, कश्मीरी मुख्य रूप से फारसी-अरबी (नस्तलीक) और देवनागरी लिपि में लिखी जाती है।<br>3. गुरुमुखी लिपि का उपयोग मुख्य रूप से पंजाबी भाषा लिखने के लिए किया जाता है, कश्मीरी के लिए नहीं।",
+    "topic": "Art and Culture"
+  },
+  {
+    "ans": "3",
+    "level": "Hard",
+    "op_en": [
+      "Quwwat-ul-Islam Mosque",
+      "Tomb of Hazarat Nizamuddin Auliya",
+      "Adhai Din Ka Jhonpra Mosque",
+      "Alai Darwaza"
+    ],
+    "op_hi": [
+      "कुव्वत-उल-इस्लाम मस्जिद",
+      "हज़रत निज़ामुद्दीन औलिया का मकबरा",
+      "अढ़ाई दिन का झोंपड़ा मस्जिद",
+      "अलाई दरवाजा"
+    ],
+    "q_en": "Which of the following monuments constructed during Delhi Sultanate was built in just 60 hours?",
+    "q_hi": "दिल्ली सल्तनत के दौरान निर्मित निम्नलिखित स्मारकों में से कौन सा मात्र 60 घंटों में बनाया गया था?",
+    "section": "General Awareness",
+    "solution": "1. अढ़ाई दिन का झोंपड़ा अजमेर में स्थित एक ऐतिहासिक मस्जिद है, जिसका निर्माण कुतुबुद्दीन ऐबक ने करवाया था।<br>2. किंवदंती के अनुसार, इसे एक पुराने संस्कृत विद्यालय को मस्जिद में बदलने के लिए मात्र ढाई दिन (60 घंटे) का समय लगा था।<br>3. इसी कारण इसका नाम 'अढ़ाई दिन का झोंपड़ा' पड़ा।",
+    "topic": "Indian History"
+  },
+  {
+    "ans": "4",
+    "level": "Easy",
+    "op_en": [
+      "28",
+      "14",
+      "18",
+      "22"
+    ],
+    "op_hi": [
+      "28",
+      "14",
+      "18",
+      "22"
+    ],
+    "q_en": "As of January 2024, how many languages are recognised by the Indian Constitution?",
+    "q_hi": "जनवरी 2024 तक, भारतीय संविधान द्वारा कितनी भाषाओं को मान्यता दी गई है?",
+    "section": "General Awareness",
+    "solution": "1. भारतीय संविधान की आठवीं अनुसूची (Eighth Schedule) आधिकारिक भाषाओं से संबंधित है।<br>2. मूल रूप से इसमें 14 भाषाएं थीं, लेकिन विभिन्न संशोधनों के बाद अब इसमें 22 भाषाएं शामिल हैं।<br>3. इन भाषाओं को संघ की राजभाषा और आधिकारिक कार्यों के लिए मान्यता प्राप्त है।",
+    "topic": "Indian Constitution"
+  },
+  {
+    "ans": "1",
+    "level": "Hard",
+    "op_en": [
+      "Benjamin Thompson",
+      "Ludwig Boltzmann",
+      "James Watt",
+      "Percy Bridgman"
+    ],
+    "op_hi": [
+      "बेंजामिन थॉम्पसन",
+      "लुडविग बोल्ट्जमैन",
+      "जेम्स वाट",
+      "पर्सी ब्रिजमैन"
+    ],
+    "q_en": "Which scientist experimented with heat using a cannon-boring machine in 1798?",
+    "q_hi": "किस वैज्ञानिक ने 1798 में तोप-बोरिंग मशीन का उपयोग करके ऊष्मा (heat) के साथ प्रयोग किया था?",
+    "section": "General Awareness",
+    "solution": "1. बेंजामिन थॉम्पसन, जिन्हें काउंट रमफोर्ड के नाम से भी जाना जाता है, ने यह प्रसिद्ध प्रयोग किया था।<br>2. उन्होंने देखा कि तोप की नली में छेद करते समय घर्षण के कारण बहुत अधिक ऊष्मा उत्पन्न होती है।<br>3. उनके प्रयोगों ने उस समय के 'कैलोरिक सिद्धांत' को चुनौती दी और यह सिद्ध किया कि ऊष्मा ऊर्जा का ही एक रूप है।",
+    "topic": "General Science"
+  },
+  {
+    "ans": "4",
+    "level": "Easy",
+    "op_en": [
+      "Iron",
+      "Vitamin B",
+      "Protein",
+      "Vitamin C"
+    ],
+    "op_hi": [
+      "आयरन",
+      "विटामिन B",
+      "प्रोटीन",
+      "विटामिन C"
+    ],
+    "q_en": "The deficiency of which of the following causes bleeding gums?",
+    "q_hi": "निम्नलिखित में से किसकी कमी के कारण मसूड़ों से खून आने लगता है?",
+    "section": "General Awareness",
+    "solution": "1. विटामिन C (एस्कॉर्बिक एसिड) की कमी से 'स्कर्वी' (Scurvy) नामक रोग होता है।<br>2. स्कर्वी के प्रमुख लक्षणों में मसूड़ों में सूजन, मसूड़ों से खून आना और घावों का देरी से भरना शामिल है।<br>3. खट्टे फल जैसे संतरा, नींबू और आंवला विटामिन C के बेहतरीन स्रोत हैं।",
+    "topic": "Biology"
+  },
+  {
+    "ans": "3",
+    "level": "Medium",
+    "op_en": [
+      "Ribosome",
+      "Endoplasmic Reticulum",
+      "Mesosome",
+      "Golgi Apparatus"
+    ],
+    "op_hi": [
+      "राइबोसोम",
+      "एंडोप्लाज्मिक रेटिकुलम",
+      "मेसोसोम",
+      "गोल्गी उपकरण"
+    ],
+    "q_en": "A special membranous structure formed by extensions of the plasma membrane into the cell is known as:",
+    "q_hi": "कोशिका में प्लाज्मा झिल्ली के विस्तार से बनने वाली एक विशेष झिल्लीदार संरचना को क्या कहा जाता है?",
+    "section": "General Awareness",
+    "solution": "1. मेसोसोम (Mesosome) प्रोकैरियोटिक कोशिकाओं (जैसे बैक्टीरिया) में पाया जाने वाला एक महत्वपूर्ण अंगक है।<br>2. यह प्लाज्मा झिल्ली के अंदर की ओर मुड़ने या विस्तार होने से बनता है।<br>3. यह कोशिका श्वसन (respiration), डीएनए प्रतिकृति और कोशिका भित्ति के निर्माण में मदद करता है।",
+    "topic": "Biology"
+  }
+]
