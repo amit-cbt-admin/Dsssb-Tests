@@ -1,0 +1,422 @@
+[
+  {
+    "ans": "4",
+    "level": "Medium",
+    "op_en": [
+      "significant",
+      "essential",
+      "pertinent",
+      "extraneous"
+    ],
+    "op_hi": [
+      "significant",
+      "essential",
+      "pertinent",
+      "extraneous"
+    ],
+    "q_en": "Select the option that can be used as a one-word substitute for the highlighted segment in the given sentence.<br><br>The report was thorough but contained several <strong>irrelevant and unnecessary</strong> details which could distract one from the main findings.<br> <span style=\"color:#ffffff;\">8584</span>",
+    "q_hi": "Select the option that can be used as a one-word substitute for the highlighted segment in the given sentence.<br><br>The report was thorough but contained several <strong>irrelevant and unnecessary</strong> details which could distract one from the main findings.<br> <span style=\"color:#ffffff;\">8584</span>",
+    "section": "English Language and Comprehension",
+    "solution": "यहाँ 'irrelevant and unnecessary' (अप्रासंगिक और अनावश्यक) के लिए एक शब्द 'extraneous' (बाहरी/असंगत) होगा। अन्य विकल्प: significant (महत्वपूर्ण), essential (आवश्यक), pertinent (प्रासंगिक) विपरीत अर्थ देते हैं।",
+    "topic": "One Word Substitution"
+  },
+  {
+    "ans": "1",
+    "level": "Medium",
+    "op_en": [
+      "appeared",
+      "will appear",
+      "appears",
+      "appearing"
+    ],
+    "op_hi": [
+      "appeared",
+      "will appear",
+      "appears",
+      "appearing"
+    ],
+    "q_en": "Select the most appropriate option to fill in the blank.<br><br>The contestant ______ to know the answer, but she failed to ring in on time.",
+    "q_hi": "Select the most appropriate option to fill in the blank.<br><br>The contestant ______ to know the answer, but she failed to ring in on time.",
+    "section": "English Language and Comprehension",
+    "solution": "वाक्य Past Tense (भूतकाल) में है ('but she failed...'), इसलिए यहाँ 'appeared' का प्रयोग सही होगा, जो past tense को दर्शाता है।",
+    "topic": "Fill in the Blanks"
+  },
+  {
+    "ans": "3",
+    "level": "Medium",
+    "op_en": [
+      "DBFEAC",
+      "BEFDCA",
+      "DBEAFC",
+      "DBAFEC"
+    ],
+    "op_hi": [
+      "DBFEAC",
+      "BEFDCA",
+      "DBEAFC",
+      "DBAFEC"
+    ],
+    "q_en": "Parts of a sentence are given below in jumbled order. Arrange the parts in the correct order to form a meaningful sentence.<br><br>A. to get any<br>B. send the<br>C. on their address<br>D. people should<br>E. money in advance<br>F. book delivered",
+    "q_hi": "Parts of a sentence are given below in jumbled order. Arrange the parts in the correct order to form a meaningful sentence.<br><br>A. to get any<br>B. send the<br>C. on their address<br>D. people should<br>E. money in advance<br>F. book delivered",
+    "section": "English Language and Comprehension",
+    "solution": "सही वाक्य विन्यास: 'People should send the money in advance to get any book delivered on their address.' (D-B-E-A-F-C)। अतः सही क्रम DBEAFC है।",
+    "topic": "Sentence Rearrangement"
+  },
+  {
+    "ans": "4",
+    "level": "Easy",
+    "op_en": [
+      "between",
+      "with",
+      "behind",
+      "onto"
+    ],
+    "op_hi": [
+      "between",
+      "with",
+      "behind",
+      "onto"
+    ],
+    "q_en": "Select the most appropriate option to fill in the blank.<br><br>He carefully stepped ________ the boat before it drifted away.",
+    "q_hi": "Select the most appropriate option to fill in the blank.<br><br>He carefully stepped ________ the boat before it drifted away.",
+    "section": "English Language and Comprehension",
+    "solution": "किसी सतह पर चढ़ने या प्रवेश करने (जैसे नाव पर) के लिए 'onto' का प्रयोग किया जाता है। अतः 'stepped onto the boat' सही होगा।",
+    "topic": "Preposition"
+  },
+  {
+    "ans": "2",
+    "level": "Medium",
+    "op_en": [
+      "CABD",
+      "BDCA",
+      "BCDA",
+      "BACD"
+    ],
+    "op_hi": [
+      "CABD",
+      "BDCA",
+      "BCDA",
+      "BACD"
+    ],
+    "q_en": "Parts of a sentence are given below in jumbled order. Arrange the parts in the correct order to form a meaningful sentence.<br><br>A. and health of city dwellers<br>B. city smog has become a matter<br>C. it poses a threat to the air quality<br>D. of concern to the environmentalists as",
+    "q_hi": "Parts of a sentence are given below in jumbled order. Arrange the parts in the correct order to form a meaningful sentence.<br><br>A. and health of city dwellers<br>B. city smog has become a matter<br>C. it poses a threat to the air quality<br>D. of concern to the environmentalists as",
+    "section": "English Language and Comprehension",
+    "solution": "वाक्य का सही क्रम: 'City smog has become a matter (B) of concern to the environmentalists as (D) it poses a threat to the air quality (C) and health of city dwellers (A).' अतः सही क्रम BDCA है।",
+    "topic": "Sentence Rearrangement"
+  },
+  {
+    "ans": "1",
+    "level": "Medium",
+    "op_en": [
+      "revolutionary ; complex",
+      "ordinary ; simple",
+      "basic ; trivial",
+      "dull ; outdated"
+    ],
+    "op_hi": [
+      "revolutionary ; complex",
+      "ordinary ; simple",
+      "basic ; trivial",
+      "dull ; outdated"
+    ],
+    "q_en": "Select the most appropriate option to fill in the blanks.<br><br>The scientist presented a ___ and ___ theory that challenged conventional beliefs.",
+    "q_hi": "Select the most appropriate option to fill in the blanks.<br><br>The scientist presented a ___ and ___ theory that challenged conventional beliefs.",
+    "section": "English Language and Comprehension",
+    "solution": "वाक्य के संदर्भ ('challenged conventional beliefs') के अनुसार, सिद्धांत को क्रांतिकारी (revolutionary) और जटिल (complex) होना चाहिए। अतः 'revolutionary ; complex' सबसे सटीक विकल्प है।",
+    "topic": "Fill in the Blanks"
+  },
+  {
+    "ans": "2",
+    "level": "Easy",
+    "op_en": [
+      "Cosmopolitan",
+      "Dipsomaniac",
+      "Centrifugal",
+      "Ascetic"
+    ],
+    "op_hi": [
+      "Cosmopolitan",
+      "Dipsomaniac",
+      "Centrifugal",
+      "Ascetic"
+    ],
+    "q_en": "Select the option that can be used as a one-word substitute for the given group of words.<br><br>Someone who has an uncontrollable craving for alcohol",
+    "q_hi": "Select the option that can be used as a one-word substitute for the given group of words.<br><br>Someone who has an uncontrollable craving for alcohol",
+    "section": "English Language and Comprehension",
+    "solution": "शराब की अनियंत्रित लालसा रखने वाले व्यक्ति को 'Dipsomaniac' कहा जाता है। Cosmopolitan (विश्वप्रेमी), Centrifugal (अपकेंद्री), और Ascetic (तपस्वी) अन्य अर्थों वाले शब्द हैं।",
+    "topic": "One Word Substitution"
+  },
+  {
+    "ans": "3",
+    "level": "Medium",
+    "op_en": [
+      "quiet; confident",
+      "soft; courageously",
+      "quietly; confidently",
+      "slow; loudly"
+    ],
+    "op_hi": [
+      "quiet; confident",
+      "soft; courageously",
+      "quietly; confidently",
+      "slow; loudly"
+    ],
+    "q_en": "Select the most appropriate option to fill in the blanks.<br><br>She spoke _______ and _______ during the interview, impressing the panel.",
+    "q_hi": "Select the most appropriate option to fill in the blanks.<br><br>She spoke _______ and _______ during the interview, impressing the panel.",
+    "section": "English Language and Comprehension",
+    "solution": "यहाँ 'spoke' क्रिया (verb) की विशेषता बताने के लिए adverbs (क्रियाविशेषण) का प्रयोग होगा। 'quietly' और 'confidently' दोनों adverbs हैं। अतः 'quietly; confidently' सही विकल्प है।",
+    "topic": "Fill in the Blanks"
+  },
+  {
+    "ans": "3",
+    "level": "Medium",
+    "op_en": [
+      "Stricter measures may introduced by the authorities to curb the illegal trade.",
+      "Stricter measures may have been introduced by the authorities to curb the illegal trade.",
+      "Stricter measures may be introduced by the authorities to curb the illegal trade.",
+      "Stricter measures might introduced to curb the illegal trade by the authorities."
+    ],
+    "op_hi": [
+      "Stricter measures may introduced by the authorities to curb the illegal trade.",
+      "Stricter measures may have been introduced by the authorities to curb the illegal trade.",
+      "Stricter measures may be introduced by the authorities to curb the illegal trade.",
+      "Stricter measures might introduced to curb the illegal trade by the authorities."
+    ],
+    "q_en": "Select the option that expresses the given sentence in passive voice. <br><br>The authorities may introduce stricter measures to curb the illegal trade.",
+    "q_hi": "Select the option that expresses the given sentence in passive voice. <br><br>The authorities may introduce stricter measures to curb the illegal trade.",
+    "section": "English Language and Comprehension",
+    "solution": "Passive Voice का नियम: Object + may be + V3 + by + Subject.<br>यहाँ 'stricter measures' object है और 'introduce' का V3 'introduced' होगा। अतः सही वाक्य: 'Stricter measures may be introduced by the authorities to curb the illegal trade.' होगा।",
+    "topic": "Active and Passive Voice"
+  },
+  {
+    "ans": "3",
+    "level": "Medium",
+    "op_en": [
+      "Coniferous",
+      "Tropical",
+      "Deciduous",
+      "Evergreen"
+    ],
+    "op_hi": [
+      "Coniferous",
+      "Tropical",
+      "Deciduous",
+      "Evergreen"
+    ],
+    "q_en": "Select the option that can be used as a one-word substitute for the given group of words.<br><br>Falling off or shed seasonally or at a certain stage of development in the life cycle of a tree",
+    "q_hi": "Select the option that can be used as a one-word substitute for the given group of words.<br><br>Falling off or shed seasonally or at a certain stage of development in the life cycle of a tree",
+    "section": "English Language and Comprehension",
+    "solution": "पेड़ों के मौसमी रूप से पत्ते गिराने की प्रक्रिया या ऐसे पेड़ों को 'Deciduous' (पर्णपाती) कहा जाता है। Evergreen (सदाबहार) और Coniferous (शंकुधारी) अलग प्रकार के पेड़ होते हैं।",
+    "topic": "One Word Substitution"
+  },
+  {
+    "ans": "4",
+    "level": "Hard",
+    "op_en": [
+      "about; by; with",
+      "of; n; about",
+      "in; to; for",
+      "from; through; for"
+    ],
+    "op_hi": [
+      "about; by; with",
+      "of; n; about",
+      "in; to; for",
+      "from; through; for"
+    ],
+    "q_en": "Select the most appropriate options to fill in the blanks.<br><br>Students ___________ the selected schools were re-organised _________ their reading level and taught _______ one hour each day using level appropriate materials.",
+    "q_hi": "Select the most appropriate options to fill in the blanks.<br><br>Students ___________ the selected schools were re-organised _________ their reading level and taught _______ one hour each day using level appropriate materials.",
+    "section": "English Language and Comprehension",
+    "solution": "सही प्रीपोजिशन होंगे: 'from' (चुने हुए स्कूलों से), 'through' (उनके पढ़ने के स्तर के माध्यम से/के आधार पर), और 'for' (एक घंटे के लिए)। अतः 'from; through; for' सही विकल्प है।",
+    "topic": "Preposition"
+  },
+  {
+    "ans": "3",
+    "level": "Medium",
+    "op_en": [
+      "RQSP",
+      "RSPQ",
+      "QPSR",
+      "PRSQ"
+    ],
+    "op_hi": [
+      "RQSP",
+      "RSPQ",
+      "QPSR",
+      "PRSQ"
+    ],
+    "q_en": "Parts of a sentence are given below. Arrange the parts in the correct order to form a meaningful and coherent sentence.<br><br>(P) cliffs and vibrant rock layers, provides a visual<br>(Q) the Grand Canyon, with its steep<br>(R) revealing Earth’s geological evolution<br>(S) history of millions of years,",
+    "q_hi": "Parts of a sentence are given below. Arrange the parts in the correct order to form a meaningful and coherent sentence.<br><br>(P) cliffs and vibrant rock layers, provides a visual<br>(Q) the Grand Canyon, with its steep<br>(R) revealing Earth’s geological evolution<br>(S) history of millions of years,",
+    "section": "English Language and Comprehension",
+    "solution": "सही वाक्य संरचना: 'The Grand Canyon, with its steep (Q) cliffs and vibrant rock layers, provides a visual (P) history of millions of years, (S) revealing Earth’s geological evolution (R).' अतः सही क्रम QPSR है।",
+    "topic": "Sentence Rearrangement"
+  },
+  {
+    "ans": "4",
+    "level": "Medium",
+    "op_en": [
+      "DFACEB",
+      "ACFDEB",
+      "ACDFBE",
+      "DFCAEB"
+    ],
+    "op_hi": [
+      "DFACEB",
+      "ACFDEB",
+      "ACDFBE",
+      "DFCAEB"
+    ],
+    "q_en": "Parts of a sentence are given below in jumbled order. Arrange the parts in the correct order to form a meaningful sentence.<br><br>A. struggled hard<br>B. freedom<br>C. and a lawyer<br>D. Gandhiji<br>E. to attain<br>F. a moralist",
+    "q_hi": "Parts of a sentence are given below in jumbled order. Arrange the parts in the correct order to form a meaningful sentence.<br><br>A. struggled hard<br>B. freedom<br>C. and a lawyer<br>D. Gandhiji<br>E. to attain<br>F. a moralist",
+    "section": "English Language and Comprehension",
+    "solution": "सार्थक वाक्य: 'Gandhiji (D), a moralist (F) and a lawyer (C), struggled hard (A) to attain (E) freedom (B).' अतः सही क्रम DFCAEB है।",
+    "topic": "Sentence Rearrangement"
+  },
+  {
+    "ans": "1",
+    "level": "Easy",
+    "op_en": [
+      "B – A – C – D",
+      "A – B – D – C",
+      "B – D – A – C",
+      "C – B – A – D"
+    ],
+    "op_hi": [
+      "B – A – C – D",
+      "A – B – D – C",
+      "B – D – A – C",
+      "C – B – A – D"
+    ],
+    "q_en": "Parts of a sentence are given below in jumbled order. Arrange the parts in the correct order to form a meaningful sentence.<br><br>A. is a popular hobby<br>B. reading books<br>C. for many people<br>D. around the world",
+    "q_hi": "Parts of a sentence are given below in jumbled order. Arrange the parts in the correct order to form a meaningful sentence.<br><br>A. is a popular hobby<br>B. reading books<br>C. for many people<br>D. around the world",
+    "section": "English Language and Comprehension",
+    "solution": "सही वाक्य: 'Reading books (B) is a popular hobby (A) for many people (C) around the world (D).' अतः क्रम B-A-C-D सही है।",
+    "topic": "Sentence Rearrangement"
+  },
+  {
+    "ans": "2",
+    "level": "Medium",
+    "op_en": [
+      "SPRQ",
+      "SQRP",
+      "SRQP",
+      "SQPR"
+    ],
+    "op_hi": [
+      "SPRQ",
+      "SQRP",
+      "SRQP",
+      "SQPR"
+    ],
+    "q_en": "Parts of a sentence are given below in jumbled order. Arrange the parts in the correct order to form a meaningful sentence.<br>P: degrading drudgery<br>Q: have relieved<br>R: mankind of<br>S: science and technology",
+    "q_hi": "Parts of a sentence are given below in jumbled order. Arrange the parts in the correct order to form a meaningful sentence.<br>P: degrading drudgery<br>Q: have relieved<br>R: mankind of<br>S: science and technology",
+    "section": "English Language and Comprehension",
+    "solution": "सही वाक्य: 'Science and technology (S) have relieved (Q) mankind of (R) degrading drudgery (P).' अतः सही क्रम SQRP है।",
+    "topic": "Sentence Rearrangement"
+  },
+  {
+    "ans": "4",
+    "level": "Medium",
+    "op_en": [
+      "Gender and Justice: The Role of Schools",
+      "Laws and Protection of Animal Rights",
+      "The Emergence of Civil Rights and Education",
+      "The Importance of Justice in Society"
+    ],
+    "op_hi": [
+      "Gender and Justice: The Role of Schools",
+      "Laws and Protection of Animal Rights",
+      "The Emergence of Civil Rights and Education",
+      "The Importance of Justice in Society"
+    ],
+    "q_en": "<b>Comprehension:</b><br>Read the given passage and answer the questions that follow.<br><br>Justice has been one of the most discussed topics for thousands of years. As such, Steiner (1994) concluded that justice is primarily concerned with the termination of resolving conflicts that develop as one follows ambitions in a social setting, which means that there should be an authoritative source for fairness: rights. The notion of laws regulating social justice applies to everyone’s life, including mine own.<br>My existence would be quite different if there were no advancements in civil rights and opportunities involving my gender. For example, I know that the Violence Against Women Act provides assistance for women who have suffered rape and domestic abuse (National Women’s History Alliance, 2018). Hence, I have an opportunity to be safe at home and outside and penalise people who violate this right; my grandmother had not this right.<br>To conclude, justice is guaranteed by the emergence of appropriate civil rights for various populations, which limits the freedom of others but makes life fairer for all. My gender has been a cause for discriminatory behaviour, and the US legislation narrowed this gap. As a result, I have more opportunities since I can be more sure about my safety and the punishment of the offenders.<br>Identify the most suitable title for the passage.",
+    "q_hi": "<b>Comprehension:</b><br>Read the given passage and answer the questions that follow.<br><br>Justice has been one of the most discussed topics for thousands of years. As such, Steiner (1994) concluded that justice is primarily concerned with the termination of resolving conflicts that develop as one follows ambitions in a social setting, which means that there should be an authoritative source for fairness: rights. The notion of laws regulating social justice applies to everyone’s life, including mine own.<br>My existence would be quite different if there were no advancements in civil rights and opportunities involving my gender. For example, I know that the Violence Against Women Act provides assistance for women who have suffered rape and domestic abuse (National Women’s History Alliance, 2018). Hence, I have an opportunity to be safe at home and outside and penalise people who violate this right; my grandmother had not this right.<br>To conclude, justice is guaranteed by the emergence of appropriate civil rights for various populations, which limits the freedom of others but makes life fairer for all. My gender has been a cause for discriminatory behaviour, and the US legislation narrowed this gap. As a result, I have more opportunities since I can be more sure about my safety and the punishment of the offenders.<br>Identify the most suitable title for the passage.",
+    "section": "English Language and Comprehension",
+    "solution": "पूरे गद्यांश में न्याय (Justice) की अवधारणा और समाज में इसके महत्व, विशेषकर नागरिक अधिकारों और सुरक्षा के संदर्भ में, पर चर्चा की गई है। अतः 'The Importance of Justice in Society' सबसे उपयुक्त शीर्षक है।",
+    "topic": "Reading Comprehension"
+  },
+  {
+    "ans": "1",
+    "level": "Medium",
+    "op_en": [
+      "Optimistic and empowering",
+      "Indifferent and neutral",
+      "Pessimistic and disillusioned",
+      "Sarcastic and critical"
+    ],
+    "op_hi": [
+      "Optimistic and empowering",
+      "Indifferent and neutral",
+      "Pessimistic and disillusioned",
+      "Sarcastic and critical"
+    ],
+    "q_en": "<b>Comprehension:</b><br>Read the given passage and answer the questions that follow.<br><br>Justice has been one of the most discussed topics for thousands of years. As such, Steiner (1994) concluded that justice is primarily concerned with the termination of resolving conflicts that develop as one follows ambitions in a social setting, which means that there should be an authoritative source for fairness: rights. The notion of laws regulating social justice applies to everyone’s life, including mine own.<br>My existence would be quite different if there were no advancements in civil rights and opportunities involving my gender. For example, I know that the Violence Against Women Act provides assistance for women who have suffered rape and domestic abuse (National Women’s History Alliance, 2018). Hence, I have an opportunity to be safe at home and outside and penalise people who violate this right; my grandmother had not this right.<br>To conclude, justice is guaranteed by the emergence of appropriate civil rights for various populations, which limits the freedom of others but makes life fairer for all. My gender has been a cause for discriminatory behaviour, and the US legislation narrowed this gap. As a result, I have more opportunities since I can be more sure about my safety and the punishment of the offenders.<br>Identify the tone of the passage.",
+    "q_hi": "<b>Comprehension:</b><br>Read the given passage and answer the questions that follow.<br><br>Justice has been one of the most discussed topics for thousands of years. As such, Steiner (1994) concluded that justice is primarily concerned with the termination of resolving conflicts that develop as one follows ambitions in a social setting, which means that there should be an authoritative source for fairness: rights. The notion of laws regulating social justice applies to everyone’s life, including mine own.<br>My existence would be quite different if there were no advancements in civil rights and opportunities involving my gender. For example, I know that the Violence Against Women Act provides assistance for women who have suffered rape and domestic abuse (National Women’s History Alliance, 2018). Hence, I have an opportunity to be safe at home and outside and penalise people who violate this right; my grandmother had not this right.<br>To conclude, justice is guaranteed by the emergence of appropriate civil rights for various populations, which limits the freedom of others but makes life fairer for all. My gender has been a cause for discriminatory behaviour, and the US legislation narrowed this gap. As a result, I have more opportunities since I can be more sure about my safety and the punishment of the offenders.<br>Identify the tone of the passage.",
+    "section": "English Language and Comprehension",
+    "solution": "लेखक नागरिक अधिकारों की प्रगति के कारण न्याय और अपनी सुरक्षा के प्रति आश्वस्त है। यह सकारात्मक बदलाव और सशक्तिकरण को दर्शाता है, इसलिए टोन 'Optimistic and empowering' है।",
+    "topic": "Reading Comprehension"
+  },
+  {
+    "ans": "3",
+    "level": "Medium",
+    "op_en": [
+      "Definition given on justice, examples of legal cases, political conclusion on laws",
+      "Discussion on theories of justice, personal reflection on its impact, future legal reforms",
+      "Introduction of justice, personal reflection on its impact, conclusion on civil rights",
+      "Detailed discussion on nutrition, list of popular diets, philosophical conclusion"
+    ],
+    "op_hi": [
+      "Definition given on justice, examples of legal cases, political conclusion on laws",
+      "Discussion on theories of justice, personal reflection on its impact, future legal reforms",
+      "Introduction of justice, personal reflection on its impact, conclusion on civil rights",
+      "Detailed discussion on nutrition, list of popular diets, philosophical conclusion"
+    ],
+    "q_en": "<b>Comprehension:</b><br>Read the given passage and answer the questions that follow.<br><br>Justice has been one of the most discussed topics for thousands of years. As such, Steiner (1994) concluded that justice is primarily concerned with the termination of resolving conflicts that develop as one follows ambitions in a social setting, which means that there should be an authoritative source for fairness: rights. The notion of laws regulating social justice applies to everyone’s life, including mine own.<br>My existence would be quite different if there were no advancements in civil rights and opportunities involving my gender. For example, I know that the Violence Against Women Act provides assistance for women who have suffered rape and domestic abuse (National Women’s History Alliance, 2018). Hence, I have an opportunity to be safe at home and outside and penalise people who violate this right; my grandmother had not this right.<br>To conclude, justice is guaranteed by the emergence of appropriate civil rights for various populations, which limits the freedom of others but makes life fairer for all. My gender has been a cause for discriminatory behaviour, and the US legislation narrowed this gap. As a result, I have more opportunities since I can be more sure about my safety and the punishment of the offenders.<br>Select the most appropriate structure of the passage.",
+    "q_hi": "<b>Comprehension:</b><br>Read the given passage and answer the questions that follow.<br><br>Justice has been one of the most discussed topics for thousands of years. As such, Steiner (1994) concluded that justice is primarily concerned with the termination of resolving conflicts that develop as one follows ambitions in a social setting, which means that there should be an authoritative source for fairness: rights. The notion of laws regulating social justice applies to everyone’s life, including mine own.<br>My existence would be quite different if there were no advancements in civil rights and opportunities involving my gender. For example, I know that the Violence Against Women Act provides assistance for women who have suffered rape and domestic abuse (National Women’s History Alliance, 2018). Hence, I have an opportunity to be safe at home and outside and penalise people who violate this right; my grandmother had not this right.<br>To conclude, justice is guaranteed by the emergence of appropriate civil rights for various populations, which limits the freedom of others but makes life fairer for all. My gender has been a cause for discriminatory behaviour, and the US legislation narrowed this gap. As a result, I have more opportunities since I can be more sure about my safety and the punishment of the offenders.<br>Select the most appropriate structure of the passage.",
+    "section": "English Language and Comprehension",
+    "solution": "गद्यांश की संरचना: पहले पैराग्राफ में न्याय का परिचय (Introduction of justice) है, दूसरे में लेखक के जीवन पर इसके प्रभाव का व्यक्तिगत चिंतन (personal reflection) है, और अंतिम में नागरिक अधिकारों पर निष्कर्ष (conclusion on civil rights) है।",
+    "topic": "Reading Comprehension"
+  },
+  {
+    "ans": "1",
+    "level": "Medium",
+    "op_en": [
+      "Equitable",
+      "Unfair",
+      "Unjust",
+      "Prejudiced"
+    ],
+    "op_hi": [
+      "Equitable",
+      "Unfair",
+      "Unjust",
+      "Prejudiced"
+    ],
+    "q_en": "<b>Comprehension:</b><br>Read the given passage and answer the questions that follow.<br><br>Justice has been one of the most discussed topics for thousands of years. As such, Steiner (1994) concluded that justice is primarily concerned with the termination of resolving conflicts that develop as one follows ambitions in a social setting, which means that there should be an authoritative source for fairness: rights. The notion of laws regulating social justice applies to everyone’s life, including mine own.<br>My existence would be quite different if there were no advancements in civil rights and opportunities involving my gender. For example, I know that the Violence Against Women Act provides assistance for women who have suffered rape and domestic abuse (National Women’s History Alliance, 2018). Hence, I have an opportunity to be safe at home and outside and penalise people who violate this right; my grandmother had not this right.<br>To conclude, justice is guaranteed by the emergence of appropriate civil rights for various populations, which limits the freedom of others but makes life fairer for all. My gender has been a cause for discriminatory behaviour, and the US legislation narrowed this gap. As a result, I have more opportunities since I can be more sure about my safety and the punishment of the offenders.<br>Find the most appropriate ANTONYM of the word 'discriminatory'.",
+    "q_hi": "<b>Comprehension:</b><br>Read the given passage and answer the questions that follow.<br><br>Justice has been one of the most discussed topics for thousands of years. As such, Steiner (1994) concluded that justice is primarily concerned with the termination of resolving conflicts that develop as one follows ambitions in a social setting, which means that there should be an authoritative source for fairness: rights. The notion of laws regulating social justice applies to everyone’s life, including mine own.<br>My existence would be quite different if there were no advancements in civil rights and opportunities involving my gender. For example, I know that the Violence Against Women Act provides assistance for women who have suffered rape and domestic abuse (National Women’s History Alliance, 2018). Hence, I have an opportunity to be safe at home and outside and penalise people who violate this right; my grandmother had not this right.<br>To conclude, justice is guaranteed by the emergence of appropriate civil rights for various populations, which limits the freedom of others but makes life fairer for all. My gender has been a cause for discriminatory behaviour, and the US legislation narrowed this gap. As a result, I have more opportunities since I can be more sure about my safety and the punishment of the offenders.<br>Find the most appropriate ANTONYM of the word 'discriminatory'.",
+    "section": "English Language and Comprehension",
+    "solution": "'Discriminatory' का अर्थ है भेदभावपूर्ण या पक्षपातपूर्ण। इसका सही विलोम (Antonym) 'Equitable' (न्यायसंगत/निष्पक्ष) होगा। Unfair, Unjust और Prejudiced इसके समानार्थी (Synonyms) हैं।",
+    "topic": "Reading Comprehension"
+  },
+  {
+    "ans": "2",
+    "level": "Easy",
+    "op_en": [
+      "Justice is concerned with resolving conflicts that arises.",
+      "The Violence Against Women Act provides assistance to women.",
+      "The emergence of civil rights only applies to women.",
+      "Justice guarantees that everyone’s rights are always protected."
+    ],
+    "op_hi": [
+      "Justice is concerned with resolving conflicts that arises.",
+      "The Violence Against Women Act provides assistance to women.",
+      "The emergence of civil rights only applies to women.",
+      "Justice guarantees that everyone’s rights are always protected."
+    ],
+    "q_en": "<b>Comprehension:</b><br>Read the given passage and answer the questions that follow.<br><br>Justice has been one of the most discussed topics for thousands of years. As such, Steiner (1994) concluded that justice is primarily concerned with the termination of resolving conflicts that develop as one follows ambitions in a social setting, which means that there should be an authoritative source for fairness: rights. The notion of laws regulating social justice applies to everyone’s life, including mine own.<br>My existence would be quite different if there were no advancements in civil rights and opportunities involving my gender. For example, I know that the Violence Against Women Act provides assistance for women who have suffered rape and domestic abuse (National Women’s History Alliance, 2018). Hence, I have an opportunity to be safe at home and outside and penalise people who violate this right; my grandmother had not this right.<br>To conclude, justice is guaranteed by the emergence of appropriate civil rights for various populations, which limits the freedom of others but makes life fairer for all. My gender has been a cause for discriminatory behaviour, and the US legislation narrowed this gap. As a result, I have more opportunities since I can be more sure about my safety and the punishment of the offenders.<br>According to the passage, which of the following statements is a fact?",
+    "q_hi": "<b>Comprehension:</b><br>Read the given passage and answer the questions that follow.<br><br>Justice has been one of the most discussed topics for thousands of years. As such, Steiner (1994) concluded that justice is primarily concerned with the termination of resolving conflicts that develop as one follows ambitions in a social setting, which means that there should be an authoritative source for fairness: rights. The notion of laws regulating social justice applies to everyone’s life, including mine own.<br>My existence would be quite different if there were no advancements in civil rights and opportunities involving my gender. For example, I know that the Violence Against Women Act provides assistance for women who have suffered rape and domestic abuse (National Women’s History Alliance, 2018). Hence, I have an opportunity to be safe at home and outside and penalise people who violate this right; my grandmother had not this right.<br>To conclude, justice is guaranteed by the emergence of appropriate civil rights for various populations, which limits the freedom of others but makes life fairer for all. My gender has been a cause for discriminatory behaviour, and the US legislation narrowed this gap. As a result, I have more opportunities since I can be more sure about my safety and the punishment of the offenders.<br>According to the passage, which of the following statements is a fact?",
+    "section": "English Language and Comprehension",
+    "solution": "गद्यांश में स्पष्ट रूप से उल्लिखित है: \"the Violence Against Women Act provides assistance for women who have suffered rape and domestic abuse\"। अतः विकल्प 2 एक तथ्य (fact) है।",
+    "topic": "Reading Comprehension"
+  }
+]
