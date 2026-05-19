@@ -1,0 +1,842 @@
+[
+    {
+        "section": "General Awareness",
+        "topic": "Indian Art and Culture",
+        "difficulty": "Easy",
+        "q_en": "The gateways of the Sanchi Stupa are known by the name of ______.",
+        "q_hi": "सांची स्तूप के प्रवेश द्वार, _________ के नाम से जाने जाते हैं।",
+        "op_en": [
+            "Torana",
+            "Mandapa",
+            "Gopuram",
+            "Shikhara"
+        ],
+        "op_hi": [
+            "तोरण",
+            "मंडप",
+            "गोपुरम",
+            "शिखर"
+        ],
+        "ans": 1,
+        "solution": "<b>Solution (EN):</b><br>The ornamental gateways of the Sanchi Stupa are called Toranas. There are four intricately carved Toranas positioned at the four cardinal directions (North, South, East, and West) around the main stupa, representing Buddhist narratives and events from Jataka tales.<br><br><b>Solution (HI):</b><br>सांची स्तूप के अलंकृत प्रवेश द्वारों को तोरण कहा जाता है। मुख्य स्तूप के चारों मुख्य दिशाओं (उत्तर, दक्षिण, पूर्व और पश्चिम) में चार जटिल नक्काशीदार तोरण स्थित हैं, जो बौद्ध आख्यानों और जातक कथाओं की घटनाओं को दर्शाते हैं।"
+    },
+    {
+        "section": "General Awareness",
+        "topic": "Modern Indian History",
+        "difficulty": "Easy",
+        "q_en": "Which revolutionary organization was reorganized by Chandrashekhar Azad, Bhagat Singh, and their associates in 1928, and had its name changed?",
+        "q_hi": "1928 में चंद्रशेखर आज़ाद, भगत सिंह और उनके साथियों द्वारा किस क्रांतिकारी संगठन का पुनर्गठन किया गया और उसका नाम परिवर्तित कर दिया गया?",
+        "op_en": [
+            "Ghadar Party",
+            "Indian National Army",
+            "Hindustan Republican Association",
+            "Hindustan Socialist Republican Association"
+        ],
+        "op_hi": [
+            "गदर पार्टी",
+            "इंडियन नेशनल आर्मी",
+            "हिंदुस्तान रिपब्लिकन एसोसिएशन",
+            "हिंदुस्तान सोशलिस्ट रिपब्लिकन एसोसिएशन"
+        ],
+        "ans": 4,
+        "solution": "<b>Solution (EN):</b><br>In September 1928, at Feroz Shah Kotla Ground in Delhi, the Hindustan Republican Association (HRA) was reorganized under the leadership of Chandrashekhar Azad, Bhagat Singh, Sukhdev, and others. The name was changed to the Hindustan Socialist Republican Association (HSRA) to reflect their socialist ideology.<br><br><b>Solution (HI):</b><br>सितंबर 1928 में दिल्ली के फिरोज शाह कोटला मैदान में चंद्रशेखर आजाद, भगत सिंह, सुखदेव और अन्य के नेतृत्व में हिंदुस्तान रिपब्लिकन एसोसिएशन (HRA) का पुनर्गठन किया गया। इसकी समाजवादी विचारधारा को दर्शाने के लिए इसका नाम बदलकर हिंदुस्तान सोशलिस्ट रिपब्लिकन एसोसिएशन (HSRA) कर दिया गया था।"
+    },
+    {
+        "section": "General Awareness",
+        "topic": "Government Schemes",
+        "difficulty": "Easy",
+        "q_en": "Which key feature of the Jan Dhan Yojana contributes to strengthening rural development?",
+        "q_hi": "जनधन योजना की कौन-सी प्रमुख विशेषता, ग्रामीण विकास को सुदृढ़ करने में योगदान देती है?",
+        "op_en": [
+            "Availability of bank accounts with zero minimum balance",
+            "Guarantee of Minimum Support Price for all crops",
+            "Provision of free agricultural land to farmers",
+            "Providing free fertilizers and agricultural equipment"
+        ],
+        "op_hi": [
+            "बिना किसी न्यूनतम शेष राशि के बैंक खाते उपलब्ध कराना",
+            "सभी फसलों के लिए न्यूनतम समर्थन मूल्य की गारंटी",
+            "किसानों को निःशुल्क कृषि भूमि का प्रावधान",
+            "निःशुल्क उर्वरक और कृषि उपकरण उपलब्ध कराना"
+        ],
+        "ans": 1,
+        "solution": "<b>Solution (EN):</b><br>The Pradhan Mantri Jan Dhan Yojana (PMJDY) is a National Mission for Financial Inclusion. Its primary feature that strengthens rural development is providing financial access by opening zero-minimum-balance bank accounts (Basic Savings Bank Deposit Account) for unbanked individuals, especially in rural areas.<br><br><b>Solution (HI):</b><br>प्रधानमंत्री जन धन योजना (PMJDY) वित्तीय समावेशन के लिए एक राष्ट्रीय मिशन है। ग्रामीण विकास को मजबूत करने वाली इसकी प्राथमिक विशेषता बिना किसी न्यूनतम शेष राशि की आवश्यकता के बैंक खाते (मूल बचत बैंक जमा खाता) खोलकर वित्तीय पहुंच प्रदान करना है, विशेष रूप से ग्रामीण क्षेत्रों के बैंकिंग रहित लोगों के लिए।"
+    },
+    {
+        "section": "General Awareness",
+        "topic": "Economics",
+        "difficulty": "Easy",
+        "q_en": "Which components are included in the money supply aggregate known as M1?",
+        "q_hi": "मुद्रा आपूर्ति समुच्चय जिसे M1 के नाम से जाना जाता है, उसमें कौन-कौन से घटक शामिल होते हैं?",
+        "op_en": [
+            "Currency only",
+            "Currency + Demand Deposits",
+            "Demand Deposits only",
+            "Currency + Credit"
+        ],
+        "op_hi": [
+            "केवल मुद्रा",
+            "मुद्रा + मांग जमा",
+            "केवल मांग जमा",
+            "मुद्रा + ऋण"
+        ],
+        "ans": 2,
+        "solution": "<b>Solution (EN):</b><br>M1 is known as narrow money and is the most liquid measure of money supply. It includes:<br>M1 = Currency with the public (coins and notes) + Demand deposits with the banking system (current accounts and savings accounts) + 'Other' deposits with the RBI.<br><br><b>Solution (HI):</b><br>M1 को संकीर्ण मुद्रा (narrow money) के रूप में जाना जाता है और यह मुद्रा आपूर्ति का सबसे तरल उपाय है। इसमें शामिल हैं:<br>M1 = जनता के पास मौजूद मुद्रा (सिक्के और नोट) + बैंकिंग प्रणाली के पास मांग जमा (चालू खाते और बचत खाते) + आरबीआई के पास 'अन्य' जमा।"
+    },
+    {
+        "section": "General Awareness",
+        "topic": "Modern Indian History",
+        "difficulty": "Easy",
+        "q_en": "Due to which agreement signed between Mahatma Gandhi and the Viceroy of India in 1931 was the Civil Disobedience Movement suspended, and Indians were permitted to produce salt for personal use?",
+        "q_hi": "1931 में महात्मा गांधी और भारत के वायसराय के बीच हुए किस समझौते के कारण सविनय अवज्ञा आंदोलन को स्थगित कर दिया गया और भारतीयों को व्यक्तिगत उपयोग के लिए नमक का उत्पादन करने की अनुमति दी गई?",
+        "op_en": [
+            "Poona Pact",
+            "Delhi Pact",
+            "Gandhi-Irwin Pact",
+            "Lucknow Pact"
+        ],
+        "op_hi": [
+            "पूना समझौता",
+            "दिल्ली समझौता",
+            "गांधी-इरविन समझौता",
+            "लखनऊ समझौता"
+        ],
+        "ans": 3,
+        "solution": "<b>Solution (EN):</b><br>The Gandhi-Irwin Pact was signed on March 5, 1931, between Mahatma Gandhi and Viceroy Lord Irwin. As per the pact, the Indian National Congress agreed to suspend the Civil Disobedience Movement and participate in the Second Round Table Conference, while the government agreed to release political prisoners and allow people living near the sea coast to collect or produce salt for personal consumption.<br><br><b>Solution (HI):</b><br>5 मार्च, 1931 को महात्मा गांधी और वायसराय लॉर्ड इरविन के बीच गांधी-इरविन समझौते पर हस्ताक्षर किए गए थे। समझौते के अनुसार, भारतीय राष्ट्रीय कांग्रेस सविनय अवज्ञा आंदोलन को स्थगित करने और द्वितीय गोलमेज सम्मेलन में भाग लेने के लिए सहमत हुई, जबकि सरकार राजनीतिक कैदियों को रिहा करने और समुद्र तट के पास रहने वाले लोगों को व्यक्तिगत उपभोग के लिए नमक इकट्ठा करने या बनाने की अनुमति देने पर सहमत हुई।"
+    },
+    {
+        "section": "General Awareness",
+        "topic": "Sports Current Affairs",
+        "difficulty": "Medium",
+        "q_en": "Who contributed to securing a spectacular 3–2 win for the Indian team in the Davis Cup 2026 Qualifier 1 tie against Netherlands?",
+        "q_hi": "नीदरलैंड के खिलाफ डेविस कप 2026 क्वालीफायर 1 टाई में भारतीय टीम को 3–2 से शानदार जीत दिलाने में किसका योगदान रहा?",
+        "op_en": [
+            "Dakshineswar Suresh",
+            "Sumit Nagal",
+            "Ramkumar Ramanathan",
+            "Yuki Bhambri"
+        ],
+        "op_hi": [
+            "दक्षिणेश्वर सुरेश",
+            "सुमित नागल",
+            "रामकुमार रामनाथन",
+            "युकी भांबरी"
+        ],
+        "ans": 1,
+        "solution": "<b>Solution (EN):</b><br>In the Davis Cup 2026 Qualifier 1 tie, Dakshineswar Suresh delivered a decisive performance to help the Indian tennis team secure a memorable 3-2 victory against the Netherlands team.<br><br><b>Solution (HI):</b><br>डेविस कप 2026 क्वालीफायर 1 टाई में, दक्षिणेश्वर सुरेश ने निर्णायक प्रदर्शन करते हुए भारतीय टेनिस टीम को नीदरलैंड की टीम के खिलाफ 3-2 से एक यादगार जीत दिलाने में महत्वपूर्ण योगदान दिया।"
+    },
+    {
+        "section": "General Awareness",
+        "topic": "Economic Current Affairs",
+        "difficulty": "Medium",
+        "q_en": "According to the World Bank's Spring 2025 Poverty and Equity Brief, how many people were lifted out of extreme poverty in India between 2011-12 and 2022-23?",
+        "q_hi": "विश्व बैंक के स्प्रिंग 2025 पॉवर्टी एंड इक्विटी ब्रीफ के अनुसार, 2011-12 और 2022-23 के बीच भारत में कितने लोगों को अत्यधिक गरीबी से बाहर निकाला गया?",
+        "op_en": [
+            "100 million",
+            "200 million",
+            "171 million",
+            "150 million"
+        ],
+        "op_hi": [
+            "100 मिलियन",
+            "200 मिलियन",
+            "171 मिलियन",
+            "150 मिलियन"
+        ],
+        "ans": 3,
+        "solution": "<b>Solution (EN):</b><br>According to the World Bank's Spring 2025 Poverty and Equity Brief, India made substantial progress in poverty reduction, lifting approximately 171 million people out of extreme poverty between the tracking years of 2011-12 and 2022-23.<br><br><b>Solution (HI):</b><br>विश्व बैंक के स्प्रिंग 2025 पॉवर्टी एंड इक्विटी ब्रीफ के अनुसार, भारत ने गरीबी उन्मूलन में महत्वपूर्ण प्रगति की है, जिसके तहत वर्ष 2011-12 और 2022-23 के बीच लगभग 171 मिलियन लोगों को अत्यधिक गरीबी से बाहर निकाला गया है."
+    },
+    {
+        "section": "General Awareness",
+        "topic": "Union Budget",
+        "difficulty": "Medium",
+        "q_en": "According to the Union Budget 2026-27, how much amount was allocated for the India Semiconductor Mission?",
+        "q_hi": "केंद्रीय बजट 2026-27 के अनुसार, इंडिया सेमीकंडक्टर मिशन के लिए कितनी राशि आवंटित की गई थी?",
+        "op_en": [
+            "2,000 crore",
+            "750 crore",
+            "500 crore",
+            "1,000 crore"
+        ],
+        "op_hi": [
+            "2,000 करोड़",
+            "750 करोड़",
+            "500 करोड़",
+            "1,000 करोड़"
+        ],
+        "ans": 4,
+        "solution": "<b>Solution (EN):</b><br>In the Union Budget 2026-27, the Government of India allocated ₹1,000 crore for the India Semiconductor Mission (ISM) to enhance the core electronics components manufacturing ecosystem and chip production infrastructure within the country.<br><br><b>Solution (HI):</b><br>केंद्रीय बजट 2026-27 के अनुसार, भारत सरकार द्वारा देश के भीतर इलेक्ट्रॉनिक्स विनिर्माण पारिस्थितिकी तंत्र और चिप उत्पादन बुनियादी ढांचे को बढ़ावा देने के लिए इंडिया सेमीकंडक्टर मिशन (ISM) के लिए ₹1,000 करोड़ की राशि आवंटित की गई थी."
+    },
+    {
+        "section": "General Awareness",
+        "topic": "Environment Current Affairs",
+        "difficulty": "Hard",
+        "q_en": "Which of the following Indian botanists identified a new plant species Garcinia kusumae in the Baksa district of Assam in July 2025?",
+        "q_hi": "निम्नलिखित में से किस भारतीय वनस्पतिज्ञ ने जुलाई 2025 में असम के बक्सा जिले में पादपों की नई प्रजाति गार्सिनिया कुसुमाए (Garcinia kusumae) की पहचान की?",
+        "op_en": [
+            "N. Kalaiselvi",
+            "George Mathew",
+            "Jatindra Sarma",
+            "Kavita Pandey"
+        ],
+        "op_hi": [
+            "एन. कलईसेल्वी (N. Kalaiselvi)",
+            "जॉर्ज मैथ्यू (George Mathew)",
+            "जतिंद्र सरमा (Jatindra Sarma)",
+            "कविता पांडे (Kavita Pandey)"
+        ],
+        "ans": 3,
+        "solution": "<b>Solution (EN):</b><br>In July 2025, renowned Indian botanist Jatindra Sarma discovered and identified a brand new plant species named <i>Garcinia kusumae</i> in the Baksa district of Assam. This evergreen tree species enriches the unique biodiversity collection of Northeast India.<br><br><b>Solution (HI):</b><br>जुलाई 2025 में, प्रसिद्ध भारतीय वनस्पतिज्ञ जतिंद्र सरमा ने असम के बक्सा जिले में <i>गार्सिनिया कुसुमाए</i> (Garcinia kusumae) नामक पादपों की एक नई प्रजाति की खोज और पहचान की। यह सदाबहार वृक्ष प्रजाति पूर्वोत्तर भारत के समृद्ध जैव विविधता संग्रह को और बढ़ाती है."
+    },
+    {
+        "section": "General Awareness",
+        "topic": "Government Schemes",
+        "difficulty": "Easy",
+        "q_en": "Which of the following schemes was launched by the Government of India in the year 2019 to provide safe tap water to rural households in India?",
+        "q_hi": "भारत में ग्रामीण घरों को सुरक्षित नल जल उपलब्ध कराने के लिए भारत सरकार द्वारा वर्ष 2019 में निम्नलिखित में से किस योजना की शुरुआत की गई थी?",
+        "op_en": [
+            "Swachh Peyajal Mission",
+            "Atal Bhujal Yojana",
+            "Jal Jeevan Mission",
+            "Rural Water Supply Mission"
+        ],
+        "op_hi": [
+            "स्वच्छ पेयजल मिशन",
+            "अटल भूजल योजना",
+            "जल जीवन मिशन",
+            "ग्रामीण जल आपूर्ति मिशन"
+        ],
+        "ans": 3,
+        "solution": "<b>Solution (EN):</b><br>The Jal Jeevan Mission (JJM) was rolled out by Prime Minister Narendra Modi on August 15, 2019. Orchestrated under the Ministry of Jal Shakti, its flagship objective is to deliver Functional Household Tap Connections (FHTC) to every single rural household across India (Har Ghar Jal).<br><br><b>Solution (HI):</b><br>जल जीवन मिशन (JJM) की शुरुआत प्रधानमंत्री नरेंद्र मोदी द्वारा 15 अगस्त, 2019 को की गई थी। जल शक्ति मंत्रालय के तहत संचालित इस प्रमुख कार्यक्रम का मुख्य उद्देश्य सुरक्षित पेयजल सुनिश्चित करते हुए भारत के प्रत्येक ग्रामीण परिवार को कार्यात्मक घरेलू नल कनेक्शन (FHTC) प्रदान करना (हर घर जल) है."
+    },
+    {
+        "section": "General Awareness",
+        "topic": "Indian Economy",
+        "difficulty": "Easy",
+        "q_en": "Which organization prepares the Union Budget of India?",
+        "q_hi": "भारत का केंद्रीय बजट कौन-सा संगठन तैयार करता है?",
+        "op_en": [
+            "Ministry of Finance",
+            "Reserve Bank of India",
+            "Comptroller and Auditor General of India",
+            "Securities and Exchange Board of India"
+        ],
+        "op_hi": [
+            "वित्त मंत्रालय",
+            "भारतीय रिजर्व बैंक",
+            "भारत के नियंत्रक एवं महालेखा परीक्षक",
+            "भारतीय प्रतिभूति एवं विनिमय बोर्ड"
+        ],
+        "ans": 1,
+        "solution": "<b>Solution (EN):</b><br>The Union Budget of India is primarily formulated by the Budget Division of the Department of Economic Affairs, functioning directly under the Ministry of Finance. It is annually rolled out in the Parliament by the Union Finance Minister.<br><br><b>Solution (HI):</b><br>भारत का केंद्रीय बजट मुख्य रूप से वित्त मंत्रालय के अंतर्गत कार्य करने वाले आर्थिक मामलों के विभाग के बजट प्रभाग (Budget Division) द्वारा तैयार किया जाता है। इसे प्रतिवर्ष केंद्रीय वित्त मंत्री द्वारा संसद में प्रस्तुत किया जाता है."
+    },
+    {
+        "section": "General Awareness",
+        "topic": "Modern Indian History",
+        "difficulty": "Medium",
+        "q_en": "In the early 1860s, which leader of the rebelling Jaintias was captured and publicly hanged by the British?",
+        "q_hi": "1860 के दशक की शुरुआत में अंग्रेजों ने विद्रोह करने वाले जयंतियों के किस नेता को पकड़ लिया और उन्हें सार्वजनिक रूप से फांसी दे दी?",
+        "op_en": [
+            "Sidhu Murmu",
+            "Tirot Sing",
+            "U Kiang Nangbah",
+            "Birsa Munda"
+        ],
+        "op_hi": [
+            "सिद्धू मुर्मू (Sidhu Murmu)",
+            "तिरोत सिंह (Tirot Sing)",
+            "यू कियांग नांगबाह (U Kiang Nangbah)",
+            "बिरसा मुंडा (Birsa Munda)"
+        ],
+        "ans": 3,
+        "solution": "<b>Solution (EN):</b><br>U Kiang Nangbah was a prominent revolutionary tribal freedom fighter from the Jaintia Hills of Meghalaya. He spearheaded an armed uprising against oppressive British policies in the early 1860s. Eventually captured, he was publicly hanged by British authorities on December 30, 1862, at Jowai town.<br><br><b>Solution (HI):</b><br>यू कियांग नांगबाह मेघालय की जयंतिया हिल्स के एक प्रमुख क्रांतिकारी आदिवासी स्वतंत्रता सेनानी थे। उन्होंने 1860 के दशक की शुरुआत में दमनकारी ब्रिटिश नीतियों के खिलाफ एक सशस्त्र विद्रोह का नेतृत्व किया था। अंततः उन्हें अंग्रेजों द्वारा पकड़ लिया गया और 30 दिसंबर, 1862 को जोवाई शहर में सार्वजनिक रूप से फांसी दे दी गई थी."
+    },
+    {
+        "section": "General Awareness",
+        "topic": "Sports Current Affairs",
+        "difficulty": "Medium",
+        "q_en": "In December 2025, Smriti Mandhana and Shafali Verma created which record for Indian women in T20Is?",
+        "q_hi": "दिसंबर 2025 में, स्मृति मंधाना और शेफाली वर्मा ने भारतीय महिलाओं के लिए T20I में कौन-सा रिकॉर्ड बनाया?",
+        "op_en": [
+            "Highest partnership by Indian women in T20Is",
+            "Most individual centuries by Indian women in T20Is",
+            "Fastest half-century by an Indian woman in T20Is",
+            "Most sixes hit by Indian women in T20Is"
+        ],
+        "op_hi": [
+            "T20I में भारतीय महिलाओं द्वारा की गई सर्वोच्च साझेदारी",
+            "T20I में भारतीय महिलाओं द्वारा बनाए गए सबसे अधिक व्यक्तिगत शतक",
+            "T20I में भारतीय महिलाओं द्वारा बनाया गया सबसे तेज अर्धशतक",
+            "T20I में भारतीय महिलाओं द्वारा लगाए गए सबसे अधिक छक्के"
+        ],
+        "ans": 1,
+        "solution": "<b>Solution (EN):</b><br>In December 2025, opening batters Smriti Mandhana and Shafali Verma set a historic milestone by scoring the highest partnership ever recorded by Indian women in T20 International cricket.<br><br><b>Solution (HI):</b><br>दिसंबर 2025 में, सलामी बल्लेबाज स्मृति मंधाना और शेफाली वर्मा ने टी20 अंतर्राष्ट्रीय (T20I) क्रिकेट में भारतीय महिलाओं द्वारा की गई अब तक की सर्वोच्च साझेदारी का एक ऐतिहासिक रिकॉर्ड बनाया था।"
+    },
+    {
+        "section": "General Awareness",
+        "topic": "Economics",
+        "difficulty": "Easy",
+        "q_en": "The Grameen Model Bank was the idea of a Nobel laureate from which country?",
+        "q_hi": "ग्रामीण मॉडल बैंक, किस देश के नोबेल पुरस्कार विजेता का विचार था?",
+        "op_en": [
+            "China",
+            "India",
+            "Bhutan",
+            "Bangladesh"
+        ],
+        "op_hi": [
+            "चीन",
+            "भारत",
+            "भूटान",
+            "बांग्लादेश"
+        ],
+        "ans": 4,
+        "solution": "<b>Solution (EN):</b><br>The Grameen Bank microcredit model was conceptualized by Professor Muhammad Yunus, a renowned social entrepreneur and economist from Bangladesh. He and the Grameen Bank were jointly awarded the Nobel Peace Prize in 2006 for their pioneering work in providing micro-loans to the impoverished without requiring collateral.<br><br><b>Solution (HI):</b><br>ग्रामीण बैंक सूक्ष्म ऋण (microcredit) मॉडल की अवधारणा बांग्लादेश के प्रसिद्ध सामाजिक उद्यमी और अर्थशास्त्री प्रोफेसर मुहम्मद यूनुस द्वारा दी गई थी। उन्हें और ग्रामीण बैंक को संयुक्त रूप से 2006 में बिना किसी संपार्श्विक (collateral) के गरीबों को सूक्ष्म ऋण प्रदान करने के उनके अग्रणी कार्यों के लिए नोबेल शांति पुरस्कार से सम्मानित किया गया था।"
+    },
+    {
+        "section": "General Awareness",
+        "topic": "Economics",
+        "difficulty": "Medium",
+        "q_en": "When the economy is hit by a recession and cyclical unemployment is rising, which step should the government take to increase total expenditure and create employment?",
+        "q_hi": "जब अर्थव्यवस्था मंदी की चपेट में हो और चक्रीय बेरोजगारी बढ़ रही हो, तो कुल खर्च बढ़ाने और रोजगार सृजित करने के लिए सरकार को कौन-सा कदम उठाना चाहिए?",
+        "op_en": [
+            "Reducing interest rates on education loans",
+            "Promoting self-employment schemes",
+            "Implementing relatively stricter labor regulations",
+            "Increasing government expenditure on infrastructure"
+        ],
+        "op_hi": [
+            "शिक्षा ऋण पर ब्याज दरों को कम करना",
+            "स्व-रोजगार योजनाओं को बढ़ावा देना",
+            "अपेक्षाकृत कठोर श्रम विनियमनों को लागू करना",
+            "अवसंरचना पर सरकारी खर्च में वृद्धि करना"
+        ],
+        "ans": 4,
+        "solution": "<b>Solution (EN):</b><br>During an economic recession and periods of rising cyclical unemployment, the government implements expansionary fiscal policies to stimulate demand. Increasing public expenditure on large infrastructure projects directly drives demand for labor, raw materials, and services, creating extensive jobs and injecting liquidity into the economy.<br><br><b>Solution (HI):</b><br>आर्थिक मंदी और बढ़ती चक्रीय बेरोजगारी की अवधि के दौरान, सरकार मांग को बढ़ावा देने के लिए विस्तारवादी राजकोषीय नीतियों (expansionary fiscal policies) को लागू करती है। बड़े बुनियादी ढांचे (अवसंरचना) की परियोजनाओं पर सरकारी खर्च बढ़ाने से श्रम, कच्चे माल और सेवाओं की मांग सीधे बढ़ती है, जिससे व्यापक रोजगार पैदा होते हैं और अर्थव्यवस्था में तरलता का प्रवाह होता है।"
+    },
+    {
+        "section": "General Awareness",
+        "topic": "Modern Indian History",
+        "difficulty": "Easy",
+        "q_en": "Who was popularly known as the 'Iron Man of India'?",
+        "q_hi": "लोकप्रिय रूप से \"भारत के लौह पुरुष\" के रूप में किसे जाना जाता था?",
+        "op_en": [
+            "Subhash Chandra Bose",
+            "Mahatma Gandhi",
+            "Sardar Vallabhbhai Patel",
+            "Jawaharlal Nehru"
+        ],
+        "op_hi": [
+            "सुभाष चंद्र बोस",
+            "महात्मा गांधी",
+            "सरदार वल्लभभाई पटेल",
+            "जवाहरलाल नेहरू"
+        ],
+        "ans": 3,
+        "solution": "<b>Solution (EN):</b><br>Sardar Vallabhbhai Patel is fondly remembered as the 'Iron Man of India' (Lauh Purush) due to his iron-willed determination and crucial leadership in politically integrating more than 500 unaligned princely states into the democratic Indian Union post-independence.<br><br><b>Solution (HI):</b><br>सरदार वल्लभभाई पटेल को उनकी दृढ़ इच्छाशक्ति और स्वतंत्रता के बाद 500 से अधिक असंबद्ध रियासतों को लोकतांत्रिक भारतीय संघ में राजनीतिक रूप से एकीकृत करने में उनके महत्वपूर्ण नेतृत्व के कारण \"भारत के लौह पुरुष\" के रूप में याद किया जाता है।"
+    },
+    {
+        "section": "General Awareness",
+        "topic": "Science and Technology Current Affairs",
+        "difficulty": "Medium",
+        "q_en": "Which organization launched India's first Learning Accelerator in 2025?",
+        "q_hi": "किस संगठन ने 2025 में भारत का पहला लर्निंग एक्सेलरेटर (Learning Accelerator) लॉन्च किया था?",
+        "op_en": [
+            "Microsoft",
+            "Google",
+            "NITI Aayog",
+            "OpenAI"
+        ],
+        "op_hi": [
+            "माइक्रोसॉफ्ट (Microsoft)",
+            "गूगल (Google)",
+            "नीति आयोग (NITI Aayog)",
+            "ओपनएआई (OpenAI)"
+        ],
+        "ans": 4,
+        "solution": "<b>Solution (EN):</b><br>In 2025, OpenAI launched India's first Learning Accelerator program. The initiative was designed to support Indian developers, educators, and tech innovators by providing advanced resources, technical mentorship, and AI tool access to foster regional solutions and digital upskilling.<br><br><b>Solution (HI):</b><br>2025 में, OpenAI ने भारत का पहला लर्निंग एक्सेलरेटर कार्यक्रम शुरू किया था। इस पहल को भारतीय डेवलपर्स, शिक्षकों और तकनीकी इनोवेटर्स को उन्नत संसाधन, तकनीकी परामर्श और AI टूल तक पहुंच प्रदान करके क्षेत्रीय समाधानों और डिजिटल कौशल विकास को बढ़ावा देने के लिए डिज़ाइन किया गया था।"
+    },
+    {
+        "section": "General Awareness",
+        "topic": "Modern Indian History",
+        "difficulty": "Medium",
+        "q_en": "Which of the following movements in Punjab aimed to remove corrupt Mahants from Sikh Gurudwaras?",
+        "q_hi": "पंजाब के निम्नलिखित में से किस आंदोलन का उद्देश्य सिख गुरुद्वारों से भ्रष्ट महंतों को हटाना था?",
+        "op_en": [
+            "Akali Movement",
+            "Kuka Movement",
+            "Namdhari Movement",
+            "Nirankari Movement"
+        ],
+        "op_hi": [
+            "अकाली आंदोलन",
+            "कूका आंदोलन",
+            "नामधारी आंदोलन",
+            "निरंकारी आंदोलन"
+        ],
+        "ans": 1,
+        "solution": "<b>Solution (EN):</b><br>The Akali Movement (also known as the Gurdwara Reform Movement) was launched in Punjab during the early 1920s. Its primary focus was to liberate historic Sikh Gurudwaras from the malpractices and absolute control of corrupt, British-backed hereditary Mahants (priests), eventually leading to the enactment of the Sikh Gurdwaras Act in 1925.<br><br><b>Solution (HI):</b><br>अकाली आंदोलन (जिसे गुरुद्वारा सुधार आंदोलन के रूप में भी जाना जाता है) की शुरुआत 1920 के दशक के आरंभ में पंजाब में हुई थी। इसका प्राथमिक उद्देश्य ऐतिहासिक सिख गुरुद्वारों को ब्रिटिश समर्थित भ्रष्ट वंशानुगत महंतों (पुजारियों) के कुप्रबंधन और पूर्ण नियंत्रण से मुक्त कराना था, जिसके परिणामस्वरूप अंततः 1925 में सिख गुरुद्वारा अधिनियम लागू हुआ।"
+    },
+    {
+        "section": "General Awareness",
+        "topic": "Sports Current Affairs",
+        "difficulty": "Medium",
+        "q_en": "Which of the following teams won the Indian Premier League (IPL) 2025 title?",
+        "q_hi": "निम्नलिखित में से किस टीम ने इंडियन प्रीमियर लीग (IPL) 2025 का खिताब जीता?",
+        "op_en": [
+            "Mumbai Indians",
+            "Kolkata Knight Riders",
+            "Royal Challengers Bangalore",
+            "Chennai Super Kings"
+        ],
+        "op_hi": [
+            "मुंबई इंडियंस",
+            "कोलकाता नाइट राइडर्स",
+            "रॉयल चैलेंजर्स बैंगलोर",
+            "चेन्नई सुपर किंग्स"
+        ],
+        "ans": 3,
+        "solution": "<b>Solution (EN):</b><br>The Royal Challengers Bangalore (RCB) franchise emerged victorious in the Indian Premier League (IPL) 2025 season, clinching the prestigious trophy after defeating their opponents in an edge-of-the-seat thrilling final match.<br><br><b>Solution (HI):</b><br>रॉयल चैलेंजर्स बैंगलोर (RCB) फ्रैंचाइज़ी ने एक बेहद रोमांचक फाइनल मुकाबले में अपने प्रतिद्वंद्वी को हराकर इंडियन प्रीमियर लीग (IPL) 2025 सीज़न का प्रतिष्ठित खिताब अपने नाम किया था।"
+    },
+    {
+        "section": "General Awareness",
+        "topic": "Economic Current Affairs",
+        "difficulty": "Medium",
+        "q_en": "The objective of the Sabka Bima Sabki Suraksha Bill, 2025 is to increase the FDI limit in the insurance sector to ______.",
+        "q_hi": "सबका बीमा सबकी रक्षा विधेयक, 2025 का उद्देश्य बीमा क्षेत्र में FDI की सीमा को बढ़ाकर ______ करना है।",
+        "op_en": [
+            "100%",
+            "74%",
+            "90%",
+            "80%"
+        ],
+        "op_hi": [
+            "100%",
+            "74%",
+            "90%",
+            "80%"
+        ],
+        "ans": 1,
+        "solution": "<b>Solution (EN):</b><br>The Sabka Bima Sabki Suraksha Bill, 2025 aims to introduce major reforms in India's insurance sector, primarily by increasing the Foreign Direct Investment (FDI) limit to 100% to attract global capital, boost insurance penetration, and encourage healthy competition.<br><br><b>Solution (HI):</b><br>सबका बीमा सबकी रक्षा विधेयक, 2025 का उद्देश्य भारत में बीमा क्षेत्र में व्यापक सुधार करना है, जिसके तहत मुख्य रूप से प्रत्यक्ष विदेशी निवेश (FDI) की सीमा को बढ़ाकर 100% करना है ताकि वैश्विक पूंजी आकर्षित हो सके, बीमा पहुंच बढ़ सके और स्वस्थ प्रतिस्पर्धा को बढ़ावा मिले।"
+    },
+    {
+        "section": "General Awareness1",
+        "topic": "Biology",
+        "difficulty": "Easy",
+        "q_en": "Wheat belongs to which of the following plant families?",
+        "q_hi": "गेहूँ, निम्नलिखित में से किस पादप कुल से संबंधित है?",
+        "op_en": [
+            "Fabaceae",
+            "Rosaceae",
+            "Solanaceae",
+            "Poaceae"
+        ],
+        "op_hi": [
+            "फैबेसी (Fabaceae)",
+            "रोसेसी (Rosaceae)",
+            "सोलेनेसी (Solanaceae)",
+            "पोएसी (Poaceae)"
+        ],
+        "ans": 4,
+        "solution": "<b>Solution (EN):</b><br>Wheat (<i>Triticum aestivum</i>) belongs to the Poaceae family, which is commonly known as the grass family. This economically vital family also includes other critical cereal crops like rice, maize, barley, and millet.<br><br><b>Solution (HI):</b><br>गेहूँ (<i>Triticum aestivum</i>) पोएसी (Poaceae) कुल से संबंधित है, जिसे सामान्यतः घास परिवार (grass family) के रूप में जाना जाता है। आर्थिक रूप से महत्वपूर्ण इस पादप कुल में चावल, मक्का, जौ और बाजरा जैसे अन्य प्रमुख अनाज भी शामिल हैं।"
+    },
+    {
+        "section": "General Awareness1",
+        "topic": "Indian Polity",
+        "difficulty": "Easy",
+        "q_en": "Under which Article of the Indian Constitution shall the law declared by the Supreme Court be binding on all courts within the territory of India?",
+        "q_hi": "भारतीय संविधान के किस अनुच्छेद के अंतर्गत सर्वोच्च न्यायालय द्वारा घोषित कानून, भारत के राज्यक्षेत्र के भीतर सभी न्यायालयों पर बाध्यकारी होगा?",
+        "op_en": [
+            "Article 123",
+            "Article 151",
+            "Article 141",
+            "Article 132"
+        ],
+        "op_hi": [
+            "अनुच्छेद 123",
+            "अनुच्छेद 151",
+            "अनुच्छेद 141",
+            "अनुच्छेद 132"
+        ],
+        "ans": 3,
+        "solution": "<b>Solution (EN):</b><br>Article 141 of the Indian Constitution states that the law declared by the Supreme Court shall be binding on all courts within the territory of India. This reinforces the principle of hierarchical judicial discipline and legal uniformity across the country.<br><br><b>Solution (HI):</b><br>भारतीय संविधान का अनुच्छेद 141 यह प्रावधान करता है कि सर्वोच्च न्यायालय द्वारा घोषित कानून भारत के राज्यक्षेत्र के भीतर आने वाले सभी न्यायालयों पर बाध्यकारी होगा। यह देश भर में न्यायिक अनुशासन और कानूनी एकरूपता के सिद्धांत को सुदृढ़ करता है।"
+    },
+    {
+        "section": "General Awareness1",
+        "topic": "Biology",
+        "difficulty": "Easy",
+        "q_en": "Some nutrients are required in small quantities, but are extremely important for various functions of the body. Which group of nutrients is appropriate for this description and is commonly found in fruits and vegetables?",
+        "q_hi": "कुछ पोषक तत्व कम मात्रा में ही आवश्यक होते हैं, परंतु शरीर के विभिन्न कार्यों के लिए अत्यंत महत्वपूर्ण होते हैं। पोषक तत्वों का कौन-सा समूह, इस विवरण के लिए उपयुक्त है और प्रायः फलों और सब्जियों में पाया जाता है?",
+        "op_en": [
+            "Fats and Carbohydrates",
+            "Vitamins and Minerals",
+            "Fats and Minerals",
+            "Proteins and Vitamins"
+        ],
+        "op_hi": [
+            "वसा और कार्बोहाइड्रेट",
+            "विटामिन और खनिज",
+            "वसा और खनिज",
+            "प्रोटीन और विटामिन"
+        ],
+        "ans": 2,
+        "solution": "<b>Solution (EN):</b><br>Vitamins and minerals are classified as micronutrients because the body requires them in small quantities compared to macronutrients like carbohydrates and proteins. They are vital for immunity, biochemical regulations, and metabolic efficiency, and are abundantly present in fruits and vegetables.<br><br><b>Solution (HI):</b><br>विटामिन और खनिजों को सूक्ष्म पोषक तत्व (micronutrients) के रूप में वर्गीकृत किया जाता है क्योंकि कार्बोहाइड्रेट और प्रोटीन जैसे मैक्रोन्यूट्रिएंट्स की तुलना में शरीर को इनकी बहुत कम मात्रा में आवश्यकता होती है। ये रोग प्रतिरोधक क्षमता, जैव रासायनिक नियमों और चयापचय के लिए अत्यंत आवश्यक हैं और फलों तथा सब्जियों में प्रचुर मात्रा में पाए जाते हैं।"
+    },
+    {
+        "section": "General Awareness1",
+        "topic": "Geography",
+        "difficulty": "Easy",
+        "q_en": "According to the Census of India 2011, what was the rank of India in the world in terms of total population size?",
+        "q_hi": "भारत की जनगणना, 2011 के अनुसार, कुल जनसंख्या आकार के संदर्भ में विश्व में भारत की रैंक क्या थी?",
+        "op_en": [
+            "First",
+            "Third",
+            "Fifth",
+            "Second"
+        ],
+        "op_hi": [
+            "पहली",
+            "तीसरी",
+            "पांचवीं",
+            "दूसरी"
+        ],
+        "ans": 4,
+        "solution": "<b>Solution (EN):</b><br>According to the 2011 Census, India's total population stood at approximately 1.21 billion, making it the second most populous nation in the world at that time, right after China.<br><br><b>Solution (HI):</b><br>2011 की जनगणना के अनुसार, भारत की कुल जनसंख्या लगभग 1.21 बिलियन (121 करोड़) थी, जिसने इसे कुल जनसंख्या आकार के संदर्भ में चीन के ठीक बाद विश्व का दूसरा सबसे बड़ा देश बनाया था।"
+    },
+    {
+        "section": "General Awareness1",
+        "topic": "Chemistry",
+        "difficulty": "Easy",
+        "q_en": "Which of the following scenarios best illustrates the principle of neutralization in kitchen chemistry?",
+        "q_hi": "निम्नलिखित में से कौन-सा परिदृश्य, रसोई रसायन विज्ञान (kitchen chemistry) में उदासीनीकरण के सिद्धांत को सर्वोत्तम ढंग से दर्शाता है?",
+        "op_en": [
+            "Melting of butter",
+            "Rinsing rice in water",
+            "Mixing lemon juice with baking soda to clean a surface",
+            "Heating oil"
+        ],
+        "op_hi": [
+            "मक्खन का गलना",
+            "जल में चावल का प्रक्षालन",
+            "किसी सतह को साफ करने के लिए बेकिंग सोडा में नींबू का रस मिलाना",
+            "तेल को गर्म करना"
+        ],
+        "ans": 3,
+        "solution": "<b>Solution (EN):</b><br>Neutralization occurs when an acid reacts with a base to form salt and water. Lemon juice contains citric acid (acid) and baking soda contains sodium bicarbonate (base). Mixing them triggers a neutralization reaction, producing effervescence due to carbon dioxide release.<br><br><b>Solution (HI):</b><br>उदासीनीकरण तब होता है जब एक अम्ल किसी क्षार (बेस) के साथ अभिक्रिया करके लवण और जल बनाता है। नींबू के रस में साइट्रिक अम्ल (अम्ल) होता है और बेकिंग सोडा में सोडियम बाइकार्बोनेट (क्षार) होता है। इन दोनों को एक साथ मिलाने से एक उदासीनीकरण अभिक्रिया शुरू होती है, जिससे कार्बन डाइऑक्साइड निकलने के कारण बुलबुले उत्पन्न होते हैं।"
+    },
+    {
+        "section": "General Awareness1",
+        "topic": "Indian Art and Culture",
+        "difficulty": "Medium",
+        "q_en": "Which site in Chhatrapati Sambhaji Nagar district is famous for its grand statues of Buddha and the Mahaparinirvana statue located in Cave No. 26?",
+        "q_hi": "छत्रपति संभाजीनगर जिले में कौन-सा स्थल, बुद्ध की भव्य प्रतिमाओं और गुफा संख्या 26 में स्थित महापरिनिर्वाण प्रतिमा के लिए प्रसिद्ध है?",
+        "op_en": [
+            "Karla",
+            "Ellora",
+            "Ajanta",
+            "Bhaja"
+        ],
+        "op_hi": [
+            "कार्लें",
+            "एलोरा",
+            "अजंता",
+            "भाजा"
+        ],
+        "ans": 3,
+        "solution": "<b>Solution (EN):</b><br>Cave 26 of the Ajanta Caves houses the famous large sculpture of the Mahaparinirvana (reclining Buddha), along with other grand statues. The Ajanta Caves are located in the Chhatrapati Sambhaji Nagar district (formerly Aurangabad) of Maharashtra and are entirely dedicated to Buddhism.<br><br><b>Solution (HI):</b><br>अजंता गुफाओं की गुफा संख्या 26 में बुद्ध के महापरिनिर्वाण (लेटे हुए बुद्ध) की प्रसिद्ध विशाल मूर्ति के साथ-साथ अन्य भव्य प्रतिमाएं स्थित हैं। अजंता गुफाएं महाराष्ट्र के छत्रपति संभाजीनगर जिले (पूर्व नाम औरंगाबाद) में स्थित हैं और पूरी तरह से बौद्ध धर्म को समर्पित हैं।"
+    },
+    {
+        "section": "General Awareness1",
+        "topic": "Indian Polity",
+        "difficulty": "Easy",
+        "q_en": "Which Article protects the right to life and personal liberty in India?",
+        "q_hi": "कौन-सा अनुच्छेद, भारत में प्राण और दैहिक स्वतंत्रता के अधिकार की रक्षा करता है?",
+        "op_en": [
+            "Article 15",
+            "Article 21",
+            "Article 16(4)",
+            "Article 19"
+        ],
+        "op_hi": [
+            "अनुच्छेद 15",
+            "अनुच्छेद 21",
+            "अनुच्छेद 16(4)",
+            "अनुच्छेद 19"
+        ],
+        "ans": 2,
+        "solution": "<b>Solution (EN):</b><br>Article 21 of the Indian Constitution ensures the Protection of Life and Personal Liberty. It states that no person shall be deprived of his life or personal liberty except according to the procedure established by law. It is one of the most fundamental rights and cannot be suspended even during a National Emergency.<br><br><b>Solution (HI):</b><br>भारतीय संविधान का अनुच्छेद 21 प्राण और दैहिक स्वतंत्रता के संरक्षण की गारंटी देता है। इसमें कहा गया है कि किसी भी व्यक्ति को कानून द्वारा स्थापित प्रक्रिया के अलावा उसके जीवन या व्यक्तिगत स्वतंत्रता से वंचित नहीं किया जाएगा। यह सबसे महत्वपूर्ण मौलिक अधिकारों में से एक है और राष्ट्रीय आपातकाल के दौरान भी इसे निलंबित नहीं किया जा सकता है।"
+    },
+    {
+        "section": "General Awareness1",
+        "topic": "Geography",
+        "difficulty": "Easy",
+        "q_en": "Under the National Highways Development Project (NHDP), the East-West Corridor connects Silchar in Assam with which of the following cities in Gujarat?",
+        "q_hi": "राष्ट्रीय राजमार्ग विकास परियोजना (NHDP) के अंतर्गत, पूर्व-पश्चिम गलियारा असम के सिलचर को, गुजरात के निम्नलिखित में से किस शहर से जोड़ता है?",
+        "op_en": [
+            "Jamnagar",
+            "Porbandar",
+            "Rajkot",
+            "Ahmedabad"
+        ],
+        "op_hi": [
+            "जामनगर",
+            "पोरबंदर",
+            "राजकोट",
+            "अहमदाबाद"
+        ],
+        "ans": 2,
+        "solution": "<b>Solution (EN):</b><br>The East-West Corridor under the National Highways Development Project (NHDP) connects Silchar in Assam to Porbandar in Gujarat. Conversely, the North-South Corridor connects Srinagar in Jammu & Kashmir to Kanyakumari in Tamil Nadu.<br><br><b>Solution (HI):</b><br>राष्ट्रीय राजमार्ग विकास परियोजना (NHDP) के तहत पूर्व-पश्चिम गलियारा असम के सिलचर को गुजरात के पोरबंदर से जोड़ता है। इसके विपरीत, उत्तर-दक्षिण गलियारा जम्मू-कश्मीर के श्रीनगर को तमिलनाडु के कन्याकुमारी से जोड़ता है।"
+    },
+    {
+        "section": "General Awareness1",
+        "topic": "Biology",
+        "difficulty": "Easy",
+        "q_en": "Thyroxine, produced by the thyroid gland, is a component of which mineral?",
+        "q_hi": "थायराइड ग्रंथि द्वारा उत्पादित थायरोक्सिन, किस खनिज का एक घटक है?",
+        "op_en": [
+            "Iodine",
+            "Iron",
+            "Calcium",
+            "Sodium"
+        ],
+        "op_hi": [
+            "आयोडीन",
+            "आयरन",
+            "कैल्शियम",
+            "सोडियम"
+        ],
+        "ans": 1,
+        "solution": "<b>Solution (EN):</b><br>Thyroxine (T4) hormone contains iodine as an essential constituent component. The thyroid gland requires an adequate dietary intake of iodine to synthesize thyroxine. A deficiency of iodine leads to enlargement of the thyroid gland, a condition commonly known as goiter.<br><br><b>Solution (HI):</b><br>थायरोक्सिन (T4) हार्मोन में मुख्य घटक के रूप में आयोडीन होता है। थायराइड ग्रंथि को थायरोक्सिन को संश्लेषित करने के लिए भोजन के माध्यम से आयोडीन की पर्याप्त आवश्यकता होती है। आयोडीन की कमी से थायराइड ग्रंथि बढ़ जाती है, जिसे आमतौर पर घेंघा (goiter) रोग के रूप में जाना जाता है।"
+    },
+    {
+        "section": "General Awareness1",
+        "topic": "Indian Art and Culture",
+        "difficulty": "Easy",
+        "q_en": "Which of the following architectural styles is primarily associated with North Indian temples?",
+        "q_hi": "निम्नलिखित में से कौन-सी स्थापत्य शैली मुख्य रूप से उत्तर भारतीय मंदिरों से जुड़ी है?",
+        "op_en": [
+            "Vesara style",
+            "Nagara style",
+            "Dravidian style",
+            "Indo-Islamic style"
+        ],
+        "op_hi": [
+            "वेसर शैली",
+            "नागर शैली",
+            "द्रविड़ शैली",
+            "इंडो-इस्लामी शैली"
+        ],
+        "ans": 2,
+        "solution": "<b>Solution (EN):</b><br>The Nagara style is the traditional architectural style of North Indian Hindu temples, characterized by a beehive-shaped tower (Shikhara). In contrast, the Dravidian style belongs to South India, and the Vesara style is a hybrid mix of both, found mainly in Central India under dynasties like the Chalukyas.<br><br><b>Solution (HI):</b><br>नागर शैली उत्तर भारतीय हिंदू मंदिरों की पारंपरिक स्थापत्य शैली है, जिसकी विशेषता मधुमक्खी के छत्ते के आकार का शिखर (Shikhara) है। इसके विपरीत, द्रविड़ शैली दक्षिण भारत की है, और वेसर शैली इन दोनों का एक मिश्रित रूप है, जो मुख्य रूप से चालुक्य जैसे राजवंशों के तहत मध्य भारत में पाई जाती है।"
+    },
+    {
+        "section": "General Awareness1",
+        "topic": "Indian Art and Culture",
+        "difficulty": "Easy",
+        "q_en": "Which of the following cave complexes is notable for housing Buddhist, Brahmanical, and Jain structures, exemplifying a convergence of artistic styles over centuries?",
+        "q_hi": "निम्न में से कौन-सा गुफा परिसर बौद्ध, ब्राह्मणवादी और जैन संरचनाओं के आवास के लिए उल्लेखनीय है, जो सदियों से कलात्मक शैलियों के अभिसरण का उदाहरण है?",
+        "op_en": [
+            "Guntupalle",
+            "Badami",
+            "Ajanta",
+            "Ellora"
+        ],
+        "op_hi": [
+            "गुंटुपल्ले (Guntupalle)",
+            "बादामी (Badami)",
+            "अजंता (Ajanta)",
+            "एलोरा (Ellora)"
+        ],
+        "ans": 4,
+        "solution": "<b>Solution (EN):</b><br>The Ellora Caves contain 34 rock-cut structures representing three major religious traditions: Buddhism (Caves 1–12), Hinduism/Brahmanical (Caves 13–29), and Jainism (Caves 30–34). This coexistence showcases a remarkable spirit of religious harmony and artistic convergence in ancient India. Ajanta, on the other hand, features exclusively Buddhist caves.<br><br><b>Solution (HI):</b><br>एलोरा गुफाओं में 34 चट्टानों को काटकर बनाई गई संरचनाएँ शामिल हैं जो तीन मुख्य धार्मिक परंपराओं का प्रतिनिधित्व करती हैं: बौद्ध (गुफा 1-12), हिंदू/ब्राह्मणवादी (गुफा 13-29), और जैन (गुफा 30-34)। यह सह-अस्तित्व प्राचीन भारत में धार्मिक सद्भाव और कलात्मक अभिसरण की एक उल्लेखनीय भावना को प्रदर्शित करता है। दूसरी ओर, अजंता में विशेष रूप से केवल बौद्ध गुफाएं हैं।"
+    },
+    {
+        "section": "General Awareness1",
+        "topic": "Geography",
+        "difficulty": "Easy",
+        "q_en": "Which coastal plain of Western India is a narrow strip of land located between the Arabian Sea and the Western Ghats?",
+        "q_hi": "पश्चिमी भारत का कौन-सा तटीय मैदान, अरब सागर और पश्चिमी घाट के बीच स्थित भूमि की एक संकीर्ण पट्टी है?",
+        "op_en": [
+            "Northern Circars",
+            "Gujarat Plain",
+            "Konkan Plain",
+            "Coromandel Plain"
+        ],
+        "op_hi": [
+            "उत्तरी सरकार",
+            "गुजरात का मैदान",
+            "कोंकण का मैदान",
+            "कोरोमंडल का मैदान"
+        ],
+        "ans": 3,
+        "solution": "<b>Solution (EN):</b><br>The Konkan Plain is a narrow coastal strip of land positioned along the western coast of India, bounded between the Arabian Sea to the west and the Western Ghats range to the east. It stretches primarily along the coasts of Maharashtra and Goa. The Coromandel Plain lies on the eastern coast.<br><br><b>Solution (HI):</b><br>कोंकण का मैदान भारत के पश्चिमी तट पर स्थित भूमि की एक संकीर्ण पट्टी है, जो पश्चिम में अरब सागर और पूर्व में पश्चिमी घाट श्रृंखला के बीच फैली हुई है। यह मुख्य रूप से महाराष्ट्र और गोवा के तटों के साथ विस्तृत है। कोरोमंडल का मैदान भारत के पूर्वी तट पर स्थित है।"
+    },
+    {
+        "section": "General Awareness1",
+        "topic": "Indian Geography",
+        "difficulty": "Easy",
+        "q_en": "Which river is located on the eastern margins of the Chota Nagpur Plateau, flows through a rift valley, and eventually joins the Hooghly river?",
+        "q_hi": "छोटा नागपुर पठार के पूर्वी किनारों पर कौन-सी नदी स्थित है, जो एक रिफ्ट घाटी (rift valley) से होकर बहती है और अंत में हुगली में मिल जाती है?",
+        "op_en": [
+            "Noyyal",
+            "Krishna",
+            "Godavari",
+            "Damodar"
+        ],
+        "op_hi": [
+            "नोय्यल",
+            "कृष्णा",
+            "गोदावरी",
+            "दामोदर"
+        ],
+        "ans": 4,
+        "solution": "<b>Solution (EN):</b><br>The Damodar River occupies the eastern margins of the Chota Nagpur Plateau where it flows through a rift valley and finally joins the Hooghly River as a tributary. Due to devastating floods in the past, it was historically known as the 'Sorrow of Bengal'.<br><br><b>Solution (HI):</b><br>दामोदर नदी छोटा नागपुर पठार के पूर्वी किनारों पर स्थित है जहाँ यह एक रिफ्ट घाटी से होकर बहती है और अंत में हुगली नदी में सहायक नदी के रूप में मिल जाती है। अतीत में आने वाली विनाशकारी बाढ़ के कारण इसे ऐतिहासिक रूप से 'बंगाल का शोक' कहा जाता था।"
+    },
+    {
+        "section": "General Awareness1",
+        "topic": "Indian Polity",
+        "difficulty": "Easy",
+        "q_en": "Which of the following is a fundamental duty of citizens according to Article 51A of the Indian Constitution?",
+        "q_hi": "निम्नलिखित में से कौन-सा, भारतीय संविधान के अनुच्छेद 51A के अनुसार नागरिकों का मौलिक कर्तव्य है?",
+        "op_en": [
+            "To safeguard public property and to abjure violence",
+            "To participate in every electoral process",
+            "To seek employment in public offices",
+            "Regular payment of all government taxes"
+        ],
+        "op_hi": [
+            "सार्वजनिक संपत्ति को सुरक्षित रखना और हिंसा से दूर रहना",
+            "प्रत्येक चुनाव प्रक्रिया में भाग लेना",
+            "सार्वजनिक कार्यालय में रोजगार की तलाश करना",
+            "सभी सरकारी करों का नियमित भुगतान करना"
+        ],
+        "ans": 1,
+        "solution": "<b>Solution (EN):</b><br>According to Article 51A(i) of the Indian Constitution, it is a fundamental duty of every citizen of India to safeguard public property and to abjure violence. Fundamental Duties were incorporated into Part IV-A of the Constitution by the 42nd Amendment Act of 1976.<br><br><b>Solution (HI):</b><br>भारतीय संविधान के अनुच्छेद 51A(i) के अनुसार, सार्वजनिक संपत्ति को सुरक्षित रखना और हिंसा से दूर रहना भारत के प्रत्येक नागरिक का मौलिक कर्तव्य है। मौलिक कर्तव्यों को 1976 के 42वें संशोधन अधिनियम द्वारा संविधान के भाग IV-A में शामिल किया गया था।"
+    },
+    {
+        "section": "General Awareness1",
+        "topic": "Indian Geography",
+        "difficulty": "Easy",
+        "q_en": "Which of the following Indian languages is primarily spoken in the state of Kerala?",
+        "q_hi": "निम्नलिखित में से कौन-सी भारतीय भाषा मुख्य रूप से केरल राज्य में बोली जाती है?",
+        "op_en": [
+            "Konkani",
+            "Kannada",
+            "Tamil",
+            "Malayalam"
+        ],
+        "op_hi": [
+            "कोंकणी",
+            "कन्नड़",
+            "तमिल",
+            "मलयालम"
+        ],
+        "ans": 4,
+        "solution": "<b>Solution (EN):</b><br>Malayalam is the principal and official language spoken in the state of Kerala and the union territory of Lakshadweep. It belongs to the Dravidian family of languages.<br><br><b>Solution (HI):</b><br>मलयालम मुख्य रूप से केरल राज्य और केंद्र शासित प्रदेश लक्षद्वीप में बोली जाने वाली प्रमुख और आधिकारिक भाषा है। यह द्रविड़ भाषा परिवार से संबंधित है।"
+    },
+    {
+        "section": "General Awareness1",
+        "topic": "Indian Polity",
+        "difficulty": "Medium",
+        "q_en": "Which Article of the Indian Constitution specifically deals with the provisions related to the elections of Panchayats?",
+        "q_hi": "भारतीय संविधान का कौन-सा अनुच्छेद, विशेष रूप से पंचायतों के निर्वाचन से संबंधित प्रावधानों से संबंधित है?",
+        "op_en": [
+            "Article 243K",
+            "Article 243M",
+            "Article 243G",
+            "Article 243H"
+        ],
+        "op_hi": [
+            "अनुच्छेद 243K",
+            "अनुच्छेद 243M",
+            "अनुच्छेद 243G",
+            "अनुच्छेद 243H"
+        ],
+        "ans": 1,
+        "solution": "<b>Solution (EN):</b><br>Article 243K of the Constitution of India contains provisions related to elections to the Panchayats. It mandates the constitution of a State Election Commission for the superintendence, direction, and control of the preparation of electoral rolls and the conduct of all Panchayat elections.<br><br><b>Solution (HI):</b><br>भारत के संविधान का अनुच्छेद 243K पंचायतों के चुनावों से संबंधित प्रावधान प्रदान करता है। यह मतदाता सूची तैयार करने और सभी पंचायत चुनावों के संचालन के अधीक्षण, निर्देशन और नियंत्रण के लिए एक राज्य निर्वाचन आयोग के गठन का प्रावधान करता है।"
+    },
+    {
+        "section": "General Awareness1",
+        "topic": "Chemistry",
+        "difficulty": "Easy",
+        "q_en": "When water is boiled in the kitchen, if it turns into steam and no new substance is formed, what type of change is this?",
+        "q_hi": "रसोई में पानी उबालने पर, यदि वह भाप में परिवर्तित हो जाता है और कोई नया पदार्थ नहीं बनता है, तो यह किस प्रकार का परिवर्तन है?",
+        "op_en": [
+            "Chemical change",
+            "Physical change",
+            "Biological change",
+            "Nuclear change"
+        ],
+        "op_hi": [
+            "रासायनिक परिवर्तन",
+            "भौतिक परिवर्तन",
+            "जैविक परिवर्तन",
+            "नाभिकीय परिवर्तन"
+        ],
+        "ans": 2,
+        "solution": "<b>Solution (EN):</b><br>Boiling water into steam is a physical change because it only alters the physical state of the substance (from liquid to gas) without changing its chemical composition. Since no new chemical substance is formed and the process is reversible, it remains a physical change.<br><br><b>Solution (HI):</b><br>पानी का उबलकर भाप में बदलना एक भौतिक परिवर्तन है क्योंकि यह रासायनिक संरचना को बदले बिना केवल पदार्थ की भौतिक अवस्था (तरल से गैस) को बदलता है। चूंकि कोई नया रासायनिक पदार्थ नहीं बनता है और यह प्रक्रिया उत्क्रमणीय है, इसलिए यह एक भौतिक परिवर्तन है।"
+    },
+    {
+        "section": "General Awareness1",
+        "topic": "Indian Polity",
+        "difficulty": "Easy",
+        "q_en": "In which of the following parts of the Indian Constitution are the provisions related to Parliament given?",
+        "q_hi": "भारतीय संविधान के निम्नलिखित में से किस भाग में संसद से संबंधित प्रावधान दिए गए हैं?",
+        "op_en": [
+            "Part III",
+            "Part II",
+            "Part V",
+            "Part IV"
+        ],
+        "op_hi": [
+            "भाग III",
+            "भाग II",
+            "भाग V",
+            "भाग IV"
+        ],
+        "ans": 3,
+        "solution": "<b>Solution (EN):</b><br>Provisions related to the Parliament are specified under Chapter II of Part V (The Union) of the Indian Constitution, spanning from Article 79 to Article 122.<br><br><b>Solution (HI):</b><br>संसद से संबंधित प्रावधान भारतीय संविधान के भाग V (संघ) के अध्याय II के अंतर्गत अनुच्छेद 79 से अनुच्छेद 122 तक दिए गए हैं।"
+    },
+    {
+        "section": "General Awareness1",
+        "topic": "Indian Geography",
+        "difficulty": "Easy",
+        "q_en": "The black soil of India is ideal for the cultivation of which of the following crops?",
+        "q_hi": "भारत की काली मृदा, निम्नलिखित में से किस फसल की खेती के लिए आदर्श है?",
+        "op_en": [
+            "Rice",
+            "Maize",
+            "Cotton",
+            "Tea"
+        ],
+        "op_hi": [
+            "चावल",
+            "मक्का",
+            "कपास",
+            "चाय"
+        ],
+        "ans": 3,
+        "solution": "<b>Solution (EN):</b><br>Black soil, also widely known as Regur soil, has an excellent moisture-retention capacity and is inherently rich in minerals like iron, lime, calcium, and magnesium. These unique characteristics make it highly favorable for growing cotton. It is predominantly distributed across the Deccan Trap lava plateau region, covering major parts of Maharashtra, Gujarat, and Madhya Pradesh.<br><br><b>Solution (HI):</b><br>काली मृदा (मिट्टी), जिसे रेगुर मिट्टी के नाम से भी जाना जाता है, में नमी धारण करने की उत्कृष्ट क्षमता होती है और यह लोहा, चूना, कैल्शियम और मैग्नीशियम जैसे खनिजों से समृद्ध होती है। ये विशेषताएं इसे कपास की फसल उगाने के लिए अत्यधिक अनुकूल बनाती हैं। यह मुख्य रूप से दक्कन ट्रैप लावा पठार क्षेत्र में वितरित है, जिसमें महाराष्ट्र, गुजरात और मध्य प्रदेश के बड़े हिस्से शामिल हैं।<br><br><b>Fact:</b><br>Black soil is famously referred to as 'Black Cotton Soil' due to its perfect agricultural compatibility with cotton crops."
+    },
+    {
+        "section": "General Awareness1",
+        "topic": "Indian Art and Culture",
+        "difficulty": "Easy",
+        "q_en": "The Meetei Mayek script is used in which of the following languages?",
+        "q_hi": "निम्नलिखित में से किस भाषा में मीतेई मायेक (Meetei Mayek) लिपि का उपयोग किया जाता है?",
+        "op_en": [
+            "Manipuri",
+            "Telugu",
+            "Kannada",
+            "Santhali"
+        ],
+        "op_hi": [
+            "मणिपुरी",
+            "तेलुगु",
+            "कन्नड़",
+            "संथाली"
+        ],
+        "ans": 1,
+        "solution": "<b>Solution (EN):</b><br>Meetei Mayek is the indigenous alphabet system used to write the Manipuri (Meitei) language, which is the official language of Manipur and recognized under the Eighth Schedule of the Indian Constitution. Though the Bengali script was widely adopted for writing Manipuri since the 18th century, a robust state-backed movement successfully revived and reintroduced Meetei Mayek into educational curriculums and administrative use.<br><br><b>Solution (HI):</b><br>मीतेई मायेक स्वदेशी वर्णमाला प्रणाली है जिसका उपयोग मणिपुरी (मीतेई) भाषा लिखने के लिए किया जाता है, जो कि मणिपुर की आधिकारिक भाषा है और भारतीय संविधान की आठवीं अनुसूची के तहत मान्यता प्राप्त है। हालाँकि 18वीं शताब्दी से मणिपुरी लिखने के लिए बंगाली लिपि को व्यापक रूप से अपनाया गया था, लेकिन एक मजबूत आंदोलन के माध्यम से मीतेई मायेक को शैक्षिक पाठ्यक्रमों और प्रशासनिक उपयोग में सफलतापूर्वक पुनर्जीवित किया गया है।<br><br><b>Fact:</b><br>'Meitei' is the primary ethnic group of Manipur, making it easy to directly link the Meetei Mayek script to the Manipuri language."
+    }
+]
