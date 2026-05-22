@@ -1,0 +1,317 @@
+[
+  {
+    "ans": 1,
+    "difficulty": "Easy",
+    "op_en": [
+      "stellar",
+      "stellarly",
+      "star",
+      "stardom"
+    ],
+    "op_hi": [
+      "stellar",
+      "stellarly",
+      "star",
+      "stardom"
+    ],
+    "q_en": "Select the most appropriate adjective to fill in the blank.<br><br>The manager was impressed by the _______ performance of the new employee.",
+    "q_hi": "Select the most appropriate adjective to fill in the blank.<br><br>The manager was impressed by the _______ performance of the new employee.",
+    "section": "English",
+    "solution": "<b>Solution (EN):</b> The sentence requires an adjective to modify the noun 'performance'. 'Stellar' is the correct adjective, meaning exceptionally good. 'Stellarly' is an adverb, and 'star' and 'stardom' are primarily nouns.<br><b>Solution (HI):</b> यहाँ noun 'performance' की विशेषता बताने के लिए एक adjective की आवश्यकता है। 'Stellar' (उत्कृष्ट) एक सही adjective है। 'Stellarly' adverb है, जबकि 'star' और 'stardom' noun हैं।<br><b>Short Trick:</b> Identify the part of speech; 'performance' (Noun) needs an 'Adjective' (stellar).",
+    "topic": "Adjectives"
+  },
+  {
+    "ans": 2,
+    "difficulty": "Easy",
+    "op_en": [
+      "warmth",
+      "warm",
+      "warmly",
+      "warming"
+    ],
+    "op_hi": [
+      "warmth",
+      "warm",
+      "warmly",
+      "warming"
+    ],
+    "q_en": "Select the most appropriate adjective to fill in the blank.<br><br>It is important to wear _______ clothes during the harsh winter.",
+    "q_hi": "Select the most appropriate adjective to fill in the blank.<br><br>It is important to wear _______ clothes during the harsh winter.",
+    "section": "English",
+    "solution": "<b>Solution (EN):</b> The blank precedes the noun 'clothes', so an adjective is needed. 'Warm' is the correct adjective. 'Warmth' is a noun, 'warmly' is an adverb, and 'warming' is a present participle/gerund.<br><b>Solution (HI):</b> 'Clothes' एक noun है, इससे पहले उसकी विशेषता बताने के लिए adjective चाहिए। 'Warm' सही adjective है। 'Warmth' noun है और 'warmly' adverb है।<br><b>Short Trick:</b> Adjective + Noun structure: Warm (Adj) + Clothes (Noun).",
+    "topic": "Adjectives"
+  },
+  {
+    "ans": 1,
+    "difficulty": "Medium",
+    "op_en": [
+      "ABDEC",
+      "BADCE",
+      "CDEAB",
+      "ABDCE"
+    ],
+    "op_hi": [
+      "ABDEC",
+      "BADCE",
+      "CDEAB",
+      "ABDCE"
+    ],
+    "q_en": "Parts of a sentence are given below in jumbled order. Arrange the parts in the correct order to form a meaningful sentence.<br><br>A. the sudden storm<br>B. caught<br>C. by surprise<br>D. all the fishermen<br>E. in the sea",
+    "q_hi": "Parts of a sentence are given below in jumbled order. Arrange the parts in the correct order to form a meaningful sentence.<br><br>A. the sudden storm<br>B. caught<br>C. by surprise<br>D. all the fishermen<br>E. in the sea",
+    "section": "English",
+    "solution": "<b>Solution (EN):</b> The logical structure is Subject (A: the sudden storm) + Verb (B: caught) + Object (D: all the fishermen) + Location (E: in the sea) + Phrase (C: by surprise). Result: ABDEC.<br><b>Solution (HI):</b> वाक्य की सही संरचना है: Subject (A) + Verb (B) + Object (D) + Location (E) + Phrase (C)। परिणाम: ABDEC.<br><b>Short Trick:</b> Start with the Subject 'The sudden storm' (A) and follow with the action 'caught' (B).",
+    "topic": "Sentence Rearrangement"
+  },
+  {
+    "ans": 1,
+    "difficulty": "Easy",
+    "op_en": [
+      "Illiterate",
+      "Ignorant",
+      "Scholar",
+      "Novice"
+    ],
+    "op_hi": [
+      "Illiterate",
+      "Ignorant",
+      "Scholar",
+      "Novice"
+    ],
+    "q_en": "Select the option that can be used as a one-word substitute for the given group of words.<br><br>A person who cannot read or write",
+    "q_hi": "Select the option that can be used as a one-word substitute for the given group of words.<br><br>A person who cannot read or write",
+    "section": "English",
+    "solution": "<b>Solution (EN):</b> 'Illiterate' refers to a person who is unable to read or write. 'Ignorant' means lacking knowledge, 'Scholar' is a highly educated person, and 'Novice' is a beginner.<br><b>Solution (HI):</b> 'Illiterate' का अर्थ है वह व्यक्ति जो पढ़ या लिख नहीं सकता (निरक्षर)। 'Ignorant' का अर्थ अज्ञानी, 'Scholar' का अर्थ विद्वान, और 'Novice' का अर्थ नौसिखिया होता है।<br><b>Short Trick:</b> 'Il-' (not) + 'literate' (able to read) = Illiterate.",
+    "topic": "One Word Substitution"
+  },
+  {
+    "ans": 1,
+    "difficulty": "Easy",
+    "op_en": [
+      "massive",
+      "defeated",
+      "losing",
+      "tragic"
+    ],
+    "op_hi": [
+      "massive",
+      "defeated",
+      "losing",
+      "tragic"
+    ],
+    "q_en": "Select the most appropriate option to fill in the blank.<br><br>The team celebrated their _______ victory with a grand party.",
+    "q_hi": "Select the most appropriate option to fill in the blank.<br><br>The team celebrated their _______ victory with a grand party.",
+    "section": "English",
+    "solution": "<b>Solution (EN):</b> 'Massive' is the most suitable adjective to describe a significant victory. 'Defeated', 'Losing', and 'Tragic' hold negative connotations and do not fit the context of a celebration.<br><b>Solution (HI):</b> एक बड़ी जीत (victory) का वर्णन करने के लिए 'massive' (विशाल/शानदार) सबसे उपयुक्त adjective है। 'Defeated', 'Losing' और 'Tragic' नकारात्मक शब्द हैं जो जश्न के संदर्भ में फिट नहीं बैठते।<br><b>Short Trick:</b> Celebrations usually follow a positive event like a 'massive' victory.",
+    "topic": "Vocabulary"
+  },
+  {
+    "ans": 2,
+    "difficulty": "Medium",
+    "op_en": [
+      "Paleontology",
+      "Archaeology",
+      "Geology",
+      "Genealogy"
+    ],
+    "op_hi": [
+      "Paleontology",
+      "Archaeology",
+      "Geology",
+      "Genealogy"
+    ],
+    "q_en": "Select the option that can be used as a one-word substitute for the given group of words.<br><br>The study of human history and prehistory through the excavation of sites",
+    "q_hi": "Select the option that can be used as a one-word substitute for the given group of words.<br><br>The study of human history and prehistory through the excavation of sites",
+    "section": "English",
+    "solution": "<b>Solution (EN):</b> 'Archaeology' is the study of human history through the excavation of physical remains. 'Paleontology' is the study of fossils, 'Geology' studies the earth's physical structure, and 'Genealogy' traces family descent.<br><b>Solution (HI):</b> 'Archaeology' (पुरातत्व) वह विज्ञान है जो खुदाई के माध्यम से मानव इतिहास का अध्ययन करता है। 'Paleontology' जीवाश्मों का अध्ययन है, और 'Geology' भूविज्ञान है।<br><b>Short Trick:</b> Excavation of human history sites = Archaeology.",
+    "topic": "One Word Substitution"
+  },
+  {
+    "ans": 1,
+    "difficulty": "Easy",
+    "op_en": [
+      "He always helps the poor.",
+      "The poor he always helps.",
+      "He helps always the poor.",
+      "Always the poor he helps."
+    ],
+    "op_hi": [
+      "He always helps the poor.",
+      "The poor he always helps.",
+      "He helps always the poor.",
+      "Always the poor he helps."
+    ],
+    "q_en": "Parts of a sentence are given below in jumbled order. Arrange the parts in the correct order to form a meaningful sentence.<br><br>always / the / helps / poor / he",
+    "q_hi": "Parts of a sentence are given below in jumbled order. Arrange the parts in the correct order to form a meaningful sentence.<br><br>always / the / helps / poor / he",
+    "section": "English",
+    "solution": "<b>Solution (EN):</b> The standard sentence structure is Subject (He) + Adverb of frequency (always) + Verb (helps) + Object (the poor). Option 1 follows this grammatically correct pattern.<br><b>Solution (HI):</b> मानक वाक्य संरचना है: Subject (He) + Adverb (always) + Verb (helps) + Object (the poor)। विकल्प 1 सबसे सही है।<br><b>Short Trick:</b> Adverbs of frequency like 'always' usually come before the main verb.",
+    "topic": "Sentence Rearrangement"
+  },
+  {
+    "ans": 1,
+    "difficulty": "Easy",
+    "op_en": [
+      "an, a, a",
+      "a, a, a",
+      "an, an, a",
+      "the, an, a"
+    ],
+    "op_hi": [
+      "an, a, a",
+      "a, a, a",
+      "an, an, a",
+      "the, an, a"
+    ],
+    "q_en": "Select the most appropriate option to fill in the blanks.<br><br>I saw ___ elephant, ___ lion, and ___ tiger at the zoo.",
+    "q_hi": "Select the most appropriate option to fill in the blanks.<br><br>I saw ___ elephant, ___ lion, and ___ tiger at the zoo.",
+    "section": "English",
+    "solution": "<b>Solution (EN):</b> Use 'an' before words starting with a vowel sound (elephant) and 'a' before words starting with a consonant sound (lion, tiger).<br><b>Solution (HI):</b> Vowel sound (स्वर ध्वनि) से शुरू होने वाले शब्द (elephant) से पहले 'an' और consonant sound (व्यंजन ध्वनि) से शुरू होने वाले शब्दों (lion, tiger) से पहले 'a' का प्रयोग करें।<br><b>Short Trick:</b> Vowel sound = an (Elephant); Consonant sound = a (Lion, Tiger).",
+    "topic": "Articles"
+  },
+  {
+    "ans": 2,
+    "difficulty": "Medium",
+    "op_en": [
+      "deterred",
+      "resolute",
+      "hesitant",
+      "confused"
+    ],
+    "op_hi": [
+      "deterred",
+      "resolute",
+      "hesitant",
+      "confused"
+    ],
+    "q_en": "Select the most appropriate option to fill in the blank.<br><br>Despite the heavy rain, she remained _______ and continued her journey.",
+    "q_hi": "Select the most appropriate option to fill in the blank.<br><br>Despite the heavy rain, she remained _______ and continued her journey.",
+    "section": "English",
+    "solution": "<b>Solution (EN):</b> 'Resolute' means admirably purposeful, determined, and unwavering. The context shows she did not give up despite the rain, making 'resolute' the correct choice. 'Deterred' means discouraged, which contradicts the sentence.<br><b>Solution (HI):</b> 'Resolute' का अर्थ है दृढ़ या संकल्पित। भारी बारिश के बावजूद उसने अपनी यात्रा जारी रखी, इसलिए वह 'resolute' रही। 'Deterred' (हतोत्साहित) और 'hesitant' (संकोची) यहाँ गलत हैं।<br><b>Short Trick:</b> Continued despite obstacles = Resolute (Determined).",
+    "topic": "Vocabulary"
+  },
+  {
+    "ans": 2,
+    "difficulty": "Medium",
+    "op_en": [
+      "To eat something very hard",
+      "To endure a painful situation bravely",
+      "To attack someone physically",
+      "To make a silly mistake"
+    ],
+    "op_hi": [
+      "To eat something very hard",
+      "To endure a painful situation bravely",
+      "To attack someone physically",
+      "To make a silly mistake"
+    ],
+    "q_en": "Select the most appropriate meaning of the given idiom.<br><br>Bite the bullet",
+    "q_hi": "Select the most appropriate meaning of the given idiom.<br><br>Bite the bullet",
+    "section": "English",
+    "solution": "<b>Solution (EN):</b> The idiom 'bite the bullet' means to decide to do something difficult or unpleasant that one has been putting off, or to endure a painful situation bravely.<br><b>Solution (HI):</b> 'Bite the bullet' मुहावरे का अर्थ है किसी कठिन या दर्दनाक स्थिति का बहादुरी से सामना करना या उसे सहन करना।<br><b>Short Trick:</b> Biting a bullet requires enduring pain/discomfort bravely.",
+    "topic": "Idioms and Proverbs"
+  },
+  {
+    "ans": 2,
+    "difficulty": "Medium",
+    "op_en": [
+      "The history of fossil fuels",
+      "The impacts and mitigation of climate change",
+      "The natural shifts in weather",
+      "The benefits of renewable energy"
+    ],
+    "op_hi": [
+      "The history of fossil fuels",
+      "The impacts and mitigation of climate change",
+      "The natural shifts in weather",
+      "The benefits of renewable energy"
+    ],
+    "q_en": "<b>Comprehension:</b><br>Read the given passage carefully and answer the questions that follow.<br> <div style=\"text-align: justify;\">Climate change is one of the most pressing issues of our time. It refers to long-term shifts in temperatures and weather patterns. While some of these shifts are natural, human activities have been the primary driver of climate change since the 1800s, primarily due to burning fossil fuels like coal, oil, and gas. Burning fossil fuels generates greenhouse gas emissions that act like a blanket wrapped around the Earth, trapping the sun's heat and raising temperatures. The consequences of climate change include intense droughts, water scarcity, severe fires, rising sea levels, flooding, melting polar ice, catastrophic storms, and declining biodiversity. To combat this, global cooperation and sustainable practices are essential. Transitioning to renewable energy sources, reducing carbon footprints, and preserving forests are critical steps. Every individual's effort counts in mitigating the impact and ensuring a habitable planet for future generations.</div><br>What is the central theme of the passage?",
+    "q_hi": "<b>Comprehension:</b><br>Read the given passage carefully and answer the questions that follow.<br> <div style=\"text-align: justify;\">Climate change is one of the most pressing issues of our time. It refers to long-term shifts in temperatures and weather patterns. While some of these shifts are natural, human activities have been the primary driver of climate change since the 1800s, primarily due to burning fossil fuels like coal, oil, and gas. Burning fossil fuels generates greenhouse gas emissions that act like a blanket wrapped around the Earth, trapping the sun's heat and raising temperatures. The consequences of climate change include intense droughts, water scarcity, severe fires, rising sea levels, flooding, melting polar ice, catastrophic storms, and declining biodiversity. To combat this, global cooperation and sustainable practices are essential. Transitioning to renewable energy sources, reducing carbon footprints, and preserving forests are critical steps. Every individual's effort counts in mitigating the impact and ensuring a habitable planet for future generations.</div><br>What is the central theme of the passage?",
+    "section": "English",
+    "solution": "<b>Solution (EN):</b> The passage discusses the causes (burning fossil fuels), effects (droughts, floods), and solutions (renewable energy, global cooperation) related to climate change. Thus, the impacts and mitigation of climate change is the theme.<br><b>Solution (HI):</b> गद्यांश जलवायु परिवर्तन के कारणों (जीवाश्म ईंधन), प्रभावों (सूखा, बाढ़) और समाधानों (नवीकरणीय ऊर्जा) पर चर्चा करता है। इसलिए, 'impacts and mitigation' मुख्य विषय है।<br><b>Short Trick:</b> The passage covers causes, consequences, and solutions to climate change comprehensively.",
+    "topic": "Reading Comprehension"
+  },
+  {
+    "ans": 2,
+    "difficulty": "Easy",
+    "op_en": [
+      "Natural weather shifts",
+      "Human activities",
+      "Solar radiation",
+      "Volcanic eruptions"
+    ],
+    "op_hi": [
+      "Natural weather shifts",
+      "Human activities",
+      "Solar radiation",
+      "Volcanic eruptions"
+    ],
+    "q_en": "<b>Comprehension:</b><br>Read the given passage carefully and answer the questions that follow.<br> <div style=\"text-align: justify;\">Climate change is one of the most pressing issues of our time. It refers to long-term shifts in temperatures and weather patterns. While some of these shifts are natural, human activities have been the primary driver of climate change since the 1800s, primarily due to burning fossil fuels like coal, oil, and gas. Burning fossil fuels generates greenhouse gas emissions that act like a blanket wrapped around the Earth, trapping the sun's heat and raising temperatures. The consequences of climate change include intense droughts, water scarcity, severe fires, rising sea levels, flooding, melting polar ice, catastrophic storms, and declining biodiversity. To combat this, global cooperation and sustainable practices are essential. Transitioning to renewable energy sources, reducing carbon footprints, and preserving forests are critical steps. Every individual's effort counts in mitigating the impact and ensuring a habitable planet for future generations.</div><br>According to the passage, what has been the primary driver of climate change since the 1800s?",
+    "q_hi": "<b>Comprehension:</b><br>Read the given passage carefully and answer the questions that follow.<br> <div style=\"text-align: justify;\">Climate change is one of the most pressing issues of our time. It refers to long-term shifts in temperatures and weather patterns. While some of these shifts are natural, human activities have been the primary driver of climate change since the 1800s, primarily due to burning fossil fuels like coal, oil, and gas. Burning fossil fuels generates greenhouse gas emissions that act like a blanket wrapped around the Earth, trapping the sun's heat and raising temperatures. The consequences of climate change include intense droughts, water scarcity, severe fires, rising sea levels, flooding, melting polar ice, catastrophic storms, and declining biodiversity. To combat this, global cooperation and sustainable practices are essential. Transitioning to renewable energy sources, reducing carbon footprints, and preserving forests are critical steps. Every individual's effort counts in mitigating the impact and ensuring a habitable planet for future generations.</div><br>According to the passage, what has been the primary driver of climate change since the 1800s?",
+    "section": "English",
+    "solution": "<b>Solution (EN):</b> The passage clearly states, \"human activities have been the primary driver of climate change since the 1800s.\"<br><b>Solution (HI):</b> गद्यांश में स्पष्ट रूप से कहा गया है, \"human activities have been the primary driver of climate change since the 1800s.\" (मानवीय गतिविधियां 1800 के दशक से प्राथमिक चालक रही हैं)।<br><b>Short Trick:</b> Scan for the keyword '1800s' and read the associated phrase.",
+    "topic": "Reading Comprehension"
+  },
+  {
+    "ans": 2,
+    "difficulty": "Medium",
+    "op_en": [
+      "Aggravating",
+      "Reducing",
+      "Ignoring",
+      "Promoting"
+    ],
+    "op_hi": [
+      "Aggravating",
+      "Reducing",
+      "Ignoring",
+      "Promoting"
+    ],
+    "q_en": "<b>Comprehension:</b><br>Read the given passage carefully and answer the questions that follow.<br> <div style=\"text-align: justify;\">Climate change is one of the most pressing issues of our time. It refers to long-term shifts in temperatures and weather patterns. While some of these shifts are natural, human activities have been the primary driver of climate change since the 1800s, primarily due to burning fossil fuels like coal, oil, and gas. Burning fossil fuels generates greenhouse gas emissions that act like a blanket wrapped around the Earth, trapping the sun's heat and raising temperatures. The consequences of climate change include intense droughts, water scarcity, severe fires, rising sea levels, flooding, melting polar ice, catastrophic storms, and declining biodiversity. To combat this, global cooperation and sustainable practices are essential. Transitioning to renewable energy sources, reducing carbon footprints, and preserving forests are critical steps. Every individual's effort counts in mitigating the impact and ensuring a habitable planet for future generations.</div><br>Select the word from the options that is closest in meaning to 'mitigating' as used in the passage.",
+    "q_hi": "<b>Comprehension:</b><br>Read the given passage carefully and answer the questions that follow.<br> <div style=\"text-align: justify;\">Climate change is one of the most pressing issues of our time. It refers to long-term shifts in temperatures and weather patterns. While some of these shifts are natural, human activities have been the primary driver of climate change since the 1800s, primarily due to burning fossil fuels like coal, oil, and gas. Burning fossil fuels generates greenhouse gas emissions that act like a blanket wrapped around the Earth, trapping the sun's heat and raising temperatures. The consequences of climate change include intense droughts, water scarcity, severe fires, rising sea levels, flooding, melting polar ice, catastrophic storms, and declining biodiversity. To combat this, global cooperation and sustainable practices are essential. Transitioning to renewable energy sources, reducing carbon footprints, and preserving forests are critical steps. Every individual's effort counts in mitigating the impact and ensuring a habitable planet for future generations.</div><br>Select the word from the options that is closest in meaning to 'mitigating' as used in the passage.",
+    "section": "English",
+    "solution": "<b>Solution (EN):</b> In the context of the passage, 'mitigating' means to make something less severe, harmful, or painful. Therefore, 'reducing' is the closest synonym.<br><b>Solution (HI):</b> गद्यांश के संदर्भ में 'mitigating' का अर्थ है प्रभाव को कम करना या सुधारना। इसलिए, 'reducing' (कम करना) सबसे करीबी समानार्थी शब्द है।<br><b>Short Trick:</b> Mitigating a problem means reducing its negative impact.",
+    "topic": "Reading Comprehension"
+  },
+  {
+    "ans": 3,
+    "difficulty": "Easy",
+    "op_en": [
+      "Intense droughts",
+      "Rising sea levels",
+      "Earthquakes",
+      "Declining biodiversity"
+    ],
+    "op_hi": [
+      "Intense droughts",
+      "Rising sea levels",
+      "Earthquakes",
+      "Declining biodiversity"
+    ],
+    "q_en": "<b>Comprehension:</b><br>Read the given passage carefully and answer the questions that follow.<br> <div style=\"text-align: justify;\">Climate change is one of the most pressing issues of our time. It refers to long-term shifts in temperatures and weather patterns. While some of these shifts are natural, human activities have been the primary driver of climate change since the 1800s, primarily due to burning fossil fuels like coal, oil, and gas. Burning fossil fuels generates greenhouse gas emissions that act like a blanket wrapped around the Earth, trapping the sun's heat and raising temperatures. The consequences of climate change include intense droughts, water scarcity, severe fires, rising sea levels, flooding, melting polar ice, catastrophic storms, and declining biodiversity. To combat this, global cooperation and sustainable practices are essential. Transitioning to renewable energy sources, reducing carbon footprints, and preserving forests are critical steps. Every individual's effort counts in mitigating the impact and ensuring a habitable planet for future generations.</div><br>Which of the following is NOT mentioned as a consequence of climate change in the passage?",
+    "q_hi": "<b>Comprehension:</b><br>Read the given passage carefully and answer the questions that follow.<br> <div style=\"text-align: justify;\">Climate change is one of the most pressing issues of our time. It refers to long-term shifts in temperatures and weather patterns. While some of these shifts are natural, human activities have been the primary driver of climate change since the 1800s, primarily due to burning fossil fuels like coal, oil, and gas. Burning fossil fuels generates greenhouse gas emissions that act like a blanket wrapped around the Earth, trapping the sun's heat and raising temperatures. The consequences of climate change include intense droughts, water scarcity, severe fires, rising sea levels, flooding, melting polar ice, catastrophic storms, and declining biodiversity. To combat this, global cooperation and sustainable practices are essential. Transitioning to renewable energy sources, reducing carbon footprints, and preserving forests are critical steps. Every individual's effort counts in mitigating the impact and ensuring a habitable planet for future generations.</div><br>Which of the following is NOT mentioned as a consequence of climate change in the passage?",
+    "section": "English",
+    "solution": "<b>Solution (EN):</b> The passage explicitly lists intense droughts, rising sea levels, and declining biodiversity as consequences. 'Earthquakes' are not mentioned.<br><b>Solution (HI):</b> गद्यांश स्पष्ट रूप से सूखे, समुद्र के जल स्तर में वृद्धि और जैव विविधता में गिरावट को परिणामों के रूप में सूचीबद्ध करता है। 'Earthquakes' (भूकंप) का उल्लेख नहीं किया गया है।<br><b>Short Trick:</b> Use the process of elimination by verifying each option against the text.",
+    "topic": "Reading Comprehension"
+  },
+  {
+    "ans": 3,
+    "difficulty": "Medium",
+    "op_en": [
+      "It solely depends on discovering new planets.",
+      "It requires increasing the use of fossil fuels.",
+      "It demands global cooperation and sustainable practices.",
+      "It is impossible to solve and should be ignored."
+    ],
+    "op_hi": [
+      "It solely depends on discovering new planets.",
+      "It requires increasing the use of fossil fuels.",
+      "It demands global cooperation and sustainable practices.",
+      "It is impossible to solve and should be ignored."
+    ],
+    "q_en": "<b>Comprehension:</b><br>Read the given passage carefully and answer the questions that follow.<br> <div style=\"text-align: justify;\">Climate change is one of the most pressing issues of our time. It refers to long-term shifts in temperatures and weather patterns. While some of these shifts are natural, human activities have been the primary driver of climate change since the 1800s, primarily due to burning fossil fuels like coal, oil, and gas. Burning fossil fuels generates greenhouse gas emissions that act like a blanket wrapped around the Earth, trapping the sun's heat and raising temperatures. The consequences of climate change include intense droughts, water scarcity, severe fires, rising sea levels, flooding, melting polar ice, catastrophic storms, and declining biodiversity. To combat this, global cooperation and sustainable practices are essential. Transitioning to renewable energy sources, reducing carbon footprints, and preserving forests are critical steps. Every individual's effort counts in mitigating the impact and ensuring a habitable planet for future generations.</div><br>What can be inferred about the solution to climate change from the text?",
+    "q_hi": "<b>Comprehension:</b><br>Read the given passage carefully and answer the questions that follow.<br> <div style=\"text-align: justify;\">Climate change is one of the most pressing issues of our time. It refers to long-term shifts in temperatures and weather patterns. While some of these shifts are natural, human activities have been the primary driver of climate change since the 1800s, primarily due to burning fossil fuels like coal, oil, and gas. Burning fossil fuels generates greenhouse gas emissions that act like a blanket wrapped around the Earth, trapping the sun's heat and raising temperatures. The consequences of climate change include intense droughts, water scarcity, severe fires, rising sea levels, flooding, melting polar ice, catastrophic storms, and declining biodiversity. To combat this, global cooperation and sustainable practices are essential. Transitioning to renewable energy sources, reducing carbon footprints, and preserving forests are critical steps. Every individual's effort counts in mitigating the impact and ensuring a habitable planet for future generations.</div><br>What can be inferred about the solution to climate change from the text?",
+    "section": "English",
+    "solution": "<b>Solution (EN):</b> The passage clearly states, \"To combat this, global cooperation and sustainable practices are essential.\"<br><b>Solution (HI):</b> गद्यांश में स्पष्ट रूप से कहा गया है, \"To combat this, global cooperation and sustainable practices are essential.\" (इससे निपटने के लिए, वैश्विक सहयोग और स्थायी प्रथाएं आवश्यक हैं)।<br><b>Short Trick:</b> The paragraph on 'combat' gives the exact requirement: global cooperation.",
+    "topic": "Reading Comprehension"
+  }
+]
