@@ -1,0 +1,232 @@
+[
+  {
+    "ans": "1",
+    "direction": "",
+    "level": "Medium",
+    "op_en": [
+      "33.33",
+      "35.62",
+      "39.24",
+      "37.39"
+    ],
+    "op_hi": [
+      "33.33",
+      "35.62",
+      "39.24",
+      "37.39"
+    ],
+    "passage": "",
+    "q_en": "A bus travels at a speed of 50 km/hr for 2 hours, then reduces its speed to 20 km/hr for the next 3 hours and later increases its speed to 35 km/hr for the following 4 hours to complete its journey. What is the average speed (in km/hr) of the bus for the entire journey, correct to two decimal places?<span style=\"color: white;\"></span>",
+    "q_hi": "एक बस 2 घंटे के लिए 50 किमी/घंटा की गति से चलती है, फिर अगले 3 घंटों के लिए अपनी गति को घटाकर 20 किमी/घंटा कर देती है और बाद में अपनी यात्रा पूरी करने के लिए अगले 4 घंटों के लिए अपनी गति को बढ़ाकर 35 किमी/घंटा कर देती है। पूरी यात्रा के लिए बस की औसत गति (किमी/घंटा में) क्या है, जो दो दशमलव स्थानों तक सही हो?",
+    "section": "Arithmetic1",
+    "solution": "Average speed is calculated as Total Distance divided by Total Time.\n1. Distance in first part = Speed × Time = 50 × 2 = 100 km.\n2. Distance in second part = 20 × 3 = 60 km.\n3. Distance in third part = 35 × 4 = 140 km.\n4. Total Distance = 100 + 60 + 140 = 300 km.\n5. Total Time = 2 + 3 + 4 = 9 hours.\n6. Average Speed = 300 / 9 = 33.33 km/hr.<br><br>औसत गति (Average Speed) = कुल दूरी / कुल समय\n1. पहले भाग की दूरी = 50 × 2 = 100 किमी।\n2. दूसरे भाग की दूरी = 20 × 3 = 60 किमी।\n3. तीसरे भाग की दूरी = 35 × 4 = 140 किमी।\n4. कुल दूरी (Total Distance) = 100 + 60 + 140 = 300 किमी।\n5. कुल समय (Total Time) = 2 + 3 + 4 = 9 घंटे।\n6. औसत गति = 300 / 9 = 33.33 किमी/घंटा।<br><br><b>Short Trick:</b> Avg Speed = (d1+d2+d3) / (t1+t2+t3) = 300 / 9 = 33.33 km/hr.",
+    "topic": "Average Speed"
+  },
+  {
+    "ans": "3",
+    "direction": "",
+    "level": "Medium",
+    "op_en": [
+      "<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAxCAIAAABCqI4WAAABEUlEQVR42u2X0RnDIAiEnYuBmMdpXIZh0k+MSUzARkjbh+pje/1JD9RLWD62wkT/GE0pIkBYF2CkRdEhBEy30RQzFBPVXzP+ROfipfIg+kiqpRoFxlyayw6gtX8hfOVEMxlkt+1o4jbpXbShiwt1QBI9iD5MAuhj4G1jAYhuu9H6iIyis76RP/fUZfvtu1Ef605RxZD2BJGGjxoBiwDO1ed5PdH/gA6+Nb2ewUxTXg90azDbE4p635uC2fYpJnJ5LaG7l6InmPWymi+YreS052Cx05ZgVhqb4U2nR69dIZip3p8sMgQzCS25bwlmwnjcRL8NZuIbyNVsWzArxTYJKy7DaAtmzRtYTmXStpzn9ffQLy2eQsMJcnQKAAAAAElFTkSuQmCC\" style=\"height: auto; max-width: 100%;\">",
+      "<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAyCAIAAADEPPy4AAABOklEQVR42u2W4RHDIAiFmYuBnCfTuAzDtNHEHuLTkjTtXS/yM8FPBIVHj68ZTfS/oWXhEF1okRiYaTcOi9T/Y6DGPOg1gsRbYubJhuGKnr6x3e/hQ+t1ZSv5HN1Yjvsr6C3qKpUXoTPZcDKaA3fr7EFncFP89SuX3SS2tXCgXQeHKRujccDOQo/QzoAV2hl18tWu1UO2P2GlO2i4tkYnh1LGgDI9eOjWqvcZF91i8N2bo2Cib4Gmz2zm+iZo0zVDf9q8PA/0a9XpifAs24ZL2BXceWFmo9qHslytnvCcvUI94TF7CJ1ldlvFnRxTBQeVpmEWyrIoQLgXBV4qfUA9aUWn13Vzb1J0Ql8jNMq+B21Z4Ho40Y12sqdtw4ZXv4PWr7Gb2pcLFtj0toPgFiLq5iVpBp7l7Ne/Qz8B3JyJONZ5dBcAAAAASUVORK5CYII=\" style=\"height: auto; max-width: 100%;\">",
+      "<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAxCAIAAABCqI4WAAABQ0lEQVR42u2X0bXDIAiGmcuBMo/TuAzDtBFjgwiGJKcnD9G32wuf+EP1L3z+tmCiH0YjpiUE2FZYInYRbUBCFxpjzgmxhK8Myub0ElF59S8nmpPqVr9PaDOOooggj+bRmlB7Zkc22A60PLCFlpqAj8wrEoe4jKYkkSPEz8NCg3IKnQsM/eTttPXfefKUgwzRWsFOzcZoq2A32UJnsJhcq360igAPmOrS0EVzY1fziy6XrKt0LvcQ53090S9Gw701tX6LMUvxwJh1kW73xGyXYsyah2uJCb1V68ZMVrU9ynhLaw2tOKgLaOW9Np7wM2iy2X0XN3LKHRx0GoYq1LRW0tLYnwOvnZb6HHq+VPZgeab2QqIL/lpDa+p70F6DfYzuvJM8bV+211/XpiAXW5O2/Z3kcqrtDaJfIcgmr/izeV8/iP4CExApkc5pOpkAAAAASUVORK5CYII=\" style=\"height: auto; max-width: 100%;\">",
+      "<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAxCAIAAABCqI4WAAABGklEQVR42u2X0RXDIAhFmYuBmCfTsIzDtIlJ06AgHHLaflQ+o7mSB+oLPD4WMNE/RhdeCBGOQFqKGF3OIRHEHnp/k7gcq1DFX+jbBIGpb6Bc30S3JJESEwbIEa07dBP1s5RhiJH7nFzyGF1WobGrYnRhGKrwahAuiU/yBFnbEMGU2hQjumUqQEttSA6hjRbx6gt6koKjZ+2RLfR1N+o5j8WwBJEniN58Pnme1xP9F2i4F1Pracysmf0BmzFm8p4x7/uMMXs/JS63tNbQgUsmZ8zcGzdtzA4ybxUcVDpjzPbCbnBR6VafhDEztW8kShgzDa2pnzFmSnsE0a4x69NWWz9nzPbFzil1RuQ3KWTMyqXzAFHblvO8/h76CTcxP6sFGKn/AAAAAElFTkSuQmCC\" style=\"height: auto; max-width: 100%;\">"
+    ],
+    "op_hi": [
+      "<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAxCAIAAABCqI4WAAABEUlEQVR42u2X0RnDIAiEnYuBmMdpXIZh0k+MSUzARkjbh+pje/1JD9RLWD62wkT/GE0pIkBYF2CkRdEhBEy30RQzFBPVXzP+ROfipfIg+kiqpRoFxlyayw6gtX8hfOVEMxlkt+1o4jbpXbShiwt1QBI9iD5MAuhj4G1jAYhuu9H6iIyis76RP/fUZfvtu1Ef605RxZD2BJGGjxoBiwDO1ed5PdH/gA6+Nb2ewUxTXg90azDbE4p635uC2fYpJnJ5LaG7l6InmPWymi+YreS052Cx05ZgVhqb4U2nR69dIZip3p8sMgQzCS25bwlmwnjcRL8NZuIbyNVsWzArxTYJKy7DaAtmzRtYTmXStpzn9ffQLy2eQsMJcnQKAAAAAElFTkSuQmCC\" style=\"height: auto; max-width: 100%;\">",
+      "<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAyCAIAAADEPPy4AAABOklEQVR42u2W4RHDIAiFmYuBnCfTuAzDtNHEHuLTkjTtXS/yM8FPBIVHj68ZTfS/oWXhEF1okRiYaTcOi9T/Y6DGPOg1gsRbYubJhuGKnr6x3e/hQ+t1ZSv5HN1Yjvsr6C3qKpUXoTPZcDKaA3fr7EFncFP89SuX3SS2tXCgXQeHKRujccDOQo/QzoAV2hl18tWu1UO2P2GlO2i4tkYnh1LGgDI9eOjWqvcZF91i8N2bo2Cib4Gmz2zm+iZo0zVDf9q8PA/0a9XpifAs24ZL2BXceWFmo9qHslytnvCcvUI94TF7CJ1ldlvFnRxTBQeVpmEWyrIoQLgXBV4qfUA9aUWn13Vzb1J0Ql8jNMq+B21Z4Ho40Y12sqdtw4ZXv4PWr7Gb2pcLFtj0toPgFiLq5iVpBp7l7Ne/Qz8B3JyJONZ5dBcAAAAASUVORK5CYII=\" style=\"height: auto; max-width: 100%;\">",
+      "<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAxCAIAAABCqI4WAAABQ0lEQVR42u2X0bXDIAiGmcuBMo/TuAzDtBFjgwiGJKcnD9G32wuf+EP1L3z+tmCiH0YjpiUE2FZYInYRbUBCFxpjzgmxhK8Myub0ElF59S8nmpPqVr9PaDOOooggj+bRmlB7Zkc22A60PLCFlpqAj8wrEoe4jKYkkSPEz8NCg3IKnQsM/eTttPXfefKUgwzRWsFOzcZoq2A32UJnsJhcq360igAPmOrS0EVzY1fziy6XrKt0LvcQ53090S9Gw701tX6LMUvxwJh1kW73xGyXYsyah2uJCb1V68ZMVrU9ynhLaw2tOKgLaOW9Np7wM2iy2X0XN3LKHRx0GoYq1LRW0tLYnwOvnZb6HHq+VPZgeab2QqIL/lpDa+p70F6DfYzuvJM8bV+211/XpiAXW5O2/Z3kcqrtDaJfIcgmr/izeV8/iP4CExApkc5pOpkAAAAASUVORK5CYII=\" style=\"height: auto; max-width: 100%;\">",
+      "<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAxCAIAAABCqI4WAAABGklEQVR42u2X0RXDIAhFmYuBmCfTsIzDtIlJ06AgHHLaflQ+o7mSB+oLPD4WMNE/RhdeCBGOQFqKGF3OIRHEHnp/k7gcq1DFX+jbBIGpb6Bc30S3JJESEwbIEa07dBP1s5RhiJH7nFzyGF1WobGrYnRhGKrwahAuiU/yBFnbEMGU2hQjumUqQEttSA6hjRbx6gt6koKjZ+2RLfR1N+o5j8WwBJEniN58Pnme1xP9F2i4F1Pracysmf0BmzFm8p4x7/uMMXs/JS63tNbQgUsmZ8zcGzdtzA4ybxUcVDpjzPbCbnBR6VafhDEztW8kShgzDa2pnzFmSnsE0a4x69NWWz9nzPbFzil1RuQ3KWTMyqXzAFHblvO8/h76CTcxP6sFGKn/AAAAAElFTkSuQmCC\" style=\"height: auto; max-width: 100%;\">"
+    ],
+    "passage": "",
+    "q_en": "A can finish a piece of work in 12 hours, while B can complete it in 18 hours. If A works alone for 1 hour and then B works alone for 2 hours, what fraction of the work remains unfinished?",
+    "q_hi": "A एक कार्य को 12 घंटे में पूरा कर सकता है, जबकि B इसे 18 घंटे में पूरा कर सकता है। यदि A अकेले 1 घंटे कार्य करता है और फिर B अकेले 2 घंटे कार्य करता है, तो कार्य का कितना हिस्सा अधूरा रह जाता है?",
+    "section": "Arithmetic1",
+    "solution": "",
+    "topic": "Time and Work"
+  },
+  {
+    "ans": "1",
+    "direction": "",
+    "level": "Medium",
+    "op_en": [
+      "<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFUAAAAxCAIAAAAk8nJBAAACHklEQVR42u2Z2ZHDIAxAqYuCqIdqaIZids1lQAjwRGTGCvCXMbJ5ukXE395LHP7Df/gP/yfLGq2kFHFJpe1G/FY7cmVsVIXyOuCmAhp/iZv0sWv8b87v8dm5/xJ+ewW/5Jn+qPzB6VP6N3Y3/qISekVwC/+V/Y+vgNwywEJ+lgVAkMxdwW5m/9Dw5f6PZfmn+H/d/e9Z/359/rttTHTs1Ce8Lj2IWUe7rKvxr3tdfhDj0y60VlMvXszvc/vaw8Jx+cX83xjlEr698kmvWqRn4bm5U1CSMLiB6g3pV2G+8r1CSj3hj/jGZDF6bfPer7XyIYUpuOqe8gYTRIBDFrmk2CDd+126co/T5vJboUlRE/7Q2DgNVFdbpHAAt2PhtIO7I5gsawFEf90zNpIz+2NtfNPaiuGaRRSka3nADmD+Nj31Q7a+pnwQ/xg/NSPUuX+ODwiBQFtJh+eLvQcew+JR8ifyA3eH3t9+EMHPAsicBd+I9HEKv58QT+ZY4mSLOHN1WMgPtV0J2NCQDtRVfXiQU/r1P2j4Hu08/efW7+FcNokuGc9vs6U6+rEu2RfyYVvXO4HisF1i0PfnkklqBPFkX8djUaKRr5k0PYQnwZezfNf77XxApf7/0y5eVwA0/udJ+BfvfyR//HX3H18YmTjxM8VfxM/0z79V/Hzxl/Bz9f1F/Jzx6fyMfX8FP3N8Kj9r36fzs8c//38d/sO/8foHlKaVhNU3YPUAAAAASUVORK5CYII=\" style=\"height: auto; max-width: 100%;\">",
+      "<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFQAAAAxCAIAAADLMBl/AAACEUlEQVR42u2a25WEIAyGqYuCqIdqaIZidrkqCTfXcPZMBnhzJOgHIfmDI342buLAH/gDf+AfNWu0klKkJpW2u8Bb7bGVsWkeVJgAbvwE+JI1T8aWe35n+MDOzuvp8NZteMkz3pHgo6/nYG/sVvBF0guzwG3LLxM5Idlx2/Wr4FmGe/F+oQHpTisfJd2t8Fim+dduD5X996Y6t53Zrelb+OjRsNHgsx74uJDQhl/+moH/4/znn+Cr7LARPK6Ad4LP7NZliF5uyPfifXMllWxhUFRKP8AO+arwsnJcIaV+AC8vixVJLDi91iroglb5CyTS3cFEkxIWxo+ig/Tj++rK386dy2dFMaLG8M5AXu8R1QvREdAhF3atShnj6AgNGpOXJdfEiz2Z/lOeb4h2MWyzkw6MVsOgHmjh0eXwKAUeNb4QOWTVDiP9nB3hIYM6aQ6PkZLGaG/eh/CENIW8HDt9PXyD/TZoLMU0QucwWEGIWUKmHs81fBiMhuHx84CBjQXFYK56qrypssSkXFPEcq3H4kZOnphe3t7P60yO9aG9sI/duouDZq3VS4zLNUnNdO3QDvdgkYrd83B0MrkyiHfictz2Xae387KT9MVmdQXEpJ4vlcSS0MDrJEfyZ190gElNh5zhmbKvgGf6oW4JPF92OjxXl18Bz5mdCM/Y5cnwzNlJ8KxdngjPnv38CfHAH/jN2i/fWwsLnfHXkgAAAABJRU5ErkJggg==\" style=\"height: auto; max-width: 100%;\">",
+      "<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAF4AAAAxCAIAAADcEom2AAACI0lEQVR42u2Z2ZXDIAxFqYuCXA/V0AzFZMI2RkKQ5Bhxolj8JQYsXfO02OahYzCMIlA0ikbRyEYTvDusNWXYwwVFk7i4COXwoVA6Eh5RdDjRtCQqKkUzPEWKhiQjS08b0IRnoLECozAvmqyimqC8ZigyjSdGokLNvpIvpW9R0WYbGnkpyjAeEsBBTw0g0VTD8soaPkHBDkqT900671SpkRJY21LX4ufr4pAZuZ797tFwtNRpz68LRIYwMxeuyWkazeqWuktnXy6oARqGegXT/hE0C1rqSiYUGVPBK/xLPF73bTgE/yC74YT6q/Gq3ddY6xahWdVSJzk5d6T4RaEG1eI5weclyM4mbjUTbNw/xol4uU5u75Urr+M6mpUtNQrk2ZFJLMMxGy4g0Nbqk7wzWLns1IxbajMdU0Vix3tX0QxkZm/1WPIw2a4Pw1ebI5idXpNBdqEFfRkwDYbl9NNB4TqaaykK6QfLqTeCIHMuIB4T3pEubSkPPkaztqUm1AG2wkbgMwAWhFykT0jC8s3Pa07zqVCWttQjT59Pspzx4lo4n+8AXYjpqFmfpw3lhJhSs8yDKiEsiJvWAsILW2o6HcE9m9Ij2oFu5msHlq9kcZzrh3IKr53g/XrZD0GvbDjRvJ8pbvaWzwons+tV1ruVwP3QSCSzBY3ED9570AglswGNSDFtQSOWDDcaqWLiRyOZDC8auWLiRiObjH7YVTSKRtFsGX/77XHwHZIQlQAAAABJRU5ErkJggg==\" style=\"height: auto; max-width: 100%;\">",
+      "<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFQAAAAxCAIAAADLMBl/AAAB/klEQVR42u2Z65HEIAiArcuCrMdqbIZi7hKNF0BMMiuZWU79t7OifoA8jPuZeLgFv+AX/IJ/NCDF4L07hg8RZoGHuGOHBIceQlaANf4BeMxalTHlnZ8ZPrOb8/pxeNguvLcZ74bgi6/XYJ9gKniU9LIWrF15tSInJztrt14L3mS4d58bmpDOZPlS0p0Vnsk0/7Hb08p+wlT377o6lLvJGHHpuubXhQQJnoDqVK55la+LCa6JZP4F9jY7WLjzOaqPn5p3wCbgldlhyxC93FD/K/+nv6RSJZJ8Kjqh/kJnxus67+NTeLVGNTt9jCHXBdKqpEQ6J6QiwkyA4gea4Pf19+4KRy28VylGwkN4VXa0UjnqxSsQj45UQDhWLbnEnYnkU8v3Xd5djjslcrQWhs1gB2nP1bcSfWp8fueVrnsT6e/Z2dZMoE2alx561BhyBepef5diXs6dvlWywH4KCA0UX1EoxYP83uDeZhd8mCzM4fnWRABKQ3GhK7LxRRzpw+u5fJdls8bhicdmcNqooxzYQzuSL9O6dmJak2a5d9k7oZ3eQZSKvW+iU6qdQfmnuPAp33V6uG87h77Y6PY/Zlral/ofKy853j670mOGZpSwBm+UXQPe6Ic6FXi77OPwVl1eA94y+yC8YZcfhjfOPgRv2uUH4c2zr89VC37BTzZ+AVC8JU1uFI2lAAAAAElFTkSuQmCC\" style=\"height: auto; max-width: 100%;\">"
+    ],
+    "op_hi": [
+      "<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFUAAAAxCAIAAAAk8nJBAAACHklEQVR42u2Z2ZHDIAxAqYuCqIdqaIZids1lQAjwRGTGCvCXMbJ5ukXE395LHP7Df/gP/yfLGq2kFHFJpe1G/FY7cmVsVIXyOuCmAhp/iZv0sWv8b87v8dm5/xJ+ewW/5Jn+qPzB6VP6N3Y3/qISekVwC/+V/Y+vgNwywEJ+lgVAkMxdwW5m/9Dw5f6PZfmn+H/d/e9Z/359/rttTHTs1Ce8Lj2IWUe7rKvxr3tdfhDj0y60VlMvXszvc/vaw8Jx+cX83xjlEr698kmvWqRn4bm5U1CSMLiB6g3pV2G+8r1CSj3hj/jGZDF6bfPer7XyIYUpuOqe8gYTRIBDFrmk2CDd+126co/T5vJboUlRE/7Q2DgNVFdbpHAAt2PhtIO7I5gsawFEf90zNpIz+2NtfNPaiuGaRRSka3nADmD+Nj31Q7a+pnwQ/xg/NSPUuX+ODwiBQFtJh+eLvQcew+JR8ifyA3eH3t9+EMHPAsicBd+I9HEKv58QT+ZY4mSLOHN1WMgPtV0J2NCQDtRVfXiQU/r1P2j4Hu08/efW7+FcNokuGc9vs6U6+rEu2RfyYVvXO4HisF1i0PfnkklqBPFkX8djUaKRr5k0PYQnwZezfNf77XxApf7/0y5eVwA0/udJ+BfvfyR//HX3H18YmTjxM8VfxM/0z79V/Hzxl/Bz9f1F/Jzx6fyMfX8FP3N8Kj9r36fzs8c//38d/sO/8foHlKaVhNU3YPUAAAAASUVORK5CYII=\" style=\"height: auto; max-width: 100%;\">",
+      "<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFQAAAAxCAIAAADLMBl/AAACEUlEQVR42u2a25WEIAyGqYuCqIdqaIZidrkqCTfXcPZMBnhzJOgHIfmDI342buLAH/gDf+AfNWu0klKkJpW2u8Bb7bGVsWkeVJgAbvwE+JI1T8aWe35n+MDOzuvp8NZteMkz3pHgo6/nYG/sVvBF0guzwG3LLxM5Idlx2/Wr4FmGe/F+oQHpTisfJd2t8Fim+dduD5X996Y6t53Zrelb+OjRsNHgsx74uJDQhl/+moH/4/znn+Cr7LARPK6Ad4LP7NZliF5uyPfifXMllWxhUFRKP8AO+arwsnJcIaV+AC8vixVJLDi91iroglb5CyTS3cFEkxIWxo+ig/Tj++rK386dy2dFMaLG8M5AXu8R1QvREdAhF3atShnj6AgNGpOXJdfEiz2Z/lOeb4h2MWyzkw6MVsOgHmjh0eXwKAUeNb4QOWTVDiP9nB3hIYM6aQ6PkZLGaG/eh/CENIW8HDt9PXyD/TZoLMU0QucwWEGIWUKmHs81fBiMhuHx84CBjQXFYK56qrypssSkXFPEcq3H4kZOnphe3t7P60yO9aG9sI/duouDZq3VS4zLNUnNdO3QDvdgkYrd83B0MrkyiHfictz2Xae387KT9MVmdQXEpJ4vlcSS0MDrJEfyZ190gElNh5zhmbKvgGf6oW4JPF92OjxXl18Bz5mdCM/Y5cnwzNlJ8KxdngjPnv38CfHAH/jN2i/fWwsLnfHXkgAAAABJRU5ErkJggg==\" style=\"height: auto; max-width: 100%;\">",
+      "<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAF4AAAAxCAIAAADcEom2AAACI0lEQVR42u2Z2ZXDIAxFqYuCXA/V0AzFZMI2RkKQ5Bhxolj8JQYsXfO02OahYzCMIlA0ikbRyEYTvDusNWXYwwVFk7i4COXwoVA6Eh5RdDjRtCQqKkUzPEWKhiQjS08b0IRnoLECozAvmqyimqC8ZigyjSdGokLNvpIvpW9R0WYbGnkpyjAeEsBBTw0g0VTD8soaPkHBDkqT900671SpkRJY21LX4ufr4pAZuZ797tFwtNRpz68LRIYwMxeuyWkazeqWuktnXy6oARqGegXT/hE0C1rqSiYUGVPBK/xLPF73bTgE/yC74YT6q/Gq3ddY6xahWdVSJzk5d6T4RaEG1eI5weclyM4mbjUTbNw/xol4uU5u75Urr+M6mpUtNQrk2ZFJLMMxGy4g0Nbqk7wzWLns1IxbajMdU0Vix3tX0QxkZm/1WPIw2a4Pw1ebI5idXpNBdqEFfRkwDYbl9NNB4TqaaykK6QfLqTeCIHMuIB4T3pEubSkPPkaztqUm1AG2wkbgMwAWhFykT0jC8s3Pa07zqVCWttQjT59Pspzx4lo4n+8AXYjpqFmfpw3lhJhSs8yDKiEsiJvWAsILW2o6HcE9m9Ij2oFu5msHlq9kcZzrh3IKr53g/XrZD0GvbDjRvJ8pbvaWzwons+tV1ruVwP3QSCSzBY3ED9570AglswGNSDFtQSOWDDcaqWLiRyOZDC8auWLiRiObjH7YVTSKRtFsGX/77XHwHZIQlQAAAABJRU5ErkJggg==\" style=\"height: auto; max-width: 100%;\">",
+      "<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFQAAAAxCAIAAADLMBl/AAAB/klEQVR42u2Z65HEIAiArcuCrMdqbIZi7hKNF0BMMiuZWU79t7OifoA8jPuZeLgFv+AX/IJ/NCDF4L07hg8RZoGHuGOHBIceQlaANf4BeMxalTHlnZ8ZPrOb8/pxeNguvLcZ74bgi6/XYJ9gKniU9LIWrF15tSInJztrt14L3mS4d58bmpDOZPlS0p0Vnsk0/7Hb08p+wlT377o6lLvJGHHpuubXhQQJnoDqVK55la+LCa6JZP4F9jY7WLjzOaqPn5p3wCbgldlhyxC93FD/K/+nv6RSJZJ8Kjqh/kJnxus67+NTeLVGNTt9jCHXBdKqpEQ6J6QiwkyA4gea4Pf19+4KRy28VylGwkN4VXa0UjnqxSsQj45UQDhWLbnEnYnkU8v3Xd5djjslcrQWhs1gB2nP1bcSfWp8fueVrnsT6e/Z2dZMoE2alx561BhyBepef5diXs6dvlWywH4KCA0UX1EoxYP83uDeZhd8mCzM4fnWRABKQ3GhK7LxRRzpw+u5fJdls8bhicdmcNqooxzYQzuSL9O6dmJak2a5d9k7oZ3eQZSKvW+iU6qdQfmnuPAp33V6uG87h77Y6PY/Zlral/ofKy853j670mOGZpSwBm+UXQPe6Ic6FXi77OPwVl1eA94y+yC8YZcfhjfOPgRv2uUH4c2zr89VC37BTzZ+AVC8JU1uFI2lAAAAAElFTkSuQmCC\" style=\"height: auto; max-width: 100%;\">"
+    ],
+    "passage": "",
+    "q_en": "Pipe A can fill an empty cistern alone in 20 hours, and pipe B can fill the same cistern alone in 36 hours. The time taken by them to fill half of the cistern by operating together will be:",
+    "q_hi": "पाइप A अकेले एक खाली टंकी को 20 घंटे में भर सकता है, और पाइप B उसी टंकी को अकेले 36 घंटे में भर सकता है। दोनों के द्वारा एक साथ कार्य करते हुए टंकी के आधे हिस्से को भरने में लगने वाला समय क्या होगा?",
+    "section": "Arithmetic1",
+    "solution": "",
+    "topic": "Pipes and Cistern"
+  },
+  {
+    "ans": "4",
+    "direction": "",
+    "level": "Hard",
+    "op_en": [
+      "<img align=\"middle\" alt=\"7 over 3\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mfrac»«mn»7«/mn»«mn»3«/mn»«/mfrac»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAAlCAYAAACkhgJBAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAZpE86XgAAANpJREFUeNpjYMAOlID4Pw7cxUAkyMJjiBaxhswEYmM0MT0gPs5AAlDBIjYJiBMZKABsQPwcSpMNkqEuoQiAwkKHEgNIDlAGHAGaTGmAvhweAToKBhP4TwYeBUMWmAPxUSD+BcSfgHguEAuTYgCocqoGYhYg5oPWQaA0sZ8UQ7LQ+ExQQ76RYggTGl+D1DoYHZgC8TUgnkCuAV5IeQQUHqLkGiQLxGegBi2mJLpNyQlYBmrEDjqQhhqylBRND4F4NjSFggJzBxA/BWJxUgwBRecPaJK/C8Q9hGIGAMsmQ9YKZUYFAAAAYnRFWHRNYXRoTUwAPG1hdGggeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzE5OTgvTWF0aC9NYXRoTUwiPjxtZnJhYz48bW4+NzwvbW4+PG1uPjM8L21uPjwvbWZyYWM+PC9tYXRoPo20UtUAAAAASUVORK5CYII=\" style=\"max-width: none;\">",
+      "<img align=\"middle\" alt=\"5 over 3\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mfrac»«mn»5«/mn»«mn»3«/mn»«/mfrac»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAAlCAYAAACkhgJBAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAZpE86XgAAAPVJREFUeNpjYMANmID4JRD/h+JbDGSAUCQDQHgSOYbsBeJEBgqAEtT2L0A8E4jFyTGkFc0rT8k1SBSI44H4GtSgaZR4jQOID0JjiiKgAcS/GKgAHlJqgDQQN5OqqRaIs6CpFhTAXUDMQ6ohS6Fh8ByI+8gxYBQMRvCfDDwKhiwwB+Kj0Jz8CYjnArEwKQZoAXE1ELMAMR+0ygClif2kGJKFpToFGfKNFEOYsBTS/6GlG1nAFFrvTCDXAC+kPLIfWtaSBWSB+AzUoMWURLcpOQHLQI3YwVZx/YdWIyRVl7OhKRQUmDvIaVqAovMHNMnfBeIeQjEDAH6ISBZdCz6ZAAAAYnRFWHRNYXRoTUwAPG1hdGggeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzE5OTgvTWF0aC9NYXRoTUwiPjxtZnJhYz48bW4+NTwvbW4+PG1uPjM8L21uPjwvbWZyYWM+PC9tYXRoPpB7g3cAAAAASUVORK5CYII=\" style=\"max-width: none;\">",
+      "<img align=\"middle\" alt=\"7 over 4\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mfrac»«mn»7«/mn»«mn»4«/mn»«/mfrac»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAAlCAYAAACkhgJBAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAZpE86XgAAAJlJREFUeNpjYMAOlID4Pw7cxUAkyMJjiBaxhswEYmM0MT0gPs5AAlDBIjYJiBMZKABsQPwcSpMNkqEuoQiAwkKHEgNIDlAGHAGaTGmAvhweAToKBhP4TwYeBcMGrKI0SqMpTReyQHyGUkN2Qwtqsg0pAeIMtCxBEgAViUux5CuSSvgdQCxIiSF9QGyOI4dTrUiguKxhGNyGAACqVEeds2sHLQAAAGJ0RVh0TWF0aE1MADxtYXRoIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8xOTk4L01hdGgvTWF0aE1MIj48bWZyYWM+PG1uPjc8L21uPjxtbj40PC9tbj48L21mcmFjPjwvbWF0aD7kU9SNAAAAAElFTkSuQmCC\" style=\"max-width: none;\">",
+      "<img align=\"middle\" alt=\"5 over 2\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mfrac»«mn»5«/mn»«mn»2«/mn»«/mfrac»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAAlCAYAAACkhgJBAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAZpE86XgAAAOJJREFUeNpjYMANmID4JRD/h+JbDGSAUCQDQHgSOYbsBeJEBgqAEtT2L0A8E4jFyTGkFc0rT8k1SBSI44H4GtSgaZR4jQOID0JjiiKgAcS/GKgAHlJqgDQQN5OqqRaIs6CpFhTAXUDMQ6ohS6Fh8ByI+8gxYBQMRvCfDDwKhiywhJatsJzcAcQspBggiKRJCamg7iHFkEQ0Wy2R6iCKU/M3SgxggxqyiRJDwqGGmFNiyDlofUw2KADiM9BakCxgDTVAmFwD5IF4N5oB0dA0QxSQBOLHOAoholtLt/CUZF7YNAAAQ8VK0pbvkYwAAABidEVYdE1hdGhNTAA8bWF0aCB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMTk5OC9NYXRoL01hdGhNTCI+PG1mcmFjPjxtbj41PC9tbj48bW4+MjwvbW4+PC9tZnJhYz48L21hdGg+D6EA6QAAAABJRU5ErkJggg==\" style=\"max-width: none;\">"
+    ],
+    "op_hi": [
+      "<img align=\"middle\" alt=\"7 over 3\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mfrac»«mn»7«/mn»«mn»3«/mn»«/mfrac»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAAlCAYAAACkhgJBAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAZpE86XgAAANpJREFUeNpjYMAOlID4Pw7cxUAkyMJjiBaxhswEYmM0MT0gPs5AAlDBIjYJiBMZKABsQPwcSpMNkqEuoQiAwkKHEgNIDlAGHAGaTGmAvhweAToKBhP4TwYeBUMWmAPxUSD+BcSfgHguEAuTYgCocqoGYhYg5oPWQaA0sZ8UQ7LQ+ExQQ76RYggTGl+D1DoYHZgC8TUgnkCuAV5IeQQUHqLkGiQLxGegBi2mJLpNyQlYBmrEDjqQhhqylBRND4F4NjSFggJzBxA/BWJxUgwBRecPaJK/C8Q9hGIGAMsmQ9YKZUYFAAAAYnRFWHRNYXRoTUwAPG1hdGggeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzE5OTgvTWF0aC9NYXRoTUwiPjxtZnJhYz48bW4+NzwvbW4+PG1uPjM8L21uPjwvbWZyYWM+PC9tYXRoPo20UtUAAAAASUVORK5CYII=\" style=\"max-width: none;\">",
+      "<img align=\"middle\" alt=\"5 over 3\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mfrac»«mn»5«/mn»«mn»3«/mn»«/mfrac»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAAlCAYAAACkhgJBAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAZpE86XgAAAPVJREFUeNpjYMANmID4JRD/h+JbDGSAUCQDQHgSOYbsBeJEBgqAEtT2L0A8E4jFyTGkFc0rT8k1SBSI44H4GtSgaZR4jQOID0JjiiKgAcS/GKgAHlJqgDQQN5OqqRaIs6CpFhTAXUDMQ6ohS6Fh8ByI+8gxYBQMRvCfDDwKhiwwB+Kj0Jz8CYjnArEwKQZoAXE1ELMAMR+0ygClif2kGJKFpToFGfKNFEOYsBTS/6GlG1nAFFrvTCDXAC+kPLIfWtaSBWSB+AzUoMWURLcpOQHLQI3YwVZx/YdWIyRVl7OhKRQUmDvIaVqAovMHNMnfBeIeQjEDAH6ISBZdCz6ZAAAAYnRFWHRNYXRoTUwAPG1hdGggeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzE5OTgvTWF0aC9NYXRoTUwiPjxtZnJhYz48bW4+NTwvbW4+PG1uPjM8L21uPjwvbWZyYWM+PC9tYXRoPpB7g3cAAAAASUVORK5CYII=\" style=\"max-width: none;\">",
+      "<img align=\"middle\" alt=\"7 over 4\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mfrac»«mn»7«/mn»«mn»4«/mn»«/mfrac»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAAlCAYAAACkhgJBAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAZpE86XgAAAJlJREFUeNpjYMAOlID4Pw7cxUAkyMJjiBaxhswEYmM0MT0gPs5AAlDBIjYJiBMZKABsQPwcSpMNkqEuoQiAwkKHEgNIDlAGHAGaTGmAvhweAToKBhP4TwYeBcMGrKI0SqMpTReyQHyGUkN2Qwtqsg0pAeIMtCxBEgAViUux5CuSSvgdQCxIiSF9QGyOI4dTrUiguKxhGNyGAACqVEeds2sHLQAAAGJ0RVh0TWF0aE1MADxtYXRoIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8xOTk4L01hdGgvTWF0aE1MIj48bWZyYWM+PG1uPjc8L21uPjxtbj40PC9tbj48L21mcmFjPjwvbWF0aD7kU9SNAAAAAElFTkSuQmCC\" style=\"max-width: none;\">",
+      "<img align=\"middle\" alt=\"5 over 2\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mfrac»«mn»5«/mn»«mn»2«/mn»«/mfrac»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAAlCAYAAACkhgJBAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAZpE86XgAAAOJJREFUeNpjYMANmID4JRD/h+JbDGSAUCQDQHgSOYbsBeJEBgqAEtT2L0A8E4jFyTGkFc0rT8k1SBSI44H4GtSgaZR4jQOID0JjiiKgAcS/GKgAHlJqgDQQN5OqqRaIs6CpFhTAXUDMQ6ohS6Fh8ByI+8gxYBQMRvCfDDwKhiywhJatsJzcAcQspBggiKRJCamg7iHFkEQ0Wy2R6iCKU/M3SgxggxqyiRJDwqGGmFNiyDlofUw2KADiM9BakCxgDTVAmFwD5IF4N5oB0dA0QxSQBOLHOAoholtLt/CUZF7YNAAAQ8VK0pbvkYwAAABidEVYdE1hdGhNTAA8bWF0aCB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMTk5OC9NYXRoL01hdGhNTCI+PG1mcmFjPjxtbj41PC9tbj48bW4+MjwvbW4+PC9tZnJhYz48L21hdGg+D6EA6QAAAABJRU5ErkJggg==\" style=\"max-width: none;\">"
+    ],
+    "passage": "",
+    "q_en": "A solid sphere is cut into 8 identical pieces. The total surface area of all pieces is _____ times the surface area of the sphere.",
+    "q_hi": "एक ठोस गोले को 8 समान टुकड़ों में काटा जाता है। सभी टुकड़ों का कुल पृष्ठीय क्षेत्रफल गोले के पृष्ठीय क्षेत्रफल का _____ गुना है।",
+    "section": "Arithmetic1",
+    "solution": "",
+    "topic": "Mensuration"
+  },
+  {
+    "ans": "2",
+    "direction": "",
+    "level": "Easy",
+    "op_en": [
+      "20%",
+      "40%",
+      "18%",
+      "12%"
+    ],
+    "op_hi": [
+      "20%",
+      "40%",
+      "18%",
+      "12%"
+    ],
+    "passage": "",
+    "q_en": "A trader offers a discount scheme of 'Buy 9, Get 6 Free' for the sale of articles. Find the percentage of discount.",
+    "q_hi": "एक व्यापारी वस्तुओं की बिक्री के लिए '9 खरीदें, 6 मुफ्त पाएं' की छूट योजना प्रदान करता है। छूट का प्रतिशत ज्ञात कीजिए।",
+    "section": "Arithmetic1",
+    "solution": "1. In 'Buy 9, Get 6 Free', the customer gets a total of 15 articles.\n2. Out of 15 articles, 6 articles are free.\n3. Discount Percentage = (Number of free articles / Total articles) × 100\n4. Discount % = (6 / 15) × 100 = (2 / 5) × 100 = 40%.<br><br>1. '9 खरीदें, 6 मुफ्त पाएं' योजना में ग्राहक को कुल 15 वस्तुएं मिलती हैं।\n2. 15 वस्तुओं में से 6 वस्तुएं मुफ्त (Discount) हैं।\n3. छूट प्रतिशत (Discount %) = (मुफ्त वस्तुओं की संख्या / कुल वस्तुओं की संख्या) × 100\n4. छूट % = (6 / 15) × 100 = 40%.<br><br><b>Short Trick:</b> Discount % = [Free / (Paid + Free)] × 100 = (6 / 15) × 100 = 40%.",
+    "topic": "Discount"
+  },
+  {
+    "ans": "2",
+    "direction": "",
+    "level": "Easy",
+    "op_en": [
+      "35 and 61",
+      "40 and 56",
+      "36 and 60",
+      "42 and 54"
+    ],
+    "op_hi": [
+      "40 और 56",
+      "40 और 56",
+      "36 और 60",
+      "42 और 54"
+    ],
+    "passage": "",
+    "q_en": "The ratio of two numbers is 5 : 7 and their sum is 96. What are these numbers?",
+    "q_hi": "दो संख्याओं का अनुपात 5 : 7 है और उनका योग 96 है। ये संख्याएँ क्या हैं?",
+    "section": "Arithmetic1",
+    "solution": "1. Let the two numbers be 5x and 7x.\n2. According to the question, their sum is 96.\n3. 5x + 7x = 96 ⇒ 12x = 96 ⇒ x = 8.\n4. First number = 5 × 8 = 40.\n5. Second number = 7 × 8 = 56.<br><br>1. मान लीजिए दो संख्याएँ 5x और 7x हैं।\n2. प्रश्न के अनुसार, उनका योग 96 है।\n3. 5x + 7x = 96 ⇒ 12x = 96 ⇒ x = 8.\n4. पहली संख्या = 5 × 8 = 40.\n5. दूसरी संख्या = 7 × 8 = 56.<br><br><b>Short Trick:</b> Sum of ratios (5+7) = 12 units. 12 units = 96 ⇒ 1 unit = 8. Numbers are 5×8=40 and 7×8=56.",
+    "topic": "Ratio and Proportion"
+  },
+  {
+    "ans": "2",
+    "direction": "",
+    "level": "Easy",
+    "op_en": [
+      "₹23",
+      "₹25",
+      "₹24",
+      "₹26"
+    ],
+    "op_hi": [
+      "₹23",
+      "₹25",
+      "₹24",
+      "₹26"
+    ],
+    "passage": "",
+    "q_en": "A vendor sells oranges at the rate of 7 for ₹210 and makes a profit of 20%. What is the cost price per orange?",
+    "q_hi": "एक विक्रेता ₹210 में 7 की दर से संतरे बेचता है और 20% का लाभ कमाता है। प्रति संतरा क्रय मूल्य क्या है?",
+    "section": "Arithmetic1",
+    "solution": "1. Selling Price (SP) of 7 oranges = ₹210.\n2. SP per orange = 210 / 7 = ₹30.\n3. Profit = 20%.\n4. Cost Price (CP) = SP / (1 + Profit/100) = 30 / (1 + 20/100) = 30 / 1.2 = ₹25.<br><br>1. 7 संतरों का विक्रय मूल्य (SP) = ₹210.\n2. प्रति संतरा विक्रय मूल्य = 210 / 7 = ₹30.\n3. लाभ (Profit) = 20%.\n4. क्रय मूल्य (CP) = SP / (100 + Profit %) × 100 = (30 / 120) × 100 = ₹25.<br><br><b>Short Trick:</b> SP = 30. Profit = 20% (1/5). CP × 6/5 = 30 ⇒ CP = 25.",
+    "topic": "Profit and Loss"
+  },
+  {
+    "ans": "4",
+    "direction": "",
+    "level": "Easy",
+    "op_en": [
+      "36 litres",
+      "42.2 litres",
+      "40 litres",
+      "38.4 litres"
+    ],
+    "op_hi": [
+      "36 लीटर",
+      "42.2 लीटर",
+      "40 लीटर",
+      "38.4 लीटर"
+    ],
+    "passage": "",
+    "q_en": "A glass aquarium is a cuboid with inner dimensions 48 cm × 32 cm × 25 cm. What is the maximum volume of water it can hold?",
+    "q_hi": "एक कांच का एक्वेरियम एक घनाभ है जिसकी आंतरिक विमाएँ 48 सेमी × 32 सेमी × 25 सेमी हैं। इसमें अधिकतम कितना पानी आ सकता है?",
+    "section": "Arithmetic1",
+    "solution": "1. Volume of cuboid = Length × Breadth × Height.\n2. Volume = 48 × 32 × 25 = 38,400 cm³.\n3. Since 1000 cm³ = 1 litre, Volume in litres = 38,400 / 1000 = 38.4 litres.<br><br>1. घनाभ का आयतन (Volume) = लंबाई × चौड़ाई × ऊंचाई\n2. आयतन = 48 × 32 × 25 = 38,400 सेमी³.\n3. चूंकि 1000 सेमी³ = 1 लीटर होता है, इसलिए पानी की मात्रा = 38,400 / 1000 = 38.4 लीटर।<br><br><b>Short Trick:</b> Volume = (48 × 32 × 25) / 1000 = 38.4 L.",
+    "topic": "Mensuration"
+  },
+  {
+    "ans": "4",
+    "direction": "",
+    "level": "Easy",
+    "op_en": [
+      "5.76",
+      "6",
+      "4.76",
+      "5"
+    ],
+    "op_hi": [
+      "5.76",
+      "6",
+      "4.76",
+      "5"
+    ],
+    "passage": "",
+    "q_en": "A man buys 10 identical articles for a total of ₹20. If he sells each of them for ₹2.1, then his profit percentage will be ______%.<span style=\"color: white;\">10794</span>",
+    "q_hi": "एक आदमी ₹20 में कुल 10 समान वस्तुएँ खरीदता है। यदि वह उनमें से प्रत्येक को ₹2.1 में बेचता है, तो उसका लाभ प्रतिशत ______% होगा।",
+    "section": "Arithmetic1",
+    "solution": "1. Total CP of 10 articles = ₹20. CP of 1 article = 20 / 10 = ₹2.\n2. SP of 1 article = ₹2.1.\n3. Profit per article = SP - CP = 2.1 - 2 = ₹0.1.\n4. Profit % = (Profit / CP) × 100 = (0.1 / 2) × 100 = 5%.<br><br>1. 10 वस्तुओं का कुल क्रय मूल्य (CP) = ₹20. 1 वस्तु का CP = ₹2.\n2. 1 वस्तु का विक्रय मूल्य (SP) = ₹2.1.\n3. लाभ = SP - CP = 2.1 - 2 = ₹0.1.\n4. लाभ % = (लाभ / CP) × 100 = (0.1 / 2) × 100 = 5%.<br><br><b>Short Trick:</b> CP = 2, SP = 2.1. Profit % = (0.1/2) × 100 = 5%.",
+    "topic": "Profit and Loss"
+  },
+  {
+    "ans": "1",
+    "direction": "",
+    "level": "Easy",
+    "op_en": [
+      "30",
+      "36",
+      "27",
+      "25"
+    ],
+    "op_hi": [
+      "30",
+      "36",
+      "27",
+      "25"
+    ],
+    "passage": "",
+    "q_en": "The mean proportional between 18 and 50 is:",
+    "q_hi": "18 और 50 के बीच मध्यानुपाती (Mean Proportional) क्या है?",
+    "section": "Arithmetic1",
+    "solution": "1. The mean proportional of two numbers 'a' and 'b' is given by √(a × b).\n2. Here, a = 18 and b = 50.\n3. Mean proportional = √(18 × 50) = √900 = 30.<br><br>1. दो संख्याओं 'a' और 'b' का मध्यानुपाती (Mean proportional) √(a × b) होता है।\n2. यहाँ a = 18 और b = 50.\n3. मध्यानुपाती = √(18 × 50) = √900 = 30.<br><br><b>Short Trick:</b> Mean = √(18 × 50) = √900 = 30.",
+    "topic": "Ratio and Proportion"
+  }
+]
