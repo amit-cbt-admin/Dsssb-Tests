@@ -1,0 +1,317 @@
+[
+  {
+    "ans": 2,
+    "difficulty": "Easy",
+    "op_en": [
+      "beautiful",
+      "beautifully",
+      "beauty",
+      "beautify"
+    ],
+    "op_hi": [
+      "beautiful",
+      "beautifully",
+      "beauty",
+      "beautify"
+    ],
+    "q_en": "Select the most appropriate option to fill in the blank.<br><br>The choir sang ________ during the Christmas service.",
+    "q_hi": "Select the most appropriate option to fill in the blank.<br><br>The choir sang ________ during the Christmas service.",
+    "section": "English",
+    "solution": "<b>Solution (EN):</b> The blank requires an adverb to modify the verb 'sang'. 'Beautifully' is the correct adverb. 'Beautiful' is an adjective, 'beauty' is a noun, and 'beautify' is a verb.<br><b>Solution (HI):</b> यहाँ क्रिया 'sang' की विशेषता बताने के लिए adverb (क्रिया विशेषण) की आवश्यकता है। 'Beautifully' सही adverb है। 'Beautiful' adjective है, 'beauty' noun है, और 'beautify' verb है।<br><b>Short Trick:</b> Verb (sang) needs an Adverb (beautifully) to describe how the action was performed.",
+    "topic": "Adverbs"
+  },
+  {
+    "ans": 2,
+    "difficulty": "Easy",
+    "op_en": [
+      "in",
+      "on",
+      "at",
+      "above"
+    ],
+    "op_hi": [
+      "in",
+      "on",
+      "at",
+      "above"
+    ],
+    "q_en": "Select the most appropriate preposition to fill in the blank.<br><br>Please leave the keys right ________ the table.",
+    "q_hi": "Select the most appropriate preposition to fill in the blank.<br><br>Please leave the keys right ________ the table.",
+    "section": "English",
+    "solution": "<b>Solution (EN):</b> The preposition 'on' is used to indicate that something is physically in contact with and supported by a surface.<br><b>Solution (HI):</b> 'On' का उपयोग किसी सतह के संपर्क में और उसके ऊपर होने की स्थिति को दर्शाने के लिए किया जाता है। इसलिए यहाँ 'on' सही होगा।<br><b>Short Trick:</b> Supported by a surface = 'on' (on the table).",
+    "topic": "Prepositions"
+  },
+  {
+    "ans": 2,
+    "difficulty": "Medium",
+    "op_en": [
+      "CEDAB",
+      "CDEAB",
+      "ABDEC",
+      "DCBEA"
+    ],
+    "op_hi": [
+      "CEDAB",
+      "CDEAB",
+      "ABDEC",
+      "DCBEA"
+    ],
+    "q_en": "Parts of a sentence are given below in jumbled order. Arrange the parts in the correct order to form a meaningful sentence.<br><br>A. because of<br>B. the heavy rain<br>C. the match<br>D. was postponed<br>E. indefinitely",
+    "q_hi": "Parts of a sentence are given below in jumbled order. Arrange the parts in the correct order to form a meaningful sentence.<br><br>A. because of<br>B. the heavy rain<br>C. the match<br>D. was postponed<br>E. indefinitely",
+    "section": "English",
+    "solution": "<b>Solution (EN):</b> The logical sequence starts with the subject 'the match' (C), followed by the verb phrase 'was postponed' (D), the adverb 'indefinitely' (E), and the reason 'because of' (A) 'the heavy rain' (B). Correct order: CDEAB.<br><b>Solution (HI):</b> तार्किक क्रम कर्ता 'the match' (C) से शुरू होता है, उसके बाद क्रिया 'was postponed' (D), फिर 'indefinitely' (E), और अंत में कारण 'because of' (A) 'the heavy rain' (B)। सही क्रम: CDEAB.<br><b>Short Trick:</b> Find the main Subject (The match) and Verb (was postponed). C directly links to D.",
+    "topic": "Sentence Rearrangement"
+  },
+  {
+    "ans": 1,
+    "difficulty": "Easy",
+    "op_en": [
+      "Reading is a good habit.",
+      "A good habit is reading.",
+      "Habit is a reading good.",
+      "Is reading a good habit."
+    ],
+    "op_hi": [
+      "Reading is a good habit.",
+      "A good habit is reading.",
+      "Habit is a reading good.",
+      "Is reading a good habit."
+    ],
+    "q_en": "Parts of a sentence are given below in jumbled order. Arrange the parts in the correct order to form a meaningful sentence.<br><br>reading / a / is / habit / good",
+    "q_hi": "Parts of a sentence are given below in jumbled order. Arrange the parts in the correct order to form a meaningful sentence.<br><br>reading / a / is / habit / good",
+    "section": "English",
+    "solution": "<b>Solution (EN):</b> The correct and most natural structure is Subject (Reading) + Verb (is) + Article (a) + Adjective (good) + Noun (habit).<br><b>Solution (HI):</b> सही संरचना Subject (Reading) + Verb (is) + Article (a) + Adjective (good) + Noun (habit) है। विकल्प 1 व्याकरण की दृष्टि से एकदम सही है।<br><b>Short Trick:</b> Identify the main subject 'Reading' and follow with the linking verb 'is'.",
+    "topic": "Sentence Rearrangement"
+  },
+  {
+    "ans": 2,
+    "difficulty": "Easy",
+    "op_en": [
+      "Apiary",
+      "Aviary",
+      "Aquarium",
+      "Zoo"
+    ],
+    "op_hi": [
+      "Apiary",
+      "Aviary",
+      "Aquarium",
+      "Zoo"
+    ],
+    "q_en": "Select the option that can be used as a one-word substitute for the given group of words.<br><br>A place where birds are kept",
+    "q_hi": "Select the option that can be used as a one-word substitute for the given group of words.<br><br>A place where birds are kept",
+    "section": "English",
+    "solution": "<b>Solution (EN):</b> An 'Aviary' is a large cage or enclosure for keeping birds. 'Apiary' is where bees are kept, 'Aquarium' is for fish, and a 'Zoo' is for animals in general.<br><b>Solution (HI):</b> 'Aviary' (पक्षीशाला) वह स्थान है जहाँ पक्षियों को रखा जाता है। 'Apiary' मधुमक्खियों के लिए, और 'Aquarium' मछलियों के लिए होता है।<br><b>Short Trick:</b> Root word 'Aves' relates to birds, hence Aviary.",
+    "topic": "One Word Substitution"
+  },
+  {
+    "ans": 2,
+    "difficulty": "Easy",
+    "op_en": [
+      "Century",
+      "Decade",
+      "Millennium",
+      "Fortnight"
+    ],
+    "op_hi": [
+      "Century",
+      "Decade",
+      "Millennium",
+      "Fortnight"
+    ],
+    "q_en": "Select the option that can be used as a one-word substitute for the given group of words.<br><br>A period of ten years",
+    "q_hi": "Select the option that can be used as a one-word substitute for the given group of words.<br><br>A period of ten years",
+    "section": "English",
+    "solution": "<b>Solution (EN):</b> A 'Decade' is a period of ten years. A 'Century' is 100 years, a 'Millennium' is 1000 years, and a 'Fortnight' is a period of 14 days.<br><b>Solution (HI):</b> दस वर्षों की अवधि को 'Decade' (दशक) कहा जाता है। 'Century' सौ वर्ष, 'Millennium' हज़ार वर्ष, और 'Fortnight' पखवाड़े (14 दिन) को कहते हैं।<br><b>Short Trick:</b> The prefix 'Deca-' means ten.",
+    "topic": "One Word Substitution"
+  },
+  {
+    "ans": 2,
+    "difficulty": "Easy",
+    "op_en": [
+      "Scarce",
+      "Plentiful",
+      "Rare",
+      "Empty"
+    ],
+    "op_hi": [
+      "Scarce",
+      "Plentiful",
+      "Rare",
+      "Empty"
+    ],
+    "q_en": "Select the most appropriate synonym of the given word.<br><br>Abundant",
+    "q_hi": "Select the most appropriate synonym of the given word.<br><br>Abundant",
+    "section": "English",
+    "solution": "<b>Solution (EN):</b> 'Abundant' means existing or available in large quantities. 'Plentiful' is its exact synonym. 'Scarce', 'Rare', and 'Empty' are antonyms.<br><b>Solution (HI):</b> 'Abundant' का अर्थ है प्रचुर मात्रा में या बहुतायत। 'Plentiful' इसका सही समानार्थी है। 'Scarce' (दुर्लभ) और 'Empty' (खाली) इसके विपरीत अर्थ देते हैं।<br><b>Short Trick:</b> Abundant = A lot of something = Plentiful.",
+    "topic": "Vocabulary"
+  },
+  {
+    "ans": 3,
+    "difficulty": "Medium",
+    "op_en": [
+      "Hardworking",
+      "Careful",
+      "Lazy",
+      "Active"
+    ],
+    "op_hi": [
+      "Hardworking",
+      "Careful",
+      "Lazy",
+      "Active"
+    ],
+    "q_en": "Select the most appropriate antonym of the given word.<br><br>Diligent",
+    "q_hi": "Select the most appropriate antonym of the given word.<br><br>Diligent",
+    "section": "English",
+    "solution": "<b>Solution (EN):</b> 'Diligent' means having or showing care and conscientiousness in one's work or duties (hardworking). Its antonym is 'Lazy', which means unwilling to work.<br><b>Solution (HI):</b> 'Diligent' का अर्थ है परिश्रमी या मेहनती। इसका विलोम (antonym) 'Lazy' (आलसी) होगा। 'Hardworking' और 'Active' इसके समानार्थी (synonyms) हैं।<br><b>Short Trick:</b> Diligent implies hard work. The exact opposite of hard work is lazy.",
+    "topic": "Vocabulary"
+  },
+  {
+    "ans": 2,
+    "difficulty": "Easy",
+    "op_en": [
+      "a",
+      "an",
+      "the",
+      "No article needed"
+    ],
+    "op_hi": [
+      "a",
+      "an",
+      "the",
+      "No article needed"
+    ],
+    "q_en": "Select the most appropriate option to fill in the blank.<br><br>Despite the poor conditions, he proved to be ______ honest man.",
+    "q_hi": "Select the most appropriate option to fill in the blank.<br><br>Despite the poor conditions, he proved to be ______ honest man.",
+    "section": "English",
+    "solution": "<b>Solution (EN):</b> The word 'honest' begins with a consonant letter 'h' but is pronounced with a vowel sound ('o'). Therefore, the article 'an' must precede it.<br><b>Solution (HI):</b> शब्द 'honest' व्यंजन (consonant) 'h' से शुरू होता है लेकिन इसका उच्चारण स्वर ध्वनि ('o') से होता है। इसलिए, इससे पहले 'an' का उपयोग किया जाएगा।<br><b>Short Trick:</b> Always judge 'a' or 'an' by the sound, not the spelling. Honest starts with an 'O' sound.",
+    "topic": "Articles"
+  },
+  {
+    "ans": 2,
+    "difficulty": "Medium",
+    "op_en": [
+      "To shatter glass",
+      "To start a conversation in a tense or formal situation",
+      "To do something illegal",
+      "To freeze water"
+    ],
+    "op_hi": [
+      "To shatter glass",
+      "To start a conversation in a tense or formal situation",
+      "To do something illegal",
+      "To freeze water"
+    ],
+    "q_en": "Select the most appropriate meaning of the given idiom.<br><br>Break the ice",
+    "q_hi": "Select the most appropriate meaning of the given idiom.<br><br>Break the ice",
+    "section": "English",
+    "solution": "<b>Solution (EN):</b> The idiom 'Break the ice' means to do or say something to relieve tension or get conversation going in a strained situation or when strangers meet.<br><b>Solution (HI):</b> 'Break the ice' मुहावरे का अर्थ है किसी तनावपूर्ण या औपचारिक स्थिति में बातचीत शुरू करना या झिझक तोड़ना।<br><b>Short Trick:</b> Ice represents coldness/silence. Breaking it means warming up a conversation.",
+    "topic": "Idioms and Proverbs"
+  },
+  {
+    "ans": 2,
+    "difficulty": "Medium",
+    "op_en": [
+      "The history of South American countries",
+      "The biodiversity and threats to the Amazon rainforest",
+      "The process of global warming",
+      "Different types of insects in the rainforest"
+    ],
+    "op_hi": [
+      "The history of South American countries",
+      "The biodiversity and threats to the Amazon rainforest",
+      "The process of global warming",
+      "Different types of insects in the rainforest"
+    ],
+    "q_en": "<b>Comprehension:</b><br>Read the given passage carefully and answer the questions that follow.<br> <div style=\"text-align: justify;\">The Amazon rainforest, often referred to as the \"lungs of the Earth,\" plays a crucial role in regulating the global climate. It absorbs vast amounts of carbon dioxide and produces a significant portion of the world's oxygen. Spanning over nine countries in South America, it is home to unparalleled biodiversity, containing millions of species of insects, plants, and birds, many of which are still undiscovered by science. However, this vital ecosystem faces severe threats from deforestation, primarily driven by logging, agriculture, and cattle ranching. The loss of tree cover not only destroys habitats but also releases stored carbon back into the atmosphere, accelerating global warming. Conservation efforts and sustainable policies are urgently needed to protect the Amazon from irreversible damage, as its survival is inextricably linked to the health of our entire planet.</div><br>What is the primary theme of the passage?",
+    "q_hi": "<b>Comprehension:</b><br>Read the given passage carefully and answer the questions that follow.<br> <div style=\"text-align: justify;\">The Amazon rainforest, often referred to as the \"lungs of the Earth,\" plays a crucial role in regulating the global climate. It absorbs vast amounts of carbon dioxide and produces a significant portion of the world's oxygen. Spanning over nine countries in South America, it is home to unparalleled biodiversity, containing millions of species of insects, plants, and birds, many of which are still undiscovered by science. However, this vital ecosystem faces severe threats from deforestation, primarily driven by logging, agriculture, and cattle ranching. The loss of tree cover not only destroys habitats but also releases stored carbon back into the atmosphere, accelerating global warming. Conservation efforts and sustainable policies are urgently needed to protect the Amazon from irreversible damage, as its survival is inextricably linked to the health of our entire planet.</div><br>What is the primary theme of the passage?",
+    "section": "English",
+    "solution": "<b>Solution (EN):</b> The passage mainly highlights the immense ecological importance (biodiversity, climate regulation) of the Amazon rainforest and the urgent threats (deforestation) it currently faces.<br><b>Solution (HI):</b> गद्यांश मुख्य रूप से अमेज़न वर्षावन के पारिस्थितिक महत्व (जैव विविधता) और इसके सामने आने वाले गंभीर खतरों (वनों की कटाई) पर प्रकाश डालता है।<br><b>Short Trick:</b> The passage focuses entirely on the Amazon rainforest, its importance, and the dangers it faces.",
+    "topic": "Reading Comprehension"
+  },
+  {
+    "ans": 2,
+    "difficulty": "Easy",
+    "op_en": [
+      "Because it is shaped like a lung",
+      "Because it absorbs carbon dioxide and produces oxygen",
+      "Because it spans over nine countries",
+      "Because it is the largest forest"
+    ],
+    "op_hi": [
+      "Because it is shaped like a lung",
+      "Because it absorbs carbon dioxide and produces oxygen",
+      "Because it spans over nine countries",
+      "Because it is the largest forest"
+    ],
+    "q_en": "<b>Comprehension:</b><br>Read the given passage carefully and answer the questions that follow.<br> <div style=\"text-align: justify;\">The Amazon rainforest, often referred to as the \"lungs of the Earth,\" plays a crucial role in regulating the global climate. It absorbs vast amounts of carbon dioxide and produces a significant portion of the world's oxygen. Spanning over nine countries in South America, it is home to unparalleled biodiversity, containing millions of species of insects, plants, and birds, many of which are still undiscovered by science. However, this vital ecosystem faces severe threats from deforestation, primarily driven by logging, agriculture, and cattle ranching. The loss of tree cover not only destroys habitats but also releases stored carbon back into the atmosphere, accelerating global warming. Conservation efforts and sustainable policies are urgently needed to protect the Amazon from irreversible damage, as its survival is inextricably linked to the health of our entire planet.</div><br>Why is the Amazon rainforest referred to as the \"lungs of the Earth\"?",
+    "q_hi": "<b>Comprehension:</b><br>Read the given passage carefully and answer the questions that follow.<br> <div style=\"text-align: justify;\">The Amazon rainforest, often referred to as the \"lungs of the Earth,\" plays a crucial role in regulating the global climate. It absorbs vast amounts of carbon dioxide and produces a significant portion of the world's oxygen. Spanning over nine countries in South America, it is home to unparalleled biodiversity, containing millions of species of insects, plants, and birds, many of which are still undiscovered by science. However, this vital ecosystem faces severe threats from deforestation, primarily driven by logging, agriculture, and cattle ranching. The loss of tree cover not only destroys habitats but also releases stored carbon back into the atmosphere, accelerating global warming. Conservation efforts and sustainable policies are urgently needed to protect the Amazon from irreversible damage, as its survival is inextricably linked to the health of our entire planet.</div><br>Why is the Amazon rainforest referred to as the \"lungs of the Earth\"?",
+    "section": "English",
+    "solution": "<b>Solution (EN):</b> The second sentence clearly answers this: \"It absorbs vast amounts of carbon dioxide and produces a significant portion of the world's oxygen.\"<br><b>Solution (HI):</b> गद्यांश के दूसरे वाक्य में स्पष्ट रूप से बताया गया है कि यह विशाल मात्रा में कार्बन डाइऑक्साइड सोखता है और ऑक्सीजन पैदा करता है। इसलिए इसे 'पृथ्वी के फेफड़े' कहा जाता है।<br><b>Short Trick:</b> Look directly at the sentence following the keyword \"lungs of the Earth\" for the explanation.",
+    "topic": "Reading Comprehension"
+  },
+  {
+    "ans": 1,
+    "difficulty": "Medium",
+    "op_en": [
+      "Unparalleled",
+      "Crucial",
+      "Irreversible",
+      "Undiscovered"
+    ],
+    "op_hi": [
+      "Unparalleled",
+      "Crucial",
+      "Irreversible",
+      "Undiscovered"
+    ],
+    "q_en": "<b>Comprehension:</b><br>Read the given passage carefully and answer the questions that follow.<br> <div style=\"text-align: justify;\">The Amazon rainforest, often referred to as the \"lungs of the Earth,\" plays a crucial role in regulating the global climate. It absorbs vast amounts of carbon dioxide and produces a significant portion of the world's oxygen. Spanning over nine countries in South America, it is home to unparalleled biodiversity, containing millions of species of insects, plants, and birds, many of which are still undiscovered by science. However, this vital ecosystem faces severe threats from deforestation, primarily driven by logging, agriculture, and cattle ranching. The loss of tree cover not only destroys habitats but also releases stored carbon back into the atmosphere, accelerating global warming. Conservation efforts and sustainable policies are urgently needed to protect the Amazon from irreversible damage, as its survival is inextricably linked to the health of our entire planet.</div><br>Select the word from the passage that is closest in meaning to \"unmatched\" or \"without equal\".",
+    "q_hi": "<b>Comprehension:</b><br>Read the given passage carefully and answer the questions that follow.<br> <div style=\"text-align: justify;\">The Amazon rainforest, often referred to as the \"lungs of the Earth,\" plays a crucial role in regulating the global climate. It absorbs vast amounts of carbon dioxide and produces a significant portion of the world's oxygen. Spanning over nine countries in South America, it is home to unparalleled biodiversity, containing millions of species of insects, plants, and birds, many of which are still undiscovered by science. However, this vital ecosystem faces severe threats from deforestation, primarily driven by logging, agriculture, and cattle ranching. The loss of tree cover not only destroys habitats but also releases stored carbon back into the atmosphere, accelerating global warming. Conservation efforts and sustainable policies are urgently needed to protect the Amazon from irreversible damage, as its survival is inextricably linked to the health of our entire planet.</div><br>Select the word from the passage that is closest in meaning to \"unmatched\" or \"without equal\".",
+    "section": "English",
+    "solution": "<b>Solution (EN):</b> The word 'unparalleled' means having no equal or match, making it the correct choice. 'Crucial' means extremely important, and 'irreversible' means impossible to change back.<br><b>Solution (HI):</b> 'Unparalleled' का अर्थ है अद्वितीय या जिसके समान कोई दूसरा न हो (unmatched)। इसलिए यह सही विकल्प है।<br><b>Short Trick:</b> Un-parallel means nothing runs parallel to it or matches its level.",
+    "topic": "Reading Comprehension"
+  },
+  {
+    "ans": 3,
+    "difficulty": "Easy",
+    "op_en": [
+      "Climate change",
+      "Discovery of new species",
+      "Logging, agriculture, and cattle ranching",
+      "Natural forest fires"
+    ],
+    "op_hi": [
+      "Climate change",
+      "Discovery of new species",
+      "Logging, agriculture, and cattle ranching",
+      "Natural forest fires"
+    ],
+    "q_en": "<b>Comprehension:</b><br>Read the given passage carefully and answer the questions that follow.<br> <div style=\"text-align: justify;\">The Amazon rainforest, often referred to as the \"lungs of the Earth,\" plays a crucial role in regulating the global climate. It absorbs vast amounts of carbon dioxide and produces a significant portion of the world's oxygen. Spanning over nine countries in South America, it is home to unparalleled biodiversity, containing millions of species of insects, plants, and birds, many of which are still undiscovered by science. However, this vital ecosystem faces severe threats from deforestation, primarily driven by logging, agriculture, and cattle ranching. The loss of tree cover not only destroys habitats but also releases stored carbon back into the atmosphere, accelerating global warming. Conservation efforts and sustainable policies are urgently needed to protect the Amazon from irreversible damage, as its survival is inextricably linked to the health of our entire planet.</div><br>According to the passage, what is the primary driver of deforestation in the Amazon?",
+    "q_hi": "<b>Comprehension:</b><br>Read the given passage carefully and answer the questions that follow.<br> <div style=\"text-align: justify;\">The Amazon rainforest, often referred to as the \"lungs of the Earth,\" plays a crucial role in regulating the global climate. It absorbs vast amounts of carbon dioxide and produces a significant portion of the world's oxygen. Spanning over nine countries in South America, it is home to unparalleled biodiversity, containing millions of species of insects, plants, and birds, many of which are still undiscovered by science. However, this vital ecosystem faces severe threats from deforestation, primarily driven by logging, agriculture, and cattle ranching. The loss of tree cover not only destroys habitats but also releases stored carbon back into the atmosphere, accelerating global warming. Conservation efforts and sustainable policies are urgently needed to protect the Amazon from irreversible damage, as its survival is inextricably linked to the health of our entire planet.</div><br>According to the passage, what is the primary driver of deforestation in the Amazon?",
+    "section": "English",
+    "solution": "<b>Solution (EN):</b> The text explicitly states that deforestation is \"primarily driven by logging, agriculture, and cattle ranching.\"<br><b>Solution (HI):</b> गद्यांश में स्पष्ट रूप से बताया गया है कि वनों की कटाई मुख्य रूप से \"logging, agriculture, and cattle ranching\" (लकड़ी कटाई, कृषि और पशुपालन) के कारण होती है।<br><b>Short Trick:</b> Scan for the word \"driven by\" directly after mentioning deforestation.",
+    "topic": "Reading Comprehension"
+  },
+  {
+    "ans": 2,
+    "difficulty": "Medium",
+    "op_en": [
+      "New plant species grow rapidly",
+      "Stored carbon is released into the atmosphere",
+      "The climate becomes colder",
+      "Biodiversity increases"
+    ],
+    "op_hi": [
+      "New plant species grow rapidly",
+      "Stored carbon is released into the atmosphere",
+      "The climate becomes colder",
+      "Biodiversity increases"
+    ],
+    "q_en": "<b>Comprehension:</b><br>Read the given passage carefully and answer the questions that follow.<br> <div style=\"text-align: justify;\">The Amazon rainforest, often referred to as the \"lungs of the Earth,\" plays a crucial role in regulating the global climate. It absorbs vast amounts of carbon dioxide and produces a significant portion of the world's oxygen. Spanning over nine countries in South America, it is home to unparalleled biodiversity, containing millions of species of insects, plants, and birds, many of which are still undiscovered by science. However, this vital ecosystem faces severe threats from deforestation, primarily driven by logging, agriculture, and cattle ranching. The loss of tree cover not only destroys habitats but also releases stored carbon back into the atmosphere, accelerating global warming. Conservation efforts and sustainable policies are urgently needed to protect the Amazon from irreversible damage, as its survival is inextricably linked to the health of our entire planet.</div><br>According to the passage, what happens when the tree cover in the Amazon is lost?",
+    "q_hi": "<b>Comprehension:</b><br>Read the given passage carefully and answer the questions that follow.<br> <div style=\"text-align: justify;\">The Amazon rainforest, often referred to as the \"lungs of the Earth,\" plays a crucial role in regulating the global climate. It absorbs vast amounts of carbon dioxide and produces a significant portion of the world's oxygen. Spanning over nine countries in South America, it is home to unparalleled biodiversity, containing millions of species of insects, plants, and birds, many of which are still undiscovered by science. However, this vital ecosystem faces severe threats from deforestation, primarily driven by logging, agriculture, and cattle ranching. The loss of tree cover not only destroys habitats but also releases stored carbon back into the atmosphere, accelerating global warming. Conservation efforts and sustainable policies are urgently needed to protect the Amazon from irreversible damage, as its survival is inextricably linked to the health of our entire planet.</div><br>According to the passage, what happens when the tree cover in the Amazon is lost?",
+    "section": "English",
+    "solution": "<b>Solution (EN):</b> The passage notes that \"The loss of tree cover not only destroys habitats but also releases stored carbon back into the atmosphere.\" Therefore, option 2 is correct.<br><b>Solution (HI):</b> गद्यांश में कहा गया है कि पेड़ों के नष्ट होने से न केवल आवास नष्ट होते हैं बल्कि जमा हुआ कार्बन (stored carbon) वापस वायुमंडल में मिल जाता है। इसलिए विकल्प 2 सही है।<br><b>Short Trick:</b> Match the keyword \"loss of tree cover\" to the consequence in the passage to find the answer directly.",
+    "topic": "Reading Comprehension"
+  }
+]
