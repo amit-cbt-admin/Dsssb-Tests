@@ -1,0 +1,212 @@
+[
+  {
+    "ans": 3,
+    "difficulty": "High",
+    "op_en": [
+      "6 days",
+      "8 days",
+      "9 days",
+      "10 days"
+    ],
+    "op_hi": [
+      "6 दिन",
+      "8 दिन",
+      "9 दिन",
+      "10 दिन"
+    ],
+    "q_en": "A and B can complete a work in 12 days and 18 days respectively. They begin to work together but A leaves 3 days before the completion of the work. Find the total number of days taken to complete the work.",
+    "q_hi": "A और B किसी कार्य को क्रमशः 12 दिन और 18 दिन में पूरा कर सकते हैं। वे एक साथ कार्य शुरू करते हैं लेकिन कार्य पूरा होने से 3 दिन पहले A कार्य छोड़ देता है। कार्य पूरा होने में लगा कुल समय ज्ञात कीजिए।",
+    "section": "Arithmetic1",
+    "solution": "<b>Solution (EN):</b> Let total work be LCM of 12 and 18 = 36 units. Efficiency of A = 3 units/day, B = 2 units/day. Let total days be x. B worked for x days and A worked for (x - 3) days. So, 3(x - 3) + 2x = 36. 3x - 9 + 2x = 36 => 5x = 45 => x = 9 days.<br><b>Solution (HI):</b> माना कुल कार्य 12 और 18 का LCM = 36 यूनिट है। A की क्षमता = 3 यूनिट/दिन, B = 2 यूनिट/दिन। माना कुल दिन x लगे। B ने पूरे x दिन काम किया, जबकि A ने (x - 3) दिन। अतः, 3(x - 3) + 2x = 36. 5x = 45 => x = 9 दिन।<br><b>Short Trick:</b> If A didn't leave, he would do 3 &times; 3 = 9 extra units. Total imaginary work = 36 + 9 = 45 units. Now, both work till the end: 45 / (3+2) = 9 days.",
+    "topic": "Time and Work"
+  },
+  {
+    "ans": 3,
+    "difficulty": "High",
+    "op_en": [
+      "30%",
+      "35%",
+      "37.5%",
+      "40%"
+    ],
+    "op_hi": [
+      "30%",
+      "35%",
+      "37.5%",
+      "40%"
+    ],
+    "q_en": "A dishonest dealer promises to sell his goods at 10% profit but uses a false weight of 800 grams instead of 1 kg. Find his actual profit percentage.",
+    "q_hi": "एक बेईमान व्यापारी अपने माल को 10% लाभ पर बेचने का दावा करता है, लेकिन वह 1 किलो के स्थान पर 800 ग्राम के गलत वजन का उपयोग करता है। उसका वास्तविक लाभ प्रतिशत ज्ञात कीजिए।",
+    "section": "Arithmetic1",
+    "solution": "<b>Solution (EN):</b> Let Cost Price of 1 gram = Rs 1. CP of 800g (actual goods given) = Rs 800. He claims to sell 1000g at 10% profit, so Selling Price = 1000 + 10% of 1000 = Rs 1100. Profit = 1100 - 800 = Rs 300. Profit % = (300 / 800) &times; 100 = 37.5%.<br><b>Solution (HI):</b> माना 1 ग्राम का क्रय मूल्य = 1 रुपये। 800 ग्राम का क्रय मूल्य (जो उसने असल में दिया) = 800 रुपये। वह 1000 ग्राम को 10% लाभ पर बेचने का दावा करता है, अतः विक्रय मूल्य = 1000 + 100 = 1100 रुपये। लाभ = 1100 - 800 = 300 रुपये। लाभ % = (300 / 800) &times; 100 = 37.5%.<br><b>Short Trick:</b> SP ratio = 110 (profit claim), CP ratio = 80 (weight given). Profit = (110 - 80)/80 &times; 100 = 30/80 &times; 100 = 37.5%.",
+    "topic": "Profit and Loss"
+  },
+  {
+    "ans": 2,
+    "difficulty": "Medium",
+    "op_en": [
+      "Rs 4000",
+      "Rs 5000",
+      "Rs 6000",
+      "Rs 5500"
+    ],
+    "op_hi": [
+      "4000 रुपये",
+      "5000 रुपये",
+      "6000 रुपये",
+      "5500 रुपये"
+    ],
+    "q_en": "The compound interest on a certain sum of money for 2 years is Rs 832 and the simple interest on the same sum for the same period at the same rate is Rs 800. Find the sum.",
+    "q_hi": "किसी निश्चित धनराशि पर 2 वर्ष का चक्रवृद्धि ब्याज 832 रुपये है और उसी धनराशि पर उसी अवधि व उसी दर से साधारण ब्याज 800 रुपये है। वह धनराशि ज्ञात कीजिए।",
+    "section": "Arithmetic1",
+    "solution": "<b>Solution (EN):</b> Simple Interest for 1 year = 800 / 2 = Rs 400. Difference between CI and SI = 832 - 800 = Rs 32. This Rs 32 is the interest earned on Rs 400 in the second year. Rate = (32 / 400) &times; 100 = 8%. Sum = (SI &times; 100) / (R &times; T) = (800 &times; 100) / (8 &times; 2) = Rs 5000.<br><b>Solution (HI):</b> 1 वर्ष का साधारण ब्याज = 800 / 2 = 400 रुपये। CI और SI में अंतर = 832 - 800 = 32 रुपये। यह 32 रुपये दूसरे वर्ष में 400 रुपये पर मिला ब्याज है। दर = (32 / 400) &times; 100 = 8%. मूलधन = (साधारण ब्याज &times; 100) / (दर &times; समय) = (800 &times; 100) / (8 &times; 2) = 5000 रुपये।<br><b>Short Trick:</b> Rate = (Difference / 1 yr SI) &times; 100 = (32/400) &times; 100 = 8%. Principal = 400 / 8% = 5000.",
+    "topic": "Compound Interest"
+  },
+  {
+    "ans": 2,
+    "difficulty": "High",
+    "op_en": [
+      "5:8",
+      "7:8",
+      "8:7",
+      "3:4"
+    ],
+    "op_hi": [
+      "5:8",
+      "7:8",
+      "8:7",
+      "3:4"
+    ],
+    "q_en": "Two vessels A and B contain acid and water in the ratio 4:3 and 5:3 respectively. In what ratio should these mixtures be mixed to form a new mixture containing acid and water in the ratio 3:2?",
+    "q_hi": "दो बर्तनों A और B में अम्ल और पानी का अनुपात क्रमशः 4:3 और 5:3 है। इन मिश्रणों को किस अनुपात में मिलाया जाना चाहिए ताकि नए मिश्रण में अम्ल और पानी का अनुपात 3:2 हो जाए?",
+    "section": "Arithmetic1",
+    "solution": "<b>Solution (EN):</b> Concentration of acid in A = 4/7. Concentration of acid in B = 5/8. Required concentration = 3/5. Using Alligation Rule: Part of A / Part of B = (5/8 - 3/5) / (3/5 - 4/7) = (25-24)/40 / (21-20)/35 = (1/40) / (1/35) = 35/40 = 7/8. So, ratio is 7:8.<br><b>Solution (HI):</b> बर्तन A में अम्ल का भाग = 4/7, बर्तन B में = 5/8. नए मिश्रण में अम्ल = 3/5. मिश्रण के नियम (Alligation) से: (5/8 - 3/5) : (3/5 - 4/7) = (1/40) : (1/35). अनुपात = 35 : 40 = 7:8.<br><b>Short Trick:</b> Make denominators equal. LCM of 7, 8, 5 is 280. A = 160/280, B = 175/280, Mix = 168/280. Alligation on numerators: (175 - 168) : (168 - 160) = 7 : 8.",
+    "topic": "Mixture and Alligation"
+  },
+  {
+    "ans": 3,
+    "difficulty": "Medium",
+    "op_en": [
+      "10 minutes",
+      "12 minutes",
+      "15 minutes",
+      "20 minutes"
+    ],
+    "op_hi": [
+      "10 मिनट",
+      "12 मिनट",
+      "15 मिनट",
+      "20 मिनट"
+    ],
+    "q_en": "Excluding stoppages, the speed of a bus is 60 km/h and including stoppages, it is 45 km/h. For how many minutes does the bus stop per hour?",
+    "q_hi": "रुकने के समय को छोड़कर एक बस की चाल 60 किमी/घंटा है और रुकने के समय को मिलाकर इसकी चाल 45 किमी/घंटा है। बस प्रति घंटे कितने मिनट रुकती है?",
+    "section": "Arithmetic1",
+    "solution": "<b>Solution (EN):</b> Drop in speed due to stoppage = 60 - 45 = 15 km/h. Stoppage time per hour = (Drop in speed / Speed without stoppage) &times; 60 minutes = (15 / 60) &times; 60 = 15 minutes.<br><b>Solution (HI):</b> रुकने के कारण चाल में कमी = 60 - 45 = 15 किमी/घंटा। प्रति घंटे रुकने का समय = (चाल में कमी / बिना रुके चाल) &times; 60 मिनट = (15 / 60) &times; 60 = 15 मिनट।<br><b>Short Trick:</b> Time = (Fast Speed - Slow Speed) / Fast Speed &times; 60 = (15 / 60) &times; 60 = 15 mins.",
+    "topic": "Time, Speed and Distance"
+  },
+  {
+    "ans": 2,
+    "difficulty": "High",
+    "op_en": [
+      "Rs 10000",
+      "Rs 11200",
+      "Rs 12800",
+      "Rs 15000"
+    ],
+    "op_hi": [
+      "10000 रुपये",
+      "11200 रुपये",
+      "12800 रुपये",
+      "15000 रुपये"
+    ],
+    "q_en": "A and B start a business by investing Rs 50,000 and Rs 40,000 respectively. After 4 months, A withdraws half of his capital and B invests Rs 20,000 more. C joins them with Rs 70,000. At the end of the year, out of a total profit of Rs 32,000, find C's share.",
+    "q_hi": "A और B क्रमशः 50,000 रुपये और 40,000 रुपये का निवेश करके एक व्यवसाय शुरू करते हैं। 4 महीने बाद, A अपनी आधी पूंजी निकाल लेता है और B 20,000 रुपये अधिक निवेश करता है। C 70,000 रुपये के साथ उनके साथ जुड़ता है। वर्ष के अंत में 32,000 रुपये के कुल लाभ में से C का हिस्सा ज्ञात कीजिए।",
+    "section": "Arithmetic1",
+    "solution": "<b>Solution (EN):</b> Effective investment of A = (50 &times; 4) + (25 &times; 8) = 200 + 200 = 400. Effective B = (40 &times; 4) + (60 &times; 8) = 160 + 480 = 640. Effective C (invested for 8 months) = 70 &times; 8 = 560. Profit ratio = 400 : 640 : 560 = 40 : 64 : 56 = 5 : 8 : 7. Total ratio = 20 units. C's share = (7 / 20) &times; 32000 = Rs 11200.<br><b>Solution (HI):</b> A का निवेश = (50 &times; 4) + (25 &times; 8) = 400. B का निवेश = (40 &times; 4) + (60 &times; 8) = 640. C का निवेश (8 माह के लिए) = 70 &times; 8 = 560. लाभ का अनुपात = 400 : 640 : 560 = 5 : 8 : 7. कुल 20 इकाई = 32000. C का हिस्सा = (7 / 20) &times; 32000 = 11200 रुपये।<br><b>Short Trick:</b> Multiply money by time in months. A:B:C = 400:640:560 = 5:8:7. C's share = 7/20 &times; 32000 = 11200.",
+    "topic": "Partnership"
+  },
+  {
+    "ans": 3,
+    "difficulty": "Medium",
+    "op_en": [
+      "76 kg",
+      "80 kg",
+      "85 kg",
+      "90 kg"
+    ],
+    "op_hi": [
+      "76 किग्रा",
+      "80 किग्रा",
+      "85 किग्रा",
+      "90 किग्रा"
+    ],
+    "q_en": "The average weight of 8 persons increases by 2.5 kg when a new person comes in place of one of them weighing 65 kg. What is the weight of the new person?",
+    "q_hi": "8 व्यक्तियों के औसत वजन में 2.5 किग्रा की वृद्धि हो जाती है जब उनमें से 65 किग्रा वजन वाले एक व्यक्ति के स्थान पर एक नया व्यक्ति आ जाता है। नए व्यक्ति का वजन क्या है?",
+    "section": "Arithmetic1",
+    "solution": "<b>Solution (EN):</b> Total increase in weight = 8 persons &times; 2.5 kg = 20 kg. This means the new person brings 20 kg more than the person who left. Weight of new person = 65 kg + 20 kg = 85 kg.<br><b>Solution (HI):</b> वजन में कुल वृद्धि = 8 व्यक्ति &times; 2.5 किग्रा = 20 किग्रा। इसका अर्थ है कि नया व्यक्ति जाने वाले व्यक्ति से 20 किग्रा अधिक भारी है। नए व्यक्ति का वजन = 65 + 20 = 85 किग्रा।<br><b>Short Trick:</b> New Weight = Replaced Weight + (Total Members &times; Increase) = 65 + (8 &times; 2.5) = 65 + 20 = 85 kg.",
+    "topic": "Average"
+  },
+  {
+    "ans": 2,
+    "difficulty": "High",
+    "op_en": [
+      "20000",
+      "25000",
+      "30000",
+      "40000"
+    ],
+    "op_hi": [
+      "20000",
+      "25000",
+      "30000",
+      "40000"
+    ],
+    "q_en": "In an election, 10% of voters did not cast their vote and 10% of the cast votes were found invalid. The winning candidate got 54% of the valid votes and won by a majority of 1620 votes. Find the total number of voters enrolled in the voter list.",
+    "q_hi": "एक चुनाव में 10% मतदाताओं ने अपना वोट नहीं डाला और डाले गए मतों में से 10% अवैध पाए गए। जीतने वाले उम्मीदवार को वैध मतों का 54% प्राप्त हुआ और वह 1620 मतों के बहुमत से जीता। मतदाता सूची में नामांकित मतदाताओं की कुल संख्या ज्ञात कीजिए।",
+    "section": "Arithmetic1",
+    "solution": "<b>Solution (EN):</b> Let total voters be 100x. Votes cast = 90x. Valid votes = 90% of 90x = 81x. Winner gets 54% of valid votes, so loser gets 46%. Majority = 54% - 46% = 8% of valid votes. 8% of 81x = 1620 => (8/100) &times; 81x = 1620 => x = 162000 / 648 = 250. Total voters = 100x = 25000.<br><b>Solution (HI):</b> माना कुल मतदाता = 100x. डाले गए मत = 90x. वैध मत = 90x का 90% = 81x. विजेता को 54% मिले, हारने वाले को 46%। अंतर = 8%. वैध मतों का 8% = 1620 => 81x का 8% = 1620 => x = 250. कुल मतदाता = 25000.<br><b>Short Trick:</b> V &times; (90/100) &times; (90/100) &times; (8/100) = 1620 => V = (1620 &times; 1000000) / 64800 = 25000.",
+    "topic": "Percentage"
+  },
+  {
+    "ans": 2,
+    "difficulty": "Medium",
+    "op_en": [
+      "6 km/h",
+      "9 km/h",
+      "12 km/h",
+      "15 km/h"
+    ],
+    "op_hi": [
+      "6 किमी/घंटा",
+      "9 किमी/घंटा",
+      "12 किमी/घंटा",
+      "15 किमी/घंटा"
+    ],
+    "q_en": "A boat takes twice as long to row a distance upstream as to row the same distance downstream. If the speed of the stream is 3 km/h, find the speed of the boat in still water.",
+    "q_hi": "एक नाव को धारा के प्रतिकूल एक निश्चित दूरी तय करने में, उसी दूरी को धारा के अनुकूल तय करने में लगने वाले समय का दोगुना समय लगता है। यदि धारा की चाल 3 किमी/घंटा है, तो शांत जल में नाव की चाल ज्ञात कीजिए।",
+    "section": "Arithmetic1",
+    "solution": "<b>Solution (EN):</b> Time upstream = 2 &times; Time downstream. So, Speed downstream = 2 &times; Speed upstream. Let boat speed be B and stream be S (S=3). (B + 3) = 2 &times; (B - 3). B + 3 = 2B - 6 => B = 9 km/h.<br><b>Solution (HI):</b> प्रतिकूल समय = 2 &times; अनुकूल समय। अतः, अनुकूल चाल = 2 &times; प्रतिकूल चाल। माना नाव की चाल B है। (B + 3) = 2 &times; (B - 3). B + 3 = 2B - 6 => B = 9 किमी/घंटा।<br><b>Short Trick:</b> B/S = (Time up + Time down) / (Time up - Time down) = (2 + 1) / (2 - 1) = 3 / 1. Since S = 3, B = 3 &times; 3 = 9 km/h.",
+    "topic": "Boat and Stream"
+  },
+  {
+    "ans": 2,
+    "difficulty": "High",
+    "op_en": [
+      "8240",
+      "8640",
+      "9000",
+      "9600"
+    ],
+    "op_hi": [
+      "8240",
+      "8640",
+      "9000",
+      "9600"
+    ],
+    "q_en": "A leak in the bottom of a tank can empty the full tank in 8 hours. An inlet pipe fills water at the rate of 6 liters per minute. When the tank is full, the inlet is opened and due to the leak, the tank is emptied in 12 hours. How many liters does the tank hold?",
+    "q_hi": "एक टंकी के तल में रिसाव होने के कारण भरी हुई टंकी 8 घंटे में खाली हो जाती है। एक इनलेट (भरने वाला) पाइप 6 लीटर प्रति मिनट की दर से पानी भरता है। जब टंकी भर जाती है, तो इनलेट को खोल दिया जाता है और रिसाव के कारण टंकी 12 घंटे में खाली हो जाती है। टंकी की क्षमता (लीटर में) ज्ञात कीजिए।",
+    "section": "Arithmetic1",
+    "solution": "<b>Solution (EN):</b> Leak alone empties in 8 hours (-1/8). Let inlet pipe alone fill in x hours (+1/x). Together, they empty the tank in 12 hours (-1/12). So, 1/x - 1/8 = -1/12 => 1/x = 1/8 - 1/12 = 1/24. Inlet pipe fills the tank in 24 hours. Capacity = Time &times; Rate = 24 hours &times; 60 minutes &times; 6 liters/min = 8640 liters.<br><b>Solution (HI):</b> रिसाव टंकी को 8 घंटे में खाली करता है (-1/8)। माना इनलेट पाइप इसे x घंटे में भरता है (+1/x)। एक साथ वे 12 घंटे में खाली करते हैं (-1/12)। 1/x - 1/8 = -1/12 => 1/x = 1/24. इनलेट पाइप 24 घंटे में भरता है। क्षमता = 24 &times; 60 मिनट &times; 6 लीटर/मिनट = 8640 लीटर।<br><b>Short Trick:</b> Time taken by inlet = (8 &times; 12) / (12 - 8) = 96 / 4 = 24 hours. Capacity = 24 &times; 60 &times; 6 = 8640 Liters.",
+    "topic": "Pipes and Cisterns"
+  }
+]
