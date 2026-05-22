@@ -1,0 +1,212 @@
+[
+  {
+    "ans": 1,
+    "difficulty": "Medium",
+    "op_en": [
+      "Article 216",
+      "Article 111",
+      "Article 226",
+      "Article 124"
+    ],
+    "op_hi": [
+      "अनुच्छेद 216",
+      "अनुच्छेद 111",
+      "अनुच्छेद 226",
+      "अनुच्छेद 124"
+    ],
+    "q_en": "Which article in the Indian Constitution relates to the composition of High Courts?",
+    "q_hi": "भारतीय संविधान में कौन-सा अनुच्छेद, उच्च न्यायालयों की संरचना से संबंधित है?",
+    "section": "General Knowledge Including Current Affairs1",
+    "solution": "<b>Solution (EN):</b> Article 216 of the Indian Constitution states that every High Court shall consist of a Chief Justice and such other Judges as the President may from time to time deem it necessary to appoint. <br><b>Solution (HI):</b> भारतीय संविधान के अनुच्छेद 216 में यह प्रावधान है कि प्रत्येक उच्च न्यायालय में एक मुख्य न्यायाधीश और ऐसे अन्य न्यायाधीश होंगे जिन्हें राष्ट्रपति समय-समय पर नियुक्त करना आवश्यक समझे। <br><b>Short Trick:</b> HC Structure = Art 216",
+    "topic": "Indian Constitution - Judiciary"
+  },
+  {
+    "ans": 4,
+    "difficulty": "Medium",
+    "op_en": [
+      "Article 110 to 115",
+      "Article 220 to 222",
+      "Article 219 to 220",
+      "Article 233 to 237"
+    ],
+    "op_hi": [
+      "अनुच्छेद 110 से 115",
+      "अनुच्छेद 220 से 222",
+      "अनुच्छेद 219 से 220",
+      "अनुच्छेद 233 से 237"
+    ],
+    "q_en": "Which articles in the Indian Constitution relate to subordinate courts?",
+    "q_hi": "भारतीय संविधान में कौन-से अनुच्छेद अधीनस्थ न्यायालयों से संबंधित हैं?",
+    "section": "General Knowledge Including Current Affairs1",
+    "solution": "<b>Solution (EN):</b> Articles 233 to 237 in Part VI of the Constitution deal with the organization and jurisdiction of subordinate courts. <br><b>Solution (HI):</b> संविधान के भाग VI में अनुच्छेद 233 से 237 तक के प्रावधान अधीनस्थ न्यायालयों के संगठन और कार्यप्रणाली से संबंधित हैं। <br><b>Short Trick:</b> Subordinate Courts = 233-237",
+    "topic": "Indian Constitution - Judiciary"
+  },
+  {
+    "ans": 2,
+    "difficulty": "Easy",
+    "op_en": [
+      "James Andrew Dalhousie",
+      "Warren Hastings",
+      "Ramsay MacDonald",
+      "Edwin Samuel Montagu"
+    ],
+    "op_hi": [
+      "जेम्स एंड्रयू डलहौजी (James Andrew Dalhousie)",
+      "वारेन हेस्टिंग्स (Warren Hastings)",
+      "रामसे मैकडोनाल्ड (Ramsay MacDonald)",
+      "एडविन सैमुअल मोंटेग्यू (Edwin Samuel Montagu)"
+    ],
+    "q_en": "Under the Regulating Act of 1773, who among the following was appointed as the first Governor-General of Bengal?",
+    "q_hi": "1773 के रेग्युलेटिंग एक्ट के अंतर्गत, निम्नलिखित में से किसे बंगाल का प्रथम गवर्नर-जनरल नियुक्त किया गया था?",
+    "section": "General Knowledge Including Current Affairs1",
+    "solution": "<b>Solution (EN):</b> Warren Hastings was appointed as the first Governor-General of Bengal through the Regulating Act of 1773. <br><b>Solution (HI):</b> वारेन हेस्टिंग्स को 1773 के रेगुलेटिंग एक्ट के तहत बंगाल का पहला गवर्नर-जनरल बनाया गया था। <br><b>Short Trick:</b> 1st GG of Bengal = Hastings",
+    "topic": "Modern History"
+  },
+  {
+    "ans": 4,
+    "difficulty": "Medium",
+    "op_en": [
+      "Capillaries",
+      "Veins",
+      "Cartilage",
+      "Alveoli"
+    ],
+    "op_hi": [
+      "केशिकाओं (capillaries)",
+      "शिराओं (veins)",
+      "कार्टिलेज (cartilage)",
+      "एल्वियोली (alveoli)"
+    ],
+    "q_en": "The exchange of gases during respiration takes place in ________.",
+    "q_hi": "श्वसन के दौरान गैसों का आदान-प्रदान ________ में होता है।",
+    "section": "General Knowledge Including Current Affairs1",
+    "solution": "<b>Solution (EN):</b> Gas exchange occurs in the alveoli, which are tiny air sacs in the lungs where oxygen enters the blood and carbon dioxide is removed. <br><b>Solution (HI):</b> गैसों का आदान-प्रदान एल्वियोली (कूपिकाओं) में होता है, जो फेफड़ों के अंदर अंगूर के गुच्छों जैसी सूक्ष्म संरचनाएं होती हैं। <br><b>Short Trick:</b> Exchange = Alveoli",
+    "topic": "Biology - Respiration"
+  },
+  {
+    "ans": 4,
+    "difficulty": "Easy",
+    "op_en": [
+      "Federal Government",
+      "Central Authority",
+      "Inter-governmental",
+      "Union Government"
+    ],
+    "op_hi": [
+      "संघीय सरकार",
+      "केंद्रीय सत्ता",
+      "अंतर-सरकारी",
+      "केंद्र सरकार"
+    ],
+    "q_en": "Which of the following terms is used to refer to the government system at the central level in India?",
+    "q_hi": "निम्नलिखित में से कौन-सा शब्द, भारत में केंद्रीय स्तर पर सरकारी कार्यपद्धति को संदर्भित करने के लिए उपयोग किया जाता है?",
+    "section": "General Knowledge Including Current Affairs1",
+    "solution": "<b>Solution (EN):</b> The 'Union Government' or 'Central Government' is the common term used for the administrative authority over the entire country at the federal level. <br><b>Solution (HI):</b> भारत में केंद्रीय स्तर की सरकार को आधिकारिक तौर पर 'संघ सरकार' (Union Government) या सामान्यतः 'केंद्र सरकार' कहा जाता है। <br><b>Short Trick:</b> Central Level = Union/Central Govt",
+    "topic": "Polity - Governance"
+  },
+  {
+    "ans": 2,
+    "difficulty": "Medium",
+    "op_en": [
+      "Fit India Campaign Relaunch",
+      "National Sports Policy (NSP) 2025",
+      "National Sports Festival 2025",
+      "Sports Infrastructure Act 2025"
+    ],
+    "op_hi": [
+      "फिट इंडिया कैंपेन रिलॉन्च",
+      "राष्ट्रीय खेल नीति (NSP) 2025",
+      "राष्ट्रीय खेल महोत्सव 2025",
+      "खेल अवसंरचना अधिनियम 2025"
+    ],
+    "q_en": "What was the major policy approved by the Union Cabinet on July 1, 2025, aimed at reshaping India's sports landscape?",
+    "q_hi": "1 जुलाई 2025 को केंद्रीय मंत्रिमंडल द्वारा अनुमोदित प्रमुख नीति क्या थी, जिसका उद्देश्य भारत के खेल परिदृश्य को नया आकार देना है?",
+    "section": "General Knowledge Including Current Affairs1",
+    "solution": "<b>Solution (EN):</b> The National Sports Policy (NSP) 2025 was approved to modernize sports administration, infrastructure, and talent identification in India. <br><b>Solution (HI):</b> राष्ट्रीय खेल नीति (NSP) 2025 को भारत में खेल प्रशासन और बुनियादी ढांचे को आधुनिक बनाने के उद्देश्य से मंजूरी दी गई थी। <br><b>Short Trick:</b> Sports Reform 2025 = NSP 2025",
+    "topic": "Current Affairs - Sports"
+  },
+  {
+    "ans": 2,
+    "difficulty": "Easy",
+    "op_en": [
+      "Spanish Constitution",
+      "Irish Constitution",
+      "French Constitution",
+      "British Constitution"
+    ],
+    "op_hi": [
+      "स्पेन के संविधान",
+      "आयरलैंड के संविधान",
+      "फ्रांस के संविधान",
+      "ब्रिटिश संविधान"
+    ],
+    "q_en": "From which country's constitution were the Directive Principles of State Policy taken in the Indian Constitution?",
+    "q_hi": "भारतीय संविधान में राज्य के नीति निर्देशक तत्व किस देश के संविधान से लिए गए हैं?",
+    "section": "General Knowledge Including Current Affairs1",
+    "solution": "<b>Solution (EN):</b> The Directive Principles of State Policy (DPSP) in Part IV of the Indian Constitution were borrowed from the Constitution of Ireland. <br><b>Solution (HI):</b> भारतीय संविधान के भाग IV में शामिल राज्य के नीति निर्देशक तत्व (DPSP) आयरलैंड के संविधान से प्रेरित हैं। <br><b>Short Trick:</b> DPSP = Ireland",
+    "topic": "Indian Constitution - Sources"
+  },
+  {
+    "ans": 1,
+    "difficulty": "Medium",
+    "op_en": [
+      "Iris",
+      "Cornea",
+      "Retina",
+      "Lens"
+    ],
+    "op_hi": [
+      "आइरिस (Iris)",
+      "कॉर्निया (Cornea)",
+      "रेटिना (Retina)",
+      "लेंस (Lens)"
+    ],
+    "q_en": "Which part of the eye adjusts the size of the pupil to control the amount of light entering the eye?",
+    "q_hi": "आँख का कौन-सा भाग, आँख में प्रवेश करने वाले प्रकाश की मात्रा को नियंत्रित करने के लिए पुतली के आकार को समायोजित करता है?",
+    "section": "General Knowledge Including Current Affairs1",
+    "solution": "<b>Solution (EN):</b> The Iris is the dark muscular diaphragm that controls the size of the pupil and thereby regulates the amount of light entering the eye. <br><b>Solution (HI):</b> आइरिस आँख का वह रंगीन और पेशीय भाग है जो पुतली के फैलाव और संकुचन को नियंत्रित करता है ताकि सही मात्रा में प्रकाश रेटिना तक पहुँच सके। <br><b>Short Trick:</b> Light Control = Iris",
+    "topic": "Biology - Sense Organs"
+  },
+  {
+    "ans": 3,
+    "difficulty": "Medium",
+    "op_en": [
+      "A-3, B-4, C-1, D-2",
+      "A-1, B-4, C-2, D-3",
+      "A-2, B-4, C-1, D-3",
+      "A-4, B-3, C-1, D-2"
+    ],
+    "op_hi": [
+      "A-3, B-4, C-1, D-2",
+      "A-1, B-4,C -2, D-3",
+      "A-2, B-4, C-1, D-3",
+      "A-4, B-3, C-1, D-2"
+    ],
+    "q_en": "Match each nutrient with its effect on our body and select the correct option.<br>A. Carbohydrates - 2. Providing energy<br>B. Protein - 4. Repairing our body<br>C. Vitamin - 1. Effective for good skin, eyes and immunity<br>D. Dietary fiber - 3. Helping to get rid of undigested food",
+    "q_hi": "निम्नलिखित प्रत्येक पोषक-तत्व का हमारे शरीर पर पड़ने वाले प्रभाव से सुमेलित करें और सही विकल्प का चयन करें।<br>\n \n<table border=\"0\" cellpadding=\"0\" cellspacing=\"1\" style=\"width:500px;\" width=\"500\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<td>A</td>\n\t\t\t<td>कार्बोहाइड्रेट</td>\n\t\t\t<td>1</td>\n\t\t\t<td>अच्छी त्वचा, नेत्रों और प्रतिरक्षा के लिए प्रभावी</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>B</td>\n\t\t\t<td>प्रोटीन</td>\n\t\t\t<td>2</td>\n\t\t\t<td>ऊर्जा प्रदान करना</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>C</td>\n\t\t\t<td>विटामिन</td>\n\t\t\t<td>3</td>\n\t\t\t<td>अपचित भोजन से मुक्त करने में सहायता करना</td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<td>D</td>\n\t\t\t<td>आहारीय फाइबर</td>\n\t\t\t<td>4</td>\n\t\t\t<td>हमारे शरीर को ठीक (रिपेयर) करना</td>\n\t\t</tr>\n\t</tbody>\n</table>",
+    "section": "General Knowledge Including Current Affairs1",
+    "solution": "<b>Solution (EN):</b> Carbohydrates are energy-giving foods (A-2). Proteins are needed for growth and repair (B-4). Vitamins help protect the body against diseases (C-1). Dietary fibers assist in moving waste through the digestive system (D-3). <br><b>Solution (HI):</b> कार्बोहाइड्रेट ऊर्जा का मुख्य स्रोत हैं (A-2), प्रोटीन ऊतकों की मरम्मत करते हैं (B-4), विटामिन रोगों से सुरक्षा प्रदान करते हैं (C-1), और फाइबर पाचन में सहायक होते हैं (D-3)। <br><b>Short Trick:</b> Carb=Energy, Protein=Repair",
+    "topic": "Biology - Nutrition"
+  },
+  {
+    "ans": 4,
+    "difficulty": "Easy",
+    "op_en": [
+      "Silver",
+      "Copper",
+      "Lead",
+      "Iron"
+    ],
+    "op_hi": [
+      "सिल्वर",
+      "कॉपर",
+      "लीड",
+      "आयरन"
+    ],
+    "q_en": "Which chemical element reacts with oxygen and moisture to form a red substance?",
+    "q_hi": "कौन-सा रासायनिक तत्व, ऑक्सीजन और आर्द्रता के साथ अभिक्रिया करके लाल पदार्थ बनाता है?",
+    "section": "General Knowledge Including Current Affairs1",
+    "solution": "<b>Solution (EN):</b> Iron reacts with oxygen and moisture to form iron oxide, commonly known as rust, which has a reddish-brown color. <br><b>Solution (HI):</b> लोहा (आयरन) जब ऑक्सीजन और नमी के संपर्क में आता है, तो उसमें जंग (Rusting) लगने लगती है, जिससे लाल-भूरे रंग की परत बन जाती है। <br><b>Short Trick:</b> Red substance/Rust = Iron",
+    "topic": "Chemistry - Chemical Reactions"
+  }
+]
