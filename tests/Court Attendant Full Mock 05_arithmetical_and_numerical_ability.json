@@ -1,0 +1,317 @@
+[
+  {
+    "section": "Arithmetical and Numerical Ability",
+    "topic": "HCF and LCM",
+    "difficulty": "Medium",
+    "q_en": "The length of a rectangular courtyard is 15 m 17 cm and the width is 9 m 2 cm. It is to be paved with identical square stones. What should be the minimum number of such stones?",
+    "q_hi": "किसी आयताकार आंगन की लंबाई 15 m 17 cm है और चौड़ाई 9 m 2 cm है। इसे समान वर्गाकार पत्थरों से पक्का करना है। ऐसे पत्थरों की न्यूनतम संख्या कितनी होनी चाहिए?",
+    "op_en": [
+      "814",
+      "764",
+      "782",
+      "754"
+    ],
+    "op_hi": [
+      "814",
+      "764",
+      "782",
+      "754"
+    ],
+    "ans": 1,
+    "solution": "<b>Solution (EN):</b> Length of courtyard = 15 m 17 cm = 1517 cm.<br>Width = 9 m 2 cm = 902 cm.<br>To find the minimum number of identical square stones, we need the maximum possible size of the square stone. This will be the HCF of the length and width.<br>HCF of 1517 and 902 = 41 cm.<br>Side of each square stone = 41 cm.<br>Minimum number of stones required = (Area of courtyard) &divide; (Area of one square stone)<br>= (1517 &times; 902) &divide; (41 &times; 41) = 37 &times; 22 = 814.<br><b>Solution (HI):</b> आंगन की लंबाई = 15 m 17 cm = 1517 cm.<br>चौड़ाई = 9 m 2 cm = 902 cm.<br>समान वर्गाकार पत्थरों की न्यूनतम संख्या ज्ञात करने के लिए, हमें वर्गाकार पत्थर का अधिकतम संभव आकार चाहिए। यह लंबाई और चौड़ाई का HCF (म.स.प.) होगा।<br>1517 और 902 का HCF = 41 cm.<br>प्रत्येक वर्गाकार पत्थर की भुजा = 41 cm.<br>आवश्यक पत्थरों की न्यूनतम संख्या = (आंगन का क्षेत्रफल) &divide; (एक वर्गाकार पत्थर का क्षेत्रफल)<br>= (1517 &times; 902) &divide; (41 &times; 41) = 37 &times; 22 = 814.<br><b>Short Trick:</b> HCF of (1517, 902) = 41. Number of stones = (1517 &divide; 41) &times; (902 &divide; 41) = 37 &times; 22 = 814."
+  },
+  {
+    "section": "Arithmetical and Numerical Ability",
+    "topic": "Mixture and Alligation",
+    "difficulty": "Medium",
+    "q_en": "Two chemical solutions, X with 40% concentration and Y with 70% concentration, are mixed in the ratio 2:3. What is the concentration of the final mixture?",
+    "q_hi": "दो रासायनिक विलयन, 40% सांद्रता वाले X और 70% सांद्रता वाले Y को 2:3 के अनुपात में मिलाया जाता है। अंतिम मिश्रण की सांद्रता कितनी है?",
+    "op_en": [
+      "60%",
+      "58%",
+      "52%",
+      "55%"
+    ],
+    "op_hi": [
+      "60%",
+      "58%",
+      "52%",
+      "55%"
+    ],
+    "ans": 2,
+    "solution": "<b>Solution (EN):</b> Let the quantities of solutions X and Y be 2k and 3k respectively.<br>Concentration of X = 40%, Concentration of Y = 70%.<br>Total concentration in final mixture = [(40 &times; 2) + (70 &times; 3)] &divide; (2 + 3)<br>= (80 + 210) &divide; 5 = 290 &divide; 5 = 58%.<br><b>Solution (HI):</b> माना विलयन X और Y की मात्रा क्रमशः 2k और 3k है।<br>X की सांद्रता = 40%, Y की सांद्रता = 70%.<br>अंतिम मिश्रण में कुल सांद्रता = [(40 &times; 2) + (70 &times; 3)] &divide; (2 + 3)<br>= (80 + 210) &divide; 5 = 290 &divide; 5 = 58%.<br><b>Short Trick:</b> Weighted average: (40 &times; 2 + 70 &times; 3) &divide; 5 = 290 &divide; 5 = 58%."
+  },
+  {
+    "section": "Arithmetical and Numerical Ability",
+    "topic": "Average",
+    "difficulty": "Hard",
+    "q_en": "In Department A, there are 40 employees with an average age of 36 years. In Department B, there are 60 employees whose average age is 42 years. The average age of Department C is 30 years. If the combined average age of all three departments is 38 years, then what is the number of employees in Department C?",
+    "q_hi": "विभाग A में, 36 वर्ष औसत आयु वाले 40 कर्मचारी हैं। विभाग B में, 60 कर्मचारी हैं जिनकी औसत आयु 42 वर्ष है। विभाग C की औसत आयु 30 वर्ष है। यदि तीनों विभागों की संयुक्त औसत आयु 38 वर्ष है, तो विभाग C में कर्मचारियों की संख्या कितनी है?",
+    "op_en": [
+      "20",
+      "30",
+      "15",
+      "25"
+    ],
+    "op_hi": [
+      "20",
+      "30",
+      "15",
+      "25"
+    ],
+    "ans": 1,
+    "solution": "<b>Solution (EN):</b> Total age of employees in Dept A = 40 &times; 36 = 1440 years.<br>Total age of employees in Dept B = 60 &times; 42 = 2520 years.<br>Let the number of employees in Dept C be x. Total age = 30 &times; x = 30x.<br>Combined average age = 38 years.<br>Therefore, (1440 + 2520 + 30x) &divide; (40 + 60 + x) = 38<br>3960 + 30x = 38 &times; (100 + x)<br>3960 + 30x = 3800 + 38x<br>8x = 160 &rArr; x = 20.<br><b>Solution (HI):</b> विभाग A में कर्मचारियों की कुल आयु = 40 &times; 36 = 1440 वर्ष।<br>विभाग B में कर्मचारियों की कुल आयु = 60 &times; 42 = 2520 वर्ष।<br>माना विभाग C में कर्मचारियों की संख्या x है। कुल आयु = 30 &times; x = 30x.<br>संयुक्त औसत आयु = 38 वर्ष।<br>इसलिए, (1440 + 2520 + 30x) &divide; (40 + 60 + x) = 38<br>3960 + 30x = 38 &times; (100 + x)<br>3960 + 30x = 3800 + 38x<br>8x = 160 &rArr; x = 20.<br><b>Short Trick:</b> Use deviation method: Dept A deviation = 40 &times; (36 - 38) = -80. Dept B deviation = 60 &times; (42 - 38) = +240. Net deviation so far = +160. To make overall deviation 0, Dept C deviation must be -160. Dept C deviation = x &times; (30 - 38) = -8x. So, -8x = -160 &rArr; x = 20."
+  },
+  {
+    "section": "Arithmetical and Numerical Ability",
+    "topic": "Simplification",
+    "difficulty": "Medium",
+    "q_en": "Find the simplified value of 180 - 25 &times; (17 + 8) + 89.",
+    "q_hi": "180 - 25 &times; (17 + 8) + 89 का सरलीकृत मान ज्ञात कीजिए।",
+    "op_en": [
+      "-346",
+      "-352",
+      "-356",
+      "-361"
+    ],
+    "op_hi": [
+      "-346",
+      "-352",
+      "-356",
+      "-361"
+    ],
+    "ans": 3,
+    "solution": "<b>Solution (EN):</b> Using BODMAS rule, first solve the bracket:<br>180 - 25 &times; (17 + 8) + 89<br>= 180 - 25 &times; 25 + 89<br>= 180 - 625 + 89<br>= 269 - 625<br>= -356.<br><b>Solution (HI):</b> BODMAS नियम का उपयोग करते हुए, सबसे पहले कोष्ठक (bracket) को हल करें:<br>180 - 25 &times; (17 + 8) + 89<br>= 180 - 25 &times; 25 + 89<br>= 180 - 625 + 89<br>= 269 - 625<br>= -356.<br><b>Short Trick:</b> 180 - (25 &times; 25) + 89 = 180 - 625 + 89 = 269 - 625 = -356."
+  },
+  {
+    "section": "Arithmetical and Numerical Ability",
+    "topic": "Compound Interest",
+    "difficulty": "Hard",
+    "q_en": "Vipul invested &#8377;51,500 in a bank. How much compound interest (in &#8377;) will he earn in two years, compounded annually, if the interest rate was 10% per annum in the first year and 4% more than that in the second year?",
+    "q_hi": "विपुल ने किसी बैंक में &#8377;51,500 का निवेश किया। दो वर्षों में, वार्षिक चक्रवृद्धि के साथ उसे कितना चक्रवृद्धि ब्याज (&#8377; में) अर्जित होगा, यदि ब्याज दर पहले वर्ष में 10% वार्षिक थी और दूसरे वर्ष में यह दर उससे 4% अधिक थी?",
+    "op_en": [
+      "13,331",
+      "12,881",
+      "12,731",
+      "13,081"
+    ],
+    "op_hi": [
+      "13,331",
+      "12,881",
+      "12,731",
+      "13,081"
+    ],
+    "ans": 4,
+    "solution": "<b>Solution (EN):</b> Principal (P) = &#8377;51,500.<br>Rate for 1st year (R1) = 10%.<br>Rate for 2nd year (R2) = 10% + 4% = 14%.<br>Effective rate of compound interest for 2 years = R1 + R2 + (R1 &times; R2) &divide; 100<br>= 10 + 14 + (10 &times; 14) &divide; 100 = 24 + 1.4 = 25.4%.<br>Compound Interest = 25.4% of 51,500<br>= (25.4 &divide; 100) &times; 51500 = 13,081.<br><b>Solution (HI):</b> मूलधन (P) = &#8377;51,500.<br>पहले वर्ष के लिए दर (R1) = 10%.<br>दूसरे वर्ष के लिए दर (R2) = 10% + 4% = 14%.<br>2 वर्षों के लिए चक्रवृद्धि ब्याज की प्रभावी दर = R1 + R2 + (R1 &times; R2) &divide; 100<br>= 10 + 14 + (10 &times; 14) &divide; 100 = 24 + 1.4 = 25.4%.<br>चक्रवृद्धि ब्याज = 51,500 का 25.4%<br>= (25.4 &divide; 100) &times; 51500 = 13,081.<br><b>Short Trick:</b> Net CI % = 10 + 14 + (140 &divide; 100) = 25.4%. CI = 51500 &times; 0.254 = 13081."
+  },
+  {
+    "section": "Arithmetical and Numerical Ability",
+    "topic": "Simple Interest",
+    "difficulty": "Medium",
+    "q_en": "On what sum of money (in &#8377;) will &#8377;1,920 be obtained as simple interest in 4 years at the rate of 16% per annum?",
+    "q_hi": "कितनी धनराशि (&#8377; में) पर 16% वार्षिक साधारण ब्याज दर से 4 वर्षों में ब्याज के रूप में &#8377;1,920 प्राप्त होंगे?",
+    "op_en": [
+      "6,000",
+      "1,228.8",
+      "1,500",
+      "3,000"
+    ],
+    "op_hi": [
+      "6,000",
+      "1,228.8",
+      "1,500",
+      "3,000"
+    ],
+    "ans": 4,
+    "solution": "<b>Solution (EN):</b> Simple Interest (SI) = &#8377;1,920.<br>Rate (R) = 16% per annum, Time (T) = 4 years.<br>Formula: SI = (P &times; R &times; T) &divide; 100<br>1920 = (P &times; 16 &times; 4) &divide; 100<br>1920 = (P &times; 64) &divide; 100<br>P = (1920 &times; 100) &divide; 64 = 3000.<br>Therefore, the required sum is &#8377;3,000.<br><b>Solution (HI):</b> साधारण ब्याज (SI) = &#8377;1,920.<br>दर (R) = 16% वार्षिक, समय (T) = 4 वर्ष।<br>सूत्र: SI = (P &times; R &times; T) &divide; 100<br>1920 = (P &times; 16 &times; 4) &divide; 100<br>1920 = (P &times; 64) &divide; 100<br>P = (1920 &times; 100) &divide; 64 = 3000.<br>अतः आवश्यक धनराशि &#8377;3,000 है。<br><b>Short Trick:</b> Total interest percentage in 4 years = 16% &times; 4 = 64%. So, 64% of Principal = 1920. Principal = (1920 &divide; 64) &times; 100 = 3000."
+  },
+  {
+    "section": "Arithmetical and Numerical Ability",
+    "topic": "Profit and Loss",
+    "difficulty": "Medium",
+    "q_en": "A person incurs a loss of 26% by selling an article for &#8377;259. If he sells it for &#8377;273, find his loss percentage.",
+    "q_hi": "एक व्यक्ति द्वारा एक वस्तु को &#8377;259 में बेचने पर 26% की हानि होती है। यदि वह उसे &#8377;273 में बेचता, तो उसकी हानि प्रतिशत ज्ञात कीजिए।",
+    "op_en": [
+      "24%",
+      "22%",
+      "20%",
+      "17%"
+    ],
+    "op_hi": [
+      "24%",
+      "22%",
+      "20%",
+      "17%"
+    ],
+    "ans": 2,
+    "solution": "<b>Solution (EN):</b> Selling Price (SP1) = &#8377;259, Loss% = 26%.<br>Cost Price (CP) = SP1 &divide; (1 - Loss% / 100)<br>CP = (259 &times; 100) &divide; (100 - 26) = (259 &times; 100) &divide; 74 = &#8377;350.<br>New Selling Price (SP2) = &#8377;273.<br>Loss = CP - SP2 = 350 - 273 = &#8377;77.<br>New Loss Percentage = (Loss &divide; CP) &times; 100 = (77 &divide; 350) &times; 100 = 22%.<br><b>Solution (HI):</b> विक्रय मूल्य (SP1) = &#8377;259, हानि% = 26%.<br>क्रय मूल्य (CP) = SP1 &divide; (1 - Loss% / 100)<br>CP = (259 &times; 100) &divide; (100 - 26) = (259 &times; 100) &divide; 74 = &#8377;350.<br>नया विक्रय मूल्य (SP2) = &#8377;273.<br>हानि = CP - SP2 = 350 - 273 = &#8377;77.<br>नया हानि प्रतिशत = (हानि &divide; CP) &times; 100 = (77 &divide; 350) &times; 100 = 22%.<br><b>Short Trick:</b> 74% value = 259. So, 273 value = (74 &divide; 259) &times; 273 = 78%. Since new SP is 78% of CP, loss is 100% - 78% = 22%."
+  },
+  {
+    "section": "Arithmetical and Numerical Ability",
+    "topic": "Mixture and Alligation",
+    "difficulty": "Hard",
+    "q_en": "A can contains a mixture of two liquids A and B in the ratio 7 : 5. When 9 liters of mixture are drawn off and the can is filled with liquid B, the ratio of A and B becomes 7 : 9. How many liters of liquid B was contained by the can initially?",
+    "q_hi": "एक कैन में दो द्रव A और B का मिश्रण 7 : 5 के अनुपात में है। जब मिश्रण में से 9 लीटर निकाल लिया जाता है और कैन को द्रव B से भरा जाता है, तो A और B का अनुपात 7 : 9 हो जाता है। प्रारंभ में कैन में कितने लीटर द्रव B विद्यमान था?",
+    "op_en": [
+      "21",
+      "27",
+      "15",
+      "12"
+    ],
+    "op_hi": [
+      "21",
+      "27",
+      "15",
+      "12"
+    ],
+    "ans": 3,
+    "solution": "<b>Solution (EN):</b> Let the initial quantity of liquid A and B be 7x and 5x respectively. Total mixture = 12x.<br>When 9 liters are drawn off:<br>Amount of A removed = 9 &times; (7 &divide; 12) = 21 &divide; 4 liters.<br>Amount of B removed = 9 &times; (5 &divide; 12) = 15 &divide; 4 liters.<br>After adding 9 liters of liquid B, the new ratio is 7 : 9.<br>(7x - 21/4) &divide; (5x - 15/4 + 9) = 7 &divide; 9<br>(28x - 21) &divide; (20x + 21) = 7 &divide; 9<br>9(4x - 3) = 20x + 21<br>36x - 27 = 20x + 21<br>16x = 48 &rArr; x = 3.<br>Initially, liquid B = 5x = 5 &times; 3 = 15 liters.<br><b>Solution (HI):</b> माना प्रारम्भ में द्रव A और B की मात्रा क्रमशः 7x और 5x है। कुल मिश्रण = 12x.<br>जब 9 लीटर निकाला जाता है:<br>निकाले गए A की मात्रा = 9 &times; (7 &divide; 12) = 21 &divide; 4 लीटर।<br>निकाले गए B की मात्रा = 9 &times; (5 &divide; 12) = 15 &divide; 4 लीटर।<br>9 लीटर द्रव B मिलाने के बाद नया अनुपात 7 : 9 हो जाता है।<br>(7x - 21/4) &divide; (5x - 15/4 + 9) = 7 &divide; 9<br>(28x - 21) &divide; (20x + 21) = 7 &divide; 9<br>9(4x - 3) = 20x + 21<br>36x - 27 = 20x + 21<br>16x = 48 &rArr; x = 3.<br>प्रारम्भ में, द्रव B = 5x = 5 &times; 3 = 15 लीटर।<br><b>Short Trick:</b> Remaining mixture ratio A:B = 7:5 (Total 12 units). Final mixture A:B = 7:9 (Total 16 units). Since only B was added, A remains constant (7 units). B increased from 5 to 9, an increase of 4 units. 4 units = 9 Litres. Total final volume = 16 units = 16 &times; (9 &divide; 4) = 36 Litres. This is also the initial total volume. Initial B = 36 &times; (5 &divide; 12) = 15 Litres."
+  },
+  {
+    "section": "Arithmetical and Numerical Ability",
+    "topic": "Simplification",
+    "difficulty": "Medium",
+    "q_en": "If 95 &divide; 19 &times; 5<sup>2</sup> - 11 &times; 12 &divide; 6 + 8 = z, then find the value of z.",
+    "q_hi": "यदि 95 &divide; 19 &times; 5<sup>2</sup> - 11 &times; 12 &divide; 6 + 8 = z है, तो z का मान ज्ञात कीजिए।",
+    "op_en": [
+      "117",
+      "111",
+      "106",
+      "120"
+    ],
+    "op_hi": [
+      "117",
+      "111",
+      "106",
+      "120"
+    ],
+    "ans": 2,
+    "solution": "<b>Solution (EN):</b> Using BODMAS rule:<br>z = 95 &divide; 19 &times; 5<sup>2</sup> - 11 &times; 12 &divide; 6 + 8<br>First perform division: 95 &divide; 19 = 5 and 12 &divide; 6 = 2.<br>z = 5 &times; 25 - 11 &times; 2 + 8<br>Next perform multiplication: 5 &times; 25 = 125 and 11 &times; 2 = 22.<br>z = 125 - 22 + 8<br>Addition and Subtraction: z = 103 + 8 = 111.<br><b>Solution (HI):</b> BODMAS नियम का उपयोग करते हुए:<br>z = 95 &divide; 19 &times; 5<sup>2</sup> - 11 &times; 12 &divide; 6 + 8<br>सबसे पहले भाग (division) करें: 95 &divide; 19 = 5 और 12 &divide; 6 = 2.<br>z = 5 &times; 25 - 11 &times; 2 + 8<br>अगला चरण गुणा (multiplication) है: 5 &times; 25 = 125 और 11 &times; 2 = 22.<br>z = 125 - 22 + 8<br>जोड़ और घटाव: z = 103 + 8 = 111.<br><b>Short Trick:</b> 5 &times; 25 - 11 &times; 2 + 8 = 125 - 22 + 8 = 111."
+  },
+  {
+    "section": "Arithmetical and Numerical Ability",
+    "topic": "Ratio and Proportion",
+    "difficulty": "Hard",
+    "q_en": "The ratio of monthly incomes of two friends, Ajay and Amit, is 6 : 7 respectively and each of them saves &#8377;27,000 per month. If the ratio of their monthly expenditures is 2 : 4, then find the monthly income (in &#8377;) of Ajay.",
+    "q_hi": "दो मित्र, अजय और अमित, की मासिक आय का अनुपात क्रमशः 6 : 7 है तथा उनमें से प्रत्येक प्रति माह &#8377;27,000 की बचत करता है। यदि उनके मासिक व्यय का अनुपात 2 : 4 है, तो अजय की मासिक आय (&#8377; में) ज्ञात कीजिए।",
+    "op_en": [
+      "33,400",
+      "32,400",
+      "31,400",
+      "45,360"
+    ],
+    "op_hi": [
+      "33,400",
+      "32,400",
+      "31,400",
+      "45,360"
+    ],
+    "ans": 2,
+    "solution": "<b>Solution (EN):</b> Let the monthly incomes of Ajay and Amit be 6x and 7x respectively.<br>Let their expenditures be 2y and 4y respectively.<br>Income - Expenditure = Savings<br>For Ajay: 6x - 2y = 27000  ...(i)<br>For Amit: 7x - 4y = 27000 ...(ii)<br>Multiply equation (i) by 2: 12x - 4y = 54000 ...(iii)<br>Subtract equation (ii) from (iii):<br>12x - 7x = 54000 - 27000<br>5x = 27000 &rArr; x = 5400.<br>Ajay's monthly income = 6x = 6 &times; 5400 = &#8377;32,400.<br><b>Solution (HI):</b> माना अजय और अमित की मासिक आय क्रमशः 6x और 7x है।<br>माना उनका व्यय क्रमशः 2y और 4y है।<br>आय - व्यय = बचत<br>अजय के लिए: 6x - 2y = 27000  ...(i)<br>अमित के लिए: 7x - 4y = 27000 ...(ii)<br>समीकरण (i) को 2 से गुणा करें: 12x - 4y = 54000 ...(iii)<br>समीकरण (iii) में से (ii) को घटाएं:<br>12x - 7x = 54000 - 27000<br>5x = 27000 &rArr; x = 5400.<br>अजय की मासिक आय = 6x = 6 &times; 5400 = &#8377;32,400.<br><b>Short Trick:</b> Cross-multiplication method for incomes (6:7) and expenditures (1:2) with constant savings (27000):<br>(6 &times; 2) - (7 &times; 1) = 12 - 7 = 5 units.<br>Value of 5 units = (2 - 1) &times; 27000 = 27000.<br>1 unit = 5400.<br>Ajay's income = 6 &times; 5400 = 32400."
+  },
+  {
+    "section": "Arithmetical and Numerical Ability",
+    "topic": "Number System",
+    "difficulty": "Medium",
+    "q_en": "Let n be a positive integer less than 199. If n and 199 are coprime numbers, then find the sum of all possible values of n.",
+    "q_hi": "माना n एक धनात्मक पूर्णांक है, जो 199 से छोटा है। यदि n और 199 असहभाज्य संख्याएँ हैं, तो n के सभी संभावित मानों का योगफल ज्ञात कीजिए।",
+    "op_en": [
+      "17821",
+      "19701",
+      "15761",
+      "16791"
+    ],
+    "op_hi": [
+      "17821",
+      "19701",
+      "15761",
+      "16791"
+    ],
+    "ans": 2,
+    "solution": "<b>Solution (EN):</b> We know that 199 is a prime number.<br>Since 199 is prime, any positive integer 'n' strictly less than 199 will naturally be coprime to 199.<br>So, the possible values of n are 1, 2, 3, ..., 198.<br>This forms an Arithmetic Progression (AP).<br>Sum of first N natural numbers = N &times; (N + 1) &divide; 2<br>Here, N = 198.<br>Sum = 198 &times; 199 &divide; 2 = 99 &times; 199 = 19,701.<br><b>Solution (HI):</b> हम जानते हैं कि 199 एक अभाज्य संख्या (prime number) है।<br>चूंकि 199 अभाज्य है, 199 से छोटा कोई भी धनात्मक पूर्णांक 'n' स्वाभाविक रूप से 199 के साथ असहभाज्य (coprime) होगा।<br>अतः, n के संभावित मान 1, 2, 3, ..., 198 हैं।<br>यह एक समांतर श्रेणी (AP) बनाता है।<br>प्रथम N प्राकृत संख्याओं का योग = N &times; (N + 1) &divide; 2<br>यहाँ, N = 198.<br>योग = 198 &times; 199 &divide; 2 = 99 &times; 199 = 19,701.<br><b>Short Trick:</b> 199 is a prime number. Sum of all numbers less than a prime P and coprime to it is (P &times; (P-1)) &divide; 2 = (199 &times; 198) &divide; 2 = 19701."
+  },
+  {
+    "section": "Arithmetical and Numerical Ability",
+    "topic": "Algebra",
+    "difficulty": "Medium",
+    "q_en": "Find the value of 23<sup>3</sup> + (-4)<sup>3</sup> + (-19)<sup>3</sup>.",
+    "q_hi": "23<sup>3</sup> + (-4)<sup>3</sup> + (-19)<sup>3 </sup>का मान ज्ञात कीजिए।",
+    "op_en": [
+      "5244",
+      "5309",
+      "5319",
+      "5143"
+    ],
+    "op_hi": [
+      "5244",
+      "5309",
+      "5319",
+      "5143"
+    ],
+    "ans": 1,
+    "solution": "<b>Solution (EN):</b> We use the algebraic identity: If a + b + c = 0, then a<sup>3</sup> + b<sup>3</sup> + c<sup>3</sup> = 3abc.<br>Here, let a = 23, b = -4, and c = -19.<br>Check the sum: a + b + c = 23 + (-4) + (-19) = 23 - 23 = 0.<br>Therefore, 23<sup>3</sup> + (-4)<sup>3</sup> + (-19)<sup>3</sup> = 3 &times; 23 &times; (-4) &times; (-19)<br>= 3 &times; 23 &times; 76 = 69 &times; 76 = 5244.<br><b>Solution (HI):</b> हम बीजगणितीय सर्वसमिका का उपयोग करते हैं: यदि a + b + c = 0 है, तो a<sup>3</sup> + b<sup>3</sup> + c<sup>3</sup> = 3abc.<br>यहाँ, माना a = 23, b = -4, और c = -19.<br>योग की जाँच करें: a + b + c = 23 + (-4) + (-19) = 23 - 23 = 0.<br>इसलिए, 23<sup>3</sup> + (-4)<sup>3</sup> + (-19)<sup>3</sup> = 3 &times; 23 &times; (-4) &times; (-19)<br>= 3 &times; 23 &times; 76 = 69 &times; 76 = 5244.<br><b>Short Trick:</b> Since 23 - 4 - 19 = 0, the value is simply 3 &times; 23 &times; (-4) &times; (-19) = 5244."
+  },
+  {
+    "section": "Arithmetical and Numerical Ability",
+    "topic": "Average",
+    "difficulty": "Hard",
+    "q_en": "Out of a class of 60 students, the average height of 15 students is 160 cm. If the average height of the remaining students is 168 cm, then find the average height (in cm) of the whole class.",
+    "q_hi": "60 विद्यार्थियों वाली एक कक्षा में से 15 विद्यार्थियों की औसत लंबाई 160 cm है। यदि शेष विद्यार्थियों की औसत लंबाई 168 cm है, तो संपूर्ण कक्षा की औसत लंबाई (cm में) ज्ञात कीजिए।",
+    "op_en": [
+      "165",
+      "166",
+      "167",
+      "164"
+    ],
+    "op_hi": [
+      "165",
+      "166",
+      "167",
+      "164"
+    ],
+    "ans": 2,
+    "solution": "<b>Solution (EN):</b> Total students in the class = 60.<br>Number of students in first group = 15. Their average height = 160 cm.<br>Number of remaining students = 60 - 15 = 45. Their average height = 168 cm.<br>The ratio of students in the two groups = 15 : 45 = 1 : 3.<br>Using weighted average method:<br>Overall Average = [(1 &times; 160) + (3 &times; 168)] &divide; (1 + 3)<br>= (160 + 504) &divide; 4 = 664 &divide; 4 = 166 cm.<br><b>Solution (HI):</b> कक्षा में कुल विद्यार्थी = 60.<br>पहले समूह में विद्यार्थियों की संख्या = 15. उनकी औसत लंबाई = 160 cm.<br>शेष विद्यार्थियों की संख्या = 60 - 15 = 45. उनकी औसत लंबाई = 168 cm.<br>दोनों समूहों में विद्यार्थियों का अनुपात = 15 : 45 = 1 : 3.<br>भारित औसत विधि (weighted average) का उपयोग करने पर:<br>संपूर्ण औसत = [(1 &times; 160) + (3 &times; 168)] &divide; (1 + 3)<br>= (160 + 504) &divide; 4 = 664 &divide; 4 = 166 cm.<br><b>Short Trick:</b> Deviation method: Base average = 160. Second group (45 students) is +8 more than base. Total extra = 45 &times; 8 = 360. Distribute 360 among all 60 students = 360 &divide; 60 = +6. New average = 160 + 6 = 166 cm."
+  },
+  {
+    "section": "Arithmetical and Numerical Ability",
+    "topic": "Percentages",
+    "difficulty": "Medium",
+    "q_en": "How much is 35% of 60 greater than 30% of 50?",
+    "q_hi": "60 का 35%, 50 के 30% से कितना अधिक है?",
+    "op_en": [
+      "8",
+      "1",
+      "3",
+      "6"
+    ],
+    "op_hi": [
+      "8",
+      "1",
+      "3",
+      "6"
+    ],
+    "ans": 4,
+    "solution": "<b>Solution (EN):</b> Step 1: Calculate 35% of 60.<br>35% of 60 = (35 &divide; 100) &times; 60 = 21.<br>Step 2: Calculate 30% of 50.<br>30% of 50 = (30 &divide; 100) &times; 50 = 15.<br>Step 3: Find the difference.<br>Required difference = 21 - 15 = 6.<br><b>Solution (HI):</b> चरण 1: 60 का 35% ज्ञात करें।<br>60 का 35% = (35 &divide; 100) &times; 60 = 21.<br>चरण 2: 50 का 30% ज्ञात करें।<br>50 का 30% = (30 &divide; 100) &times; 50 = 15.<br>चरण 3: अंतर ज्ञात करें।<br>अभीष्ट अंतर = 21 - 15 = 6.<br><b>Short Trick:</b> (35 &times; 60) &divide; 100 - (30 &times; 50) &divide; 100 = 21 - 15 = 6."
+  },
+  {
+    "section": "Arithmetical and Numerical Ability",
+    "topic": "Profit and Loss",
+    "difficulty": "Medium",
+    "q_en": "A retailer buys an electronic item for &#8377;240. His overhead expenses are &#8377;10. He sells the electronic item for &#8377;340 and earns a profit of x%. Find the value of x.",
+    "q_hi": "एक खुदरा विक्रेता &#8377;240 में एक इलेक्ट्रॉनिक वस्तु खरीदता है। उसका उपरिव्‍यय &#8377;10 हैं। वह इलेक्ट्रॉनिक वस्तु को &#8377;340 में बेचता है और x% का लाभ अर्जित करता है। x का मान ज्ञात कीजिए।",
+    "op_en": [
+      "26",
+      "16",
+      "36",
+      "56"
+    ],
+    "op_hi": [
+      "26",
+      "16",
+      "36",
+      "56"
+    ],
+    "ans": 3,
+    "solution": "<b>Solution (EN):</b> Initial Cost Price of the item = &#8377;240.<br>Overhead expenses = &#8377;10.<br>Total Cost Price (CP) = 240 + 10 = &#8377;250.<br>Selling Price (SP) = &#8377;340.<br>Profit = SP - CP = 340 - 250 = &#8377;90.<br>Profit Percentage (x) = (Profit &divide; CP) &times; 100<br>= (90 &divide; 250) &times; 100 = 36%.<br><b>Solution (HI):</b> वस्तु का प्रारंभिक क्रय मूल्य = &#8377;240.<br>उपरिव्‍यय (Overhead expenses) = &#8377;10.<br>कुल क्रय मूल्य (CP) = 240 + 10 = &#8377;250.<br>विक्रय मूल्य (SP) = &#8377;340.<br>लाभ = SP - CP = 340 - 250 = &#8377;90.<br>लाभ प्रतिशत (x) = (लाभ &divide; CP) &times; 100<br>= (90 &divide; 250) &times; 100 = 36%.<br><b>Short Trick:</b> Total CP = 250. SP = 340. Profit = 90. x = (90 &divide; 250) &times; 100 = 36."
+  }
+]
