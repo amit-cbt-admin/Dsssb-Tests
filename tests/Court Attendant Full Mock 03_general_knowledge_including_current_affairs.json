@@ -1,0 +1,317 @@
+[
+  {
+    "ans": 4,
+    "difficulty": "Medium",
+    "op_en": [
+      "Net Factor Income",
+      "National Income",
+      "Private Income",
+      "National Disposable Income"
+    ],
+    "op_hi": [
+      "निवल कारक आय",
+      "राष्ट्रीय आय",
+      "निजी आय",
+      "राष्ट्रीय प्रयोज्य आय"
+    ],
+    "q_en": "What do we get by adding Net National Product at market prices and other current transfers from the rest of the world?",
+    "q_hi": "बाजार मूल्यों पर निवल राष्ट्रीय उत्पाद तथा शेष विश्व से प्राप्त अन्य वर्तमान अंतरणों को जोड़कर हमें क्या प्राप्त होता है?<br>",
+    "section": "General Knowledge Including Current Affairs",
+    "solution": "<b>Solution (EN):</b> National Disposable Income refers to the income available to the whole economy for spending or saving. It is calculated by adding Net National Product (NNP) at market prices and net current transfers from the rest of the world.<br><b>Solution (HI):</b> राष्ट्रीय प्रयोज्य आय (National Disposable Income) से तात्पर्य उस आय से है जो पूरी अर्थव्यवस्था के लिए खर्च या बचत के लिए उपलब्ध होती है। इसकी गणना बाजार मूल्यों पर निवल राष्ट्रीय उत्पाद (NNP) और शेष विश्व से प्राप्त निवल वर्तमान अंतरणों को जोड़कर की जाती है।<br><b>Short Trick:</b> NNP (MP) + Net Current Transfers = National Disposable Income.",
+    "topic": "National Income"
+  },
+  {
+    "ans": 2,
+    "difficulty": "Medium",
+    "op_en": [
+      "India-UN Climate Collaboration Project",
+      "India-UN Global Capacity-Building Initiative",
+      "India-UN Migration Framework",
+      "India-UN Innovation Fund"
+    ],
+    "op_hi": [
+      "भारत-संयुक्त राष्ट्र जलवायु सहयोग परियोजना (India-UN Climate Collaboration Project)",
+      "भारत-संयुक्त राष्ट्र वैश्विक क्षमता निर्माण पहल (India-UN Global Capacity-Building Initiative)",
+      "भारत-संयुक्त राष्ट्र प्रवासन रूपरेखा (India-UN Migration Framework)",
+      "भारत-संयुक्त राष्ट्र नवाचार कोष (India-UN Innovation Fund)"
+    ],
+    "q_en": "Which initiative did India and the United Nations launch in August/September 2025 to assist countries of the Global South through capacity building?",
+    "q_hi": "भारत और संयुक्त राष्ट्र ने क्षमता निर्माण के माध्यम से वैश्विक दक्षिण के देशों की सहायता के लिए अगस्त/सितंबर 2025 में कौन-सी पहल शुरू की?<br>",
+    "section": "General Knowledge Including Current Affairs",
+    "solution": "<b>Solution (EN):</b> The India-UN Global Capacity-Building Initiative aims to share India's development experiences and best practices with partner countries in the Global South.<br><b>Solution (HI):</b> भारत-संयुक्त राष्ट्र वैश्विक क्षमता निर्माण पहल का उद्देश्य वैश्विक दक्षिण के भागीदार देशों के साथ भारत के विकास के अनुभवों और सर्वोत्तम प्रथाओं को साझा करना है।<br><b>Short Trick:</b> Global South + UN + India = Capacity Building Initiative.",
+    "topic": "Current Affairs - International"
+  },
+  {
+    "ans": 2,
+    "difficulty": "Easy",
+    "op_en": [
+      "Bandra-Worli Sea Link",
+      "Chenab Bridge",
+      "Bogibeel Bridge",
+      "Howrah Bridge"
+    ],
+    "op_hi": [
+      "बांद्रा-वर्ली सी लिंक",
+      "चिनाब ब्रिज",
+      "बोगीबील ब्रिज",
+      "हावड़ा ब्रिज"
+    ],
+    "q_en": "Which of the following bridges is an infrastructure marvel in India that is the world's highest railway bridge?",
+    "q_hi": "निम्नलिखित में से कौन-सा ब्रिज, भारत में एक अवसंरचना मार्वल है जो विश्व का सबसे ऊंचा रेलवे ब्रिज है?",
+    "section": "General Knowledge Including Current Affairs",
+    "solution": "<b>Solution (EN):</b> The Chenab Bridge in Jammu and Kashmir is the world's highest railway bridge, standing at a height of 359 meters above the river bed.<br><b>Solution (HI):</b> जम्मू और कश्मीर में चिनाब नदी पर बना चिनाब ब्रिज दुनिया का सबसे ऊंचा रेलवे ब्रिज है, जिसकी ऊंचाई नदी तल से 359 मीटर है।<br><b>Short Trick:</b> Highest Railway Bridge = Chenab Bridge (J&K).",
+    "topic": "Static GK - Infrastructure"
+  },
+  {
+    "ans": 2,
+    "difficulty": "Medium",
+    "op_en": [
+      "Medtronic India",
+      "Renalyx Health Systems Pvt. Ltd.",
+      "Apollo Hospitals",
+      "Tata 1mg"
+    ],
+    "op_hi": [
+      "मेडट्रॉनिक इंडिया (Medtronic India)",
+      "रेनालिक्स हेल्थ सिस्टम्स प्राइवेट लिमिटेड (Renalyx Health Systems Pvt. Ltd.)",
+      "अपोलो हॉस्पिटल्स (Apollo Hospitals)",
+      "टाटा 1एमजी (Tata 1mg)"
+    ],
+    "q_en": "Which Indian company launched a fully indigenous, AI-based smart hemodialysis machine in 2025, aimed at making renal care more affordable?",
+    "q_hi": "किस भारतीय कंपनी ने 2025 में पूरी तरह से स्वदेशी, AI-आधारित स्मार्ट हेमोडायलिसिस (hemodialysis) मशीन लॉन्च की, जिसका उद्देश्य वृक्क देखभाल को अधिक किफायती और सुलभ बनाना है?",
+    "section": "General Knowledge Including Current Affairs",
+    "solution": "<b>Solution (EN):</b> Renalyx Health Systems launched India's first AI-enabled indigenous dialysis machine to reduce the cost of kidney treatment.<br><b>Solution (HI):</b> रेनालिक्स हेल्थ सिस्टम्स (Renalyx Health Systems) ने गुर्दे के इलाज की लागत को कम करने के लिए भारत की पहली AI-सक्षम स्वदेशी डायलिसिस मशीन लॉन्च की।<br><b>Short Trick:</b> AI Dialysis = Renalyx.",
+    "topic": "Current Affairs - S&T"
+  },
+  {
+    "ans": 4,
+    "difficulty": "Easy",
+    "op_en": [
+      "Lord Ripon",
+      "Lord Dufferin",
+      "Lord Lansdowne",
+      "Lord Curzon"
+    ],
+    "op_hi": [
+      "लॉर्ड रिपन (Lord Ripon)",
+      "लॉर्ड डफरिन (Lord Dufferin)",
+      "लॉर्ड लैंसडाउन (Lord Lansdowne)",
+      "लॉर्ड कर्जन (Lord Curzon)"
+    ],
+    "q_en": "During the viceroyalty of which British official did the partition of Bengal take place in 1905?",
+    "q_hi": "1905 में बंगाल का विभाजन किस ब्रिटिश अधिकारी के वायसराय के शासनकाल के दौरान हुआ था?",
+    "section": "General Knowledge Including Current Affairs",
+    "solution": "<b>Solution (EN):</b> Lord Curzon announced the partition of Bengal in 1905, citing administrative convenience as the reason, though it was largely seen as a move to divide the nationalist movement.<br><b>Solution (HI):</b> लॉर्ड कर्जन ने प्रशासनिक सुविधा का हवाला देते हुए 1905 में बंगाल के विभाजन की घोषणा की थी, हालांकि इसे मुख्य रूप से राष्ट्रवादी आंदोलन को विभाजित करने के कदम के रूप में देखा गया था।<br><b>Short Trick:</b> Bengal Partition 1905 = Curzon.",
+    "topic": "Modern History"
+  },
+  {
+    "ans": 4,
+    "difficulty": "Easy",
+    "op_en": [
+      "Andhra Pradesh Coast",
+      "Gujarat Coast",
+      "Kerala Coast",
+      "Odisha Coast"
+    ],
+    "op_hi": [
+      "आंध्र प्रदेश तट",
+      "गुजरात तट",
+      "केरल तट",
+      "ओडिशा तट"
+    ],
+    "q_en": "Chilika Lake, the largest saltwater lake in India, is situated on which of the following coasts?",
+    "q_hi": "भारत में सबसे बड़ी खारे पानी की चिल्का झील निम्नलिखित में से किस तट पर स्थित है?",
+    "section": "General Knowledge Including Current Affairs",
+    "solution": "<b>Solution (EN):</b> Chilika Lake is a brackish water lagoon located in Odisha. It is the largest coastal lagoon in India and the second largest in the world.<br><b>Solution (HI):</b> चिल्का झील ओडिशा में स्थित खारे पानी की एक लैगून झील है। यह भारत की सबसे बड़ी तटीय लैगून और दुनिया की दूसरी सबसे बड़ी लैगून है।<br><b>Short Trick:</b> Chilika Lake = Odisha (Saltwater).",
+    "topic": "Indian Geography"
+  },
+  {
+    "ans": 4,
+    "difficulty": "Easy",
+    "op_en": [
+      "Assam",
+      "Kerala",
+      "Meghalaya",
+      "Rajasthan"
+    ],
+    "op_hi": [
+      "असम",
+      "केरल",
+      "मेघालय",
+      "राजस्थान"
+    ],
+    "q_en": "Tropical thorn forests are mainly found in which state of India?",
+    "q_hi": "उष्णकटिबंधीय कंटक वन मुख्यत: भारत के किस राज्य में पाए जाते हैं?",
+    "section": "General Knowledge Including Current Affairs",
+    "solution": "<b>Solution (EN):</b> Tropical thorn forests are found in areas receiving less than 70 cm of rainfall. Rajasthan is the primary state for this vegetation due to its arid climate.<br><b>Solution (HI):</b> उष्णकटिबंधीय कंटक वन उन क्षेत्रों में पाए जाते हैं जहाँ 70 सेमी से कम वर्षा होती है। राजस्थान अपनी शुष्क जलवायु के कारण इस वनस्पति के लिए प्राथमिक राज्य है।<br><b>Short Trick:</b> Thorn Forests = Low Rain = Rajasthan.",
+    "topic": "Vegetation"
+  },
+  {
+    "ans": 4,
+    "difficulty": "Easy",
+    "op_en": [
+      "Rate at which RBI lends to commercial banks",
+      "Rate at which commercial banks lend to customers",
+      "Percentage of deposits banks must keep with RBI",
+      "Rate at which RBI borrows from commercial banks"
+    ],
+    "op_hi": [
+      "वह दर जिस पर RBI, वाणिज्यिक बैंकों को ऋण देता है",
+      "वह दर जिस पर वाणिज्यिक बैंक, ग्राहकों को ऋण देते हैं",
+      "जमा राशि का प्रतिशत जो बैंकों को RBI के पास रखना होगा",
+      "वह दर जिस पर RBI, वाणिज्यिक बैंकों से ऋण लेता है"
+    ],
+    "q_en": "Which of the following best defines the Reverse Repo Rate used by the Reserve Bank of India (RBI)?",
+    "q_hi": "निम्नलिखित में से कौन-सा, भारतीय रिजर्व बैंक (RBI) द्वारा प्रयुक्त रिवर्स रेपो दर (Reverse Repo Rate) को सर्वोत्तम रूप से परिभाषित करता है?",
+    "section": "General Knowledge Including Current Affairs",
+    "solution": "<b>Solution (EN):</b> Reverse Repo Rate is the short-term interest rate at which RBI borrows money from commercial banks to absorb excess liquidity from the market.<br><b>Solution (HI):</b> रिवर्स रेपो दर वह अल्पकालिक ब्याज दर है जिस पर भारतीय रिजर्व बैंक (RBI) बाजार से अतिरिक्त तरलता को सोखने के लिए वाणिज्यिक बैंकों से धन उधार लेता है।<br><b>Short Trick:</b> Repo = RBI Lends; Reverse Repo = RBI Borrows.",
+    "topic": "Economics - Banking"
+  },
+  {
+    "ans": 3,
+    "difficulty": "Medium",
+    "op_en": [
+      "Finance",
+      "Education",
+      "Defense",
+      "Health"
+    ],
+    "op_hi": [
+      "वित्त",
+      "शिक्षा",
+      "रक्षा",
+      "स्वास्थ्य"
+    ],
+    "q_en": "'Mission Sudarshan Chakra' (2025) is related to which of the following?",
+    "q_hi": "'मिशन सुदर्शन चक्र' (2025) निम्नलिखित में से किससे संबंधित है?",
+    "section": "General Knowledge Including Current Affairs",
+    "solution": "<b>Solution (EN):</b> Mission Sudarshan Chakra was launched to modernize the Indian Army's battlefield surveillance systems and digital infrastructure.<br><b>Solution (HI):</b> मिशन सुदर्शन चक्र भारतीय सेना के युद्धक्षेत्र निगरानी प्रणालियों और डिजिटल बुनियादी ढांचे के आधुनिकीकरण के लिए शुरू किया गया था।<br><b>Short Trick:</b> Sudarshan Chakra = Powerful Defense weapon.",
+    "topic": "Current Affairs - Defense"
+  },
+  {
+    "ans": 4,
+    "difficulty": "Easy",
+    "op_en": [
+      "Christopher Wren",
+      "Michael Ventris",
+      "Edwin Lutyens",
+      "FW Stevens"
+    ],
+    "op_hi": [
+      "क्रिस्टोफर रेन (Christopher Wren)",
+      "माइकल वेंट्रिस (Michael Ventris)",
+      "एडविन लुटियंस (Edwin Lutyens)",
+      "एफडब्ल्यू स्टीवंस (FW Stevens)"
+    ],
+    "q_en": "Victoria Terminus (now CSMT) in Mumbai was designed by which famous British architect?",
+    "q_hi": "विक्टोरिया टर्मिनस (Victoria Terminus), जिसे अब मुंबई में छत्रपति शिवाजी महाराज टर्मिनस के रूप में जाना जाता है, को निम्नलिखित में से किस प्रसिद्ध ब्रिटिश वास्तुकार द्वारा डिजाइन किया गया था?",
+    "section": "General Knowledge Including Current Affairs",
+    "solution": "<b>Solution (EN):</b> Frederick William Stevens (FW Stevens) designed the Victoria Terminus in a Gothic Revival architectural style, which is now a UNESCO World Heritage Site.<br><b>Solution (HI):</b> फ्रेडरिक विलियम स्टीवंस (FW Stevens) ने विक्टोरिया टर्मिनस को गोथिक पुनर्जागरण स्थापत्य शैली में डिजाइन किया था, जो अब यूनेस्को की विश्व धरोहर स्थल है।<br><b>Short Trick:</b> VT (Mumbai) = FW Stevens.",
+    "topic": "Static GK - Architecture"
+  },
+  {
+    "ans": 1,
+    "difficulty": "Medium",
+    "op_en": [
+      "Sir Edwin Lutyens",
+      "Laurie Baker",
+      "George Gilbert Scott",
+      "William Emerson"
+    ],
+    "op_hi": [
+      "सर एडविन लुटियंस (Sir Edwin Lutyens)",
+      "लॉरी बेकर (Laurie Baker)",
+      "जॉर्ज गिल्बर्ट स्कॉट (George Gilbert Scott)",
+      "विलियम एमर्सन (William Emerson)"
+    ],
+    "q_en": "The design of the famous Clock Tower in Rashtrapati Bhavan was prepared by ________.",
+    "q_hi": "राष्ट्रपति भवन में प्रसिद्ध क्लॉक टावर (Clock Tower) का डिजाइन ________ ने तैयार किया था।",
+    "section": "General Knowledge Including Current Affairs",
+    "solution": "<b>Solution (EN):</b> Sir Edwin Lutyens was the primary architect of New Delhi and the Rashtrapati Bhavan, including the iconic Clock Tower situated in its complex.<br><b>Solution (HI):</b> सर एडविन लुटियंस नई दिल्ली और राष्ट्रपति भवन के प्राथमिक वास्तुकार थे, जिसमें इसके परिसर में स्थित प्रतिष्ठित क्लॉक टावर भी शामिल है।<br><b>Short Trick:</b> New Delhi/President House = Lutyens.",
+    "topic": "Static GK - Architecture"
+  },
+  {
+    "ans": 1,
+    "difficulty": "Easy",
+    "op_en": [
+      "Jahangir",
+      "Amir Khusrau",
+      "Dara Shikoh",
+      "Faizi"
+    ],
+    "op_hi": [
+      "जहाँगीर",
+      "अमीर खुसरो",
+      "दारा शिकोह",
+      "फैजी"
+    ],
+    "q_en": "The autobiography of Jahangir, Tuzuk-i-Jahangiri, was written by whom?",
+    "q_hi": "जहाँगीर की आत्मकथा, तुज़ुक-ए-जहाँगीरी (Tuzuk-i-Jahangiri), किसके द्वारा लिखी गई थी?<br>",
+    "section": "General Knowledge Including Current Affairs",
+    "solution": "<b>Solution (EN):</b> Tuzuk-i-Jahangiri is the autobiography of Mughal Emperor Jahangir, written in Persian. It covers the early years of his reign.<br><b>Solution (HI):</b> तुज़ुक-ए-जहाँगीरी मुगल सम्राट जहाँगीर की आत्मकथा है, जो फारसी भाषा में लिखी गई है। इसमें उनके शासनकाल के शुरुआती वर्षों का विवरण है।<br><b>Short Trick:</b> Tuzuk-i-Jahangiri = Written by Jahangir himself.",
+    "topic": "Medieval History"
+  },
+  {
+    "ans": 3,
+    "difficulty": "Medium",
+    "op_en": [
+      "PrintPay by AadhaarCorp",
+      "FacePay by FaceTech",
+      "ThumbPay by Proxgy",
+      "BioUP by UIDAI"
+    ],
+    "op_hi": [
+      "प्रिंटपे बाय आधारकॉर्प (PrintPay by AadhaarCorp)",
+      "फेसपे बाय फेसटेक (FacePay by FaceTech)",
+      "थंबपे बाय प्रॉक्सजी (ThumbPay by Proxgy)",
+      "बायोयूपी बाय यूआईडीएआई (BioUP by UIDAI)"
+    ],
+    "q_en": "Which innovation links biometric authentication (thumbprint) with Aadhaar and UPI for payment without a phone or wallet?",
+    "q_hi": "कौन-सा नवाचार, बायोमेट्रिक ऑथेंटिकेशन (thumbprint) को आधार और UPI से लिंक करता है, जिससे फोन, कार्ड या वॉलेट के बिना भुगतान की सुविधा प्राप्त हो जाती है?",
+    "section": "General Knowledge Including Current Affairs",
+    "solution": "<b>Solution (EN):</b> ThumbPay is a fintech solution by Proxgy that allows users to make payments at retail stores using just their fingerprint through Aadhaar-enabled systems.<br><b>Solution (HI):</b> थंबपे (ThumbPay) प्रॉक्सजी द्वारा एक फिनटेक समाधान है जो उपयोगकर्ताओं को आधार-सक्षम प्रणालियों के माध्यम से केवल अपने फिंगरप्रिंट का उपयोग करके खुदरा दुकानों पर भुगतान करने की अनुमति देता है।<br><b>Short Trick:</b> Fingerprint Pay = ThumbPay.",
+    "topic": "Current Affairs - Fintech"
+  },
+  {
+    "ans": 3,
+    "difficulty": "Easy",
+    "op_en": [
+      "1916",
+      "1919",
+      "1911",
+      "1909"
+    ],
+    "op_hi": [
+      "1916",
+      "1919",
+      "1911",
+      "1909"
+    ],
+    "q_en": "In which of the following years was the partition of Bengal annulled?",
+    "q_hi": "बंगाल विभाजन को निम्नलिखित में से किस वर्ष रद्द किया गया?",
+    "section": "General Knowledge Including Current Affairs",
+    "solution": "<b>Solution (EN):</b> The partition of Bengal was annulled in 1911 by Lord Hardinge during the Delhi Durbar, primarily due to intense protests by the Swadeshi movement.<br><b>Solution (HI):</b> स्वदेशी आंदोलन के तीव्र विरोध के कारण, 1911 में दिल्ली दरबार के दौरान लॉर्ड हार्डिंग द्वारा बंगाल के विभाजन को रद्द कर दिया गया था।<br><b>Short Trick:</b> 1905 Partition ↔ 1911 Annulment.",
+    "topic": "Modern History"
+  },
+  {
+    "ans": 4,
+    "difficulty": "Easy",
+    "op_en": [
+      "July to August",
+      "April to June",
+      "January to March",
+      "September to October"
+    ],
+    "op_hi": [
+      "जुलाई से अगस्त",
+      "अप्रैल से जून",
+      "जनवरी से मार्च",
+      "सितंबर से अक्टूबर"
+    ],
+    "q_en": "In India, Kharif crops are usually harvested during which months?",
+    "q_hi": "भारत में खरीफ फसलों की कटाई प्रायः किन महीनों में की जाती है?",
+    "section": "General Knowledge Including Current Affairs",
+    "solution": "<b>Solution (EN):</b> Kharif crops are sown at the beginning of the monsoon (June-July) and harvested in autumn (September-October). Examples include Rice, Maize, and Jowar.<br><b>Solution (HI):</b> खरीफ फसलों की बुवाई मानसून की शुरुआत (जून-जुलाई) में की जाती है और कटाई शरद ऋतु (सितंबर-अक्टूबर) में की जाती है। उदाहरण: चावल, मक्का और ज्वार।<br><b>Short Trick:</b> Kharif = Monsoon crops = Harvest in Sep-Oct.",
+    "topic": "Geography - Agriculture"
+  }
+]
