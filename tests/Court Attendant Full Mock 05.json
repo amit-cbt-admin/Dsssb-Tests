@@ -1,0 +1,2102 @@
+[
+    {
+        "ans": 2,
+        "difficulty": "Easy",
+        "op_en": [
+            "beautiful",
+            "beautifully",
+            "beauty",
+            "beautify"
+        ],
+        "op_hi": [
+            "beautiful",
+            "beautifully",
+            "beauty",
+            "beautify"
+        ],
+        "q_en": "Select the most appropriate option to fill in the blank.<br><br>The choir sang ________ during the Christmas service.",
+        "q_hi": "Select the most appropriate option to fill in the blank.<br><br>The choir sang ________ during the Christmas service.",
+        "section": "English",
+        "solution": "<b>Solution (EN):</b> The blank requires an adverb to modify the verb 'sang'. 'Beautifully' is the correct adverb. 'Beautiful' is an adjective, 'beauty' is a noun, and 'beautify' is a verb.<br><b>Solution (HI):</b> यहाँ क्रिया 'sang' की विशेषता बताने के लिए adverb (क्रिया विशेषण) की आवश्यकता है। 'Beautifully' सही adverb है। 'Beautiful' adjective है, 'beauty' noun है, और 'beautify' verb है।<br><b>Short Trick:</b> Verb (sang) needs an Adverb (beautifully) to describe how the action was performed.",
+        "topic": "Adverbs"
+    },
+    {
+        "ans": 2,
+        "difficulty": "Easy",
+        "op_en": [
+            "in",
+            "on",
+            "at",
+            "above"
+        ],
+        "op_hi": [
+            "in",
+            "on",
+            "at",
+            "above"
+        ],
+        "q_en": "Select the most appropriate preposition to fill in the blank.<br><br>Please leave the keys right ________ the table.",
+        "q_hi": "Select the most appropriate preposition to fill in the blank.<br><br>Please leave the keys right ________ the table.",
+        "section": "English",
+        "solution": "<b>Solution (EN):</b> The preposition 'on' is used to indicate that something is physically in contact with and supported by a surface.<br><b>Solution (HI):</b> 'On' का उपयोग किसी सतह के संपर्क में और उसके ऊपर होने की स्थिति को दर्शाने के लिए किया जाता है। इसलिए यहाँ 'on' सही होगा।<br><b>Short Trick:</b> Supported by a surface = 'on' (on the table).",
+        "topic": "Prepositions"
+    },
+    {
+        "ans": 2,
+        "difficulty": "Medium",
+        "op_en": [
+            "CEDAB",
+            "CDEAB",
+            "ABDEC",
+            "DCBEA"
+        ],
+        "op_hi": [
+            "CEDAB",
+            "CDEAB",
+            "ABDEC",
+            "DCBEA"
+        ],
+        "q_en": "Parts of a sentence are given below in jumbled order. Arrange the parts in the correct order to form a meaningful sentence.<br><br>A. because of<br>B. the heavy rain<br>C. the match<br>D. was postponed<br>E. indefinitely",
+        "q_hi": "Parts of a sentence are given below in jumbled order. Arrange the parts in the correct order to form a meaningful sentence.<br><br>A. because of<br>B. the heavy rain<br>C. the match<br>D. was postponed<br>E. indefinitely",
+        "section": "English",
+        "solution": "<b>Solution (EN):</b> The logical sequence starts with the subject 'the match' (C), followed by the verb phrase 'was postponed' (D), the adverb 'indefinitely' (E), and the reason 'because of' (A) 'the heavy rain' (B). Correct order: CDEAB.<br><b>Solution (HI):</b> तार्किक क्रम कर्ता 'the match' (C) से शुरू होता है, उसके बाद क्रिया 'was postponed' (D), फिर 'indefinitely' (E), और अंत में कारण 'because of' (A) 'the heavy rain' (B)। सही क्रम: CDEAB.<br><b>Short Trick:</b> Find the main Subject (The match) and Verb (was postponed). C directly links to D.",
+        "topic": "Sentence Rearrangement"
+    },
+    {
+        "ans": 1,
+        "difficulty": "Easy",
+        "op_en": [
+            "Reading is a good habit.",
+            "A good habit is reading.",
+            "Habit is a reading good.",
+            "Is reading a good habit."
+        ],
+        "op_hi": [
+            "Reading is a good habit.",
+            "A good habit is reading.",
+            "Habit is a reading good.",
+            "Is reading a good habit."
+        ],
+        "q_en": "Parts of a sentence are given below in jumbled order. Arrange the parts in the correct order to form a meaningful sentence.<br><br>reading / a / is / habit / good",
+        "q_hi": "Parts of a sentence are given below in jumbled order. Arrange the parts in the correct order to form a meaningful sentence.<br><br>reading / a / is / habit / good",
+        "section": "English",
+        "solution": "<b>Solution (EN):</b> The correct and most natural structure is Subject (Reading) + Verb (is) + Article (a) + Adjective (good) + Noun (habit).<br><b>Solution (HI):</b> सही संरचना Subject (Reading) + Verb (is) + Article (a) + Adjective (good) + Noun (habit) है। विकल्प 1 व्याकरण की दृष्टि से एकदम सही है।<br><b>Short Trick:</b> Identify the main subject 'Reading' and follow with the linking verb 'is'.",
+        "topic": "Sentence Rearrangement"
+    },
+    {
+        "ans": 2,
+        "difficulty": "Easy",
+        "op_en": [
+            "Apiary",
+            "Aviary",
+            "Aquarium",
+            "Zoo"
+        ],
+        "op_hi": [
+            "Apiary",
+            "Aviary",
+            "Aquarium",
+            "Zoo"
+        ],
+        "q_en": "Select the option that can be used as a one-word substitute for the given group of words.<br><br>A place where birds are kept",
+        "q_hi": "Select the option that can be used as a one-word substitute for the given group of words.<br><br>A place where birds are kept",
+        "section": "English",
+        "solution": "<b>Solution (EN):</b> An 'Aviary' is a large cage or enclosure for keeping birds. 'Apiary' is where bees are kept, 'Aquarium' is for fish, and a 'Zoo' is for animals in general.<br><b>Solution (HI):</b> 'Aviary' (पक्षीशाला) वह स्थान है जहाँ पक्षियों को रखा जाता है। 'Apiary' मधुमक्खियों के लिए, और 'Aquarium' मछलियों के लिए होता है।<br><b>Short Trick:</b> Root word 'Aves' relates to birds, hence Aviary.",
+        "topic": "One Word Substitution"
+    },
+    {
+        "ans": 2,
+        "difficulty": "Easy",
+        "op_en": [
+            "Century",
+            "Decade",
+            "Millennium",
+            "Fortnight"
+        ],
+        "op_hi": [
+            "Century",
+            "Decade",
+            "Millennium",
+            "Fortnight"
+        ],
+        "q_en": "Select the option that can be used as a one-word substitute for the given group of words.<br><br>A period of ten years",
+        "q_hi": "Select the option that can be used as a one-word substitute for the given group of words.<br><br>A period of ten years",
+        "section": "English",
+        "solution": "<b>Solution (EN):</b> A 'Decade' is a period of ten years. A 'Century' is 100 years, a 'Millennium' is 1000 years, and a 'Fortnight' is a period of 14 days.<br><b>Solution (HI):</b> दस वर्षों की अवधि को 'Decade' (दशक) कहा जाता है। 'Century' सौ वर्ष, 'Millennium' हज़ार वर्ष, और 'Fortnight' पखवाड़े (14 दिन) को कहते हैं।<br><b>Short Trick:</b> The prefix 'Deca-' means ten.",
+        "topic": "One Word Substitution"
+    },
+    {
+        "ans": 2,
+        "difficulty": "Easy",
+        "op_en": [
+            "Scarce",
+            "Plentiful",
+            "Rare",
+            "Empty"
+        ],
+        "op_hi": [
+            "Scarce",
+            "Plentiful",
+            "Rare",
+            "Empty"
+        ],
+        "q_en": "Select the most appropriate synonym of the given word.<br><br>Abundant",
+        "q_hi": "Select the most appropriate synonym of the given word.<br><br>Abundant",
+        "section": "English",
+        "solution": "<b>Solution (EN):</b> 'Abundant' means existing or available in large quantities. 'Plentiful' is its exact synonym. 'Scarce', 'Rare', and 'Empty' are antonyms.<br><b>Solution (HI):</b> 'Abundant' का अर्थ है प्रचुर मात्रा में या बहुतायत। 'Plentiful' इसका सही समानार्थी है। 'Scarce' (दुर्लभ) और 'Empty' (खाली) इसके विपरीत अर्थ देते हैं।<br><b>Short Trick:</b> Abundant = A lot of something = Plentiful.",
+        "topic": "Vocabulary"
+    },
+    {
+        "ans": 3,
+        "difficulty": "Medium",
+        "op_en": [
+            "Hardworking",
+            "Careful",
+            "Lazy",
+            "Active"
+        ],
+        "op_hi": [
+            "Hardworking",
+            "Careful",
+            "Lazy",
+            "Active"
+        ],
+        "q_en": "Select the most appropriate antonym of the given word.<br><br>Diligent",
+        "q_hi": "Select the most appropriate antonym of the given word.<br><br>Diligent",
+        "section": "English",
+        "solution": "<b>Solution (EN):</b> 'Diligent' means having or showing care and conscientiousness in one's work or duties (hardworking). Its antonym is 'Lazy', which means unwilling to work.<br><b>Solution (HI):</b> 'Diligent' का अर्थ है परिश्रमी या मेहनती। इसका विलोम (antonym) 'Lazy' (आलसी) होगा। 'Hardworking' और 'Active' इसके समानार्थी (synonyms) हैं।<br><b>Short Trick:</b> Diligent implies hard work. The exact opposite of hard work is lazy.",
+        "topic": "Vocabulary"
+    },
+    {
+        "ans": 2,
+        "difficulty": "Easy",
+        "op_en": [
+            "a",
+            "an",
+            "the",
+            "No article needed"
+        ],
+        "op_hi": [
+            "a",
+            "an",
+            "the",
+            "No article needed"
+        ],
+        "q_en": "Select the most appropriate option to fill in the blank.<br><br>Despite the poor conditions, he proved to be ______ honest man.",
+        "q_hi": "Select the most appropriate option to fill in the blank.<br><br>Despite the poor conditions, he proved to be ______ honest man.",
+        "section": "English",
+        "solution": "<b>Solution (EN):</b> The word 'honest' begins with a consonant letter 'h' but is pronounced with a vowel sound ('o'). Therefore, the article 'an' must precede it.<br><b>Solution (HI):</b> शब्द 'honest' व्यंजन (consonant) 'h' से शुरू होता है लेकिन इसका उच्चारण स्वर ध्वनि ('o') से होता है। इसलिए, इससे पहले 'an' का उपयोग किया जाएगा।<br><b>Short Trick:</b> Always judge 'a' or 'an' by the sound, not the spelling. Honest starts with an 'O' sound.",
+        "topic": "Articles"
+    },
+    {
+        "ans": 2,
+        "difficulty": "Medium",
+        "op_en": [
+            "To shatter glass",
+            "To start a conversation in a tense or formal situation",
+            "To do something illegal",
+            "To freeze water"
+        ],
+        "op_hi": [
+            "To shatter glass",
+            "To start a conversation in a tense or formal situation",
+            "To do something illegal",
+            "To freeze water"
+        ],
+        "q_en": "Select the most appropriate meaning of the given idiom.<br><br>Break the ice",
+        "q_hi": "Select the most appropriate meaning of the given idiom.<br><br>Break the ice",
+        "section": "English",
+        "solution": "<b>Solution (EN):</b> The idiom 'Break the ice' means to do or say something to relieve tension or get conversation going in a strained situation or when strangers meet.<br><b>Solution (HI):</b> 'Break the ice' मुहावरे का अर्थ है किसी तनावपूर्ण या औपचारिक स्थिति में बातचीत शुरू करना या झिझक तोड़ना।<br><b>Short Trick:</b> Ice represents coldness/silence. Breaking it means warming up a conversation.",
+        "topic": "Idioms and Proverbs"
+    },
+    {
+        "ans": 2,
+        "difficulty": "Medium",
+        "op_en": [
+            "The history of South American countries",
+            "The biodiversity and threats to the Amazon rainforest",
+            "The process of global warming",
+            "Different types of insects in the rainforest"
+        ],
+        "op_hi": [
+            "The history of South American countries",
+            "The biodiversity and threats to the Amazon rainforest",
+            "The process of global warming",
+            "Different types of insects in the rainforest"
+        ],
+        "q_en": "<b>Comprehension:</b><br>Read the given passage carefully and answer the questions that follow.<br> <div style=\"text-align: justify;\">The Amazon rainforest, often referred to as the \"lungs of the Earth,\" plays a crucial role in regulating the global climate. It absorbs vast amounts of carbon dioxide and produces a significant portion of the world's oxygen. Spanning over nine countries in South America, it is home to unparalleled biodiversity, containing millions of species of insects, plants, and birds, many of which are still undiscovered by science. However, this vital ecosystem faces severe threats from deforestation, primarily driven by logging, agriculture, and cattle ranching. The loss of tree cover not only destroys habitats but also releases stored carbon back into the atmosphere, accelerating global warming. Conservation efforts and sustainable policies are urgently needed to protect the Amazon from irreversible damage, as its survival is inextricably linked to the health of our entire planet.</div><br>What is the primary theme of the passage?",
+        "q_hi": "<b>Comprehension:</b><br>Read the given passage carefully and answer the questions that follow.<br> <div style=\"text-align: justify;\">The Amazon rainforest, often referred to as the \"lungs of the Earth,\" plays a crucial role in regulating the global climate. It absorbs vast amounts of carbon dioxide and produces a significant portion of the world's oxygen. Spanning over nine countries in South America, it is home to unparalleled biodiversity, containing millions of species of insects, plants, and birds, many of which are still undiscovered by science. However, this vital ecosystem faces severe threats from deforestation, primarily driven by logging, agriculture, and cattle ranching. The loss of tree cover not only destroys habitats but also releases stored carbon back into the atmosphere, accelerating global warming. Conservation efforts and sustainable policies are urgently needed to protect the Amazon from irreversible damage, as its survival is inextricably linked to the health of our entire planet.</div><br>What is the primary theme of the passage?",
+        "section": "English",
+        "solution": "<b>Solution (EN):</b> The passage mainly highlights the immense ecological importance (biodiversity, climate regulation) of the Amazon rainforest and the urgent threats (deforestation) it currently faces.<br><b>Solution (HI):</b> गद्यांश मुख्य रूप से अमेज़न वर्षावन के पारिस्थितिक महत्व (जैव विविधता) और इसके सामने आने वाले गंभीर खतरों (वनों की कटाई) पर प्रकाश डालता है।<br><b>Short Trick:</b> The passage focuses entirely on the Amazon rainforest, its importance, and the dangers it faces.",
+        "topic": "Reading Comprehension"
+    },
+    {
+        "ans": 2,
+        "difficulty": "Easy",
+        "op_en": [
+            "Because it is shaped like a lung",
+            "Because it absorbs carbon dioxide and produces oxygen",
+            "Because it spans over nine countries",
+            "Because it is the largest forest"
+        ],
+        "op_hi": [
+            "Because it is shaped like a lung",
+            "Because it absorbs carbon dioxide and produces oxygen",
+            "Because it spans over nine countries",
+            "Because it is the largest forest"
+        ],
+        "q_en": "<b>Comprehension:</b><br>Read the given passage carefully and answer the questions that follow.<br> <div style=\"text-align: justify;\">The Amazon rainforest, often referred to as the \"lungs of the Earth,\" plays a crucial role in regulating the global climate. It absorbs vast amounts of carbon dioxide and produces a significant portion of the world's oxygen. Spanning over nine countries in South America, it is home to unparalleled biodiversity, containing millions of species of insects, plants, and birds, many of which are still undiscovered by science. However, this vital ecosystem faces severe threats from deforestation, primarily driven by logging, agriculture, and cattle ranching. The loss of tree cover not only destroys habitats but also releases stored carbon back into the atmosphere, accelerating global warming. Conservation efforts and sustainable policies are urgently needed to protect the Amazon from irreversible damage, as its survival is inextricably linked to the health of our entire planet.</div><br>Why is the Amazon rainforest referred to as the \"lungs of the Earth\"?",
+        "q_hi": "<b>Comprehension:</b><br>Read the given passage carefully and answer the questions that follow.<br> <div style=\"text-align: justify;\">The Amazon rainforest, often referred to as the \"lungs of the Earth,\" plays a crucial role in regulating the global climate. It absorbs vast amounts of carbon dioxide and produces a significant portion of the world's oxygen. Spanning over nine countries in South America, it is home to unparalleled biodiversity, containing millions of species of insects, plants, and birds, many of which are still undiscovered by science. However, this vital ecosystem faces severe threats from deforestation, primarily driven by logging, agriculture, and cattle ranching. The loss of tree cover not only destroys habitats but also releases stored carbon back into the atmosphere, accelerating global warming. Conservation efforts and sustainable policies are urgently needed to protect the Amazon from irreversible damage, as its survival is inextricably linked to the health of our entire planet.</div><br>Why is the Amazon rainforest referred to as the \"lungs of the Earth\"?",
+        "section": "English",
+        "solution": "<b>Solution (EN):</b> The second sentence clearly answers this: \"It absorbs vast amounts of carbon dioxide and produces a significant portion of the world's oxygen.\"<br><b>Solution (HI):</b> गद्यांश के दूसरे वाक्य में स्पष्ट रूप से बताया गया है कि यह विशाल मात्रा में कार्बन डाइऑक्साइड सोखता है और ऑक्सीजन पैदा करता है। इसलिए इसे 'पृथ्वी के फेफड़े' कहा जाता है।<br><b>Short Trick:</b> Look directly at the sentence following the keyword \"lungs of the Earth\" for the explanation.",
+        "topic": "Reading Comprehension"
+    },
+    {
+        "ans": 1,
+        "difficulty": "Medium",
+        "op_en": [
+            "Unparalleled",
+            "Crucial",
+            "Irreversible",
+            "Undiscovered"
+        ],
+        "op_hi": [
+            "Unparalleled",
+            "Crucial",
+            "Irreversible",
+            "Undiscovered"
+        ],
+        "q_en": "<b>Comprehension:</b><br>Read the given passage carefully and answer the questions that follow.<br> <div style=\"text-align: justify;\">The Amazon rainforest, often referred to as the \"lungs of the Earth,\" plays a crucial role in regulating the global climate. It absorbs vast amounts of carbon dioxide and produces a significant portion of the world's oxygen. Spanning over nine countries in South America, it is home to unparalleled biodiversity, containing millions of species of insects, plants, and birds, many of which are still undiscovered by science. However, this vital ecosystem faces severe threats from deforestation, primarily driven by logging, agriculture, and cattle ranching. The loss of tree cover not only destroys habitats but also releases stored carbon back into the atmosphere, accelerating global warming. Conservation efforts and sustainable policies are urgently needed to protect the Amazon from irreversible damage, as its survival is inextricably linked to the health of our entire planet.</div><br>Select the word from the passage that is closest in meaning to \"unmatched\" or \"without equal\".",
+        "q_hi": "<b>Comprehension:</b><br>Read the given passage carefully and answer the questions that follow.<br> <div style=\"text-align: justify;\">The Amazon rainforest, often referred to as the \"lungs of the Earth,\" plays a crucial role in regulating the global climate. It absorbs vast amounts of carbon dioxide and produces a significant portion of the world's oxygen. Spanning over nine countries in South America, it is home to unparalleled biodiversity, containing millions of species of insects, plants, and birds, many of which are still undiscovered by science. However, this vital ecosystem faces severe threats from deforestation, primarily driven by logging, agriculture, and cattle ranching. The loss of tree cover not only destroys habitats but also releases stored carbon back into the atmosphere, accelerating global warming. Conservation efforts and sustainable policies are urgently needed to protect the Amazon from irreversible damage, as its survival is inextricably linked to the health of our entire planet.</div><br>Select the word from the passage that is closest in meaning to \"unmatched\" or \"without equal\".",
+        "section": "English",
+        "solution": "<b>Solution (EN):</b> The word 'unparalleled' means having no equal or match, making it the correct choice. 'Crucial' means extremely important, and 'irreversible' means impossible to change back.<br><b>Solution (HI):</b> 'Unparalleled' का अर्थ है अद्वितीय या जिसके समान कोई दूसरा न हो (unmatched)। इसलिए यह सही विकल्प है।<br><b>Short Trick:</b> Un-parallel means nothing runs parallel to it or matches its level.",
+        "topic": "Reading Comprehension"
+    },
+    {
+        "ans": 3,
+        "difficulty": "Easy",
+        "op_en": [
+            "Climate change",
+            "Discovery of new species",
+            "Logging, agriculture, and cattle ranching",
+            "Natural forest fires"
+        ],
+        "op_hi": [
+            "Climate change",
+            "Discovery of new species",
+            "Logging, agriculture, and cattle ranching",
+            "Natural forest fires"
+        ],
+        "q_en": "<b>Comprehension:</b><br>Read the given passage carefully and answer the questions that follow.<br> <div style=\"text-align: justify;\">The Amazon rainforest, often referred to as the \"lungs of the Earth,\" plays a crucial role in regulating the global climate. It absorbs vast amounts of carbon dioxide and produces a significant portion of the world's oxygen. Spanning over nine countries in South America, it is home to unparalleled biodiversity, containing millions of species of insects, plants, and birds, many of which are still undiscovered by science. However, this vital ecosystem faces severe threats from deforestation, primarily driven by logging, agriculture, and cattle ranching. The loss of tree cover not only destroys habitats but also releases stored carbon back into the atmosphere, accelerating global warming. Conservation efforts and sustainable policies are urgently needed to protect the Amazon from irreversible damage, as its survival is inextricably linked to the health of our entire planet.</div><br>According to the passage, what is the primary driver of deforestation in the Amazon?",
+        "q_hi": "<b>Comprehension:</b><br>Read the given passage carefully and answer the questions that follow.<br> <div style=\"text-align: justify;\">The Amazon rainforest, often referred to as the \"lungs of the Earth,\" plays a crucial role in regulating the global climate. It absorbs vast amounts of carbon dioxide and produces a significant portion of the world's oxygen. Spanning over nine countries in South America, it is home to unparalleled biodiversity, containing millions of species of insects, plants, and birds, many of which are still undiscovered by science. However, this vital ecosystem faces severe threats from deforestation, primarily driven by logging, agriculture, and cattle ranching. The loss of tree cover not only destroys habitats but also releases stored carbon back into the atmosphere, accelerating global warming. Conservation efforts and sustainable policies are urgently needed to protect the Amazon from irreversible damage, as its survival is inextricably linked to the health of our entire planet.</div><br>According to the passage, what is the primary driver of deforestation in the Amazon?",
+        "section": "English",
+        "solution": "<b>Solution (EN):</b> The text explicitly states that deforestation is \"primarily driven by logging, agriculture, and cattle ranching.\"<br><b>Solution (HI):</b> गद्यांश में स्पष्ट रूप से बताया गया है कि वनों की कटाई मुख्य रूप से \"logging, agriculture, and cattle ranching\" (लकड़ी कटाई, कृषि और पशुपालन) के कारण होती है।<br><b>Short Trick:</b> Scan for the word \"driven by\" directly after mentioning deforestation.",
+        "topic": "Reading Comprehension"
+    },
+    {
+        "ans": 2,
+        "difficulty": "Medium",
+        "op_en": [
+            "New plant species grow rapidly",
+            "Stored carbon is released into the atmosphere",
+            "The climate becomes colder",
+            "Biodiversity increases"
+        ],
+        "op_hi": [
+            "New plant species grow rapidly",
+            "Stored carbon is released into the atmosphere",
+            "The climate becomes colder",
+            "Biodiversity increases"
+        ],
+        "q_en": "<b>Comprehension:</b><br>Read the given passage carefully and answer the questions that follow.<br> <div style=\"text-align: justify;\">The Amazon rainforest, often referred to as the \"lungs of the Earth,\" plays a crucial role in regulating the global climate. It absorbs vast amounts of carbon dioxide and produces a significant portion of the world's oxygen. Spanning over nine countries in South America, it is home to unparalleled biodiversity, containing millions of species of insects, plants, and birds, many of which are still undiscovered by science. However, this vital ecosystem faces severe threats from deforestation, primarily driven by logging, agriculture, and cattle ranching. The loss of tree cover not only destroys habitats but also releases stored carbon back into the atmosphere, accelerating global warming. Conservation efforts and sustainable policies are urgently needed to protect the Amazon from irreversible damage, as its survival is inextricably linked to the health of our entire planet.</div><br>According to the passage, what happens when the tree cover in the Amazon is lost?",
+        "q_hi": "<b>Comprehension:</b><br>Read the given passage carefully and answer the questions that follow.<br> <div style=\"text-align: justify;\">The Amazon rainforest, often referred to as the \"lungs of the Earth,\" plays a crucial role in regulating the global climate. It absorbs vast amounts of carbon dioxide and produces a significant portion of the world's oxygen. Spanning over nine countries in South America, it is home to unparalleled biodiversity, containing millions of species of insects, plants, and birds, many of which are still undiscovered by science. However, this vital ecosystem faces severe threats from deforestation, primarily driven by logging, agriculture, and cattle ranching. The loss of tree cover not only destroys habitats but also releases stored carbon back into the atmosphere, accelerating global warming. Conservation efforts and sustainable policies are urgently needed to protect the Amazon from irreversible damage, as its survival is inextricably linked to the health of our entire planet.</div><br>According to the passage, what happens when the tree cover in the Amazon is lost?",
+        "section": "English",
+        "solution": "<b>Solution (EN):</b> The passage notes that \"The loss of tree cover not only destroys habitats but also releases stored carbon back into the atmosphere.\" Therefore, option 2 is correct.<br><b>Solution (HI):</b> गद्यांश में कहा गया है कि पेड़ों के नष्ट होने से न केवल आवास नष्ट होते हैं बल्कि जमा हुआ कार्बन (stored carbon) वापस वायुमंडल में मिल जाता है। इसलिए विकल्प 2 सही है।<br><b>Short Trick:</b> Match the keyword \"loss of tree cover\" to the consequence in the passage to find the answer directly.",
+        "topic": "Reading Comprehension"
+    },
+    {
+        "ans": 2,
+        "difficulty": "Easy",
+        "op_en": [
+            "Outdated",
+            "Current",
+            "Rigid",
+            "Broken"
+        ],
+        "op_hi": [
+            "Outdated",
+            "Current",
+            "Rigid",
+            "Broken"
+        ],
+        "q_en": "Select the most appropriate antonym of the given word.<br><br>Obsolete",
+        "q_hi": "Select the most appropriate antonym of the given word.<br><br>Obsolete",
+        "section": "English1",
+        "solution": "<b>Solution (EN):</b> 'Obsolete' means no longer produced or used; out of date. The exact opposite is 'Current', which means belonging to the present time. 'Outdated' is a synonym of obsolete.<br><b>Solution (HI):</b> 'Obsolete' का अर्थ है अप्रचलित या पुराना (जो अब उपयोग में न हो)। इसका विलोम (antonym) 'Current' (वर्तमान या जो चलन में हो) है। 'Outdated' इसका पर्यायवाची है।<br><b>Short Trick:</b> Obsolete = Out of date. Opposite = Current.",
+        "topic": "Antonyms"
+    },
+    {
+        "ans": 3,
+        "difficulty": "Easy",
+        "op_en": [
+            "A hidden enemy",
+            "A difficult task",
+            "An easy task",
+            "A sweet dessert"
+        ],
+        "op_hi": [
+            "A hidden enemy",
+            "A difficult task",
+            "An easy task",
+            "A sweet dessert"
+        ],
+        "q_en": "Select the most appropriate meaning of the given idiom.<br><br>A piece of cake",
+        "q_hi": "Select the most appropriate meaning of the given idiom.<br><br>A piece of cake",
+        "section": "English1",
+        "solution": "<b>Solution (EN):</b> The idiom 'a piece of cake' is used to describe a task, job, or activity that is very easy to accomplish.<br><b>Solution (HI):</b> 'A piece of cake' मुहावरे का उपयोग किसी ऐसे काम या गतिविधि का वर्णन करने के लिए किया जाता है जिसे करना बहुत आसान हो (An easy task)।<br><b>Short Trick:</b> Eating a piece of cake is very easy, hence it means 'an easy task'.",
+        "topic": "Idioms and Phrases"
+    },
+    {
+        "ans": 2,
+        "difficulty": "Medium",
+        "op_en": [
+            "Conscientious",
+            "Mischeivous",
+            "Occurrence",
+            "Perseverance"
+        ],
+        "op_hi": [
+            "Conscientious",
+            "Mischeivous",
+            "Occurrence",
+            "Perseverance"
+        ],
+        "q_en": "Select the INCORRECTLY spelt word.",
+        "q_hi": "Select the INCORRECTLY spelt word.",
+        "section": "English1",
+        "solution": "<b>Solution (EN):</b> The word 'Mischeivous' is incorrectly spelt. The correct spelling is 'Mischievous', which means causing or showing a fondness for causing trouble in a playful way.<br><b>Solution (HI):</b> 'Mischeivous' की वर्तनी गलत है। सही वर्तनी 'Mischievous' (शरारती) है। 'i' पहले आता है और 'e' बाद में (ie)।<br><b>Short Trick:</b> Break it into syllables to remember the spelling: Mis-chiev-ous. Note that 'i' comes before 'e'.",
+        "topic": "Spelling"
+    },
+    {
+        "ans": 1,
+        "difficulty": "Medium",
+        "op_en": [
+            "Stoic",
+            "Cynic",
+            "Mystic",
+            "Epicure"
+        ],
+        "op_hi": [
+            "Stoic",
+            "Cynic",
+            "Mystic",
+            "Epicure"
+        ],
+        "q_en": "Select the option that can be used as a one-word substitute for the given group of words.<br><br>A person who is indifferent to pleasure or pain",
+        "q_hi": "Select the option that can be used as a one-word substitute for the given group of words.<br><br>A person who is indifferent to pleasure or pain",
+        "section": "English1",
+        "solution": "<b>Solution (EN):</b> A 'Stoic' is a person who can endure pain or hardship without showing their feelings or complaining. A 'Cynic' doubts human motives, a 'Mystic' seeks spiritual truth, and an 'Epicure' is fond of sensual pleasure, especially food.<br><b>Solution (HI):</b> 'Stoic' (तटस्थ/उदासीन) वह व्यक्ति होता है जिस पर सुख या दुख का कोई प्रभाव नहीं पड़ता। 'Cynic' निंदक होता है, और 'Epicure' स्वादलोलुप (खाने-पीने का शौकीन) होता है।<br><b>Short Trick:</b> STOIC = Someone Tolerating Obstacles In Calmness.",
+        "topic": "One Word Substitution"
+    },
+    {
+        "ans": 2,
+        "difficulty": "Easy",
+        "op_en": [
+            "Energetic",
+            "Sluggish",
+            "Thrilled",
+            "Hostile"
+        ],
+        "op_hi": [
+            "Energetic",
+            "Sluggish",
+            "Thrilled",
+            "Hostile"
+        ],
+        "q_en": "Select the most appropriate synonym of the given word.<br><br>Lethargic",
+        "q_hi": "Select the most appropriate synonym of the given word.<br><br>Lethargic",
+        "section": "English1",
+        "solution": "<b>Solution (EN):</b> 'Lethargic' means affected by lethargy; sluggish and apathetic. Therefore, 'Sluggish' is the correct synonym. 'Energetic' is its antonym.<br><b>Solution (HI):</b> 'Lethargic' का अर्थ है सुस्त या आलसी। 'Sluggish' (सुस्त) इसका सबसे उपयुक्त पर्यायवाची है। 'Energetic' का अर्थ ऊर्जावान होता है।<br><b>Short Trick:</b> Lethargic sounds like lacking energy = Sluggish.",
+        "topic": "Synonyms"
+    },
+    {
+        "ans": 1,
+        "difficulty": "Easy",
+        "op_en": [
+            "drastically",
+            "barely",
+            "rarely",
+            "sluggishly"
+        ],
+        "op_hi": [
+            "drastically",
+            "barely",
+            "rarely",
+            "sluggishly"
+        ],
+        "q_en": "<b>Comprehension:</b><br>In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.<br><br>In today's fast-paced digital world, technology has (1) ______ changed the way we communicate. While smartphones and social media keep us (2) ______ to people across the globe, they have also created a sense of isolation. Many individuals spend hours scrolling through feeds, which often (3) ______ their mental health. It is essential to strike a (4) ______ between online activities and real-life interactions. We must ensure that screens do not (5) ______ genuine human connections.<br><br>Select the most appropriate option to fill in blank number 1.",
+        "q_hi": "<b>Comprehension:</b><br>In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.<br><br>In today's fast-paced digital world, technology has (1) ______ changed the way we communicate. While smartphones and social media keep us (2) ______ to people across the globe, they have also created a sense of isolation. Many individuals spend hours scrolling through feeds, which often (3) ______ their mental health. It is essential to strike a (4) ______ between online activities and real-life interactions. We must ensure that screens do not (5) ______ genuine human connections.<br><br>Select the most appropriate option to fill in blank number 1.",
+        "section": "English1",
+        "solution": "<b>Solution (EN):</b> The passage talks about the massive impact of technology. 'Drastically' means in a way that is likely to have a strong or far-reaching effect, which fits the context of changing communication perfectly.<br><b>Solution (HI):</b> गद्यांश तकनीक के बड़े प्रभाव के बारे में बात करता है। 'Drastically' का अर्थ है व्यापक रूप से या भारी पैमाने पर। तकनीक ने हमारे संचार के तरीके को व्यापक रूप से बदल दिया है।<br><b>Short Trick:</b> Technology has brought a huge change, so 'drastically' (hugely) is the right word.",
+        "topic": "Cloze Test"
+    },
+    {
+        "ans": 2,
+        "difficulty": "Easy",
+        "op_en": [
+            "detached",
+            "connected",
+            "opposed",
+            "distant"
+        ],
+        "op_hi": [
+            "detached",
+            "connected",
+            "opposed",
+            "distant"
+        ],
+        "q_en": "<b>Comprehension:</b><br>In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.<br><br>In today's fast-paced digital world, technology has (1) ______ changed the way we communicate. While smartphones and social media keep us (2) ______ to people across the globe, they have also created a sense of isolation. Many individuals spend hours scrolling through feeds, which often (3) ______ their mental health. It is essential to strike a (4) ______ between online activities and real-life interactions. We must ensure that screens do not (5) ______ genuine human connections.<br><br>Select the most appropriate option to fill in blank number 2.",
+        "q_hi": "<b>Comprehension:</b><br>In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.<br><br>In today's fast-paced digital world, technology has (1) ______ changed the way we communicate. While smartphones and social media keep us (2) ______ to people across the globe, they have also created a sense of isolation. Many individuals spend hours scrolling through feeds, which often (3) ______ their mental health. It is essential to strike a (4) ______ between online activities and real-life interactions. We must ensure that screens do not (5) ______ genuine human connections.<br><br>Select the most appropriate option to fill in blank number 2.",
+        "section": "English1",
+        "solution": "<b>Solution (EN):</b> Smartphones and social media are tools for communication, thus they keep us 'connected' to people around the world. The word 'While' sets up a contrast with 'isolation' in the next clause.<br><b>Solution (HI):</b> स्मार्टफोन और सोशल मीडिया हमें दुनिया भर के लोगों से 'connected' (जुड़ा हुआ) रखते हैं। अन्य विकल्प जैसे 'detached' (अलग) या 'distant' (दूर) यहाँ गलत अर्थ देंगे।<br><b>Short Trick:</b> Social media -> keeps us in touch -> connected.",
+        "topic": "Cloze Test"
+    },
+    {
+        "ans": 3,
+        "difficulty": "Medium",
+        "op_en": [
+            "improves",
+            "elevates",
+            "damages",
+            "repairs"
+        ],
+        "op_hi": [
+            "improves",
+            "elevates",
+            "damages",
+            "repairs"
+        ],
+        "q_en": "<b>Comprehension:</b><br>In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.<br><br>In today's fast-paced digital world, technology has (1) ______ changed the way we communicate. While smartphones and social media keep us (2) ______ to people across the globe, they have also created a sense of isolation. Many individuals spend hours scrolling through feeds, which often (3) ______ their mental health. It is essential to strike a (4) ______ between online activities and real-life interactions. We must ensure that screens do not (5) ______ genuine human connections.<br><br>Select the most appropriate option to fill in blank number 3.",
+        "q_hi": "<b>Comprehension:</b><br>In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.<br><br>In today's fast-paced digital world, technology has (1) ______ changed the way we communicate. While smartphones and social media keep us (2) ______ to people across the globe, they have also created a sense of isolation. Many individuals spend hours scrolling through feeds, which often (3) ______ their mental health. It is essential to strike a (4) ______ between online activities and real-life interactions. We must ensure that screens do not (5) ______ genuine human connections.<br><br>Select the most appropriate option to fill in blank number 3.",
+        "section": "English1",
+        "solution": "<b>Solution (EN):</b> The passage discusses the negative effects of excessive screen time (creating a sense of isolation). Therefore, spending hours scrolling 'damages' mental health. The other options are positive words.<br><b>Solution (HI):</b> गद्यांश में स्क्रीन टाइम के नकारात्मक प्रभावों पर चर्चा की गई है। लगातार फीड स्क्रॉल करने से मानसिक स्वास्थ्य 'damages' (खराब) होता है। अन्य विकल्प सकारात्मक हैं जो यहाँ फिट नहीं बैठते।<br><b>Short Trick:</b> Hours of scrolling + sense of isolation = Negative effect (damages).",
+        "topic": "Cloze Test"
+    },
+    {
+        "ans": 4,
+        "difficulty": "Medium",
+        "op_en": [
+            "bargain",
+            "chord",
+            "pose",
+            "balance"
+        ],
+        "op_hi": [
+            "bargain",
+            "chord",
+            "pose",
+            "balance"
+        ],
+        "q_en": "<b>Comprehension:</b><br>In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.<br><br>In today's fast-paced digital world, technology has (1) ______ changed the way we communicate. While smartphones and social media keep us (2) ______ to people across the globe, they have also created a sense of isolation. Many individuals spend hours scrolling through feeds, which often (3) ______ their mental health. It is essential to strike a (4) ______ between online activities and real-life interactions. We must ensure that screens do not (5) ______ genuine human connections.<br><br>Select the most appropriate option to fill in blank number 4.",
+        "q_hi": "<b>Comprehension:</b><br>In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.<br><br>In today's fast-paced digital world, technology has (1) ______ changed the way we communicate. While smartphones and social media keep us (2) ______ to people across the globe, they have also created a sense of isolation. Many individuals spend hours scrolling through feeds, which often (3) ______ their mental health. It is essential to strike a (4) ______ between online activities and real-life interactions. We must ensure that screens do not (5) ______ genuine human connections.<br><br>Select the most appropriate option to fill in blank number 4.",
+        "section": "English1",
+        "solution": "<b>Solution (EN):</b> 'Strike a balance' is a common collocation meaning to choose a moderate course or compromise between two different things (here, online activities and real-life interactions).<br><b>Solution (HI):</b> 'Strike a balance' एक आम वाक्यांश है जिसका अर्थ है दो अलग-अलग चीजों के बीच संतुलन बनाना। यहाँ ऑनलाइन गतिविधियों और वास्तविक जीवन की बातचीत के बीच 'balance' (संतुलन) बनाने की बात की जा रही है।<br><b>Short Trick:</b> The phrase is always \"strike a balance between A and B\".",
+        "topic": "Cloze Test"
+    },
+    {
+        "ans": 1,
+        "difficulty": "Hard",
+        "op_en": [
+            "replace",
+            "encourage",
+            "build",
+            "support"
+        ],
+        "op_hi": [
+            "replace",
+            "encourage",
+            "build",
+            "support"
+        ],
+        "q_en": "<b>Comprehension:</b><br>In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.<br><br>In today's fast-paced digital world, technology has (1) ______ changed the way we communicate. While smartphones and social media keep us (2) ______ to people across the globe, they have also created a sense of isolation. Many individuals spend hours scrolling through feeds, which often (3) ______ their mental health. It is essential to strike a (4) ______ between online activities and real-life interactions. We must ensure that screens do not (5) ______ genuine human connections.<br><br>Select the most appropriate option to fill in blank number 5.",
+        "q_hi": "<b>Comprehension:</b><br>In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.<br><br>In today's fast-paced digital world, technology has (1) ______ changed the way we communicate. While smartphones and social media keep us (2) ______ to people across the globe, they have also created a sense of isolation. Many individuals spend hours scrolling through feeds, which often (3) ______ their mental health. It is essential to strike a (4) ______ between online activities and real-life interactions. We must ensure that screens do not (5) ______ genuine human connections.<br><br>Select the most appropriate option to fill in blank number 5.",
+        "section": "English1",
+        "solution": "<b>Solution (EN):</b> The sentence warns against letting technology take over completely. We must ensure screens do not 'replace' (take the place of) genuine human connections. The other options are positive and do not fit the warning tone ('do not...').<br><b>Solution (HI):</b> वाक्य चेतावनी देता है कि हमें यह सुनिश्चित करना चाहिए कि स्क्रीन असली मानवीय संबंधों की 'replace' (जगह न ले) लें। अन्य विकल्प (encourage, build, support) सकारात्मक हैं और यहाँ फिट नहीं बैठते।<br><b>Short Trick:</b> \"Do not\" requires a negative action in this context. Replacing human connection with screens is the negative action to avoid.",
+        "topic": "Cloze Test"
+    },
+    {
+        "section": "General Awareness",
+        "topic": "Modern History",
+        "difficulty": "Medium",
+        "q_en": "Who was the President of the Indian National Congress during its Surat Session in the year 1907?",
+        "q_hi": "वर्ष 1907 में, भारतीय राष्ट्रीय कांग्रेस के सूरत अधिवेशन के दौरान इसके अध्यक्ष कौन थे?",
+        "op_en": [
+            "Dadabhai Naoroji",
+            "Rash Behari Ghosh",
+            "G. K. Gokhale",
+            "Bal Gangadhar Tilak"
+        ],
+        "op_hi": [
+            "दादाभाई नौरोजी",
+            "रास बिहारी घोष",
+            "जी. के. गोखले",
+            "बाल गंगाधर तिलक"
+        ],
+        "ans": 2,
+        "solution": "<b>Solution (EN):</b> The Surat Session of the Indian National Congress in 1907 was presided over by Rash Behari Ghosh. During this historic session, the Congress split into two prominent groups: the Moderates and the Extremists.<br><b>Solution (HI):</b> 1907 में भारतीय राष्ट्रीय कांग्रेस के सूरत अधिवेशन की अध्यक्षता रास बिहारी घोष ने की थी। इस ऐतिहासिक अधिवेशन के दौरान कांग्रेस दो प्रमुख गुटों: नरम दल और गरम दल में विभाजित हो गई थी।<br><b>Short Trick:</b> 'S'urat split happened under the presidency of 'R'ash Behari Ghosh."
+    },
+    {
+        "section": "General Awareness",
+        "topic": "Static GK",
+        "difficulty": "Hard",
+        "q_en": "The formerly government-owned telecommunications company Videsh Sanchar Nigam Limited (VSNL) has been renamed as __________.",
+        "q_hi": "पूर्व में सरकार के स्वामित्व वाली दूरसंचार कंपनी विदेश संचार निगम लिमिटेड (VSNL) का नाम बदलकर __________ कर दिया गया है।",
+        "op_en": [
+            "Bharat Sanchar Nigam Ltd.",
+            "Reliance Sanchar Nigam Ltd.",
+            "Reliance Communications Ltd.",
+            "Tata Communications Ltd."
+        ],
+        "op_hi": [
+            "भारत संचार निगम लिमिटेड (Bharat Sanchar Nigam Ltd.)",
+            "रिलायंस संचार निगम लिमिटेड (Reliance Sanchar Nigam Ltd.)",
+            "रिलायंस कम्युनिकेशंस लिमिटेड (Reliance Communications Ltd.)",
+            "टाटा कम्युनिकेशंस लिमिटेड (Tata Communications Ltd.)"
+        ],
+        "ans": 4,
+        "solution": "<b>Solution (EN):</b> Videsh Sanchar Nigam Limited (VSNL) was originally a government-owned telecommunications service provider. The Government of India sold its stake to the Tata Group in 2002, and the company was subsequently renamed Tata Communications Limited in 2008.<br><b>Solution (HI):</b> विदेश संचार निगम लिमिटेड (VSNL) मूल रूप से सरकार के स्वामित्व वाली दूरसंचार सेवा प्रदाता कंपनी थी। भारत सरकार ने 2002 में अपनी हिस्सेदारी टाटा समूह को बेच दी थी, और बाद में 2008 में कंपनी का नाम बदलकर टाटा कम्युनिकेशंस लिमिटेड कर दिया गया।<br><b>Short Trick:</b> VSNL was acquired by Tata, hence renamed Tata Communications."
+    },
+    {
+        "section": "General Awareness",
+        "topic": "Art & Culture",
+        "difficulty": "Medium",
+        "q_en": "The famous 'Kailash Temple' is located in which of the following caves?",
+        "q_hi": "प्रसिद्ध ‘कैलाश मंदिर’ निम्नलिखित में से किन गुफाओं में स्थित है?",
+        "op_en": [
+            "Bagh Caves",
+            "Ellora Caves",
+            "Udayagiri Caves",
+            "Ajanta Caves"
+        ],
+        "op_hi": [
+            "बाघ गुफाओं में",
+            "एलोरा गुफाओं में",
+            "उदयगिरी गुफाओं में",
+            "अजंता गुफाओं में"
+        ],
+        "ans": 2,
+        "solution": "<b>Solution (EN):</b> The famous Kailash Temple is located in Cave 16 of the Ellora Caves in Maharashtra. It is one of the largest rock-cut ancient Hindu temples in the world, built by the Rashtrakuta king Krishna I.<br><b>Solution (HI):</b> प्रसिद्ध कैलाश मंदिर महाराष्ट्र में एलोरा गुफाओं की गुफा संख्या 16 में स्थित है। यह दुनिया के सबसे बड़े रॉक-कट (चट्टान काटकर बनाए गए) प्राचीन हिंदू मंदिरों में से एक है, जिसे राष्ट्रकूट राजा कृष्ण प्रथम ने बनवाया था।<br><b>Short Trick:</b> Kailash temple = Cave 16 = Ellora Caves."
+    },
+    {
+        "section": "General Awareness",
+        "topic": "Current Affairs",
+        "difficulty": "Hard",
+        "q_en": "Which of the following films won the Best Feature Film award at the 71st National Film Awards announced on 1 August 2025?",
+        "q_hi": "निम्नलिखित में से किस फिल्म ने 1 अगस्त 2025 को घोषित 71वें राष्ट्रीय फिल्म पुरस्कारों में सर्वश्रेष्ठ फीचर फिल्म का पुरस्कार जीता?",
+        "op_en": [
+            "Kathal: A Jackfruit Mystery",
+            "The Kerala Story",
+            "12th Fail",
+            "Bhool Bhulaiyaa 3"
+        ],
+        "op_hi": [
+            "कटहल: ए जैकफ्रूट मिस्ट्री",
+            "द केरला स्टोरी",
+            "12th फ़ेल",
+            "भूल भुलैया 3"
+        ],
+        "ans": 3,
+        "solution": "<b>Solution (EN):</b> '12th Fail' won the Best Feature Film at the given National Film Awards. Directed by Vidhu Vinod Chopra, it is an inspiring biographical drama based on the life and struggles of IPS officer Manoj Kumar Sharma.<br><b>Solution (HI):</b> '12th फेल' ने दिए गए राष्ट्रीय फिल्म पुरस्कारों में सर्वश्रेष्ठ फीचर फिल्म का पुरस्कार जीता। विधु विनोद चोपड़ा द्वारा निर्देशित, यह आईपीएस अधिकारी मनोज कुमार शर्मा के जीवन और संघर्षों पर आधारित एक प्रेरक बायोग्राफिकल ड्रामा है।<br><b>Short Trick:</b> Best Feature Film (as per the specific date/awards in query) = 12th Fail."
+    },
+    {
+        "section": "General Awareness",
+        "topic": "Current Affairs",
+        "difficulty": "Medium",
+        "q_en": "According to the National Cooperation Policy 2025, what is India's target for establishing new Primary Agricultural Credit Societies (PACS) by 2026?",
+        "q_hi": "राष्ट्रीय सहकारिता नीति 2025 के अनुसार, 2026 तक भारत का लक्ष्य, कितनी नई प्राथमिक कृषि ऋण समितियाँ (PACS) स्थापित करना है?",
+        "op_en": [
+            "5 Lakh",
+            "2 Lakh",
+            "1 Lakh",
+            "50,000"
+        ],
+        "op_hi": [
+            "5 लाख",
+            "2 लाख",
+            "1 लाख",
+            "50,000"
+        ],
+        "ans": 2,
+        "solution": "<b>Solution (EN):</b> As per the National Cooperation Policy, the Government of India has set an ambitious target to establish 2 lakh new Primary Agricultural Credit Societies (PACS), dairy, and fishery cooperatives in uncovered villages and panchayats to strengthen the cooperative network at the grassroots level.<br><b>Solution (HI):</b> राष्ट्रीय सहकारिता नीति के अनुसार, भारत सरकार ने जमीनी स्तर पर सहकारी नेटवर्क को मजबूत करने के लिए अछूते गांवों और पंचायतों में 2 लाख नई प्राथमिक कृषि ऋण समितियां (PACS), डेयरी और मत्स्य सहकारी समितियां स्थापित करने का एक महत्वाकांक्षी लक्ष्य रखा है।<br><b>Short Trick:</b> Target for new PACS by 2026 = 2 Lakh."
+    },
+    {
+        "section": "General Awareness",
+        "topic": "Current Affairs",
+        "difficulty": "Hard",
+        "q_en": "Which of the following best describes the Amaravati \"Quantum Valley\" announced in 2025?",
+        "q_hi": "निम्नलिखित में से कौन-सा, 2025 में घोषित अमरावती \"क्वांटम वैली\" का सर्वोत्तम ढंग से वर्णन करता है?",
+        "op_en": [
+            "A spaceport for launching satellites",
+            "A solar energy manufacturing zone",
+            "A Quantum Computing Technology Park",
+            "A deep-sea research center"
+        ],
+        "op_hi": [
+            "उपग्रहों के प्रक्षेपण के लिए एक स्पेसपोर्ट",
+            "एक सौर ऊर्जा विनिर्माण क्षेत्र",
+            "एक क्वांटम कंप्यूटिंग टेक्नोलॉजी पार्क",
+            "गहरे समुद्र में एक अनुसंधान केंद्र"
+        ],
+        "ans": 3,
+        "solution": "<b>Solution (EN):</b> The Amaravati \"Quantum Valley\" is intended to be a dedicated Quantum Computing Technology Park. Its establishment is aimed at fostering deep-tech research, innovation, and development in advanced computing and artificial intelligence.<br><b>Solution (HI):</b> अमरावती \"क्वांटम वैली\" का उद्देश्य एक समर्पित क्वांटम कंप्यूटिंग टेक्नोलॉजी पार्क बनाना है। इसकी स्थापना का उद्देश्य उन्नत कंप्यूटिंग और कृत्रिम बुद्धिमत्ता में डीप-टेक अनुसंधान, नवाचार और विकास को बढ़ावा देना है।<br><b>Short Trick:</b> Quantum Valley = Quantum Computing Tech Park."
+    },
+    {
+        "section": "General Awareness",
+        "topic": "Current Affairs",
+        "difficulty": "Hard",
+        "q_en": "Which of the following awards is given by the International Women's Media Foundation (IWMF) to a female journalist who has been unjustly arrested or imprisoned?",
+        "q_hi": "निम्नलिखित में से कौन-सा पुरस्कार, इंटरनेशनल विमेंस मीडिया फाउंडेशन (IWMF) द्वारा उस महिला पत्रकार को दिया जाता है, जिसे अन्यायपूर्ण ढंग से गिरफ्तार किया गया हो या कारावास में डाला गया हो?",
+        "op_en": [
+            "Pulitzer Justice Award",
+            "Freedom Pen Award",
+            "Wallis Annenberg Justice for Women Journalists Award",
+            "Journalism Courage Prize"
+        ],
+        "op_hi": [
+            "पुलित्जर जस्टिस अवार्ड",
+            "फ्रीडम पेन अवार्ड",
+            "वालिस एनेनबर्ग जस्टिस",
+            "जर्नलिज्म करेज प्राइज"
+        ],
+        "ans": 3,
+        "solution": "<b>Solution (EN):</b> The Wallis Annenberg Justice for Women Journalists Award is given by the International Women's Media Foundation (IWMF) to bring attention to women journalists who are unjustly detained, imprisoned, or face severe legal persecution for doing their jobs.<br><b>Solution (HI):</b> वालिस एनेनबर्ग जस्टिस फॉर विमेन जर्नलिस्ट्स अवार्ड इंटरनेशनल विमेंस मीडिया फाउंडेशन (IWMF) द्वारा उन महिला पत्रकारों की ओर ध्यान आकर्षित करने के लिए दिया जाता है, जिन्हें अपना काम करने के लिए अन्यायपूर्ण तरीके से हिरासत में लिया जाता है, जेल में डाला जाता है, या गंभीर कानूनी उत्पीड़न का सामना करना पड़ता है।<br><b>Short Trick:</b> IWMF award for imprisoned female journalists = Wallis Annenberg Justice."
+    },
+    {
+        "section": "General Awareness",
+        "topic": "Geography",
+        "difficulty": "Hard",
+        "q_en": "The IT revolution is one of the most visible consequences of India's integration with the global economy. Which city is known as the 'Silicon Valley of India' due to globalization-driven tech growth?",
+        "q_hi": "IT क्रांति वैश्विक अर्थव्यवस्था के साथ भारत के एकीकरण के सबसे स्पष्ट परिणामों में से एक है। वैश्वीकरण-प्रेरित तकनीकी विकास (ग्लोबलाइजेशन-ड्रिवन टेक ग्रोथ) के कारण किस शहर को 'भारत की सिलिकॉन वैली' के रूप में जाना जाता है?",
+        "op_en": [
+            "Hyderabad",
+            "Bengaluru",
+            "Chennai",
+            "Pune"
+        ],
+        "op_hi": [
+            "हैदराबाद",
+            "बेंगलुरु",
+            "चेन्नई",
+            "पुणे"
+        ],
+        "ans": 2,
+        "solution": "<b>Solution (EN):</b> Bengaluru is universally recognized as the \"Silicon Valley of India\" because of its pivotal role as the nation's leading information technology (IT) exporter. The city houses numerous tech giants, startups, and research institutions.<br><b>Solution (HI):</b> बेंगलुरु को देश के प्रमुख सूचना प्रौद्योगिकी (IT) निर्यातक के रूप में अपनी महत्वपूर्ण भूमिका के कारण सार्वभौमिक रूप से \"भारत की सिलिकॉन वैली\" के रूप में जाना जाता है। इस शहर में कई दिग्गज टेक कंपनियां, स्टार्टअप्स और शोध संस्थान मौजूद हैं।<br><b>Short Trick:</b> Silicon Valley of India = Bengaluru."
+    },
+    {
+        "section": "General Awareness",
+        "topic": "Current Affairs",
+        "difficulty": "Hard",
+        "q_en": "Which of the following major bilateral exercises, involving mechanized units of India and Singapore, commenced in Jodhpur on 27 July 2025?",
+        "q_hi": "निम्नलिखित में कौन-सा प्रमुख द्विपक्षीय अभ्यास, 27 जुलाई 2025 को जोधपुर में शुरू हुआ, जिसमें भारत और सिंगापुर की मशीनीकृत इकाइयाँ सम्मिलित थीं?",
+        "op_en": [
+            "Exercise Vajra Prahar",
+            "Exercise Bold Kurukshetra",
+            "Exercise Yudh Abhyas",
+            "Exercise Malabar"
+        ],
+        "op_hi": [
+            "अभ्यास वज्र प्रहार (Exercise Vajra Prahar)",
+            "अभ्यास बोल्ड कुरुक्षेत्र (Exercise Bold Kurukshetra)",
+            "अभ्यास युद्ध अभ्यास (Exercise Yudh Abhyas)",
+            "अभ्यास मालाबार (Exercise Malabar)"
+        ],
+        "ans": 2,
+        "solution": "<b>Solution (EN):</b> Exercise Bold Kurukshetra is a significant joint military training exercise conducted between the Indian Army and the Singapore Army. It focuses extensively on mechanized warfare, joint tactics, and enhancing interoperability between the two forces.<br><b>Solution (HI):</b> अभ्यास बोल्ड कुरुक्षेत्र भारतीय सेना और सिंगापुर सेना के बीच आयोजित एक महत्वपूर्ण संयुक्त सैन्य प्रशिक्षण अभ्यास है। यह बड़े पैमाने पर मशीनीकृत युद्ध, संयुक्त रणनीति और दोनों बलों के बीच अंतर-संचालन क्षमता (interoperability) बढ़ाने पर केंद्रित है।<br><b>Short Trick:</b> India + Singapore Military Exercise = Bold Kurukshetra."
+    },
+    {
+        "section": "General Awareness",
+        "topic": "Modern History",
+        "difficulty": "Hard",
+        "q_en": "For what main purpose was the Chotanagpur Tenancy Act (1908) passed by the British?",
+        "q_hi": "अंग्रेजों द्वारा छोटानागपुर काश्तकारी अधिनियम (1908) मुख्यतः किस उद्देश्य से पारित किया गया था?",
+        "op_en": [
+            "To grant land to the Zamindars",
+            "To collect more revenue",
+            "To punish tribal rebels",
+            "To protect the land rights of the tribals"
+        ],
+        "op_hi": [
+            "ज़मींदारों को ज़मीन देने के लिए",
+            "अधिक राजस्व एकत्रित करने के लिए",
+            "आदिवासी विद्रोहियों को दंडित करने के लिए",
+            "आदिवासियों के भूमि अधिकारों की रक्षा करने के लिए"
+        ],
+        "ans": 4,
+        "solution": "<b>Solution (EN):</b> The Chotanagpur Tenancy (CNT) Act of 1908 was enacted by the British predominantly in response to the Birsa Munda rebellion. Its primary aim was to protect the land rights of the tribal population by strictly restricting the transfer of tribal land to non-tribals.<br><b>Solution (HI):</b> 1908 का छोटानागपुर काश्तकारी (CNT) अधिनियम मुख्य रूप से बिरसा मुंडा विद्रोह के जवाब में अंग्रेजों द्वारा लागू किया गया था। इसका प्राथमिक उद्देश्य गैर-आदिवासियों को आदिवासी भूमि के हस्तांतरण को सख्ती से प्रतिबंधित करके आदिवासी आबादी के भूमि अधिकारों की रक्षा करना था।<br><b>Short Trick:</b> Chotanagpur Tenancy Act = Protect tribal land rights."
+    },
+    {
+        "section": "General Awareness",
+        "topic": "Current Affairs",
+        "difficulty": "Hard",
+        "q_en": "In August 2025, which Indian village was inaugurated as the first AI-powered \"smart and intelligent\" village, featuring facilities like fiber-optic internet, solar-powered irrigation, and AI apps for farmers?",
+        "q_hi": "अगस्त 2025 में, किस भारतीय गाँव का उद्घाटन, AI-संचालित पहले \"स्मार्ट और इंटेलिजेंट\" गाँव के रूप में किया गया, जहाँ फाइबर-ऑप्टिक इंटरनेट, सौर ऊर्जा द्वारा संचालित सिंचाई और किसानों के लिए AI ऐप जैसी सुविधाएँ विद्यमान हैं?",
+        "op_en": [
+            "Satnavari",
+            "Kolar",
+            "Mundari",
+            "Chitradurga"
+        ],
+        "op_hi": [
+            "सातनवारी (Satnavari)",
+            "कोलार (Kolar)",
+            "मुंदरी (Mundari)",
+            "चित्रदुर्ग (Chitradurga)"
+        ],
+        "ans": 1,
+        "solution": "<b>Solution (EN):</b> Satnavari was inaugurated as India's first AI-powered \"smart and intelligent\" village. The initiative integrates modern amenities such as high-speed fiber-optic internet, solar irrigation systems, and AI-driven agricultural applications to empower local farmers.<br><b>Solution (HI):</b> सातनवारी का उद्घाटन भारत के पहले AI-संचालित \"स्मार्ट और इंटेलिजेंट\" गाँव के रूप में किया गया था। इस पहल में स्थानीय किसानों को सशक्त बनाने के लिए हाई-स्पीड फाइबर-ऑप्टिक इंटरनेट, सौर सिंचाई प्रणाली और AI-संचालित कृषि अनुप्रयोग जैसी आधुनिक सुविधाएं शामिल हैं।<br><b>Short Trick:</b> 1st AI-powered smart village = Satnavari."
+    },
+    {
+        "section": "General Awareness",
+        "topic": "Modern History",
+        "difficulty": "Medium",
+        "q_en": "When did the Santhal Rebellion take place?",
+        "q_hi": "संथाल विद्रोह कब हुआ था?",
+        "op_en": [
+            "1870",
+            "1855",
+            "1849",
+            "1860"
+        ],
+        "op_hi": [
+            "1870",
+            "1855",
+            "1849",
+            "1860"
+        ],
+        "ans": 2,
+        "solution": "<b>Solution (EN):</b> The Santhal Rebellion, also referred to as the Santhal Hool, was a major uprising against both the British East India Company and the oppressive zamindari system. It took place in the year 1855-56, led by the tribal brothers Sidhu and Kanhu Murmu.<br><b>Solution (HI):</b> संथाल विद्रोह, जिसे संथाल हूल भी कहा जाता है, ब्रिटिश ईस्ट इंडिया कंपनी और दमनकारी जमींदारी व्यवस्था दोनों के खिलाफ एक बड़ा विद्रोह था। यह वर्ष 1855-56 में आदिवासी भाइयों सिद्धू और कान्हू मुर्मू के नेतृत्व में हुआ था।<br><b>Short Trick:</b> Santhal Rebellion = 1855 (Precedes the 1857 revolt)."
+    },
+    {
+        "section": "General Awareness",
+        "topic": "Current Affairs",
+        "difficulty": "Hard",
+        "q_en": "In July 2024, India's first dedicated wildlife corridor on a national highway, announced by NHAI, passes through the buffer zone of which tiger reserve?",
+        "q_hi": "जुलाई 2024 में, NHAI द्वारा घोषित राष्ट्रीय राजमार्ग पर भारत का पहला समर्पित वन्यजीव गलियारा, किस बाघ रिजर्व के बफर ज़ोन से होकर गुजरता है?",
+        "op_en": [
+            "Pench Tiger Reserve",
+            "Bandhavgarh Tiger Reserve",
+            "Ranthambore Tiger Reserve",
+            "Sariska Tiger Reserve"
+        ],
+        "op_hi": [
+            "पेंच बाघ रिजर्व",
+            "बांधवगढ़ बाघ रिजर्व",
+            "रणथंभौर बाघ रिजर्व",
+            "सरिस्का बाघ रिजर्व"
+        ],
+        "ans": 3,
+        "solution": "<b>Solution (EN):</b> The dedicated wildlife corridor announced by NHAI is an innovative infrastructure project designed to ensure the safe passage of animals and minimize roadkills. It passes through the buffer zone of the Ranthambore Tiger Reserve in Rajasthan.<br><b>Solution (HI):</b> NHAI द्वारा घोषित समर्पित वन्यजीव गलियारा एक अभिनव बुनियादी ढांचा परियोजना है जिसे जानवरों के सुरक्षित मार्ग को सुनिश्चित करने और सड़क दुर्घटनाओं को कम करने के लिए डिज़ाइन किया गया है। यह राजस्थान में रणथंभौर बाघ अभयारण्य के बफर ज़ोन से होकर गुजरता है।<br><b>Short Trick:</b> NHAI wildlife corridor = Ranthambore Tiger Reserve."
+    },
+    {
+        "section": "General Awareness",
+        "topic": "Ancient History",
+        "difficulty": "Medium",
+        "q_en": "Which of the following inscriptions provides a detailed account of the conquests and policies of Samudragupta?",
+        "q_hi": "निम्नलिखित में कौन-सा अभिलेख समुद्रगुप्त की विजयों और नीतियों का विस्तृत विवरण प्रदान करता है?",
+        "op_en": [
+            "Mehrauli Iron Pillar Inscription",
+            "Allahabad Pillar Inscription",
+            "Junagadh Rock Inscription",
+            "Hathigumpha Inscription"
+        ],
+        "op_hi": [
+            "महरौली लौह स्तंभ अभिलेख",
+            "इलाहाबाद स्तंभ अभिलेख",
+            "जूनागढ़ शैल अभिलेख",
+            "हाथीगुम्फा अभिलेख"
+        ],
+        "ans": 2,
+        "solution": "<b>Solution (EN):</b> The Allahabad Pillar Inscription, universally known as the Prayag Prashasti, was composed by Samudragupta's court poet Harishena. It acts as the most important historical source detailing Samudragupta's extensive military conquests and governance policies.<br><b>Solution (HI):</b> इलाहाबाद स्तंभ अभिलेख, जिसे सार्वभौमिक रूप से प्रयाग प्रशस्ति के रूप में जाना जाता है, समुद्रगुप्त के दरबारी कवि हरिषेण द्वारा रचित था। यह समुद्रगुप्त की व्यापक सैन्य विजयों और शासन नीतियों का विस्तृत विवरण देने वाले सबसे महत्वपूर्ण ऐतिहासिक स्रोत के रूप में कार्य करता है।<br><b>Short Trick:</b> Samudragupta's victories = Prayag Prashasti / Allahabad Pillar."
+    },
+    {
+        "section": "General Awareness",
+        "topic": "Art & Culture",
+        "difficulty": "Medium",
+        "q_en": "Madhubani painting originated in which region of Bihar?",
+        "q_hi": "मधुबनी चित्रकला की उत्पत्ति बिहार के किस क्षेत्र में हुई?",
+        "op_en": [
+            "Magadh",
+            "Bhojpur",
+            "Mithila",
+            "Anga"
+        ],
+        "op_hi": [
+            "मगध",
+            "भोजपुर",
+            "मिथिला",
+            "अंग"
+        ],
+        "ans": 3,
+        "solution": "<b>Solution (EN):</b> Madhubani painting, also widely referred to as Mithila art, originated in the Mithila region of Bihar. It is culturally significant and is easily recognizable by its complex geometrical patterns and vibrant natural colors.<br><b>Solution (HI):</b> मधुबनी चित्रकला, जिसे व्यापक रूप से मिथिला कला भी कहा जाता है, की उत्पत्ति बिहार के मिथिला क्षेत्र में हुई थी। यह सांस्कृतिक रूप से महत्वपूर्ण है और इसे इसके जटिल ज्यामितीय पैटर्न तथा जीवंत प्राकृतिक रंगों द्वारा आसानी से पहचाना जा सकता है।<br><b>Short Trick:</b> Madhubani painting = Mithila art."
+    },
+    {
+        "section": "General Awareness1",
+        "topic": "Polity",
+        "difficulty": "Medium",
+        "q_en": "According to the provisions of the Indian Constitution, which of the following is a non-constitutional body?",
+        "q_hi": "भारतीय संविधान के प्रावधानों के अनुसार, निम्नलिखित में से कौन-सा, गैर-संवैधानिक निकाय है?",
+        "op_en": [
+            "Attorney General of India",
+            "State Public Service Commission",
+            "State Human Rights Commission",
+            "State Election Commission"
+        ],
+        "op_hi": [
+            "भारत के महान्यायवादी",
+            "राज्य लोक सेवा आयोग",
+            "राज्य मानवाधिकार आयोग",
+            "राज्य निर्वाचन आयोग"
+        ],
+        "ans": 3,
+        "solution": "<b>Solution (EN):</b> The State Human Rights Commission is a statutory, non-constitutional body created by the Protection of Human Rights Act, 1993. The Attorney General, State Public Service Commission, and State Election Commission are constitutional bodies under Articles 76, 315, and 243K respectively.<br><b>Solution (HI):</b> राज्य मानवाधिकार आयोग एक वैधानिक, गैर-संवैधानिक निकाय है जिसे मानवाधिकार संरक्षण अधिनियम, 1993 के तहत बनाया गया है। भारत के महान्यायवादी, राज्य लोक सेवा आयोग और राज्य निर्वाचन आयोग क्रमशः अनुच्छेद 76, 315 और 243K के तहत संवैधानिक निकाय हैं।<br><b>Short Trick:</b> Human Rights Commission is formed by an Act of Parliament (1993), hence it is non-constitutional."
+    },
+    {
+        "section": "General Awareness1",
+        "topic": "Biology",
+        "difficulty": "Medium",
+        "q_en": "Which part of the heart in humans pumps oxygenated blood to the body?",
+        "q_hi": "मनुष्यों में हृदय का कौन-सा भाग शरीर में ऑक्सीजन युक्त रक्त पंप करता है?",
+        "op_en": [
+            "Right ventricle",
+            "Left ventricle",
+            "Right atrium",
+            "Left atrium"
+        ],
+        "op_hi": [
+            "दायां निलय",
+            "वाम निलय",
+            "दायां अलिंद",
+            "वाम अलिंद"
+        ],
+        "ans": 2,
+        "solution": "<b>Solution (EN):</b> The left ventricle is the thickest of the heart's chambers and is responsible for pumping oxygenated blood to tissues all over the body through the aorta.<br><b>Solution (HI):</b> बायां निलय (Left ventricle) हृदय के कक्षों में सबसे मोटा होता है और महाधमनी (aorta) के माध्यम से पूरे शरीर के ऊतकों तक ऑक्सीजन युक्त रक्त पंप करने के लिए जिम्मेदार होता है।<br><b>Short Trick:</b> Left Ventricle = Largest & thickest chamber = Pumps blood to the whole body."
+    },
+    {
+        "section": "General Awareness1",
+        "topic": "Geography",
+        "difficulty": "Medium",
+        "q_en": "The Chambal river originates from which of the following regions?",
+        "q_hi": "चंबल नदी निम्नलिखित में से किस क्षेत्र से निकलती है?",
+        "op_en": [
+            "Near Rohtang Pass in Himachal Pradesh",
+            "Near Mapchachungo Glacier",
+            "Near Mhow in the Malwa Plateau",
+            "Near Verinag in the Pir Panjal range"
+        ],
+        "op_hi": [
+            "हिमाचल प्रदेश में रोहतांग दर्रे के समीप",
+            "मापचाचुंगो ग्लेशियर के समीप",
+            "मालवा पठार में महू के समीप",
+            "पीर पंजाल शृंखला में वेरीनाग के समीप"
+        ],
+        "ans": 3,
+        "solution": "<b>Solution (EN):</b> The Chambal River originates at Janapav, south of Mhow town, on the south slope of the Vindhya Range in Madhya Pradesh (Malwa Plateau).<br><b>Solution (HI):</b> चंबल नदी मध्य प्रदेश में विंध्य रेंज के दक्षिणी ढलान पर महू शहर के दक्षिण में जानापाव (मालवा पठार) से निकलती है।<br><b>Short Trick:</b> Chambal starts from Janapav hills near Mhow (MP)."
+    },
+    {
+        "section": "General Awareness1",
+        "topic": "Geography",
+        "difficulty": "Medium",
+        "q_en": "Which of the following is a specific characteristic of rural settlements in India?",
+        "q_hi": "भारत में ग्रामीण बस्तियों की एक विशिष्ट विशेषता निम्नलिखित में से कौन-सी है?",
+        "op_en": [
+            "Agriculture-based economy",
+            "High-rise buildings",
+            "High population density",
+            "Industrial concentration"
+        ],
+        "op_hi": [
+            "कृषि आधारित अर्थव्यवस्था",
+            "उच्च भवनें",
+            "उच्च जनसंख्या घनत्व",
+            "औद्योगिक संकेन्द्रण"
+        ],
+        "ans": 1,
+        "solution": "<b>Solution (EN):</b> The primary and most specific characteristic of rural settlements in India is an agriculture-based economy, where the majority of the population is engaged in primary activities like farming, animal husbandry, and fishing.<br><b>Solution (HI):</b> भारत में ग्रामीण बस्तियों की प्राथमिक और सबसे विशिष्ट विशेषता कृषि आधारित अर्थव्यवस्था है, जहां अधिकांश आबादी खेती, पशुपालन और मछली पकड़ने जैसी प्राथमिक गतिविधियों में लगी हुई है।<br><b>Short Trick:</b> Rural area = Primary Sector = Agriculture-based."
+    },
+    {
+        "section": "General Awareness1",
+        "topic": "Geography",
+        "difficulty": "Hard",
+        "q_en": "The international border of India-Nepal touches which of the following correctly grouped combination of Indian states?",
+        "q_hi": "भारत-नेपाल की अंतर्राष्ट्रीय सीमा, निम्नलिखित में से किन भारतीय राज्यों के सही समूहीकृत संयोजन से लगती है?",
+        "op_en": [
+            "Uttarakhand, Haryana, Bihar, West Bengal, Assam",
+            "Uttar Pradesh, Bihar, West Bengal, Assam, Meghalaya",
+            "Uttarakhand, Uttar Pradesh, Bihar, Jharkhand, West Bengal",
+            "Uttarakhand, Uttar Pradesh, Bihar, West Bengal, Sikkim"
+        ],
+        "op_hi": [
+            "उत्तराखंड, हरियाणा, बिहार, पश्चिम बंगाल, असम",
+            "उत्तर प्रदेश, बिहार, पश्चिम बंगाल, असम, मेघालय",
+            "उत्तराखंड, उत्तर प्रदेश, बिहार, झारखंड, पश्चिम बंगाल",
+            "उत्तराखंड, उत्तर प्रदेश, बिहार, पश्चिम बंगाल, सिक्किम"
+        ],
+        "ans": 4,
+        "solution": "<b>Solution (EN):</b> Nepal shares a border of about 1751 km with five Indian States: Uttarakhand, Uttar Pradesh, Bihar, West Bengal, and Sikkim.<br><b>Solution (HI):</b> नेपाल पांच भारतीय राज्यों के साथ लगभग 1751 किलोमीटर की सीमा साझा करता है: उत्तराखंड, उत्तर प्रदेश, बिहार, पश्चिम बंगाल और सिक्किम।<br><b>Short Trick:</b> Remember the acronym \"SUBUB\" - Sikkim, UP, Bihar, Uttarakhand, Bengal."
+    },
+    {
+        "section": "General Awareness1",
+        "topic": "Polity",
+        "difficulty": "Medium",
+        "q_en": "Who among the following has the authority to appoint the Comptroller and Auditor General of India?",
+        "q_hi": "निम्नलिखित में से किसके पास, भारत के नियंत्रक एवं महालेखा परीक्षक को नियुक्त करने का अधिकार होता है?",
+        "op_en": [
+            "Home Minister of India",
+            "President of India",
+            "Prime Minister of India",
+            "Finance Minister of India"
+        ],
+        "op_hi": [
+            "भारत के गृह मंत्री",
+            "भारत के राष्ट्रपति",
+            "भारत के प्रधानमंत्री",
+            "भारत के वित्त मंत्री"
+        ],
+        "ans": 2,
+        "solution": "<b>Solution (EN):</b> The Comptroller and Auditor General (CAG) of India is appointed by the President of India by a warrant under his hand and seal (Article 148 of the Indian Constitution).<br><b>Solution (HI):</b> भारत के नियंत्रक एवं महालेखा परीक्षक (CAG) की नियुक्ति भारतीय संविधान के अनुच्छेद 148 के तहत भारत के राष्ट्रपति द्वारा अपने हस्ताक्षर और मुद्रा सहित अधिपत्र द्वारा की जाती है।<br><b>Short Trick:</b> Major constitutional posts like CAG, CEC, UPSC Chairman are appointed by the President."
+    },
+    {
+        "section": "General Awareness1",
+        "topic": "Polity",
+        "difficulty": "Medium",
+        "q_en": "Which article of the Indian Constitution directs the State to organize village panchayats as units of self-government?",
+        "q_hi": "भारतीय संविधान का कौन-सा अनुच्छेद, राज्य को ग्राम पंचायतों को स्वायत्त शासन की इकाइयों के रूप में संगठित करने का निर्देश देता है?",
+        "op_en": [
+            "Article 41",
+            "Article 40",
+            "Article 39",
+            "Article 42"
+        ],
+        "op_hi": [
+            "अनुच्छेद 41",
+            "अनुच्छेद 40",
+            "अनुच्छेद 39",
+            "अनुच्छेद 42"
+        ],
+        "ans": 2,
+        "solution": "<b>Solution (EN):</b> Article 40 of the Indian Constitution (under Directive Principles of State Policy) directs the State to take steps to organize village panchayats and endow them with such powers and authority as may be necessary to enable them to function as units of self-government.<br><b>Solution (HI):</b> भारतीय संविधान का अनुच्छेद 40 (राज्य के नीति निदेशक तत्वों के अंतर्गत) राज्य को ग्राम पंचायतों को संगठित करने और उन्हें ऐसी शक्तियां और अधिकार प्रदान करने का निर्देश देता है जो उन्हें स्वायत्त शासन की इकाइयों के रूप में कार्य करने में सक्षम बनाने के लिए आवश्यक हों।<br><b>Short Trick:</b> Article 40 = Organization of Village Panchayats (Gandhian Principle)."
+    },
+    {
+        "section": "General Awareness1",
+        "topic": "Geography",
+        "difficulty": "Medium",
+        "q_en": "What is the approximate length of the Northern Plains of India from west to east?",
+        "q_hi": "भारत के उत्तरी मैदानों की पश्चिम से पूर्व तक की लगभग लंबाई कितनी है?",
+        "op_en": [
+            "2400 km",
+            "1200 km",
+            "3200 km",
+            "1800 km"
+        ],
+        "op_hi": [
+            "2400 km",
+            "1200 km",
+            "3200 km",
+            "1800 km"
+        ],
+        "ans": 1,
+        "solution": "<b>Solution (EN):</b> The Northern Plains of India, formed by the interplay of the Indus, Ganga, and Brahmaputra river systems, extend approximately 2400 km from west to east.<br><b>Solution (HI):</b> सिंधु, गंगा और ब्रह्मपुत्र नदी प्रणालियों द्वारा निर्मित भारत का उत्तरी मैदान पश्चिम से पूर्व तक लगभग 2400 किमी लंबा है।<br><b>Short Trick:</b> Length of Northern Plains is almost equal to the length of the Himalayas = ~2400 km."
+    },
+    {
+        "section": "General Awareness1",
+        "topic": "Economics",
+        "difficulty": "Hard",
+        "q_en": "How does the Finance Commission assist in policy implementation?",
+        "q_hi": "वित्त आयोग, नीति कार्यान्वयन में किस प्रकार सहायता करता है?",
+        "op_en": [
+            "By controlling state-level budgets",
+            "By recommending the distribution of net tax proceeds between the center and the states",
+            "By setting judicial precedents",
+            "By drafting laws on state subjects"
+        ],
+        "op_hi": [
+            "राज्य-स्तरीय बजट को नियंत्रित करके",
+            "केंद्र और राज्यों के बीच शुद्ध कर आय के वितरण की सिफारिश करके",
+            "न्यायिक पूर्वोदाहरण कायम करके",
+            "राज्य के विषयों पर कानूनों का मसौदा तैयार करके"
+        ],
+        "ans": 2,
+        "solution": "<b>Solution (EN):</b> The Finance Commission (Article 280) assists in policy implementation primarily by recommending the distribution of the net proceeds of taxes between the Center and the States, ensuring financial balance and adequate resources for states to execute policies.<br><b>Solution (HI):</b> वित्त आयोग (अनुच्छेद 280) मुख्य रूप से केंद्र और राज्यों के बीच करों की शुद्ध आय के वितरण की सिफारिश करके नीति कार्यान्वयन में सहायता करता है, जिससे राज्यों को नीतियां लागू करने के लिए वित्तीय संतुलन और संसाधन सुनिश्चित होते हैं।<br><b>Short Trick:</b> Finance Commission's main job = Tax distribution between Center and States."
+    },
+    {
+        "section": "General Awareness1",
+        "topic": "Polity",
+        "difficulty": "Medium",
+        "q_en": "Who is the Chairman of the Governing Council of NITI Aayog?",
+        "q_hi": "नीति आयोग की शासी परिषद (Governing Council) का अध्यक्ष कौन होता है?",
+        "op_en": [
+            "Prime Minister of India",
+            "President of India",
+            "Home Minister of India",
+            "Vice Chairman of NITI Aayog"
+        ],
+        "op_hi": [
+            "भारत के प्रधान मंत्री",
+            "भारत के राष्ट्रपति",
+            "भारत के गृह मंत्री",
+            "NITI आयोग के उपाध्यक्ष"
+        ],
+        "ans": 1,
+        "solution": "<b>Solution (EN):</b> The Prime Minister of India acts as the ex-officio Chairman of the Governing Council of NITI Aayog. The council also includes Chief Ministers of all States and Lt. Governors of Union Territories.<br><b>Solution (HI):</b> भारत के प्रधान मंत्री नीति आयोग की शासी परिषद (Governing Council) के पदेन अध्यक्ष के रूप में कार्य करते हैं। इस परिषद में सभी राज्यों के मुख्यमंत्री और केंद्र शासित प्रदेशों के उपराज्यपाल भी शामिल होते हैं।<br><b>Short Trick:</b> NITI Aayog Chairman = Prime Minister of India (PM)."
+    },
+    {
+        "section": "Test of Hindi Language and Comprehension",
+        "topic": "मुहावरे और लोकोक्तियाँ",
+        "difficulty": "Medium",
+        "q_en": "'पेट में दाढ़ी होना' मुहावरे के सही अर्थ की पहचान करें-",
+        "q_hi": "'पेट में दाढ़ी होना' मुहावरे के सही अर्थ की पहचान करें-",
+        "op_en": [
+            "बाल्यावस्था से ही समझदार होना",
+            "काईयाँ होना",
+            "कान का कच्चा होना",
+            "मन का खोटा होना"
+        ],
+        "op_hi": [
+            "बाल्यावस्था से ही समझदार होना",
+            "काईयाँ होना",
+            "कान का कच्चा होना",
+            "मन का खोटा होना"
+        ],
+        "ans": 1,
+        "solution": "<b>Solution (HI):</b> 'पेट में दाढ़ी होना' मुहावरे का सही अर्थ 'कम उम्र में ही बहुत समझदार या ज्ञानी होना' (बाल्यावस्था से ही समझदार होना) है। अन्य विकल्प असंगत हैं।<br><b>Short Trick:</b> पेट में दाढ़ी (बचपन से ही बड़ों जैसी समझ होना)।"
+    },
+    {
+        "section": "Test of Hindi Language and Comprehension",
+        "topic": "रिक्त स्थान की पूर्ति (विशेषण)",
+        "difficulty": "Medium",
+        "q_en": "उसकी ______ सोच ने उसे कठिन से कठिन परिस्थिति में भी मुस्कुराते रहने की शक्ति दी। रिक्त स्थान की पूर्ति उचित विशेषण से करें।",
+        "q_hi": "उसकी ______ सोच ने उसे कठिन से कठिन परिस्थिति में भी मुस्कुराते रहने की शक्ति दी। रिक्त स्थान की पूर्ति उचित विशेषण से करें।",
+        "op_en": [
+            "भ्रमित",
+            "सकारात्मक",
+            "आक्रामक",
+            "संकुचित"
+        ],
+        "op_hi": [
+            "भ्रमित",
+            "सकारात्मक",
+            "आक्रामक",
+            "संकुचित"
+        ],
+        "ans": 2,
+        "solution": "<b>Solution (HI):</b> वाक्य के संदर्भ (मुस्कुराते रहने की शक्ति) के अनुसार यहाँ 'सकारात्मक' (Positive) विशेषण सबसे उपयुक्त है। सकारात्मक सोच ही कठिन परिस्थितियों में व्यक्ति को शक्ति प्रदान करती है।<br><b>Short Trick:</b> मुस्कुराते रहने की शक्ति = सकारात्मक (Positive) सोच।"
+    },
+    {
+        "section": "Test of Hindi Language and Comprehension",
+        "topic": "विशेषण",
+        "difficulty": "Medium",
+        "q_en": "'..............दरवाजा खुला रह गया l' निश्चित परिमाणवाचक विशेषण द्वारा वाक्य पूरा करें",
+        "q_hi": "'..............दरवाजा खुला रह गया l' निश्चित परिमाणवाचक विशेषण द्वारा वाक्य पूरा करें",
+        "op_en": [
+            "आधा",
+            "कल",
+            "थोड़ा",
+            "एकदम"
+        ],
+        "op_hi": [
+            "आधा",
+            "कल",
+            "थोड़ा",
+            "एकदम"
+        ],
+        "ans": 1,
+        "solution": "<b>Solution (HI):</b> 'आधा' एक निश्चित परिमाणवाचक (अपूर्णांक बोधक) विशेषण है जो दरवाजे की निश्चित मात्रा या भाग को दर्शा रहा है। 'थोड़ा' अनिश्चित परिमाणवाचक है, जबकि 'कल' और 'एकदम' क्रियाविशेषण/अव्यय हैं।<br><b>Short Trick:</b> निश्चित परिमाण = जो किसी वस्तु के निश्चित भाग या नाप-तौल को बताए (जैसे- आधा दरवाजा)।"
+    },
+    {
+        "section": "Test of Hindi Language and Comprehension",
+        "topic": "कारक",
+        "difficulty": "Medium",
+        "q_en": "निम्नलिखित विकल्पों में से सही कारक का चयन कर वाक्य पूर्ण करें।<br>'यह मेरे ताले_____चाबी है।'",
+        "q_hi": "निम्नलिखित विकल्पों में से सही कारक का चयन कर वाक्य पूर्ण करें।<br>'यह मेरे ताले_____चाबी है।'",
+        "op_en": [
+            "का",
+            "की",
+            "कि",
+            "के"
+        ],
+        "op_hi": [
+            "का",
+            "की",
+            "कि",
+            "के"
+        ],
+        "ans": 2,
+        "solution": "<b>Solution (HI):</b> 'चाबी' एक स्त्रीलिंग शब्द है, इसलिए इसके साथ संबंध कारक का स्त्रीलिंग रूप 'की' प्रयुक्त होगा। अतः सही वाक्य \"यह मेरे ताले की चाबी है\" होगा।<br><b>Short Trick:</b> 'चाबी' स्त्रीलिंग है -> इसलिए 'की' का प्रयोग होगा।"
+    },
+    {
+        "section": "Test of Hindi Language and Comprehension",
+        "topic": "वाक्य क्रम व्यवस्था",
+        "difficulty": "Hard",
+        "q_en": "नीचे दिए वाक्यों का क्रम व्यवस्थित करें। <br>अ. मैंने हिन्दी से परास्नातक किया। <br>ब. मैंने एमफिल भी की है। <br>स. मेरी पीएचडी अभी समाप्त हुई है। <br>द. उसके बाद मेरा नेट-जेआरएफ हुआ।",
+        "q_hi": "नीचे दिए वाक्यों का क्रम व्यवस्थित करें। <br>अ. मैंने हिन्दी से परास्नातक किया। <br>ब. मैंने एमफिल भी की है। <br>स. मेरी पीएचडी अभी समाप्त हुई है। <br>द. उसके बाद मेरा नेट-जेआरएफ हुआ।",
+        "op_en": [
+            "अ, ब , स, द",
+            "अ, ब, द, स",
+            "अ, स, ब, द",
+            "अ,द, ब, स"
+        ],
+        "op_hi": [
+            "अ, ब , स, द",
+            "अ, ब, द, स",
+            "अ, स, ब, द",
+            "अ,द, ब, स"
+        ],
+        "ans": 2,
+        "solution": "<b>Solution (HI):</b> सही तार्किक और शैक्षिक क्रम इस प्रकार होगा: पहले परास्नातक (अ), फिर एमफिल (ब), उसके बाद नेट-जेआरएफ (द), और अंत में पीएचडी की समाप्ति (स)। अतः सही क्रम 'अ, ब, द, स' होगा।<br><b>Short Trick:</b> शिक्षा का सही क्रम: MA (परास्नातक) -> M.Phil -> NET -> Ph.D."
+    },
+    {
+        "section": "Test of Hindi Language and Comprehension",
+        "topic": "रिक्त स्थान की पूर्ति",
+        "difficulty": "Medium",
+        "q_en": "निम्नलिखित विकल्पों में से सही क्रिया-विशेषण का चयन कर वाक्य पूर्ण करें।<br>'उसने अपनी बदमाशी के कारण मेरे साथ_____व्यवहार किया।'",
+        "q_hi": "निम्नलिखित विकल्पों में से सही क्रिया-विशेषण का चयन कर वाक्य पूर्ण करें।<br>'उसने अपनी बदमाशी के कारण मेरे साथ_____व्यवहार किया।'",
+        "op_en": [
+            "सुखपूर्वक",
+            "सरासर",
+            "अनुचित",
+            "उचित"
+        ],
+        "op_hi": [
+            "सुखपूर्वक",
+            "सरासर",
+            "अनुचित",
+            "उचित"
+        ],
+        "ans": 3,
+        "solution": "<b>Solution (HI):</b> वाक्य में 'बदमाशी' शब्द नकारात्मकता का बोध कराता है, इसलिए इसके साथ 'अनुचित' (ग़लत) व्यवहार का प्रयोग सर्वथा उपयुक्त है।<br><b>Short Trick:</b> बदमाशी = नकारात्मक कार्य = अनुचित व्यवहार।"
+    },
+    {
+        "section": "Test of Hindi Language and Comprehension",
+        "topic": "मुहावरे और लोकोक्तियाँ",
+        "difficulty": "Hard",
+        "q_en": "निम्नलिखित विकल्पों में से दी गई लोकोक्ति का सही अर्थ चुनिए।<br>'अंग्रेज़ी ना फ़ारसी बाबूजी बनारसी'",
+        "q_hi": "निम्नलिखित विकल्पों में से दी गई लोकोक्ति का सही अर्थ चुनिए।<br>'अंग्रेज़ी ना फ़ारसी बाबूजी बनारसी'",
+        "op_en": [
+            "होशियारी में चतुर होना",
+            "भाषा का विद्वान होना",
+            "गुणहीन व्यक्ति का डींग हाँकना",
+            "निपुण व्यक्ति की प्रशंसा करना"
+        ],
+        "op_hi": [
+            "होशियारी में चतुर होना",
+            "भाषा का विद्वान होना",
+            "गुणहीन व्यक्ति का डींग हाँकना",
+            "निपुण व्यक्ति की प्रशंसा करना"
+        ],
+        "ans": 3,
+        "solution": "<b>Solution (HI):</b> 'अंग्रेज़ी ना फ़ारसी बाबूजी बनारसी' लोकोक्ति का सही अर्थ 'गुणहीन व्यक्ति द्वारा व्यर्थ की डींग हाँकना या दिखावा करना' होता है।<br><b>Short Trick:</b> ना अंग्रेज़ी आती है ना फ़ारसी, फिर भी बाबूजी बन रहे हैं = बिना गुण के दिखावा (डींग हाँकना)।"
+    },
+    {
+        "section": "Test of Hindi Language and Comprehension",
+        "topic": "वाक्यांश के लिए एक शब्द",
+        "difficulty": "Medium",
+        "q_en": "दिए गए वाक्यांश के लिए सार्थक शब्द चुनें-<br>गाँव में रहने वाला",
+        "q_hi": "दिए गए वाक्यांश के लिए सार्थक शब्द चुनें-<br>गाँव में रहने वाला",
+        "op_en": [
+            "कर्मठ",
+            "शहरी",
+            "ग्रामीण",
+            "नागर"
+        ],
+        "op_hi": [
+            "कर्मठ",
+            "शहरी",
+            "ग्रामीण",
+            "नागर"
+        ],
+        "ans": 3,
+        "solution": "<b>Solution (HI):</b> 'गाँव में रहने वाला' व्यक्ति ग्रामीण कहलाता है। 'शहर में रहने वाला' शहरी या नागर कहलाता है, और 'परिश्रम करने वाला' कर्मठ कहलाता है।<br><b>Short Trick:</b> ग्राम (गाँव) + ईण (प्रत्यय) = ग्रामीण।"
+    },
+    {
+        "section": "Test of Hindi Language and Comprehension",
+        "topic": "वाक्यांश के लिए एक शब्द",
+        "difficulty": "Medium",
+        "q_en": "'जिसे अपने हाथ में ले लिया गया हो' वाक्यांश के लिए सार्थक शब्द का चयन करें -",
+        "q_hi": "'जिसे अपने हाथ में ले लिया गया हो' वाक्यांश के लिए सार्थक शब्द का चयन करें -",
+        "op_en": [
+            "हस्तांतरित",
+            "हस्तास्त",
+            "हस्तगत",
+            "हस्तांतरण"
+        ],
+        "op_hi": [
+            "हस्तांतरित",
+            "हस्तास्त",
+            "हस्तगत",
+            "हस्तांतरण"
+        ],
+        "ans": 3,
+        "solution": "<b>Solution (HI):</b> 'जिसे अपने हाथ में ले लिया गया हो' उसे 'हस्तगत' कहते हैं। 'हस्तांतरित' का अर्थ एक हाथ से दूसरे हाथ में देना (transfer) होता है।<br><b>Short Trick:</b> हस्त (हाथ) + गत (गया/लिया हुआ) = हस्तगत।"
+    },
+    {
+        "section": "Test of Hindi Language and Comprehension",
+        "topic": "क्रिया",
+        "difficulty": "Medium",
+        "q_en": "'चिड़िया उड़ रही है ' वाक्य .....क्रिया का एक उपयुक्त उदाहरण है l सही विकल्प का चयन करते हुए वाक्य पूरा करें",
+        "q_hi": "'चिड़िया उड़ रही है ' वाक्य .....क्रिया का एक उपयुक्त उदाहरण है l सही विकल्प का चयन करते हुए वाक्य पूरा करें",
+        "op_en": [
+            "सकर्मक",
+            "अकर्मक",
+            "नामधातु",
+            "द्विकर्मक"
+        ],
+        "op_hi": [
+            "सकर्मक",
+            "अकर्मक",
+            "नामधातु",
+            "द्विकर्मक"
+        ],
+        "ans": 2,
+        "solution": "<b>Solution (HI):</b> 'उड़ना' एक अकर्मक क्रिया है क्योंकि इस क्रिया का प्रभाव सीधे कर्ता (चिड़िया) पर पड़ रहा है और इसे किसी कर्म (Object) की आवश्यकता नहीं है।<br><b>Short Trick:</b> क्या उड़ रही है? (कोई उत्तर नहीं) कौन उड़ रही है? चिड़िया (कर्ता)। कर्म अनुपस्थित = अकर्मक क्रिया।"
+    },
+    {
+        "section": "Test of Hindi Language and Comprehension",
+        "topic": "मुहावरे और लोकोक्तियाँ",
+        "difficulty": "Medium",
+        "q_en": "‘सौ सयाने एक मत’ - लोकोक्ति का अर्थ है -",
+        "q_hi": "‘सौ सयाने एक मत’ - लोकोक्ति का अर्थ है -",
+        "op_en": [
+            "बुद्धिमान के विचार एक-से होते हैं",
+            "अच्छे विचारों में भिन्नता होना",
+            "ज्यादा चालाक",
+            "कुछ भी निश्वय न कर पाना"
+        ],
+        "op_hi": [
+            "बुद्धिमान के विचार एक-से होते हैं",
+            "अच्छे विचारों में भिन्नता होना",
+            "ज्यादा चालाक",
+            "कुछ भी निश्वय न कर पाना"
+        ],
+        "ans": 1,
+        "solution": "<b>Solution (HI):</b> ‘सौ सयाने एक मत’ लोकोक्ति का अर्थ है कि समझदार और बुद्धिमान लोग किसी एक विषय पर प्रायः समान विचार रखते हैं।<br><b>Short Trick:</b> सयाने (बुद्धिमान) + एक मत (समान विचार)।"
+    },
+    {
+        "section": "Test of Hindi Language and Comprehension",
+        "topic": "कारक",
+        "difficulty": "Medium",
+        "q_en": "दिए गए वाक्य में रिक्त स्थान के लिए उपयुक्त विकल्प चुनें-<br>मुझे गुरुजी ………….. दीक्षा मिली।",
+        "q_hi": "दिए गए वाक्य में रिक्त स्थान के लिए उपयुक्त विकल्प चुनें-<br>मुझे गुरुजी ………….. दीक्षा मिली।",
+        "op_en": [
+            "के लिए",
+            "को",
+            "से",
+            "ने"
+        ],
+        "op_hi": [
+            "के लिए",
+            "को",
+            "से",
+            "ने"
+        ],
+        "ans": 3,
+        "solution": "<b>Solution (HI):</b> वाक्य में अपादान कारक (अलगाव या प्राप्ति के अर्थ में) का प्रयोग होगा। गुरुजी से दीक्षा प्राप्त करने का बोध हो रहा है, अतः 'से' परसर्ग (कारक चिह्न) सही है।<br><b>Short Trick:</b> किसी से कुछ प्राप्त करना (जैसे दीक्षा) = 'से' कारक चिह्न।"
+    },
+    {
+        "section": "Test of Hindi Language and Comprehension",
+        "topic": "रिक्त स्थान की पूर्ति",
+        "difficulty": "Medium",
+        "q_en": "निम्नलिखित विकल्पों में से सही क्रिया-विशेषण का चयन कर वाक्य पूर्ण करें।<br>'मैं सत्य और अहिंसा का अनुगामी हूँ, इसलिए मुझसे_____नहीं बोला जाता।'",
+        "q_hi": "निम्नलिखित विकल्पों में से सही क्रिया-विशेषण का चयन कर वाक्य पूर्ण करें।<br>'मैं सत्य और अहिंसा का अनुगामी हूँ, इसलिए मुझसे_____नहीं बोला जाता।'",
+        "op_en": [
+            "सहसा",
+            "काल्पनिक",
+            "ईमानदारी",
+            "झूठ"
+        ],
+        "op_hi": [
+            "सहसा",
+            "काल्पनिक",
+            "ईमानदारी",
+            "झूठ"
+        ],
+        "ans": 4,
+        "solution": "<b>Solution (HI):</b> सत्य और अहिंसा का पालन करने वाला व्यक्ति कभी असत्य या 'झूठ' नहीं बोलता है। अतः वाक्य के संदर्भ में 'झूठ' शब्द सर्वथा उचित है।<br><b>Short Trick:</b> सत्य का विलोम 'झूठ' होता है। सत्य का अनुगामी झूठ नहीं बोलेगा।"
+    },
+    {
+        "section": "Test of Hindi Language and Comprehension",
+        "topic": "वाक्यांश के लिए एक शब्द",
+        "difficulty": "Medium",
+        "q_en": "'स्वयं ही जिसका अर्थ सिद्ध हो' वाक्यांश के लिए सबसे सही विकल्प का चयन करें",
+        "q_hi": "'स्वयं ही जिसका अर्थ सिद्ध हो' वाक्यांश के लिए सबसे सही विकल्प का चयन करें",
+        "op_en": [
+            "निहितार्थ",
+            "स्वार्थ",
+            "ब्रम्हार्थ",
+            "सिद्धार्थ"
+        ],
+        "op_hi": [
+            "निहितार्थ",
+            "स्वार्थ",
+            "ब्रम्हार्थ",
+            "सिद्धार्थ"
+        ],
+        "ans": 4,
+        "solution": "<b>Solution (HI):</b> 'स्वयं ही जिसका अर्थ सिद्ध हो' उसे 'सिद्धार्थ' कहा जाता है (सिद्ध + अर्थ)। स्वार्थ का अर्थ अपना हित होता है, और निहितार्थ का अर्थ छिपा हुआ अर्थ होता है।<br><b>Short Trick:</b> सिद्ध (पूरा/स्पष्ट) + अर्थ = सिद्धार्थ।"
+    },
+    {
+        "section": "Test of Hindi Language and Comprehension",
+        "topic": "वाक्यांश के लिए एक शब्द",
+        "difficulty": "Medium",
+        "q_en": "दिए गए वाक्यांश के लिए सार्थक शब्द चुनें-<br>जो किसी मुसीबत का अनुभव कर चुका हो",
+        "q_hi": "दिए गए वाक्यांश के लिए सार्थक शब्द चुनें-<br>जो किसी मुसीबत का अनुभव कर चुका हो",
+        "op_en": [
+            "भोगी",
+            "बुभुक्षा",
+            "सक्षम",
+            "भुक्तभोगी"
+        ],
+        "op_hi": [
+            "भोगी",
+            "बुभुक्षा",
+            "सक्षम",
+            "भुक्तभोगी"
+        ],
+        "ans": 4,
+        "solution": "<b>Solution (HI):</b> जो किसी मुसीबत, कष्ट या घटना का पहले ही अनुभव कर चुका हो, उसे 'भुक्तभोगी' कहते हैं। बुभुक्षा का अर्थ खाने की इच्छा (भूख) होता है।<br><b>Short Trick:</b> भुक्त (भोगा हुआ) + भोगी (भोगने वाला) = भुक्तभोगी।"
+    },
+    {
+        "section": "Test of Hindi Language and Comprehension",
+        "topic": "मुहावरे और लोकोक्तियाँ",
+        "difficulty": "Hard",
+        "q_en": "निम्नलिखित विकल्पों में से दी गई लोकोक्ति का सही अर्थ चुनिए।<br>'अंतर देके कसरत करे, राम न मारे आपहि मरे।'",
+        "q_hi": "निम्नलिखित विकल्पों में से दी गई लोकोक्ति का सही अर्थ चुनिए।<br>'अंतर देके कसरत करे, राम न मारे आपहि मरे।'",
+        "op_en": [
+            "व्यायाम को पाबंदी के साथ करना",
+            "व्यायाम में नियमबद्ध होना",
+            "बलपूर्वक व्यायाम करना",
+            "अनियमित व्यायाम करना"
+        ],
+        "op_hi": [
+            "व्यायाम को पाबंदी के साथ करना",
+            "व्यायाम में नियमबद्ध होना",
+            "बलपूर्वक व्यायाम करना",
+            "अनियमित व्यायाम करना"
+        ],
+        "ans": 4,
+        "solution": "<b>Solution (HI):</b> इस लोकोक्ति का अर्थ है कि यदि कोई व्यक्ति बीच-बीच में गैप (अंतर) देकर या अनियमित रूप से व्यायाम (कसरत) करता है, तो वह अपने शरीर का स्वयं ही नुकसान करता है।<br><b>Short Trick:</b> 'अंतर देके' का अर्थ है गैप देना या अनियमित होना।"
+    },
+    {
+        "section": "Test of Hindi Language and Comprehension",
+        "topic": "मुहावरे और लोकोक्तियाँ",
+        "difficulty": "Medium",
+        "q_en": "'समझदार होने' के अर्थ में इनमें से किस मुहावरे का प्रयोग उचित है?",
+        "q_hi": "'समझदार होने' के अर्थ में इनमें से किस मुहावरे का प्रयोग उचित है?",
+        "op_en": [
+            "जड़ जमाना",
+            "छाती पर बाल उग आना",
+            "चौथ का चाँद होना",
+            "चोटी हाथ में होना"
+        ],
+        "op_hi": [
+            "जड़ जमाना",
+            "छाती पर बाल उग आना",
+            "चौथ का चाँद होना",
+            "चोटी हाथ में होना"
+        ],
+        "ans": 2,
+        "solution": "<b>Solution (HI):</b> 'छाती पर बाल उग आना' मुहावरे का अर्थ परिपक्व या 'समझदार होना' है। अन्य विकल्प: जड़ जमाना (स्थिर होना), चौथ का चाँद होना (अशुभ होना या कलंक लगना), चोटी हाथ में होना (वश में होना)।<br><b>Short Trick:</b> शारीरिक परिपक्वता (छाती पर बाल आना) = मानसिक परिपक्वता (समझदार होना)।"
+    },
+    {
+        "section": "Test of Hindi Language and Comprehension",
+        "topic": "वाक्यांश के लिए एक शब्द",
+        "difficulty": "Medium",
+        "q_en": "निम्नलिखित विकल्पों में से वाक्यांश के लिए सार्थक शब्द चुनिए।<br>'जिसे कभी प्राप्त नहीं किया जा सके।'",
+        "q_hi": "निम्नलिखित विकल्पों में से वाक्यांश के लिए सार्थक शब्द चुनिए।<br>'जिसे कभी प्राप्त नहीं किया जा सके।'",
+        "op_en": [
+            "सुलभ्य",
+            "दुर्निवार्य",
+            "दुरभिसंधि",
+            "अलभ्य"
+        ],
+        "op_hi": [
+            "सुलभ्य",
+            "दुर्निवार्य",
+            "दुरभिसंधि",
+            "अलभ्य"
+        ],
+        "ans": 4,
+        "solution": "<b>Solution (HI):</b> जिसे प्राप्त न किया जा सके उसे 'अलभ्य' कहते हैं। जो आसानी से मिल जाए वह सुलभ्य है। जिसका निवारण कठिन हो वह दुर्निवार्य है।<br><b>Short Trick:</b> अ (नहीं) + लभ्य (प्राप्त करने योग्य) = अलभ्य।"
+    },
+    {
+        "section": "Test of Hindi Language and Comprehension",
+        "topic": "मुहावरे और लोकोक्तियाँ",
+        "difficulty": "Medium",
+        "q_en": "निम्नलिखित विकल्पों में से दी गई लोकोक्ति का सही अर्थ चुनिए।<br>'अंधा गाए, बहरा बजाए'",
+        "q_hi": "निम्नलिखित विकल्पों में से दी गई लोकोक्ति का सही अर्थ चुनिए।<br>'अंधा गाए, बहरा बजाए'",
+        "op_en": [
+            "बेसुरा प्रदर्शन करना",
+            "बेमेल व्यक्तियों का मेल होना",
+            "अत्यधिक आत्ममुग्ध होना",
+            "केवल अपनी राग का आलाप लेना"
+        ],
+        "op_hi": [
+            "बेसुरा प्रदर्शन करना",
+            "बेमेल व्यक्तियों का मेल होना",
+            "अत्यधिक आत्ममुग्ध होना",
+            "केवल अपनी राग का आलाप लेना"
+        ],
+        "ans": 2,
+        "solution": "<b>Solution (HI):</b> 'अंधा गाए, बहरा बजाए' लोकोक्ति का अर्थ दो बेमेल या अयोग्य व्यक्तियों का एक साथ मिलकर काम करना है, जहाँ दोनों को एक-दूसरे की कमियों का पता नहीं चलता।<br><b>Short Trick:</b> अंधे और बहरे का साथ = बेमेल व्यक्तियों का मेल।"
+    },
+    {
+        "section": "Test of Hindi Language and Comprehension",
+        "topic": "वाक्य क्रम व्यवस्था",
+        "difficulty": "Hard",
+        "q_en": "नीचे दिए वाक्यों का क्रम सही करें। <br>अ. मेरे पिता उन्हीं के कदमों पर चल रहे हैं। <br>ब. मेरे दादा एक सामान्य किसान थे। <br>स. मैं परंपरावादी व्यक्ति नहीं हूँ। <br>द. मेरी पत्नी पारिवारिक मूल्यों को मानने वाली हैं।",
+        "q_hi": "नीचे दिए वाक्यों का क्रम सही करें। <br>अ. मेरे पिता उन्हीं के कदमों पर चल रहे हैं। <br>ब. मेरे दादा एक सामान्य किसान थे। <br>स. मैं परंपरावादी व्यक्ति नहीं हूँ। <br>द. मेरी पत्नी पारिवारिक मूल्यों को मानने वाली हैं।",
+        "op_en": [
+            "द, अ, स, अ",
+            "स, ब, द, अ",
+            "अ, स, ब, द",
+            "ब, अ, स, द"
+        ],
+        "op_hi": [
+            "द, अ, स, अ",
+            "स, ब, द, अ",
+            "अ, स, ब, द",
+            "ब, अ, स, द"
+        ],
+        "ans": 4,
+        "solution": "<b>Solution (HI):</b> वाक्यों का सही और सार्थक क्रम इस प्रकार होगा: पहले दादा जी का परिचय (ब), फिर पिता जी का अनुसरण (अ), उसके बाद स्वयं का दृष्टिकोण (स), और अंत में पत्नी के विचारों का वर्णन (द)। अतः सही क्रम 'ब, अ, स, द' है।<br><b>Short Trick:</b> पीढ़ियों का क्रम: दादा (ब) -> पिता (अ) -> स्वयं (स) -> पत्नी (द)।"
+    },
+    {
+        "section": "Test of Hindi Language and Comprehension1",
+        "topic": "Comprehension",
+        "difficulty": "Hard",
+        "q_en": "<b>Comprehension:</b><br><br>गद्यांश के आधार पर प्रश्न का उत्तर दें।<b></b><br>वैदिक काल के उपरांत भारत में पालि और प्राकृत जनमानस की प्रमुख बोलचाल की भाषाएँ बनकर उभरीं। व्यापक अर्थ में ‘प्राकृत’ शब्द का प्रयोग उन सभी भाषाओं के लिए किया जाता था जो व्याकरणिक रूप से मानक संस्कृत से भिन्न थीं। पालि को पुरातन प्राकृत माना जाता है, जो वस्तुतः विभिन्न क्षेत्रीय बोलियों का एक प्रभावी मिश्रण थी। भगवान बुद्ध ने जनसाधारण तक अपनी बात पहुँचाने के लिए पालि भाषा को चुना, जिसके फलस्वरूप बौद्ध धर्म का संपूर्ण प्रामाणिक साहित्य ‘त्रिपिटक’ के रूप में पालि में ही संकलित है। त्रिपिटक के अंतर्गत विनय पिटक में भिक्षुओं के अनुशासन संबंधी नियम हैं, सुत्त पिटक बुद्ध के विचारों और संवादों का संग्रह है, जबकि अभिधम्म पिटक दर्शन, नैतिकता और ज्ञान के सिद्धांतों को स्पष्ट करता है। इनके अतिरिक्त बुद्ध के पूर्व जन्मों से संबंधित ‘जातक कथाएँ’ भी अत्यंत लोकप्रिय हैं, जो पालि और संस्कृत दोनों भाषाओं में उपलब्ध हैं। ये कथाएँ भारतीय जनता की साझी विरासत और प्राचीन पौराणिक परंपराओं को समेटे हुए हैं। यद्यपि पालि का वर्चस्व था, किंतु अश्वघोष द्वारा रचित ‘बुद्धचरित’ जैसे महान संस्कृत महाकाव्य भी बौद्ध साहित्य की अटूट समृद्धि का प्रमाण हैं।<br><br>गद्यांश के अनुसार ‘प्राकृत’ शब्द का व्यापक अर्थ क्या था?",
+        "q_hi": "<b>Comprehension:</b><br><br>गद्यांश के आधार पर प्रश्न का उत्तर दें।<b></b><br>वैदिक काल के उपरांत भारत में पालि और प्राकृत जनमानस की प्रमुख बोलचाल की भाषाएँ बनकर उभरीं। व्यापक अर्थ में ‘प्राकृत’ शब्द का प्रयोग उन सभी भाषाओं के लिए किया जाता था जो व्याकरणिक रूप से मानक संस्कृत से भिन्न थीं। पालि को पुरातन प्राकृत माना जाता है, जो वस्तुतः विभिन्न क्षेत्रीय बोलियों का एक प्रभावी मिश्रण थी। भगवान बुद्ध ने जनसाधारण तक अपनी बात पहुँचाने के लिए पालि भाषा को चुना, जिसके फलस्वरूप बौद्ध धर्म का संपूर्ण प्रामाणिक साहित्य ‘त्रिपिटक’ के रूप में पालि में ही संकलित है। त्रिपिटक के अंतर्गत विनय पिटक में भिक्षुओं के अनुशासन संबंधी नियम हैं, सुत्त पिटक बुद्ध के विचारों और संवादों का संग्रह है, जबकि अभिधम्म पिटक दर्शन, नैतिकता और ज्ञान के सिद्धांतों को स्पष्ट करता है। इनके अतिरिक्त बुद्ध के पूर्व जन्मों से संबंधित ‘जातक कथाएँ’ भी अत्यंत लोकप्रिय हैं, जो पालि और संस्कृत दोनों भाषाओं में उपलब्ध हैं। ये कथाएँ भारतीय जनता की साझी विरासत और प्राचीन पौराणिक परंपराओं को समेटे हुए हैं। यद्यपि पालि का वर्चस्व था, किंतु अश्वघोष द्वारा रचित ‘बुद्धचरित’ जैसे महान संस्कृत महाकाव्य भी बौद्ध साहित्य की अटूट समृद्धि का प्रमाण हैं।<br><br>गद्यांश के अनुसार ‘प्राकृत’ शब्द का व्यापक अर्थ क्या था?",
+        "op_en": [
+            "वह भाषा जो मानक संस्कृत से भिन्न थी।",
+            "वह भाषा जिसका कोई व्याकरण नहीं था।",
+            "वह भाषा जो केवल वेदों में प्रयुक्त होती थी।",
+            "वह भाषा जो केवल विद्वानों द्वारा बोली जाती थी।"
+        ],
+        "op_hi": [
+            "वह भाषा जो मानक संस्कृत से भिन्न थी।",
+            "वह भाषा जिसका कोई व्याकरण नहीं था।",
+            "वह भाषा जो केवल वेदों में प्रयुक्त होती थी।",
+            "वह भाषा जो केवल विद्वानों द्वारा बोली जाती थी।"
+        ],
+        "ans": 1,
+        "solution": "<b>Solution (HI):</b> गद्यांश में स्पष्ट रूप से उल्लेख किया गया है कि \"व्यापक अर्थ में ‘प्राकृत’ शब्द का प्रयोग उन सभी भाषाओं के लिए किया जाता था जो व्याकरणिक रूप से मानक संस्कृत से भिन्न थीं।\" अतः विकल्प 1 सही है।<br><b>Short Trick:</b> गद्यांश की दूसरी पंक्ति में सीधा उत्तर दिया गया है (प्राकृत = मानक संस्कृत से भिन्न)।"
+    },
+    {
+        "section": "Test of Hindi Language and Comprehension1",
+        "topic": "Comprehension",
+        "difficulty": "Hard",
+        "q_en": "<b>Comprehension:</b><br><br>गद्यांश के आधार पर प्रश्न का उत्तर दें।<b></b><br>वैदिक काल के उपरांत भारत में पालि और प्राकृत जनमानस की प्रमुख बोलचाल की भाषाएँ बनकर उभरीं। व्यापक अर्थ में ‘प्राकृत’ शब्द का प्रयोग उन सभी भाषाओं के लिए किया जाता था जो व्याकरणिक रूप से मानक संस्कृत से भिन्न थीं। पालि को पुरातन प्राकृत माना जाता है, जो वस्तुतः विभिन्न क्षेत्रीय बोलियों का एक प्रभावी मिश्रण थी। भगवान बुद्ध ने जनसाधारण तक अपनी बात पहुँचाने के लिए पालि भाषा को चुना, जिसके फलस्वरूप बौद्ध धर्म का संपूर्ण प्रामाणिक साहित्य ‘त्रिपिटक’ के रूप में पालि में ही संकलित है। त्रिपिटक के अंतर्गत विनय पिटक में भिक्षुओं के अनुशासन संबंधी नियम हैं, सुत्त पिटक बुद्ध के विचारों और संवादों का संग्रह है, जबकि अभिधम्म पिटक दर्शन, नैतिकता और ज्ञान के सिद्धांतों को स्पष्ट करता है। इनके अतिरिक्त बुद्ध के पूर्व जन्मों से संबंधित ‘जातक कथाएँ’ भी अत्यंत लोकप्रिय हैं, जो पालि और संस्कृत दोनों भाषाओं में उपलब्ध हैं। ये कथाएँ भारतीय जनता की साझी विरासत और प्राचीन पौराणिक परंपराओं को समेटे हुए हैं। यद्यपि पालि का वर्चस्व था, किंतु अश्वघोष द्वारा रचित ‘बुद्धचरित’ जैसे महान संस्कृत महाकाव्य भी बौद्ध साहित्य की अटूट समृद्धि का प्रमाण हैं।<br><br>बौद्ध भिक्षुओं के लिए दिशा-निर्देश किस ग्रंथ में मिलते हैं?",
+        "q_hi": "<b>Comprehension:</b><br><br>गद्यांश के आधार पर प्रश्न का उत्तर दें।<b></b><br>वैदिक काल के उपरांत भारत में पालि और प्राकृत जनमानस की प्रमुख बोलचाल की भाषाएँ बनकर उभरीं। व्यापक अर्थ में ‘प्राकृत’ शब्द का प्रयोग उन सभी भाषाओं के लिए किया जाता था जो व्याकरणिक रूप से मानक संस्कृत से भिन्न थीं। पालि को पुरातन प्राकृत माना जाता है, जो वस्तुतः विभिन्न क्षेत्रीय बोलियों का एक प्रभावी मिश्रण थी। भगवान बुद्ध ने जनसाधारण तक अपनी बात पहुँचाने के लिए पालि भाषा को चुना, जिसके फलस्वरूप बौद्ध धर्म का संपूर्ण प्रामाणिक साहित्य ‘त्रिपिटक’ के रूप में पालि में ही संकलित है। त्रिपिटक के अंतर्गत विनय पिटक में भिक्षुओं के अनुशासन संबंधी नियम हैं, सुत्त पिटक बुद्ध के विचारों और संवादों का संग्रह है, जबकि अभिधम्म पिटक दर्शन, नैतिकता और ज्ञान के सिद्धांतों को स्पष्ट करता है। इनके अतिरिक्त बुद्ध के पूर्व जन्मों से संबंधित ‘जातक कथाएँ’ भी अत्यंत लोकप्रिय हैं, जो पालि और संस्कृत दोनों भाषाओं में उपलब्ध हैं। ये कथाएँ भारतीय जनता की साझी विरासत और प्राचीन पौराणिक परंपराओं को समेटे हुए हैं। यद्यपि पालि का वर्चस्व था, किंतु अश्वघोष द्वारा रचित ‘बुद्धचरित’ जैसे महान संस्कृत महाकाव्य भी बौद्ध साहित्य की अटूट समृद्धि का प्रमाण हैं।<br><br>बौद्ध भिक्षुओं के लिए दिशा-निर्देश किस ग्रंथ में मिलते हैं?",
+        "op_en": [
+            "अभिधम्म पिटक",
+            "सुत्त पिटक",
+            "बुद्धचरित",
+            "विनय पिटक"
+        ],
+        "op_hi": [
+            "अभिधम्म पिटक",
+            "सुत्त पिटक",
+            "बुद्धचरित",
+            "विनय पिटक"
+        ],
+        "ans": 4,
+        "solution": "<b>Solution (HI):</b> गद्यांश के अनुसार, \"त्रिपिटक के अंतर्गत विनय पिटक में भिक्षुओं के अनुशासन संबंधी नियम हैं।\" अतः दिशा-निर्देश (अनुशासन के नियम) विनय पिटक में संकलित हैं।<br><b>Short Trick:</b> भिक्षुओं के अनुशासन/नियम = विनय पिटक।"
+    },
+    {
+        "section": "Test of Hindi Language and Comprehension1",
+        "topic": "Comprehension",
+        "difficulty": "Hard",
+        "q_en": "<b>Comprehension:</b><br><br>गद्यांश के आधार पर प्रश्न का उत्तर दें।<b></b><br>वैदिक काल के उपरांत भारत में पालि और प्राकृत जनमानस की प्रमुख बोलचाल की भाषाएँ बनकर उभरीं। व्यापक अर्थ में ‘प्राकृत’ शब्द का प्रयोग उन सभी भाषाओं के लिए किया जाता था जो व्याकरणिक रूप से मानक संस्कृत से भिन्न थीं। पालि को पुरातन प्राकृत माना जाता है, जो वस्तुतः विभिन्न क्षेत्रीय बोलियों का एक प्रभावी मिश्रण थी। भगवान बुद्ध ने जनसाधारण तक अपनी बात पहुँचाने के लिए पालि भाषा को चुना, जिसके फलस्वरूप बौद्ध धर्म का संपूर्ण प्रामाणिक साहित्य ‘त्रिपिटक’ के रूप में पालि में ही संकलित है। त्रिपिटक के अंतर्गत विनय पिटक में भिक्षुओं के अनुशासन संबंधी नियम हैं, सुत्त पिटक बुद्ध के विचारों और संवादों का संग्रह है, जबकि अभिधम्म पिटक दर्शन, नैतिकता और ज्ञान के सिद्धांतों को स्पष्ट करता है। इनके अतिरिक्त बुद्ध के पूर्व जन्मों से संबंधित ‘जातक कथाएँ’ भी अत्यंत लोकप्रिय हैं, जो पालि और संस्कृत दोनों भाषाओं में उपलब्ध हैं। ये कथाएँ भारतीय जनता की साझी विरासत और प्राचीन पौराणिक परंपराओं को समेटे हुए हैं। यद्यपि पालि का वर्चस्व था, किंतु अश्वघोष द्वारा रचित ‘बुद्धचरित’ जैसे महान संस्कृत महाकाव्य भी बौद्ध साहित्य की अटूट समृद्धि का प्रमाण हैं।<br><br>‘जातक कथाओं’ के संदर्भ में कौन-सा कथन सत्य है?",
+        "q_hi": "<b>Comprehension:</b><br><br>गद्यांश के आधार पर प्रश्न का उत्तर दें।<b></b><br>वैदिक काल के उपरांत भारत में पालि और प्राकृत जनमानस की प्रमुख बोलचाल की भाषाएँ बनकर उभरीं। व्यापक अर्थ में ‘प्राकृत’ शब्द का प्रयोग उन सभी भाषाओं के लिए किया जाता था जो व्याकरणिक रूप से मानक संस्कृत से भिन्न थीं। पालि को पुरातन प्राकृत माना जाता है, जो वस्तुतः विभिन्न क्षेत्रीय बोलियों का एक प्रभावी मिश्रण थी। भगवान बुद्ध ने जनसाधारण तक अपनी बात पहुँचाने के लिए पालि भाषा को चुना, जिसके फलस्वरूप बौद्ध धर्म का संपूर्ण प्रामाणिक साहित्य ‘त्रिपिटक’ के रूप में पालि में ही संकलित है। त्रिपिटक के अंतर्गत विनय पिटक में भिक्षुओं के अनुशासन संबंधी नियम हैं, सुत्त पिटक बुद्ध के विचारों और संवादों का संग्रह है, जबकि अभिधम्म पिटक दर्शन, नैतिकता और ज्ञान के सिद्धांतों को स्पष्ट करता है। इनके अतिरिक्त बुद्ध के पूर्व जन्मों से संबंधित ‘जातक कथाएँ’ भी अत्यंत लोकप्रिय हैं, जो पालि और संस्कृत दोनों भाषाओं में उपलब्ध हैं। ये कथाएँ भारतीय जनता की साझी विरासत और प्राचीन पौराणिक परंपराओं को समेटे हुए हैं। यद्यपि पालि का वर्चस्व था, किंतु अश्वघोष द्वारा रचित ‘बुद्धचरित’ जैसे महान संस्कृत महाकाव्य भी बौद्ध साहित्य की अटूट समृद्धि का प्रमाण हैं।<br><br>‘जातक कथाओं’ के संदर्भ में कौन-सा कथन सत्य है?",
+        "op_en": [
+            "ये पूरी तरह से ऐतिहासिक और प्रामाणिक तथ्य हैं।",
+            "ये बुद्ध के पूर्व जन्मों से संबंधित कहानियाँ हैं।",
+            "ये केवल पालि भाषा में उपलब्ध हैं।",
+            "इनमें केवल आधुनिक भारत की कहानियाँ हैं।"
+        ],
+        "op_hi": [
+            "ये पूरी तरह से ऐतिहासिक और प्रामाणिक तथ्य हैं।",
+            "ये बुद्ध के पूर्व जन्मों से संबंधित कहानियाँ हैं।",
+            "ये केवल पालि भाषा में उपलब्ध हैं।",
+            "इनमें केवल आधुनिक भारत की कहानियाँ हैं।"
+        ],
+        "ans": 2,
+        "solution": "<b>Solution (HI):</b> गद्यांश में साफ तौर पर लिखा है कि \"बुद्ध के पूर्व जन्मों से संबंधित ‘जातक कथाएँ’ भी अत्यंत लोकप्रिय हैं...\"। इसलिए विकल्प 2 सत्य है।<br><b>Short Trick:</b> जातक कथाएँ = बुद्ध के पूर्व जन्म की कहानियाँ।"
+    },
+    {
+        "section": "Test of Hindi Language and Comprehension1",
+        "topic": "Comprehension",
+        "difficulty": "Hard",
+        "q_en": "<b>Comprehension:</b><br><br>गद्यांश के आधार पर प्रश्न का उत्तर दें।<b></b><br>वैदिक काल के उपरांत भारत में पालि और प्राकृत जनमानस की प्रमुख बोलचाल की भाषाएँ बनकर उभरीं। व्यापक अर्थ में ‘प्राकृत’ शब्द का प्रयोग उन सभी भाषाओं के लिए किया जाता था जो व्याकरणिक रूप से मानक संस्कृत से भिन्न थीं। पालि को पुरातन प्राकृत माना जाता है, जो वस्तुतः विभिन्न क्षेत्रीय बोलियों का एक प्रभावी मिश्रण थी। भगवान बुद्ध ने जनसाधारण तक अपनी बात पहुँचाने के लिए पालि भाषा को चुना, जिसके फलस्वरूप बौद्ध धर्म का संपूर्ण प्रामाणिक साहित्य ‘त्रिपिटक’ के रूप में पालि में ही संकलित है। त्रिपिटक के अंतर्गत विनय पिटक में भिक्षुओं के अनुशासन संबंधी नियम हैं, सुत्त पिटक बुद्ध के विचारों और संवादों का संग्रह है, जबकि अभिधम्म पिटक दर्शन, नैतिकता और ज्ञान के सिद्धांतों को स्पष्ट करता है। इनके अतिरिक्त बुद्ध के पूर्व जन्मों से संबंधित ‘जातक कथाएँ’ भी अत्यंत लोकप्रिय हैं, जो पालि और संस्कृत दोनों भाषाओं में उपलब्ध हैं। ये कथाएँ भारतीय जनता की साझी विरासत और प्राचीन पौराणिक परंपराओं को समेटे हुए हैं। यद्यपि पालि का वर्चस्व था, किंतु अश्वघोष द्वारा रचित ‘बुद्धचरित’ जैसे महान संस्कृत महाकाव्य भी बौद्ध साहित्य की अटूट समृद्धि का प्रमाण हैं।<br><br>गद्यांश के लिए उपयुक्त शीर्षक का चुनाव कीजिए:",
+        "q_hi": "<b>Comprehension:</b><br><br>गद्यांश के आधार पर प्रश्न का उत्तर दें।<b></b><br>वैदिक काल के उपरांत भारत में पालि और प्राकृत जनमानस की प्रमुख बोलचाल की भाषाएँ बनकर उभरीं। व्यापक अर्थ में ‘प्राकृत’ शब्द का प्रयोग उन सभी भाषाओं के लिए किया जाता था जो व्याकरणिक रूप से मानक संस्कृत से भिन्न थीं। पालि को पुरातन प्राकृत माना जाता है, जो वस्तुतः विभिन्न क्षेत्रीय बोलियों का एक प्रभावी मिश्रण थी। भगवान बुद्ध ने जनसाधारण तक अपनी बात पहुँचाने के लिए पालि भाषा को चुना, जिसके फलस्वरूप बौद्ध धर्म का संपूर्ण प्रामाणिक साहित्य ‘त्रिपिटक’ के रूप में पालि में ही संकलित है। त्रिपिटक के अंतर्गत विनय पिटक में भिक्षुओं के अनुशासन संबंधी नियम हैं, सुत्त पिटक बुद्ध के विचारों और संवादों का संग्रह है, जबकि अभिधम्म पिटक दर्शन, नैतिकता और ज्ञान के सिद्धांतों को स्पष्ट करता है। इनके अतिरिक्त बुद्ध के पूर्व जन्मों से संबंधित ‘जातक कथाएँ’ भी अत्यंत लोकप्रिय हैं, जो पालि और संस्कृत दोनों भाषाओं में उपलब्ध हैं। ये कथाएँ भारतीय जनता की साझी विरासत और प्राचीन पौराणिक परंपराओं को समेटे हुए हैं। यद्यपि पालि का वर्चस्व था, किंतु अश्वघोष द्वारा रचित ‘बुद्धचरित’ जैसे महान संस्कृत महाकाव्य भी बौद्ध साहित्य की अटूट समृद्धि का प्रमाण हैं।<br><br>गद्यांश के लिए उपयुक्त शीर्षक का चुनाव कीजिए:",
+        "op_en": [
+            "वैदिक काल का इतिहास",
+            "भगवान बुद्ध के उपदेश",
+            "जातक कथाओं का महत्व",
+            "पालि-प्राकृत भाषा एवं साहित्य का विकास"
+        ],
+        "op_hi": [
+            "वैदिक काल का इतिहास",
+            "भगवान बुद्ध के उपदेश",
+            "जातक कथाओं का महत्व",
+            "पालि-प्राकृत भाषा एवं साहित्य का विकास"
+        ],
+        "ans": 4,
+        "solution": "<b>Solution (HI):</b> पूरे गद्यांश में पालि और प्राकृत भाषाओं के उद्भव, उनके प्रयोग (विशेषकर बौद्ध धर्म में) और उनसे जुड़े साहित्य (त्रिपिटक, जातक कथाएं, बुद्धचरित) के विकास पर चर्चा की गई है। अतः सबसे उपयुक्त शीर्षक 'पालि-प्राकृत भाषा एवं साहित्य का विकास' होगा।<br><b>Short Trick:</b> गद्यांश का मूल विषय भाषा (पालि/प्राकृत) और उसके साहित्य (त्रिपिटक आदि) का वर्णन है।"
+    },
+    {
+        "section": "Test of Hindi Language and Comprehension1",
+        "topic": "Comprehension",
+        "difficulty": "Hard",
+        "q_en": "<b>Comprehension:</b><br><br>गद्यांश के आधार पर प्रश्न का उत्तर दें।<b></b><br>वैदिक काल के उपरांत भारत में पालि और प्राकृत जनमानस की प्रमुख बोलचाल की भाषाएँ बनकर उभरीं। व्यापक अर्थ में ‘प्राकृत’ शब्द का प्रयोग उन सभी भाषाओं के लिए किया जाता था जो व्याकरणिक रूप से मानक संस्कृत से भिन्न थीं। पालि को पुरातन प्राकृत माना जाता है, जो वस्तुतः विभिन्न क्षेत्रीय बोलियों का एक प्रभावी मिश्रण थी। भगवान बुद्ध ने जनसाधारण तक अपनी बात पहुँचाने के लिए पालि भाषा को चुना, जिसके फलस्वरूप बौद्ध धर्म का संपूर्ण प्रामाणिक साहित्य ‘त्रिपिटक’ के रूप में पालि में ही संकलित है। त्रिपिटक के अंतर्गत विनय पिटक में भिक्षुओं के अनुशासन संबंधी नियम हैं, सुत्त पिटक बुद्ध के विचारों और संवादों का संग्रह है, जबकि अभिधम्म पिटक दर्शन, नैतिकता और ज्ञान के सिद्धांतों को स्पष्ट करता है। इनके अतिरिक्त बुद्ध के पूर्व जन्मों से संबंधित ‘जातक कथाएँ’ भी अत्यंत लोकप्रिय हैं, जो पालि और संस्कृत दोनों भाषाओं में उपलब्ध हैं। ये कथाएँ भारतीय जनता की साझी विरासत और प्राचीन पौराणिक परंपराओं को समेटे हुए हैं। यद्यपि पालि का वर्चस्व था, किंतु अश्वघोष द्वारा रचित ‘बुद्धचरित’ जैसे महान संस्कृत महाकाव्य भी बौद्ध साहित्य की अटूट समृद्धि का प्रमाण हैं।<br><br>गद्यांश में प्रयुक्त शब्द 'प्राचीन' का सही विलोम शब्द चुनिए:",
+        "q_hi": "<b>Comprehension:</b><br><br>गद्यांश के आधार पर प्रश्न का उत्तर दें।<b></b><br>वैदिक काल के उपरांत भारत में पालि और प्राकृत जनमानस की प्रमुख बोलचाल की भाषाएँ बनकर उभरीं। व्यापक अर्थ में ‘प्राकृत’ शब्द का प्रयोग उन सभी भाषाओं के लिए किया जाता था जो व्याकरणिक रूप से मानक संस्कृत से भिन्न थीं। पालि को पुरातन प्राकृत माना जाता है, जो वस्तुतः विभिन्न क्षेत्रीय बोलियों का एक प्रभावी मिश्रण थी। भगवान बुद्ध ने जनसाधारण तक अपनी बात पहुँचाने के लिए पालि भाषा को चुना, जिसके फलस्वरूप बौद्ध धर्म का संपूर्ण प्रामाणिक साहित्य ‘त्रिपिटक’ के रूप में पालि में ही संकलित है। त्रिपिटक के अंतर्गत विनय पिटक में भिक्षुओं के अनुशासन संबंधी नियम हैं, सुत्त पिटक बुद्ध के विचारों और संवादों का संग्रह है, जबकि अभिधम्म पिटक दर्शन, नैतिकता और ज्ञान के सिद्धांतों को स्पष्ट करता है। इनके अतिरिक्त बुद्ध के पूर्व जन्मों से संबंधित ‘जातक कथाएँ’ भी अत्यंत लोकप्रिय हैं, जो पालि और संस्कृत दोनों भाषाओं में उपलब्ध हैं। ये कथाएँ भारतीय जनता की साझी विरासत और प्राचीन पौराणिक परंपराओं को समेटे हुए हैं। यद्यपि पालि का वर्चस्व था, किंतु अश्वघोष द्वारा रचित ‘बुद्धचरित’ जैसे महान संस्कृत महाकाव्य भी बौद्ध साहित्य की अटूट समृद्धि का प्रमाण हैं।<br><br>गद्यांश में प्रयुक्त शब्द 'प्राचीन' का सही विलोम शब्द चुनिए:",
+        "op_en": [
+            "अर्वाचीन",
+            "ऐतिहासिक",
+            "पौराणिक",
+            "पुराना"
+        ],
+        "op_hi": [
+            "अर्वाचीन",
+            "ऐतिहासिक",
+            "पौराणिक",
+            "पुराना"
+        ],
+        "ans": 1,
+        "solution": "<b>Solution (HI):</b> 'प्राचीन' का अर्थ 'पुराना' होता है, और इसका सही विलोम 'अर्वाचीन' (नया या आधुनिक) होता है। पौराणिक और पुराना इसके समानार्थी या संबंधित शब्द हैं।<br><b>Short Trick:</b> प्राचीन (पुराना) का सटीक विलोम = अर्वाचीन (नया)।"
+    },
+    {
+        "section": "Arithmetical and Numerical Ability",
+        "topic": "HCF and LCM",
+        "difficulty": "Medium",
+        "q_en": "The length of a rectangular courtyard is 15 m 17 cm and the width is 9 m 2 cm. It is to be paved with identical square stones. What should be the minimum number of such stones?",
+        "q_hi": "किसी आयताकार आंगन की लंबाई 15 m 17 cm है और चौड़ाई 9 m 2 cm है। इसे समान वर्गाकार पत्थरों से पक्का करना है। ऐसे पत्थरों की न्यूनतम संख्या कितनी होनी चाहिए?",
+        "op_en": [
+            "814",
+            "764",
+            "782",
+            "754"
+        ],
+        "op_hi": [
+            "814",
+            "764",
+            "782",
+            "754"
+        ],
+        "ans": 1,
+        "solution": "<b>Solution (EN):</b> Length of courtyard = 15 m 17 cm = 1517 cm.<br>Width = 9 m 2 cm = 902 cm.<br>To find the minimum number of identical square stones, we need the maximum possible size of the square stone. This will be the HCF of the length and width.<br>HCF of 1517 and 902 = 41 cm.<br>Side of each square stone = 41 cm.<br>Minimum number of stones required = (Area of courtyard) &divide; (Area of one square stone)<br>= (1517 &times; 902) &divide; (41 &times; 41) = 37 &times; 22 = 814.<br><b>Solution (HI):</b> आंगन की लंबाई = 15 m 17 cm = 1517 cm.<br>चौड़ाई = 9 m 2 cm = 902 cm.<br>समान वर्गाकार पत्थरों की न्यूनतम संख्या ज्ञात करने के लिए, हमें वर्गाकार पत्थर का अधिकतम संभव आकार चाहिए। यह लंबाई और चौड़ाई का HCF (म.स.प.) होगा।<br>1517 और 902 का HCF = 41 cm.<br>प्रत्येक वर्गाकार पत्थर की भुजा = 41 cm.<br>आवश्यक पत्थरों की न्यूनतम संख्या = (आंगन का क्षेत्रफल) &divide; (एक वर्गाकार पत्थर का क्षेत्रफल)<br>= (1517 &times; 902) &divide; (41 &times; 41) = 37 &times; 22 = 814.<br><b>Short Trick:</b> HCF of (1517, 902) = 41. Number of stones = (1517 &divide; 41) &times; (902 &divide; 41) = 37 &times; 22 = 814."
+    },
+    {
+        "section": "Arithmetical and Numerical Ability",
+        "topic": "Mixture and Alligation",
+        "difficulty": "Medium",
+        "q_en": "Two chemical solutions, X with 40% concentration and Y with 70% concentration, are mixed in the ratio 2:3. What is the concentration of the final mixture?",
+        "q_hi": "दो रासायनिक विलयन, 40% सांद्रता वाले X और 70% सांद्रता वाले Y को 2:3 के अनुपात में मिलाया जाता है। अंतिम मिश्रण की सांद्रता कितनी है?",
+        "op_en": [
+            "60%",
+            "58%",
+            "52%",
+            "55%"
+        ],
+        "op_hi": [
+            "60%",
+            "58%",
+            "52%",
+            "55%"
+        ],
+        "ans": 2,
+        "solution": "<b>Solution (EN):</b> Let the quantities of solutions X and Y be 2k and 3k respectively.<br>Concentration of X = 40%, Concentration of Y = 70%.<br>Total concentration in final mixture = [(40 &times; 2) + (70 &times; 3)] &divide; (2 + 3)<br>= (80 + 210) &divide; 5 = 290 &divide; 5 = 58%.<br><b>Solution (HI):</b> माना विलयन X और Y की मात्रा क्रमशः 2k और 3k है।<br>X की सांद्रता = 40%, Y की सांद्रता = 70%.<br>अंतिम मिश्रण में कुल सांद्रता = [(40 &times; 2) + (70 &times; 3)] &divide; (2 + 3)<br>= (80 + 210) &divide; 5 = 290 &divide; 5 = 58%.<br><b>Short Trick:</b> Weighted average: (40 &times; 2 + 70 &times; 3) &divide; 5 = 290 &divide; 5 = 58%."
+    },
+    {
+        "section": "Arithmetical and Numerical Ability",
+        "topic": "Average",
+        "difficulty": "Hard",
+        "q_en": "In Department A, there are 40 employees with an average age of 36 years. In Department B, there are 60 employees whose average age is 42 years. The average age of Department C is 30 years. If the combined average age of all three departments is 38 years, then what is the number of employees in Department C?",
+        "q_hi": "विभाग A में, 36 वर्ष औसत आयु वाले 40 कर्मचारी हैं। विभाग B में, 60 कर्मचारी हैं जिनकी औसत आयु 42 वर्ष है। विभाग C की औसत आयु 30 वर्ष है। यदि तीनों विभागों की संयुक्त औसत आयु 38 वर्ष है, तो विभाग C में कर्मचारियों की संख्या कितनी है?",
+        "op_en": [
+            "20",
+            "30",
+            "15",
+            "25"
+        ],
+        "op_hi": [
+            "20",
+            "30",
+            "15",
+            "25"
+        ],
+        "ans": 1,
+        "solution": "<b>Solution (EN):</b> Total age of employees in Dept A = 40 &times; 36 = 1440 years.<br>Total age of employees in Dept B = 60 &times; 42 = 2520 years.<br>Let the number of employees in Dept C be x. Total age = 30 &times; x = 30x.<br>Combined average age = 38 years.<br>Therefore, (1440 + 2520 + 30x) &divide; (40 + 60 + x) = 38<br>3960 + 30x = 38 &times; (100 + x)<br>3960 + 30x = 3800 + 38x<br>8x = 160 &rArr; x = 20.<br><b>Solution (HI):</b> विभाग A में कर्मचारियों की कुल आयु = 40 &times; 36 = 1440 वर्ष।<br>विभाग B में कर्मचारियों की कुल आयु = 60 &times; 42 = 2520 वर्ष।<br>माना विभाग C में कर्मचारियों की संख्या x है। कुल आयु = 30 &times; x = 30x.<br>संयुक्त औसत आयु = 38 वर्ष।<br>इसलिए, (1440 + 2520 + 30x) &divide; (40 + 60 + x) = 38<br>3960 + 30x = 38 &times; (100 + x)<br>3960 + 30x = 3800 + 38x<br>8x = 160 &rArr; x = 20.<br><b>Short Trick:</b> Use deviation method: Dept A deviation = 40 &times; (36 - 38) = -80. Dept B deviation = 60 &times; (42 - 38) = +240. Net deviation so far = +160. To make overall deviation 0, Dept C deviation must be -160. Dept C deviation = x &times; (30 - 38) = -8x. So, -8x = -160 &rArr; x = 20."
+    },
+    {
+        "section": "Arithmetical and Numerical Ability",
+        "topic": "Simplification",
+        "difficulty": "Medium",
+        "q_en": "Find the simplified value of 180 - 25 &times; (17 + 8) + 89.",
+        "q_hi": "180 - 25 &times; (17 + 8) + 89 का सरलीकृत मान ज्ञात कीजिए।",
+        "op_en": [
+            "-346",
+            "-352",
+            "-356",
+            "-361"
+        ],
+        "op_hi": [
+            "-346",
+            "-352",
+            "-356",
+            "-361"
+        ],
+        "ans": 3,
+        "solution": "<b>Solution (EN):</b> Using BODMAS rule, first solve the bracket:<br>180 - 25 &times; (17 + 8) + 89<br>= 180 - 25 &times; 25 + 89<br>= 180 - 625 + 89<br>= 269 - 625<br>= -356.<br><b>Solution (HI):</b> BODMAS नियम का उपयोग करते हुए, सबसे पहले कोष्ठक (bracket) को हल करें:<br>180 - 25 &times; (17 + 8) + 89<br>= 180 - 25 &times; 25 + 89<br>= 180 - 625 + 89<br>= 269 - 625<br>= -356.<br><b>Short Trick:</b> 180 - (25 &times; 25) + 89 = 180 - 625 + 89 = 269 - 625 = -356."
+    },
+    {
+        "section": "Arithmetical and Numerical Ability",
+        "topic": "Compound Interest",
+        "difficulty": "Hard",
+        "q_en": "Vipul invested &#8377;51,500 in a bank. How much compound interest (in &#8377;) will he earn in two years, compounded annually, if the interest rate was 10% per annum in the first year and 4% more than that in the second year?",
+        "q_hi": "विपुल ने किसी बैंक में &#8377;51,500 का निवेश किया। दो वर्षों में, वार्षिक चक्रवृद्धि के साथ उसे कितना चक्रवृद्धि ब्याज (&#8377; में) अर्जित होगा, यदि ब्याज दर पहले वर्ष में 10% वार्षिक थी और दूसरे वर्ष में यह दर उससे 4% अधिक थी?",
+        "op_en": [
+            "13,331",
+            "12,881",
+            "12,731",
+            "13,081"
+        ],
+        "op_hi": [
+            "13,331",
+            "12,881",
+            "12,731",
+            "13,081"
+        ],
+        "ans": 4,
+        "solution": "<b>Solution (EN):</b> Principal (P) = &#8377;51,500.<br>Rate for 1st year (R1) = 10%.<br>Rate for 2nd year (R2) = 10% + 4% = 14%.<br>Effective rate of compound interest for 2 years = R1 + R2 + (R1 &times; R2) &divide; 100<br>= 10 + 14 + (10 &times; 14) &divide; 100 = 24 + 1.4 = 25.4%.<br>Compound Interest = 25.4% of 51,500<br>= (25.4 &divide; 100) &times; 51500 = 13,081.<br><b>Solution (HI):</b> मूलधन (P) = &#8377;51,500.<br>पहले वर्ष के लिए दर (R1) = 10%.<br>दूसरे वर्ष के लिए दर (R2) = 10% + 4% = 14%.<br>2 वर्षों के लिए चक्रवृद्धि ब्याज की प्रभावी दर = R1 + R2 + (R1 &times; R2) &divide; 100<br>= 10 + 14 + (10 &times; 14) &divide; 100 = 24 + 1.4 = 25.4%.<br>चक्रवृद्धि ब्याज = 51,500 का 25.4%<br>= (25.4 &divide; 100) &times; 51500 = 13,081.<br><b>Short Trick:</b> Net CI % = 10 + 14 + (140 &divide; 100) = 25.4%. CI = 51500 &times; 0.254 = 13081."
+    },
+    {
+        "section": "Arithmetical and Numerical Ability",
+        "topic": "Simple Interest",
+        "difficulty": "Medium",
+        "q_en": "On what sum of money (in &#8377;) will &#8377;1,920 be obtained as simple interest in 4 years at the rate of 16% per annum?",
+        "q_hi": "कितनी धनराशि (&#8377; में) पर 16% वार्षिक साधारण ब्याज दर से 4 वर्षों में ब्याज के रूप में &#8377;1,920 प्राप्त होंगे?",
+        "op_en": [
+            "6,000",
+            "1,228.8",
+            "1,500",
+            "3,000"
+        ],
+        "op_hi": [
+            "6,000",
+            "1,228.8",
+            "1,500",
+            "3,000"
+        ],
+        "ans": 4,
+        "solution": "<b>Solution (EN):</b> Simple Interest (SI) = &#8377;1,920.<br>Rate (R) = 16% per annum, Time (T) = 4 years.<br>Formula: SI = (P &times; R &times; T) &divide; 100<br>1920 = (P &times; 16 &times; 4) &divide; 100<br>1920 = (P &times; 64) &divide; 100<br>P = (1920 &times; 100) &divide; 64 = 3000.<br>Therefore, the required sum is &#8377;3,000.<br><b>Solution (HI):</b> साधारण ब्याज (SI) = &#8377;1,920.<br>दर (R) = 16% वार्षिक, समय (T) = 4 वर्ष।<br>सूत्र: SI = (P &times; R &times; T) &divide; 100<br>1920 = (P &times; 16 &times; 4) &divide; 100<br>1920 = (P &times; 64) &divide; 100<br>P = (1920 &times; 100) &divide; 64 = 3000.<br>अतः आवश्यक धनराशि &#8377;3,000 है。<br><b>Short Trick:</b> Total interest percentage in 4 years = 16% &times; 4 = 64%. So, 64% of Principal = 1920. Principal = (1920 &divide; 64) &times; 100 = 3000."
+    },
+    {
+        "section": "Arithmetical and Numerical Ability",
+        "topic": "Profit and Loss",
+        "difficulty": "Medium",
+        "q_en": "A person incurs a loss of 26% by selling an article for &#8377;259. If he sells it for &#8377;273, find his loss percentage.",
+        "q_hi": "एक व्यक्ति द्वारा एक वस्तु को &#8377;259 में बेचने पर 26% की हानि होती है। यदि वह उसे &#8377;273 में बेचता, तो उसकी हानि प्रतिशत ज्ञात कीजिए।",
+        "op_en": [
+            "24%",
+            "22%",
+            "20%",
+            "17%"
+        ],
+        "op_hi": [
+            "24%",
+            "22%",
+            "20%",
+            "17%"
+        ],
+        "ans": 2,
+        "solution": "<b>Solution (EN):</b> Selling Price (SP1) = &#8377;259, Loss% = 26%.<br>Cost Price (CP) = SP1 &divide; (1 - Loss% / 100)<br>CP = (259 &times; 100) &divide; (100 - 26) = (259 &times; 100) &divide; 74 = &#8377;350.<br>New Selling Price (SP2) = &#8377;273.<br>Loss = CP - SP2 = 350 - 273 = &#8377;77.<br>New Loss Percentage = (Loss &divide; CP) &times; 100 = (77 &divide; 350) &times; 100 = 22%.<br><b>Solution (HI):</b> विक्रय मूल्य (SP1) = &#8377;259, हानि% = 26%.<br>क्रय मूल्य (CP) = SP1 &divide; (1 - Loss% / 100)<br>CP = (259 &times; 100) &divide; (100 - 26) = (259 &times; 100) &divide; 74 = &#8377;350.<br>नया विक्रय मूल्य (SP2) = &#8377;273.<br>हानि = CP - SP2 = 350 - 273 = &#8377;77.<br>नया हानि प्रतिशत = (हानि &divide; CP) &times; 100 = (77 &divide; 350) &times; 100 = 22%.<br><b>Short Trick:</b> 74% value = 259. So, 273 value = (74 &divide; 259) &times; 273 = 78%. Since new SP is 78% of CP, loss is 100% - 78% = 22%."
+    },
+    {
+        "section": "Arithmetical and Numerical Ability",
+        "topic": "Mixture and Alligation",
+        "difficulty": "Hard",
+        "q_en": "A can contains a mixture of two liquids A and B in the ratio 7 : 5. When 9 liters of mixture are drawn off and the can is filled with liquid B, the ratio of A and B becomes 7 : 9. How many liters of liquid B was contained by the can initially?",
+        "q_hi": "एक कैन में दो द्रव A और B का मिश्रण 7 : 5 के अनुपात में है। जब मिश्रण में से 9 लीटर निकाल लिया जाता है और कैन को द्रव B से भरा जाता है, तो A और B का अनुपात 7 : 9 हो जाता है। प्रारंभ में कैन में कितने लीटर द्रव B विद्यमान था?",
+        "op_en": [
+            "21",
+            "27",
+            "15",
+            "12"
+        ],
+        "op_hi": [
+            "21",
+            "27",
+            "15",
+            "12"
+        ],
+        "ans": 3,
+        "solution": "<b>Solution (EN):</b> Let the initial quantity of liquid A and B be 7x and 5x respectively. Total mixture = 12x.<br>When 9 liters are drawn off:<br>Amount of A removed = 9 &times; (7 &divide; 12) = 21 &divide; 4 liters.<br>Amount of B removed = 9 &times; (5 &divide; 12) = 15 &divide; 4 liters.<br>After adding 9 liters of liquid B, the new ratio is 7 : 9.<br>(7x - 21/4) &divide; (5x - 15/4 + 9) = 7 &divide; 9<br>(28x - 21) &divide; (20x + 21) = 7 &divide; 9<br>9(4x - 3) = 20x + 21<br>36x - 27 = 20x + 21<br>16x = 48 &rArr; x = 3.<br>Initially, liquid B = 5x = 5 &times; 3 = 15 liters.<br><b>Solution (HI):</b> माना प्रारम्भ में द्रव A और B की मात्रा क्रमशः 7x और 5x है। कुल मिश्रण = 12x.<br>जब 9 लीटर निकाला जाता है:<br>निकाले गए A की मात्रा = 9 &times; (7 &divide; 12) = 21 &divide; 4 लीटर।<br>निकाले गए B की मात्रा = 9 &times; (5 &divide; 12) = 15 &divide; 4 लीटर।<br>9 लीटर द्रव B मिलाने के बाद नया अनुपात 7 : 9 हो जाता है।<br>(7x - 21/4) &divide; (5x - 15/4 + 9) = 7 &divide; 9<br>(28x - 21) &divide; (20x + 21) = 7 &divide; 9<br>9(4x - 3) = 20x + 21<br>36x - 27 = 20x + 21<br>16x = 48 &rArr; x = 3.<br>प्रारम्भ में, द्रव B = 5x = 5 &times; 3 = 15 लीटर।<br><b>Short Trick:</b> Remaining mixture ratio A:B = 7:5 (Total 12 units). Final mixture A:B = 7:9 (Total 16 units). Since only B was added, A remains constant (7 units). B increased from 5 to 9, an increase of 4 units. 4 units = 9 Litres. Total final volume = 16 units = 16 &times; (9 &divide; 4) = 36 Litres. This is also the initial total volume. Initial B = 36 &times; (5 &divide; 12) = 15 Litres."
+    },
+    {
+        "section": "Arithmetical and Numerical Ability",
+        "topic": "Simplification",
+        "difficulty": "Medium",
+        "q_en": "If 95 &divide; 19 &times; 5<sup>2</sup> - 11 &times; 12 &divide; 6 + 8 = z, then find the value of z.",
+        "q_hi": "यदि 95 &divide; 19 &times; 5<sup>2</sup> - 11 &times; 12 &divide; 6 + 8 = z है, तो z का मान ज्ञात कीजिए।",
+        "op_en": [
+            "117",
+            "111",
+            "106",
+            "120"
+        ],
+        "op_hi": [
+            "117",
+            "111",
+            "106",
+            "120"
+        ],
+        "ans": 2,
+        "solution": "<b>Solution (EN):</b> Using BODMAS rule:<br>z = 95 &divide; 19 &times; 5<sup>2</sup> - 11 &times; 12 &divide; 6 + 8<br>First perform division: 95 &divide; 19 = 5 and 12 &divide; 6 = 2.<br>z = 5 &times; 25 - 11 &times; 2 + 8<br>Next perform multiplication: 5 &times; 25 = 125 and 11 &times; 2 = 22.<br>z = 125 - 22 + 8<br>Addition and Subtraction: z = 103 + 8 = 111.<br><b>Solution (HI):</b> BODMAS नियम का उपयोग करते हुए:<br>z = 95 &divide; 19 &times; 5<sup>2</sup> - 11 &times; 12 &divide; 6 + 8<br>सबसे पहले भाग (division) करें: 95 &divide; 19 = 5 और 12 &divide; 6 = 2.<br>z = 5 &times; 25 - 11 &times; 2 + 8<br>अगला चरण गुणा (multiplication) है: 5 &times; 25 = 125 और 11 &times; 2 = 22.<br>z = 125 - 22 + 8<br>जोड़ और घटाव: z = 103 + 8 = 111.<br><b>Short Trick:</b> 5 &times; 25 - 11 &times; 2 + 8 = 125 - 22 + 8 = 111."
+    },
+    {
+        "section": "Arithmetical and Numerical Ability",
+        "topic": "Ratio and Proportion",
+        "difficulty": "Hard",
+        "q_en": "The ratio of monthly incomes of two friends, Ajay and Amit, is 6 : 7 respectively and each of them saves &#8377;27,000 per month. If the ratio of their monthly expenditures is 2 : 4, then find the monthly income (in &#8377;) of Ajay.",
+        "q_hi": "दो मित्र, अजय और अमित, की मासिक आय का अनुपात क्रमशः 6 : 7 है तथा उनमें से प्रत्येक प्रति माह &#8377;27,000 की बचत करता है। यदि उनके मासिक व्यय का अनुपात 2 : 4 है, तो अजय की मासिक आय (&#8377; में) ज्ञात कीजिए।",
+        "op_en": [
+            "33,400",
+            "32,400",
+            "31,400",
+            "45,360"
+        ],
+        "op_hi": [
+            "33,400",
+            "32,400",
+            "31,400",
+            "45,360"
+        ],
+        "ans": 2,
+        "solution": "<b>Solution (EN):</b> Let the monthly incomes of Ajay and Amit be 6x and 7x respectively.<br>Let their expenditures be 2y and 4y respectively.<br>Income - Expenditure = Savings<br>For Ajay: 6x - 2y = 27000  ...(i)<br>For Amit: 7x - 4y = 27000 ...(ii)<br>Multiply equation (i) by 2: 12x - 4y = 54000 ...(iii)<br>Subtract equation (ii) from (iii):<br>12x - 7x = 54000 - 27000<br>5x = 27000 &rArr; x = 5400.<br>Ajay's monthly income = 6x = 6 &times; 5400 = &#8377;32,400.<br><b>Solution (HI):</b> माना अजय और अमित की मासिक आय क्रमशः 6x और 7x है।<br>माना उनका व्यय क्रमशः 2y और 4y है।<br>आय - व्यय = बचत<br>अजय के लिए: 6x - 2y = 27000  ...(i)<br>अमित के लिए: 7x - 4y = 27000 ...(ii)<br>समीकरण (i) को 2 से गुणा करें: 12x - 4y = 54000 ...(iii)<br>समीकरण (iii) में से (ii) को घटाएं:<br>12x - 7x = 54000 - 27000<br>5x = 27000 &rArr; x = 5400.<br>अजय की मासिक आय = 6x = 6 &times; 5400 = &#8377;32,400.<br><b>Short Trick:</b> Cross-multiplication method for incomes (6:7) and expenditures (1:2) with constant savings (27000):<br>(6 &times; 2) - (7 &times; 1) = 12 - 7 = 5 units.<br>Value of 5 units = (2 - 1) &times; 27000 = 27000.<br>1 unit = 5400.<br>Ajay's income = 6 &times; 5400 = 32400."
+    },
+    {
+        "section": "Arithmetical and Numerical Ability",
+        "topic": "Number System",
+        "difficulty": "Medium",
+        "q_en": "Let n be a positive integer less than 199. If n and 199 are coprime numbers, then find the sum of all possible values of n.",
+        "q_hi": "माना n एक धनात्मक पूर्णांक है, जो 199 से छोटा है। यदि n और 199 असहभाज्य संख्याएँ हैं, तो n के सभी संभावित मानों का योगफल ज्ञात कीजिए।",
+        "op_en": [
+            "17821",
+            "19701",
+            "15761",
+            "16791"
+        ],
+        "op_hi": [
+            "17821",
+            "19701",
+            "15761",
+            "16791"
+        ],
+        "ans": 2,
+        "solution": "<b>Solution (EN):</b> We know that 199 is a prime number.<br>Since 199 is prime, any positive integer 'n' strictly less than 199 will naturally be coprime to 199.<br>So, the possible values of n are 1, 2, 3, ..., 198.<br>This forms an Arithmetic Progression (AP).<br>Sum of first N natural numbers = N &times; (N + 1) &divide; 2<br>Here, N = 198.<br>Sum = 198 &times; 199 &divide; 2 = 99 &times; 199 = 19,701.<br><b>Solution (HI):</b> हम जानते हैं कि 199 एक अभाज्य संख्या (prime number) है।<br>चूंकि 199 अभाज्य है, 199 से छोटा कोई भी धनात्मक पूर्णांक 'n' स्वाभाविक रूप से 199 के साथ असहभाज्य (coprime) होगा।<br>अतः, n के संभावित मान 1, 2, 3, ..., 198 हैं।<br>यह एक समांतर श्रेणी (AP) बनाता है।<br>प्रथम N प्राकृत संख्याओं का योग = N &times; (N + 1) &divide; 2<br>यहाँ, N = 198.<br>योग = 198 &times; 199 &divide; 2 = 99 &times; 199 = 19,701.<br><b>Short Trick:</b> 199 is a prime number. Sum of all numbers less than a prime P and coprime to it is (P &times; (P-1)) &divide; 2 = (199 &times; 198) &divide; 2 = 19701."
+    },
+    {
+        "section": "Arithmetical and Numerical Ability",
+        "topic": "Algebra",
+        "difficulty": "Medium",
+        "q_en": "Find the value of 23<sup>3</sup> + (-4)<sup>3</sup> + (-19)<sup>3</sup>.",
+        "q_hi": "23<sup>3</sup> + (-4)<sup>3</sup> + (-19)<sup>3 </sup>का मान ज्ञात कीजिए।",
+        "op_en": [
+            "5244",
+            "5309",
+            "5319",
+            "5143"
+        ],
+        "op_hi": [
+            "5244",
+            "5309",
+            "5319",
+            "5143"
+        ],
+        "ans": 1,
+        "solution": "<b>Solution (EN):</b> We use the algebraic identity: If a + b + c = 0, then a<sup>3</sup> + b<sup>3</sup> + c<sup>3</sup> = 3abc.<br>Here, let a = 23, b = -4, and c = -19.<br>Check the sum: a + b + c = 23 + (-4) + (-19) = 23 - 23 = 0.<br>Therefore, 23<sup>3</sup> + (-4)<sup>3</sup> + (-19)<sup>3</sup> = 3 &times; 23 &times; (-4) &times; (-19)<br>= 3 &times; 23 &times; 76 = 69 &times; 76 = 5244.<br><b>Solution (HI):</b> हम बीजगणितीय सर्वसमिका का उपयोग करते हैं: यदि a + b + c = 0 है, तो a<sup>3</sup> + b<sup>3</sup> + c<sup>3</sup> = 3abc.<br>यहाँ, माना a = 23, b = -4, और c = -19.<br>योग की जाँच करें: a + b + c = 23 + (-4) + (-19) = 23 - 23 = 0.<br>इसलिए, 23<sup>3</sup> + (-4)<sup>3</sup> + (-19)<sup>3</sup> = 3 &times; 23 &times; (-4) &times; (-19)<br>= 3 &times; 23 &times; 76 = 69 &times; 76 = 5244.<br><b>Short Trick:</b> Since 23 - 4 - 19 = 0, the value is simply 3 &times; 23 &times; (-4) &times; (-19) = 5244."
+    },
+    {
+        "section": "Arithmetical and Numerical Ability",
+        "topic": "Average",
+        "difficulty": "Hard",
+        "q_en": "Out of a class of 60 students, the average height of 15 students is 160 cm. If the average height of the remaining students is 168 cm, then find the average height (in cm) of the whole class.",
+        "q_hi": "60 विद्यार्थियों वाली एक कक्षा में से 15 विद्यार्थियों की औसत लंबाई 160 cm है। यदि शेष विद्यार्थियों की औसत लंबाई 168 cm है, तो संपूर्ण कक्षा की औसत लंबाई (cm में) ज्ञात कीजिए।",
+        "op_en": [
+            "165",
+            "166",
+            "167",
+            "164"
+        ],
+        "op_hi": [
+            "165",
+            "166",
+            "167",
+            "164"
+        ],
+        "ans": 2,
+        "solution": "<b>Solution (EN):</b> Total students in the class = 60.<br>Number of students in first group = 15. Their average height = 160 cm.<br>Number of remaining students = 60 - 15 = 45. Their average height = 168 cm.<br>The ratio of students in the two groups = 15 : 45 = 1 : 3.<br>Using weighted average method:<br>Overall Average = [(1 &times; 160) + (3 &times; 168)] &divide; (1 + 3)<br>= (160 + 504) &divide; 4 = 664 &divide; 4 = 166 cm.<br><b>Solution (HI):</b> कक्षा में कुल विद्यार्थी = 60.<br>पहले समूह में विद्यार्थियों की संख्या = 15. उनकी औसत लंबाई = 160 cm.<br>शेष विद्यार्थियों की संख्या = 60 - 15 = 45. उनकी औसत लंबाई = 168 cm.<br>दोनों समूहों में विद्यार्थियों का अनुपात = 15 : 45 = 1 : 3.<br>भारित औसत विधि (weighted average) का उपयोग करने पर:<br>संपूर्ण औसत = [(1 &times; 160) + (3 &times; 168)] &divide; (1 + 3)<br>= (160 + 504) &divide; 4 = 664 &divide; 4 = 166 cm.<br><b>Short Trick:</b> Deviation method: Base average = 160. Second group (45 students) is +8 more than base. Total extra = 45 &times; 8 = 360. Distribute 360 among all 60 students = 360 &divide; 60 = +6. New average = 160 + 6 = 166 cm."
+    },
+    {
+        "section": "Arithmetical and Numerical Ability",
+        "topic": "Percentages",
+        "difficulty": "Medium",
+        "q_en": "How much is 35% of 60 greater than 30% of 50?",
+        "q_hi": "60 का 35%, 50 के 30% से कितना अधिक है?",
+        "op_en": [
+            "8",
+            "1",
+            "3",
+            "6"
+        ],
+        "op_hi": [
+            "8",
+            "1",
+            "3",
+            "6"
+        ],
+        "ans": 4,
+        "solution": "<b>Solution (EN):</b> Step 1: Calculate 35% of 60.<br>35% of 60 = (35 &divide; 100) &times; 60 = 21.<br>Step 2: Calculate 30% of 50.<br>30% of 50 = (30 &divide; 100) &times; 50 = 15.<br>Step 3: Find the difference.<br>Required difference = 21 - 15 = 6.<br><b>Solution (HI):</b> चरण 1: 60 का 35% ज्ञात करें।<br>60 का 35% = (35 &divide; 100) &times; 60 = 21.<br>चरण 2: 50 का 30% ज्ञात करें।<br>50 का 30% = (30 &divide; 100) &times; 50 = 15.<br>चरण 3: अंतर ज्ञात करें।<br>अभीष्ट अंतर = 21 - 15 = 6.<br><b>Short Trick:</b> (35 &times; 60) &divide; 100 - (30 &times; 50) &divide; 100 = 21 - 15 = 6."
+    },
+    {
+        "section": "Arithmetical and Numerical Ability",
+        "topic": "Profit and Loss",
+        "difficulty": "Medium",
+        "q_en": "A retailer buys an electronic item for &#8377;240. His overhead expenses are &#8377;10. He sells the electronic item for &#8377;340 and earns a profit of x%. Find the value of x.",
+        "q_hi": "एक खुदरा विक्रेता &#8377;240 में एक इलेक्ट्रॉनिक वस्तु खरीदता है। उसका उपरिव्‍यय &#8377;10 हैं। वह इलेक्ट्रॉनिक वस्तु को &#8377;340 में बेचता है और x% का लाभ अर्जित करता है। x का मान ज्ञात कीजिए।",
+        "op_en": [
+            "26",
+            "16",
+            "36",
+            "56"
+        ],
+        "op_hi": [
+            "26",
+            "16",
+            "36",
+            "56"
+        ],
+        "ans": 3,
+        "solution": "<b>Solution (EN):</b> Initial Cost Price of the item = &#8377;240.<br>Overhead expenses = &#8377;10.<br>Total Cost Price (CP) = 240 + 10 = &#8377;250.<br>Selling Price (SP) = &#8377;340.<br>Profit = SP - CP = 340 - 250 = &#8377;90.<br>Profit Percentage (x) = (Profit &divide; CP) &times; 100<br>= (90 &divide; 250) &times; 100 = 36%.<br><b>Solution (HI):</b> वस्तु का प्रारंभिक क्रय मूल्य = &#8377;240.<br>उपरिव्‍यय (Overhead expenses) = &#8377;10.<br>कुल क्रय मूल्य (CP) = 240 + 10 = &#8377;250.<br>विक्रय मूल्य (SP) = &#8377;340.<br>लाभ = SP - CP = 340 - 250 = &#8377;90.<br>लाभ प्रतिशत (x) = (लाभ &divide; CP) &times; 100<br>= (90 &divide; 250) &times; 100 = 36%.<br><b>Short Trick:</b> Total CP = 250. SP = 340. Profit = 90. x = (90 &divide; 250) &times; 100 = 36."
+    },
+    {
+        "section": "Arithmetical and Numerical Ability1",
+        "topic": "Time and Work",
+        "difficulty": "Medium",
+        "q_en": "2 persons can complete a piece of work in 14 hours. In how many hours will 7 persons complete the same work?",
+        "q_hi": "2 व्यक्ति किसी कार्य को 14 घंटे में पूरा करते हैं। 7 व्यक्ति उसी कार्य को कितने घंटे में पूरा करेंगे?",
+        "op_en": [
+            "7",
+            "4",
+            "6",
+            "5"
+        ],
+        "op_hi": [
+            "7",
+            "4",
+            "6",
+            "5"
+        ],
+        "ans": 2,
+        "solution": "<b>Solution (EN):</b> Using the formula M1 &times; H1 = M2 &times; H2, where M = Number of persons and H = Hours. We have 2 &times; 14 = 7 &times; H2. Therefore, H2 = 28 &divide; 7 = 4 hours.<br><b>Solution (HI):</b> M1 &times; H1 = M2 &times; H2 सूत्र का उपयोग करते हुए, जहाँ M = व्यक्तियों की संख्या और H = घंटे हैं। हमारे पास 2 &times; 14 = 7 &times; H2 है। इसलिए, H2 = 28 &divide; 7 = 4 घंटे।<br><b>Short Trick:</b> 2 &times; 14 = 7 &times; x &rArr; x = 4."
+    },
+    {
+        "section": "Arithmetical and Numerical Ability1",
+        "topic": "Pipes and Cisterns",
+        "difficulty": "Hard",
+        "q_en": "Two taps can fill a tank in 3 hours and 61 hours respectively. A third tap can empty it in 61 hours. If all three taps are opened together, how much time (in hours) will it take to fill one-third of the empty tank?",
+        "q_hi": "दो नल एक टंकी को क्रमशः 3 घंटे और 61 घंटे में भर सकते हैं। तीसरा नल उसे 61 घंटे में खाली कर सकता है। यदि तीनों नल एक साथ खोल दिया जाए, तो खाली टंकी के एक-तिहाई भाग को भरने में कितना समय (घंटे में) लगेगा?",
+        "op_en": [
+            "1",
+            "2",
+            "4",
+            "3"
+        ],
+        "op_hi": [
+            "1",
+            "2",
+            "4",
+            "3"
+        ],
+        "ans": 1,
+        "solution": "<b>Solution (EN):</b> Tap A's filling rate = 1/3. Tap B's filling rate = 1/61. Tap C's emptying rate = -1/61. When all are opened together, net rate = (1/3) + (1/61) - (1/61) = 1/3. Thus, the whole tank is filled in 3 hours. Time taken to fill one-third of the tank = 3 &times; (1/3) = 1 hour.<br><b>Solution (HI):</b> नल A की भरने की दर = 1/3. नल B की भरने की दर = 1/61. नल C की खाली करने की दर = -1/61. जब सभी एक साथ खोले जाते हैं, तो शुद्ध दर = (1/3) + (1/61) - (1/61) = 1/3. इस प्रकार, पूरी टंकी 3 घंटे में भर जाती है। टंकी के एक-तिहाई भाग को भरने में लगा समय = 3 &times; (1/3) = 1 घंटा।<br><b>Short Trick:</b> Tap B and Tap C cancel each other out (+1/61 and -1/61). Only Tap A works effectively. Total time = 3 hrs. 1/3rd time = 1 hr."
+    },
+    {
+        "section": "Arithmetical and Numerical Ability1",
+        "topic": "Mensuration 3D",
+        "difficulty": "Medium",
+        "q_en": "How many small spherical lead balls, each of radius 2 cm, can be made by melting a large spherical lead ball of radius 12 cm?",
+        "q_hi": "12 cm त्रिज्या वाली एक बड़ी गोल सीसे की गेंद को पिघलाकर छोटी गोल सीसे की कितनी गोलियां बनाई जा सकती हैं, जिनमें से प्रत्येक की त्रिज्या 2 cm हो?",
+        "op_en": [
+            "6",
+            "36",
+            "216",
+            "108"
+        ],
+        "op_hi": [
+            "6",
+            "36",
+            "216",
+            "108"
+        ],
+        "ans": 3,
+        "solution": "<b>Solution (EN):</b> Volume of a sphere = (4/3) &times; &pi; &times; r<sup>3</sup>. Number of small balls = Volume of large ball &divide; Volume of small ball = [(4/3) &times; &pi; &times; 12<sup>3</sup>] &divide; [(4/3) &times; &pi; &times; 2<sup>3</sup>] = (12 &divide; 2)<sup>3</sup> = 6<sup>3</sup> = 216.<br><b>Solution (HI):</b> गोले का आयतन = (4/3) &times; &pi; &times; r<sup>3</sup>. छोटी गेंदों की संख्या = बड़ी गेंद का आयतन &divide; छोटी गेंद का आयतन = [(4/3) &times; &pi; &times; 12<sup>3</sup>] &divide; [(4/3) &times; &pi; &times; 2<sup>3</sup>] = (12 &divide; 2)<sup>3</sup> = 6<sup>3</sup> = 216.<br><b>Short Trick:</b> Number of balls = (R &divide; r)<sup>3</sup> = (12 &divide; 2)<sup>3</sup> = 6<sup>3</sup> = 216."
+    },
+    {
+        "section": "Arithmetical and Numerical Ability1",
+        "topic": "Mensuration 2D",
+        "difficulty": "Medium",
+        "q_en": "The sides of a triangular plot measure 20 m, 21 m, and 29 m respectively. Find the area of the plot.",
+        "q_hi": "एक त्रिभुजाकार प्लॉट की भुजाओं की माप क्रमशः 20 मीटर, 21 मीटर और 29 मीटर है। प्लॉट का क्षेत्रफल ज्ञात कीजिए।",
+        "op_en": [
+            "200 sq. m",
+            "225 sq. m",
+            "240 sq. m",
+            "210 sq. m"
+        ],
+        "op_hi": [
+            "200 वर्ग मीटर",
+            "225 वर्ग मीटर",
+            "240 वर्ग मीटर",
+            "210 वर्ग मीटर"
+        ],
+        "ans": 4,
+        "solution": "<b>Solution (EN):</b> The sides 20 m, 21 m, and 29 m form a right-angled triangle since 20<sup>2</sup> + 21<sup>2</sup> = 29<sup>2</sup> (400 + 441 = 841). Area of a right-angled triangle = (1/2) &times; base &times; perpendicular = (1/2) &times; 20 &times; 21 = 210 sq. m.<br><b>Solution (HI):</b> भुजाएं 20 m, 21 m और 29 m एक समकोण त्रिभुज बनाती हैं क्योंकि 20<sup>2</sup> + 21<sup>2</sup> = 29<sup>2</sup> (400 + 441 = 841)। समकोण त्रिभुज का क्षेत्रफल = (1/2) &times; आधार &times; लंब = (1/2) &times; 20 &times; 21 = 210 वर्ग मीटर।<br><b>Short Trick:</b> 20, 21, 29 is a Pythagorean triplet. Area = (20 &times; 21) &divide; 2 = 210."
+    },
+    {
+        "section": "Arithmetical and Numerical Ability1",
+        "topic": "Discount",
+        "difficulty": "Medium",
+        "q_en": "Find a single equivalent percentage discount [rounded to 1 decimal place] for three consecutive discounts of 56%, 14%, and 54%.",
+        "q_hi": "56%, 14% और 54% की तीन क्रमागत छूटों के समतुल्य एकल प्रतिशत छूट [दशमलव के 1 स्थान तक पूर्णांकित] ज्ञात कीजिए।",
+        "op_en": [
+            "78.4%",
+            "82.6%",
+            "85.2%",
+            "88.1%"
+        ],
+        "op_hi": [
+            "78.4%",
+            "82.6%",
+            "85.2%",
+            "88.1%"
+        ],
+        "ans": 2,
+        "solution": "<b>Solution (EN):</b> Let the Marked Price be 100.<br>Price after 56% discount = 100 &times; 0.44 = 44.<br>Price after 14% discount = 44 &times; 0.86 = 37.84.<br>Final Selling Price after 54% discount = 37.84 &times; 0.46 = 17.4064.<br>Single Equivalent Discount = 100 - 17.4064 = 82.5936% &asymp; 82.6%.<br><b>Solution (HI):</b> माना अंकित मूल्य 100 है।<br>56% छूट के बाद मूल्य = 100 &times; 0.44 = 44.<br>14% छूट के बाद मूल्य = 44 &times; 0.86 = 37.84.<br>54% की अंतिम छूट के बाद विक्रय मूल्य = 37.84 &times; 0.46 = 17.4064.<br>समतुल्य एकल छूट = 100 - 17.4064 = 82.5936% &asymp; 82.6%.<br><b>Short Trick:</b> Final SP% = 100 &times; 0.44 &times; 0.86 &times; 0.46 = 17.4%. Equivalent Discount = 100% - 17.4% = 82.6%."
+    },
+    {
+        "section": "Arithmetical and Numerical Ability1",
+        "topic": "Ratio and Proportion",
+        "difficulty": "Medium",
+        "q_en": "The ratio of 31 hours to 2 days is equivalent to which of the following?",
+        "q_hi": "31 घंटे और 2 दिनों का अनुपात निम्‍न में से किसके तुल्य है?",
+        "op_en": [
+            "28 : 54",
+            "31 : 48",
+            "26 : 53",
+            "29 : 54"
+        ],
+        "op_hi": [
+            "28 : 54",
+            "31 : 48",
+            "26 : 53",
+            "29 : 54"
+        ],
+        "ans": 2,
+        "solution": "<b>Solution (EN):</b> To find the ratio, the units must be the same. Convert 2 days into hours. 1 day = 24 hours, so 2 days = 2 &times; 24 = 48 hours. Ratio of 31 hours to 48 hours = 31 : 48.<br><b>Solution (HI):</b> अनुपात ज्ञात करने के लिए, इकाइयाँ समान होनी चाहिए। 2 दिनों को घंटों में बदलें। 1 दिन = 24 घंटे, इसलिए 2 दिन = 2 &times; 24 = 48 घंटे। 31 घंटे और 48 घंटे का अनुपात = 31 : 48.<br><b>Short Trick:</b> 2 days = 48 hours. Direct ratio = 31 : 48."
+    },
+    {
+        "section": "Arithmetical and Numerical Ability1",
+        "topic": "Speed, Time and Distance",
+        "difficulty": "Hard",
+        "q_en": "Two trains of length 400 m and 300 m are moving towards each other at speeds of 155 km/h and 105 km/h respectively. If the distance between the trains is 500 m, in how much time (rounded to the nearest second) will they cross each other?",
+        "q_hi": "400 m और 300 m लंबाई वाली दो रेलगाड़ियाँ एक-दूसरे की ओर क्रमशः 155 km/h और 105 km/h की चाल से चल रही हैं। यदि रेलगाड़ियाँ के बीच की दूरी 500 m है, तो ये रेलगाड़ियाँ कितने समय (निकटतम सेकंड में पूर्णांकित) में एक-दूसरे को पार कर लेंगी?",
+        "op_en": [
+            "17 seconds",
+            "16 seconds",
+            "15 seconds",
+            "14 seconds"
+        ],
+        "op_hi": [
+            "17 सेकंड",
+            "16 सेकंड",
+            "15 सेकंड",
+            "14 सेकंड"
+        ],
+        "ans": 1,
+        "solution": "<b>Solution (EN):</b> Since the trains are moving towards each other, their relative speed = 155 + 105 = 260 km/h. Converting to m/s: 260 &times; (5/18) = 650/9 m/s. Total distance to be covered to cross each other = Length of Train 1 + Length of Train 2 + Initial Distance between them = 400 + 300 + 500 = 1200 m. Time = Distance &divide; Relative Speed = 1200 &divide; (650/9) = (1200 &times; 9) &divide; 650 = 1080 &divide; 65 = 16.61 seconds. Rounded to the nearest second, it is 17 seconds.<br><b>Solution (HI):</b> चूँकि रेलगाड़ियाँ एक-दूसरे की ओर चल रही हैं, उनकी सापेक्ष चाल = 155 + 105 = 260 km/h. m/s में बदलने पर: 260 &times; (5/18) = 650/9 m/s. एक-दूसरे को पार करने के लिए तय की जाने वाली कुल दूरी = पहली ट्रेन की लंबाई + दूसरी ट्रेन की लंबाई + उनके बीच की प्रारंभिक दूरी = 400 + 300 + 500 = 1200 m. समय = दूरी &divide; सापेक्ष चाल = 1200 &divide; (650/9) = (1200 &times; 9) &divide; 650 = 1080 &divide; 65 = 16.61 सेकंड। निकटतम सेकंड में पूर्णांकित करने पर, यह 17 सेकंड है।<br><b>Short Trick:</b> Total Distance = 400 + 300 + 500 = 1200 m. Relative Speed = (155 + 105) &times; 5/18 = 650/9 m/s. Time = 1200 &times; 9 &divide; 650 &approx; 16.61 &approx; 17 sec."
+    },
+    {
+        "section": "Arithmetical and Numerical Ability1",
+        "topic": "Algebra",
+        "difficulty": "Medium",
+        "q_en": "If x is directly proportional to y and inversely proportional to z, and when y = 14 and z = 28, then x = 6. Find the value of z when x = 4 and y = 11.",
+        "q_hi": "यदि x, y के अनुक्रमानुपाती और z के व्युत्क्रमानुपाती है तथा जब y = 14 और z = 28 है, तो x = 6 है। जब x = 4 और y = 11 है, तो z का मान ज्ञात कीजिए।",
+        "op_en": [
+            "31",
+            "35",
+            "33",
+            "32"
+        ],
+        "op_hi": [
+            "31",
+            "35",
+            "33",
+            "32"
+        ],
+        "ans": 3,
+        "solution": "<b>Solution (EN):</b> Given that x &prop; y and x &prop; 1/z. Therefore, x = k &times; (y/z), where k is a constant. Substituting the initial values: 6 = k &times; (14/28) &rArr; 6 = k &times; (1/2) &rArr; k = 12. Now, substitute x = 4, y = 11, and k = 12 into the equation: 4 = 12 &times; (11/z) &rArr; 4 = 132/z &rArr; 4z = 132 &rArr; z = 33.<br><b>Solution (HI):</b> दिया गया है कि x &prop; y और x &prop; 1/z है। इसलिए, x = k &times; (y/z), जहाँ k एक स्थिरांक है। प्रारंभिक मान रखने पर: 6 = k &times; (14/28) &rArr; 6 = k &times; (1/2) &rArr; k = 12. अब, समीकरण में x = 4, y = 11, और k = 12 रखें: 4 = 12 &times; (11/z) &rArr; 4 = 132/z &rArr; 4z = 132 &rArr; z = 33.<br><b>Short Trick:</b> x<sub>1</sub> &times; z<sub>1</sub> / y<sub>1</sub> = x<sub>2</sub> &times; z<sub>2</sub> / y<sub>2</sub> &rArr; (6 &times; 28) / 14 = (4 &times; z) / 11 &rArr; 12 = 4z / 11 &rArr; z = 33."
+    },
+    {
+        "section": "Arithmetical and Numerical Ability1",
+        "topic": "Mensuration 3D",
+        "difficulty": "Hard",
+        "q_en": "A rectangular piece of paper is 44 cm long and 17 cm wide. It is rolled along its length to form a cylinder. Find the curved surface area of this cylinder.",
+        "q_hi": "कागज का एक आयताकार टुकड़ा 44 cm लंबा और 17 cm चौड़ा है। कागज को उसकी लंबाई के अनुदिश मोड़कर एक बेलन बनाया जाता है। इस बेलन का वक्र पृष्ठीय क्षेत्रफल ज्ञात कीजिए।",
+        "op_en": [
+            "785 cm2",
+            "748 cm2",
+            "797 cm2",
+            "711 cm2"
+        ],
+        "op_hi": [
+            "785 cm2",
+            "748 cm2",
+            "797 cm2",
+            "711 cm2"
+        ],
+        "ans": 2,
+        "solution": "<b>Solution (EN):</b> When a rectangular sheet is rolled to form a cylinder, the area of the sheet is exactly equal to the curved surface area of the cylinder formed. Curved Surface Area (CSA) = Length &times; Width = 44 &times; 17 = 748 cm2.<br><b>Solution (HI):</b> जब एक आयताकार कागज को मोड़कर बेलन बनाया जाता है, तो कागज का क्षेत्रफल बेलन के वक्र पृष्ठीय क्षेत्रफल के बिल्कुल बराबर होता है। वक्र पृष्ठीय क्षेत्रफल (CSA) = लंबाई &times; चौड़ाई = 44 &times; 17 = 748 cm2.<br><b>Short Trick:</b> CSA of cylinder = Area of the rectangle = l &times; b = 44 &times; 17 = 748."
+    },
+    {
+        "section": "Arithmetical and Numerical Ability1",
+        "topic": "Statistics",
+        "difficulty": "Medium",
+        "q_en": "The data 12, 17, 19, 11, x + 6, x + 8, x + 18, 51, 81, 101, 121, 132 are arranged in ascending order and the median of the data is 33. Find the value of x.",
+        "q_hi": "आंकड़ों 12, 17, 19, 11, x + 6, x + 8, x + 18, 51, 81, 101, 121, 132 को आरोही क्रम में व्यवस्थित किया जाता है और आंकड़ों की माध्यिका 33 है। x का मान ज्ञात कीजिए।",
+        "op_en": [
+            "21",
+            "18",
+            "19",
+            "20"
+        ],
+        "op_hi": [
+            "21",
+            "18",
+            "19",
+            "20"
+        ],
+        "ans": 4,
+        "solution": "<b>Solution (EN):</b> Number of observations (n) = 12 (even). Since the data is given to be in ascending order, the median is the average of the (n/2)th and (n/2 + 1)th terms. The 6th term is (x + 8) and the 7th term is (x + 18). Median = [(x + 8) + (x + 18)] &divide; 2 = (2x + 26) &divide; 2 = x + 13. Given median = 33. So, x + 13 = 33 &rArr; x = 20. (Note: The 4th term '11' appears to be a typo for '21' in the original question data, but it does not affect the calculation of the median).<br><b>Solution (HI):</b> प्रेक्षणों की कुल संख्या (n) = 12 (सम)। चूँकि आँकड़े पहले से ही आरोही क्रम में दिए गए हैं, माध्यिका (n/2)वें और (n/2 + 1)वें पदों का औसत होती है। 6वाँ पद (x + 8) और 7वाँ पद (x + 18) है। माध्यिका = [(x + 8) + (x + 18)] &divide; 2 = (2x + 26) &divide; 2 = x + 13. दी गई माध्यिका = 33. अतः, x + 13 = 33 &rArr; x = 20.<br><b>Short Trick:</b> Median of 12 terms = Average of 6th and 7th terms. (x + 8 + x + 18) &divide; 2 = 33 &rArr; x + 13 = 33 &rArr; x = 20."
+    }
+]
