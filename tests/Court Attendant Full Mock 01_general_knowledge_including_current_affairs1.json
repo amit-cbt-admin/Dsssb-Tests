@@ -1,0 +1,212 @@
+[
+  {
+    "ans": "3",
+    "level": "Hard",
+    "op_en": [
+      "<img align=\"middle\" alt=\"fraction numerator f 1 over denominator f 2 end fraction equals square root of fraction numerator m 1 over denominator m 2 end fraction end root\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mfrac»«mrow»«mi»f«/mi»«mn»1«/mn»«/mrow»«mrow»«mi»f«/mi»«mn»2«/mn»«/mrow»«/mfrac»«mo»=«/mo»«msqrt»«mfrac»«mrow»«mi»m«/mi»«mn»1«/mn»«/mrow»«mrow»«mi»m«/mi»«mn»2«/mn»«/mrow»«/mfrac»«/msqrt»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAF0AAAAyCAYAAAA+09dMAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAg+0qyVgAAA1ZJREFUeNrtWztoVEEUHYJIkBQuG4gWYggWW6SSgIQIGhSUICIipFAxNmKhomhhKVqsYEihhYSAW1goWAgWClqkTCPiJyTgEkQELZSkMCbRQOId9iwMy/vMe3vfzLzdOXCKvTO8mXsynzszN0K0B3qJ24WHMewhbjrGlscxONrtx585XCXOexnMYor4xMtgFtPEcp46fI44S1wjLhDP5lD0JeKZvHT2ODagIWInpukCynYRL2DarjjsQzd8GMjo++w6vESHOwLKPhLf5yAEGkD/sorR2XVYiflQRw5EH8PykiVYddD5kOuil7GRZo2mdehKcIpyXfRnxEpMnX7iBHERe9cEZvk34mFikfgYwcRX4oEsdWiFkT6Pw1EUFhU/RonbiCfxW4p8BbZh2Ga96NFYJR5NuSaH2f550aOXDdm33pS+6tq86ApOEH834asXPQXkWv4pT6KXlA/1hdTpUer0OCh6BVFHHAqKHwVNWzELHeLCxTxczsv4/E5KX9Pa2uaRIgxLWNc9DGEHRly/l8IcDiJG7/JSxO8JXOvjJeGf6IyLfo/4ystsFvKi60GrjT7X8zuqxIsW/HU6hOTocNQmuS5q17IezKLLN9vOAHv9ossnFzHjCIQdCSg7JbJ/omtLTEP0pwFlN4kzXiJebCHeErXns2pAeUXEP9E5DZeTjWSKyN8A+wxGey4RlWw0SJwTtaerH8S7GIEmcRn929tg13mi4wK7DmHJRgXl431oVNYbNyz6brR7W7HVL7pKBtrPRIewZKPzDX/NQdRbtjAblxs2zf3oi4lZl4kOSU5Tm8JOTqNMaful/B4jfrF8/kilQ5JkI4mtKH9hwclHxA3ldPqQ+DzhNziSjdh00B3po6i3z4Loh9B2/YVI3iwmzUXnSDZi00FX9HfESYtTekM5JOlcdDWCI9mITQcd0WWaw9uQOxBT+A6xZTr0OjZTDl+TpGCw6RAn+hAaKlo+T7zGIamZXPRmRGfVIUp0GSO/aWjoNGJV07iOfl4j/mT0VcfGqkNUstFO7OxBEc59C6LX/8VlTqS76EqbbMSuQ1S4+FmE332PWFpi/qD9KSZfdWwu6mAUH+DsDeFhDJNKnO1h+JA07KUwi6rl80JbouwlMI9SXjr6HyecDWy9ntpYAAAA+nRFWHRNYXRoTUwAPG1hdGggeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzE5OTgvTWF0aC9NYXRoTUwiPjxtZnJhYz48bXJvdz48bWk+ZjwvbWk+PG1uPjE8L21uPjwvbXJvdz48bXJvdz48bWk+ZjwvbWk+PG1uPjI8L21uPjwvbXJvdz48L21mcmFjPjxtbz49PC9tbz48bXNxcnQ+PG1mcmFjPjxtcm93PjxtaT5tPC9taT48bW4+MTwvbW4+PC9tcm93Pjxtcm93PjxtaT5tPC9taT48bW4+MjwvbW4+PC9tcm93PjwvbWZyYWM+PC9tc3FydD48L21hdGg+/Dm6CgAAAABJRU5ErkJggg==\" style=\"max-width: none;\">",
+      "<img align=\"middle\" alt=\"fraction numerator f 1 over denominator f 2 end fraction space equals space fraction numerator m 2 over denominator m 1 end fraction\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mfrac»«mrow»«mi»f«/mi»«mn»1«/mn»«/mrow»«mrow»«mi»f«/mi»«mn»2«/mn»«/mrow»«/mfrac»«mo»§#160;«/mo»«mo»=«/mo»«mo»§#160;«/mo»«mfrac»«mrow»«mi»m«/mi»«mn»2«/mn»«/mrow»«mrow»«mi»m«/mi»«mn»1«/mn»«/mrow»«/mfrac»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFUAAAAmCAYAAAC1Q9c1AAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAaPUZr5AAAAfRJREFUeNrtmrFLw0AUxkMREXEpHYqDCJ0c3KV0EMHJwcGlg4i4OBb/DAfp4CaODu4OLv4LIiLFQXAQBzcnKdLl/IIvGEouzd09j1zyPviGXsLj7tfLyxG+KMrXITyCv+FX+CASOWkXVnAPXoAvCWysFfgYvobHNWDRhZ/hCfwBn8JzNoVuCWoj49oT/EjXVcWBNlMQOwQ3XvOZTbHxDGCNmkA9mtqVXVrzl02xIsDqAFW3bqO2t5SCpWaACwnqOjyEP+kdMSQw7/A23IKv6KX8Bm9q6szTmm9kp/7CTObbhxfhPfodQxzQ2BaNjTR1+nR9Q6Dq3wG6sYmmzgN84dI3qtZTTaBmresEvqf2IVAZoPYIaIt7AnWFugrfTQHdpzNrYa2lCnc097RT97QDOcQn820WHIshLtMJIetEdG7zj+p2ojI4dpVtl6bnWmTsJWe9O/I1QyQSBdLzVKC9W6CKKr5TQtpRyqPl8ZcnRaCKRKLwJWEKZuWFKdjCBYGILTyiC1OwhgsCEVt4RBemYA0XBCSW8IhJARXVI1NlDdUkTBHLKVzgURxhCm871Slc4FEcYQpvUJ3CBSXoiSZhCi9QncMFJeiJJmGKf4fKEi4QqH9iCRfUDWpemIItXOBZtmGKRM7hkbzjVKjhAtswRRQZftf9AVzGkNLAu5uYAAABCXRFWHRNYXRoTUwAPG1hdGggeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzE5OTgvTWF0aC9NYXRoTUwiPjxtZnJhYz48bXJvdz48bWk+ZjwvbWk+PG1uPjE8L21uPjwvbXJvdz48bXJvdz48bWk+ZjwvbWk+PG1uPjI8L21uPjwvbXJvdz48L21mcmFjPjxtbz4mI3hBMDs8L21vPjxtbz49PC9tbz48bW8+JiN4QTA7PC9tbz48bWZyYWM+PG1yb3c+PG1pPm08L21pPjxtbj4yPC9tbj48L21yb3c+PG1yb3c+PG1pPm08L21pPjxtbj4xPC9tbj48L21yb3c+PC9tZnJhYz48L21hdGg+7ctOhQAAAABJRU5ErkJggg==\" style=\"max-width: none;\">",
+      "<img align=\"middle\" alt=\"fraction numerator f 1 over denominator f 2 end fraction space equals space fraction numerator m 1 over denominator m 2 end fraction\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mfrac»«mrow»«mi»f«/mi»«mn»1«/mn»«/mrow»«mrow»«mi»f«/mi»«mn»2«/mn»«/mrow»«/mfrac»«mo»§#160;«/mo»«mo»=«/mo»«mo»§#160;«/mo»«mfrac»«mrow»«mi»m«/mi»«mn»1«/mn»«/mrow»«mrow»«mi»m«/mi»«mn»2«/mn»«/mrow»«/mfrac»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFUAAAAmCAYAAAC1Q9c1AAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAaPUZr5AAAAdtJREFUeNrtmrFLw0AUxo8iIuISMhQHETo5uEvpIIKTg4NLBxFxcRT/DAfp4CaODu4OLv4LIiLFQXAQB7dOUsTl/IJvOEovuVyemsu9B7+hL9dLvq93zWv6lMqPfTAEn+AF7CmJSrENNOiBOXBBxmaxBA7BFRhH4AWb3hsytTXl2CN4oOM6AlPZ9I4LJmhFZCqbXpcJYjK1kt4F4826YKKQTF0FAzCie8SAduMb2AQpuKSb8itY/w29TVupI+N6+2Ae7NDrzMQjym1Qbiim+n8n2nJfYqq/JtecmCqmRmLqijFBxzKmbYxpB2BoYlxv4phLOfUWlVO6RNlVt1VqXqtvLrb6XEJCItzf1S5IiKkS/7ZSQlpR+g+R7S87RUyVkJAIP6SZgjnymim64En9/OXwDk7ATIO9YNNra6ZIjEk7dLJs3GlDDWXVa2umOJj4lLo07qOhprLqLVMTahVHT5W33jLNFFnM0vHrmhvB0UxRWa/rSu3TuLWam8rRTFFZr6up9+A8gC3L0UxRWa+LqcfgjrZTSM8XfHIseotM7dEJ0gAf2vjkWPTmmboMbidOsEs1XBNNZdGb10yxSHfMaRXCWc2LeJ9mCja9eeXUs7I/59wKYJWWbZworfcbAZaQ0ntFWQQAAAEJdEVYdE1hdGhNTAA8bWF0aCB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMTk5OC9NYXRoL01hdGhNTCI+PG1mcmFjPjxtcm93PjxtaT5mPC9taT48bW4+MTwvbW4+PC9tcm93Pjxtcm93PjxtaT5mPC9taT48bW4+MjwvbW4+PC9tcm93PjwvbWZyYWM+PG1vPiYjeEEwOzwvbW8+PG1vPj08L21vPjxtbz4mI3hBMDs8L21vPjxtZnJhYz48bXJvdz48bWk+bTwvbWk+PG1uPjE8L21uPjwvbXJvdz48bXJvdz48bWk+bTwvbWk+PG1uPjI8L21uPjwvbXJvdz48L21mcmFjPjwvbWF0aD5pQp7jAAAAAElFTkSuQmCC\" style=\"max-width: none;\">",
+      "<img align=\"middle\" alt=\"fraction numerator f 1 over denominator f 2 end fraction space equals space fraction numerator left parenthesis m 1 right parenthesis squared over denominator left parenthesis m 2 right parenthesis squared end fraction\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mfrac»«mrow»«mi»f«/mi»«mn»1«/mn»«/mrow»«mrow»«mi»f«/mi»«mn»2«/mn»«/mrow»«/mfrac»«mo»§#160;«/mo»«mo»=«/mo»«mo»§#160;«/mo»«mfrac»«mrow»«mo»(«/mo»«mi»m«/mi»«mn»1«/mn»«msup»«mo»)«/mo»«mn»2«/mn»«/msup»«/mrow»«mrow»«mo»(«/mo»«mi»m«/mi»«mn»2«/mn»«msup»«mo»)«/mo»«mn»2«/mn»«/msup»«/mrow»«/mfrac»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGcAAAArCAYAAABl25buAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAc1CXO0QAAAuNJREFUeNrtWjFoFEEUHQ45QrA5rggWEggpJIidhBBCCFilsLBJESSkEbGQcNiGICJICCnsJFhZ2KcIgqQOB4dICCkCFmJhl0LkCIew/oUXGJfd3Py5mfH+5T94HMwt+/fe2535O/eMub7YJL6IXKNF3DIKFp4RtxPV2kY9G/eJX4g9Ypt42+fEa8QT4gXxG/HxCBgzA0FSooO6l3hJbBJrMI99PQ+JGXGeOEbcg0EGTj8hfiR2hZlzSJwNdC5XHeZQtww38ASxcABzaiXfHRO/4vtMkDH3iEcBz8fR4Qj1y8zpcAt3+xSsCTTnFRbpkHDVoYX6ReRLxSNuUZeC0sz5RFyIcF4XHRZQ30aD+JpT6KZVLOtTWJo5v4j1wthd4i7xHGvrLmaNH8QHWLg/oCn6Tlz01KGO+vYT18K0ZvTJMeZPydi59TtWiOOYZjKY8RxjSxg7GUAHe+FfhzHTaLbUHMaaUTXWG0CHC3zuF2al92pO+bRmmOZkgaa16IvcqDQEKcxZxOuJmsNspVOYU9VKs3HHKjhVccyEdcyE4JfQhvU7Go5jTQ8d2ugMgz01/e4Ul3Z72Ldvyn6D71iVDldt3ygszPhslwy4g9A2/258Kq5Ayr8MdohPVXIeNk34fbYiNlBHPDIGFWqOQhH4zpV0h2cCqdOaQs1RKEbvPUdDhdd8h0BDhQyMfKgw32U9hfM/iW+MZ1DhPyBkqNBVh2ShwoZ1EVO4uPy4HQHGhAwVcnVIEipcL9wdczjutwBzQoYKuTokDxXax0rITMcKFbrokDxUmKOO7/cFmBMrVOiiQ/JQYY4VHDcrwJxYoUJXHZKGCg369XdCOrVYoUJXHZKGCjfQaYwJMSdWqNBFh6ShwnlcUFPQC2iMUKGrDslChZPEz4ULWkWvL7GV9jWHo0OSUOEtdDJlHd1bgS+hvqFCrg5JQoVnpvp/lmWB2ze+AUKODhoqdISGCoccGioccgx9qPAvMCsDVZkvBdUAAAFfdEVYdE1hdGhNTAA8bWF0aCB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMTk5OC9NYXRoL01hdGhNTCI+PG1mcmFjPjxtcm93PjxtaT5mPC9taT48bW4+MTwvbW4+PC9tcm93Pjxtcm93PjxtaT5mPC9taT48bW4+MjwvbW4+PC9tcm93PjwvbWZyYWM+PG1vPiYjeEEwOzwvbW8+PG1vPj08L21vPjxtbz4mI3hBMDs8L21vPjxtZnJhYz48bXJvdz48bW8+KDwvbW8+PG1pPm08L21pPjxtbj4xPC9tbj48bXN1cD48bW8+KTwvbW8+PG1uPjI8L21uPjwvbXN1cD48L21yb3c+PG1yb3c+PG1vPig8L21vPjxtaT5tPC9taT48bW4+MjwvbW4+PG1zdXA+PG1vPik8L21vPjxtbj4yPC9tbj48L21zdXA+PC9tcm93PjwvbWZyYWM+PC9tYXRoPqEHak4AAAAASUVORK5CYII=\" style=\"max-width: none;\">"
+    ],
+    "op_hi": [
+      "<img align=\"middle\" alt=\"fraction numerator f 1 over denominator f 2 end fraction equals square root of fraction numerator m 1 over denominator m 2 end fraction end root\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mfrac»«mrow»«mi»f«/mi»«mn»1«/mn»«/mrow»«mrow»«mi»f«/mi»«mn»2«/mn»«/mrow»«/mfrac»«mo»=«/mo»«msqrt»«mfrac»«mrow»«mi»m«/mi»«mn»1«/mn»«/mrow»«mrow»«mi»m«/mi»«mn»2«/mn»«/mrow»«/mfrac»«/msqrt»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAF0AAAAyCAYAAAA+09dMAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAg+0qyVgAAA1ZJREFUeNrtWztoVEEUHYJIkBQuG4gWYggWW6SSgIQIGhSUICIipFAxNmKhomhhKVqsYEihhYSAW1goWAgWClqkTCPiJyTgEkQELZSkMCbRQOId9iwMy/vMe3vfzLzdOXCKvTO8mXsynzszN0K0B3qJ24WHMewhbjrGlscxONrtx585XCXOexnMYor4xMtgFtPEcp46fI44S1wjLhDP5lD0JeKZvHT2ODagIWInpukCynYRL2DarjjsQzd8GMjo++w6vESHOwLKPhLf5yAEGkD/sorR2XVYiflQRw5EH8PykiVYddD5kOuil7GRZo2mdehKcIpyXfRnxEpMnX7iBHERe9cEZvk34mFikfgYwcRX4oEsdWiFkT6Pw1EUFhU/RonbiCfxW4p8BbZh2Ga96NFYJR5NuSaH2f550aOXDdm33pS+6tq86ApOEH834asXPQXkWv4pT6KXlA/1hdTpUer0OCh6BVFHHAqKHwVNWzELHeLCxTxczsv4/E5KX9Pa2uaRIgxLWNc9DGEHRly/l8IcDiJG7/JSxO8JXOvjJeGf6IyLfo/4ystsFvKi60GrjT7X8zuqxIsW/HU6hOTocNQmuS5q17IezKLLN9vOAHv9ossnFzHjCIQdCSg7JbJ/omtLTEP0pwFlN4kzXiJebCHeErXns2pAeUXEP9E5DZeTjWSKyN8A+wxGey4RlWw0SJwTtaerH8S7GIEmcRn929tg13mi4wK7DmHJRgXl431oVNYbNyz6brR7W7HVL7pKBtrPRIewZKPzDX/NQdRbtjAblxs2zf3oi4lZl4kOSU5Tm8JOTqNMaful/B4jfrF8/kilQ5JkI4mtKH9hwclHxA3ldPqQ+DzhNziSjdh00B3po6i3z4Loh9B2/YVI3iwmzUXnSDZi00FX9HfESYtTekM5JOlcdDWCI9mITQcd0WWaw9uQOxBT+A6xZTr0OjZTDl+TpGCw6RAn+hAaKlo+T7zGIamZXPRmRGfVIUp0GSO/aWjoNGJV07iOfl4j/mT0VcfGqkNUstFO7OxBEc59C6LX/8VlTqS76EqbbMSuQ1S4+FmE332PWFpi/qD9KSZfdWwu6mAUH+DsDeFhDJNKnO1h+JA07KUwi6rl80JbouwlMI9SXjr6HyecDWy9ntpYAAAA+nRFWHRNYXRoTUwAPG1hdGggeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzE5OTgvTWF0aC9NYXRoTUwiPjxtZnJhYz48bXJvdz48bWk+ZjwvbWk+PG1uPjE8L21uPjwvbXJvdz48bXJvdz48bWk+ZjwvbWk+PG1uPjI8L21uPjwvbXJvdz48L21mcmFjPjxtbz49PC9tbz48bXNxcnQ+PG1mcmFjPjxtcm93PjxtaT5tPC9taT48bW4+MTwvbW4+PC9tcm93Pjxtcm93PjxtaT5tPC9taT48bW4+MjwvbW4+PC9tcm93PjwvbWZyYWM+PC9tc3FydD48L21hdGg+/Dm6CgAAAABJRU5ErkJggg==\" style=\"max-width: none;\">",
+      "<img align=\"middle\" alt=\"fraction numerator f 1 over denominator f 2 end fraction space equals space fraction numerator m 2 over denominator m 1 end fraction\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mfrac»«mrow»«mi»f«/mi»«mn»1«/mn»«/mrow»«mrow»«mi»f«/mi»«mn»2«/mn»«/mrow»«/mfrac»«mo»§#160;«/mo»«mo»=«/mo»«mo»§#160;«/mo»«mfrac»«mrow»«mi»m«/mi»«mn»2«/mn»«/mrow»«mrow»«mi»m«/mi»«mn»1«/mn»«/mrow»«/mfrac»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFUAAAAmCAYAAAC1Q9c1AAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAaPUZr5AAAAfRJREFUeNrtmrFLw0AUxkMREXEpHYqDCJ0c3KV0EMHJwcGlg4i4OBb/DAfp4CaODu4OLv4LIiLFQXAQBzcnKdLl/IIvGEouzd09j1zyPviGXsLj7tfLyxG+KMrXITyCv+FX+CASOWkXVnAPXoAvCWysFfgYvobHNWDRhZ/hCfwBn8JzNoVuCWoj49oT/EjXVcWBNlMQOwQ3XvOZTbHxDGCNmkA9mtqVXVrzl02xIsDqAFW3bqO2t5SCpWaACwnqOjyEP+kdMSQw7/A23IKv6KX8Bm9q6szTmm9kp/7CTObbhxfhPfodQxzQ2BaNjTR1+nR9Q6Dq3wG6sYmmzgN84dI3qtZTTaBmresEvqf2IVAZoPYIaIt7AnWFugrfTQHdpzNrYa2lCnc097RT97QDOcQn820WHIshLtMJIetEdG7zj+p2ojI4dpVtl6bnWmTsJWe9O/I1QyQSBdLzVKC9W6CKKr5TQtpRyqPl8ZcnRaCKRKLwJWEKZuWFKdjCBYGILTyiC1OwhgsCEVt4RBemYA0XBCSW8IhJARXVI1NlDdUkTBHLKVzgURxhCm871Slc4FEcYQpvUJ3CBSXoiSZhCi9QncMFJeiJJmGKf4fKEi4QqH9iCRfUDWpemIItXOBZtmGKRM7hkbzjVKjhAtswRRQZftf9AVzGkNLAu5uYAAABCXRFWHRNYXRoTUwAPG1hdGggeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzE5OTgvTWF0aC9NYXRoTUwiPjxtZnJhYz48bXJvdz48bWk+ZjwvbWk+PG1uPjE8L21uPjwvbXJvdz48bXJvdz48bWk+ZjwvbWk+PG1uPjI8L21uPjwvbXJvdz48L21mcmFjPjxtbz4mI3hBMDs8L21vPjxtbz49PC9tbz48bW8+JiN4QTA7PC9tbz48bWZyYWM+PG1yb3c+PG1pPm08L21pPjxtbj4yPC9tbj48L21yb3c+PG1yb3c+PG1pPm08L21pPjxtbj4xPC9tbj48L21yb3c+PC9tZnJhYz48L21hdGg+7ctOhQAAAABJRU5ErkJggg==\" style=\"max-width: none;\">",
+      "<img align=\"middle\" alt=\"fraction numerator f 1 over denominator f 2 end fraction space equals space fraction numerator m 1 over denominator m 2 end fraction\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mfrac»«mrow»«mi»f«/mi»«mn»1«/mn»«/mrow»«mrow»«mi»f«/mi»«mn»2«/mn»«/mrow»«/mfrac»«mo»§#160;«/mo»«mo»=«/mo»«mo»§#160;«/mo»«mfrac»«mrow»«mi»m«/mi»«mn»1«/mn»«/mrow»«mrow»«mi»m«/mi»«mn»2«/mn»«/mrow»«/mfrac»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFUAAAAmCAYAAAC1Q9c1AAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAaPUZr5AAAAdtJREFUeNrtmrFLw0AUxo8iIuISMhQHETo5uEvpIIKTg4NLBxFxcRT/DAfp4CaODu4OLv4LIiLFQXAQB7dOUsTl/IJvOEovuVyemsu9B7+hL9dLvq93zWv6lMqPfTAEn+AF7CmJSrENNOiBOXBBxmaxBA7BFRhH4AWb3hsytTXl2CN4oOM6AlPZ9I4LJmhFZCqbXpcJYjK1kt4F4826YKKQTF0FAzCie8SAduMb2AQpuKSb8itY/w29TVupI+N6+2Ae7NDrzMQjym1Qbiim+n8n2nJfYqq/JtecmCqmRmLqijFBxzKmbYxpB2BoYlxv4phLOfUWlVO6RNlVt1VqXqtvLrb6XEJCItzf1S5IiKkS/7ZSQlpR+g+R7S87RUyVkJAIP6SZgjnymim64En9/OXwDk7ATIO9YNNra6ZIjEk7dLJs3GlDDWXVa2umOJj4lLo07qOhprLqLVMTahVHT5W33jLNFFnM0vHrmhvB0UxRWa/rSu3TuLWam8rRTFFZr6up9+A8gC3L0UxRWa+LqcfgjrZTSM8XfHIseotM7dEJ0gAf2vjkWPTmmboMbidOsEs1XBNNZdGb10yxSHfMaRXCWc2LeJ9mCja9eeXUs7I/59wKYJWWbZworfcbAZaQ0ntFWQQAAAEJdEVYdE1hdGhNTAA8bWF0aCB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMTk5OC9NYXRoL01hdGhNTCI+PG1mcmFjPjxtcm93PjxtaT5mPC9taT48bW4+MTwvbW4+PC9tcm93Pjxtcm93PjxtaT5mPC9taT48bW4+MjwvbW4+PC9tcm93PjwvbWZyYWM+PG1vPiYjeEEwOzwvbW8+PG1vPj08L21vPjxtbz4mI3hBMDs8L21vPjxtZnJhYz48bXJvdz48bWk+bTwvbWk+PG1uPjE8L21uPjwvbXJvdz48bXJvdz48bWk+bTwvbWk+PG1uPjI8L21uPjwvbXJvdz48L21mcmFjPjwvbWF0aD5pQp7jAAAAAElFTkSuQmCC\" style=\"max-width: none;\">",
+      "<img align=\"middle\" alt=\"fraction numerator f 1 over denominator f 2 end fraction space equals space fraction numerator left parenthesis m 1 right parenthesis squared over denominator left parenthesis m 2 right parenthesis squared end fraction\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mfrac»«mrow»«mi»f«/mi»«mn»1«/mn»«/mrow»«mrow»«mi»f«/mi»«mn»2«/mn»«/mrow»«/mfrac»«mo»§#160;«/mo»«mo»=«/mo»«mo»§#160;«/mo»«mfrac»«mrow»«mo»(«/mo»«mi»m«/mi»«mn»1«/mn»«msup»«mo»)«/mo»«mn»2«/mn»«/msup»«/mrow»«mrow»«mo»(«/mo»«mi»m«/mi»«mn»2«/mn»«msup»«mo»)«/mo»«mn»2«/mn»«/msup»«/mrow»«/mfrac»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGcAAAArCAYAAABl25buAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAc1CXO0QAAAuNJREFUeNrtWjFoFEEUHQ45QrA5rggWEggpJIidhBBCCFilsLBJESSkEbGQcNiGICJICCnsJFhZ2KcIgqQOB4dICCkCFmJhl0LkCIew/oUXGJfd3Py5mfH+5T94HMwt+/fe2535O/eMub7YJL6IXKNF3DIKFp4RtxPV2kY9G/eJX4g9Ypt42+fEa8QT4gXxG/HxCBgzA0FSooO6l3hJbBJrMI99PQ+JGXGeOEbcg0EGTj8hfiR2hZlzSJwNdC5XHeZQtww38ASxcABzaiXfHRO/4vtMkDH3iEcBz8fR4Qj1y8zpcAt3+xSsCTTnFRbpkHDVoYX6ReRLxSNuUZeC0sz5RFyIcF4XHRZQ30aD+JpT6KZVLOtTWJo5v4j1wthd4i7xHGvrLmaNH8QHWLg/oCn6Tlz01KGO+vYT18K0ZvTJMeZPydi59TtWiOOYZjKY8RxjSxg7GUAHe+FfhzHTaLbUHMaaUTXWG0CHC3zuF2al92pO+bRmmOZkgaa16IvcqDQEKcxZxOuJmsNspVOYU9VKs3HHKjhVccyEdcyE4JfQhvU7Go5jTQ8d2ugMgz01/e4Ul3Z72Ldvyn6D71iVDldt3ygszPhslwy4g9A2/258Kq5Ayr8MdohPVXIeNk34fbYiNlBHPDIGFWqOQhH4zpV0h2cCqdOaQs1RKEbvPUdDhdd8h0BDhQyMfKgw32U9hfM/iW+MZ1DhPyBkqNBVh2ShwoZ1EVO4uPy4HQHGhAwVcnVIEipcL9wdczjutwBzQoYKuTokDxXax0rITMcKFbrokDxUmKOO7/cFmBMrVOiiQ/JQYY4VHDcrwJxYoUJXHZKGCg369XdCOrVYoUJXHZKGCjfQaYwJMSdWqNBFh6ShwnlcUFPQC2iMUKGrDslChZPEz4ULWkWvL7GV9jWHo0OSUOEtdDJlHd1bgS+hvqFCrg5JQoVnpvp/lmWB2ze+AUKODhoqdISGCoccGioccgx9qPAvMCsDVZkvBdUAAAFfdEVYdE1hdGhNTAA8bWF0aCB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMTk5OC9NYXRoL01hdGhNTCI+PG1mcmFjPjxtcm93PjxtaT5mPC9taT48bW4+MTwvbW4+PC9tcm93Pjxtcm93PjxtaT5mPC9taT48bW4+MjwvbW4+PC9tcm93PjwvbWZyYWM+PG1vPiYjeEEwOzwvbW8+PG1vPj08L21vPjxtbz4mI3hBMDs8L21vPjxtZnJhYz48bXJvdz48bW8+KDwvbW8+PG1pPm08L21pPjxtbj4xPC9tbj48bXN1cD48bW8+KTwvbW8+PG1uPjI8L21uPjwvbXN1cD48L21yb3c+PG1yb3c+PG1vPig8L21vPjxtaT5tPC9taT48bW4+MjwvbW4+PG1zdXA+PG1vPik8L21vPjxtbj4yPC9tbj48L21zdXA+PC9tcm93PjwvbWZyYWM+PC9tYXRoPqEHak4AAAAASUVORK5CYII=\" style=\"max-width: none;\">"
+    ],
+    "q_en": "Two forces, f1 and f2, act on bodies of masses m1 and m2. If their accelerations are same, then:",
+    "q_hi": "दो बल f1 और f2, क्रमशः m1 और m2 द्रव्यमान वाले पिंडों पर कार्य करते हैं। यदि उनके त्वरण समान हैं, तो:",
+    "section": "General Knowledge Including Current Affairs1",
+    "solution": "<p>बच्चों, आइए इस सवाल को समझते हैं...</p>",
+    "topic": "Physics"
+  },
+  {
+    "ans": "4",
+    "level": "Medium",
+    "op_en": [
+      "Sanket Sargar",
+      "Chethan Kizhakke Cheeriyil",
+      "Gururaja Poojary",
+      "Sairaj Pardeshi"
+    ],
+    "op_hi": [
+      "संकेत सरगर (Sanket Sargar)",
+      "चेतन किज़हके चीयरियिल (Chethan Kizhakke Cheeriyil)",
+      "गुरुराजा पुजारी (Gururaja Poojary)",
+      "साईराज परदेशी (Sairaj Pardeshi)"
+    ],
+    "q_en": "Which Indian weightlifter set the Junior Commonwealth record in the men's 88 kg category in August 2025?",
+    "q_hi": "किस भारतीय भारोत्तोलक ने अगस्त 2025 में पुरुषों के 88 kg वर्ग में जूनियर कॉमनवेल्‍थ रिकॉर्ड स्थापित किया?",
+    "section": "General Knowledge Including Current Affairs1",
+    "solution": "अगस्त 2025 में भारतीय भारोत्तोलक साईराज परदेशी (Sairaj Pardeshi) ने पुरुषों के 88 किलोग्राम वर्ग में उत्कृष्ट प्रदर्शन करते हुए जूनियर कॉमनवेल्थ रिकॉर्ड स्थापित किया। अतः सही उत्तर विकल्प 4 है।",
+    "topic": "Sports"
+  },
+  {
+    "ans": "2",
+    "level": "Easy",
+    "op_en": [
+      "Rajiv Gandhi",
+      "Narendra Modi",
+      "Atal Bihari Vajpayee",
+      "Dr. Manmohan Singh"
+    ],
+    "op_hi": [
+      "राजीव गांधी",
+      "नरेंद्र मोदी",
+      "अटल बिहारी वाजपेयी",
+      "डॉ. मनमोहन सिंह"
+    ],
+    "q_en": "Identify the first Prime Minister among the following who was born after independence?",
+    "q_hi": "निम्नलिखित में से उस प्रथम प्रधानमंत्री की पहचान कीजिए जिनका जन्म स्वतंत्रता के बाद हुआ है?",
+    "section": "General Knowledge Including Current Affairs1",
+    "solution": "नरेंद्र मोदी भारत के पहले ऐसे प्रधानमंत्री हैं जिनका जन्म भारत की स्वतंत्रता के बाद (17 सितंबर 1950 को) हुआ था। उनसे पूर्व के सभी प्रधानमंत्रियों का जन्म 1947 से पहले हुआ था। अतः विकल्प 2 सही है।",
+    "topic": "Polity"
+  },
+  {
+    "ans": "4",
+    "level": "Easy",
+    "op_en": [
+      "lose mass",
+      "accelerate",
+      "move in a circular path",
+      "stay at rest"
+    ],
+    "op_hi": [
+      "द्रव्यमान खोने",
+      "त्वरित होने",
+      "वृत्ताकार पथ में गति करने",
+      "विरामावस्था में ही रहने"
+    ],
+    "q_en": "According to Newton's first law of motion, an object at rest tends to _________________________.<br>",
+    "q_hi": "न्यूटन की गति के पहले नियम के अनुसार, विरामावस्था में रखी कोई वस्तु _________________________ की प्रवृत्ति रखती है।<br>",
+    "section": "General Knowledge Including Current Affairs1",
+    "solution": "न्यूटन के गति के प्रथम नियम (जिसे जड़त्व का नियम भी कहा जाता है) के अनुसार, यदि कोई वस्तु विरामावस्था में है, तो वह तब तक विरामावस्था में ही रहेगी जब तक कि उस पर कोई बाहरी बल न लगाया जाए। अतः सही उत्तर 'विरामावस्था में ही रहने' है।",
+    "topic": "Physics"
+  },
+  {
+    "ans": "1",
+    "level": "Easy",
+    "op_en": [
+      "producers",
+      "omnivores",
+      "secondary consumers",
+      "primary consumers"
+    ],
+    "op_hi": [
+      "उत्पादकों",
+      "सर्वाहारी",
+      "द्वितीयक उपभोक्ताओं",
+      "प्राथमिक उपभोक्ताओं"
+    ],
+    "q_en": "In a food chain, maximum energy is present in ______.",
+    "q_hi": "एक खाद्य श्रृंखला में, अधिकतम ऊर्जा ______ में मौजूद होती है।",
+    "section": "General Knowledge Including Current Affairs1",
+    "solution": "ऊर्जा प्रवाह के 10% के नियम (Lindeman's law) के अनुसार, एक पोषण स्तर से दूसरे पोषण स्तर तक केवल 10% ऊर्जा ही स्थानांतरित होती है। इसलिए, किसी भी खाद्य श्रृंखला के आधार पर यानी 'उत्पादकों' (Producers - हरे पेड़-पौधे) में सबसे अधिक ऊर्जा मौजूद होती है।",
+    "topic": "Biology"
+  },
+  {
+    "ans": "2",
+    "level": "Easy",
+    "op_en": [
+      "Vote of No Confidence",
+      "Impeachment",
+      "Order by the Prime Minister",
+      "Removal by the Supreme Court"
+    ],
+    "op_hi": [
+      "अविश्वास प्रस्ताव",
+      "महाभियोग",
+      "प्रधानमंत्री द्वारा आदेश",
+      "सर्वोच्च न्यायालय द्वारा पदच्युत"
+    ],
+    "q_en": "Which of the following options correctly represents the process through which the President of India can be removed from office?",
+    "q_hi": "निम्नलिखित में से कौन सा विकल्प उस प्रक्रिया का सही प्रतिनिधित्व करता है जिसके माध्यम से भारत के राष्ट्रपति को पद से हटाया जा सकता है?",
+    "section": "General Knowledge Including Current Affairs1",
+    "solution": "भारतीय संविधान के अनुच्छेद 61 के तहत, भारत के राष्ट्रपति को केवल 'संविधान के अतिक्रमण (उल्लंघन)' के आधार पर 'महाभियोग' (Impeachment) प्रक्रिया के माध्यम से ही उनके पद से हटाया जा सकता है। अतः विकल्प 2 सही है।",
+    "topic": "Polity"
+  },
+  {
+    "ans": "1",
+    "level": "Medium",
+    "op_en": [
+      "Article 74",
+      "Article 80",
+      "Article 52",
+      "Article 56"
+    ],
+    "op_hi": [
+      "अनुच्छेद 74",
+      "अनुच्छेद 80",
+      "अनुच्छेद 52",
+      "अनुच्छेद 56"
+    ],
+    "q_en": "Which of the following Constitutional Article mandates that the President functions in accordance with the advice of the elected Council of Ministers?",
+    "q_hi": "निम्नलिखित में से कौन सा संवैधानिक अनुच्छेद यह अनिवार्य करता है कि राष्ट्रपति निर्वाचित मंत्रिपरिषद की सलाह के अनुसार कार्य करेगा?",
+    "section": "General Knowledge Including Current Affairs1",
+    "solution": "भारतीय संविधान के अनुच्छेद 74 में स्पष्ट रूप से उल्लेख है कि राष्ट्रपति को सहायता और सलाह देने के लिए एक मंत्रिपरिषद होगी, जिसका प्रधान प्रधानमंत्री होगा और राष्ट्रपति अपने कार्यों का निर्वहन करने में ऐसी सलाह के अनुसार कार्य करेगा। अतः विकल्प 1 सही है।",
+    "topic": "Polity"
+  },
+  {
+    "ans": "1",
+    "level": "Easy",
+    "op_en": [
+      "deforestation",
+      "mulching",
+      "increase in forest cover of earth",
+      "crop rotation"
+    ],
+    "op_hi": [
+      "वनों की कटाई",
+      "मल्चिंग (पलवार)",
+      "पृथ्वी के वन आवरण में वृद्धि",
+      "फसल चक्रण"
+    ],
+    "q_en": "One major reason for the lowering of ground water level can be attributed to the practice of ______.",
+    "q_hi": "भूजल स्तर के नीचे गिरने का एक प्रमुख कारण ______ की प्रथा को माना जा सकता है।",
+    "section": "General Knowledge Including Current Affairs1",
+    "solution": "वनों की कटाई (Deforestation) के कारण पेड़ों की जड़ें समाप्त हो जाती हैं, जिससे बारिश का पानी मिट्टी द्वारा सोखने के बजाय तेजी से बह जाता है। इसके परिणामस्वरूप भूजल का पुनर्भरण (recharge) नहीं हो पाता और भूजल स्तर नीचे गिर जाता है।",
+    "topic": "Environment"
+  },
+  {
+    "ans": "4",
+    "level": "Hard",
+    "op_en": [
+      "Government of India Act, 1919",
+      "Government of India Act, 1935",
+      "Indian Councils Act, 1909",
+      "Indian Councils Act, 1892"
+    ],
+    "op_hi": [
+      "भारत शासन अधिनियम, 1919",
+      "भारत शासन अधिनियम, 1935",
+      "भारतीय परिषद अधिनियम, 1909",
+      "भारतीय परिषद अधिनियम, 1892"
+    ],
+    "q_en": "Which of the following Acts expanded the role of the legislative councils, allowing discussion on the budget and submitting questions to the executive?",
+    "q_hi": "निम्नलिखित में से किस अधिनियम ने विधान परिषदों की भूमिका का विस्तार किया, बजट पर बहस और कार्यपालिका को प्रश्न प्रस्तुत करने की अनुमति दी?",
+    "section": "General Knowledge Including Current Affairs1",
+    "solution": "भारतीय परिषद अधिनियम 1892 (Indian Councils Act 1892) के द्वारा विधान परिषदों के कार्यों में वृद्धि की गई। इसी अधिनियम के तहत पहली बार भारतीय सदस्यों को बजट पर बहस करने और कार्यपालिका से जनहित के मुद्दों पर प्रश्न पूछने का सीमित अधिकार दिया गया था। अतः विकल्प 4 सही है।",
+    "topic": "Modern History"
+  },
+  {
+    "ans": "2",
+    "level": "Easy",
+    "op_en": [
+      "Charter Act, 1813",
+      "Charter Act, 1833",
+      "Regulating Act, 1773",
+      "Charter Act, 1803"
+    ],
+    "op_hi": [
+      "चार्टर अधिनियम, 1813",
+      "चार्टर अधिनियम, 1833",
+      "रेगुलेटिंग एक्ट, 1773",
+      "चार्टर अधिनियम, 1803"
+    ],
+    "q_en": "Which of the following Acts designated the Governor of Bengal as Governor General of Bengal?<br>",
+    "q_hi": "निम्नलिखित में से किस अधिनियम ने बंगाल के गवर्नर को भारत का गवर्नर जनरल नामित किया?<br>",
+    "section": "General Knowledge Including Current Affairs1",
+    "solution": "चार्टर अधिनियम, 1833 के द्वारा बंगाल के गवर्नर-जनरल का पदनाम बदलकर 'भारत का गवर्नर-जनरल' कर दिया गया था (लॉर्ड विलियम बेंटिक भारत के पहले गवर्नर-जनरल बने)। अतः दिए गए उत्तर विकल्प के अनुसार सही उत्तर विकल्प 2 है।",
+    "topic": "Modern History"
+  }
+]
