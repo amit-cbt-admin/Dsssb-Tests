@@ -1,0 +1,212 @@
+[
+  {
+    "ans": 2,
+    "difficulty": "Easy",
+    "op_en": [
+      "264",
+      "308",
+      "346",
+      "372"
+    ],
+    "op_hi": [
+      "264",
+      "308",
+      "346",
+      "372"
+    ],
+    "q_en": "Find the fourth proportional to 126, 168 and 231.",
+    "q_hi": "126, 168 और 231 का चतुर्थानुपाती ज्ञात कीजिए।",
+    "section": "Arithmetic1",
+    "solution": "<b>Solution (EN):</b> Let the fourth proportional be x. According to the rule of proportion: 126 : 168 :: 231 : x. <br>So, 126/168 = 231/x. <br>x = (168 &times; 231) / 126 = 308.<br><b>Solution (HI):</b> माना चतुर्थानुपाती x है। समानुपात के नियमानुसार: 126 : 168 :: 231 : x. <br>अतः, 126/168 = 231/x. <br>x = (168 &times; 231) / 126 = 308.<br><b>Short Trick:</b> Fourth proportional = (b &times; c) / a = (168 &times; 231) / 126 = 308.",
+    "topic": "Ratio and Proportion"
+  },
+  {
+    "ans": 2,
+    "difficulty": "Medium",
+    "op_en": [
+      "₹1,100",
+      "₹1,200",
+      "₹1,180",
+      "₹1,080"
+    ],
+    "op_hi": [
+      "₹1,100",
+      "₹1,200",
+      "₹1,180",
+      "₹1,080"
+    ],
+    "q_en": "By selling a chair for ₹1,344, a shopkeeper earns a profit of 12%. Find the cost price of the chair for the shopkeeper.",
+    "q_hi": "किसी कुर्सी को ₹1,344 में बेचकर एक दुकानदार 12% का लाभ अर्जित करता है। दुकानदार के लिए कुर्सी का क्रय मूल्य ज्ञात कीजिए।",
+    "section": "Arithmetic1",
+    "solution": "<b>Solution (EN):</b> Selling Price (SP) = ₹1,344. Profit = 12%.<br>Cost Price (CP) = SP / (1 + Profit%) = 1344 / 1.12 = ₹1,200.<br><b>Solution (HI):</b> विक्रय मूल्य (SP) = ₹1,344. लाभ = 12%.<br>क्रय मूल्य (CP) = SP / (1 + Profit%) = 1344 / 1.12 = ₹1,200.<br><b>Short Trick:</b> 112% = 1344 => 100% = (1344 / 112) &times; 100 = 1200.",
+    "topic": "Profit and Loss"
+  },
+  {
+    "ans": 4,
+    "difficulty": "Easy",
+    "op_en": [
+      "₹9,500",
+      "₹10,500",
+      "₹9,000",
+      "₹10,000"
+    ],
+    "op_hi": [
+      "₹9,500",
+      "₹10,500",
+      "₹9,000",
+      "₹10,000"
+    ],
+    "q_en": "A mobile phone was sold for ₹8,500 after a discount of 15%. What was the marked price of the phone?",
+    "q_hi": "एक मोबाइल फ़ोन 15% की छूट के बाद ₹8,500 में बेचा गया। फ़ोन का अंकित मूल्य कितना था?<br>",
+    "section": "Arithmetic1",
+    "solution": "<b>Solution (EN):</b> Selling Price (SP) = ₹8,500. Discount = 15%.<br>Marked Price (MP) = SP / (1 - Discount%) = 8500 / 0.85 = ₹10,000.<br><b>Solution (HI):</b> विक्रय मूल्य (SP) = ₹8,500. छूट = 15%.<br>अंकित मूल्य (MP) = SP / (1 - Discount%) = 8500 / 0.85 = ₹10,000.<br><b>Short Trick:</b> 85% of MP = 8500 => MP = 10000.",
+    "topic": "Discount"
+  },
+  {
+    "ans": 4,
+    "difficulty": "Medium",
+    "op_en": [
+      "<img align=\"middle\" alt=\"10 13 over 51\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mn»10«/mn»«mfrac»«mn»13«/mn»«mn»51«/mn»«/mfrac»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAlCAYAAAA5iwvJAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAZpE86XgAAActJREFUeNrVmLFLw0AUxo8QxEFcioQgLk6lu/g/OElBnEREcPBfECdxERFxEEScpLh0EAdxKeIgLg6SwUFwcCjSRUSklCLU9/A7CEcS02hyLx/8htd7ha/Xu3fvTql8NUWsEWdENyZnlrgl+sQHcUJUlCUFxAMxAKZqxAbhEuPEEfKulUU5CYbXY3K7yrLiDDtGXEXejlTDYc0Qj8S+EqDfDM+Fcnj9TpRhhrmi3CPvtAyG9bIQvelU2aqEqUnkNWya9UKGPWPshTjGycYb7YpoR+QVPrMmWlzCejiWn4ldCRXCWpOi8OsvMCMtwpfapGjdgVHiEt9xJDYprEWM1RHPI16VWn6aGKshriBuSjXcxphr/CPvUg33I8YG+DxNKfsrQxv+ijHckzrDbxjTVcFF3JG+6fxQ7Ra96ZaMslZHvCKxSdFVIcAJN4KbQWDr4Ei7M30Y5cpwbrOryvsE7YQm4SljH1OYFox/7SBjH1OYWik2piPF8DRMfOIZyvuHa1Su2jaWQ9L1R8yS4KZ/Ga86bOhQumEtbvpvEo5ycYZZ1YjuTrRhfbUvjWF+KNmSbHhT/TxaO9h8/O47lqGPKUwNrNlXYi/G7FA3jG+0ltN+VkeCSwAAAG90RVh0TWF0aE1MADxtYXRoIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8xOTk4L01hdGgvTWF0aE1MIj48bW4+MTA8L21uPjxtZnJhYz48bW4+MTM8L21uPjxtbj41MTwvbW4+PC9tZnJhYz48L21hdGg++yn+ogAAAABJRU5ErkJggg==\" style=\"max-width: none;\"> घंटे",
+      "<img align=\"middle\" alt=\"9 13 over 51\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mn»9«/mn»«mfrac»«mn»13«/mn»«mn»51«/mn»«/mfrac»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACMAAAAlCAYAAADIgFBEAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAZpE86XgAAAcFJREFUeNrVl7FLw1AQxh+hg4i4SAlFROgk7uL/4N5ZXBwc3EUcRFyKiDgURMRBiouIo0sRB3FxEIcihQ4OUoqblCBBqHfwPQjPJNX4Xi5+8BuMB/mad3fvTqnsmiFWiXMiSIhZJO6IkHgnTogp5UBPxCMxBKbmiU2iREwSR4i7UY7kpZhZS4gNlEMlmfGMv+cQV5cwE9UC0SYOlGONMrMUieF8KUt/Ga68B8SdSZvRRyWWwKpI1WRqGnFNV0b8iBnf+N8LcYyOy0l7TbzGxFn9IiZaXMYfuAq6xJ7rSnKiWeICyTXAhSbyK/gMe8QVMY623UPHnMjbTANnXTUuOX62nbeZt5jSrOBZJ28zn3hxKaZawrzNtPHiWoyZ4Ifl/Fe+5UcXecNfaAXPWhIVtY7uGKKqNmBmuQh9h4foe2kTfESnuFcqkh2Y145nXGhid8gQO80lRsR/Kx6Y+pES7WRY9KypZvSLw18uelbVQk/KuuhZUxUvGGB19S2Mppm1axxR2kiZyzGV0aX1/daQNKM1RtyissTN6MU+LIoZvZ4UwgwvaTtSZrYwC3lI5HrCAJ+26FlTEznCm8R+gpGRk11UXzmXtPpD3uPvAAAAbnRFWHRNYXRoTUwAPG1hdGggeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzE5OTgvTWF0aC9NYXRoTUwiPjxtbj45PC9tbj48bWZyYWM+PG1uPjEzPC9tbj48bW4+NTE8L21uPjwvbWZyYWM+PC9tYXRoPjTdPnUAAAAASUVORK5CYII=\" style=\"max-width: none;\"> घंटे",
+      "<img align=\"middle\" alt=\"14 13 over 51\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mn»14«/mn»«mfrac»«mn»13«/mn»«mn»51«/mn»«/mfrac»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAlCAYAAAA5iwvJAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAZpE86XgAAAZNJREFUeNpjYKAtkAXiNCBeDsTfcKgxB+KjQPwLiD8B8VwgFmYYIHAJiC8A8X8oRgdaQFwNxCxAzAfEM6Hq9jMMIGDC4+AsHGq/MQwwwOVgJjS+BlRd12B1MDIwBeJrQDyBYRAAQg72QlIDSr+iQyGEQSXKGai6xUPBwbBkMagzHcNQKyXQgTRU3dKBdKw4koPF0eQeAvFsaM0Gymg7gPgpFnV0D1l0DAOgIuwHtFq+C8Q9g6GEGLBGCjpYRWS6HJBGCjqIJkHtgDRScBXw/4dC8bMbiPWGioNLgDiDxLJ1wBysg1ag41L7n0aYJAezQQt1QTJqrwEJ4T5o34thqDiYrOgaTI2UQRHC+Bopg87B5ET1oEjDtKpBXyJ58BYV2jE0BaFosTaJwnYMzcFeIE6kUjuG5kAJ6ogvDJBhKPHBnida0ZIDvu7PoEkSoC5PPHRUB+SgaUOl1OEA4oPQEmPIFJMa0A7nkCrXHw4lB4MGSpoHs4NrGSCD1kzQzAca9+WhQjuGZmApNM0+h7apeShtxwAAaj7NkH25B0sAAABvdEVYdE1hdGhNTAA8bWF0aCB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMTk5OC9NYXRoL01hdGhNTCI+PG1uPjE0PC9tbj48bWZyYWM+PG1uPjEzPC9tbj48bW4+NTE8L21uPjwvbWZyYWM+PC9tYXRoPoZ+k6UAAAAASUVORK5CYII=\" style=\"max-width: none;\"> घंटे",
+      "<img align=\"middle\" alt=\"6 13 over 51\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mn»6«/mn»«mfrac»«mn»13«/mn»«mn»51«/mn»«/mfrac»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACMAAAAlCAYAAADIgFBEAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAZpE86XgAAAchJREFUeNrNl8FHRFEUxq8nSUYkGSNtZpW2Sf9Di3atWiSRtOgfSJK0GUlaRNJqjDYtkyFJiyRaZGQkkiSZbTLGE/VdvpvX9eY18+bde9/HbzF3Du9z7j3n3iNEfA2DBXAE6k1iJsAV8MEHOAQDwoAq4A58E12jYAV0gT6wz7gLYUhehJmlJrF1YVDNzHja7xHGFVyYCWocVMGOMKz/zEwGYuR5GXSdGVl5t4wrujajtsrZARZpqiZdQ4wrmTKSDZjJav+9gAN2XHloy+AtJC7RjOgoyTJu8Cp4AlumK8m4psAxL7YvVyZkCs9oYg2MhbR0K8qBZ3DDU+9U1zTT79rITOA2PWUFyBJcdmGmTDOLfAjlmSW5Nt9iOXfKr+ohHVRlq2o7M36ImW6uNWybeeCHcyFbUrNtZp0fDr5Z81zbtm2mF9wzC/KdmgEn4NXUWNFK9y3yjDQ4CzlvfnFGlVqgRB9jDHqJaVrrF7ttDnqJ6hzMdTDoJSZVcZ8cXbMJPE1ja1PboqgnpZVtklU4y2tDfmzPpRmlHnAZ0bGtmlGDvZ8WM2o8SYUZ2bE3XJlZ5eXq8SAXeK+1M+glphLPyDtv90yMQe+PfgA6q7W0+1AlKgAAAG50RVh0TWF0aE1MADxtYXRoIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8xOTk4L01hdGgvTWF0aE1MIj48bW4+NjwvbW4+PG1mcmFjPjxtbj4xMzwvbW4+PG1uPjUxPC9tbj48L21mcmFjPjwvbWF0aD7kBqUuAAAAAElFTkSuQmCC\" style=\"max-width: none;\"> घंटे"
+    ],
+    "op_hi": [
+      "<img align=\"middle\" alt=\"10 13 over 51\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mn»10«/mn»«mfrac»«mn»13«/mn»«mn»51«/mn»«/mfrac»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAlCAYAAAA5iwvJAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAZpE86XgAAActJREFUeNrVmLFLw0AUxo8QxEFcioQgLk6lu/g/OElBnEREcPBfECdxERFxEEScpLh0EAdxKeIgLg6SwUFwcCjSRUSklCLU9/A7CEcS02hyLx/8htd7ha/Xu3fvTql8NUWsEWdENyZnlrgl+sQHcUJUlCUFxAMxAKZqxAbhEuPEEfKulUU5CYbXY3K7yrLiDDtGXEXejlTDYc0Qj8S+EqDfDM+Fcnj9TpRhhrmi3CPvtAyG9bIQvelU2aqEqUnkNWya9UKGPWPshTjGycYb7YpoR+QVPrMmWlzCejiWn4ldCRXCWpOi8OsvMCMtwpfapGjdgVHiEt9xJDYprEWM1RHPI16VWn6aGKshriBuSjXcxphr/CPvUg33I8YG+DxNKfsrQxv+ijHckzrDbxjTVcFF3JG+6fxQ7Ra96ZaMslZHvCKxSdFVIcAJN4KbQWDr4Ei7M30Y5cpwbrOryvsE7YQm4SljH1OYFox/7SBjH1OYWik2piPF8DRMfOIZyvuHa1Su2jaWQ9L1R8yS4KZ/Ga86bOhQumEtbvpvEo5ycYZZ1YjuTrRhfbUvjWF+KNmSbHhT/TxaO9h8/O47lqGPKUwNrNlXYi/G7FA3jG+0ltN+VkeCSwAAAG90RVh0TWF0aE1MADxtYXRoIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8xOTk4L01hdGgvTWF0aE1MIj48bW4+MTA8L21uPjxtZnJhYz48bW4+MTM8L21uPjxtbj41MTwvbW4+PC9tZnJhYz48L21hdGg++yn+ogAAAABJRU5ErkJggg==\" style=\"max-width: none;\"> घंटे",
+      "<img align=\"middle\" alt=\"9 13 over 51\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mn»9«/mn»«mfrac»«mn»13«/mn»«mn»51«/mn»«/mfrac»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACMAAAAlCAYAAADIgFBEAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAZpE86XgAAAcFJREFUeNrVl7FLw1AQxh+hg4i4SAlFROgk7uL/4N5ZXBwc3EUcRFyKiDgURMRBiouIo0sRB3FxEIcihQ4OUoqblCBBqHfwPQjPJNX4Xi5+8BuMB/mad3fvTqnsmiFWiXMiSIhZJO6IkHgnTogp5UBPxCMxBKbmiU2iREwSR4i7UY7kpZhZS4gNlEMlmfGMv+cQV5cwE9UC0SYOlGONMrMUieF8KUt/Ga68B8SdSZvRRyWWwKpI1WRqGnFNV0b8iBnf+N8LcYyOy0l7TbzGxFn9IiZaXMYfuAq6xJ7rSnKiWeICyTXAhSbyK/gMe8QVMY623UPHnMjbTANnXTUuOX62nbeZt5jSrOBZJ28zn3hxKaZawrzNtPHiWoyZ4Ifl/Fe+5UcXecNfaAXPWhIVtY7uGKKqNmBmuQh9h4foe2kTfESnuFcqkh2Y145nXGhid8gQO80lRsR/Kx6Y+pES7WRY9KypZvSLw18uelbVQk/KuuhZUxUvGGB19S2Mppm1axxR2kiZyzGV0aX1/daQNKM1RtyissTN6MU+LIoZvZ4UwgwvaTtSZrYwC3lI5HrCAJ+26FlTEznCm8R+gpGRk11UXzmXtPpD3uPvAAAAbnRFWHRNYXRoTUwAPG1hdGggeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzE5OTgvTWF0aC9NYXRoTUwiPjxtbj45PC9tbj48bWZyYWM+PG1uPjEzPC9tbj48bW4+NTE8L21uPjwvbWZyYWM+PC9tYXRoPjTdPnUAAAAASUVORK5CYII=\" style=\"max-width: none;\"> घंटे",
+      "<img align=\"middle\" alt=\"14 13 over 51\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mn»14«/mn»«mfrac»«mn»13«/mn»«mn»51«/mn»«/mfrac»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAlCAYAAAA5iwvJAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAZpE86XgAAAZNJREFUeNpjYKAtkAXiNCBeDsTfcKgxB+KjQPwLiD8B8VwgFmYYIHAJiC8A8X8oRgdaQFwNxCxAzAfEM6Hq9jMMIGDC4+AsHGq/MQwwwOVgJjS+BlRd12B1MDIwBeJrQDyBYRAAQg72QlIDSr+iQyGEQSXKGai6xUPBwbBkMagzHcNQKyXQgTRU3dKBdKw4koPF0eQeAvFsaM0Gymg7gPgpFnV0D1l0DAOgIuwHtFq+C8Q9g6GEGLBGCjpYRWS6HJBGCjqIJkHtgDRScBXw/4dC8bMbiPWGioNLgDiDxLJ1wBysg1ag41L7n0aYJAezQQt1QTJqrwEJ4T5o34thqDiYrOgaTI2UQRHC+Bopg87B5ET1oEjDtKpBXyJ58BYV2jE0BaFosTaJwnYMzcFeIE6kUjuG5kAJ6ogvDJBhKPHBnida0ZIDvu7PoEkSoC5PPHRUB+SgaUOl1OEA4oPQEmPIFJMa0A7nkCrXHw4lB4MGSpoHs4NrGSCD1kzQzAca9+WhQjuGZmApNM0+h7apeShtxwAAaj7NkH25B0sAAABvdEVYdE1hdGhNTAA8bWF0aCB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMTk5OC9NYXRoL01hdGhNTCI+PG1uPjE0PC9tbj48bWZyYWM+PG1uPjEzPC9tbj48bW4+NTE8L21uPjwvbWZyYWM+PC9tYXRoPoZ+k6UAAAAASUVORK5CYII=\" style=\"max-width: none;\"> घंटे",
+      "<img align=\"middle\" alt=\"6 13 over 51\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mn»6«/mn»«mfrac»«mn»13«/mn»«mn»51«/mn»«/mfrac»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACMAAAAlCAYAAADIgFBEAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAZpE86XgAAAchJREFUeNrNl8FHRFEUxq8nSUYkGSNtZpW2Sf9Di3atWiSRtOgfSJK0GUlaRNJqjDYtkyFJiyRaZGQkkiSZbTLGE/VdvpvX9eY18+bde9/HbzF3Du9z7j3n3iNEfA2DBXAE6k1iJsAV8MEHOAQDwoAq4A58E12jYAV0gT6wz7gLYUhehJmlJrF1YVDNzHja7xHGFVyYCWocVMGOMKz/zEwGYuR5GXSdGVl5t4wrujajtsrZARZpqiZdQ4wrmTKSDZjJav+9gAN2XHloy+AtJC7RjOgoyTJu8Cp4AlumK8m4psAxL7YvVyZkCs9oYg2MhbR0K8qBZ3DDU+9U1zTT79rITOA2PWUFyBJcdmGmTDOLfAjlmSW5Nt9iOXfKr+ohHVRlq2o7M36ImW6uNWybeeCHcyFbUrNtZp0fDr5Z81zbtm2mF9wzC/KdmgEn4NXUWNFK9y3yjDQ4CzlvfnFGlVqgRB9jDHqJaVrrF7ttDnqJ6hzMdTDoJSZVcZ8cXbMJPE1ja1PboqgnpZVtklU4y2tDfmzPpRmlHnAZ0bGtmlGDvZ8WM2o8SYUZ2bE3XJlZ5eXq8SAXeK+1M+glphLPyDtv90yMQe+PfgA6q7W0+1AlKgAAAG50RVh0TWF0aE1MADxtYXRoIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8xOTk4L01hdGgvTWF0aE1MIj48bW4+NjwvbW4+PG1mcmFjPjxtbj4xMzwvbW4+PG1uPjUxPC9tbj48L21mcmFjPjwvbWF0aD7kBqUuAAAAAElFTkSuQmCC\" style=\"max-width: none;\"> घंटे"
+    ],
+    "q_en": "Pipe A alone can fill an empty tank in 22 hours, and Pipe B alone can fill the same tank in 29 hours. If both the pipes are opened together, how much time will it take to fill half of the tank?",
+    "q_hi": "पाइप A अकेले एक खाली टंकी को 22 घंटे में भर सकता है, और पाइप B अकेले उसी टंकी को 29 घंटे में भर सकता है। दोनों पाइप को एक साथ खोलने पर टंकी का आधा हिस्सा भरने में कितना समय लगेगा?",
+    "section": "Arithmetic1",
+    "solution": "<b>Solution (EN):</b> Let total capacity of the tank = LCM(22, 29) = 638 units.<br>Efficiency of A = 638 / 22 = 29 units/hr.<br>Efficiency of B = 638 / 29 = 22 units/hr.<br>Combined efficiency = 29 + 22 = 51 units/hr.<br>Half of the tank = 638 / 2 = 319 units.<br>Time taken to fill half tank = 319 / 51 = 6 <sup>13</sup>&frasl;<sub>51</sub> hours.<br><b>Solution (HI):</b> माना टंकी की कुल क्षमता = LCM(22, 29) = 638 इकाई।<br>A की कार्यक्षमता = 638 / 22 = 29 इकाई/घंटा।<br>B की कार्यक्षमता = 638 / 29 = 22 इकाई/घंटा।<br>संयुक्त कार्यक्षमता = 29 + 22 = 51 इकाई/घंटा।<br>टंकी का आधा हिस्सा = 638 / 2 = 319 इकाई।<br>आधा हिस्सा भरने में लगा समय = 319 / 51 = 6 <sup>13</sup>&frasl;<sub>51</sub> घंटे।<br><b>Short Trick:</b> Time for full tank = (A &times; B) / (A + B) = (22 &times; 29) / 51. Time for half tank = (11 &times; 29) / 51 = 319 / 51 = 6 <sup>13</sup>&frasl;<sub>51</sub> hours.",
+    "topic": "Time and Work"
+  },
+  {
+    "ans": 1,
+    "difficulty": "Easy",
+    "op_en": [
+      "1,118",
+      "1,012",
+      "1,088",
+      "1,106"
+    ],
+    "op_hi": [
+      "1,118",
+      "1,012",
+      "1,088",
+      "1,106"
+    ],
+    "q_en": "The ratio of the number of boys to the number of girls in a school is 8 : 5. If the number of boys is 258 more than the girls, then find the total number of students in the school.",
+    "q_hi": "किसी स्कूल में लड़कों की संख्या और लड़कियों की संख्या का अनुपात 8 : 5 है। यदि लड़कों की संख्या लड़कियों से 258 अधिक है, तो स्कूल में विद्यार्थियों की कुल संख्या ज्ञात कीजिए।",
+    "section": "Arithmetic1",
+    "solution": "<b>Solution (EN):</b> Let the number of boys and girls be 8x and 5x respectively.<br>Difference = 8x - 5x = 3x = 258 &rArr; x = 86.<br>Total number of students = 8x + 5x = 13x = 13 &times; 86 = 1,118.<br><b>Solution (HI):</b> माना लड़कों और लड़कियों की संख्या क्रमशः 8x और 5x है।<br>अंतर = 8x - 5x = 3x = 258 &rArr; x = 86.<br>विद्यार्थियों की कुल संख्या = 8x + 5x = 13x = 13 &times; 86 = 1,118.<br><b>Short Trick:</b> 3 units = 258 => 1 unit = 86. Total students = 13 units = 13 &times; 86 = 1118.",
+    "topic": "Ratio and Proportion"
+  },
+  {
+    "ans": 4,
+    "difficulty": "Medium",
+    "op_en": [
+      "100",
+      "70",
+      "60",
+      "80"
+    ],
+    "op_hi": [
+      "100",
+      "70",
+      "60",
+      "80"
+    ],
+    "q_en": "A retailer buys an electronic item for ₹195. His overhead expenses are ₹5. He sells the item for ₹360 and earns a profit of x%. Find the value of x.",
+    "q_hi": "एक खुदरा विक्रेता ₹195 में एक इलेक्ट्रॉनिक वस्तु खरीदता है। उसके ऊपरी व्यय ₹5 हैं। वह ₹360 में उस इलेक्ट्रॉनिक वस्तु को बेचता है और x% का लाभ अर्जित करता है। x का मान ज्ञात कीजिए।",
+    "section": "Arithmetic1",
+    "solution": "<b>Solution (EN):</b> Total Cost Price (CP) = Purchase Price + Overhead = 195 + 5 = ₹200.<br>Selling Price (SP) = ₹360.<br>Profit = SP - CP = 360 - 200 = ₹160.<br>Profit % (x) = (Profit / CP) &times; 100 = (160 / 200) &times; 100 = 80%.<br><b>Solution (HI):</b> कुल क्रय मूल्य (CP) = खरीद मूल्य + ऊपरी व्यय = 195 + 5 = ₹200.<br>विक्रय मूल्य (SP) = ₹360.<br>लाभ = SP - CP = 360 - 200 = ₹160.<br>लाभ % (x) = (लाभ / CP) &times; 100 = (160 / 200) &times; 100 = 80%.<br><b>Short Trick:</b> Net CP = 200, SP = 360. Profit = 160. x = (160/200) &times; 100 = 80.",
+    "topic": "Profit and Loss"
+  },
+  {
+    "ans": 1,
+    "difficulty": "Hard",
+    "op_en": [
+      "5 cm",
+      "2 cm",
+      "4 cm",
+      "3 cm"
+    ],
+    "op_hi": [
+      "5 cm",
+      "2 cm",
+      "4 cm",
+      "3 cm"
+    ],
+    "q_en": "A solid metallic cylinder of radius 6 cm and height 15 cm is melted and recast into 9 identical right circular cones, each having a base radius of 6 cm. Find the height of each cone.",
+    "q_hi": "6 cm त्रिज्या और 15 cm ऊँचाई वाले ठोस धातु के बेलन को पिघलाकर 9 एकसमान लम्ब वृत्तीय शंकुओं में ढाला जाता है, जिनमें से प्रत्येक शंकु की आधार त्रिज्या 6 cm है। प्रत्येक शंकु की ऊँचाई ज्ञात कीजिए।",
+    "section": "Arithmetic1",
+    "solution": "<b>Solution (EN):</b> Volume of cylinder = &pi; &times; r<sup>2</sup> &times; h = &pi; &times; 6<sup>2</sup> &times; 15.<br>Volume of 9 cones = 9 &times; (1/3) &times; &pi; &times; r<sup>2</sup> &times; H = 3 &times; &pi; &times; 6<sup>2</sup> &times; H.<br>Equating volumes: &pi; &times; 36 &times; 15 = 3 &times; &pi; &times; 36 &times; H.<br>15 = 3H &rArr; H = 5 cm.<br><b>Solution (HI):</b> बेलन का आयतन = &pi; &times; r<sup>2</sup> &times; h = &pi; &times; 6<sup>2</sup> &times; 15.<br>9 शंकुओं का आयतन = 9 &times; (1/3) &times; &pi; &times; r<sup>2</sup> &times; H = 3 &times; &pi; &times; 6<sup>2</sup> &times; H.<br>आयतनों को बराबर करने पर: &pi; &times; 36 &times; 15 = 3 &times; &pi; &times; 36 &times; H.<br>15 = 3H &rArr; H = 5 cm.<br><b>Short Trick:</b> Vol<sub>Cylinder</sub> = 9 &times; Vol<sub>Cone</sub> &rArr; &pi; r<sup>2</sup> h = 9 &times; (1/3) &pi; r<sup>2</sup> H. Since 'r' is same, h = 3H. 15 = 3H &rArr; H = 5.",
+    "topic": "Mensuration"
+  },
+  {
+    "ans": 1,
+    "difficulty": "Medium",
+    "op_en": [
+      "<img align=\"middle\" alt=\"4 4 over 33\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mn»4«/mn»«mfrac»«mn»4«/mn»«mn»33«/mn»«/mfrac»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACMAAAAlCAYAAADIgFBEAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAZpE86XgAAAP5JREFUeNpjYKAtWAXE/xkGAYiGOmTAHSMLxGcGi2N2A7HeYHBMCRBnQNkD6hgdIF6KxB8wx7AB8Q4gFhwMjukDYnM0sQFzzH8CeMDBoHHIqGNoDkYruNEKblhWcP9phEcruNEKbtQxgwaAEv1RIP4FxJ+AeC4QC5OhhmKgBcTVQMwCxHxAPBMakvtJVEMVkIXGZ4Ja9I1ENVQBTGh8DahFXSSqoTowBeJrQDyBQjUUAy+knAdKC6JkqqFJG2gxBWqoGlWEEqcprRIwAxk5hYlejpGGWrSUQjVkgYdAPBtamopC20NPgVicRDVUAaAs+gNazN8F4h4suYQYNSgAAJ0tmkn2TElaAAAAbXRFWHRNYXRoTUwAPG1hdGggeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzE5OTgvTWF0aC9NYXRoTUwiPjxtbj40PC9tbj48bWZyYWM+PG1uPjQ8L21uPjxtbj4zMzwvbW4+PC9tZnJhYz48L21hdGg+Zkmc9gAAAABJRU5ErkJggg==\" style=\"max-width: none;\"> घंटे",
+      "<img align=\"middle\" alt=\"6 4 over 33\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mn»6«/mn»«mfrac»«mn»4«/mn»«mn»33«/mn»«/mfrac»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACMAAAAlCAYAAADIgFBEAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAZpE86XgAAAYJJREFUeNpjYKAtWAXE/xkGAYiGOmTAHSMLxGcGi2N2A7HeYHBMCRBnQNkD6hgdIF6KxB8wx7AB8Q4gFhwMjukDYnM0sQFzzH8CeMDBoHHIqGNoCvyAeA0QfwLiPwPlCFFoMQ5yRD0QGwMx00A4RBKI7wPxSSCWHuioOQ51jOBgaXd0AfE2IP4BxE+BOG8gHLMD6hhQTcsCxErQUAKJJZNYypKL4eAblrIAFlrX6B0yv7A4hg0q9oPejrkBtVgSS5S8pLdjGqEWZyGJKUHF+ujtGC4gvgINBQ0g5gHiLUD8GIiFB6r0XQxNIyC8fDAUfqQAUKvuKDQDgKqQuVhCkhg1FAMtIK6Glkt8QDwTmsb2k6iGKiALjc8EtegbiWqoAtBrcw2kKoUUNVQHptCSegKFaigGXkj1y35oriRHDU06+YspUEPVqCKUOE1plYAZyMgpTPRyjDTUoqUUqiELPATi2dDSVBTaQAO1DsVJVEMVMAFah4GK+btA3IMllxCjBgUAACRQoEV7oa4eAAAAbXRFWHRNYXRoTUwAPG1hdGggeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzE5OTgvTWF0aC9NYXRoTUwiPjxtbj42PC9tbj48bWZyYWM+PG1uPjQ8L21uPjxtbj4zMzwvbW4+PC9tZnJhYz48L21hdGg+o4jEkQAAAABJRU5ErkJggg==\" style=\"max-width: none;\"> घंटे",
+      "<img align=\"middle\" alt=\"9 fraction numerator begin display style 4 end style over denominator begin display style 33 end style end fraction\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mn»9«/mn»«mfrac»«mstyle displaystyle=¨true¨»«mn»4«/mn»«/mstyle»«mstyle displaystyle=¨true¨»«mn»33«/mn»«/mstyle»«/mfrac»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACMAAAAlCAYAAADIgFBEAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAZpE86XgAAAX5JREFUeNpjYKAtWAXE/xkGAYiGOmTAHSMLxGcGi2N2A7HeYHBMCRBnQNkD6hgdIF6KxB8wx7AB8Q4gFhwMjukDYnM0sQFzzH8CeMDBoHHIqGOoDuSBeA0QfwPiL0A8F4hFB8Ih4kD8HIg3ADEXEGtA+deAmIfejpkGjVclJLEsqFgjvR3zGksik4SK3aK3Y/5ALWbBkhN+0dsx16AWh2JxzDcSS1lyMUb6uAtNN6AQSoSK7R2IHJUHxE+h0QLKVZVQx8QPhnLnKBAfH2hHgKJoPhA/hOaoASuB04D4BrSBJDpQDgGljU9AvA6IvYZqfWYOTVu/oJ4B1WfCZKihGGgBcTU0jfEB8UxoCO8nUQ1VQBYanwlLIUmMGqoAJjS+BtSiLhLVUB2YQquUCRSqoRh4IdUv+3EUCcSooUknfzEFaqgaVYQSpymtEjADGTmFiV6OkYZatJRCNWQBUEU6G1qaikLrs6fQxj0paqgCQFn0B7SYBzXKerDkEmLUoAAAIzyfi0HRyzsAAAC3dEVYdE1hdGhNTAA8bWF0aCB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMTk5OC9NYXRoL01hdGhNTCI+PG1uPjk8L21uPjxtZnJhYz48bXN0eWxlIGRpc3BsYXlzdHlsZT0idHJ1ZSI+PG1uPjQ8L21uPjwvbXN0eWxlPjxtc3R5bGUgZGlzcGxheXN0eWxlPSJ0cnVlIj48bW4+MzM8L21uPjwvbXN0eWxlPjwvbWZyYWM+PC9tYXRoPk84rZsAAAAASUVORK5CYII=\" style=\"max-width: none;\"> घंटे",
+      "<img align=\"middle\" alt=\"8 4 over 33\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mn»8«/mn»«mfrac»«mn»4«/mn»«mn»33«/mn»«/mfrac»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACMAAAAlCAYAAADIgFBEAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAZpE86XgAAAYZJREFUeNpjYKAtWAXE/xkGAYiGOmTAHSMLxGcGi2N2A7HeYHBMCRBnQNkD6hgdIF6KxB8wx7AB8Q4gFhwMjukDYnM0sQFzzH8CeMDBoHHIqGNoUo+cBOIfQPwLiC8AcfJAOCQLGpQTgJgDiFmAuAcqVkBvx7yGWsyEJMYEFftAb8fchVochFbr/oe2R+gKvKDp5Bs0nfAA8UEgXgjEXAORbmyB+CE0NF4CsQeZpSy5GAWIA/FipGYiyEFuAxEqWlDLo6H8WGi0oacjuoALWHJTKFTsIb0dcwNqsSCWrH1moFrxq6AOAhV6rdAyRmOgSmFQdP2BVgm7oWlpyABQq+4oNLF/AuK5QCxMhhqq5MBqaJTyAfFMaFTvJ1EN1aKVAUuC/0aiGqoAJjS+BtSiLhLVUB2YAvE1aBOEEjVUqWT/I6UFUTLV0KSTv5gCNVSNKkKJ05RWCZiBjJzCRC/HSEMtWkqhGrIAqDafDS1NRaEd/qfQdhEpaqgCJiB1a+5CexOiZKhBAQA1AaX39k5GqQAAAG10RVh0TWF0aE1MADxtYXRoIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8xOTk4L01hdGgvTWF0aE1MIj48bW4+ODwvbW4+PG1mcmFjPjxtbj40PC9tbj48bW4+MzM8L21uPjwvbWZyYWM+PC9tYXRoPpddR2cAAAAASUVORK5CYII=\" style=\"max-width: none;\"> घंटे"
+    ],
+    "op_hi": [
+      "<img align=\"middle\" alt=\"4 4 over 33\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mn»4«/mn»«mfrac»«mn»4«/mn»«mn»33«/mn»«/mfrac»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACMAAAAlCAYAAADIgFBEAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAZpE86XgAAAP5JREFUeNpjYKAtWAXE/xkGAYiGOmTAHSMLxGcGi2N2A7HeYHBMCRBnQNkD6hgdIF6KxB8wx7AB8Q4gFhwMjukDYnM0sQFzzH8CeMDBoHHIqGNoDkYruNEKblhWcP9phEcruNEKbtQxgwaAEv1RIP4FxJ+AeC4QC5OhhmKgBcTVQMwCxHxAPBMakvtJVEMVkIXGZ4Ja9I1ENVQBTGh8DahFXSSqoTowBeJrQDyBQjUUAy+knAdKC6JkqqFJG2gxBWqoGlWEEqcprRIwAxk5hYlejpGGWrSUQjVkgYdAPBtamopC20NPgVicRDVUAaAs+gNazN8F4h4suYQYNSgAAJ0tmkn2TElaAAAAbXRFWHRNYXRoTUwAPG1hdGggeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzE5OTgvTWF0aC9NYXRoTUwiPjxtbj40PC9tbj48bWZyYWM+PG1uPjQ8L21uPjxtbj4zMzwvbW4+PC9tZnJhYz48L21hdGg+Zkmc9gAAAABJRU5ErkJggg==\" style=\"max-width: none;\"> घंटे",
+      "<img align=\"middle\" alt=\"6 4 over 33\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mn»6«/mn»«mfrac»«mn»4«/mn»«mn»33«/mn»«/mfrac»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACMAAAAlCAYAAADIgFBEAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAZpE86XgAAAYJJREFUeNpjYKAtWAXE/xkGAYiGOmTAHSMLxGcGi2N2A7HeYHBMCRBnQNkD6hgdIF6KxB8wx7AB8Q4gFhwMjukDYnM0sQFzzH8CeMDBoHHIqGNoCvyAeA0QfwLiPwPlCFFoMQ5yRD0QGwMx00A4RBKI7wPxSSCWHuioOQ51jOBgaXd0AfE2IP4BxE+BOG8gHLMD6hhQTcsCxErQUAKJJZNYypKL4eAblrIAFlrX6B0yv7A4hg0q9oPejrkBtVgSS5S8pLdjGqEWZyGJKUHF+ujtGC4gvgINBQ0g5gHiLUD8GIiFB6r0XQxNIyC8fDAUfqQAUKvuKDQDgKqQuVhCkhg1FAMtIK6Glkt8QDwTmsb2k6iGKiALjc8EtegbiWqoAtBrcw2kKoUUNVQHptCSegKFaigGXkj1y35oriRHDU06+YspUEPVqCKUOE1plYAZyMgpTPRyjDTUoqUUqiELPATi2dDSVBTaQAO1DsVJVEMVMAFah4GK+btA3IMllxCjBgUAACRQoEV7oa4eAAAAbXRFWHRNYXRoTUwAPG1hdGggeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzE5OTgvTWF0aC9NYXRoTUwiPjxtbj42PC9tbj48bWZyYWM+PG1uPjQ8L21uPjxtbj4zMzwvbW4+PC9tZnJhYz48L21hdGg+o4jEkQAAAABJRU5ErkJggg==\" style=\"max-width: none;\"> घंटे",
+      "<img align=\"middle\" alt=\"9 fraction numerator begin display style 4 end style over denominator begin display style 33 end style end fraction\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mn»9«/mn»«mfrac»«mstyle displaystyle=¨true¨»«mn»4«/mn»«/mstyle»«mstyle displaystyle=¨true¨»«mn»33«/mn»«/mstyle»«/mfrac»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACMAAAAlCAYAAADIgFBEAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAZpE86XgAAAX5JREFUeNpjYKAtWAXE/xkGAYiGOmTAHSMLxGcGi2N2A7HeYHBMCRBnQNkD6hgdIF6KxB8wx7AB8Q4gFhwMjukDYnM0sQFzzH8CeMDBoHHIqGOoDuSBeA0QfwPiL0A8F4hFB8Ih4kD8HIg3ADEXEGtA+deAmIfejpkGjVclJLEsqFgjvR3zGksik4SK3aK3Y/5ALWbBkhN+0dsx16AWh2JxzDcSS1lyMUb6uAtNN6AQSoSK7R2IHJUHxE+h0QLKVZVQx8QPhnLnKBAfH2hHgKJoPhA/hOaoASuB04D4BrSBJDpQDgGljU9AvA6IvYZqfWYOTVu/oJ4B1WfCZKihGGgBcTU0jfEB8UxoCO8nUQ1VQBYanwlLIUmMGqoAJjS+BtSiLhLVUB2YQquUCRSqoRh4IdUv+3EUCcSooUknfzEFaqgaVYQSpymtEjADGTmFiV6OkYZatJRCNWQBUEU6G1qaikLrs6fQxj0paqgCQFn0B7SYBzXKerDkEmLUoAAAIzyfi0HRyzsAAAC3dEVYdE1hdGhNTAA8bWF0aCB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMTk5OC9NYXRoL01hdGhNTCI+PG1uPjk8L21uPjxtZnJhYz48bXN0eWxlIGRpc3BsYXlzdHlsZT0idHJ1ZSI+PG1uPjQ8L21uPjwvbXN0eWxlPjxtc3R5bGUgZGlzcGxheXN0eWxlPSJ0cnVlIj48bW4+MzM8L21uPjwvbXN0eWxlPjwvbWZyYWM+PC9tYXRoPk84rZsAAAAASUVORK5CYII=\" style=\"max-width: none;\"> घंटे",
+      "<img align=\"middle\" alt=\"8 4 over 33\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mn»8«/mn»«mfrac»«mn»4«/mn»«mn»33«/mn»«/mfrac»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACMAAAAlCAYAAADIgFBEAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAZpE86XgAAAYZJREFUeNpjYKAtWAXE/xkGAYiGOmTAHSMLxGcGi2N2A7HeYHBMCRBnQNkD6hgdIF6KxB8wx7AB8Q4gFhwMjukDYnM0sQFzzH8CeMDBoHHIqGNoUo+cBOIfQPwLiC8AcfJAOCQLGpQTgJgDiFmAuAcqVkBvx7yGWsyEJMYEFftAb8fchVochFbr/oe2R+gKvKDp5Bs0nfAA8UEgXgjEXAORbmyB+CE0NF4CsQeZpSy5GAWIA/FipGYiyEFuAxEqWlDLo6H8WGi0oacjuoALWHJTKFTsIb0dcwNqsSCWrH1moFrxq6AOAhV6rdAyRmOgSmFQdP2BVgm7oWlpyABQq+4oNLF/AuK5QCxMhhqq5MBqaJTyAfFMaFTvJ1EN1aKVAUuC/0aiGqoAJjS+BtSiLhLVUB2YAvE1aBOEEjVUqWT/I6UFUTLV0KSTv5gCNVSNKkKJ05RWCZiBjJzCRC/HSEMtWkqhGrIAqDafDS1NRaEd/qfQdhEpaqgCJiB1a+5CexOiZKhBAQA1AaX39k5GqQAAAG10RVh0TWF0aE1MADxtYXRoIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8xOTk4L01hdGgvTWF0aE1MIj48bW4+ODwvbW4+PG1mcmFjPjxtbj40PC9tbj48bW4+MzM8L21uPjwvbWZyYWM+PC9tYXRoPpddR2cAAAAASUVORK5CYII=\" style=\"max-width: none;\"> घंटे"
+    ],
+    "q_en": "Pipe A alone can fill an empty tank in 17 hours, and Pipe B alone can fill the same tank in 16 hours. If both the pipes are opened together, how much time will it take to fill half of the tank?",
+    "q_hi": "पाइप A अकेले एक खाली टंकी को 17 घंटे में भर सकता है, और पाइप B अकेले उसी टंकी को 16 घंटे में भर सकता है। दोनों पाइप को एक साथ खोलने पर टंकी का आधा हिस्सा भरने में कितना समय लगेगा?",
+    "section": "Arithmetic1",
+    "solution": "<b>Solution (EN):</b> Let total capacity = LCM(17, 16) = 272 units.<br>Efficiency of A = 16 units/hr.<br>Efficiency of B = 17 units/hr.<br>Total efficiency = 16 + 17 = 33 units/hr.<br>Time for half tank = (272/2) / 33 = 136 / 33 = 4 <sup>4</sup>&frasl;<sub>33</sub> hours.<br><b>Solution (HI):</b> माना कुल क्षमता = LCM(17, 16) = 272 इकाई।<br>A की कार्यक्षमता = 16 इकाई/घंटा।<br>B की कार्यक्षमता = 17 इकाई/घंटा।<br>कुल कार्यक्षमता = 16 + 17 = 33 इकाई/घंटा।<br>आधा हिस्सा भरने का समय = (272/2) / 33 = 136 / 33 = 4 <sup>4</sup>&frasl;<sub>33</sub> घंटे।<br><b>Short Trick:</b> Time = (17 &times; 16) / [2 &times; (17 + 16)] = 272 / 66 = 136 / 33 = 4 <sup>4</sup>&frasl;<sub>33</sub>.",
+    "topic": "Time and Work"
+  },
+  {
+    "ans": 1,
+    "difficulty": "Easy",
+    "op_en": [
+      "25",
+      "30",
+      "20",
+      "15"
+    ],
+    "op_hi": [
+      "25",
+      "30",
+      "20",
+      "15"
+    ],
+    "q_en": "The sides of a triangle are in the ratio 3 : 4 : 5 and its area is 150 square units. The length of its longest side is _____ units.",
+    "q_hi": "एक त्रिभुज की भुजाओं का अनुपात 3 : 4 : 5 है और इसका क्षेत्रफल 150 वर्ग इकाई है। इसकी सबसे बड़ी भुजा की लंबाई _____ इकाई है।",
+    "section": "Arithmetic1",
+    "solution": "<b>Solution (EN):</b> Since the sides are in the ratio 3 : 4 : 5, it is a right-angled triangle.<br>Let the sides be 3x, 4x, and 5x.<br>Area = 1/2 &times; base &times; height = 1/2 &times; 3x &times; 4x = 6x<sup>2</sup>.<br>Given Area = 150 &rArr; 6x<sup>2</sup> = 150 &rArr; x<sup>2</sup> = 25 &rArr; x = 5.<br>Longest side = 5x = 5 &times; 5 = 25 units.<br><b>Solution (HI):</b> चूँकि भुजाएँ 3 : 4 : 5 के अनुपात में हैं, अतः यह एक समकोण त्रिभुज है।<br>माना भुजाएँ 3x, 4x और 5x हैं।<br>क्षेत्रफल = 1/2 &times; आधार &times; ऊँचाई = 1/2 &times; 3x &times; 4x = 6x<sup>2</sup>.<br>दिया गया क्षेत्रफल = 150 &rArr; 6x<sup>2</sup> = 150 &rArr; x<sup>2</sup> = 25 &rArr; x = 5.<br>सबसे बड़ी भुजा = 5x = 5 &times; 5 = 25 इकाई।<br><b>Short Trick:</b> 6x<sup>2</sup> = 150 => x = 5. Largest side = 5 &times; 5 = 25.",
+    "topic": "Mensuration"
+  },
+  {
+    "ans": 4,
+    "difficulty": "Easy",
+    "op_en": [
+      "5 hours",
+      "6 hours",
+      "4 hours",
+      "3 hours"
+    ],
+    "op_hi": [
+      "5 घंटे",
+      "6 घंटे",
+      "4 घंटे",
+      "3 घंटे"
+    ],
+    "q_en": "A train is moving at a speed of 35 km/hr. How many hours will it take to cover a distance of 105 km?",
+    "q_hi": "एक रेलगाड़ी 35 km/hr की चाल से गतिमान है। 105 km की दूरी तय करने में उसे कितने घंटे लगेंगे?",
+    "section": "Arithmetic1",
+    "solution": "<b>Solution (EN):</b> Time = Distance / Speed.<br>Time = 105 / 35 = 3 hours.<br><b>Solution (HI):</b> समय = दूरी / चाल.<br>समय = 105 / 35 = 3 घंटे.<br><b>Short Trick:</b> T = D / S = 105 / 35 = 3.",
+    "topic": "Time, Speed and Distance"
+  }
+]
