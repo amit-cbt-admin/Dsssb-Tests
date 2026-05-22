@@ -1,0 +1,317 @@
+[
+  {
+    "ans": 4,
+    "difficulty": "Easy",
+    "op_en": [
+      "clarity ​",
+      "simplicity",
+      "ambiguous",
+      "simple ​​​​​​"
+    ],
+    "op_hi": [
+      "clarity ​",
+      "simplicity",
+      "ambiguous",
+      "simple ​​​​​​"
+    ],
+    "q_en": "Select the most appropriate adjective to fill in the blank.<br><br>The professor provided a _______ explanation, making the complex topic easier to understand.",
+    "q_hi": "Select the most appropriate adjective to fill in the blank.<br><br>The professor provided a _______ explanation, making the complex topic easier to understand.",
+    "section": "English",
+    "solution": "<b>Solution (EN):</b> The sentence requires an adjective to describe the noun 'explanation'. 'Simple' is an adjective that fits the context of making a topic easier to understand. 'Clarity' and 'simplicity' are nouns, and 'ambiguous' means unclear.<br><b>Solution (HI):</b> यहाँ noun 'explanation' की विशेषता बताने के लिए एक adjective की आवश्यकता है। 'Simple' एक adjective है जो विषय को समझने में आसान बनाने के संदर्भ में सही है। 'Clarity' और 'simplicity' nouns हैं, और 'ambiguous' का अर्थ अस्पष्ट होता है।<br><b>Short Trick:</b> Identify the part of speech; 'explanation' (Noun) needs an 'Adjective' (simple).",
+    "topic": "Adjectives"
+  },
+  {
+    "ans": 4,
+    "difficulty": "Easy",
+    "op_en": [
+      "curiously",
+      "curiosity",
+      "cure",
+      "curious"
+    ],
+    "op_hi": [
+      "curiously",
+      "curiosity",
+      "cure",
+      "curious"
+    ],
+    "q_en": "Select the most appropriate adjective to fill in the blank.<br><br>The ___________ kid asked many questions during the science exhibition.",
+    "q_hi": "Select the most appropriate adjective to fill in the blank.<br><br>The ___________ kid asked many questions during the science exhibition.",
+    "section": "English",
+    "solution": "<b>Solution (EN):</b> The blank precedes the noun 'kid', so an adjective is needed. 'Curious' is the adjective form. 'Curiosity' is a noun, 'curiously' is an adverb, and 'cure' is a verb/noun.<br><b>Solution (HI):</b> 'Kid' एक noun है, इससे पहले उसकी विशेषता बताने के लिए adjective चाहिए। 'Curious' सही adjective है। 'Curiosity' noun है और 'curiously' adverb है।<br><b>Short Trick:</b> Adjective + Noun structure: Curious (Adj) + Kid (Noun).",
+    "topic": "Adjectives"
+  },
+  {
+    "ans": 1,
+    "difficulty": "Medium",
+    "op_en": [
+      "CBDEA",
+      "DAECB",
+      "AEDCB",
+      "BCDEA"
+    ],
+    "op_hi": [
+      "CBDEA",
+      "DAECB",
+      "AEDCB",
+      "BCDEA"
+    ],
+    "q_en": "Parts of a sentence are given below in jumbled order. Arrange the parts in the correct order to form a meaningful sentence.<br><br>A. during the seminar<br>B. gave<br>C. the keynote speaker<br>D. an insightful talk<br>E. on leadership<span style=\"color:#ffffff;\">6993</span>",
+    "q_hi": "Parts of a sentence are given below in jumbled order. Arrange the parts in the correct order to form a meaningful sentence.<br><br>A. during the seminar<br>B. gave<br>C. the keynote speaker<br>D. an insightful talk<br>E. on leadership<span style=\"color:#ffffff;\">6993</span>",
+    "section": "English",
+    "solution": "<b>Solution (EN):</b> The logical structure is Subject (C: the keynote speaker) + Verb (B: gave) + Object (D: an insightful talk) + Prepositional phrase (E: on leadership) + Time/Event (A: during the seminar). Result: CBDEA.<br><b>Solution (HI):</b> वाक्य की सही संरचना है: Subject (C) + Verb (B) + Object (D) + Topic (E) + Time (A)। परिणाम: CBDEA.<br><b>Short Trick:</b> Start with the Subject 'The keynote speaker' (C) and follow with the action 'gave' (B).",
+    "topic": "Sentence Rearrangement"
+  },
+  {
+    "ans": 3,
+    "difficulty": "Easy",
+    "op_en": [
+      "Proud",
+      "Boaster",
+      "Egoist",
+      "Eccentric"
+    ],
+    "op_hi": [
+      "Proud",
+      "Boaster",
+      "Egoist",
+      "Eccentric"
+    ],
+    "q_en": "Select the option that can be used as a one-word substitute for the given group of words.<br><br>A person who thinks only of himself<br> <span style=\"color:#ffffff;\">6683</span>",
+    "q_hi": "Select the option that can be used as a one-word substitute for the given group of words.<br><br>A person who thinks only of himself<br> <span style=\"color:#ffffff;\">6683</span>",
+    "section": "English",
+    "solution": "<b>Solution (EN):</b> 'Egoist' refers to a person who is self-centered or thinks only of themselves. 'Proud' means feeling deep pleasure or satisfaction, 'Boaster' is someone who brags, and 'Eccentric' means unconventional or strange.<br><b>Solution (HI):</b> 'Egoist' का अर्थ है वह व्यक्ति जो केवल अपने बारे में सोचता है (अहंवादी)। 'Proud' का अर्थ गर्वित, 'Boaster' का अर्थ डींगें मारने वाला, और 'Eccentric' का अर्थ विलक्षण या सनकी होता है।<br><b>Short Trick:</b> 'Ego' relates to self; hence 'Egoist' is the correct person.",
+    "topic": "One Word Substitution"
+  },
+  {
+    "ans": 3,
+    "difficulty": "Easy",
+    "op_en": [
+      "jubilant",
+      "frightened",
+      "interesting",
+      "desirous"
+    ],
+    "op_hi": [
+      "jubilant",
+      "frightened",
+      "interesting",
+      "desirous"
+    ],
+    "q_en": "Select the most appropriate option to fill in the blank.<br><br>I read a very _______ article in the journal today.",
+    "q_hi": "Select the most appropriate option to fill in the blank.<br><br>I read a very _______ article in the journal today.",
+    "section": "English",
+    "solution": "<b>Solution (EN):</b> 'Interesting' is the most suitable adjective for an article in a journal. 'Jubilant' (extremely happy) usually describes people, 'Frightened' (scared) describes feelings, and 'Desirous' (having a desire) is contextually incorrect.<br><b>Solution (HI):</b> किसी जर्नल के लेख (article) के लिए 'interesting' सबसे उपयुक्त adjective है। 'Jubilant' (बहुत खुश), 'Frightened' (डरा हुआ) और 'Desirous' (इच्छुक) यहाँ फिट नहीं बैठते।<br><b>Short Trick:</b> Articles in journals are usually 'interesting' or 'informative'.",
+    "topic": "Vocabulary"
+  },
+  {
+    "ans": 3,
+    "difficulty": "Medium",
+    "op_en": [
+      "acrophobia",
+      "agoraphobia",
+      "claustrophobia",
+      "hydrophobia"
+    ],
+    "op_hi": [
+      "acrophobia",
+      "agoraphobia",
+      "claustrophobia",
+      "hydrophobia"
+    ],
+    "q_en": "Select the option that can be used as a one-word substitute for the underlined group of words.<br><br>The <u>fear of confined spaces</u> made it hard for her to take the elevator.",
+    "q_hi": "Select the option that can be used as a one-word substitute for the underlined group of words.<br><br>The <u>fear of confined spaces</u> made it hard for her to take the elevator.",
+    "section": "English",
+    "solution": "<b>Solution (EN):</b> 'Claustrophobia' is the extreme or irrational fear of confined places. 'Acrophobia' is fear of heights, 'Agoraphobia' is fear of open spaces, and 'Hydrophobia' is fear of water.<br><b>Solution (HI):</b> 'Claustrophobia' का अर्थ है बंद या तंग जगहों का डर। 'Acrophobia' ऊंचाई का डर है, 'Agoraphobia' खुले स्थानों का डर है, और 'Hydrophobia' पानी का डर है।<br><b>Short Trick:</b> 'Claustro' (closed) + 'phobia' (fear) = Fear of closed/confined spaces.",
+    "topic": "One Word Substitution"
+  },
+  {
+    "ans": 2,
+    "difficulty": "Easy",
+    "op_en": [
+      "Through quietly they the forest walked.",
+      "They quietly walked through the forest.",
+      "Through the forest quietly they walked.",
+      "Quietly they walked through the forest."
+    ],
+    "op_hi": [
+      "Through quietly they the forest walked.",
+      "They quietly walked through the forest.",
+      "Through the forest quietly they walked.",
+      "Quietly they walked through the forest."
+    ],
+    "q_en": "Parts of a sentence are given below in jumbled order. Arrange the parts in the correct order to form a meaningful sentence.<br><br>through / the / walked / forest / quietly / they",
+    "q_hi": "Parts of a sentence are given below in jumbled order. Arrange the parts in the correct order to form a meaningful sentence.<br><br>through / the / walked / forest / quietly / they",
+    "section": "English",
+    "solution": "<b>Solution (EN):</b> The standard sentence structure is Subject (They) + Adverb (quietly) + Verb (walked) + Prepositional Phrase (through the forest). Option 2 follows this most naturally.<br><b>Solution (HI):</b> मानक वाक्य संरचना है: Subject (They) + Adverb (quietly) + Verb (walked) + Prepositional Phrase (through the forest)। विकल्प 2 सबसे सही है।<br><b>Short Trick:</b> Look for the Subject-Verb connection: 'They walked'.",
+    "topic": "Sentence Rearrangement"
+  },
+  {
+    "ans": 2,
+    "difficulty": "Easy",
+    "op_en": [
+      "an, a, the",
+      "an, an, a",
+      "an, a, a",
+      "a, an, an"
+    ],
+    "op_hi": [
+      "an, a, the",
+      "an, an, a",
+      "an, a, a",
+      "a, an, an"
+    ],
+    "q_en": "Select the most appropriate option to fill in the blanks.<br><br>She brought ___ apple, ___ orange, and ___ banana for breakfast.",
+    "q_hi": "Select the most appropriate option to fill in the blanks.<br><br>She brought ___ apple, ___ orange, and ___ banana for breakfast.",
+    "section": "English",
+    "solution": "<b>Solution (EN):</b> Use 'an' before words starting with a vowel sound (apple, orange) and 'a' before words starting with a consonant sound (banana).<br><b>Solution (HI):</b> Vowel sound (स्वर ध्वनि) से शुरू होने वाले शब्दों (apple, orange) से पहले 'an' और consonant sound (व्यंजन ध्वनि) से शुरू होने वाले शब्दों (banana) से पहले 'a' का प्रयोग करें।<br><b>Short Trick:</b> Vowel sound = an (Apple, Orange); Consonant sound = a (Banana).",
+    "topic": "Articles"
+  },
+  {
+    "ans": 1,
+    "difficulty": "Medium",
+    "op_en": [
+      "evasive",
+      "ambiguous",
+      "transparent",
+      "diplomatic"
+    ],
+    "op_hi": [
+      "evasive",
+      "ambiguous",
+      "transparent",
+      "diplomatic"
+    ],
+    "q_en": "Select the most appropriate option to fill in the blank.<br><br>The politician gave a/an __________ response, avoiding any direct answers.",
+    "q_hi": "Select the most appropriate option to fill in the blank.<br><br>The politician gave a/an __________ response, avoiding any direct answers.",
+    "section": "English",
+    "solution": "<b>Solution (EN):</b> 'Evasive' means tending to avoid commitment or self-revelation, especially by responding only indirectly. This perfectly matches 'avoiding direct answers'. 'Ambiguous' means open to more than one interpretation, but 'evasive' is a more precise fit for avoiding answers.<br><b>Solution (HI):</b> 'Evasive' का अर्थ है टालमटोल करने वाला या सीधा उत्तर न देने वाला। 'Avoiding direct answers' के लिए यह सबसे सटीक शब्द है। 'Ambiguous' का अर्थ अस्पष्ट होता है।<br><b>Short Trick:</b> Avoid = Evasive.",
+    "topic": "Vocabulary"
+  },
+  {
+    "ans": 1,
+    "difficulty": "Medium",
+    "op_en": [
+      "an encouragement to focus on positive aspects of life",
+      "a warning about the dangers of ignoring one's past",
+      "a literal instruction for navigation",
+      "a metaphor for the cyclical nature of time"
+    ],
+    "op_hi": [
+      "an encouragement to focus on positive aspects of life",
+      "a warning about the dangers of ignoring one's past",
+      "a literal instruction for navigation",
+      "a metaphor for the cyclical nature of time"
+    ],
+    "q_en": "The proverb 'Turn your face to the sun and the shadows fall behind you' is best interpreted as:    <span style=\"color:#ffffff;\">224</span>",
+    "q_hi": "The proverb 'Turn your face to the sun and the shadows fall behind you' is best interpreted as:    <span style=\"color:#ffffff;\">224</span>",
+    "section": "English",
+    "solution": "<b>Solution (EN):</b> This proverb means that if you look toward the positive (the sun), the negative things (shadows) will no longer be in your sight or influence you as much. It encourages optimism.<br><b>Solution (HI):</b> इस कहावत का अर्थ है कि यदि आप सकारात्मकता (सूरज) की ओर देखेंगे, तो नकारात्मक चीजें (परछाइयां) आपके पीछे छूट जाएंगी। यह आशावाद को बढ़ावा देता है।<br><b>Short Trick:</b> Sun = Positive; Shadow = Negative. Facing sun = focus on positive.",
+    "topic": "Idioms and Proverbs"
+  },
+  {
+    "ans": 4,
+    "difficulty": "Medium",
+    "op_en": [
+      "Digital challenges in modern education",
+      "Necessity of traditional education methods",
+      "The increase of online education pedagogy",
+      "Pros and cons of technology in education"
+    ],
+    "op_hi": [
+      "Digital challenges in modern education",
+      "Necessity of traditional education methods",
+      "The increase of online education pedagogy",
+      "Pros and cons of technology in education"
+    ],
+    "q_en": "<b>Comprehension:</b><br>Read the given passage carefully and answer the questions that follow.<br> <div style=\"text-align: justify;\">Education has witnessed a dramatic transformation with the integration of technology. Online learning platforms, virtual classrooms, and educational apps have revolutionised the way knowledge is disseminated and acquired. Traditional classrooms, though still relevant, have become increasingly hybrid, blending face-to-face interaction with digital tools. This shift has expanded the accessibility of education to remote areas, enabling students from diverse backgrounds to gain knowledge. However, the rapid adoption of technology also brings challenges. Digital divides persist, as many students lack access to devices or stable internet connections. Furthermore, excessive screen time raises concerns about mental and physical well-being.<br>While technology fosters personalised learning and self-paced study, it cannot replace the human touch of teachers who inspire, guide, and mentor students. Striking a balance between leveraging technology and preserving human interaction is critical to maximising the benefits of modern education. The future of education lies not in choosing between traditional methods and technology but in harmonising them for a more inclusive and effective learning experience.</div> <span style=\"color:#ffffff;\">328</span><br>What is the central theme of the passage?<span style=\"color:#ffffff;\">329</span>",
+    "q_hi": "<b>Comprehension:</b><br>Read the given passage carefully and answer the questions that follow.<br> <div style=\"text-align: justify;\">Education has witnessed a dramatic transformation with the integration of technology. Online learning platforms, virtual classrooms, and educational apps have revolutionised the way knowledge is disseminated and acquired. Traditional classrooms, though still relevant, have become increasingly hybrid, blending face-to-face interaction with digital tools. This shift has expanded the accessibility of education to remote areas, enabling students from diverse backgrounds to gain knowledge. However, the rapid adoption of technology also brings challenges. Digital divides persist, as many students lack access to devices or stable internet connections. Furthermore, excessive screen time raises concerns about mental and physical well-being.<br>While technology fosters personalised learning and self-paced study, it cannot replace the human touch of teachers who inspire, guide, and mentor students. Striking a balance between leveraging technology and preserving human interaction is critical to maximising the benefits of modern education. The future of education lies not in choosing between traditional methods and technology but in harmonising them for a more inclusive and effective learning experience.</div> <span style=\"color:#ffffff;\">328</span><br>What is the central theme of the passage?<span style=\"color:#ffffff;\">329</span>",
+    "section": "English",
+    "solution": "<b>Solution (EN):</b> The passage discusses both the advantages (accessibility, personalized learning) and the drawbacks (digital divide, health concerns, loss of human touch) of technology in education. Thus, 'Pros and cons' is the theme.<br><b>Solution (HI):</b> गद्यांश शिक्षा में तकनीक के लाभों (पहुंच, व्यक्तिगत शिक्षा) और कमियों (डिजिटल डिवाइड, स्वास्थ्य संबंधी चिंताएं) दोनों पर चर्चा करता है। इसलिए, 'Pros and cons' मुख्य विषय है।<br><b>Short Trick:</b> Look for the balance in the text—it mentions both benefits and challenges.",
+    "topic": "Reading Comprehension"
+  },
+  {
+    "ans": 3,
+    "difficulty": "Medium",
+    "op_en": [
+      "Jocular",
+      "Narrative",
+      "Balanced",
+      "Sarcastic"
+    ],
+    "op_hi": [
+      "Jocular",
+      "Narrative",
+      "Balanced",
+      "Sarcastic"
+    ],
+    "q_en": "<b>Comprehension:</b><br>Read the given passage carefully and answer the questions that follow.<br> <div style=\"text-align: justify;\">Education has witnessed a dramatic transformation with the integration of technology. Online learning platforms, virtual classrooms, and educational apps have revolutionised the way knowledge is disseminated and acquired. Traditional classrooms, though still relevant, have become increasingly hybrid, blending face-to-face interaction with digital tools. This shift has expanded the accessibility of education to remote areas, enabling students from diverse backgrounds to gain knowledge. However, the rapid adoption of technology also brings challenges. Digital divides persist, as many students lack access to devices or stable internet connections. Furthermore, excessive screen time raises concerns about mental and physical well-being.<br>While technology fosters personalised learning and self-paced study, it cannot replace the human touch of teachers who inspire, guide, and mentor students. Striking a balance between leveraging technology and preserving human interaction is critical to maximising the benefits of modern education. The future of education lies not in choosing between traditional methods and technology but in harmonising them for a more inclusive and effective learning experience.</div> <span style=\"color:#ffffff;\">328</span><br>Identify the tone of the passage.<span style=\"color:#ffffff;\">330</span>",
+    "q_hi": "<b>Comprehension:</b><br>Read the given passage carefully and answer the questions that follow.<br> <div style=\"text-align: justify;\">Education has witnessed a dramatic transformation with the integration of technology. Online learning platforms, virtual classrooms, and educational apps have revolutionised the way knowledge is disseminated and acquired. Traditional classrooms, though still relevant, have become increasingly hybrid, blending face-to-face interaction with digital tools. This shift has expanded the accessibility of education to remote areas, enabling students from diverse backgrounds to gain knowledge. However, the rapid adoption of technology also brings challenges. Digital divides persist, as many students lack access to devices or stable internet connections. Furthermore, excessive screen time raises concerns about mental and physical well-being.<br>While technology fosters personalised learning and self-paced study, it cannot replace the human touch of teachers who inspire, guide, and mentor students. Striking a balance between leveraging technology and preserving human interaction is critical to maximising the benefits of modern education. The future of education lies not in choosing between traditional methods and technology but in harmonising them for a more inclusive and effective learning experience.</div> <span style=\"color:#ffffff;\">328</span><br>Identify the tone of the passage.<span style=\"color:#ffffff;\">330</span>",
+    "section": "English",
+    "solution": "<b>Solution (EN):</b> The author presents both positive and negative aspects of technological integration in education without taking an extreme side, making the tone 'balanced'.<br><b>Solution (HI):</b> लेखक किसी एक पक्ष की ओर झुके बिना शिक्षा में तकनीक के सकारात्मक और नकारात्मक दोनों पहलुओं को प्रस्तुत करता है, जिससे इसका लहजा 'balanced' (संतुलित) हो जाता है।<br><b>Short Trick:</b> The presence of 'however' and 'while' often indicates a balanced/analytical tone.",
+    "topic": "Reading Comprehension"
+  },
+  {
+    "ans": 1,
+    "difficulty": "Medium",
+    "op_en": [
+      "They remain relevant.",
+      "They lack innovation.",
+      "They are old fashioned.",
+      "They hamper progress."
+    ],
+    "op_hi": [
+      "They remain relevant.",
+      "They lack innovation.",
+      "They are old fashioned.",
+      "They hamper progress."
+    ],
+    "q_en": "<b>Comprehension:</b><br>Read the given passage carefully and answer the questions that follow.<br> <div style=\"text-align: justify;\">Education has witnessed a dramatic transformation with the integration of technology. Online learning platforms, virtual classrooms, and educational apps have revolutionised the way knowledge is disseminated and acquired. Traditional classrooms, though still relevant, have become increasingly hybrid, blending face-to-face interaction with digital tools. This shift has expanded the accessibility of education to remote areas, enabling students from diverse backgrounds to gain knowledge. However, the rapid adoption of technology also brings challenges. Digital divides persist, as many students lack access to devices or stable internet connections. Furthermore, excessive screen time raises concerns about mental and physical well-being.<br>While technology fosters personalised learning and self-paced study, it cannot replace the human touch of teachers who inspire, guide, and mentor students. Striking a balance between leveraging technology and preserving human interaction is critical to maximising the benefits of modern education. The future of education lies not in choosing between traditional methods and technology but in harmonising them for a more inclusive and effective learning experience.</div> <span style=\"color:#ffffff;\">328</span><br>What is the author’s attitude towards traditional classrooms?<br>\n<br> <span style=\"color:#ffffff;\">331</span>",
+    "q_hi": "<b>Comprehension:</b><br>Read the given passage carefully and answer the questions that follow.<br> <div style=\"text-align: justify;\">Education has witnessed a dramatic transformation with the integration of technology. Online learning platforms, virtual classrooms, and educational apps have revolutionised the way knowledge is disseminated and acquired. Traditional classrooms, though still relevant, have become increasingly hybrid, blending face-to-face interaction with digital tools. This shift has expanded the accessibility of education to remote areas, enabling students from diverse backgrounds to gain knowledge. However, the rapid adoption of technology also brings challenges. Digital divides persist, as many students lack access to devices or stable internet connections. Furthermore, excessive screen time raises concerns about mental and physical well-being.<br>While technology fosters personalised learning and self-paced study, it cannot replace the human touch of teachers who inspire, guide, and mentor students. Striking a balance between leveraging technology and preserving human interaction is critical to maximising the benefits of modern education. The future of education lies not in choosing between traditional methods and technology but in harmonising them for a more inclusive and effective learning experience.</div> <span style=\"color:#ffffff;\">328</span><br>What is the author’s attitude towards traditional classrooms?<br>\n<br> <span style=\"color:#ffffff;\">331</span>",
+    "section": "English",
+    "solution": "<b>Solution (EN):</b> The passage explicitly states, \"Traditional classrooms, though still relevant, have become increasingly hybrid...\"<br><b>Solution (HI):</b> गद्यांश में स्पष्ट रूप से कहा गया है, \"Traditional classrooms, though still relevant, have become increasingly hybrid...\" यानी वे अभी भी प्रासंगिक हैं।<br><b>Short Trick:</b> Direct mention in the third sentence: \"though still relevant\".",
+    "topic": "Reading Comprehension"
+  },
+  {
+    "ans": 4,
+    "difficulty": "Medium",
+    "op_en": [
+      "The End of Traditional Education System",
+      "The Problems of Online Teaching and Learning",
+      "Innovative Pedagogy: Teachers versus Technology",
+      "Technology and Education: Striking the Balance"
+    ],
+    "op_hi": [
+      "The End of Traditional Education System",
+      "The Problems of Online Teaching and Learning",
+      "Innovative Pedagogy: Teachers versus Technology",
+      "Technology and Education: Striking the Balance"
+    ],
+    "q_en": "<b>Comprehension:</b><br>Read the given passage carefully and answer the questions that follow.<br> <div style=\"text-align: justify;\">Education has witnessed a dramatic transformation with the integration of technology. Online learning platforms, virtual classrooms, and educational apps have revolutionised the way knowledge is disseminated and acquired. Traditional classrooms, though still relevant, have become increasingly hybrid, blending face-to-face interaction with digital tools. This shift has expanded the accessibility of education to remote areas, enabling students from diverse backgrounds to gain knowledge. However, the rapid adoption of technology also brings challenges. Digital divides persist, as many students lack access to devices or stable internet connections. Furthermore, excessive screen time raises concerns about mental and physical well-being.<br>While technology fosters personalised learning and self-paced study, it cannot replace the human touch of teachers who inspire, guide, and mentor students. Striking a balance between leveraging technology and preserving human interaction is critical to maximising the benefits of modern education. The future of education lies not in choosing between traditional methods and technology but in harmonising them for a more inclusive and effective learning experience.</div> <span style=\"color:#ffffff;\">328</span><br>Select the option that suits the most appropriate title for the passage.",
+    "q_hi": "<b>Comprehension:</b><br>Read the given passage carefully and answer the questions that follow.<br> <div style=\"text-align: justify;\">Education has witnessed a dramatic transformation with the integration of technology. Online learning platforms, virtual classrooms, and educational apps have revolutionised the way knowledge is disseminated and acquired. Traditional classrooms, though still relevant, have become increasingly hybrid, blending face-to-face interaction with digital tools. This shift has expanded the accessibility of education to remote areas, enabling students from diverse backgrounds to gain knowledge. However, the rapid adoption of technology also brings challenges. Digital divides persist, as many students lack access to devices or stable internet connections. Furthermore, excessive screen time raises concerns about mental and physical well-being.<br>While technology fosters personalised learning and self-paced study, it cannot replace the human touch of teachers who inspire, guide, and mentor students. Striking a balance between leveraging technology and preserving human interaction is critical to maximising the benefits of modern education. The future of education lies not in choosing between traditional methods and technology but in harmonising them for a more inclusive and effective learning experience.</div> <span style=\"color:#ffffff;\">328</span><br>Select the option that suits the most appropriate title for the passage.",
+    "section": "English",
+    "solution": "<b>Solution (EN):</b> The final paragraph emphasizes that the future lies in \"striking a balance\" and \"harmonising\" technology with human interaction.<br><b>Solution (HI):</b> अंतिम पैराग्राफ इस बात पर जोर देता है कि भविष्य तकनीक और मानवीय संपर्क के बीच \"संतुलन बनाने\" (striking a balance) में निहित है।<br><b>Short Trick:</b> Titles often reflect the conclusion/summary of the passage.",
+    "topic": "Reading Comprehension"
+  },
+  {
+    "ans": 3,
+    "difficulty": "Medium",
+    "op_en": [
+      "Teachers are becoming irrelevant due to technology.",
+      "Teachers are no longer needed in hybrid classrooms.",
+      "Teachers remain essential for guidance despite technological advances.",
+      "Teachers should only focus on digital tools for effective teaching."
+    ],
+    "op_hi": [
+      "Teachers are becoming irrelevant due to technology.",
+      "Teachers are no longer needed in hybrid classrooms.",
+      "Teachers remain essential for guidance despite technological advances.",
+      "Teachers should only focus on digital tools for effective teaching."
+    ],
+    "q_en": "<b>Comprehension:</b><br>Read the given passage carefully and answer the questions that follow.<br> <div style=\"text-align: justify;\">Education has witnessed a dramatic transformation with the integration of technology. Online learning platforms, virtual classrooms, and educational apps have revolutionised the way knowledge is disseminated and acquired. Traditional classrooms, though still relevant, have become increasingly hybrid, blending face-to-face interaction with digital tools. This shift has expanded the accessibility of education to remote areas, enabling students from diverse backgrounds to gain knowledge. However, the rapid adoption of technology also brings challenges. Digital divides persist, as many students lack access to devices or stable internet connections. Furthermore, excessive screen time raises concerns about mental and physical well-being.<br>While technology fosters personalised learning and self-paced study, it cannot replace the human touch of teachers who inspire, guide, and mentor students. Striking a balance between leveraging technology and preserving human interaction is critical to maximising the benefits of modern education. The future of education lies not in choosing between traditional methods and technology but in harmonising them for a more inclusive and effective learning experience.</div> <span style=\"color:#ffffff;\">328</span><br>What can be inferred about the role of teachers in modern education?",
+    "q_hi": "<b>Comprehension:</b><br>Read the given passage carefully and answer the questions that follow.<br> <div style=\"text-align: justify;\">Education has witnessed a dramatic transformation with the integration of technology. Online learning platforms, virtual classrooms, and educational apps have revolutionised the way knowledge is disseminated and acquired. Traditional classrooms, though still relevant, have become increasingly hybrid, blending face-to-face interaction with digital tools. This shift has expanded the accessibility of education to remote areas, enabling students from diverse backgrounds to gain knowledge. However, the rapid adoption of technology also brings challenges. Digital divides persist, as many students lack access to devices or stable internet connections. Furthermore, excessive screen time raises concerns about mental and physical well-being.<br>While technology fosters personalised learning and self-paced study, it cannot replace the human touch of teachers who inspire, guide, and mentor students. Striking a balance between leveraging technology and preserving human interaction is critical to maximising the benefits of modern education. The future of education lies not in choosing between traditional methods and technology but in harmonising them for a more inclusive and effective learning experience.</div> <span style=\"color:#ffffff;\">328</span><br>What can be inferred about the role of teachers in modern education?",
+    "section": "English",
+    "solution": "<b>Solution (EN):</b> The author states that technology \"cannot replace the human touch of teachers who inspire, guide, and mentor students.\"<br><b>Solution (HI):</b> लेखक का कहना है कि तकनीक उन शिक्षकों के मानवीय स्पर्श की जगह नहीं ले सकती जो छात्रों को प्रेरित और मार्गदर्शन (guide) करते हैं।<br><b>Short Trick:</b> Inference: Technology is a tool, but teachers are the guide.",
+    "topic": "Reading Comprehension"
+  }
+]
