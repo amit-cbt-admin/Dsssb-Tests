@@ -1,0 +1,317 @@
+[
+  {
+    "ans": 2,
+    "difficulty": "Medium",
+    "op_en": [
+      "Depreciation",
+      "Net factor income from abroad",
+      "Subsidies",
+      "Indirect Taxes"
+    ],
+    "op_hi": [
+      "मूल्यह्रास (Depreciation)",
+      "विदेशों से प्राप्त निवल कारक आय",
+      "सब्सिडी (Subsidies)",
+      "अप्रत्यक्ष कर (Indirect Taxes)"
+    ],
+    "q_en": "Gross National Product (GNP) is calculated by adding which of the following to the Gross Domestic Product (GDP)?",
+    "q_hi": "सकल घरेलू उत्पाद (GDP) में निम्नलिखित में से किसे जोड़कर सकल राष्ट्रीय उत्पाद (GNP) की गणना की जाती है?",
+    "section": "General Knowledge Including Current Affairs",
+    "solution": "<b>Solution (EN):</b> Gross National Product (GNP) is the total value of all finished goods and services produced by a country's citizens in a given financial year. It is calculated as GDP plus net factor income from abroad.<br><b>Solution (HI):</b> सकल राष्ट्रीय उत्पाद (GNP) एक वित्तीय वर्ष में किसी देश के नागरिकों द्वारा उत्पादित सभी तैयार वस्तुओं और सेवाओं का कुल मूल्य है। इसकी गणना GDP में 'विदेशों से प्राप्त निवल कारक आय' जोड़कर की जाती है।<br><b>Short Trick:</b> GNP = GDP + NFIA (Net Factor Income from Abroad).",
+    "topic": "National Income"
+  },
+  {
+    "ans": 3,
+    "difficulty": "Medium",
+    "op_en": [
+      "Russia",
+      "Saudi Arabia",
+      "United Arab Emirates (UAE)",
+      "Iran"
+    ],
+    "op_hi": [
+      "रूस",
+      "सऊदी अरब",
+      "संयुक्त अरब अमीरात (UAE)",
+      "ईरान"
+    ],
+    "q_en": "In May 2026, India signed an agreement with which country to store 30 million barrels of crude oil in India's Strategic Petroleum Reserve?",
+    "q_hi": "मई 2026 में, भारत ने किस देश के साथ भारत के रणनीतिक पेट्रोलियम रिजर्व में 30 मिलियन बैरल कच्चे तेल के भंडारण के लिए एक समझौते पर हस्ताक्षर किए?",
+    "section": "General Knowledge Including Current Affairs",
+    "solution": "<b>Solution (EN):</b> India and the United Arab Emirates (UAE) agreed in May 2026 to expand energy cooperation through a 30 million barrel crude oil storage deal in India's Strategic Petroleum Reserve.<br><b>Solution (HI):</b> भारत और संयुक्त अरब अमीरात (UAE) ने मई 2026 में भारत के रणनीतिक पेट्रोलियम रिजर्व में 30 मिलियन बैरल कच्चे तेल के भंडारण सौदे के माध्यम से ऊर्जा सहयोग का विस्तार करने पर सहमति व्यक्त की।<br><b>Short Trick:</b> 30 Million Barrel Oil Deal 2026 = UAE.",
+    "topic": "Current Affairs - International"
+  },
+  {
+    "ans": 2,
+    "difficulty": "Easy",
+    "op_en": [
+      "Bandra-Worli Sea Link",
+      "Atal Setu (MTHL)",
+      "Pamban Bridge",
+      "Bogibeel Bridge"
+    ],
+    "op_hi": [
+      "बांद्रा-वर्ली सी लिंक",
+      "अटल सेतु (MTHL)",
+      "पंबन ब्रिज",
+      "बोगीबील ब्रिज"
+    ],
+    "q_en": "Which of the following is the longest sea bridge in India, connecting Mumbai to Navi Mumbai?",
+    "q_hi": "निम्नलिखित में से कौन-सा भारत का सबसे लंबा समुद्री पुल है, जो मुंबई को नवी मुंबई से जोड़ता है?",
+    "section": "General Knowledge Including Current Affairs",
+    "solution": "<b>Solution (EN):</b> The Atal Bihari Vajpayee Sewri-Nhava Sheva Atal Setu, also known as the Mumbai Trans Harbour Link (MTHL), is the longest sea bridge in India with a length of 21.8 km.<br><b>Solution (HI):</b> अटल बिहारी वाजपेयी शिवड़ी-न्हावा शेवा अटल सेतु, जिसे मुंबई ट्रांस हार्बर लिंक (MTHL) भी कहा जाता है, 21.8 किमी की लंबाई के साथ भारत का सबसे लंबा समुद्री पुल है।<br><b>Short Trick:</b> Longest Sea Bridge = Atal Setu (Mumbai).",
+    "topic": "Static GK - Infrastructure"
+  },
+  {
+    "ans": 2,
+    "difficulty": "Medium",
+    "op_en": [
+      "Hindustan Aeronautics Limited (HAL)",
+      "Flying Wedge Defence",
+      "Tata Advanced Systems",
+      "Mahindra Aerospace"
+    ],
+    "op_hi": [
+      "हिंदुस्तान एयरोनॉटिक्स लिमिटेड (HAL)",
+      "फ्लाइंग वेज डिफेंस",
+      "टाटा एडवांस्ड सिस्टम्स",
+      "महिंद्रा एयरोस्पेस"
+    ],
+    "q_en": "In 2026, which Indian company announced the manufacturing of 'Kaal Bhairava', India's first AI-powered MALE combat aircraft?",
+    "q_hi": "2026 में, किस भारतीय कंपनी ने भारत के पहले AI-संचालित MALE लड़ाकू विमान 'काल भैरव' के निर्माण की घोषणा की?",
+    "section": "General Knowledge Including Current Affairs",
+    "solution": "<b>Solution (EN):</b> Flying Wedge Defence & Aerospace announced the manufacturing of 'Kaal Bhairava', which is India's first Artificial Intelligence-powered MALE (Medium Altitude Long Endurance) autonomous combat aircraft.<br><b>Solution (HI):</b> फ्लाइंग वेज डिफेंस एंड एयरोस्पेस ने 'काल भैरव' के निर्माण की घोषणा की, जो भारत का पहला आर्टिफिशियल इंटेलिजेंस-संचालित MALE (मीडियम एल्टीट्यूड लॉन्ग एंड्योरेंस) ऑटोनॉमस लड़ाकू विमान है।<br><b>Short Trick:</b> AI Aircraft 'Kaal Bhairava' = Flying Wedge Defence.",
+    "topic": "Current Affairs - S&T"
+  },
+  {
+    "ans": 3,
+    "difficulty": "Easy",
+    "op_en": [
+      "1905",
+      "1906",
+      "1907",
+      "1909"
+    ],
+    "op_hi": [
+      "1905",
+      "1906",
+      "1907",
+      "1909"
+    ],
+    "q_en": "In which year did the Indian National Congress split into two groups—the Moderates and the Extremists—at the Surat session?",
+    "q_hi": "सूरत अधिवेशन में भारतीय राष्ट्रीय कांग्रेस किस वर्ष दो समूहों—नरम दल और गरम दल—में विभाजित हो गई थी?",
+    "section": "General Knowledge Including Current Affairs",
+    "solution": "<b>Solution (EN):</b> The Indian National Congress split into Moderates and Extremists during its Surat Session in 1907. This event is historically known as the 'Surat Split'.<br><b>Solution (HI):</b> 1907 में अपने सूरत अधिवेशन के दौरान भारतीय राष्ट्रीय कांग्रेस नरम दल और गरम दल में विभाजित हो गई। इस घटना को ऐतिहासिक रूप से 'सूरत विभाजन' के रूप में जाना जाता है।<br><b>Short Trick:</b> Surat Split (सूरत विभाजन) = 1907.",
+    "topic": "Modern History"
+  },
+  {
+    "ans": 3,
+    "difficulty": "Easy",
+    "op_en": [
+      "Uttarakhand",
+      "Himachal Pradesh",
+      "Jammu and Kashmir",
+      "Sikkim"
+    ],
+    "op_hi": [
+      "उत्तराखंड",
+      "हिमाचल प्रदेश",
+      "जम्मू और कश्मीर",
+      "सिक्किम"
+    ],
+    "q_en": "Wular Lake, one of the largest freshwater lakes in Asia, is located in which state/union territory of India?",
+    "q_hi": "एशिया की सबसे बड़ी मीठे पानी की झीलों में से एक, वुलर झील, भारत के किस राज्य/केंद्र शासित प्रदेश में स्थित है?",
+    "section": "General Knowledge Including Current Affairs",
+    "solution": "<b>Solution (EN):</b> Wular Lake is located in the Bandipora district of Jammu and Kashmir. It is one of the largest freshwater lakes in Asia, fed by the Jhelum River.<br><b>Solution (HI):</b> वुलर झील जम्मू और कश्मीर के बांदीपोरा जिले में स्थित है। यह एशिया की सबसे बड़ी मीठे पानी की झीलों में से एक है, जिसमें झेलम नदी का पानी आता है।<br><b>Short Trick:</b> Wular Lake = Freshwater = Jammu & Kashmir.",
+    "topic": "Indian Geography"
+  },
+  {
+    "ans": 2,
+    "difficulty": "Easy",
+    "op_en": [
+      "Tropical Evergreen Forests",
+      "Mangrove Forests",
+      "Alpine Forests",
+      "Tropical Deciduous Forests"
+    ],
+    "op_hi": [
+      "उष्णकटिबंधीय सदाबहार वन",
+      "मैंग्रोव वन",
+      "अल्पाइन वन",
+      "उष्णकटिबंधीय पर्णपाती वन"
+    ],
+    "q_en": "The 'Sundari' trees, after which the Sundarbans region is named, belong to which type of vegetation?",
+    "q_hi": "सुंदरी के पेड़ (Sundari trees), जिनके नाम पर सुंदरबन क्षेत्र का नाम रखा गया है, किस प्रकार की वनस्पति से संबंधित हैं?",
+    "section": "General Knowledge Including Current Affairs",
+    "solution": "<b>Solution (EN):</b> The Sundari tree (Heritiera fomes) is a dominant mangrove tree species of the Sundarbans. Mangrove forests thrive in coastal saline or brackish water.<br><b>Solution (HI):</b> सुंदरी का पेड़ (Heritiera fomes) सुंदरबन की एक प्रमुख मैंग्रोव वृक्ष प्रजाति है। मैंग्रोव वन तटीय खारे पानी या दलदली क्षेत्रों में पनपते हैं।<br><b>Short Trick:</b> Sundarbans = Sundari Trees = Mangrove Forests.",
+    "topic": "Vegetation"
+  },
+  {
+    "ans": 3,
+    "difficulty": "Easy",
+    "op_en": [
+      "Statutory Liquidity Ratio (SLR)",
+      "Bank Rate",
+      "Cash Reserve Ratio (CRR)",
+      "Repo Rate"
+    ],
+    "op_hi": [
+      "वैधानिक तरलता अनुपात (SLR)",
+      "बैंक दर (Bank Rate)",
+      "नकद आरक्षित अनुपात (CRR)",
+      "रेपो दर (Repo Rate)"
+    ],
+    "q_en": "The minimum percentage of total deposits that a commercial bank is required to keep as cash reserves with the RBI is known as:",
+    "q_hi": "कुल जमा राशि का वह न्यूनतम प्रतिशत जिसे एक वाणिज्यिक बैंक को नकद भंडार के रूप में RBI के पास रखना अनिवार्य होता है, क्या कहलाता है?",
+    "section": "General Knowledge Including Current Affairs",
+    "solution": "<b>Solution (EN):</b> Cash Reserve Ratio (CRR) is the specified minimum fraction of the total deposits of customers, which commercial banks have to hold as reserves either in cash or as deposits with the central bank (RBI).<br><b>Solution (HI):</b> नकद आरक्षित अनुपात (CRR) ग्राहकों की कुल जमा राशि का वह निर्दिष्ट न्यूनतम हिस्सा है, जिसे वाणिज्यिक बैंकों को नकद के रूप में या केंद्रीय बैंक (RBI) के पास जमा के रूप में आरक्षित रखना होता है।<br><b>Short Trick:</b> Cash kept with RBI = CRR.",
+    "topic": "Economics - Banking"
+  },
+  {
+    "ans": 3,
+    "difficulty": "Medium",
+    "op_en": [
+      "Bengaluru",
+      "Hyderabad",
+      "New Delhi",
+      "Pune"
+    ],
+    "op_hi": [
+      "बेंगलुरु",
+      "हैदराबाद",
+      "नई दिल्ली",
+      "पुणे"
+    ],
+    "q_en": "Where is the Indian Defence Conclave (IDC) 2026, focusing on future defense technologies like AI and cybersecurity, scheduled to be held?",
+    "q_hi": "AI और साइबर सुरक्षा जैसी भविष्य की रक्षा प्रौद्योगिकियों पर केंद्रित 'इंडियन डिफेंस कॉन्क्लेव (IDC) 2026' कहाँ आयोजित होने वाला है?",
+    "section": "General Knowledge Including Current Affairs",
+    "solution": "<b>Solution (EN):</b> The Indian Defence Conclave (IDC) 2026, aimed at exploring cutting-edge advancements like AI, cybersecurity, and autonomous systems in defense, is scheduled to be held in New Delhi in late 2026.<br><b>Solution (HI):</b> रक्षा में AI, साइबर सुरक्षा और स्वायत्त प्रणालियों जैसी अत्याधुनिक प्रगति की खोज के उद्देश्य से भारतीय रक्षा कॉन्क्लेव (IDC) 2026 नई दिल्ली में आयोजित होने वाला है।<br><b>Short Trick:</b> Indian Defence Conclave 2026 = New Delhi.",
+    "topic": "Current Affairs - Defense"
+  },
+  {
+    "ans": 2,
+    "difficulty": "Easy",
+    "op_en": [
+      "Le Corbusier",
+      "Sir Edwin Lutyens",
+      "FW Stevens",
+      "Laurie Baker"
+    ],
+    "op_hi": [
+      "ले कोर्बुसिएर",
+      "सर एडविन लुटियंस",
+      "एफडब्ल्यू स्टीवंस",
+      "लॉरी बेकर"
+    ],
+    "q_en": "Who among the following was the chief British architect responsible for designing the city of New Delhi?",
+    "q_hi": "निम्नलिखित में से कौन नई दिल्ली शहर को डिजाइन करने के लिए जिम्मेदार मुख्य ब्रिटिश वास्तुकार था?",
+    "section": "General Knowledge Including Current Affairs",
+    "solution": "<b>Solution (EN):</b> Sir Edwin Lutyens, along with Herbert Baker, was the principal architect who designed New Delhi, including the Rashtrapati Bhavan and India Gate.<br><b>Solution (HI):</b> सर एडविन लुटियंस, हर्बर्ट बेकर के साथ, प्रमुख वास्तुकार थे जिन्होंने राष्ट्रपति भवन और इंडिया गेट सहित नई दिल्ली का डिजाइन तैयार किया था।<br><b>Short Trick:</b> Lutyens' Delhi = Sir Edwin Lutyens.",
+    "topic": "Static GK - Architecture"
+  },
+  {
+    "ans": 3,
+    "difficulty": "Medium",
+    "op_en": [
+      "Jainism",
+      "Buddhism",
+      "Bahá'í Faith",
+      "Zoroastrianism"
+    ],
+    "op_hi": [
+      "जैन धर्म",
+      "बौद्ध धर्म",
+      "बहाई धर्म (Bahá'í Faith)",
+      "पारसी धर्म"
+    ],
+    "q_en": "The famous Lotus Temple in New Delhi is a prominent House of Worship for which religion?",
+    "q_hi": "नई दिल्ली में स्थित प्रसिद्ध 'लोटस टेम्पल' (Lotus Temple) किस धर्म का एक प्रमुख उपासना स्थल है?",
+    "section": "General Knowledge Including Current Affairs",
+    "solution": "<b>Solution (EN):</b> The Lotus Temple, notable for its flowerlike shape, is a Bahá'í House of Worship. It is open to all, regardless of religion or any other qualification.<br><b>Solution (HI):</b> लोटस टेम्पल, जो अपने फूल के आकार के लिए जाना जाता है, एक बहाई उपासना स्थल है। यह धर्म या किसी अन्य योग्यता की परवाह किए बिना सभी के लिए खुला है।<br><b>Short Trick:</b> Lotus Temple = Bahá'í Faith.",
+    "topic": "Static GK - Architecture"
+  },
+  {
+    "ans": 3,
+    "difficulty": "Medium",
+    "op_en": [
+      "Abdul Hamid Lahori",
+      "Gulbadan Begum",
+      "Abu'l-Fazl",
+      "Ziauddin Barani"
+    ],
+    "op_hi": [
+      "अब्दुल हमीद लाहौरी",
+      "गुलबदन बेगम",
+      "अबुल फजल (Abu'l-Fazl)",
+      "ज़ियाउद्दीन बरनी"
+    ],
+    "q_en": "Who authored the 'Ain-i-Akbari', a detailed document recording the administration of the Mughal Empire under Emperor Akbar?",
+    "q_hi": "सम्राट अकबर के अधीन मुगल साम्राज्य के प्रशासन को दर्ज करने वाले विस्तृत दस्तावेज़ 'आइन-ए-अकबरी' (Ain-i-Akbari) के लेखक कौन थे?",
+    "section": "General Knowledge Including Current Affairs",
+    "solution": "<b>Solution (EN):</b> Ain-i-Akbari is a 16th-century detailed document recording the administration of the Mughal Empire under Emperor Akbar, written by his court historian, Abu'l-Fazl.<br><b>Solution (HI):</b> आइन-ए-अकबरी 16वीं सदी का एक विस्तृत दस्तावेज़ है जो सम्राट अकबर के अधीन मुगल साम्राज्य के प्रशासन को दर्ज करता है। इसे उनके दरबारी इतिहासकार अबुल फजल ने लिखा था।<br><b>Short Trick:</b> Akbar's administration = Ain-i-Akbari = Abu'l-Fazl.",
+    "topic": "Medieval History"
+  },
+  {
+    "ans": 3,
+    "difficulty": "Medium",
+    "op_en": [
+      "Singapore",
+      "Japan",
+      "Taiwan",
+      "South Korea"
+    ],
+    "op_hi": [
+      "सिंगापुर",
+      "जापान",
+      "ताइवान",
+      "दक्षिण कोरिया"
+    ],
+    "q_en": "In May 2026, CTBC Bank officially became the first bank from which country to inaugurate a physical branch at GIFT City, Gujarat?",
+    "q_hi": "मई 2026 में, CTBC बैंक गुजरात के गिफ्ट (GIFT) सिटी में भौतिक शाखा का उद्घाटन करने वाला किस देश का पहला बैंक बन गया?",
+    "section": "General Knowledge Including Current Affairs",
+    "solution": "<b>Solution (EN):</b> On May 13, 2026, CTBC Bank became the first Taiwanese bank to inaugurate a branch at GIFT City, Gujarat, marking it as the only bank from Taiwan with a physical branch in India.<br><b>Solution (HI):</b> 13 मई 2026 को, CTBC बैंक गुजरात के गिफ्ट सिटी में शाखा का उद्घाटन करने वाला पहला ताइवानी बैंक बन गया। यह भारत में भौतिक शाखा वाला ताइवान का एकमात्र बैंक है।<br><b>Short Trick:</b> CTBC Bank in GIFT City = Taiwan.",
+    "topic": "Current Affairs - Banking & Fintech"
+  },
+  {
+    "ans": 2,
+    "difficulty": "Easy",
+    "op_en": [
+      "1917",
+      "1919",
+      "1921",
+      "1922"
+    ],
+    "op_hi": [
+      "1917",
+      "1919",
+      "1921",
+      "1922"
+    ],
+    "q_en": "The tragic Jallianwala Bagh massacre took place in Amritsar on 13th April of which year?",
+    "q_hi": "अमृतसर में दुखद जलियांवाला बाग हत्याकांड 13 अप्रैल को किस वर्ष हुआ था?",
+    "section": "General Knowledge Including Current Affairs",
+    "solution": "<b>Solution (EN):</b> The Jallianwala Bagh massacre occurred on Baisakhi day, April 13, 1919, when British troops fired on a large crowd of unarmed Indians in Amritsar.<br><b>Solution (HI):</b> जलियांवाला बाग हत्याकांड बैसाखी के दिन, 13 अप्रैल 1919 को हुआ था, जब ब्रिटिश सैनिकों ने अमृतसर में निहत्थे भारतीयों की एक बड़ी भीड़ पर गोलियां चलाई थीं।<br><b>Short Trick:</b> Jallianwala Bagh = 13 April 1919.",
+    "topic": "Modern History"
+  },
+  {
+    "ans": 3,
+    "difficulty": "Medium",
+    "op_en": [
+      "Cash crops",
+      "Plantation crops",
+      "Zaid crops",
+      "Food crops"
+    ],
+    "op_hi": [
+      "नकदी फसलें",
+      "बागानी फसलें",
+      "ज़ायद फसलें (Zaid crops)",
+      "खाद्य फसलें"
+    ],
+    "q_en": "Crops like watermelon, muskmelon, and cucumber, which are grown in the short summer season between Rabi and Kharif, are known as:",
+    "q_hi": "रबी और खरीफ के बीच छोटे गर्मी के मौसम में उगाई जाने वाली तरबूज, खरबूजा और ककड़ी जैसी फसलों को क्या कहा जाता है?",
+    "section": "General Knowledge Including Current Affairs",
+    "solution": "<b>Solution (EN):</b> Zaid crops are summer season crops grown mainly from March to June between the Rabi and Kharif crop seasons. Examples include watermelon, muskmelon, cucumber, and bitter gourd.<br><b>Solution (HI):</b> ज़ायद फसलें गर्मी के मौसम की फसलें हैं जो मुख्य रूप से मार्च से जून तक रबी और खरीफ फसल के मौसम के बीच उगाई जाती हैं। उदाहरणों में तरबूज, खरबूजा, ककड़ी और करेला शामिल हैं।<br><b>Short Trick:</b> Summer short season = Zaid (watermelon, cucumber).",
+    "topic": "Geography - Agriculture"
+  }
+]
