@@ -1,0 +1,317 @@
+[
+  {
+    "ans": 3,
+    "difficulty": "Medium",
+    "op_en": [
+      "12 days",
+      "15 days",
+      "16 days",
+      "18 days"
+    ],
+    "op_hi": [
+      "12 दिन",
+      "15 दिन",
+      "16 दिन",
+      "18 दिन"
+    ],
+    "q_en": "A can do a piece of work in 20 days. B is 25% more efficient than A. How many days will B take to complete the same work?",
+    "q_hi": "A एक कार्य को 20 दिनों में पूरा कर सकता है। B, A से 25% अधिक कुशल है। B को उसी कार्य को पूरा करने में कितने दिन लगेंगे?",
+    "section": "Arithmetic",
+    "solution": "<b>Solution (EN):</b> Ratio of efficiency of A and B = 100 : 125 = 4 : 5. Time taken is inversely proportional to efficiency. Ratio of time taken by A and B = 5 : 4. Since 5 units = 20 days, 1 unit = 4 days. Time taken by B = 4 units = 16 days.<br><b>Solution (HI):</b> A और B की कार्यक्षमता का अनुपात = 100 : 125 = 4 : 5. लिया गया समय कार्यक्षमता के व्युत्क्रमानुपाती होता है। समय का अनुपात = 5 : 4. क्योंकि 5 इकाई = 20 दिन, तो 1 इकाई = 4 दिन। B द्वारा लिया गया समय = 4 &times; 4 = 16 दिन।<br><b>Short Trick:</b> Time = (100 / 125) &times; 20 = (4/5) &times; 20 = 16 days.",
+    "topic": "Time and Work"
+  },
+  {
+    "ans": 2,
+    "difficulty": "Medium",
+    "op_en": [
+      "10%",
+      "12%",
+      "15%",
+      "20%"
+    ],
+    "op_hi": [
+      "10%",
+      "12%",
+      "15%",
+      "20%"
+    ],
+    "q_en": "A shopkeeper marks his goods 40% above the cost price and allows a discount of 20%. Find his profit percentage.",
+    "q_hi": "एक दुकानदार अपनी वस्तुओं का मूल्य क्रय मूल्य से 40% अधिक अंकित करता है और 20% की छूट देता है। उसका लाभ प्रतिशत ज्ञात कीजिए।",
+    "section": "Arithmetic",
+    "solution": "<b>Solution (EN):</b> Let Cost Price (CP) = 100. Marked Price (MP) = 140. Discount = 20% on MP = 20% of 140 = 28. Selling Price (SP) = 140 - 28 = 112. Profit = SP - CP = 112 - 100 = 12%.<br><b>Solution (HI):</b> माना क्रय मूल्य (CP) = 100. अंकित मूल्य (MP) = 140. छूट = MP पर 20% = 140 का 20% = 28. विक्रय मूल्य (SP) = 140 - 28 = 112. लाभ = 112 - 100 = 12%.<br><b>Short Trick:</b> Effective % formula: x + y + (xy/100) = 40 - 20 - (40 &times; 20 / 100) = 20 - 8 = 12%.",
+    "topic": "Profit and Loss"
+  },
+  {
+    "ans": 3,
+    "difficulty": "High",
+    "op_en": [
+      "Rs 4000",
+      "Rs 4500",
+      "Rs 5000",
+      "Rs 5500"
+    ],
+    "op_hi": [
+      "4000 रुपये",
+      "4500 रुपये",
+      "5000 रुपये",
+      "5500 रुपये"
+    ],
+    "q_en": "The difference between the Compound Interest and Simple Interest on a certain sum of money at 10% per annum for 2 years is Rs 50. Find the sum.",
+    "q_hi": "10% प्रति वर्ष की दर से 2 वर्ष के लिए एक निश्चित राशि पर चक्रवृद्धि ब्याज और साधारण ब्याज के बीच का अंतर 50 रुपये है। वह राशि ज्ञात कीजिए।",
+    "section": "Arithmetic",
+    "solution": "<b>Solution (EN):</b> For 2 years, Difference (D) = P &times; (R/100)<sup>2</sup>. 50 = P &times; (10/100)<sup>2</sup>. 50 = P &times; (1/100). P = 50 &times; 100 = Rs 5000.<br><b>Solution (HI):</b> 2 वर्षों के लिए अंतर का सूत्र: D = P &times; (R/100)<sup>2</sup>. 50 = P &times; (10/100)<sup>2</sup>. 50 = P &times; (1/100). मूलधन (P) = 5000 रुपये।<br><b>Short Trick:</b> Difference = P(R/100)<sup>2</sup>. Substitute values to get P = 5000 instantly.",
+    "topic": "Simple and Compound Interest"
+  },
+  {
+    "ans": 3,
+    "difficulty": "Medium",
+    "op_en": [
+      "24",
+      "32",
+      "40",
+      "48"
+    ],
+    "op_hi": [
+      "24",
+      "32",
+      "40",
+      "48"
+    ],
+    "q_en": "The ratio of two numbers is 3:5. If 8 is added to both the numbers, the new ratio becomes 2:3. Find the larger number.",
+    "q_hi": "दो संख्याओं का अनुपात 3:5 है। यदि दोनों संख्याओं में 8 जोड़ दिया जाए, तो नया अनुपात 2:3 हो जाता है। बड़ी संख्या ज्ञात कीजिए।",
+    "section": "Arithmetic",
+    "solution": "<b>Solution (EN):</b> Let the numbers be 3x and 5x. According to question, (3x + 8) / (5x + 8) = 2/3. Cross-multiplying: 9x + 24 = 10x + 16. x = 8. The larger number = 5x = 5 &times; 8 = 40.<br><b>Solution (HI):</b> माना संख्याएँ 3x और 5x हैं। प्रश्नानुसार, (3x + 8) / (5x + 8) = 2/3. तिरछा गुणा करने पर: 9x + 24 = 10x + 16. अतः x = 8. बड़ी संख्या = 5x = 5 &times; 8 = 40.<br><b>Short Trick:</b> Make the gap between ratio equal. Initial ratio 3:5 (gap 2), Final ratio 2:3 (gap 1). Multiply final ratio by 2 -> 4:6. Now, 3 to 4 is +1 unit. 1 unit = 8. Larger number = 5 units = 40.",
+    "topic": "Ratio and Proportion"
+  },
+  {
+    "ans": 2,
+    "difficulty": "High",
+    "op_en": [
+      "20 seconds",
+      "25 seconds",
+      "30 seconds",
+      "15 seconds"
+    ],
+    "op_hi": [
+      "20 सेकंड",
+      "25 सेकंड",
+      "30 सेकंड",
+      "15 सेकंड"
+    ],
+    "q_en": "A train 200 meters long passes a standing pole in 10 seconds. How long will it take to pass a platform which is 300 meters long?",
+    "q_hi": "200 मीटर लंबी एक रेलगाड़ी एक खड़े खंभे को 10 सेकंड में पार करती है। 300 मीटर लंबे प्लेटफॉर्म को पार करने में उसे कितना समय लगेगा?",
+    "section": "Arithmetic",
+    "solution": "<b>Solution (EN):</b> Speed of the train = Length / Time = 200/10 = 20 m/s. To pass a platform, total distance = Train length + Platform length = 200 + 300 = 500 m. Time taken = 500 / 20 = 25 seconds.<br><b>Solution (HI):</b> रेलगाड़ी की चाल = 200/10 = 20 मीटर/सेकंड। प्लेटफॉर्म को पार करने में कुल दूरी = रेलगाड़ी की लंबाई + प्लेटफॉर्म की लंबाई = 200 + 300 = 500 मीटर। लिया गया समय = 500 / 20 = 25 सेकंड।<br><b>Short Trick:</b> Train covers 200m in 10s. For platform, it must cover 500m. 200m -> 10s. 500m -> (10/200) &times; 500 = 25s.",
+    "topic": "Trains"
+  },
+  {
+    "ans": 2,
+    "difficulty": "Medium",
+    "op_en": [
+      "45 years",
+      "46 years",
+      "48 years",
+      "50 years"
+    ],
+    "op_hi": [
+      "45 वर्ष",
+      "46 वर्ष",
+      "48 वर्ष",
+      "50 वर्ष"
+    ],
+    "q_en": "The average age of 30 students in a class is 15 years. If the teacher's age is also included, the average age increases by 1 year. Find the age of the teacher.",
+    "q_hi": "एक कक्षा में 30 छात्रों की औसत आयु 15 वर्ष है। यदि शिक्षक की आयु भी शामिल कर ली जाए, तो औसत आयु 1 वर्ष बढ़ जाती है। शिक्षक की आयु ज्ञात कीजिए।",
+    "section": "Arithmetic",
+    "solution": "<b>Solution (EN):</b> Sum of ages of 30 students = 30 &times; 15 = 450. New average of 31 people = 16. Sum of ages = 31 &times; 16 = 496. Teacher's age = 496 - 450 = 46 years.<br><b>Solution (HI):</b> 30 छात्रों की आयु का योग = 30 &times; 15 = 450. 31 लोगों का नया औसत = 16. कुल आयु = 31 &times; 16 = 496. शिक्षक की आयु = 496 - 450 = 46 वर्ष।<br><b>Short Trick:</b> Teacher's Age = Old Average + Total Members (New) &times; Increase in Average = 15 + (31 &times; 1) = 46.",
+    "topic": "Average"
+  },
+  {
+    "ans": 3,
+    "difficulty": "High",
+    "op_en": [
+      "20 liters",
+      "30 liters",
+      "40 liters",
+      "50 liters"
+    ],
+    "op_hi": [
+      "20 लीटर",
+      "30 लीटर",
+      "40 लीटर",
+      "50 लीटर"
+    ],
+    "q_en": "A mixture contains milk and water in the ratio of 4:1. If 10 liters of water is added to the mixture, the ratio becomes 2:1. Find the initial quantity of milk in the mixture.",
+    "q_hi": "एक मिश्रण में दूध और पानी का अनुपात 4:1 है। यदि मिश्रण में 10 लीटर पानी मिला दिया जाए, तो अनुपात 2:1 हो जाता है। मिश्रण में दूध की प्रारंभिक मात्रा ज्ञात कीजिए।",
+    "section": "Arithmetic",
+    "solution": "<b>Solution (EN):</b> Let initial milk be 4x and water be x. When 10 liters of water is added, the new ratio is 4x / (x + 10) = 2/1. Solving this, 4x = 2x + 20 => 2x = 20 => x = 10. Initial milk = 4x = 40 liters.<br><b>Solution (HI):</b> माना शुरू में दूध 4x और पानी x है। 10 लीटर पानी मिलाने पर, नया अनुपात 4x / (x + 10) = 2/1. हल करने पर, 4x = 2x + 20 => 2x = 20 => x = 10. प्रारंभिक दूध = 4x = 40 लीटर।<br><b>Short Trick:</b> Since only water is added, make Milk quantity same in both ratios. Initial (4:1). Final (2:1) becomes (4:2). Water increased by 1 unit. 1 unit = 10 liters. Milk = 4 units = 40 liters.",
+    "topic": "Mixture and Alligation"
+  },
+  {
+    "ans": 2,
+    "difficulty": "Medium",
+    "op_en": [
+      "3000",
+      "3600",
+      "4000",
+      "5400"
+    ],
+    "op_hi": [
+      "3000",
+      "3600",
+      "4000",
+      "5400"
+    ],
+    "q_en": "In an election between two candidates, the winner gets 60% of the total valid votes. If the total votes cast were 10,000 and 10% of them were invalid, find the number of valid votes the losing candidate got.",
+    "q_hi": "दो उम्मीदवारों के बीच एक चुनाव में, विजेता को कुल वैध मतों का 60% प्राप्त होता है। यदि कुल 10,000 मत पड़े और उनमें से 10% मत अवैध घोषित किए गए, तो हारने वाले उम्मीदवार को कितने वैध मत मिले?",
+    "section": "Arithmetic",
+    "solution": "<b>Solution (EN):</b> Total votes = 10,000. Valid votes = 90% of 10,000 = 9000. Winner gets 60% of valid votes. Loser gets 40% of valid votes. Loser's votes = 40% of 9000 = 3600.<br><b>Solution (HI):</b> कुल मत = 10,000. वैध मत = 10,000 का 90% = 9000. विजेता को 60% मत मिले, तो हारने वाले को 40% मिलेंगे। हारने वाले के मत = 9000 का 40% = 3600.<br><b>Short Trick:</b> 10000 &times; (90/100) &times; (40/100) = 3600.",
+    "topic": "Percentage"
+  },
+  {
+    "ans": 3,
+    "difficulty": "Medium",
+    "op_en": [
+      "45 hours",
+      "50 hours",
+      "60 hours",
+      "75 hours"
+    ],
+    "op_hi": [
+      "45 घंटे",
+      "50 घंटे",
+      "60 घंटे",
+      "75 घंटे"
+    ],
+    "q_en": "Pipe A can fill a tank in 12 hours and Pipe B can empty the full tank in 15 hours. If both the pipes are opened simultaneously, in how much time will the empty tank be completely filled?",
+    "q_hi": "पाइप A एक खाली टंकी को 12 घंटे में भर सकता है और पाइप B भरी हुई टंकी को 15 घंटे में खाली कर सकता है। यदि दोनों पाइपों को एक साथ खोल दिया जाए, तो खाली टंकी को पूरी तरह भरने में कितना समय लगेगा?",
+    "section": "Arithmetic",
+    "solution": "<b>Solution (EN):</b> Let total capacity of tank = LCM(12, 15) = 60 units. Efficiency of A = +5 units/hr. Efficiency of B = -4 units/hr. Net efficiency = 5 - 4 = +1 unit/hr. Time taken = 60 / 1 = 60 hours.<br><b>Solution (HI):</b> माना टंकी की कुल क्षमता = LCM(12, 15) = 60 यूनिट। A की कार्यक्षमता = +5 यूनिट/घंटा। B की कार्यक्षमता = -4 यूनिट/घंटा। कुल कार्यक्षमता = 5 - 4 = +1 यूनिट/घंटा। समय = 60 / 1 = 60 घंटे।<br><b>Short Trick:</b> Formula for filling and emptying: (xy) / (y - x) = (12 &times; 15) / (15 - 12) = 180 / 3 = 60 hours.",
+    "topic": "Pipes and Cisterns"
+  },
+  {
+    "ans": 2,
+    "difficulty": "High",
+    "op_en": [
+      "8 years",
+      "12 years",
+      "16 years",
+      "24 years"
+    ],
+    "op_hi": [
+      "8 वर्ष",
+      "12 वर्ष",
+      "16 वर्ष",
+      "24 वर्ष"
+    ],
+    "q_en": "A sum of money doubles itself in 4 years at compound interest. In how many years will it become 8 times of itself at the same rate of interest?",
+    "q_hi": "एक धनराशि चक्रवृद्धि ब्याज पर 4 वर्षों में स्वयं की दुगनी हो जाती है। समान ब्याज दर पर यह कितने वर्षों में स्वयं की 8 गुनी हो जाएगी?",
+    "section": "Arithmetic",
+    "solution": "<b>Solution (EN):</b> At compound interest, a sum becomes x times in T years. It will become x<sup>n</sup> times in n &times; T years. Here, it becomes 2<sup>1</sup> times in 4 years. To become 8 times (which is 2<sup>3</sup>), time taken = 3 &times; 4 = 12 years.<br><b>Solution (HI):</b> चक्रवृद्धि ब्याज में, धनराशि x गुना होने में T वर्ष लेती है, तो x<sup>n</sup> गुना होने में n &times; T वर्ष लेगी। दुगनी (2<sup>1</sup>) होती है 4 वर्ष में। 8 गुना (2<sup>3</sup>) होने में लगा समय = 3 &times; 4 = 12 वर्ष।<br><b>Short Trick:</b> Base 2, power required is 3 (for 8 times). Multiply power by initial time: 3 &times; 4 = 12 years.",
+    "topic": "Compound Interest"
+  },
+  {
+    "ans": 2,
+    "difficulty": "Medium",
+    "op_en": [
+      "60 years",
+      "70 years",
+      "80 years",
+      "50 years"
+    ],
+    "op_hi": [
+      "60 वर्ष",
+      "70 वर्ष",
+      "80 वर्ष",
+      "50 वर्ष"
+    ],
+    "q_en": "10 years ago, the ratio of the ages of A and B was 3:2. After 10 years from now, their age ratio will become 4:3. Find the present age of A.",
+    "q_hi": "10 वर्ष पूर्व, A और B की आयु का अनुपात 3:2 था। अब से 10 वर्ष बाद, उनकी आयु का अनुपात 4:3 होगा। A की वर्तमान आयु ज्ञात कीजिए।",
+    "section": "Arithmetic",
+    "solution": "<b>Solution (EN):</b> Let ages 10 years ago be 3x and 2x. Ages 10 years from now will be (3x + 20) and (2x + 20). Ratio: (3x + 20)/(2x + 20) = 4/3. Solving, 9x + 60 = 8x + 80 => x = 20. Present age of A = 3x + 10 = 3(20) + 10 = 70 years.<br><b>Solution (HI):</b> माना 10 वर्ष पहले आयु 3x और 2x थी। 10 वर्ष बाद की आयु (3x+20) और (2x+20) होगी। अनुपात: (3x + 20)/(2x + 20) = 4/3. 9x + 60 = 8x + 80 => x = 20. A की वर्तमान आयु = 3x + 10 = 70 वर्ष।<br><b>Short Trick:</b> Gap between past and future is 20 years. Ratio change is 1 unit (3->4 and 2->3). 1 unit = 20 years. Past age of A = 3 &times; 20 = 60. Present = 60 + 10 = 70 years.",
+    "topic": "Age Problems"
+  },
+  {
+    "ans": 1,
+    "difficulty": "High",
+    "op_en": [
+      "2 km/hr",
+      "3 km/hr",
+      "4 km/hr",
+      "5 km/hr"
+    ],
+    "op_hi": [
+      "2 किमी/घंटा",
+      "3 किमी/घंटा",
+      "4 किमी/घंटा",
+      "5 किमी/घंटा"
+    ],
+    "q_en": "A boat can travel 24 km upstream and 36 km downstream in 6 hours. It can also travel 36 km upstream and 24 km downstream in 6.5 hours. Find the speed of the stream.",
+    "q_hi": "एक नाव 6 घंटे में 24 किमी धारा के प्रतिकूल और 36 किमी धारा के अनुकूल जा सकती है। यह 6.5 घंटे में 36 किमी धारा के प्रतिकूल और 24 किमी धारा के अनुकूल भी जा सकती है। धारा की चाल ज्ञात कीजिए।",
+    "section": "Arithmetic",
+    "solution": "<b>Solution (EN):</b> Let upstream speed be U and downstream be D. 24/U + 36/D = 6; 36/U + 24/D = 6.5. By solving these equations or hit-and-trial, D = 12 km/hr and U = 8 km/hr satisfy both. Speed of stream = (D - U)/2 = (12 - 8)/2 = 2 km/hr.<br><b>Solution (HI):</b> माना प्रतिकूल चाल U और अनुकूल चाल D है। समीकरण: 24/U + 36/D = 6 और 36/U + 24/D = 6.5. हल करने पर D = 12 और U = 8 प्राप्त होता है। धारा की चाल = (D - U)/2 = 4/2 = 2 किमी/घंटा।<br><b>Short Trick:</b> Guess common factors for 24 and 36. Try D=12, U=8. First case: 24/8 + 36/12 = 3 + 3 = 6 (Satisfied). Stream speed = (12-8)/2 = 2.",
+    "topic": "Boat and Stream"
+  },
+  {
+    "ans": 2,
+    "difficulty": "Medium",
+    "op_en": [
+      "3/2",
+      "2",
+      "4",
+      "3"
+    ],
+    "op_hi": [
+      "3/2",
+      "2",
+      "4",
+      "3"
+    ],
+    "q_en": "If the sum of a number and its reciprocal is 5/2, find the number.",
+    "q_hi": "यदि किसी संख्या और उसके व्युत्क्रम का योग 5/2 है, तो वह संख्या ज्ञात कीजिए।",
+    "section": "Arithmetic",
+    "solution": "<b>Solution (EN):</b> Let the number be x. According to question, x + 1/x = 5/2. Solving the quadratic equation x<sup>2</sup> - 2.5x + 1 = 0, we get x = 2 or 1/2. Among the options, 2 is correct.<br><b>Solution (HI):</b> माना संख्या x है। प्रश्नानुसार, x + 1/x = 5/2. इसे हल करने पर x = 2 या 1/2 प्राप्त होता है। दिए गए विकल्पों में 2 सही है।<br><b>Short Trick:</b> Check options. Option 2 gives 2 + 1/2 = 5/2. Matches perfectly.",
+    "topic": "Simplification"
+  },
+  {
+    "ans": 1,
+    "difficulty": "High",
+    "op_en": [
+      "48 km/h",
+      "50 km/h",
+      "52 km/h",
+      "45 km/h"
+    ],
+    "op_hi": [
+      "48 किमी/घंटा",
+      "50 किमी/घंटा",
+      "52 किमी/घंटा",
+      "45 किमी/घंटा"
+    ],
+    "q_en": "A man covers half of his total journey at a speed of 40 km/h and the remaining half at a speed of 60 km/h. What is his average speed for the whole journey?",
+    "q_hi": "एक आदमी अपनी कुल यात्रा का आधा भाग 40 किमी/घंटा की चाल से और शेष आधा भाग 60 किमी/घंटा की चाल से तय करता है। पूरी यात्रा के लिए उसकी औसत चाल क्या है?",
+    "section": "Arithmetic",
+    "solution": "<b>Solution (EN):</b> When distances are equal, Average Speed = (2xy) / (x + y), where x and y are the two speeds. Avg Speed = (2 &times; 40 &times; 60) / (40 + 60) = 4800 / 100 = 48 km/h.<br><b>Solution (HI):</b> जब दूरियां समान हों, तो औसत चाल का सूत्र = (2xy) / (x + y) होता है। औसत चाल = (2 &times; 40 &times; 60) / (40 + 60) = 4800 / 100 = 48 किमी/घंटा।<br><b>Short Trick:</b> Use direct formula 2xy/(x+y). 2 &times; 40 &times; 60 / 100 = 48.",
+    "topic": "Time, Speed and Distance"
+  },
+  {
+    "ans": 2,
+    "difficulty": "High",
+    "op_en": [
+      "Rs 20000",
+      "Rs 24000",
+      "Rs 15000",
+      "Rs 25000"
+    ],
+    "op_hi": [
+      "20000 रुपये",
+      "24000 रुपये",
+      "15000 रुपये",
+      "25000 रुपये"
+    ],
+    "q_en": "A, B, and C start a business by investing Rs 10000, Rs 15000, and Rs 20000 respectively. After 6 months, A invests Rs 5000 more and B withdraws Rs 5000. C keeps his investment untouched. At the end of the year, out of a total profit of Rs 54000, what is C's share?",
+    "q_hi": "A, B और C क्रमशः 10000 रुपये, 15000 रुपये और 20000 रुपये का निवेश करके एक व्यवसाय शुरू करते हैं। 6 महीने बाद, A ने 5000 रुपये और लगाए तथा B ने 5000 रुपये निकाल लिए। वर्ष के अंत में 54000 रुपये के कुल लाभ में से C का हिस्सा क्या है?",
+    "section": "Arithmetic",
+    "solution": "<b>Solution (EN):</b> A's effective investment = 10000 &times; 6 + 15000 &times; 6 = 150,000. B's effective = 15000 &times; 6 + 10000 &times; 6 = 150,000. C's effective = 20000 &times; 12 = 240,000. Ratio = 150 : 150 : 240 = 5 : 5 : 8. Total ratio sum = 18. C's share = (8/18) &times; 54000 = Rs 24000.<br><b>Solution (HI):</b> A का निवेश = (10000 &times; 6) + (15000 &times; 6) = 1,50,000. B का निवेश = (15000 &times; 6) + (10000 &times; 6) = 1,50,000. C का निवेश = 20000 &times; 12 = 2,40,000. लाभ का अनुपात = 150 : 150 : 240 = 5 : 5 : 8. कुल भाग = 18. C का लाभ = (8/18) &times; 54000 = 24000 रुपये।<br><b>Short Trick:</b> Multiply capital by months. Ratio is 15:15:24 -> 5:5:8. Total = 18 units. 18 units = 54k -> 1 unit = 3k. C gets 8 units = 24k.",
+    "topic": "Partnership"
+  }
+]
