@@ -1,0 +1,347 @@
+[
+  {
+    "ans": "1",
+    "direction": "",
+    "level": "Easy",
+    "op_en": [
+      "8%",
+      "11%",
+      "10%",
+      "9%"
+    ],
+    "op_hi": [
+      "8%",
+      "11%",
+      "10%",
+      "9%"
+    ],
+    "passage": "",
+    "q_en": "A quantity is increased by 20% and then decreased by 10%. The overall percentage increment in the quantity is:",
+    "q_hi": "एक मात्रा में 20% की वृद्धि की जाती है और फिर 10% की कमी की जाती है। मात्रा में कुल प्रतिशत वृद्धि है:",
+    "section": "Arithmetic",
+    "solution": "1. Let the initial quantity be 100.\n2. After a 20% increase: 100 + (20% of 100) = 100 + 20 = 120.\n3. Now, decrease this by 10%: 120 - (10% of 120) = 120 - 12 = 108.\n4. Overall increase = Final value - Initial value = 108 - 100 = 8.\n5. Percentage increase = (8 / 100) × 100 = 8%.<br><br>1. माना कि प्रारंभिक मात्रा 100 है।\n2. 20% की वृद्धि के बाद: 100 + (100 का 20%) = 120.\n3. अब इसमें 10% की कमी करें: 120 - (120 का 10%) = 120 - 12 = 108.\n4. कुल वृद्धि = अंतिम मान - प्रारंभिक मान = 108 - 100 = 8.\n5. प्रतिशत वृद्धि = (8 / 100) × 100 = 8%.<br><br><b>Short Trick:</b> Successive % change = a + b + (ab/100) = 20 - 10 + [20 × (-10) / 100] = 10 - 2 = 8%.",
+    "topic": "Percentage"
+  },
+  {
+    "ans": "3",
+    "direction": "",
+    "level": "Medium",
+    "op_en": [
+      "₹18,980.40",
+      "₹18,620.10",
+      "₹19,101.20",
+      "₹19,570.70"
+    ],
+    "op_hi": [
+      "₹18,980.40",
+      "₹18,620.10",
+      "₹19,101.20",
+      "₹19,570.70"
+    ],
+    "passage": "",
+    "q_en": "What amount is to be repaid on a loan of ₹17,000 for one year at 12% per annum compounded half yearly?",
+    "q_hi": "₹17,000 के ऋण पर एक वर्ष के लिए 12% प्रति वर्ष की दर से अर्धवार्षिक रूप से संयोजित होने वाली राशि क्या है?",
+    "section": "Arithmetic",
+    "solution": "1. Principal (P) = ₹17,000.\n2. Annual Rate = 12%. For half-yearly compounding, Rate (R) = 12/2 = 6% per half-year.\n3. Time = 1 year. Number of periods (n) = 2 half-years.\n4. Amount (A) = P(1 + R/100)ⁿ = 17,000(1 + 6/100)².\n5. A = 17,000 × (1.06) × (1.06) = 17,000 × 1.1236 = ₹19,101.20.<br><br>1. मूलधन (P) = ₹17,000.\n2. वार्षिक दर = 12%. अर्धवार्षिक संयोजन के लिए, दर (R) = 12/2 = 6% प्रति अर्धवर्ष।\n3. समय = 1 वर्ष। अवधियों की संख्या (n) = 2 अर्धवर्ष।\n4. मिश्रधन (A) = P(1 + R/100)ⁿ = 17,000(1 + 6/100)².\n5. A = 17,000 × 1.06 × 1.06 = ₹19,101.20.<br><br><b>Short Trick:</b> Effective Rate for 2 cycles of 6% = 6 + 6 + (6×6/100) = 12.36%. Amount = 17000 + 12.36% of 17000 = 17000 + 2101.2 = ₹19,101.20.",
+    "topic": "Compound Interest"
+  },
+  {
+    "ans": "1",
+    "direction": "",
+    "level": "Easy",
+    "op_en": [
+      "8,600",
+      "8,100",
+      "8,900",
+      "8,000"
+    ],
+    "op_hi": [
+      "8,600",
+      "8,100",
+      "8,900",
+      "8,000"
+    ],
+    "passage": "",
+    "q_en": "In an election with only two candidates, the winning candidate secured 62% of the votes and defeated the opponent by 2064 votes. Assuming there were no invalid votes, determine the total number of votes cast.",
+    "q_hi": "केवल दो उम्मीदवारों वाले एक चुनाव में, जीतने वाले उम्मीदवार ने 62% मत प्राप्त किए और प्रतिद्वंद्वी को 2064 मतों से हराया। यह मानते हुए कि कोई भी मत अवैध नहीं था, डाले गए कुल मतों की संख्या निर्धारित करें।",
+    "section": "Arithmetic",
+    "solution": "1. Winner's vote percentage = 62%.\n2. Opponent's vote percentage = 100% - 62% = 38%.\n3. Difference in percentage = 62% - 38% = 24%.\n4. According to the question, this 24% difference corresponds to 2064 votes.\n5. Total votes = (2064 / 24) × 100 = 86 × 100 = 8,600.<br><br>1. विजेता का मत प्रतिशत = 62%.\n2. प्रतिद्वंद्वी का मत प्रतिशत = 100% - 62% = 38%.\n3. प्रतिशत का अंतर = 62% - 38% = 24%.\n4. प्रश्न के अनुसार, यह 24% का अंतर 2064 मतों के बराबर है।\n5. कुल मत = (2064 / 24) × 100 = 8,600.<br><br><b>Short Trick:</b> Diff = 24% ⇒ 2064 votes. 1% ⇒ 86. Total (100%) = 8600.",
+    "topic": "Election Problems"
+  },
+  {
+    "ans": "1",
+    "direction": "",
+    "level": "Medium",
+    "op_en": [
+      "₹28,000",
+      "₹24,000",
+      "₹22,400",
+      "₹26,300"
+    ],
+    "op_hi": [
+      "₹28,000",
+      "₹24,000",
+      "₹22,400",
+      "₹26,300"
+    ],
+    "passage": "",
+    "q_en": "A person spends 40% of his income on goods for daily use, 20% of his income on house rent, 22% of his income on children’s education and 10% of the remaining on travel. Only ₹4,536 is left with him after all the expenses. What is his monthly income?",
+    "q_hi": "एक व्यक्ति अपनी आय का 40% दैनिक उपयोग की वस्तुओं पर, 20% घर के किराए पर, 22% बच्चों की शिक्षा पर और शेष का 10% यात्रा पर खर्च करता है। सभी खर्चों के बाद उसके पास केवल ₹4,536 बचते हैं। उसकी मासिक आय क्या है?",
+    "section": "Arithmetic",
+    "solution": "1. Total percentage spent on goods, rent, and education = 40% + 20% + 22% = 82%.\n2. Remaining income = 100% - 82% = 18%.\n3. Amount spent on travel = 10% of 18% = 1.8%.\n4. Final percentage left = 18% - 1.8% = 16.2%.\n5. Given, 16.2% of Income = ₹4,536.\n6. Total Income = (4536 / 16.2) × 100 = ₹28,000.<br><br>1. वस्तुओं, किराए और शिक्षा पर कुल खर्च = 40% + 20% + 22% = 82%.\n2. शेष आय = 100% - 82% = 18%.\n3. यात्रा पर खर्च = 18% का 10% = 1.8%.\n4. अंतिम शेष प्रतिशत = 18% - 1.8% = 16.2%.\n5. दिया गया है, आय का 16.2% = ₹4,536.\n6. कुल आय = (4536 / 16.2) × 100 = ₹28,000.<br><br><b>Short Trick:</b> Remaining = 18%. After travel (90% of remaining) = 18 × 0.9 = 16.2%. 16.2% ⇒ 4536. 100% ⇒ 28000.",
+    "topic": "Income and Expenditure"
+  },
+  {
+    "ans": "3",
+    "direction": "",
+    "level": "Easy",
+    "op_en": [
+      "1,950",
+      "1,850",
+      "1,750",
+      "1,650"
+    ],
+    "op_hi": [
+      "1,950",
+      "1,850",
+      "1,750",
+      "1,650"
+    ],
+    "passage": "",
+    "q_en": "A sum when invested at the rate of 10% simple interest per annum amounts to ₹10,500 after 2 years. The simple interest (in ₹) for the given time period is:<span style=\"color: white;\">725</span>",
+    "q_hi": "एक राशि जब 10% प्रति वर्ष साधारण ब्याज की दर से निवेश की जाती है, तो 2 वर्ष बाद ₹10,500 हो जाती है। दी गई समयावधि के लिए साधारण ब्याज (₹ में) है:",
+    "section": "Arithmetic",
+    "solution": "1. Rate (R) = 10%, Time (T) = 2 years. Total SI % = R × T = 10% × 2 = 20%.\n2. Amount % = Principal % + SI % = 100% + 20% = 120%.\n3. Given, 120% = ₹10,500.\n4. Principal = (10500 / 120) × 100 = ₹8,750.\n5. Simple Interest = Amount - Principal = 10,500 - 8,750 = ₹1,750.<br><br>1. दर (R) = 10%, समय (T) = 2 वर्ष। कुल ब्याज % = 10% × 2 = 20%.\n2. मिश्रधन % = मूलधन + ब्याज = 100% + 20% = 120%.\n3. दिया गया है, 120% = ₹10,500.\n4. मूलधन = (10500 / 120) × 100 = ₹8,750.\n5. साधारण ब्याज = मिश्रधन - मूलधन = 10,500 - 8,750 = ₹1,750.<br><br><b>Short Trick:</b> 120% = 10500. Interest is 20%. 20% = 10500 / 6 = ₹1,750.",
+    "topic": "Simple Interest"
+  },
+  {
+    "ans": "1",
+    "direction": "",
+    "level": "Easy",
+    "op_en": [
+      "5 : 3",
+      "7 : 5",
+      "3 : 5",
+      "2 : 5"
+    ],
+    "op_hi": [
+      "5 : 3",
+      "7 : 5",
+      "3 : 5",
+      "2 : 5"
+    ],
+    "passage": "",
+    "q_en": "The given pie chart shows the number of cricket matches played by team India at five different cricket stadiums around the world.<br><br><img loading=\"lazy\" src=\"https://blogger.googleusercontent.com/img/a/AVvXsEjupGyk3YXJH7PliqjrepSmBZhfVYyXC7w3-NQNKltFi3aaSbL_FN2eOPBuyropz-0amfUYes8IxwA9LgtTcRhxjcqo9L3A2RtvEhaQVxZK8nELEt7NtD_yVPQFbauCEJH4mn3ZYYN0VK7YosVQK-zK0ozA1p0FJ2h_w8O8znRQ6-uCp7eiqvPD-WDYKWs=rw\" style=\"height: auto; max-width: 100%;\"><br>Find the ratio of the number of matches played by India at Wankhede to Wanderers.",
+    "q_hi": "दिया गया पाई चार्ट दुनिया भर के पांच अलग-अलग क्रिकेट स्टेडियमों में भारत की टीम द्वारा खेले गए क्रिकेट मैचों की संख्या को दर्शाता है। वानखेड़े और वांडरर्स में भारत द्वारा खेले गए मैचों की संख्या का अनुपात ज्ञात कीजिए।<br><br><img loading=\"lazy\" src=\"https://blogger.googleusercontent.com/img/a/AVvXsEjupGyk3YXJH7PliqjrepSmBZhfVYyXC7w3-NQNKltFi3aaSbL_FN2eOPBuyropz-0amfUYes8IxwA9LgtTcRhxjcqo9L3A2RtvEhaQVxZK8nELEt7NtD_yVPQFbauCEJH4mn3ZYYN0VK7YosVQK-zK0ozA1p0FJ2h_w8O8znRQ6-uCp7eiqvPD-WDYKWs=rw\" style=\"height: auto; max-width: 100%;\">",
+    "section": "Arithmetic",
+    "solution": "",
+    "topic": "Data Interpretation"
+  },
+  {
+    "ans": "2",
+    "direction": "",
+    "level": "Medium",
+    "op_en": [
+      "06:44:57",
+      "06:45:27",
+      "06:45:57",
+      "06:46:27"
+    ],
+    "op_hi": [
+      "06:44:57",
+      "06:45:27",
+      "06:45:57",
+      "06:46:27"
+    ],
+    "passage": "",
+    "q_en": "Three signal lights blink every 22 seconds, 36 seconds, and 55 seconds. If they blink together at 06:12:27, when will they blink together next?",
+    "q_hi": "तीन सिग्नल लाइटें प्रत्येक 22 सेकंड, 36 सेकंड और 55 सेकंड में टिमटिमाती हैं। यदि वे 06:12:27 पर एक साथ टिमटिमाती हैं, तो वे अगली बार एक साथ कब टिमटिमाएंगी?",
+    "section": "Arithmetic",
+    "solution": "1. Find the Least Common Multiple (LCM) of 22, 36, and 55 seconds.\n2. Factors: 22 = 2 × 11; 36 = 2² × 3²; 55 = 5 × 11.\n3. LCM = 2² × 3² × 5 × 11 = 4 × 9 × 5 × 11 = 1980 seconds.\n4. Convert seconds to minutes: 1980 / 60 = 33 minutes.\n5. Next blink time = 06:12:27 + 33 minutes = 06:45:27.<br><br>1. 22, 36, और 55 सेकंड का लघुत्तम समापवर्त्य (LCM) ज्ञात करें।\n2. गुणनखंड: 22 = 2 × 11; 36 = 2² × 3²; 55 = 5 × 11.\n3. LCM = 2² × 3² × 5 × 11 = 1980 सेकंड।\n4. सेकंड को मिनट में बदलें: 1980 / 60 = 33 मिनट।\n5. अगला समय = 06:12:27 + 33 मिनट = 06:45:27.<br><br><b>Short Trick:</b> LCM(22, 36, 55) = 1980s = 33 min. Time = 06:12:27 + 33m = 06:45:27.",
+    "topic": "LCM and Time"
+  },
+  {
+    "ans": "1",
+    "direction": "",
+    "level": "Easy",
+    "op_en": [
+      "−6",
+      "−8",
+      "−4",
+      "−10"
+    ],
+    "op_hi": [
+      "−6",
+      "−8",
+      "−4",
+      "−10"
+    ],
+    "passage": "",
+    "q_en": "Evaluate the given expression.<br><br>(−11) + (−90) ÷ (−18)<span style=\"color: white;\">4874</span>",
+    "q_hi": "दिए गए व्यंजक का मान ज्ञात कीजिए।\n\n\n\n\n\n(−11) + (−90) ÷ (−18)",
+    "section": "Arithmetic",
+    "solution": "1. According to the BODMAS rule, division is performed before addition.\n2. Divide: (-90) ÷ (-18) = 5 (Since negative divided by negative is positive).\n3. Add: (-11) + 5 = -6.<br><br>1. BODMAS नियम के अनुसार, जोड़ से पहले भाग किया जाता है।\n2. भाग करें: (-90) ÷ (-18) = 5.\n3. जोड़ें: (-11) + 5 = -6.<br><br><b>Short Trick:</b> -11 + 5 = -6.",
+    "topic": "Simplification"
+  },
+  {
+    "ans": "1",
+    "direction": "",
+    "level": "Medium",
+    "op_en": [
+      "<img align=\"middle\" alt=\"269 over 30\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mfrac»«mn»269«/mn»«mn»30«/mn»«/mfrac»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACMAAAAlCAYAAADIgFBEAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAZpE86XgAAAm9JREFUeNrtmMFnXFEUxp8xYlSFGCNGRZjVmG1ERP+DLKpCdVEVESJmMbKNLiq7qojoolRFF1XdjKqqCBVZRYSIiIgIERGjIlTEiPGEl3P5Pa7jvsnM5E2zeR/f4p537rnn3nveeec8z3NjVHgg9IV/he+EaS8az4RV4ZXwxpIPIr8W1oXLwpzXBvqsxQs4FQgXHLrG8B+ceCscEqZ41s9GfgofCYuMjb3HrTozqU5hFGfqSi8vPBFuCZ847HxkXsGSlZHNe/dAwFHb2MSZvog5F8zTGzCyo04d6cHAL0v2Ctl74YqwIawJK5bODTppx8b8Tp15iYERS7aKbMaKrRNkU+iEsfaihVNuGTvCT0p27biC8LQOVHwc42yaeDSytU4cmRVuCzNK7jucCa+zYckqXJ/PWzWHzkS7jjzFkazj2SFG844rOG9ic4PAbwuD5I+suobwCuZZuGw9LyBbdNgzV/RFeOrYQFMY5TMMa35AxySxfU6hSBL7zbys2tQ0J7nabvb1yAFBBMdU9v1KjBh+V8kvIDP/UPMSJEjwXxE8IBMkSPBgGKE48vkaL0cUXjmKd5/yMh+3IyXhG4qkXmpikx/WHbqbMEPnsGs1drGgrMapiCo/7CTGGT9XHUMs0DsrWn2TjSryEuMs42q3YmeYWnjJ8aymGrfwBC+74ciY9T1Zd9S0rhbmXh3kXRighQmogT1HS6udaXTzNR+OCOB/yFNWi3JXLxVLQLucqarmbqDbAezRkphFvin5a/VqjzOejHNx0wl+5lXN0ZDV+DulT2yPzNtDkO/FnfSWCEKfvwoLTbrDPE6EzX5/q4vcAtCY2iMVsM21AAAAZXRFWHRNYXRoTUwAPG1hdGggeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzE5OTgvTWF0aC9NYXRoTUwiPjxtZnJhYz48bW4+MjY5PC9tbj48bW4+MzA8L21uPjwvbWZyYWM+PC9tYXRoPtxxhXgAAAAASUVORK5CYII=\" style=\"max-width: none;\">",
+      "<img align=\"middle\" alt=\"124 over 23\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mfrac»«mn»124«/mn»«mn»23«/mn»«/mfrac»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACMAAAAlCAYAAADIgFBEAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAZpE86XgAAAXxJREFUeNpjYMAOZIE4DYiXA/E3HGosgfgaEP8C4udA3AHELAz4wSog/s9AIrgExBegGrFpFkSyXAnqKJC6HjxmRuMxjyBgwqM5ES0ULKHqvuAJ6TOUOIaBRM3/8UTpbiDWo5dj2KDqNmGRKwHiDDI8R7ZjwqHqzNHEdYB4KZkhTbZjzgHxTCyhtQOa2OnmmAJo4uRAE+/DElI0dYw11CHCePTiwlR1jDw0lwijlSXXqJQ7UYA4kmZxNDlJIH6Mw8eTqO0YQkF7C48aL1qEzCgYBaOA0tJ2IPAoGAWjYMAAMZ02UMvuKFTNJyCei6PhRREgptOmBcTVUDV80DYxSM1+ajuGmE5bFo5O4Dd6ldjf0CxHBhpQNV20dgi+ThsImEKjcgI9QgVXp40B2uz8j5ReRGntGGydNlwd/cW0dAiuThu2qKJpAsbXaWOgZ24itdMmDXXMUmo7hJhO20Mgng11rCi00/8USweQYkBMpw2UjX9Aq4K70NKZpJwEAOlmwsmjW5LKAAAAZXRFWHRNYXRoTUwAPG1hdGggeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzE5OTgvTWF0aC9NYXRoTUwiPjxtZnJhYz48bW4+MTI0PC9tbj48bW4+MjM8L21uPjwvbWZyYWM+PC9tYXRoPmVP+BkAAAAASUVORK5CYII=\" style=\"max-width: none;\">",
+      "<img align=\"middle\" alt=\"214 over 29\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mfrac»«mn»214«/mn»«mn»29«/mn»«/mfrac»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACMAAAAlCAYAAADIgFBEAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAZpE86XgAAAaRJREFUeNpjYMAOLIH4GhD/AuLnQNwBxCxoamSBOA2IlwPxNwbiwCog/s9AAhBEslwJ6iiQAT1o6i4B8QWoHDEWRJOgFg4S0ULBEmrAFyxqmYi0ABSKZ8hxDDbwH09UEGPBbiDWo4Zj2KAGbCLTMSVAnEGCw/GCcKgB5mQ4RgeIl5IYinjBOSCeSSAK/+MI0R3QDEEVxxRAEx4HGY7pwxKaZDvGGuoQYSIS93884rgw0UAemgOE0cqJa2TmJrJDRhKIH+PwzSQ0teJIcuK0cMwtPEHrRUQ0UNUxo2AUjAJqNBMGCo+CUTAKBgwQ07EDtYPWQHsSoK7NXCAWpbZDiOnYiUMduQGIuYBYA8oHqeWhpmOI6dhNg4opIYllQcUa6VFiI3fsXmMpTSWhYrdo6RBsHbs/UDEWLI7+RUvHYOvYwdJRKAldY6oAbB07WPq4C003LNC0BhLbSyuH4OvY5QHxU2i0gHJVJdQx8bRwCLEdOxg4CsTHaeEQUjp2oCiaD8QPoTmKqoDYjh3IwaChtRvQTr8oLUKFmI4diP0JiNehdfaIBgC/g8vS56o7aQAAAGV0RVh0TWF0aE1MADxtYXRoIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8xOTk4L01hdGgvTWF0aE1MIj48bWZyYWM+PG1uPjIxNDwvbW4+PG1uPjI5PC9tbj48L21mcmFjPjwvbWF0aD6S6LJdAAAAAElFTkSuQmCC\" style=\"max-width: none;\">",
+      "<img align=\"middle\" alt=\"167 over 26\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mfrac»«mn»167«/mn»«mn»26«/mn»«/mfrac»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACMAAAAlCAYAAADIgFBEAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAZpE86XgAAAaNJREFUeNpjYMAOZIE4DYiXA/E3BsLAD4jXAPEnIP6DJK4ExP9x4C4GIsElIL6ApBEXEAXi3VBH1AOxMRAzIcln4XGMFgMJgImAYySB+D4QnwRiaRxqZkIdiAz0gPg4AxkAn2OOQx0jiEe/ChaxSUCcSE3HRCPF+zYg/gHET4E4j4B5bED8HEpTzTE7oOIZQMwCTaj3oWLJeMxLhoYMAzUd8w2LOCy0ruExDxS1OtR2zC8s4mxQsR84zCI74RJyzA2ouCQW9S9xmDWJQBSS7ZhGqHgWlgKuD0fCfUluwgUBcSTHiKPJcQHxFagFGkDMA8RbgPgxEAvTKuGiY/TSdzE0jfyAVh3StEi4o2AUjAJqFHADgUfBKBgFAwYsoU3KX9BGdQe0/Utqx45iIIhkuRLUUaDyoYeMjh3FIBEtFCyhjvlCRseOZiX2NzI6dlQHsJ7AJip07CgG4VCLzanQsaMYnIN26qnRsaMIFADxGSDmoELHjiJgDXWIMJU6dmQDeWj5IYwWDdfI7NiRDSShHTRsDaNJZHbsyAa38LTSvMjs2GEAAG6byEayFesKAAAAZXRFWHRNYXRoTUwAPG1hdGggeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzE5OTgvTWF0aC9NYXRoTUwiPjxtZnJhYz48bW4+MTY3PC9tbj48bW4+MjY8L21uPjwvbWZyYWM+PC9tYXRoPvq5NE8AAAAASUVORK5CYII=\" style=\"max-width: none;\">"
+    ],
+    "op_hi": [
+      "<img align=\"middle\" alt=\"269 over 30\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mfrac»«mn»269«/mn»«mn»30«/mn»«/mfrac»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACMAAAAlCAYAAADIgFBEAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAZpE86XgAAAm9JREFUeNrtmMFnXFEUxp8xYlSFGCNGRZjVmG1ERP+DLKpCdVEVESJmMbKNLiq7qojoolRFF1XdjKqqCBVZRYSIiIgIERGjIlTEiPGEl3P5Pa7jvsnM5E2zeR/f4p537rnn3nveeec8z3NjVHgg9IV/he+EaS8az4RV4ZXwxpIPIr8W1oXLwpzXBvqsxQs4FQgXHLrG8B+ceCscEqZ41s9GfgofCYuMjb3HrTozqU5hFGfqSi8vPBFuCZ847HxkXsGSlZHNe/dAwFHb2MSZvog5F8zTGzCyo04d6cHAL0v2Ctl74YqwIawJK5bODTppx8b8Tp15iYERS7aKbMaKrRNkU+iEsfaihVNuGTvCT0p27biC8LQOVHwc42yaeDSytU4cmRVuCzNK7jucCa+zYckqXJ/PWzWHzkS7jjzFkazj2SFG844rOG9ic4PAbwuD5I+suobwCuZZuGw9LyBbdNgzV/RFeOrYQFMY5TMMa35AxySxfU6hSBL7zbys2tQ0J7nabvb1yAFBBMdU9v1KjBh+V8kvIDP/UPMSJEjwXxE8IBMkSPBgGKE48vkaL0cUXjmKd5/yMh+3IyXhG4qkXmpikx/WHbqbMEPnsGs1drGgrMapiCo/7CTGGT9XHUMs0DsrWn2TjSryEuMs42q3YmeYWnjJ8aymGrfwBC+74ciY9T1Zd9S0rhbmXh3kXRighQmogT1HS6udaXTzNR+OCOB/yFNWi3JXLxVLQLucqarmbqDbAezRkphFvin5a/VqjzOejHNx0wl+5lXN0ZDV+DulT2yPzNtDkO/FnfSWCEKfvwoLTbrDPE6EzX5/q4vcAtCY2iMVsM21AAAAZXRFWHRNYXRoTUwAPG1hdGggeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzE5OTgvTWF0aC9NYXRoTUwiPjxtZnJhYz48bW4+MjY5PC9tbj48bW4+MzA8L21uPjwvbWZyYWM+PC9tYXRoPtxxhXgAAAAASUVORK5CYII=\" style=\"max-width: none;\">",
+      "<img align=\"middle\" alt=\"124 over 23\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mfrac»«mn»124«/mn»«mn»23«/mn»«/mfrac»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACMAAAAlCAYAAADIgFBEAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAZpE86XgAAAXxJREFUeNpjYMAOZIE4DYiXA/E3HGosgfgaEP8C4udA3AHELAz4wSog/s9AIrgExBegGrFpFkSyXAnqKJC6HjxmRuMxjyBgwqM5ES0ULKHqvuAJ6TOUOIaBRM3/8UTpbiDWo5dj2KDqNmGRKwHiDDI8R7ZjwqHqzNHEdYB4KZkhTbZjzgHxTCyhtQOa2OnmmAJo4uRAE+/DElI0dYw11CHCePTiwlR1jDw0lwijlSXXqJQ7UYA4kmZxNDlJIH6Mw8eTqO0YQkF7C48aL1qEzCgYBaOA0tJ2IPAoGAWjYMAAMZ02UMvuKFTNJyCei6PhRREgptOmBcTVUDV80DYxSM1+ajuGmE5bFo5O4Dd6ldjf0CxHBhpQNV20dgi+ThsImEKjcgI9QgVXp40B2uz8j5ReRGntGGydNlwd/cW0dAiuThu2qKJpAsbXaWOgZ24itdMmDXXMUmo7hJhO20Mgng11rCi00/8USweQYkBMpw2UjX9Aq4K70NKZpJwEAOlmwsmjW5LKAAAAZXRFWHRNYXRoTUwAPG1hdGggeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzE5OTgvTWF0aC9NYXRoTUwiPjxtZnJhYz48bW4+MTI0PC9tbj48bW4+MjM8L21uPjwvbWZyYWM+PC9tYXRoPmVP+BkAAAAASUVORK5CYII=\" style=\"max-width: none;\">",
+      "<img align=\"middle\" alt=\"214 over 29\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mfrac»«mn»214«/mn»«mn»29«/mn»«/mfrac»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACMAAAAlCAYAAADIgFBEAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAZpE86XgAAAaRJREFUeNpjYMAOLIH4GhD/AuLnQNwBxCxoamSBOA2IlwPxNwbiwCog/s9AAhBEslwJ6iiQAT1o6i4B8QWoHDEWRJOgFg4S0ULBEmrAFyxqmYi0ABSKZ8hxDDbwH09UEGPBbiDWo4Zj2KAGbCLTMSVAnEGCw/GCcKgB5mQ4RgeIl5IYinjBOSCeSSAK/+MI0R3QDEEVxxRAEx4HGY7pwxKaZDvGGuoQYSIS93884rgw0UAemgOE0cqJa2TmJrJDRhKIH+PwzSQ0teJIcuK0cMwtPEHrRUQ0UNUxo2AUjAJqNBMGCo+CUTAKBgwQ07EDtYPWQHsSoK7NXCAWpbZDiOnYiUMduQGIuYBYA8oHqeWhpmOI6dhNg4opIYllQcUa6VFiI3fsXmMpTSWhYrdo6RBsHbs/UDEWLI7+RUvHYOvYwdJRKAldY6oAbB07WPq4C003LNC0BhLbSyuH4OvY5QHxU2i0gHJVJdQx8bRwCLEdOxg4CsTHaeEQUjp2oCiaD8QPoTmKqoDYjh3IwaChtRvQTr8oLUKFmI4diP0JiNehdfaIBgC/g8vS56o7aQAAAGV0RVh0TWF0aE1MADxtYXRoIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8xOTk4L01hdGgvTWF0aE1MIj48bWZyYWM+PG1uPjIxNDwvbW4+PG1uPjI5PC9tbj48L21mcmFjPjwvbWF0aD6S6LJdAAAAAElFTkSuQmCC\" style=\"max-width: none;\">",
+      "<img align=\"middle\" alt=\"167 over 26\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mfrac»«mn»167«/mn»«mn»26«/mn»«/mfrac»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACMAAAAlCAYAAADIgFBEAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAZpE86XgAAAaNJREFUeNpjYMAOZIE4DYiXA/E3BsLAD4jXAPEnIP6DJK4ExP9x4C4GIsElIL6ApBEXEAXi3VBH1AOxMRAzIcln4XGMFgMJgImAYySB+D4QnwRiaRxqZkIdiAz0gPg4AxkAn2OOQx0jiEe/ChaxSUCcSE3HRCPF+zYg/gHET4E4j4B5bED8HEpTzTE7oOIZQMwCTaj3oWLJeMxLhoYMAzUd8w2LOCy0ruExDxS1OtR2zC8s4mxQsR84zCI74RJyzA2ouCQW9S9xmDWJQBSS7ZhGqHgWlgKuD0fCfUluwgUBcSTHiKPJcQHxFagFGkDMA8RbgPgxEAvTKuGiY/TSdzE0jfyAVh3StEi4o2AUjAJqFHADgUfBKBgFAwYsoU3KX9BGdQe0/Utqx45iIIhkuRLUUaDyoYeMjh3FIBEtFCyhjvlCRseOZiX2NzI6dlQHsJ7AJip07CgG4VCLzanQsaMYnIN26qnRsaMIFADxGSDmoELHjiJgDXWIMJU6dmQDeWj5IYwWDdfI7NiRDSShHTRsDaNJZHbsyAa38LTSvMjs2GEAAG6byEayFesKAAAAZXRFWHRNYXRoTUwAPG1hdGggeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzE5OTgvTWF0aC9NYXRoTUwiPjxtZnJhYz48bW4+MTY3PC9tbj48bW4+MjY8L21uPjwvbWZyYWM+PC9tYXRoPvq5NE8AAAAASUVORK5CYII=\" style=\"max-width: none;\">"
+    ],
+    "passage": "",
+    "q_en": "<img align=\"middle\" alt=\"Find space the space value space of space 3 4 over 6 minus 2 1 fifth plus 4 2 over 3 plus 5 1 over 6 minus 2 1 third.\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mi»Find«/mi»«mo»§#160;«/mo»«mi»the«/mi»«mo»§#160;«/mo»«mi»value«/mi»«mo»§#160;«/mo»«mi»of«/mi»«mo»§#160;«/mo»«mn»3«/mn»«mfrac»«mn»4«/mn»«mn»6«/mn»«/mfrac»«mo»-«/mo»«mn»2«/mn»«mfrac»«mn»1«/mn»«mn»5«/mn»«/mfrac»«mo»+«/mo»«mn»4«/mn»«mfrac»«mn»2«/mn»«mn»3«/mn»«/mfrac»«mo»+«/mo»«mn»5«/mn»«mfrac»«mn»1«/mn»«mn»6«/mn»«/mfrac»«mo»-«/mo»«mn»2«/mn»«mfrac»«mn»1«/mn»«mn»3«/mn»«/mfrac»«mo».«/mo»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,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\" style=\"max-width: none;\">",
+    "q_hi": "<img align=\"middle\" alt=\"Find space the space value space of space 3 4 over 6 minus 2 1 fifth plus 4 2 over 3 plus 5 1 over 6 minus 2 1 third.\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mi»Find«/mi»«mo»§#160;«/mo»«mi»the«/mi»«mo»§#160;«/mo»«mi»value«/mi»«mo»§#160;«/mo»«mi»of«/mi»«mo»§#160;«/mo»«mn»3«/mn»«mfrac»«mn»4«/mn»«mn»6«/mn»«/mfrac»«mo»-«/mo»«mn»2«/mn»«mfrac»«mn»1«/mn»«mn»5«/mn»«/mfrac»«mo»+«/mo»«mn»4«/mn»«mfrac»«mn»2«/mn»«mn»3«/mn»«/mfrac»«mo»+«/mo»«mn»5«/mn»«mfrac»«mn»1«/mn»«mn»6«/mn»«/mfrac»«mo»-«/mo»«mn»2«/mn»«mfrac»«mn»1«/mn»«mn»3«/mn»«/mfrac»«mo».«/mo»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,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\" style=\"max-width: none;\">",
+    "section": "Arithmetic",
+    "solution": "",
+    "topic": "Fractions"
+  },
+  {
+    "ans": "4",
+    "direction": "",
+    "level": "Easy",
+    "op_en": [
+      "4",
+      "3",
+      "6",
+      "5"
+    ],
+    "op_hi": [
+      "4",
+      "3",
+      "6",
+      "5"
+    ],
+    "passage": "",
+    "q_en": "What is the smallest digit x, such that the number 5x8 is divisible by 9?",
+    "q_hi": "सबसे छोटा अंक x क्या है, जिससे संख्या 5x8, 9 से विभाज्य हो जाए?",
+    "section": "Arithmetic",
+    "solution": "1. A number is divisible by 9 if the sum of its digits is divisible by 9.\n2. Sum of digits of 5x8 = 5 + x + 8 = 13 + x.\n3. We need 13 + x to be a multiple of 9. The next multiple of 9 after 13 is 18.\n4. Therefore, 13 + x = 18 ⇒ x = 5.<br><br>1. एक संख्या 9 से विभाज्य होती है यदि उसके अंकों का योग 9 से विभाज्य हो।\n2. 5x8 के अंकों का योग = 5 + x + 8 = 13 + x.\n3. हमें 13 + x को 9 का गुणज बनाना है। 13 के बाद 9 का अगला गुणज 18 है।\n4. इसलिए, 13 + x = 18 ⇒ x = 5.<br><br><b>Short Trick:</b> Sum of digits (5+x+8) = 13+x. For divisibility by 9, 13+x must be 18, so x=5.",
+    "topic": "Divisibility Rules"
+  },
+  {
+    "ans": "2",
+    "direction": "",
+    "level": "Medium",
+    "op_en": [
+      "49.62 kg",
+      "42.41 kg",
+      "45.59 kg",
+      "43.55 kg"
+    ],
+    "op_hi": [
+      "49.62 kg",
+      "42.41 kg",
+      "45.59 kg",
+      "43.55 kg"
+    ],
+    "passage": "",
+    "q_en": "The average weight of 15 girls in a class is 45.25 kg and that of the remaining 10 girls is 38.15 kg. Find the average weights of all the girls in the class.",
+    "q_hi": "एक कक्षा में 15 लड़कियों का औसत वजन 45.25 किग्रा है और शेष 10 लड़कियों का औसत वजन 38.15 किग्रा है। कक्षा की सभी लड़कियों का औसत वजन ज्ञात कीजिए।",
+    "section": "Arithmetic",
+    "solution": "1. Total weight of 15 girls = 15 × 45.25 = 678.75 kg.\n2. Total weight of remaining 10 girls = 10 × 38.15 = 381.5 kg.\n3. Total weight of all 25 girls = 678.75 + 381.5 = 1060.25 kg.\n4. Average weight of all girls = 1060.25 / 25 = 42.41 kg.<br><br>1. 15 लड़कियों का कुल वजन = 15 × 45.25 = 678.75 किग्रा।\n2. शेष 10 लड़कियों का कुल वजन = 10 × 38.15 = 381.5 किग्रा।\n3. सभी 25 लड़कियों का कुल वजन = 678.75 + 381.5 = 1060.25 किग्रा।\n4. सभी लड़कियों का औसत वजन = 1060.25 / 25 = 42.41 किग्रा।<br><br><b>Short Trick:</b> Weighted Average = (15 × 45.25 + 10 × 38.15) / 25 = 42.41 kg.",
+    "topic": "Average"
+  },
+  {
+    "ans": "4",
+    "direction": "",
+    "level": "Easy",
+    "op_en": [
+      "90",
+      "120",
+      "100",
+      "110"
+    ],
+    "op_hi": [
+      "90",
+      "120",
+      "100",
+      "110"
+    ],
+    "passage": "",
+    "q_en": "<img align=\"middle\" alt=\"Evaluate colon space square root of 14400 space minus space square root of 3600 space plus space square root of 2500\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mi»Evaluate«/mi»«mo»:«/mo»«mo»§#160;«/mo»«msqrt»«mn»14400«/mn»«/msqrt»«mo»§#160;«/mo»«mo»§#8722;«/mo»«mo»§#160;«/mo»«msqrt»«mn»3600«/mn»«/msqrt»«mo»§#160;«/mo»«mo»+«/mo»«mo»§#160;«/mo»«msqrt»«mn»2500«/mn»«/msqrt»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,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\" style=\"max-width: none;\">",
+    "q_hi": "<img align=\"middle\" alt=\"Evaluate colon space square root of 14400 space minus space square root of 3600 space plus space square root of 2500\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mi»Evaluate«/mi»«mo»:«/mo»«mo»§#160;«/mo»«msqrt»«mn»14400«/mn»«/msqrt»«mo»§#160;«/mo»«mo»§#8722;«/mo»«mo»§#160;«/mo»«msqrt»«mn»3600«/mn»«/msqrt»«mo»§#160;«/mo»«mo»+«/mo»«mo»§#160;«/mo»«msqrt»«mn»2500«/mn»«/msqrt»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,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\" style=\"max-width: none;\">",
+    "section": "Arithmetic",
+    "solution": "",
+    "topic": "Squares and Roots"
+  },
+  {
+    "ans": "3",
+    "direction": "",
+    "level": "Easy",
+    "op_en": [
+      "38",
+      "41",
+      "42",
+      "40"
+    ],
+    "op_hi": [
+      "38",
+      "41",
+      "42",
+      "40"
+    ],
+    "passage": "",
+    "q_en": "The average of 5 numbers is 36. If one more number is added to this group, the average becomes 37. What is the value of the new number?",
+    "q_hi": "5 संख्याओं का औसत 36 है। यदि इस समूह में एक और संख्या जोड़ दी जाए, तो औसत 37 हो जाता है। नई संख्या का मान क्या है?",
+    "section": "Arithmetic",
+    "solution": "1. Sum of initial 5 numbers = 5 × 36 = 180.\n2. Total count after adding one number = 6.\n3. Sum of 6 numbers = 6 × 37 = 222.\n4. New number = Sum of 6 numbers - Sum of 5 numbers = 222 - 180 = 42.<br><br>1. शुरुआती 5 संख्याओं का योग = 5 × 36 = 180.\n2. एक संख्या जोड़ने के बाद कुल संख्याएँ = 6.\n3. 6 संख्याओं का योग = 6 × 37 = 222.\n4. नई संख्या = 6 संख्याओं का योग - 5 संख्याओं का योग = 222 - 180 = 42.<br><br><b>Short Trick:</b> New number = Old Average + (Increase × New count) = 36 + (1 × 6) = 42.",
+    "topic": "Average"
+  },
+  {
+    "ans": "2",
+    "direction": "",
+    "level": "Easy",
+    "op_en": [
+      "20.75%",
+      "18.75%",
+      "15.75%",
+      "16.75%"
+    ],
+    "op_hi": [
+      "20.75%",
+      "18.75%",
+      "15.75%",
+      "16.75%"
+    ],
+    "passage": "",
+    "q_en": "The price of a suit was ₹8,000, and it is now ₹9,500. What is the percentage increase in the suit's price?",
+    "q_hi": "एक सूट की कीमत ₹8,000 थी, और अब यह ₹9,500 है। सूट की कीमत में प्रतिशत वृद्धि क्या है?",
+    "section": "Arithmetic",
+    "solution": "1. Initial Price = ₹8,000.\n2. New Price = ₹9,500.\n3. Increase in price = 9,500 - 8,000 = ₹1,500.\n4. Percentage increase = (Increase / Initial Price) × 100.\n5. % Increase = (1500 / 8000) × 100 = 18.75%.<br><br>1. प्रारंभिक मूल्य = ₹8,000.\n2. नया मूल्य = ₹9,500.\n3. मूल्य में वृद्धि = 9,500 - 8,000 = ₹1,500.\n4. प्रतिशत वृद्धि = (वृद्धि / प्रारंभिक मूल्य) × 100.\n5. % वृद्धि = (1500 / 8000) × 100 = 18.75%.<br><br><b>Short Trick:</b> Increase = 1500. % Increase = (1500 / 8000) × 100 = 18.75%.",
+    "topic": "Percentage"
+  },
+  {
+    "ans": "2",
+    "direction": "",
+    "level": "Easy",
+    "op_en": [
+      "−6",
+      "−4",
+      "−2",
+      "−8"
+    ],
+    "op_hi": [
+      "−6",
+      "−4",
+      "−2",
+      "−8"
+    ],
+    "passage": "",
+    "q_en": "Evaluate the given expression.<br><br>(−11) + (−91) ÷ (−13)<span style=\"color: white;\">4872</span>",
+    "q_hi": "दिए गए व्यंजक का मान ज्ञात कीजिए।\n\n\n\n\n\n(−11) + (−91) ÷ (−13)",
+    "section": "Arithmetic",
+    "solution": "1. Following BODMAS, division is done first.\n2. (-91) ÷ (-13) = 7.\n3. Now add the result: (-11) + 7 = -4.<br><br>1. BODMAS का पालन करते हुए, पहले भाग करें।\n2. (-91) ÷ (-13) = 7.\n3. अब परिणाम जोड़ें: (-11) + 7 = -4.<br><br><b>Short Trick:</b> -11 + 7 = -4.",
+    "topic": "Simplification"
+  }
+]
