@@ -3,8 +3,8 @@
     "section": "General Intelligence and Reasoning Ability",
     "topic": "Blood Relation",
     "difficulty": "Moderate",
-    "q_en": "In a certain code language,<br><br>A @ B means 'A is the daughter of B',<br>A # B means 'A is the brother of B',<br>A \\\\$ B means 'A is the wife of B' and<br>A % B means 'A is the father of B'.<br><br>Based on the above, how is Jatin related to Disha if 'Jatin @ Naina % Karan \\\\$ Piyush # Disha'?",
-    "q_hi": "एक निश्चित कूट भाषा में,<br><br>A @ B का अर्थ है 'A, B की पुत्री है',<br>A # B का अर्थ है 'A, B का भाई है',<br>A \\\\$ B का अर्थ है 'A, B की पत्नी है' और<br>A % B का अर्थ है 'A, B का पिता है'।<br><br>उपरोक्त के आधार पर, यदि 'Jatin @ Naina % Karan \\\\$ Piyush # Disha' है, तो जतिन दिशा से किस प्रकार संबंधित है?",
+    "q_en": "In a certain code language,<br><br>A @ B means 'A is the daughter of B',<br>A # B means 'A is the brother of B',<br>A <span class=\"mathjax_ignore\">$</span> B means 'A is the wife of B' and<br>A % B means 'A is the father of B'.<br><br>Based on the above, how is Jatin related to Disha if 'Jatin @ Naina % Karan <span class=\"mathjax_ignore\">$</span> Piyush # Disha'?",
+    "q_hi": "एक निश्चित कूट भाषा में,<br><br>A @ B का अर्थ है 'A, B की पुत्री है',<br>A # B का अर्थ है 'A, B का भाई है',<br>A <span class=\"mathjax_ignore\">$</span> B का अर्थ है 'A, B की पत्नी है' और<br>A % B का अर्थ है 'A, B का पिता है'।<br><br>उपरोक्त के आधार पर, यदि 'Jatin @ Naina % Karan <span class=\"mathjax_ignore\">$</span> Piyush # Disha' है, तो जतिन दिशा से किस प्रकार संबंधित है?",
     "op_en": [
       "Brother's wife's mother",
       "Wife's sister",
@@ -18,6 +18,6 @@
       "भाई की पत्नी की बहन"
     ],
     "ans": 4,
-    "solution": "<b>Solution (EN):</b><br>1. Jatin @ Naina: Jatin is the daughter of Naina.<br>2. Naina % Karan: Naina is the father of Karan.<br>3. Karan \\\\$ Piyush: Karan is the wife of Piyush.<br>4. Piyush # Disha: Piyush is the brother of Disha.<br><br>From 1 & 2, Jatin and Karan are sisters. Karan is married to Piyush, who is Disha's brother. Thus, Jatin is the sister of Disha's brother's wife. Jatin is Brother's wife's sister to Disha.<br><br><b>Solution (HI):</b><br>1. Jatin @ Naina: जतिन, नैना की पुत्री है।<br>2. Naina % Karan: नैना, करन का पिता है।<br>3. Karan \\\\$ Piyush: करन, पीयूष की पत्नी है।<br>4. Piyush # Disha: पीयूष, दिशा का भाई है।<br><br>1 और 2 से, जतिन और करन बहनें हैं। करन की शादी पीयूष से हुई है, जो दिशा का भाई है। इस प्रकार, जतिन दिशा के भाई की पत्नी की बहन है।"
+    "solution": "<b>Solution (EN):</b><br>1. Jatin @ Naina: Jatin is the daughter of Naina.<br>2. Naina % Karan: Naina is the father of Karan.<br>3. Karan <span class=\"mathjax_ignore\">$</span> Piyush: Karan is the wife of Piyush.<br>4. Piyush # Disha: Piyush is the brother of Disha.<br><br>From 1 & 2, Jatin and Karan are sisters. Karan is married to Piyush, who is Disha's brother. Thus, Jatin is the sister of Disha's brother's wife. Jatin is Brother's wife's sister to Disha.<br><br><b>Solution (HI):</b><br>1. Jatin @ Naina: जतिन, नैना की पुत्री है।<br>2. Naina % Karan: नैना, करन का पिता है।<br>3. Karan <span class=\"mathjax_ignore\">$</span> Piyush: करन, पीयूष की पत्नी है।<br>4. Piyush # Disha: पीयूष, दिशा का भाई है।<br><br>1 और 2 से, जतिन और करन बहनें हैं। करन की शादी पीयूष से हुई है, जो दिशा का भाई है। इस प्रकार, जतिन दिशा के भाई की पत्नी की बहन है।"
   }
 ]
