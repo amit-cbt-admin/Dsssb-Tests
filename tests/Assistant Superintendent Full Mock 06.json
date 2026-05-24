@@ -444,8 +444,8 @@
     "section": "General intelligence and Reasoning Ability1",
     "topic": "Alphanumeric Series",
     "difficulty": "Easy",
-    "q_en": "Refer to the given letter, number, symbol series and answer the question that follows. All numbers are single-digit numbers only.<br><br>(Left) H J $ 4 L ? 2 3 T A @ + C ? > $ D 6 9 3 K M N > & S X # 9 & @ $ % K L (Right)<br><br>If all the symbols are dropped from the series, which of the following will be fifth from the right?",
-    "q_hi": "दी गई अक्षर, संख्या, प्रतीक श्रृंखला का संदर्भ लें और निम्नलिखित प्रश्न का उत्तर दें। सभी संख्याएँ केवल एकल-अंकीय संख्याएँ हैं।<br><br>(बाएँ) H J $ 4 L ? 2 3 T A @ + C ? > $ D 6 9 3 K M N > & S X # 9 & @ $ % K L (दाएँ)<br><br>यदि श्रृंखला से सभी प्रतीकों को हटा दिया जाता है, तो निम्नलिखित में से कौन सा दाएँ से पाँचवाँ होगा?",
+    "q_en": "Refer to the given letter, number, symbol series and answer the question that follows. All numbers are single-digit numbers only.<br><br>(Left) H J % 4 L ? 2 3 T A @ + C ? > % D 6 9 3 K M N > & S X # 9 & @ ^ % K L (Right)<br><br>If all the symbols are dropped from the series, which of the following will be fifth from the right?",
+    "q_hi": "दी गई अक्षर, संख्या, प्रतीक श्रृंखला का संदर्भ लें और निम्नलिखित प्रश्न का उत्तर दें। सभी संख्याएँ केवल एकल-अंकीय संख्याएँ हैं।<br><br>(बाएँ) H J % 4 L ? 2 3 T A @ + C ? > % D 6 9 3 K M N > & S X # 9 & @ ^ % K L (दाएँ)<br><br>यदि श्रृंखला से सभी प्रतीकों को हटा दिया जाता है, तो निम्नलिखित में से कौन सा दाएँ से पाँचवाँ होगा?",
     "op_en": [
       "3",
       "L",
@@ -459,8 +459,8 @@
       "S"
     ],
     "ans": 4,
-"solution": "<b>Solution (EN):</b><br>1. The given series is: H J $ 4 L ? 2 3 T A @ + C ? > $ D 6 9 3 K M N > & S X # 9 & @ $ % K L<br>2. Drop all symbols ($, ?, @, +, ?, >, $, >, &, #, &, @, $, %): H J 4 L 2 3 T A C D 6 9 3 K M N S X 9 K L<br>3. We need to find the 5th element from the right end of this new series.<br>4. New series from right: L(1st), K(2nd), 9(3rd), X(4th), S(5th)...<br>5. The 5th element from the right is S.<br><br><b>Solution (HI):</b><br>1. दी गई श्रृंखला है: H J $ 4 L ? 2 3 T A @ + C ? > $ D 6 9 3 K M N > & S X # 9 & @ $ % K L<br>2. सभी प्रतीकों ($, ?, @, +, ?, >, $, >, &, #, &, @, $, %) को हटा दें: H J 4 L 2 3 T A C D 6 9 3 K M N S X 9 K L<br>3. हमें इस नई श्रृंखला के दाएँ छोर से 5वाँ तत्व खोजना है।<br>4. दाएँ से नई श्रृंखला: L(पहला), K(दूसरा), 9(तीसरा), X(चौथा), S(पाँचवाँ)...<br>5. दाएँ से 5वाँ तत्व S है।<br><br><b>Short Trick:</b><br>Instead of writing the whole new series, just count 5 elements (letters/numbers only) from the right end. L (1), K (2), % (skip), $ (skip), @ (skip), & (skip), 9 (3), # (skip), X (4), S (5). The 5th is S."  },
-  {
+    "solution": "<b>Solution (EN):</b><br>Given series: H J % $4$ L ? $2$ $3$ T A @ + C ? > % D $6$ $9$ $3$ K M N > & S X # $9$ & @ ^ % K L<br><br>After dropping all the symbols, the series becomes:<br>H J $4$ L $2$ $3$ T A C D $6$ $9$ $3$ K M N S X $9$ K L<br><br>Now, counting from the right end:<br>1st = L<br>2nd = K<br>3rd = $9$<br>4th = X<br>5th = S<br><br>Therefore, the fifth element from the right is S.<br><br><b>Solution (HI):</b><br>दी गई श्रृंखला: H J % $4$ L ? $2$ $3$ T A @ + C ? > % D $6$ $9$ $3$ K M N > & S X # $9$ & @ ^ % K L<br><br>सभी प्रतीकों को हटाने के बाद, नई श्रृंखला:<br>H J $4$ L $2$ $3$ T A C D $6$ $9$ $3$ K M N S X $9$ K L<br><br>अब, दाएं छोर से गिनने पर:<br>पहला = L<br>दूसरा = K<br>तीसरा = $9$<br>चौथा = X<br>पांचवां = S<br><br>अतः, दाएं से पांचवां तत्व S है।<br><br><b>Short Trick:</b><br>पूरी नई श्रृंखला लिखने के बजाय, सीधे दाएं छोर से गिनना शुरू करें और बीच में आने वाले सभी प्रतीकों (symbols) को छोड़ते जाएं:<br>L (1), K (2), % (skip), ^ (skip), @ (skip), & (skip), $9$ (3), # (skip), X (4), S (5).<br><br>अतः सही उत्तर S है।"
+  },
     "section": "General intelligence and Reasoning Ability1",
     "topic": "Syllogism",
     "difficulty": "Easy",
