@@ -1,23 +1,23 @@
 [
   {
     "section": "General Intelligence and Reasoning Ability",
-    "topic": "Blood Relation",
-    "difficulty": "Moderate",
-    "q_en": "In a certain code language,<br><br>A @ B means 'A is the daughter of B',<br>A # B means 'A is the brother of B',<br>A <span class=\"mathjax_ignore\">$</span> B means 'A is the wife of B' and<br>A % B means 'A is the father of B'.<br><br>Based on the above, how is Jatin related to Disha if 'Jatin @ Naina % Karan <span class=\"mathjax_ignore\">$</span> Piyush # Disha'?",
-    "q_hi": "एक निश्चित कूट भाषा में,<br><br>A @ B का अर्थ है 'A, B की पुत्री है',<br>A # B का अर्थ है 'A, B का भाई है',<br>A <span class=\"mathjax_ignore\">$</span> B का अर्थ है 'A, B की पत्नी है' और<br>A % B का अर्थ है 'A, B का पिता है'।<br><br>उपरोक्त के आधार पर, यदि 'Jatin @ Naina % Karan <span class=\"mathjax_ignore\">$</span> Piyush # Disha' है, तो जतिन दिशा से किस प्रकार संबंधित है?",
+    "topic": "Alphanumeric Series",
+    "difficulty": "Easy",
+    "q_en": "Refer to the given letter, number, symbol series and answer the question that follows. All numbers are single-digit numbers only.<br><br>(Left) H J $ 4 L ? 2 3 T A @ + C ? > $ D 6 9 3 K M N > & S X # 9 & @ $ % K L (Right)<br><br>If all the symbols are dropped from the series, which of the following will be fifth from the right?",
+    "q_hi": "दी गई अक्षर, संख्या, प्रतीक श्रृंखला का संदर्भ लें और निम्नलिखित प्रश्न का उत्तर दें। सभी संख्याएँ केवल एकल-अंकीय संख्याएँ हैं।<br><br>(बाएँ) H J $ 4 L ? 2 3 T A @ + C ? > $ D 6 9 3 K M N > & S X # 9 & @ $ % K L (दाएँ)<br><br>यदि श्रृंखला से सभी प्रतीकों को हटा दिया जाता है, तो निम्नलिखित में से कौन सा दाएँ से पाँचवाँ होगा?",
     "op_en": [
-      "Brother's wife's mother",
-      "Wife's sister",
-      "Wife's mother",
-      "Brother's wife's sister"
+      "3",
+      "L",
+      "2",
+      "S"
     ],
     "op_hi": [
-      "भाई की पत्नी की माता",
-      "पत्नी की बहन",
-      "पत्नी की माता",
-      "भाई की पत्नी की बहन"
+      "3",
+      "L",
+      "2",
+      "S"
     ],
     "ans": 4,
-    "solution": "<b>Solution (EN):</b><br>1. Jatin @ Naina: Jatin is the daughter of Naina.<br>2. Naina % Karan: Naina is the father of Karan.<br>3. Karan <span class=\"mathjax_ignore\">$</span> Piyush: Karan is the wife of Piyush.<br>4. Piyush # Disha: Piyush is the brother of Disha.<br><br>From 1 & 2, Jatin and Karan are sisters. Karan is married to Piyush, who is Disha's brother. Thus, Jatin is the sister of Disha's brother's wife. Jatin is Brother's wife's sister to Disha.<br><br><b>Solution (HI):</b><br>1. Jatin @ Naina: जतिन, नैना की पुत्री है।<br>2. Naina % Karan: नैना, करन का पिता है।<br>3. Karan <span class=\"mathjax_ignore\">$</span> Piyush: करन, पीयूष की पत्नी है।<br>4. Piyush # Disha: पीयूष, दिशा का भाई है।<br><br>1 और 2 से, जतिन और करन बहनें हैं। करन की शादी पीयूष से हुई है, जो दिशा का भाई है। इस प्रकार, जतिन दिशा के भाई की पत्नी की बहन है।"
+    "solution": "<b>Solution (EN):</b><br>1. The given series is: H J $ 4 L ? 2 3 T A @ + C ? > $ D 6 9 3 K M N > & S X # 9 & @ $ % K L<br>2. Drop all symbols ($, ?, @, +, ?, >, $, >, &, #, &, @, $, %): H J 4 L 2 3 T A C D 6 9 3 K M N S X 9 K L<br>3. We need to find the 5th element from the right end of this new series.<br>4. New series from right: L(1st), K(2nd), 9(3rd), X(4th), S(5th)...<br>5. The 5th element from the right is S.<br><br><b>Solution (HI):</b><br>1. दी गई श्रृंखला है: H J $ 4 L ? 2 3 T A @ + C ? > $ D 6 9 3 K M N > & S X # 9 & @ $ % K L<br>2. सभी प्रतीकों ($, ?, @, +, ?, >, $, >, &, #, &, @, $, %) को हटा दें: H J 4 L 2 3 T A C D 6 9 3 K M N S X 9 K L<br>3. हमें इस नई श्रृंखला के दाएँ छोर से 5वाँ तत्व खोजना है।<br>4. दाएँ से नई श्रृंखला: L(पहला), K(दूसरा), 9(तीसरा), X(चौथा), S(पाँचवाँ)...<br>5. दाएँ से 5वाँ तत्व S है।<br><br><b>Short Trick:</b><br>Instead of writing the whole new series, just count 5 elements (letters/numbers only) from the right end. L (1), K (2), % (skip), $ (skip), @ (skip), & (skip), 9 (3), # (skip), X (4), S (5). The 5th is S."
   }
 ]
