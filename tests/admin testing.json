@@ -377,6 +377,27 @@
         "ans": "1",
         "solution": "<b>Solution (EN):</b><br><br>We need to find the pattern: <b>(Number) (Symbol) (Number)</b><br><br>Let's scan the given series:<br>9 € # ! # ! 6 @ 9 # © 8 7 & 3 * © 4 9 ! £ 4<br><br>Checking combinations where a symbol is surrounded by numbers:<br>1. <b>6 @ 9</b> $\\rightarrow$ The symbol '@' is preceded by '6' and followed by '9'. (Valid)<br>2. <b>7 & 3</b> $\\rightarrow$ The symbol '&' is preceded by '7' and followed by '3'. (Valid)<br>3. 9 ! £ $\\rightarrow$ The symbol '!' is preceded by 9 but followed by another symbol '£'. (Invalid)<br><br>Thus, there are only <b>2</b> such symbols ('@' and '&').<br><br><b>Solution (HI):</b><br><br>हमें यह पैटर्न खोजना है: <b>(संख्या) (प्रतीक) (संख्या)</b><br><br>आइए दी गई श्रृंखला को स्कैन करें:<br>9 € # ! # ! 6 @ 9 # © 8 7 & 3 * © 4 9 ! £ 4<br><br>उन संयोजनों की जाँच करते हैं जहाँ कोई प्रतीक संख्याओं से घिरा हो:<br>1. <b>6 @ 9</b> $\\rightarrow$ प्रतीक '@' से पहले '6' और बाद में '9' है। (मान्य)<br>2. <b>7 & 3</b> $\\rightarrow$ प्रतीक '&' से पहले '7' और बाद में '3' है। (मान्य)<br>3. 9 ! £ $\\rightarrow$ प्रतीक '!' से पहले 9 है लेकिन बाद में एक और प्रतीक '£' है। (अमान्य)<br><br>इस प्रकार, ऐसे केवल <b>2</b> प्रतीक ('@' और '&') हैं।<br><br><b>Short Trick:</b><br><br>Run your eyes through the string searching only for consecutive clusters of numbers. The string has numbers mostly broken by multiple symbols. The only spots where exactly one symbol wedges between two numbers are `6@9` and `7&3`. That makes 2."
     },
+  {
+    "section": "General intelligence and Reasoning Ability",
+    "topic": "Number Series",
+    "difficulty": "Medium",
+    "q_en": "Which number will replace the question mark (?) in the following series?<br><br>5, 11, 24, 51, 106, ?",
+    "q_hi": "निम्नलिखित श्रृंखला में प्रश्नवाचक चिह्न (?) के स्थान पर कौन सी संख्या आएगी?<br><br>5, 11, 24, 51, 106, ?",
+    "op_en": [
+      "216",
+      "217",
+      "218",
+      "219"
+    ],
+    "op_hi": [
+      "216",
+      "217",
+      "218",
+      "219"
+    ],
+    "ans": "2",
+    "solution": "<b>Solution (EN):</b><br><br>The logic followed in the given series is:<br>$5 \\times 2 + 1 = 11$<br>$11 \\times 2 + 2 = 24$<br>$24 \\times 2 + 3 = 51$<br>$51 \\times 2 + 4 = 106$<br>Similarly, to find the next number we will multiply by 2 and add 5:<br>$106 \\times 2 + 5 = 217$<br><br>Therefore, 217 is the correct answer.<br><br><b>Solution (HI):</b><br><br>दी गई श्रृंखला में निम्नलिखित तर्क का पालन किया गया है:<br>$5 \\times 2 + 1 = 11$<br>$11 \\times 2 + 2 = 24$<br>$24 \\times 2 + 3 = 51$<br>$51 \\times 2 + 4 = 106$<br>इसी प्रकार, अगली संख्या ज्ञात करने के लिए हम 2 से गुणा करेंगे और 5 जोड़ेंगे:<br>$106 \\times 2 + 5 = 217$<br><br>अतः, 217 सही उत्तर है।<br><br><b>Short Trick:</b><br><br>Observe the growth rate of the numbers. They are roughly doubling every time. So, test the $\\times 2$ pattern:<br>$5 \\rightarrow 11$ (Double is 10, so $+1$)<br>$11 \\rightarrow 24$ (Double is 22, so $+2$)<br>The pattern is clearly $(\\text{Previous Number} \\times 2) + n$. For the 5th term transition, the addition will be $+5$. <br>$106 \\times 2 = 212$<br>$212 + 5 = 217$. Quick and easy!"
+  },
     {
         "section": "General intelligence and Reasoning Ability",
         "topic": "Blood Relations",
