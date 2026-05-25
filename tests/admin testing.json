@@ -1,0 +1,212 @@
+[
+  {
+    "section": "General intelligence and Reasoning Ability",
+    "topic": "Seating Arrangement",
+    "difficulty": "Medium",
+    "q_en": "Eight persons, Lata, Meena, Nayan, Om, Prakash, Qbal, Rohit and Shyam, are sitting around a circular table, facing the centre but not necessarily in the same order. They all are having a discussion on an important topic. Nayan is an immediate neighbour of both Lata and Rohit. Rohit is an immediate neighbour of Prakash. Prakash sits second to the left of Nayan. Only two persons sit between Prakash and Shyam. Meena is an immediate neighbour of Om. Only one person sits between Meena and Qbal. Which person is an immediate neighbour of Meena and Qbal?",
+    "q_hi": "आठ व्यक्ति, लता, मीना, नयन, ओम, प्रकाश, क़बाल, रोहित और श्याम, एक वृत्ताकार मेज के चारों ओर केंद्र की ओर मुख करके बैठे हैं, लेकिन जरूरी नहीं कि इसी क्रम में हों। वे सभी एक महत्वपूर्ण विषय पर चर्चा कर रहे हैं। नयन, लता और रोहित दोनों का निकटतम पड़ोसी है। रोहित, प्रकाश का निकटतम पड़ोसी है। प्रकाश, नयन के बाएँ से दूसरे स्थान पर बैठा है। प्रकाश और श्याम के बीच केवल दो व्यक्ति बैठे हैं। मीना, ओम की निकटतम पड़ोसी है। मीना और क़बाल के बीच केवल एक व्यक्ति बैठा है। मीना और क़बाल का निकटतम पड़ोसी कौन सा व्यक्ति है?",
+    "op_en": [
+      "Lata",
+      "Om",
+      "Nayan",
+      "Shyam"
+    ],
+    "op_hi": [
+      "लता",
+      "ओम",
+      "नयन",
+      "श्याम"
+    ],
+    "ans": "4",
+    "solution": "<b>Solution (EN):</b><br><br>Let's place the 8 persons around the circular table facing the centre:<br>1. Nayan is between Lata and Rohit. (Lata - Nayan - Rohit or Rohit - Nayan - Lata)<br>2. Prakash sits 2nd to the left of Nayan.<br>3. Rohit is an immediate neighbour of Prakash. This means the immediate left of Nayan is Rohit, and the 2nd left is Prakash. Thus, Lata is on the immediate right of Nayan.<br>Arrangement so far (clockwise): Nayan, Rohit, Prakash.<br>4. Two persons sit between Prakash and Shyam. Shyam must sit in the 6th position (opposite to Nayan).<br>5. Meena is a neighbour of Om. Also, there is 1 person between Meena and Qbal. This fits perfectly if Om is 4th, Meena is 5th, and Qbal is 7th (with Shyam at the 6th position).<br>Final Arrangement (clockwise): Nayan, Rohit, Prakash, Om, Meena, Shyam, Qbal, Lata.<br>Therefore, the person sitting between Meena and Qbal is Shyam.<br><br><b>Solution (HI):</b><br><br>आइए 8 व्यक्तियों को केंद्र की ओर मुख करके वृत्ताकार मेज के चारों ओर बिठाएं:<br>1. नयन, लता और रोहित के बीच में है। (लता - नयन - रोहित या रोहित - नयन - लता)<br>2. प्रकाश, नयन के बाएँ से दूसरे स्थान पर बैठा है।<br>3. रोहित, प्रकाश का निकटतम पड़ोसी है। इसका अर्थ है कि नयन के ठीक बाएँ रोहित है, और दूसरे बाएँ स्थान पर प्रकाश है। अतः लता नयन के ठीक दाएँ है।<br>अब तक की व्यवस्था (दक्षिणावर्त): नयन, रोहित, प्रकाश।<br>4. प्रकाश और श्याम के बीच दो व्यक्ति बैठे हैं। अतः श्याम छठे स्थान पर बैठेगा (नयन के विपरीत)।<br>5. मीना, ओम की पड़ोसी है। साथ ही, मीना और क़बाल के बीच 1 व्यक्ति है। यह तभी संभव है जब ओम चौथे, मीना पांचवें और क़बाल 7वें स्थान पर हो (श्याम छठे स्थान पर)।<br>अंतिम व्यवस्था (दक्षिणावर्त): नयन, रोहित, प्रकाश, ओम, मीना, श्याम, क़बाल, लता।<br>अतः मीना और क़बाल के बीच बैठने वाला व्यक्ति श्याम है।<br><br><b>Short Trick:</b><br><br>Visualize the fixed positions: Nayan $\\\\rightarrow$ Rohit $\\\\rightarrow$ Prakash. Since Shyam has 2 gaps from Prakash, Shyam is fixed. Meena and Qbal have 1 gap between them, which perfectly leaves Shyam as the person sitting between them!"
+  },
+  {
+    "section": "General intelligence and Reasoning Ability",
+    "topic": "Alphanumeric Series",
+    "difficulty": "Easy",
+    "q_en": "Refer to the following number, symbol series and answer the question that follows. Counting to be done from left to right only. (All numbers are single-digit numbers only.)<br><br>(Left) ? < / 5 * 5 + 8 \\\\ 1 + ? / + 3 @ 3 4 2 1 % (Right)<br><br>How many such numbers are there, each of which is immediately preceded by a symbol and also immediately followed by a symbol?",
+    "q_hi": "निम्नलिखित संख्या और प्रतीक श्रृंखला का संदर्भ लें और उसके बाद आने वाले प्रश्न का उत्तर दें। गिनती केवल बाएँ से दाएँ की जानी चाहिए। (सभी संख्याएँ केवल एक अंक की संख्याएँ हैं।)<br><br>(बाएँ) ? < / 5 * 5 + 8 \\\\ 1 + ? / + 3 @ 3 4 2 1 % (दाएँ)<br><br>ऐसी कितनी संख्याएँ हैं, जिनमें से प्रत्येक के ठीक पहले एक प्रतीक है और ठीक बाद में भी एक प्रतीक है?",
+    "op_en": [
+      "Two",
+      "Four",
+      "Five",
+      "Three"
+    ],
+    "op_hi": [
+      "दो",
+      "चार",
+      "पांच",
+      "तीन"
+    ],
+    "ans": "3",
+    "solution": "<b>Solution (EN):</b><br><br>We need to find the pattern: <b>(Symbol) (Number) (Symbol)</b>.<br>Let's check the given series from left to right:<br>1. / <b>5</b> * $\\\\rightarrow$ 5 is preceded by '/' and followed by '*'. (Valid)<br>2. * <b>5</b> + $\\\\rightarrow$ 5 is preceded by '*' and followed by '+'. (Valid)<br>3. + <b>8</b> \\\\ $\\\\rightarrow$ 8 is preceded by '+' and followed by '\\\\'. (Valid)<br>4. \\\\ <b>1</b> + $\\\\rightarrow$ 1 is preceded by '\\\\' and followed by '+'. (Valid)<br>5. + <b>3</b> @ $\\\\rightarrow$ 3 is preceded by '+' and followed by '@'. (Valid)<br>The other numbers do not follow this pattern.<br>Total count = 5.<br><br><b>Solution (HI):</b><br><br>हमें निम्नलिखित पैटर्न खोजना है: <b>(प्रतीक) (संख्या) (प्रतीक)</b>।<br>आइए बाएँ से दाएँ दी गई श्रृंखला की जाँच करें:<br>1. / <b>5</b> * $\\\\rightarrow$ 5 के पहले '/' और बाद में '*' है। (सही)<br>2. * <b>5</b> + $\\\\rightarrow$ 5 के पहले '*' और बाद में '+' है। (सही)<br>3. + <b>8</b> \\\\ $\\\\rightarrow$ 8 के पहले '+' और बाद में '\\\\' है। (सही)<br>4. \\\\ <b>1</b> + $\\\\rightarrow$ 1 के पहले '\\\\' और बाद में '+' है। (सही)<br>5. + <b>3</b> @ $\\\\rightarrow$ 3 के पहले '+' और बाद में '@' है। (सही)<br>अन्य संख्याएँ इस पैटर्न का पालन नहीं करती हैं।<br>कुल संख्या = 5.<br><br><b>Short Trick:</b><br><br>Scan the series only for isolated digits surrounded by non-alphanumeric characters. You can quickly spot the continuous group of numbers (5, 5, 8, 1) and the number (3) separated by symbols, making it exactly 5 hits."
+  },
+  {
+    "section": "General intelligence and Reasoning Ability",
+    "topic": "Blood Relations",
+    "difficulty": "Medium",
+    "q_en": "In a certain code language,<br>‘A # B’ means ‘A is the daughter of B’,<br>‘A $ B’ means ‘A is the mother of B’,<br>‘A & B’ means ‘A is the wife of B’, and<br>‘A % B’ means ‘A is the father of B’.<br><br>Based on the above, how is F related to Z if ‘F % T # O $ Q & Z’?",
+    "q_hi": "एक निश्चित कूट भाषा में,<br>'A # B' का अर्थ है 'A, B की पुत्री है',<br>'A $ B' का अर्थ है 'A, B की माता है',<br>'A & B' का अर्थ है 'A, B की पत्नी है', और<br>'A % B' का अर्थ है 'A, B का पिता है'।<br><br>उपरोक्त के आधार पर, यदि 'F % T # O $ Q & Z' है, तो F, Z से किस प्रकार संबंधित है?",
+    "op_en": [
+      "Wife's father",
+      "Brother",
+      "Father",
+      "Wife's brother"
+    ],
+    "op_hi": [
+      "पत्नी का पिता",
+      "भाई",
+      "पिता",
+      "पत्नी का भाई"
+    ],
+    "ans": "1",
+    "solution": "<b>Solution (EN):</b><br><br>Let's decode the expression ‘F % T # O $ Q & Z’ step-by-step:<br>1. <b>F % T</b> $\\\\rightarrow$ F is the father of T.<br>2. <b>T # O</b> $\\\\rightarrow$ T is the daughter of O. Since F is the father of T, O must be the mother of T. Therefore, F and O are husband and wife.<br>3. <b>O $ Q</b> $\\\\rightarrow$ O is the mother of Q. Thus, Q is the sibling of T, and F is the father of Q.<br>4. <b>Q & Z</b> $\\\\rightarrow$ Q is the wife of Z. This means Q is a female, and Z is her husband.<br>Since F is the father of Q, and Q is the wife of Z, F is the father-in-law (Wife's father) of Z.<br><br><b>Solution (HI):</b><br><br>आइए व्यंजक ‘F % T # O $ Q & Z’ को चरण-दर-चरण डिकोड करें:<br>1. <b>F % T</b> $\\\\rightarrow$ F, T का पिता है।<br>2. <b>T # O</b> $\\\\rightarrow$ T, O की पुत्री है। चूँकि F, T का पिता है, इसलिए O, T की माता होगी। अतः F और O पति-पत्नी हैं।<br>3. <b>O $ Q</b> $\\\\rightarrow$ O, Q की माता है। इस प्रकार, Q, T का भाई/बहन है, और F, Q का पिता है।<br>4. <b>Q & Z</b> $\\\\rightarrow$ Q, Z की पत्नी है। इसका अर्थ है कि Q महिला है, और Z उसका पति है।<br>चूँकि F, Q का पिता है, और Q, Z की पत्नी है, अतः F, Z की पत्नी का पिता (ससुर) है।<br><br><b>Short Trick:</b><br><br>Read backwards from Z: Z's wife is Q $\\\\rightarrow$ Q's mother is O $\\\\rightarrow$ O's daughter is T $\\\\rightarrow$ T's father is F. Therefore, F is the father of Q, who is Z's wife. Hence, Wife's father."
+  },
+  {
+    "section": "General intelligence and Reasoning Ability",
+    "topic": "Puzzle (Arrangement)",
+    "difficulty": "Hard",
+    "q_en": "Six boxes F, G, H, I, Q and R are kept one over the other but not necessarily in the same order. Only two boxes are kept above F. Only two boxes are kept between F and R. Only three boxes are kept between R and G. I is kept at some place above F. Q is kept at one of the places above H. How many boxes are kept between H and I?",
+    "q_hi": "छह बॉक्स F, G, H, I, Q और R एक के ऊपर एक रखे गए हैं लेकिन जरूरी नहीं कि इसी क्रम में हों। F के ऊपर केवल दो बॉक्स रखे गए हैं। F और R के बीच केवल दो बॉक्स रखे गए हैं। R और G के बीच केवल तीन बॉक्स रखे गए हैं। I को F के ऊपर किसी स्थान पर रखा गया है। Q को H के ऊपर किसी एक स्थान पर रखा गया है। H और I के बीच कितने बॉक्स रखे गए हैं?",
+    "op_en": [
+      "None",
+      "Two",
+      "Three",
+      "One"
+    ],
+    "op_hi": [
+      "कोई नहीं",
+      "दो",
+      "तीन",
+      "एक"
+    ],
+    "ans": "3",
+    "solution": "<b>Solution (EN):</b><br><br>Let's number the positions from 1 to 6 (Top to Bottom).<br>1. Only two boxes are kept above F. So, <b>F is at position 3</b>.<br>2. Two boxes are kept between F and R. From position 3, the only place for R is position 6. So, <b>R is at position 6</b>.<br>3. Three boxes are kept between R and G. From position 6, skipping 3 boxes (5, 4, 3) places G at position 2. So, <b>G is at position 2</b>.<br>4. I is kept above F. Since positions 2 and 3 are taken by G and F, <b>I must be at position 1</b>.<br>Current order (1 to 6): I, G, F, _, _, R.<br>5. Q is kept above H. The empty positions are 4 and 5. Therefore, <b>Q is at position 4</b> and <b>H is at position 5</b>.<br>Final arrangement from Top to Bottom: <b>I, G, F, Q, H, R</b>.<br>The boxes between H (position 5) and I (position 1) are G, F, and Q. That is a total of <b>three</b> boxes.<br><br><b>Solution (HI):</b><br><br>आइए स्थानों को 1 से 6 (ऊपर से नीचे) तक क्रमांकित करें।<br>1. F के ऊपर केवल दो बॉक्स रखे गए हैं। अतः <b>F तीसरे स्थान पर है</b>।<br>2. F और R के बीच दो बॉक्स रखे गए हैं। तीसरे स्थान से, R के लिए एकमात्र स्थान छठा है। अतः <b>R छठे स्थान पर है</b>।<br>3. R और G के बीच तीन बॉक्स रखे गए हैं। छठे स्थान से, 3 बॉक्स (5, 4, 3) छोड़ने पर G दूसरे स्थान पर आता है। अतः <b>G दूसरे स्थान पर है</b>।<br>4. I को F के ऊपर रखा गया है। चूंकि दूसरा और तीसरा स्थान G और F के पास है, इसलिए <b>I पहले स्थान पर होना चाहिए</b>।<br>वर्तमान क्रम (1 से 6): I, G, F, _, _, R.<br>5. Q को H के ऊपर रखा गया है। खाली स्थान 4 और 5 हैं। इसलिए, <b>Q चौथे स्थान पर है</b> और <b>H पांचवें स्थान पर है</b>।<br>ऊपर से नीचे तक अंतिम व्यवस्था: <b>I, G, F, Q, H, R</b>।<br>H (स्थान 5) और I (स्थान 1) के बीच के बॉक्स G, F और Q हैं। यानी कुल <b>तीन</b> बॉक्स।<br><br><b>Short Trick:</b><br><br>F=3. F_ _R $\\\\rightarrow$ R=6. R_ _ _G $\\\\rightarrow$ G=2. I>F $\\\\rightarrow$ I=1. Q>H $\\\\rightarrow$ Q=4, H=5. Sequence: I-G-F-Q-H-R. Gap between I and H is exactly 3."
+  },
+  {
+    "section": "General intelligence and Reasoning Ability",
+    "topic": "Alphabetical Series",
+    "difficulty": "Easy",
+    "q_en": "The position(s) of how many letters will remain unchanged if each of the letters in the word ENVIRONMENT is arranged in reverse English alphabetical order?",
+    "q_hi": "शब्द ENVIRONMENT के प्रत्येक अक्षर को यदि अंग्रेजी वर्णमाला के उल्टे क्रम में व्यवस्थित किया जाए, तो कितने अक्षरों का स्थान अपरिवर्तित रहेगा?",
+    "op_en": [
+      "Four",
+      "Three",
+      "One",
+      "Two"
+    ],
+    "op_hi": [
+      "चार",
+      "तीन",
+      "एक",
+      "दो"
+    ],
+    "ans": "4",
+    "solution": "<b>Solution (EN):</b><br><br>Let's write down the letters of the word <b>ENVIRONMENT</b> and arrange them in reverse alphabetical order (Z to A).<br>Original: E, N, V, I, R, O, <b>N</b>, <b>M</b>, E, N, T<br>Reversed: V, T, R, O, N, N, <b>N</b>, <b>M</b>, I, E, E<br>Comparing the original and the new arrangement:<br>Position 1: E $\\\\rightarrow$ V<br>Position 2: N $\\\\rightarrow$ T<br>Position 3: V $\\\\rightarrow$ R<br>Position 4: I $\\\\rightarrow$ O<br>Position 5: R $\\\\rightarrow$ N<br>Position 6: O $\\\\rightarrow$ N<br><b>Position 7: N $\\\\rightarrow$ N (Unchanged)</b><br><b>Position 8: M $\\\\rightarrow$ M (Unchanged)</b><br>Position 9: E $\\\\rightarrow$ I<br>Position 10: N $\\\\rightarrow$ E<br>Position 11: T $\\\\rightarrow$ E<br>Two letters (N and M) remain in their original positions.<br><br><b>Solution (HI):</b><br><br>आइए शब्द <b>ENVIRONMENT</b> के अक्षरों को लिखें और उन्हें उल्टे वर्णमाला क्रम (Z से A) में व्यवस्थित करें।<br>मूल शब्द: E, N, V, I, R, O, <b>N</b>, <b>M</b>, E, N, T<br>उल्टा क्रम: V, T, R, O, N, N, <b>N</b>, <b>M</b>, I, E, E<br>मूल और नई व्यवस्था की तुलना करने पर:<br>स्थान 1: E $\\\\rightarrow$ V<br>स्थान 2: N $\\\\rightarrow$ T<br>स्थान 3: V $\\\\rightarrow$ R<br>स्थान 4: I $\\\\rightarrow$ O<br>स्थान 5: R $\\\\rightarrow$ N<br>स्थान 6: O $\\\\rightarrow$ N<br><b>स्थान 7: N $\\\\rightarrow$ N (अपरिवर्तित)</b><br><b>स्थान 8: M $\\\\rightarrow$ M (अपरिवर्तित)</b><br>स्थान 9: E $\\\\rightarrow$ I<br>स्थान 10: N $\\\\rightarrow$ E<br>स्थान 11: T $\\\\rightarrow$ E<br>दो अक्षरों (N और M) का स्थान अपरिवर्तित रहता है।<br><br><b>Short Trick:</b><br><br>Simply list original letters over sorted letters and check vertical matches. Original: E N V I R O <b>N M</b> E N T. Reverse Sorted: V T R O N N <b>N M</b> I E E. Exactly two matches found at index 7 and 8."
+  },
+  {
+    "section": "General intelligence and Reasoning Ability",
+    "topic": "Number Series",
+    "difficulty": "Medium",
+    "q_en": "Refer to the following series and answer the question (all numbers are single digit numbers only). Counting to be done from left to right.<br><br>(Left) 8 3 6 8 9 5 4 8 6 2 3 3 4 7 4 2 5 4 6 5 5 1 8 (Right)<br><br>How many such odd digits are there, each of which is immediately preceded by an odd digit and also immediately followed by an odd digit?",
+    "q_hi": "निम्नलिखित श्रृंखला का संदर्भ लें और प्रश्न का उत्तर दें (सभी संख्याएँ केवल एक अंक की संख्याएँ हैं)। गिनती बाएँ से दाएँ की जानी चाहिए।<br><br>(बाएँ) 8 3 6 8 9 5 4 8 6 2 3 3 4 7 4 2 5 4 6 5 5 1 8 (दाएँ)<br><br>ऐसे कितने विषम अंक हैं, जिनमें से प्रत्येक के ठीक पहले एक विषम अंक है और ठीक बाद में भी एक विषम अंक है?",
+    "op_en": [
+      "Two",
+      "Four",
+      "Three",
+      "One"
+    ],
+    "op_hi": [
+      "दो",
+      "चार",
+      "तीन",
+      "एक"
+    ],
+    "ans": "4",
+    "solution": "<b>Solution (EN):</b><br><br>We are looking for the pattern: <b>(Odd) - (Odd) - (Odd)</b> where we need to count the middle odd digit.<br>Let's scan the series for consecutive odd numbers:<br>8 3 6 8 <b>9 5</b> 4 8 6 2 <b>3 3</b> 4 <b>7</b> 4 2 <b>5</b> 4 6 <b>5 5 1</b> 8<br><br>Checking the clusters of odd numbers:<br>- '9 5' is followed by '4' (Even).<br>- '3 3' is followed by '4' (Even).<br>- '7' is surrounded by '4' and '4' (Even).<br>- '5 5 1' has three consecutive odd numbers! <br>In this group: '5' (first), '5' (middle), '1' (last). The middle '5' is preceded by an odd digit ('5') and followed by an odd digit ('1').<br>Thus, there is only ONE such odd digit.<br><br><b>Solution (HI):</b><br><br>हम इस पैटर्न की तलाश कर रहे हैं: <b>(विषम) - (विषम) - (विषम)</b> जहाँ हमें बीच वाले विषम अंक की गणना करनी है।<br>आइए लगातार विषम संख्याओं के लिए श्रृंखला को स्कैन करें:<br>8 3 6 8 <b>9 5</b> 4 8 6 2 <b>3 3</b> 4 <b>7</b> 4 2 <b>5</b> 4 6 <b>5 5 1</b> 8<br><br>विषम संख्याओं के समूहों की जाँच करने पर:<br>- '9 5' के बाद '4' (सम) है।<br>- '3 3' के बाद '4' (सम) है।<br>- '7' के दोनों ओर '4' (सम) है।<br>- '5 5 1' में लगातार तीन विषम संख्याएँ हैं!<br>इस समूह में: बीच वाला '5' एक विषम अंक ('5') से पहले है और एक विषम अंक ('1') के बाद है।<br>इस प्रकार, ऐसा केवल एक (ONE) ही विषम अंक है।<br><br><b>Short Trick:</b><br><br>Scan the entire string specifically looking for 3 odd digits in a row. You will quickly pass over small clusters and only land on \"5 5 1\" near the end. This counts as exactly 1 valid occurrence."
+  },
+  {
+    "section": "General intelligence and Reasoning Ability",
+    "topic": "Coding-Decoding",
+    "difficulty": "Easy",
+    "q_en": "In a certain code language, ‘TAIL’ is coded as ‘5376’ and ‘LATE’ is coded as ‘2537’. What is the code for ‘E’ in the given code language?",
+    "q_hi": "एक निश्चित कूट भाषा में, 'TAIL' को '5376' और 'LATE' को '2537' के रूप में कूटबद्ध किया गया है। दी गई कूट भाषा में 'E' के लिए कूट क्या है?",
+    "op_en": [
+      "2",
+      "7",
+      "3",
+      "5"
+    ],
+    "op_hi": [
+      "2",
+      "7",
+      "3",
+      "5"
+    ],
+    "ans": "1",
+    "solution": "<b>Solution (EN):</b><br><br>Let's analyze the given codes:<br>TAIL $\\\\rightarrow$ 5, 3, 7, 6<br>LATE $\\\\rightarrow$ 2, 5, 3, 7<br><br>Common letters in both words are: <b>T, A, L</b><br>Common digits in both codes are: <b>5, 3, 7</b><br><br>This means the codes for T, A, and L are represented by the digits 5, 3, and 7 in some order.<br>Now, looking at the word LATE, the only remaining letter is <b>E</b>, and the only remaining code digit is <b>2</b>.<br>Therefore, the code for 'E' is 2.<br><br><b>Solution (HI):</b><br><br>आइए दिए गए कूटों का विश्लेषण करें:<br>TAIL $\\\\rightarrow$ 5, 3, 7, 6<br>LATE $\\\\rightarrow$ 2, 5, 3, 7<br><br>दोनों शब्दों में समान अक्षर हैं: <b>T, A, L</b><br>दोनों कूटों में समान अंक हैं: <b>5, 3, 7</b><br><br>इसका अर्थ है कि T, A और L के लिए कूट किसी क्रम में 5, 3 और 7 हैं।<br>अब, LATE शब्द में, शेष बचा एकमात्र अक्षर <b>E</b> है, और एकमात्र शेष अंक <b>2</b> है।<br>अतः 'E' के लिए कूट 2 है।<br><br><b>Short Trick:</b><br><br>Eliminate common letters (L, A, T) and numbers (3, 5, 7) directly. In 'LATE', only 'E' is left and in '2537', only '2' is left. Thus, E = 2."
+  },
+  {
+    "section": "General intelligence and Reasoning Ability",
+    "topic": "Alphabetical Series",
+    "difficulty": "Medium",
+    "q_en": "Each vowel in the word CLINGER is changed to the letter immediately following it in the English alphabetical order and each consonant is changed to the letter immediately preceding it in the English alphabetical order. How many letters will appear exactly twice in the new group of letters thus formed?",
+    "q_hi": "शब्द CLINGER में प्रत्येक स्वर को अंग्रेजी वर्णमाला में उसके ठीक बाद आने वाले अक्षर से बदल दिया जाता है और प्रत्येक व्यंजन को अंग्रेजी वर्णमाला में उसके ठीक पहले आने वाले अक्षर से बदल दिया जाता है। इस प्रकार बने अक्षरों के नए समूह में कितने अक्षर ठीक दो बार दिखाई देंगे?",
+    "op_en": [
+      "Three",
+      "None",
+      "Two",
+      "One"
+    ],
+    "op_hi": [
+      "तीन",
+      "कोई नहीं",
+      "दो",
+      "एक"
+    ],
+    "ans": "4",
+    "solution": "<b>Solution (EN):</b><br><br>Given Word: C L I N G E R<br>Rule:<br>- Vowel $\\\\rightarrow$ Next Letter (+1)<br>- Consonant $\\\\rightarrow$ Previous Letter (-1)<br><br>Applying the rule:<br>C (Consonant) - 1 = B<br>L (Consonant) - 1 = K<br>I (Vowel) + 1 = J<br>N (Consonant) - 1 = M<br>G (Consonant) - 1 = F<br>E (Vowel) + 1 = F<br>R (Consonant) - 1 = Q<br><br>The new group of letters is: <b>B, K, J, M, F, F, Q</b><br>Looking at the new group, the letter 'F' appears exactly twice. No other letter repeats.<br>So, only ONE letter appears exactly twice.<br><br><b>Solution (HI):</b><br><br>दिया गया शब्द: C L I N G E R<br>नियम:<br>- स्वर (Vowel) $\\\\rightarrow$ अगला अक्षर (+1)<br>- व्यंजन (Consonant) $\\\\rightarrow$ पिछला अक्षर (-1)<br><br>नियम लागू करने पर:<br>C (व्यंजन) - 1 = B<br>L (व्यंजन) - 1 = K<br>I (स्वर) + 1 = J<br>N (व्यंजन) - 1 = M<br>G (व्यंजन) - 1 = F<br>E (स्वर) + 1 = F<br>R (व्यंजन) - 1 = Q<br><br>अक्षरों का नया समूह है: <b>B, K, J, M, F, F, Q</b><br>नए समूह को देखने पर, अक्षर 'F' ठीक दो बार आता है। कोई अन्य अक्षर दोहराया नहीं गया है।<br>अतः केवल एक (ONE) ही अक्षर ठीक दो बार दिखाई देता है।<br><br><b>Short Trick:</b><br><br>Change only adjacent letters based on the vowel/consonant rule. G(-1) $\\\\rightarrow$ F and E(+1) $\\\\rightarrow$ F. The rest map to different letters. Hence, only 1 pair is formed."
+  },
+  {
+    "section": "General intelligence and Reasoning Ability",
+    "topic": "Coding-Decoding",
+    "difficulty": "Easy",
+    "q_en": "In a certain code language, ‘queen strong chess’ is coded as ‘mh pa fo’ and ‘exercise muscle strong’ is coded as ‘pa ti ze’. How is ‘strong’ coded in the given language?",
+    "q_hi": "एक निश्चित कूट भाषा में, 'queen strong chess' को 'mh pa fo' के रूप में और 'exercise muscle strong' को 'pa ti ze' के रूप में कूटबद्ध किया गया है। दी गई भाषा में 'strong' को किस प्रकार कूटबद्ध किया गया है?",
+    "op_en": [
+      "ze",
+      "pa",
+      "ti",
+      "fo"
+    ],
+    "op_hi": [
+      "ze",
+      "pa",
+      "ti",
+      "fo"
+    ],
+    "ans": "2",
+    "solution": "<b>Solution (EN):</b><br><br>Let's compare the two coded sentences:<br>Sentence 1: queen <b>strong</b> chess = mh <b>pa</b> fo<br>Sentence 2: exercise muscle <b>strong</b> = <b>pa</b> ti ze<br><br>The only common word in both sentences is <b>'strong'</b>.<br>The only common code in both statements is <b>'pa'</b>.<br>Therefore, the code for 'strong' is 'pa'.<br><br><b>Solution (HI):</b><br><br>आइए दोनों कूटबद्ध वाक्यों की तुलना करें:<br>वाक्य 1: queen <b>strong</b> chess = mh <b>pa</b> fo<br>वाक्य 2: exercise muscle <b>strong</b> = <b>pa</b> ti ze<br><br>दोनों वाक्यों में एकमात्र समान शब्द <b>'strong'</b> है।<br>दोनों कथनों में एकमात्र समान कूट <b>'pa'</b> है।<br>अतः 'strong' के लिए कूट 'pa' है।<br><br><b>Short Trick:</b><br><br>Just spot the intersection. Word Intersection = {strong}. Code Intersection = {pa}. Hence, strong = pa."
+  },
+  {
+    "section": "General intelligence and Reasoning Ability",
+    "topic": "Puzzle (Floors)",
+    "difficulty": "Hard",
+    "q_en": "M, N, O, P, Q, and R live on six different floors of the same building. The lowermost floor in the building is numbered 1, the floor above it, number 2 and so on till the topmost floor is numbered 6. O lives on an odd numbered floor but not on the lowermost floor. Only two people live between O and P. Only one person lives between P and M. N is immediately above M. Q is immediately above R, but Q does not live on the top floor. On which floor number does N live?",
+    "q_hi": "M, N, O, P, Q और R एक ही इमारत की छह अलग-अलग मंजिलों पर रहते हैं। इमारत की सबसे निचली मंजिल की संख्या 1 है, उसके ऊपर की मंजिल की संख्या 2 है और इसी तरह सबसे ऊपरी मंजिल की संख्या 6 है। O एक विषम संख्या वाली मंजिल पर रहता है लेकिन सबसे निचली मंजिल पर नहीं। O और P के बीच केवल दो व्यक्ति रहते हैं। P और M के बीच केवल एक व्यक्ति रहता है। N, M के ठीक ऊपर है। Q, R के ठीक ऊपर है, लेकिन Q सबसे ऊपरी मंजिल पर नहीं रहता है। N किस मंजिल संख्या पर रहता है?",
+    "op_en": [
+      "Floor number 5",
+      "Floor number 4",
+      "Floor number 2",
+      "Floor number 6"
+    ],
+    "op_hi": [
+      "मंजिल संख्या 5",
+      "मंजिल संख्या 4",
+      "मंजिल संख्या 2",
+      "मंजिल संख्या 6"
+    ],
+    "ans": "1",
+    "solution": "<b>Solution (EN):</b><br><br>There are 6 floors (1 to 6).<br>1. O is on an odd floor but not 1. So, O is on Floor 3 or 5.<br><br><b>Case 1: O is on Floor 3.</b><br>- Two people live between O and P. Since O is on 3, P must be on 6 (3 + 3 = 6).<br>- One person between P and M. Since P is on 6, M must be on 4.<br>- N is immediately above M. Since M is on 4, N must be on 5.<br>- Current arrangement: 6:P, 5:N, 4:M, 3:O, 2:_, 1:_<br>- Q is immediately above R, and Q is not on the top floor. The remaining spots are 2 and 1. Placing Q on 2 and R on 1 satisfies all conditions.<br>- <b>Valid Arrangement:</b> 6:P, 5:N, 4:M, 3:O, 2:Q, 1:R.<br><br><b>Case 2: O is on Floor 5.</b><br>- Two people between O and P. Since O is 5, P must be on 2.<br>- One person between P and M. M could be on 4. <br>- N is immediately above M. If M is 4, N must be 5. But O is already on 5! This contradicts the setup. (Invalid Case)<br><br>Therefore, the correct arrangement is Case 1. N lives on <b>Floor number 5</b>.<br><br><b>Solution (HI):</b><br><br>यहाँ 6 मंजिलें हैं (1 से 6)।<br>1. O विषम संख्या वाली मंजिल पर है लेकिन 1 पर नहीं। अतः, O मंजिल 3 या 5 पर है।<br><br><b>स्थिति 1: O मंजिल 3 पर है।</b><br>- O और P के बीच दो व्यक्ति रहते हैं। चूँकि O 3 पर है, इसलिए P, 6 पर होगा (3 + 3 = 6)।<br>- P और M के बीच एक व्यक्ति रहता है। चूँकि P, 6 पर है, इसलिए M, 4 पर होगा।<br>- N, M के ठीक ऊपर है। चूँकि M, 4 पर है, इसलिए N, 5 पर होगा।<br>- वर्तमान व्यवस्था: 6:P, 5:N, 4:M, 3:O, 2:_, 1:_<br>- Q, R के ठीक ऊपर है, और Q सबसे ऊपरी मंजिल पर नहीं है। शेष स्थान 2 और 1 हैं। Q को 2 पर और R को 1 पर रखने से सभी शर्तें पूरी होती हैं।<br>- <b>वैध व्यवस्था:</b> 6:P, 5:N, 4:M, 3:O, 2:Q, 1:R.<br><br><b>स्थिति 2: O मंजिल 5 पर है।</b><br>- O और P के बीच दो व्यक्ति हैं। चूँकि O, 5 पर है, इसलिए P, 2 पर होगा।<br>- P और M के बीच एक व्यक्ति है। M, 4 पर हो सकता है।<br>- N, M के ठीक ऊपर है। यदि M, 4 पर है, तो N को 5 पर होना चाहिए। लेकिन O पहले से ही 5 पर है! यह विरोधाभास है। (अवैध स्थिति)<br><br>अतः, सही व्यवस्था स्थिति 1 है। N <b>मंजिल संख्या 5</b> पर रहता है।<br><br><b>Short Trick:</b><br><br>Start with O=3. P becomes 6. Since N is directly above M and there is a gap of 1 between P(6) and M, M must be 4, forcing N to be 5. It clicks instantly!"
+  }
+]
