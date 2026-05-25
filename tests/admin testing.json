@@ -45,8 +45,8 @@
         "section": "General intelligence and Reasoning Ability",
         "topic": "Blood Relations",
         "difficulty": "Medium",
-        "q_en": "In a certain code language,<br>‘A # B’ means ‘A is the daughter of B’,<br>‘A @ B’ means ‘A is the mother of B’,<br>‘A & B’ means ‘A is the wife of B’, and<br>‘A % B’ means ‘A is the father of B’.<br><br>Based on the above, how is F related to Z if ‘F % T # O $ Q & Z’?",
-        "q_hi": "एक निश्चित कूट भाषा में,<br>'A # B' का अर्थ है 'A, B की पुत्री है',<br>'A @ B' का अर्थ है 'A, B की माता है',<br>'A & B' का अर्थ है 'A, B की पत्नी है', और<br>'A % B' का अर्थ है 'A, B का पिता है'।<br><br>उपरोक्त के आधार पर, यदि 'F % T # O $ Q & Z' है, तो F, Z से किस प्रकार संबंधित है?",
+        "q_en": "In a certain code language,<br>‘A # B’ means ‘A is the daughter of B’,<br>‘A $ B’ means ‘A is the mother of B’,<br>‘A & B’ means ‘A is the wife of B’, and<br>‘A % B’ means ‘A is the father of B’.<br><br>Based on the above, how is F related to Z if ‘F % T # O $ Q & Z’?",
+        "q_hi": "एक निश्चित कूट भाषा में,<br>'A # B' का अर्थ है 'A, B की पुत्री है',<br>'A $ B' का अर्थ है 'A, B की माता है',<br>'A & B' का अर्थ है 'A, B की पत्नी है', और<br>'A % B' का अर्थ है 'A, B का पिता है'।<br><br>उपरोक्त के आधार पर, यदि 'F % T # O $ Q & Z' है, तो F, Z से किस प्रकार संबंधित है?",
         "op_en": [
             "Wife's father",
             "Brother",
@@ -208,27 +208,6 @@
         ],
         "ans": "1",
         "solution": "<b>Solution (EN):</b><br><br>There are 6 floors (1 to 6).<br>1. O is on an odd floor but not 1. So, O is on Floor 3 or 5.<br><br><b>Case 1: O is on Floor 3.</b><br>- Two people live between O and P. Since O is on 3, P must be on 6 (3 + 3 = 6).<br>- One person between P and M. Since P is on 6, M must be on 4.<br>- N is immediately above M. Since M is on 4, N must be on 5.<br>- Current arrangement: 6:P, 5:N, 4:M, 3:O, 2:_, 1:_<br>- Q is immediately above R, and Q is not on the top floor. The remaining spots are 2 and 1. Placing Q on 2 and R on 1 satisfies all conditions.<br>- <b>Valid Arrangement:</b> 6:P, 5:N, 4:M, 3:O, 2:Q, 1:R.<br><br><b>Case 2: O is on Floor 5.</b><br>- Two people between O and P. Since O is 5, P must be on 2.<br>- One person between P and M. M could be on 4. <br>- N is immediately above M. If M is 4, N must be 5. But O is already on 5! This contradicts the setup. (Invalid Case)<br><br>Therefore, the correct arrangement is Case 1. N lives on <b>Floor number 5</b>.<br><br><b>Solution (HI):</b><br><br>यहाँ 6 मंजिलें हैं (1 से 6)।<br>1. O विषम संख्या वाली मंजिल पर है लेकिन 1 पर नहीं। अतः, O मंजिल 3 या 5 पर है।<br><br><b>स्थिति 1: O मंजिल 3 पर है।</b><br>- O और P के बीच दो व्यक्ति रहते हैं। चूँकि O 3 पर है, इसलिए P, 6 पर होगा (3 + 3 = 6)।<br>- P और M के बीच एक व्यक्ति रहता है। चूँकि P, 6 पर है, इसलिए M, 4 पर होगा।<br>- N, M के ठीक ऊपर है। चूँकि M, 4 पर है, इसलिए N, 5 पर होगा।<br>- वर्तमान व्यवस्था: 6:P, 5:N, 4:M, 3:O, 2:_, 1:_<br>- Q, R के ठीक ऊपर है, और Q सबसे ऊपरी मंजिल पर नहीं है। शेष स्थान 2 और 1 हैं। Q को 2 पर और R को 1 पर रखने से सभी शर्तें पूरी होती हैं।<br>- <b>वैध व्यवस्था:</b> 6:P, 5:N, 4:M, 3:O, 2:Q, 1:R.<br><br><b>स्थिति 2: O मंजिल 5 पर है।</b><br>- O और P के बीच दो व्यक्ति हैं। चूँकि O, 5 पर है, इसलिए P, 2 पर होगा।<br>- P और M के बीच एक व्यक्ति है। M, 4 पर हो सकता है।<br>- N, M के ठीक ऊपर है। यदि M, 4 पर है, तो N को 5 पर होना चाहिए। लेकिन O पहले से ही 5 पर है! यह विरोधाभास है। (अवैध स्थिति)<br><br>अतः, सही व्यवस्था स्थिति 1 है। N <b>मंजिल संख्या 5</b> पर रहता है।<br><br><b>Short Trick:</b><br><br>Start with O=3. P becomes 6. Since N is directly above M and there is a gap of 1 between P(6) and M, M must be 4, forcing N to be 5. It clicks instantly!"
-    },
-    {
-        "section": "General intelligence and Reasoning Ability",
-        "topic": "Mathematical Inequalities",
-        "difficulty": "Medium",
-        "q_en": "In this question, statement is followed by two conclusions, numbered I and II. Find out which conclusion(s) is/are true based on the given statements. <br><br>Statement: $W > X < Y < Z = D$<br><br>Conclusions:<br>I. $W < Y$<br>II. $D < W$",
-        "q_hi": "इस प्रश्न में, कथन के बाद दो निष्कर्ष I और II दिए गए हैं। दिए गए कथनों के आधार पर ज्ञात कीजिए कि कौन सा/से निष्कर्ष सत्य है/हैं। <br><br>कथन: $W > X < Y < Z = D$<br><br>निष्कर्ष:<br>I. $W < Y$<br>II. $D < W$",
-        "op_en": [
-            "Neither I nor II is true",
-            "Only II is true",
-            "Only I is true",
-            "Both I and II are true"
-        ],
-        "op_hi": [
-            "न तो I न ही II सत्य है",
-            "केवल II सत्य है",
-            "केवल I सत्य है",
-            "I और II दोनों सत्य हैं"
-        ],
-        "ans": "1",
-        "solution": "<b>Solution (EN):</b><br><br>Given Statement: $W > X < Y < Z = D$<br><br>Let's check the conclusions:<br><b>Conclusion I: $W < Y$</b><br>Looking at the relationship between W and Y in the statement, we have $W > X < Y$. Since there are opposite signs ($>$ and $<$) between W and Y, no definite relationship can be established. Therefore, Conclusion I is false.<br><br><b>Conclusion II: $D < W$</b><br>Looking at the relationship between W and D, we have $W > X < Y < Z = D$. Again, due to opposite signs between W and the rest of the variables, no definite relationship can be established. Therefore, Conclusion II is false.<br><br>Since both conclusions are false, neither I nor II is true.<br><br><b>Solution (HI):</b><br><br>दिया गया कथन: $W > X < Y < Z = D$<br><br>आइए निष्कर्षों की जाँच करें:<br><b>निष्कर्ष I: $W < Y$</b><br>कथन में W और Y के बीच के संबंध को देखने पर, हमारे पास $W > X < Y$ है। चूँकि W और Y के बीच विपरीत चिह्न ($>$ और $<$) हैं, इसलिए कोई निश्चित संबंध स्थापित नहीं किया जा सकता है। अतः निष्कर्ष I असत्य है।<br><br><b>निष्कर्ष II: $D < W$</b><br>W और D के बीच के संबंध को देखने पर, हमारे पास $W > X < Y < Z = D$ है। पुनः, W और अन्य चरों के बीच विपरीत चिह्नों के कारण, कोई निश्चित संबंध स्थापित नहीं किया जा सकता है। अतः निष्कर्ष II असत्य है।<br><br>चूँकि दोनों निष्कर्ष असत्य हैं, इसलिए न तो I और न ही II सत्य है।<br><br><b>Short Trick:</b><br><br>Whenever you see opposite inequality signs (like $>$ and $<$, or $\\geq$ and $<$) between two elements in a statement, any definite conclusion between those two elements will directly be false. Here, W and Y have opposite signs, and W and D also have opposite signs. Both false!"
     },
     {
         "section": "General intelligence and Reasoning Ability",
