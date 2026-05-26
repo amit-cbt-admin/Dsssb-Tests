@@ -192,8 +192,8 @@
         "section": "General intelligence and Reasoning Ability",
         "topic": "",
         "difficulty": "",
-        "q_en": "किसी निश्चित कूट भाषा में,<br><br>A @ B का अर्थ है ‘A, B की पुत्री है’<br><br>A # B का अर्थ है ‘A, B का भाई है’<br><br>A $ B का अर्थ है ‘A, B की पत्नी है’<br><br>A % B का अर्थ है ‘A, B का पिता है’<br><br>उपरोक्त के आधार पर, यदि ‘R $ N # T % D @ M’ है, तो R का M से क्या संबंध है?",
-        "q_hi": "किसी निश्चित कूट भाषा में,<br><br>A @ B का अर्थ है ‘A, B की पुत्री है’<br><br>A # B का अर्थ है ‘A, B का भाई है’<br><br>A $ B का अर्थ है ‘A, B की पत्नी है’<br><br>A % B का अर्थ है ‘A, B का पिता है’<br><br>उपरोक्त के आधार पर, यदि ‘R $ N # T % D @ M’ है, तो R का M से क्या संबंध है?",
+        "q_en": "किसी निश्चित कूट भाषा में,<br><br>A @ B का अर्थ है ‘A, B की पुत्री है’<br><br>A # B का अर्थ है ‘A, B का भाई है’<br><br>A ! B का अर्थ है ‘A, B की पत्नी है’<br><br>A % B का अर्थ है ‘A, B का पिता है’<br><br>उपरोक्त के आधार पर, यदि ‘R ! N # T % D @ M’ है, तो R का M से क्या संबंध है?",
+        "q_hi": "किसी निश्चित कूट भाषा में,<br><br>A @ B का अर्थ है ‘A, B की पुत्री है’<br><br>A # B का अर्थ है ‘A, B का भाई है’<br><br>A ! B का अर्थ है ‘A, B की पत्नी है’<br><br>A % B का अर्थ है ‘A, B का पिता है’<br><br>उपरोक्त के आधार पर, यदि ‘R ! N # T % D @ M’ है, तो R का M से क्या संबंध है?",
         "op_en": [
             "पति के भाई की पुत्री",
             "भाई की पत्नी",
@@ -234,8 +234,8 @@
         "section": "General intelligence and Reasoning Ability",
         "topic": "",
         "difficulty": "",
-        "q_en": "Refer to the following letter, symbol series and answer the question.<br><br>(Left) T # & D % £ A % K $ P Q & $ Z £ D F Ω # F (Right)<br><br>If all the symbols are dropped from the series, which of the following will be sixth from the left?",
-        "q_hi": "Refer to the following letter, symbol series and answer the question.<br><br>(Left) T # & D % £ A % K $ P Q & $ Z £ D F Ω # F (Right)<br><br>If all the symbols are dropped from the series, which of the following will be sixth from the left?",
+        "q_en": "Refer to the following letter, symbol series and answer the question.<br><br>(Left) T # & D % £ A % K ! P Q & ! Z £ D F Ω # F (Right)<br><br>If all the symbols are dropped from the series, which of the following will be sixth from the left?",
+        "q_hi": "Refer to the following letter, symbol series and answer the question.<br><br>(Left) T # & D % £ A % K ! P Q & ! Z £ D F Ω # F (Right)<br><br>If all the symbols are dropped from the series, which of the following will be sixth from the left?",
         "op_en": [
             "P",
             "A",
