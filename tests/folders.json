@@ -1,0 +1,488 @@
+{
+  "folder_1": {
+    "board": "SSC",
+    "colorClass": "f-purple",
+    "examKey": "SSC CGL",
+    "icon": "🏛️",
+    "name": "SSC CGL",
+    "order": 7,
+    "subCategories": [
+      {
+        "filterKey": "full_mock",
+        "name": "Full Mock"
+      },
+      {
+        "filterKey": "maths",
+        "name": "Maths"
+      },
+      {
+        "filterKey": "english",
+        "name": "English"
+      },
+      {
+        "filterKey": "gk",
+        "name": "GK"
+      },
+      {
+        "filterKey": "reasoning",
+        "name": "REASONING"
+      }
+    ]
+  },
+  "folder_2": {
+    "colorClass": "f-purple",
+    "examKey": "dass",
+    "icon": "🎓",
+    "name": "DASS Grade II",
+    "order": 2,
+    "subCategories": [
+      {
+        "filterKey": "full",
+        "name": "Full Mock"
+      },
+      {
+        "filterKey": "sectional",
+        "name": "Sectional"
+      },
+      {
+        "filterKey": "gk",
+        "name": "GK"
+      }
+    ]
+  },
+  "folder_ATP": {
+    "board": "DSSSB",
+    "colorClass": "f-blue",
+    "examKey": "ATP",
+    "icon": "📝",
+    "name": "Assistant Teacher Primary Ans Key (HINDI MED) 2026",
+    "order": 4,
+    "subCategories": [
+      {
+        "filterKey": "full_mock",
+        "name": "FULL MOCK"
+      },
+      {
+        "filterKey": "reasoning",
+        "name": "REASONING"
+      },
+      {
+        "filterKey": "maths",
+        "name": "MATHS"
+      },
+      {
+        "filterKey": "english",
+        "name": "ENGLISH"
+      },
+      {
+        "filterKey": "hindi",
+        "name": "HINDI"
+      },
+      {
+        "filterKey": "gk",
+        "name": "GK"
+      },
+      {
+        "filterKey": "discipline",
+        "name": "DISCIPLINE"
+      }
+    ]
+  },
+  "folder_Assistant Section Officer": {
+    "board": "DSSSB",
+    "colorClass": "f-blue",
+    "examKey": "Assistant Section Officer",
+    "icon": "🏛️",
+    "name": "Assistant Section Officer",
+    "order": 8,
+    "subCategories": [
+      {
+        "filterKey": "full_mock",
+        "name": "Full Mock"
+      },
+      {
+        "filterKey": "english",
+        "name": "English"
+      },
+      {
+        "filterKey": "hindi",
+        "name": "Hindi"
+      },
+      {
+        "filterKey": "gk",
+        "name": "Gk"
+      },
+      {
+        "filterKey": "reasoning",
+        "name": "Reasoning"
+      },
+      {
+        "filterKey": "maths",
+        "name": "Maths"
+      },
+      {
+        "filterKey": "computer",
+        "name": "Computer"
+      }
+    ]
+  },
+  "folder_Assistant Superintendent": {
+    "board": "DSSSB",
+    "colorClass": "f-blue",
+    "examKey": "Assistant Superintendent",
+    "icon": "👮‍♂️",
+    "name": "Assistant Superintendent",
+    "order": 1,
+    "subCategories": [
+      {
+        "filterKey": "full_mock",
+        "name": "Full Mock"
+      },
+      {
+        "filterKey": "hindi",
+        "name": "Hindi"
+      },
+      {
+        "filterKey": "english",
+        "name": "English"
+      },
+      {
+        "filterKey": "maths",
+        "name": "Maths"
+      },
+      {
+        "filterKey": "reasoning",
+        "name": "Reasoning"
+      },
+      {
+        "filterKey": "gk",
+        "name": "Gk"
+      }
+    ]
+  },
+  "folder_Chowkidar": {
+    "board": "DSSSB",
+    "colorClass": "f-blue",
+    "examKey": "Chowkidar",
+    "icon": "🏛️",
+    "name": "Chowkidar",
+    "order": 9,
+    "subCategories": [
+      {
+        "filterKey": "full_mock",
+        "name": "Full Mock"
+      },
+      {
+        "filterKey": "hindi",
+        "name": "Hindi"
+      },
+      {
+        "filterKey": "english",
+        "name": "English"
+      },
+      {
+        "filterKey": "gk",
+        "name": "Gk"
+      },
+      {
+        "filterKey": "arithmetic",
+        "name": "Arithmetic"
+      }
+    ]
+  },
+  "folder_Combined Post": {
+    "board": "DSSSB",
+    "colorClass": "f-blue",
+    "examKey": "Combined Post",
+    "icon": "🎓",
+    "name": "Dass Grade-IV/ Stenographer PYQs",
+    "order": 10,
+    "subCategories": [
+      {
+        "filterKey": "full_mock",
+        "name": "Full Mock"
+      },
+      {
+        "filterKey": "english",
+        "name": "English"
+      },
+      {
+        "filterKey": "hindi",
+        "name": "Hindi"
+      },
+      {
+        "filterKey": "gk",
+        "name": "Gk"
+      },
+      {
+        "filterKey": "maths",
+        "name": "Maths"
+      },
+      {
+        "filterKey": "reasoning",
+        "name": "Reasoning"
+      },
+      {
+        "filterKey": "computer",
+        "name": "Computer"
+      }
+    ]
+  },
+  "folder_DSSSB MTS": {
+    "board": "DSSSB",
+    "colorClass": "f-green",
+    "examKey": "DSSSB MTS",
+    "icon": "🎓",
+    "name": "DSSSB MTS OFFICIAL PAPERS POST CODE 812/24",
+    "order": 1,
+    "subCategories": [
+      {
+        "filterKey": "full_mock",
+        "name": "FULL MOCK"
+      },
+      {
+        "filterKey": "hindi",
+        "name": "HINDI"
+      },
+      {
+        "filterKey": "english",
+        "name": "ENGLISH"
+      },
+      {
+        "filterKey": "gk",
+        "name": "GK"
+      },
+      {
+        "filterKey": "maths",
+        "name": "MATHS"
+      },
+      {
+        "filterKey": "reasoning",
+        "name": "REASONING"
+      }
+    ]
+  },
+  "folder_HINDI": {
+    "board": "DSSSB",
+    "colorClass": "f-blue",
+    "examKey": "HINDI",
+    "icon": "📁",
+    "name": "HINDI SECTIONAL PYQs 2026",
+    "order": 7
+  },
+  "folder_PGT": {
+    "board": "DSSSB",
+    "colorClass": "f-blue",
+    "examKey": "PGT",
+    "icon": "👨‍🏫",
+    "name": "PGT ANS KEYS",
+    "order": 5,
+    "subCategories": [
+      {
+        "filterKey": "full_mock",
+        "name": "FULL MOCK"
+      },
+      {
+        "filterKey": "reasoning",
+        "name": "REASONING"
+      },
+      {
+        "filterKey": "maths",
+        "name": "MATHS"
+      },
+      {
+        "filterKey": "english",
+        "name": "ENGLISH"
+      },
+      {
+        "filterKey": "hindi",
+        "name": "HINDI"
+      },
+      {
+        "filterKey": "gk",
+        "name": "GK"
+      },
+      {
+        "filterKey": "discipline",
+        "name": "DISCIPLINE"
+      },
+      {
+        "filterKey": "teaching_methodology",
+        "name": "Teaching Methodology"
+      }
+    ]
+  },
+  "folder_Peon": {
+    "board": "DSSSB",
+    "colorClass": "f-blue",
+    "examKey": "Peon",
+    "icon": "📝",
+    "name": "PYQs Peon / Orderly / Dak Peon Post Code: 822/24",
+    "order": 8,
+    "subCategories": [
+      {
+        "filterKey": "full_mock",
+        "name": "Full Mock"
+      },
+      {
+        "filterKey": "english",
+        "name": "English"
+      },
+      {
+        "filterKey": "hindi",
+        "name": "Hindi"
+      },
+      {
+        "filterKey": "gk",
+        "name": "Gk"
+      },
+      {
+        "filterKey": "arithmetic",
+        "name": "Arithmetic"
+      }
+    ]
+  },
+  "folder_WARDER": {
+    "board": "DSSSB",
+    "colorClass": "f-blue",
+    "examKey": "WARDER",
+    "icon": "📁",
+    "name": "WARDER FOR MALE",
+    "order": 6,
+    "subCategories": [
+      {
+        "filterKey": "en_medium",
+        "name": "EN MEDIUM"
+      },
+      {
+        "filterKey": "hi_medium",
+        "name": "HI MEDIUM"
+      },
+      {
+        "filterKey": "full_mock",
+        "name": "FULL MOCK"
+      },
+      {
+        "filterKey": "reasoning",
+        "name": "REASONING"
+      },
+      {
+        "filterKey": "gk",
+        "name": "GK"
+      },
+      {
+        "filterKey": "maths",
+        "name": "MATHS"
+      },
+      {
+        "filterKey": "english",
+        "name": "ENGLISH"
+      },
+      {
+        "filterKey": "hindi",
+        "name": "HINDI"
+      }
+    ]
+  },
+  "folder_baliff": {
+    "colorClass": "f-blue",
+    "examKey": "baliff",
+    "icon": "⚖️",
+    "name": "Baliff",
+    "order": 3,
+    "subCategories": [
+      {
+        "filterKey": "full_mock",
+        "name": "FULL MOCK"
+      },
+      {
+        "filterKey": "hindi",
+        "name": "HINDI"
+      },
+      {
+        "filterKey": "english",
+        "name": "ENGLISH"
+      },
+      {
+        "filterKey": "gk",
+        "name": "GK"
+      },
+      {
+        "filterKey": "maths",
+        "name": "MATHS"
+      },
+      {
+        "filterKey": "reasoning",
+        "name": "REASONING"
+      }
+    ]
+  },
+  "folder_court_attendant_801_25": {
+    "board": "DSSSB",
+    "colorClass": "f-blue",
+    "examKey": "court attendant",
+    "icon": "🏛️",
+    "name": "Court Attendant",
+    "order": 1,
+    "subCategories": [
+      {
+        "filterKey": "full_mock",
+        "name": "Full Mock"
+      },
+      {
+        "filterKey": "hindi",
+        "name": "Hindi"
+      },
+      {
+        "filterKey": "english",
+        "name": "English"
+      },
+      {
+        "filterKey": "gk",
+        "name": "Gk"
+      },
+      {
+        "filterKey": "arithmetic",
+        "name": "Arithmetic"
+      }
+    ]
+  },
+  "folder_dsssb_ans_key_mocks": {
+    "board": "DSSSB",
+    "colorClass": "f-purple",
+    "examKey": "ASO PYQ",
+    "icon": "📝",
+    "name": "ASO PYQ ANS KEY ENGLISH MEDIUM",
+    "order": 8,
+    "subCategories": [
+      {
+        "filterKey": "full_mock",
+        "name": "Full Mock"
+      },
+      {
+        "filterKey": "english",
+        "name": "English"
+      },
+      {
+        "filterKey": "hindi",
+        "name": "Hindi"
+      },
+      {
+        "filterKey": "gk",
+        "name": "Gk"
+      },
+      {
+        "filterKey": "reasoning",
+        "name": "Reasoning"
+      },
+      {
+        "filterKey": "maths",
+        "name": "Maths"
+      },
+      {
+        "filterKey": "computer",
+        "name": "Computer"
+      }
+    ]
+  }
+}
