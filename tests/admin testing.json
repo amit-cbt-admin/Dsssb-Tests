@@ -208,5 +208,131 @@
         ],
         "ans": 3,
         "solution": "<b>Solution (EN):</b> Dimensions: $L = 14$ cm, $W = 12$ cm, $H = 10$ cm.<br>Area of blue faces (length and height) = $2 \\times (L \\times H) = 2 \\times (14 \\times 10) = 280 \\text{ cm}^2$.<br>Area of green faces (width and height) = $2 \\times (W \\times H) = 2 \\times (12 \\times 10) = 240 \\text{ cm}^2$.<br>Total cost of blue paint = $280 \\times 40 =$ ₹$11200$.<br>Total cost of green paint = $240 \\times 50 =$ ₹$12000$.<br>Difference = $12000 - 11200 =$ ₹$800$.<br>Hence, the green color has a higher cost by ₹$800$.<br><br><b>Solution (HI):</b> विमाएँ: $L = 14$ सेमी, $W = 12$ सेमी, $H = 10$ सेमी।<br>नीले फलकों का क्षेत्रफल (लंबाई और ऊंचाई) = $2 \\times (L \\times H) = 2 \\times (14 \\times 10) = 280 \\text{ cm}^2$।<br>हरे फलकों का क्षेत्रफल (चौड़ाई और ऊंचाई) = $2 \\times (W \\times H) = 2 \\times (12 \\times 10) = 240 \\text{ cm}^2$।<br>नीले पेंट की कुल लागत = $280 \\times 40 =$ ₹$11200$।<br>हरे पेंट की कुल लागत = $240 \\times 50 =$ ₹$12000$।<br>अंतर = $12000 - 11200 =$ ₹$800$।<br>अतः, हरे रंग की लागत ₹$800$ अधिक है।<br><br><b>Short Trick:</b> Difference = $(240 \\times 50) - (280 \\times 40) = 12000 - 11200 = 800$ (Green is more)."
+    },
+    {
+        "section": "Arithmetical and Numerical Ability1",
+        "topic": "Arithmetic",
+        "difficulty": "Medium",
+        "q_en": "Find the difference between a single discount of 38% and two successive discounts of 32% and 6% on a bill of ₹1,200.",
+        "q_hi": "₹1,200 के बिल पर 38% की एक छूट तथा 32% और 6% की दो क्रमिक छूटों के बीच का अंतर ज्ञात कीजिए।",
+        "op_en": [
+            "₹25.04",
+            "₹23.04",
+            "₹21.04",
+            "₹27.04"
+        ],
+        "op_hi": [
+            "₹25.04",
+            "₹23.04",
+            "₹21.04",
+            "₹27.04"
+        ],
+        "ans": 2,
+        "solution": "<b>Solution (EN):</b> Bill amount = ₹1200.<br>First discount = $38\\%$.<br>Equivalent discount of $32\\%$ and $6\\%$ = $(32 + 6 - \\frac{32 \\times 6}{100})\\% = (38 - 1.92)\\% = 36.08\\%$.<br>Difference in discount percentages = $38\\% - 36.08\\% = 1.92\\%$.<br>Difference in amount = $1.92\\%$ of $1200$ = $\\frac{1.92}{100} \\times 1200 = 23.04$.<br>Thus, the required difference is ₹23.04.<br><br><b>Solution (HI):</b> बिल की राशि = ₹1200।<br>पहली छूट = $38\\%$।<br>$32\\%$ और $6\\%$ की समतुल्य छूट = $(32 + 6 - \\frac{32 \\times 6}{100})\\% = (38 - 1.92)\\% = 36.08\\%$।<br>छूट प्रतिशत में अंतर = $38\\% - 36.08\\% = 1.92\\%$।<br>राशि में अंतर = $1200$ का $1.92\\%$ = $\\frac{1.92}{100} \\times 1200 = 23.04$।<br>अतः अभीष्ट अंतर ₹23.04 है।<br><br><b>Short Trick:</b> Difference = $\\frac{x \\times y}{100}\\%$ of Total = $\\frac{32 \\times 6}{100}\\%$ of $1200 = 1.92\\% \\times 1200 = 23.04$."
+    },
+    {
+        "section": "Arithmetical and Numerical Ability1",
+        "topic": "Arithmetic",
+        "difficulty": "Hard",
+        "q_en": "A person travels from Lonavala to Talegaon at a speed of 40 km/hr in 80 minutes and from Talegaon to Pune at a speed of 50 km/hr in 240 minutes. Find the average speed for the whole journey.",
+        "q_hi": "एक व्यक्ति लोनावला से तलेगांव तक 40 km/hr की चाल से 80 मिनट में और तलेगांव से पुणे तक 50 km/hr की चाल से 240 मिनट में यात्रा करता है। पूरी यात्रा के लिए औसत चाल ज्ञात कीजिए।",
+        "op_en": [
+            "45 km/hr",
+            "47.5 km/hr",
+            "50 km/hr",
+            "42.5 km/hr"
+        ],
+        "op_hi": [
+            "45 km/hr",
+            "47.5 km/hr",
+            "50 km/hr",
+            "42.5 km/hr"
+        ],
+        "ans": 2,
+        "solution": "<b>Solution (EN):</b> Let $D_1$ and $D_2$ be the distances.<br>$D_1 = S_1 \\times T_1 = 40 \\times \\frac{80}{60} = \\frac{160}{3}$ km.<br>$D_2 = S_2 \\times T_2 = 50 \\times \\frac{240}{60} = 50 \\times 4 = 200$ km.<br>Total Distance = $\\frac{160}{3} + 200 = \\frac{760}{3}$ km.<br>Total Time = $80 + 240 = 320$ minutes = $\\frac{320}{60} = \\frac{16}{3}$ hours.<br>Average Speed = $\\frac{\\text{Total Distance}}{\\text{Total Time}} = \\frac{\\frac{760}{3}}{\\frac{16}{3}} = \\frac{760}{16} = 47.5$ km/hr.<br><br><b>Solution (HI):</b> माना दूरियां $D_1$ और $D_2$ हैं।<br>$D_1 = S_1 \\times T_1 = 40 \\times \\frac{80}{60} = \\frac{160}{3}$ किमी।<br>$D_2 = S_2 \\times T_2 = 50 \\times \\frac{240}{60} = 50 \\times 4 = 200$ किमी।<br>कुल दूरी = $\\frac{160}{3} + 200 = \\frac{760}{3}$ किमी।<br>कुल समय = $80 + 240 = 320$ मिनट = $\\frac{320}{60} = \\frac{16}{3}$ घंटे।<br>औसत चाल = $\\frac{\\text{कुल दूरी}}{\\text{कुल समय}} = \\frac{\\frac{760}{3}}{\\frac{16}{3}} = \\frac{760}{16} = 47.5$ किमी/घंटा।<br><br><b>Short Trick:</b> Average Speed = $\\frac{d_1 + d_2}{t_1 + t_2} = \\frac{40 \\times \\frac{8}{6} + 50 \\times 4}{\\frac{8}{6} + 4} = 47.5$ km/hr."
+    },
+    {
+        "section": "Arithmetical and Numerical Ability1",
+        "topic": "Arithmetic",
+        "difficulty": "Medium",
+        "q_en": "A 120 m long train crosses a 180 m long platform at a speed of 60 km/h. How much time will it take to cross the platform?",
+        "q_hi": "120 m लंबी एक ट्रेन 60 km/h की चाल से 180 m लंबे प्लेटफॉर्म को पार करती है। प्लेटफॉर्म को पार करने में इसे कितना समय लगेगा?",
+        "op_en": [
+            "15 seconds",
+            "8 seconds",
+            "16 seconds",
+            "18 seconds"
+        ],
+        "op_hi": [
+            "15 सेकंड",
+            "8 सेकंड",
+            "16 सेकंड",
+            "18 सेकंड"
+        ],
+        "ans": 4,
+        "solution": "<b>Solution (EN):</b> Total distance to cover = Length of train + Length of platform = $120 + 180 = 300$ m.<br>Speed of the train = $60$ km/h = $60 \\times \\frac{5}{18} = \\frac{50}{3}$ m/s.<br>Time taken = $\\frac{\\text{Total Distance}}{\\text{Speed}} = \\frac{300}{\\frac{50}{3}} = 300 \\times \\frac{3}{50} = 18$ seconds.<br><br><b>Solution (HI):</b> तय की जाने वाली कुल दूरी = ट्रेन की लंबाई + प्लेटफॉर्म की लंबाई = $120 + 180 = 300$ मीटर।<br>ट्रेन की चाल = $60$ किमी/घंटा = $60 \\times \\frac{5}{18} = \\frac{50}{3}$ मीटर/सेकंड।<br>लिया गया समय = $\\frac{\\text{कुल दूरी}}{\\text{चाल}} = \\frac{300}{\\frac{50}{3}} = 300 \\times \\frac{3}{50} = 18$ सेकंड।<br><br><b>Short Trick:</b> Time = $\\frac{120 + 180}{60 \\times \\frac{5}{18}} = \\frac{300}{\\frac{50}{3}} = 18$ seconds."
+    },
+    {
+        "section": "Arithmetical and Numerical Ability1",
+        "topic": "Arithmetic",
+        "difficulty": "Medium",
+        "q_en": "If 8 men or 12 women can build a wall in 10 days, then how many days will 8 men and 12 women take to do this work?",
+        "q_hi": "यदि 8 पुरुष या 12 महिलाएं 10 दिनों में एक दीवार बना सकते हैं, तो 8 पुरुषों और 12 महिलाओं को इस कार्य को करने में कितने दिन लगेंगे?",
+        "op_en": [
+            "6 days",
+            "5 days",
+            "10 days",
+            "1 day"
+        ],
+        "op_hi": [
+            "6 दिन",
+            "5 दिन",
+            "10 दिन",
+            "1 दिन"
+        ],
+        "ans": 2,
+        "solution": "<b>Solution (EN):</b> Given, $8$ men $= 12$ women.<br>Therefore, $8$ men and $12$ women $= 12$ women $+ 12$ women $= 24$ women.<br>We know, $M_1 \\times D_1 = M_2 \\times D_2$<br>$\\Rightarrow 12 \\text{ women} \\times 10 \\text{ days} = 24 \\text{ women} \\times D_2$<br>$\\Rightarrow D_2 = \\frac{12 \\times 10}{24} = 5$ days.<br><br><b>Solution (HI):</b> दिया गया है, $8$ पुरुष $= 12$ महिलाएं।<br>इसलिए, $8$ पुरुष और $12$ महिलाएं $= 12$ महिलाएं $+ 12$ महिलाएं $= 24$ महिलाएं।<br>हम जानते हैं, $M_1 \\times D_1 = M_2 \\times D_2$<br>$\\Rightarrow 12 \\text{ महिलाएं} \\times 10 \\text{ दिन} = 24 \\text{ महिलाएं} \\times D_2$<br>$\\Rightarrow D_2 = \\frac{12 \\times 10}{24} = 5$ दिन।<br><br><b>Short Trick:</b> If 'a' men or 'b' women do a work in 'd' days, then 'c' men and 'e' women do it in $\\frac{d}{\\frac{c}{a} + \\frac{e}{b}}$ days.<br>Here, $\\frac{10}{\\frac{8}{8} + \\frac{12}{12}} = \\frac{10}{1 + 1} = 5$ days."
+    },
+    {
+        "section": "Arithmetical and Numerical Ability1",
+        "topic": "Arithmetic",
+        "difficulty": "Hard",
+        "q_en": "Aman and Babu are partners in a business. At the beginning of the year, Aman invested ₹80,000 and Babu invested ₹40,000. During the year, Aman withdrew ₹20,000 from his capital after 6 months. The total profit of the year is ₹66,000. What will be Aman's share in the profit at the end of the year?",
+        "q_hi": "अमन और बाबू एक व्यवसाय में साझेदार हैं। वर्ष के आरंभ में, अमन ने ₹80,000 और बाबू ने ₹40,000 का निवेश किया। वर्ष के दौरान, अमन ने 6 माह बाद अपनी पूंजी से ₹20,000 निकाल लिए। वर्ष का कुल लाभ ₹66,000 है। वर्ष के अंत में अमन का लाभ में हिस्सा कितना होगा?",
+        "op_en": [
+            "₹36,000",
+            "₹38,000",
+            "₹42,000",
+            "₹35,000"
+        ],
+        "op_hi": [
+            "₹36,000",
+            "₹38,000",
+            "₹42,000",
+            "₹35,000"
+        ],
+        "ans": 3,
+        "solution": "<b>Solution (EN):</b> Ratio of profit is equal to the ratio of the product of capital and time.<br>Aman's effective capital = $(80000 \\times 6) + (60000 \\times 6) = 480000 + 360000 = 840000$.<br>Babu's effective capital = $40000 \\times 12 = 480000$.<br>Profit Ratio (Aman : Babu) = $840000 : 480000 = 84 : 48 = 7 : 4$.<br>Total profit = ₹66,000.<br>Aman's share = $\\frac{7}{7 + 4} \\times 66000 = \\frac{7}{11} \\times 66000 = 7 \\times 6000 = 42000$.<br>Thus, Aman's share is ₹42,000.<br><br><b>Solution (HI):</b> लाभ का अनुपात, पूंजी और समय के गुणनफल के अनुपात के बराबर होता है।<br>अमन की प्रभावी पूंजी = $(80000 \\times 6) + (60000 \\times 6) = 480000 + 360000 = 840000$।<br>बाबू की प्रभावी पूंजी = $40000 \\times 12 = 480000$।<br>लाभ का अनुपात (अमन : बाबू) = $840000 : 480000 = 84 : 48 = 7 : 4$।<br>कुल लाभ = ₹66,000।<br>अमन का हिस्सा = $\\frac{7}{7 + 4} \\times 66000 = \\frac{7}{11} \\times 66000 = 7 \\times 6000 = 42000$।<br>अतः अमन का हिस्सा ₹42,000 है。<br><br><b>Short Trick:</b> Profit Ratio = $(80 \\times 6 + 60 \\times 6) : (40 \\times 12) = 840 : 480 = 7 : 4$. Aman's share = $\\frac{7}{11} \\times 66000 = 42000$."
+    },
+    {
+        "section": "Arithmetical and Numerical Ability1",
+        "topic": "Arithmetic",
+        "difficulty": "Medium",
+        "q_en": "If three numbers are in the ratio 2 : 3 : 5 and their sum is 200, then find the smallest number.",
+        "q_hi": "यदि तीन संख्याएँ 2 : 3 : 5 के अनुपात में हैं और उनका योग 200 है, तो सबसे छोटी संख्या ज्ञात कीजिए।",
+        "op_en": [
+            "80",
+            "60",
+            "40",
+            "20"
+        ],
+        "op_hi": [
+            "80",
+            "60",
+            "40",
+            "20"
+        ],
+        "ans": 3,
+        "solution": "<b>Solution (EN):</b> Let the three numbers be $2x$, $3x$, and $5x$.<br>According to the question, $2x + 3x + 5x = 200$<br>$\\Rightarrow 10x = 200$<br>$\\Rightarrow x = 20$<br>The smallest number is $2x$.<br>So, Smallest number = $2 \\times 20 = 40$.<br><br><b>Solution (HI):</b> माना तीन संख्याएँ $2x$, $3x$ और $5x$ हैं।<br>प्रश्नानुसार, $2x + 3x + 5x = 200$<br>$\\Rightarrow 10x = 200$<br>$\\Rightarrow x = 20$<br>सबसे छोटी संख्या $2x$ है।<br>इसलिए, सबसे छोटी संख्या = $2 \\times 20 = 40$।<br><br><b>Short Trick:</b> Smallest number = $\\frac{2}{2 + 3 + 5} \\times 200 = \\frac{2}{10} \\times 200 = 40$."
     }
 ]
