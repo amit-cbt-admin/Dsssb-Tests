@@ -342,19 +342,19 @@
         "q_en": "By selling an article at $\\frac{2}{5}$ of its original marked price, Aman suffers a loss of $26\\%$. If he sells it at $78\\%$ of its original marked price, what will be the profit percentage?",
         "q_hi": "किसी वस्तु को उसके मूल अंकित मूल्य के $\\frac{2}{5}$ पर बेचने पर अमन को $26\\%$ की हानि होती है। यदि वह उसे उसके मूल अंकित मूल्य के $78\\%$ पर बेचता है, तो लाभ प्रतिशत कितना होगा?",
         "op_en": [
-            "$3\\%$",
-            "$9\\%$",
-            "$7\\%$",
-            "$2\\%$"
+            "$44.3\\%$",
+            "$40\\%$",
+            "$45\\%$",
+            "$50\\%$"
         ],
         "op_hi": [
-            "$3\\%$",
-            "$9\\%$",
-            "$7\\%$",
-            "$2\\%$"
+            "$44.3\\%$",
+            "$40\\%$",
+            "$45\\%$",
+            "$50\\%$"
         ],
-        "ans": 3,
-        "solution": "<b>Solution (EN):</b> Let the original Marked Price (MP) be $100x$.<br>Selling Price in the first case ($SP_1$) = $\\frac{2}{5}$ of $MP = 40x$.<br>Loss = $26\\%$, so $SP_1 = 74\\%$ of Cost Price (CP).<br>$\\Rightarrow 0.74 \\times CP = 40x$<br>$\\Rightarrow CP = \\frac{40x}{0.74} = \\frac{4000x}{74} = \\frac{2000x}{37}$<br>Selling Price in the second case ($SP_2$) = $78\\%$ of $MP = 78x$.<br>Profit = $SP_2 - CP = 78x - \\frac{2000x}{37} = \\frac{2886x - 2000x}{37} = \\frac{886x}{37}$.<br>Profit Percentage = $\\frac{\\text{Profit}}{CP} \\times 100$<br>Profit Percentage = $\\frac{\\frac{886x}{37}}{\\frac{2000x}{37}} \\times 100 = \\frac{886}{2000} \\times 100 = 44.3\\%$.<br><i>Note: The options provided in the original question appear to be incorrect as none match the mathematically derived answer ($44.3\\%$). Option 3 is kept as a placeholder.</i><br><br><b>Solution (HI):</b> माना मूल अंकित मूल्य (MP) $100x$ है।<br>पहली स्थिति में विक्रय मूल्य ($SP_1$) = MP का $\\frac{2}{5} = 40x$<br>हानि = $26\\%$, इसलिए $SP_1 = $ क्रय मूल्य (CP) का $74\\%$<br>$\\Rightarrow 0.74 \\times CP = 40x$<br>$\\Rightarrow CP = \\frac{40x}{0.74} = \\frac{4000x}{74} = \\frac{2000x}{37}$<br>दूसरी स्थिति में विक्रय मूल्य ($SP_2$) = MP का $78\\% = 78x$<br>लाभ = $SP_2 - CP = 78x - \\frac{2000x}{37} = \\frac{2886x - 2000x}{37} = \\frac{886x}{37}$<br>लाभ प्रतिशत = $\\frac{\\text{लाभ}}{CP} \\times 100$<br>लाभ प्रतिशत = $\\frac{\\frac{886x}{37}}{\\frac{2000x}{37}} \\times 100 = \\frac{886}{2000} \\times 100 = 44.3\\%$<br><i>नोट: मूल प्रश्न में दिए गए विकल्प गलत प्रतीत होते हैं क्योंकि कोई भी सही उत्तर ($44.3\\%$) से मेल नहीं खाता है।</i><br><br><b>Short Trick:</b> $\\frac{CP}{MP} = \\frac{40}{74}$. New $SP = 78$. Profit = $78 - \\frac{4000}{74} = 44.3\\%$."
+        "ans": 1,
+        "solution": "<b>Solution (EN):</b> Let the original Marked Price (MP) be $100x$.<br>Selling Price in the first case ($SP_1$) = $\\frac{2}{5}$ of MP = $40x$.<br>Loss = $26\\%$, so $SP_1 = 74\\%$ of Cost Price (CP).<br>$\\Rightarrow 0.74 \\times CP = 40x$<br>$\\Rightarrow CP = \\frac{40x}{0.74} = \\frac{4000x}{74} = \\frac{2000x}{37}$<br>Selling Price in the second case ($SP_2$) = $78\\%$ of MP = $78x$.<br>Profit = $SP_2 - CP = 78x - \\frac{2000x}{37} = \\frac{2886x - 2000x}{37} = \\frac{886x}{37}$.<br>Profit Percentage = $\\frac{\\text{Profit}}{CP} \\times 100$<br>Profit Percentage = $\\frac{\\frac{886x}{37}}{\\frac{2000x}{37}} \\times 100 = \\frac{886}{2000} \\times 100 = 44.3\\%$.<br><br><i>Note: The options provided in the original data were incorrect. We have updated the options to include the mathematically correct answer ($44.3\\%$).</i><br><br><b>Solution (HI):</b> माना मूल अंकित मूल्य (MP) $100x$ है।<br>पहली स्थिति में विक्रय मूल्य ($SP_1$) = MP का $\\frac{2}{5} = 40x$<br>हानि = $26\\%$, इसलिए $SP_1$ = क्रय मूल्य (CP) का $74\\%$<br>$\\Rightarrow 0.74 \\times CP = 40x$<br>$\\Rightarrow CP = \\frac{40x}{0.74} = \\frac{4000x}{74} = \\frac{2000x}{37}$<br>दूसरी स्थिति में विक्रय मूल्य ($SP_2$) = MP का $78\\% = 78x$<br>लाभ = $SP_2 - CP = 78x - \\frac{2000x}{37} = \\frac{2886x - 2000x}{37} = \\frac{886x}{37}$<br>लाभ प्रतिशत = $\\frac{\\text{लाभ}}{CP} \\times 100$<br>लाभ प्रतिशत = $\\frac{\\frac{886x}{37}}{\\frac{2000x}{37}} \\times 100 = \\frac{886}{2000} \\times 100 = 44.3\\%$<br><br><i>नोट: मूल डेटा में दिए गए विकल्प गलत थे। हमने गणितीय रूप से सही उत्तर ($44.3\\%$) को शामिल करने के लिए विकल्पों को अपडेट कर दिया है।</i><br><br><b>Short Trick:</b> $\\frac{CP}{MP} = \\frac{40}{74}$. New $SP = 78$. Profit = $78 - \\frac{4000}{74} = 44.3\\%$."
     },
     {
         "section": "Arithmetical and Numerical Ability1",
@@ -405,18 +405,18 @@
         "q_en": "By selling an article at $\\frac{3}{10}$ of its original marked price, Akash suffers a loss of $19\\%$. If he sells it at $69\\%$ of its original marked price, find the profit percentage.",
         "q_hi": "किसी वस्तु को उसके मूल अंकित मूल्य के $\\frac{3}{10}$ पर बेचने पर आकाश को $19\\%$ की हानि होती है। यदि वह उसे उसके मूल अंकित मूल्य के $69\\%$ पर बेचता है, तो लाभ प्रतिशत ज्ञात कीजिए।",
         "op_en": [
-            "$7\\%$",
-            "$3\\%$",
-            "$8\\%$",
-            "$2\\%$"
+            "$80\\%$",
+            "$85.5\\%$",
+            "$86.3\\%$",
+            "$90\\%$"
         ],
         "op_hi": [
-            "$7\\%$",
-            "$3\\%$",
-            "$8\\%$",
-            "$2\\%$"
+            "$80\\%$",
+            "$85.5\\%$",
+            "$86.3\\%$",
+            "$90\\%$"
         ],
-        "ans": 4,
-        "solution": "<b>Solution (EN):</b> Let the original Marked Price (MP) be $100x$.<br>Selling Price 1 ($SP_1$) = $\\frac{3}{10}$ of $MP = 30x$.<br>Loss = $19\\%$, so $SP_1 = 81\\%$ of Cost Price (CP).<br>$\\Rightarrow 0.81 \\times CP = 30x$<br>$\\Rightarrow CP = \\frac{30x}{0.81} = \\frac{3000x}{81} = \\frac{1000x}{27}$<br>Selling Price 2 ($SP_2$) = $69\\%$ of $MP = 69x$.<br>Profit = $SP_2 - CP = 69x - \\frac{1000x}{27} = \\frac{1863x - 1000x}{27} = \\frac{863x}{27}$.<br>Profit Percentage = $\\frac{\\text{Profit}}{CP} \\times 100 = \\frac{\\frac{863x}{27}}{\\frac{1000x}{27}} \\times 100 = \\frac{863}{1000} \\times 100 = 86.3\\%$.<br><i>Note: The options provided in the original question image are incorrect. The correct mathematically derived profit is $86.3\\%$. Option 4 is kept as a placeholder.</i><br><br><b>Solution (HI):</b> माना मूल अंकित मूल्य (MP) $100x$ है।<br>विक्रय मूल्य 1 ($SP_1$) = MP का $\\frac{3}{10} = 30x$<br>हानि = $19\\%$, इसलिए $SP_1 = CP$ का $81\\%$<br>$\\Rightarrow 0.81 \\times CP = 30x$<br>$\\Rightarrow CP = \\frac{30x}{0.81} = \\frac{3000x}{81} = \\frac{1000x}{27}$<br>विक्रय मूल्य 2 ($SP_2$) = MP का $69\\% = 69x$<br>लाभ = $SP_2 - CP = 69x - \\frac{1000x}{27} = \\frac{1863x - 1000x}{27} = \\frac{863x}{27}$<br>लाभ प्रतिशत = $\\frac{\\frac{863x}{27}}{\\frac{1000x}{27}} \\times 100 = \\frac{863}{1000} \\times 100 = 86.3\\%$<br><i>नोट: दिए गए विकल्प गलत हैं, सही लाभ प्रतिशत $86.3\\%$ है।</i><br><br><b>Short Trick:</b> $CP = \\frac{30}{0.81} = 37.03\\%$ of MP. New $SP = 69\\%$ of MP. Profit = $69 - 37.03 = 31.97$. Profit % = $\\frac{31.97}{37.03} \\times 100 = 86.3\\%$."
+        "ans": 3,
+        "solution": "<b>Solution (EN):</b> Let the original Marked Price (MP) be $100x$.<br>Selling Price 1 ($SP_1$) = $\\frac{3}{10}$ of MP = $30x$.<br>Loss = $19\\%$, so $SP_1 = 81\\%$ of Cost Price (CP).<br>$\\Rightarrow 0.81 \\times CP = 30x$<br>$\\Rightarrow CP = \\frac{30x}{0.81} = \\frac{3000x}{81} = \\frac{1000x}{27}$<br>Selling Price 2 ($SP_2$) = $69\\%$ of MP = $69x$.<br>Profit = $SP_2 - CP = 69x - \\frac{1000x}{27} = \\frac{1863x - 1000x}{27} = \\frac{863x}{27}$.<br>Profit Percentage = $\\frac{\\text{Profit}}{CP} \\times 100 = \\frac{\\frac{863x}{27}}{\\frac{1000x}{27}} \\times 100 = \\frac{863}{1000} \\times 100 = 86.3\\%$.<br><br><i>Note: The options provided in the original data were incorrect. We have updated the options to include the mathematically correct answer ($86.3\\%$).</i><br><br><b>Solution (HI):</b> माना मूल अंकित मूल्य (MP) $100x$ है।<br>विक्रय मूल्य 1 ($SP_1$) = MP का $\\frac{3}{10} = 30x$<br>हानि = $19\\%$, इसलिए $SP_1 = CP$ का $81\\%$<br>$\\Rightarrow 0.81 \\times CP = 30x$<br>$\\Rightarrow CP = \\frac{30x}{0.81} = \\frac{3000x}{81} = \\frac{1000x}{27}$<br>विक्रय मूल्य 2 ($SP_2$) = MP का $69\\% = 69x$<br>लाभ = $SP_2 - CP = 69x - \\frac{1000x}{27} = \\frac{1863x - 1000x}{27} = \\frac{863x}{27}$<br>लाभ प्रतिशत = $\\frac{\\frac{863x}{27}}{\\frac{1000x}{27}} \\times 100 = \\frac{863}{1000} \\times 100 = 86.3\\%$<br><br><i>नोट: दिए गए विकल्प गलत थे। हमने गणितीय रूप से सही उत्तर ($86.3\\%$) को शामिल करने के लिए विकल्पों को अपडेट कर दिया है।</i><br><br><b>Short Trick:</b> $CP = \\frac{30}{0.81} = 37.03\\%$ of MP. New $SP = 69\\%$ of MP. Profit = $69 - 37.03 = 31.97$. Profit % = $\\frac{31.97}{37.03} \\times 100 = 86.3\\%$."
     }
 ]
