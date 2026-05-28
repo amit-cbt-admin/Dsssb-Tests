@@ -1,422 +1,212 @@
 [
     {
-        "section": "General intelligence and Reasoning Ability",
-        "topic": "Seating Arrangement",
+        "section": "Arithmetical and Numerical Ability1",
+        "topic": "Arithmetic",
         "difficulty": "Medium",
-        "q_en": "Eight persons, Lata, Meena, Nayan, Om, Prakash, Qbal, Rohit and Shyam, are sitting around a circular table, facing the centre but not necessarily in the same order. They all are having a discussion on an important topic. Nayan is an immediate neighbour of both Lata and Rohit. Rohit is an immediate neighbour of Prakash. Prakash sits second to the left of Nayan. Only two persons sit between Prakash and Shyam. Meena is an immediate neighbour of Om. Only one person sits between Meena and Qbal. Which person is an immediate neighbour of Meena and Qbal?",
-        "q_hi": "आठ व्यक्ति, लता, मीना, नयन, ओम, प्रकाश, क़बाल, रोहित और श्याम, एक वृत्ताकार मेज के चारों ओर केंद्र की ओर मुख करके बैठे हैं, लेकिन जरूरी नहीं कि इसी क्रम में हों। वे सभी एक महत्वपूर्ण विषय पर चर्चा कर रहे हैं। नयन, लता और रोहित दोनों का निकटतम पड़ोसी है। रोहित, प्रकाश का निकटतम पड़ोसी है। प्रकाश, नयन के बाएँ से दूसरे स्थान पर बैठा है। प्रकाश और श्याम के बीच केवल दो व्यक्ति बैठे हैं। मीना, ओम की निकटतम पड़ोसी है। मीना और क़बाल के बीच केवल एक व्यक्ति बैठा है। मीना और क़बाल का निकटतम पड़ोसी कौन सा व्यक्ति है?",
+        "q_en": "Two trains are moving towards each other at speeds of 60 km/h and 40 km/h, and the distance between them is 200 km. After how much time will they meet?",
+        "q_hi": "दो ट्रेनें 60 km/h और 40 km/h की चाल से एक दूसरे की ओर गतिमान हैं और उनके बीच की दूरी 200 km है। कितने समय बाद वे मिलेंगी?",
         "op_en": [
-            "Lata",
-            "Om",
-            "Nayan",
-            "Shyam"
+            "4 hours",
+            "5 hours",
+            "2 hours",
+            "1 hour"
         ],
         "op_hi": [
-            "लता",
-            "ओम",
-            "नयन",
-            "श्याम"
+            "4 घंटे",
+            "5 घंटे",
+            "2 घंटे",
+            "1 घंटा"
         ],
-        "ans": "4",
-        "solution": "<b>Solution (EN):</b><br><br>Let's place the 8 persons around the circular table facing the centre:<br>1. Nayan is between Lata and Rohit. (Lata - Nayan - Rohit or Rohit - Nayan - Lata)<br>2. Prakash sits 2nd to the left of Nayan.<br>3. Rohit is an immediate neighbour of Prakash. This means the immediate left of Nayan is Rohit, and the 2nd left is Prakash. Thus, Lata is on the immediate right of Nayan.<br>Arrangement so far (clockwise): Nayan, Rohit, Prakash.<br>4. Two persons sit between Prakash and Shyam. Shyam must sit in the 6th position (opposite to Nayan).<br>5. Meena is a neighbour of Om. Also, there is 1 person between Meena and Qbal. This fits perfectly if Om is 4th, Meena is 5th, and Qbal is 7th (with Shyam at the 6th position).<br>Final Arrangement (clockwise): Nayan, Rohit, Prakash, Om, Meena, Shyam, Qbal, Lata.<br>Therefore, the person sitting between Meena and Qbal is Shyam.<br><br><b>Solution (HI):</b><br><br>आइए 8 व्यक्तियों को केंद्र की ओर मुख करके वृत्ताकार मेज के चारों ओर बिठाएं:<br>1. नयन, लता और रोहित के बीच में है। (लता - नयन - रोहित या रोहित - नयन - लता)<br>2. प्रकाश, नयन के बाएँ से दूसरे स्थान पर बैठा है।<br>3. रोहित, प्रकाश का निकटतम पड़ोसी है। इसका अर्थ है कि नयन के ठीक बाएँ रोहित है, और दूसरे बाएँ स्थान पर प्रकाश है। अतः लता नयन के ठीक दाएँ है।<br>अब तक की व्यवस्था (दक्षिणावर्त): नयन, रोहित, प्रकाश।<br>4. प्रकाश और श्याम के बीच दो व्यक्ति बैठे हैं। अतः श्याम छठे स्थान पर बैठेगा (नयन के विपरीत)।<br>5. मीना, ओम की पड़ोसी है। साथ ही, मीना और क़बाल के बीच 1 व्यक्ति है। यह तभी संभव है जब ओम चौथे, मीना पांचवें और क़बाल 7वें स्थान पर हो (श्याम छठे स्थान पर)।<br>अंतिम व्यवस्था (दक्षिणावर्त): नयन, रोहित, प्रकाश, ओम, मीना, श्याम, क़बाल, लता।<br>अतः मीना और क़बाल के बीच बैठने वाला व्यक्ति श्याम है।<br><br><b>Short Trick:</b><br><br>Visualize the fixed positions: Nayan $\\rightarrow$ Rohit $\\rightarrow$ Prakash. Since Shyam has 2 gaps from Prakash, Shyam is fixed. Meena and Qbal have 1 gap between them, which perfectly leaves Shyam as the person sitting between them!"
+        "ans": 3,
+        "solution": "<b>Solution (EN):</b> When two objects move towards each other, their relative speed is the sum of their individual speeds.<br>Relative speed = $60 + 40 = 100$ km/h.<br>Distance between the trains = $200$ km.<br>Time taken to meet = $\\frac{\\text{Distance}}{\\text{Relative Speed}}$<br>Time = $\\frac{200}{100} = 2$ hours.<br><br><b>Solution (HI):</b> जब दो वस्तुएं एक-दूसरे की ओर बढ़ती हैं, तो उनकी सापेक्ष चाल उनकी व्यक्तिगत चालों का योग होती है।<br>सापेक्ष चाल = $60 + 40 = 100$ किमी/घंटा।<br>ट्रेनों के बीच की दूरी = $200$ किमी।<br>मिलने में लगा समय = $\\frac{\\text{दूरी}}{\\text{सापेक्ष चाल}}$<br>समय = $\\frac{200}{100} = 2$ घंटे।<br><br><b>Short Trick:</b> Time = $\\frac{D}{S_1 + S_2} = \\frac{200}{60 + 40} = 2$ hours."
     },
     {
-        "section": "General intelligence and Reasoning Ability",
-        "topic": "Alphanumeric Series",
-        "difficulty": "Easy",
-        "q_en": "Refer to the following number, symbol series and answer the question that follows. Counting to be done from left to right only. (All numbers are single-digit numbers only.)<br><br>(Left) ? < / 5 * 5 + 8 \\ 1 + ? / + 3 @ 3 4 2 1 % (Right)<br><br>How many such numbers are there, each of which is immediately preceded by a symbol and also immediately followed by a symbol?",
-        "q_hi": "निम्नलिखित संख्या और प्रतीक श्रृंखला का संदर्भ लें और उसके बाद आने वाले प्रश्न का उत्तर दें। गिनती केवल बाएँ से दाएँ की जानी चाहिए। (सभी संख्याएँ केवल एक अंक की संख्याएँ हैं।)<br><br>(बाएँ) ? < / 5 * 5 + 8 \\ 1 + ? / + 3 @ 3 4 2 1 % (दाएँ)<br><br>ऐसी कितनी संख्याएँ हैं, जिनमें से प्रत्येक के ठीक पहले एक प्रतीक है और ठीक बाद में भी एक प्रतीक है?",
-        "op_en": [
-            "Two",
-            "Four",
-            "Five",
-            "Three"
-        ],
-        "op_hi": [
-            "दो",
-            "चार",
-            "पांच",
-            "तीन"
-        ],
-        "ans": "3",
-        "solution": "<b>Solution (EN):</b><br><br>We need to find the pattern: <b>(Symbol) (Number) (Symbol)</b>.<br>Let's check the given series from left to right:<br>1. / <b>5</b> * $\\rightarrow$ 5 is preceded by '/' and followed by '*'. (Valid)<br>2. * <b>5</b> + $\\rightarrow$ 5 is preceded by '*' and followed by '+'. (Valid)<br>3. + <b>8</b> \\ $\\rightarrow$ 8 is preceded by '+' and followed by '\\'. (Valid)<br>4. \\ <b>1</b> + $\\rightarrow$ 1 is preceded by '\\' and followed by '+'. (Valid)<br>5. + <b>3</b> @ $\\rightarrow$ 3 is preceded by '+' and followed by '@'. (Valid)<br>The other numbers do not follow this pattern.<br>Total count = 5.<br><br><b>Solution (HI):</b><br><br>हमें निम्नलिखित पैटर्न खोजना है: <b>(प्रतीक) (संख्या) (प्रतीक)</b>।<br>आइए बाएँ से दाएँ दी गई श्रृंखला की जाँच करें:<br>1. / <b>5</b> * $\\rightarrow$ 5 के पहले '/' और बाद में '*' है। (सही)<br>2. * <b>5</b> + $\\rightarrow$ 5 के पहले '*' और बाद में '+' है। (सही)<br>3. + <b>8</b> \\ $\\rightarrow$ 8 के पहले '+' और बाद में '\\' है। (सही)<br>4. \\ <b>1</b> + $\\rightarrow$ 1 के पहले '\\' और बाद में '+' है। (सही)<br>5. + <b>3</b> @ $\\rightarrow$ 3 के पहले '+' और बाद में '@' है। (सही)<br>अन्य संख्याएँ इस पैटर्न का पालन नहीं करती हैं।<br>कुल संख्या = 5.<br><br><b>Short Trick:</b><br><br>Scan the series only for isolated digits surrounded by non-alphanumeric characters. You can quickly spot the continuous group of numbers (5, 5, 8, 1) and the number (3) separated by symbols, making it exactly 5 hits."
-    },
-    {
-        "section": "General intelligence and Reasoning Ability",
-        "topic": "Blood Relations",
+        "section": "Arithmetical and Numerical Ability1",
+        "topic": "Arithmetic",
         "difficulty": "Medium",
-        "q_en": "In a certain code language,<br>‘A # B’ means ‘A is the daughter of B’,<br>‘A ! B’ means ‘A is the mother of B’,<br>‘A & B’ means ‘A is the wife of B’, and<br>‘A % B’ means ‘A is the father of B’.<br><br>Based on the above, how is F related to Z if ‘F % T # O ! Q & Z’?",
-        "q_hi": "एक निश्चित कूट भाषा में,<br>'A # B' का अर्थ है 'A, B की पुत्री है',<br>'A ! B' का अर्थ है 'A, B की माता है',<br>'A & B' का अर्थ है 'A, B की पत्नी है', और<br>'A % B' का अर्थ है 'A, B का पिता है'।<br><br>उपरोक्त के आधार पर, यदि 'F % T # O ! Q & Z' है, तो F, Z से किस प्रकार संबंधित है?",
+        "q_en": "If 8, 12, and 20 are three numbers, then find the fourth proportional to these numbers.",
+        "q_hi": "यदि 8, 12 और 20 तीन संख्याएँ हैं, तो इन संख्याओं का चतुर्थानुपाती ज्ञात कीजिए।",
         "op_en": [
-            "Wife's father",
-            "Brother",
-            "Father",
-            "Wife's brother"
-        ],
-        "op_hi": [
-            "पत्नी का पिता",
-            "भाई",
-            "पिता",
-            "पत्नी का भाई"
-        ],
-        "ans": "1",
-        "solution": "<b>Solution (EN):</b><br><br>Let's decode the expression ‘F % T # O ! Q & Z’ step-by-step:<br>1. <b>F % T</b> $\\rightarrow$ F is the father of T.<br>2. <b>T # O</b> $\\rightarrow$ T is the daughter of O. Since F is the father of T, O must be the mother of T. Therefore, F and O are husband and wife.<br>3. <b>O ! Q</b> $\\rightarrow$ O is the mother of Q. Thus, Q is the sibling of T, and F is the father of Q.<br>4. <b>Q & Z</b> $\\rightarrow$ Q is the wife of Z. This means Q is a female, and Z is her husband.<br>Since F is the father of Q, and Q is the wife of Z, F is the father-in-law (Wife's father) of Z.<br><br><b>Solution (HI):</b><br><br>आइए व्यंजक ‘F % T # O ! Q & Z’ को चरण-दर-चरण डिकोड करें:<br>1. <b>F % T</b> $\\rightarrow$ F, T का पिता है।<br>2. <b>T # O</b> $\\rightarrow$ T, O की पुत्री है। चूँकि F, T का पिता है, इसलिए O, T की माता होगी। अतः F और O पति-पत्नी हैं।<br>3. <b>O ! Q</b> $\\rightarrow$ O, Q की माता है। इस प्रकार, Q, T का भाई/बहन है, और F, Q का पिता है।<br>4. <b>Q & Z</b> $\\rightarrow$ Q, Z की पत्नी है। इसका अर्थ है कि Q महिला है, और Z उसका पति है।<br>चूँकि F, Q का पिता है, और Q, Z की पत्नी है, अतः F, Z की पत्नी का पिता (ससुर) है।<br><br><b>Short Trick:</b><br><br>Read backwards from Z: Z's wife is Q $\\rightarrow$ Q's mother is O $\\rightarrow$ O's daughter is T $\\rightarrow$ T's father is F. Therefore, F is the father of Q, who is Z's wife. Hence, Wife's father."
-    },
-    {
-        "section": "General intelligence and Reasoning Ability",
-        "topic": "Puzzle (Arrangement)",
-        "difficulty": "Hard",
-        "q_en": "Six boxes F, G, H, I, Q and R are kept one over the other but not necessarily in the same order. Only two boxes are kept above F. Only two boxes are kept between F and R. Only three boxes are kept between R and G. I is kept at some place above F. Q is kept at one of the places above H. How many boxes are kept between H and I?",
-        "q_hi": "छह बॉक्स F, G, H, I, Q और R एक के ऊपर एक रखे गए हैं लेकिन जरूरी नहीं कि इसी क्रम में हों। F के ऊपर केवल दो बॉक्स रखे गए हैं। F और R के बीच केवल दो बॉक्स रखे गए हैं। R और G के बीच केवल तीन बॉक्स रखे गए हैं। I को F के ऊपर किसी स्थान पर रखा गया है। Q को H के ऊपर किसी एक स्थान पर रखा गया है। H और I के बीच कितने बॉक्स रखे गए हैं?",
-        "op_en": [
-            "None",
-            "Two",
-            "Three",
-            "One"
-        ],
-        "op_hi": [
-            "कोई नहीं",
-            "दो",
-            "तीन",
-            "एक"
-        ],
-        "ans": "3",
-        "solution": "<b>Solution (EN):</b><br><br>Let's number the positions from 1 to 6 (Top to Bottom).<br>1. Only two boxes are kept above F. So, <b>F is at position 3</b>.<br>2. Two boxes are kept between F and R. From position 3, the only place for R is position 6. So, <b>R is at position 6</b>.<br>3. Three boxes are kept between R and G. From position 6, skipping 3 boxes (5, 4, 3) places G at position 2. So, <b>G is at position 2</b>.<br>4. I is kept above F. Since positions 2 and 3 are taken by G and F, <b>I must be at position 1</b>.<br>Current order (1 to 6): I, G, F, _, _, R.<br>5. Q is kept above H. The empty positions are 4 and 5. Therefore, <b>Q is at position 4</b> and <b>H is at position 5</b>.<br>Final arrangement from Top to Bottom: <b>I, G, F, Q, H, R</b>.<br>The boxes between H (position 5) and I (position 1) are G, F, and Q. That is a total of <b>three</b> boxes.<br><br><b>Solution (HI):</b><br><br>आइए स्थानों को 1 से 6 (ऊपर से नीचे) तक क्रमांकित करें।<br>1. F के ऊपर केवल दो बॉक्स रखे गए हैं। अतः <b>F तीसरे स्थान पर है</b>।<br>2. F और R के बीच दो बॉक्स रखे गए हैं। तीसरे स्थान से, R के लिए एकमात्र स्थान छठा है। अतः <b>R छठे स्थान पर है</b>।<br>3. R और G के बीच तीन बॉक्स रखे गए हैं। छठे स्थान से, 3 बॉक्स (5, 4, 3) छोड़ने पर G दूसरे स्थान पर आता है। अतः <b>G दूसरे स्थान पर है</b>।<br>4. I को F के ऊपर रखा गया है। चूंकि दूसरा और तीसरा स्थान G और F के पास है, इसलिए <b>I पहले स्थान पर होना चाहिए</b>।<br>वर्तमान क्रम (1 से 6): I, G, F, _, _, R.<br>5. Q को H के ऊपर रखा गया है। खाली स्थान 4 और 5 हैं। इसलिए, <b>Q चौथे स्थान पर है</b> और <b>H पांचवें स्थान पर है</b>।<br>ऊपर से नीचे तक अंतिम व्यवस्था: <b>I, G, F, Q, H, R</b>।<br>H (स्थान 5) और I (स्थान 1) के बीच के बॉक्स G, F और Q हैं। यानी कुल <b>तीन</b> बॉक्स।<br><br><b>Short Trick:</b><br><br>F=3. F_ _R $\\rightarrow$ R=6. R_ _ _G $\\rightarrow$ G=2. I>F $\\rightarrow$ I=1. Q>H $\\rightarrow$ Q=4, H=5. Sequence: I-G-F-Q-H-R. Gap between I and H is exactly 3."
-    },
-    {
-        "section": "General intelligence and Reasoning Ability",
-        "topic": "Alphabetical Series",
-        "difficulty": "Easy",
-        "q_en": "The position(s) of how many letters will remain unchanged if each of the letters in the word ENVIRONMENT is arranged in reverse English alphabetical order?",
-        "q_hi": "शब्द ENVIRONMENT के प्रत्येक अक्षर को यदि अंग्रेजी वर्णमाला के उल्टे क्रम में व्यवस्थित किया जाए, तो कितने अक्षरों का स्थान अपरिवर्तित रहेगा?",
-        "op_en": [
-            "Four",
-            "Three",
-            "One",
-            "Two"
-        ],
-        "op_hi": [
-            "चार",
-            "तीन",
-            "एक",
-            "दो"
-        ],
-        "ans": "4",
-        "solution": "<b>Solution (EN):</b><br><br>Let's write down the letters of the word <b>ENVIRONMENT</b> and arrange them in reverse alphabetical order (Z to A).<br>Original: E, N, V, I, R, O, <b>N</b>, <b>M</b>, E, N, T<br>Reversed: V, T, R, O, N, N, <b>N</b>, <b>M</b>, I, E, E<br>Comparing the original and the new arrangement:<br>Position 1: E $\\rightarrow$ V<br>Position 2: N $\\rightarrow$ T<br>Position 3: V $\\rightarrow$ R<br>Position 4: I $\\rightarrow$ O<br>Position 5: R $\\rightarrow$ N<br>Position 6: O $\\rightarrow$ N<br><b>Position 7: N $\\rightarrow$ N (Unchanged)</b><br><b>Position 8: M $\\rightarrow$ M (Unchanged)</b><br>Position 9: E $\\rightarrow$ I<br>Position 10: N $\\rightarrow$ E<br>Position 11: T $\\rightarrow$ E<br>Two letters (N and M) remain in their original positions.<br><br><b>Solution (HI):</b><br><br>आइए शब्द <b>ENVIRONMENT</b> के अक्षरों को लिखें और उन्हें उल्टे वर्णमाला क्रम (Z से A) में व्यवस्थित करें।<br>मूल शब्द: E, N, V, I, R, O, <b>N</b>, <b>M</b>, E, N, T<br>उल्टा क्रम: V, T, R, O, N, N, <b>N</b>, <b>M</b>, I, E, E<br>मूल और नई व्यवस्था की तुलना करने पर:<br>स्थान 1: E $\\rightarrow$ V<br>स्थान 2: N $\\rightarrow$ T<br>स्थान 3: V $\\rightarrow$ R<br>स्थान 4: I $\\rightarrow$ O<br>स्थान 5: R $\\rightarrow$ N<br>स्थान 6: O $\\rightarrow$ N<br><b>स्थान 7: N $\\rightarrow$ N (अपरिवर्तित)</b><br><b>स्थान 8: M $\\rightarrow$ M (अपरिवर्तित)</b><br>स्थान 9: E $\\rightarrow$ I<br>स्थान 10: N $\\rightarrow$ E<br>स्थान 11: T $\\rightarrow$ E<br>दो अक्षरों (N और M) का स्थान अपरिवर्तित रहता है।<br><br><b>Short Trick:</b><br><br>Simply list original letters over sorted letters and check vertical matches. Original: E N V I R O <b>N M</b> E N T. Reverse Sorted: V T R O N N <b>N M</b> I E E. Exactly two matches found at index 7 and 8."
-    },
-    {
-        "section": "General intelligence and Reasoning Ability",
-        "topic": "Number Series",
-        "difficulty": "Medium",
-        "q_en": "Refer to the following series and answer the question (all numbers are single digit numbers only). Counting to be done from left to right.<br><br>(Left) 8 3 6 8 9 5 4 8 6 2 3 3 4 7 4 2 5 4 6 5 5 1 8 (Right)<br><br>How many such odd digits are there, each of which is immediately preceded by an odd digit and also immediately followed by an odd digit?",
-        "q_hi": "निम्नलिखित श्रृंखला का संदर्भ लें और प्रश्न का उत्तर दें (सभी संख्याएँ केवल एक अंक की संख्याएँ हैं)। गिनती बाएँ से दाएँ की जानी चाहिए।<br><br>(बाएँ) 8 3 6 8 9 5 4 8 6 2 3 3 4 7 4 2 5 4 6 5 5 1 8 (दाएँ)<br><br>ऐसे कितने विषम अंक हैं, जिनमें से प्रत्येक के ठीक पहले एक विषम अंक है और ठीक बाद में भी एक विषम अंक है?",
-        "op_en": [
-            "Two",
-            "Four",
-            "Three",
-            "One"
-        ],
-        "op_hi": [
-            "दो",
-            "चार",
-            "तीन",
-            "एक"
-        ],
-        "ans": "4",
-        "solution": "<b>Solution (EN):</b><br><br>We are looking for the pattern: <b>(Odd) - (Odd) - (Odd)</b> where we need to count the middle odd digit.<br>Let's scan the series for consecutive odd numbers:<br>8 3 6 8 <b>9 5</b> 4 8 6 2 <b>3 3</b> 4 <b>7</b> 4 2 <b>5</b> 4 6 <b>5 5 1</b> 8<br><br>Checking the clusters of odd numbers:<br>- '9 5' is followed by '4' (Even).<br>- '3 3' is followed by '4' (Even).<br>- '7' is surrounded by '4' and '4' (Even).<br>- '5 5 1' has three consecutive odd numbers! <br>In this group: '5' (first), '5' (middle), '1' (last). The middle '5' is preceded by an odd digit ('5') and followed by an odd digit ('1').<br>Thus, there is only ONE such odd digit.<br><br><b>Solution (HI):</b><br><br>हम इस पैटर्न की तलाश कर रहे हैं: <b>(विषम) - (विषम) - (विषम)</b> जहाँ हमें बीच वाले विषम अंक की गणना करनी है।<br>आइए लगातार विषम संख्याओं के लिए श्रृंखला को स्कैन करें:<br>8 3 6 8 <b>9 5</b> 4 8 6 2 <b>3 3</b> 4 <b>7</b> 4 2 <b>5</b> 4 6 <b>5 5 1</b> 8<br><br>विषम संख्याओं के समूहों की जाँच करने पर:<br>- '9 5' के बाद '4' (सम) है।<br>- '3 3' के बाद '4' (सम) है।<br>- '7' के दोनों ओर '4' (सम) है।<br>- '5 5 1' में लगातार तीन विषम संख्याएँ हैं!<br>इस समूह में: बीच वाला '5' एक विषम अंक ('5') से पहले है और एक विषम अंक ('1') के बाद है।<br>इस प्रकार, ऐसा केवल एक (ONE) ही विषम अंक है।<br><br><b>Short Trick:</b><br><br>Scan the entire string specifically looking for 3 odd digits in a row. You will quickly pass over small clusters and only land on \"5 5 1\" near the end. This counts as exactly 1 valid occurrence."
-    },
-    {
-        "section": "General intelligence and Reasoning Ability",
-        "topic": "Coding-Decoding",
-        "difficulty": "Easy",
-        "q_en": "In a certain code language, ‘TAIL’ is coded as ‘5376’ and ‘LATE’ is coded as ‘2537’. What is the code for ‘E’ in the given code language?",
-        "q_hi": "एक निश्चित कूट भाषा में, 'TAIL' को '5376' और 'LATE' को '2537' के रूप में कूटबद्ध किया गया है। दी गई कूट भाषा में 'E' के लिए कूट क्या है?",
-        "op_en": [
-            "2",
-            "7",
-            "3",
-            "5"
-        ],
-        "op_hi": [
-            "2",
-            "7",
-            "3",
-            "5"
-        ],
-        "ans": "1",
-        "solution": "<b>Solution (EN):</b><br><br>Let's analyze the given codes:<br>TAIL $\\rightarrow$ 5, 3, 7, 6<br>LATE $\\rightarrow$ 2, 5, 3, 7<br><br>Common letters in both words are: <b>T, A, L</b><br>Common digits in both codes are: <b>5, 3, 7</b><br><br>This means the codes for T, A, and L are represented by the digits 5, 3, and 7 in some order.<br>Now, looking at the word LATE, the only remaining letter is <b>E</b>, and the only remaining code digit is <b>2</b>.<br>Therefore, the code for 'E' is 2.<br><br><b>Solution (HI):</b><br><br>आइए दिए गए कूटों का विश्लेषण करें:<br>TAIL $\\rightarrow$ 5, 3, 7, 6<br>LATE $\\rightarrow$ 2, 5, 3, 7<br><br>दोनों शब्दों में समान अक्षर हैं: <b>T, A, L</b><br>दोनों कूटों में समान अंक हैं: <b>5, 3, 7</b><br><br>इसका अर्थ है कि T, A और L के लिए कूट किसी क्रम में 5, 3 और 7 हैं।<br>अब, LATE शब्द में, शेष बचा एकमात्र अक्षर <b>E</b> है, और एकमात्र शेष अंक <b>2</b> है।<br>अतः 'E' के लिए कूट 2 है।<br><br><b>Short Trick:</b><br><br>Eliminate common letters (L, A, T) and numbers (3, 5, 7) directly. In 'LATE', only 'E' is left and in '2537', only '2' is left. Thus, E = 2."
-    },
-    {
-        "section": "General intelligence and Reasoning Ability",
-        "topic": "Alphabetical Series",
-        "difficulty": "Medium",
-        "q_en": "Each vowel in the word CLINGER is changed to the letter immediately following it in the English alphabetical order and each consonant is changed to the letter immediately preceding it in the English alphabetical order. How many letters will appear exactly twice in the new group of letters thus formed?",
-        "q_hi": "शब्द CLINGER में प्रत्येक स्वर को अंग्रेजी वर्णमाला में उसके ठीक बाद आने वाले अक्षर से बदल दिया जाता है और प्रत्येक व्यंजन को अंग्रेजी वर्णमाला में उसके ठीक पहले आने वाले अक्षर से बदल दिया जाता है। इस प्रकार बने अक्षरों के नए समूह में कितने अक्षर ठीक दो बार दिखाई देंगे?",
-        "op_en": [
-            "Three",
-            "None",
-            "Two",
-            "One"
-        ],
-        "op_hi": [
-            "तीन",
-            "कोई नहीं",
-            "दो",
-            "एक"
-        ],
-        "ans": "4",
-        "solution": "<b>Solution (EN):</b><br><br>Given Word: C L I N G E R<br>Rule:<br>- Vowel $\\rightarrow$ Next Letter (+1)<br>- Consonant $\\rightarrow$ Previous Letter (-1)<br><br>Applying the rule:<br>C (Consonant) - 1 = B<br>L (Consonant) - 1 = K<br>I (Vowel) + 1 = J<br>N (Consonant) - 1 = M<br>G (Consonant) - 1 = F<br>E (Vowel) + 1 = F<br>R (Consonant) - 1 = Q<br><br>The new group of letters is: <b>B, K, J, M, F, F, Q</b><br>Looking at the new group, the letter 'F' appears exactly twice. No other letter repeats.<br>So, only ONE letter appears exactly twice.<br><br><b>Solution (HI):</b><br><br>दिया गया शब्द: C L I N G E R<br>नियम:<br>- स्वर (Vowel) $\\rightarrow$ अगला अक्षर (+1)<br>- व्यंजन (Consonant) $\\rightarrow$ पिछला अक्षर (-1)<br><br>नियम लागू करने पर:<br>C (व्यंजन) - 1 = B<br>L (व्यंजन) - 1 = K<br>I (स्वर) + 1 = J<br>N (व्यंजन) - 1 = M<br>G (व्यंजन) - 1 = F<br>E (स्वर) + 1 = F<br>R (व्यंजन) - 1 = Q<br><br>अक्षरों का नया समूह है: <b>B, K, J, M, F, F, Q</b><br>नए समूह को देखने पर, अक्षर 'F' ठीक दो बार आता है। कोई अन्य अक्षर दोहराया नहीं गया है।<br>अतः केवल एक (ONE) ही अक्षर ठीक दो बार दिखाई देता है।<br><br><b>Short Trick:</b><br><br>Change only adjacent letters based on the vowel/consonant rule. G(-1) $\\rightarrow$ F and E(+1) $\\rightarrow$ F. The rest map to different letters. Hence, only 1 pair is formed."
-    },
-    {
-        "section": "General intelligence and Reasoning Ability",
-        "topic": "Coding-Decoding",
-        "difficulty": "Easy",
-        "q_en": "In a certain code language, ‘queen strong chess’ is coded as ‘mh pa fo’ and ‘exercise muscle strong’ is coded as ‘pa ti ze’. How is ‘strong’ coded in the given language?",
-        "q_hi": "एक निश्चित कूट भाषा में, 'queen strong chess' को 'mh pa fo' के रूप में और 'exercise muscle strong' को 'pa ti ze' के रूप में कूटबद्ध किया गया है। दी गई भाषा में 'strong' को किस प्रकार कूटबद्ध किया गया है?",
-        "op_en": [
-            "ze",
-            "pa",
-            "ti",
-            "fo"
-        ],
-        "op_hi": [
-            "ze",
-            "pa",
-            "ti",
-            "fo"
-        ],
-        "ans": "2",
-        "solution": "<b>Solution (EN):</b><br><br>Let's compare the two coded sentences:<br>Sentence 1: queen <b>strong</b> chess = mh <b>pa</b> fo<br>Sentence 2: exercise muscle <b>strong</b> = <b>pa</b> ti ze<br><br>The only common word in both sentences is <b>'strong'</b>.<br>The only common code in both statements is <b>'pa'</b>.<br>Therefore, the code for 'strong' is 'pa'.<br><br><b>Solution (HI):</b><br><br>आइए दोनों कूटबद्ध वाक्यों की तुलना करें:<br>वाक्य 1: queen <b>strong</b> chess = mh <b>pa</b> fo<br>वाक्य 2: exercise muscle <b>strong</b> = <b>pa</b> ti ze<br><br>दोनों वाक्यों में एकमात्र समान शब्द <b>'strong'</b> है।<br>दोनों कथनों में एकमात्र समान कूट <b>'pa'</b> है।<br>अतः 'strong' के लिए कूट 'pa' है।<br><br><b>Short Trick:</b><br><br>Just spot the intersection. Word Intersection = {strong}. Code Intersection = {pa}. Hence, strong = pa."
-    },
-    {
-        "section": "General intelligence and Reasoning Ability",
-        "topic": "Puzzle (Floors)",
-        "difficulty": "Hard",
-        "q_en": "M, N, O, P, Q, and R live on six different floors of the same building. The lowermost floor in the building is numbered 1, the floor above it, number 2 and so on till the topmost floor is numbered 6. O lives on an odd numbered floor but not on the lowermost floor. Only two people live between O and P. Only one person lives between P and M. N is immediately above M. Q is immediately above R, but Q does not live on the top floor. On which floor number does N live?",
-        "q_hi": "M, N, O, P, Q और R एक ही इमारत की छह अलग-अलग मंजिलों पर रहते हैं। इमारत की सबसे निचली मंजिल की संख्या 1 है, उसके ऊपर की मंजिल की संख्या 2 है और इसी तरह सबसे ऊपरी मंजिल की संख्या 6 है। O एक विषम संख्या वाली मंजिल पर रहता है लेकिन सबसे निचली मंजिल पर नहीं। O और P के बीच केवल दो व्यक्ति रहते हैं। P और M के बीच केवल एक व्यक्ति रहता है। N, M के ठीक ऊपर है। Q, R के ठीक ऊपर है, लेकिन Q सबसे ऊपरी मंजिल पर नहीं रहता है। N किस मंजिल संख्या पर रहता है?",
-        "op_en": [
-            "Floor number 5",
-            "Floor number 4",
-            "Floor number 2",
-            "Floor number 6"
-        ],
-        "op_hi": [
-            "मंजिल संख्या 5",
-            "मंजिल संख्या 4",
-            "मंजिल संख्या 2",
-            "मंजिल संख्या 6"
-        ],
-        "ans": "1",
-        "solution": "<b>Solution (EN):</b><br><br>There are 6 floors (1 to 6).<br>1. O is on an odd floor but not 1. So, O is on Floor 3 or 5.<br><br><b>Case 1: O is on Floor 3.</b><br>- Two people live between O and P. Since O is on 3, P must be on 6 (3 + 3 = 6).<br>- One person between P and M. Since P is on 6, M must be on 4.<br>- N is immediately above M. Since M is on 4, N must be on 5.<br>- Current arrangement: 6:P, 5:N, 4:M, 3:O, 2:_, 1:_<br>- Q is immediately above R, and Q is not on the top floor. The remaining spots are 2 and 1. Placing Q on 2 and R on 1 satisfies all conditions.<br>- <b>Valid Arrangement:</b> 6:P, 5:N, 4:M, 3:O, 2:Q, 1:R.<br><br><b>Case 2: O is on Floor 5.</b><br>- Two people between O and P. Since O is 5, P must be on 2.<br>- One person between P and M. M could be on 4. <br>- N is immediately above M. If M is 4, N must be 5. But O is already on 5! This contradicts the setup. (Invalid Case)<br><br>Therefore, the correct arrangement is Case 1. N lives on <b>Floor number 5</b>.<br><br><b>Solution (HI):</b><br><br>यहाँ 6 मंजिलें हैं (1 से 6)।<br>1. O विषम संख्या वाली मंजिल पर है लेकिन 1 पर नहीं। अतः, O मंजिल 3 या 5 पर है।<br><br><b>स्थिति 1: O मंजिल 3 पर है।</b><br>- O और P के बीच दो व्यक्ति रहते हैं। चूँकि O 3 पर है, इसलिए P, 6 पर होगा (3 + 3 = 6)।<br>- P और M के बीच एक व्यक्ति रहता है। चूँकि P, 6 पर है, इसलिए M, 4 पर होगा।<br>- N, M के ठीक ऊपर है। चूँकि M, 4 पर है, इसलिए N, 5 पर होगा।<br>- वर्तमान व्यवस्था: 6:P, 5:N, 4:M, 3:O, 2:_, 1:_<br>- Q, R के ठीक ऊपर है, और Q सबसे ऊपरी मंजिल पर नहीं है। शेष स्थान 2 और 1 हैं। Q को 2 पर और R को 1 पर रखने से सभी शर्तें पूरी होती हैं।<br>- <b>वैध व्यवस्था:</b> 6:P, 5:N, 4:M, 3:O, 2:Q, 1:R.<br><br><b>स्थिति 2: O मंजिल 5 पर है।</b><br>- O और P के बीच दो व्यक्ति हैं। चूँकि O, 5 पर है, इसलिए P, 2 पर होगा।<br>- P और M के बीच एक व्यक्ति है। M, 4 पर हो सकता है।<br>- N, M के ठीक ऊपर है। यदि M, 4 पर है, तो N को 5 पर होना चाहिए। लेकिन O पहले से ही 5 पर है! यह विरोधाभास है। (अवैध स्थिति)<br><br>अतः, सही व्यवस्था स्थिति 1 है। N <b>मंजिल संख्या 5</b> पर रहता है।<br><br><b>Short Trick:</b><br><br>Start with O=3. P becomes 6. Since N is directly above M and there is a gap of 1 between P(6) and M, M must be 4, forcing N to be 5. It clicks instantly!"
-    },
-    {
-        "section": "General intelligence and Reasoning Ability",
-        "topic": "Mathematical Inequalities",
-        "difficulty": "Medium",
-        "q_en": "In this question, a statement is followed by two conclusions, numbered I and II. Find out which conclusion(s) is/are true based on the given statement. <br><br>Statement: $W > X \\leq Y > Z = D$<br><br>Conclusions:<br>I. $Y < W$<br>II. $D < Y$",
-        "q_hi": "इस प्रश्न में, एक कथन के बाद दो निष्कर्ष I और II दिए गए हैं। दिए गए कथन के आधार पर ज्ञात कीजिए कि कौन सा/से निष्कर्ष सत्य है/हैं। <br><br>कथन: $W > X \\leq Y > Z = D$<br><br>निष्कर्ष:<br>I. $Y < W$<br>II. $D < Y$",
-        "op_en": [
-            "Neither I nor II is true",
-            "Only I is true",
-            "Both I and II are true",
-            "Only II is true"
-        ],
-        "op_hi": [
-            "न तो I न ही II सत्य है",
-            "केवल I सत्य है",
-            "I और II दोनों सत्य हैं",
-            "केवल II सत्य है"
-        ],
-        "ans": "4",
-        "solution": "<b>Solution (EN):</b><br><br>Given Statement: $W > X \\leq Y > Z = D$<br><br>Let's evaluate the conclusions:<br><b>Conclusion I: $Y < W$</b><br>From the statement, the path from W to Y is $W > X \\leq Y$. Because the inequality signs are facing opposite directions ($>$ and $\\leq$), we cannot establish a clear relationship between W and Y. Thus, Conclusion I is false.<br><br><b>Conclusion II: $D < Y$</b><br>From the statement, the relationship from Y to D is $Y > Z = D$. This implies $Y > D$, which is exactly the same as $D < Y$. Thus, Conclusion II is true.<br><br>Only Conclusion II is true.<br><br><b>Solution (HI):</b><br><br>दिया गया कथन: $W > X \\leq Y > Z = D$<br><br>आइए निष्कर्षों का मूल्यांकन करें:<br><b>निष्कर्ष I: $Y < W$</b><br>कथन से, W से Y तक का पथ $W > X \\leq Y$ है। चूँकि असमानता के चिह्न विपरीत दिशाओं ($>$ और $\\leq$) का सामना कर रहे हैं, इसलिए हम W और Y के बीच स्पष्ट संबंध स्थापित नहीं कर सकते। इस प्रकार, निष्कर्ष I असत्य है।<br><br><b>निष्कर्ष II: $D < Y$</b><br>कथन से, Y से D तक का संबंध $Y > Z = D$ है। इसका तात्पर्य है कि $Y > D$, जो कि बिल्कुल $D < Y$ के समान है। इस प्रकार, निष्कर्ष II सत्य है।<br><br>केवल निष्कर्ष II सत्य है।<br><br><b>Short Trick:</b><br><br>Block signs = No relation. $W > X \\leq Y$ forms a block, so I is wrong. For II, $Y > Z = D$ clearly simplifies to $Y > D$, meaning $D < Y$. Quick and straightforward!"
-    },
-    {
-        "section": "General intelligence and Reasoning Ability",
-        "topic": "Seating Arrangement",
-        "difficulty": "Hard",
-        "q_en": "Seven people J, K, L, M, P, Q and R are sitting in a straight line facing north. Only five people sit between L and Q. R sits to the immediate left of Q. Only two people sit between L and P. M sits at some place to the left of K, but at some place to the right of J. Who sits third from the left end of the line?",
-        "q_hi": "सात व्यक्ति J, K, L, M, P, Q और R उत्तर की ओर मुख करके एक सीधी रेखा में बैठे हैं। L और Q के बीच केवल पांच व्यक्ति बैठे हैं। R, Q के ठीक बाएँ बैठा है। L और P के बीच केवल दो व्यक्ति बैठे हैं। M, K के बाएँ किसी स्थान पर बैठा है, लेकिन J के दाएँ किसी स्थान पर बैठा है। पंक्ति के बाएँ छोर से तीसरे स्थान पर कौन बैठा है?",
-        "op_en": [
-            "P",
-            "M",
-            "K",
-            "J"
-        ],
-        "op_hi": [
-            "P",
-            "M",
-            "K",
-            "J"
-        ],
-        "ans": "2",
-        "solution": "<b>Solution (EN):</b><br><br>Let's map out the 7 seats facing North: 1 2 3 4 5 6 7.<br><br>1. <b>Only five people sit between L and Q:</b> Since there are 7 people in total, L and Q must be at the extreme ends. (Arrangement is either L _ _ _ _ _ Q or Q _ _ _ _ _ L).<br>2. <b>R sits to the immediate left of Q:</b> If Q is at the extreme left (seat 1), R cannot sit to his left. Therefore, Q must be at the extreme right (seat 7), making L at the extreme left (seat 1). So, R is at seat 6.<br>Arrangement so far: L _ _ _ _ R Q<br>3. <b>Only two people sit between L and P:</b> Moving two spaces from L, P must sit at seat 4.<br>Arrangement so far: L _ _ P _ R Q<br>4. <b>M sits to the left of K, but to the right of J (J -> M -> K):</b> The remaining empty seats are 2, 3, and 5. To maintain the order, J must be at seat 2, M at seat 3, and K at seat 5.<br>Final Arrangement: L J M P K R Q<br><br>The person sitting third from the left end is M.<br><br><b>Solution (HI):</b><br><br>आइए उत्तर की ओर मुख वाली 7 सीटों का नक्शा बनाएं: 1 2 3 4 5 6 7।<br><br>1. <b>L और Q के बीच केवल पांच व्यक्ति बैठे हैं:</b> चूँकि कुल 7 व्यक्ति हैं, इसलिए L और Q अंतिम छोर पर होने चाहिए। (व्यवस्था या तो L _ _ _ _ _ Q या Q _ _ _ _ _ L है)।<br>2. <b>R, Q के ठीक बाएँ बैठा है:</b> यदि Q सबसे बाएँ (सीट 1) है, तो R उसके बाएँ नहीं बैठ सकता। इसलिए, Q सबसे दाएँ (सीट 7) होना चाहिए, जिससे L सबसे बाएँ (सीट 1) आ जाएगा। अतः, R सीट 6 पर है।<br>अब तक की व्यवस्था: L _ _ _ _ R Q<br>3. <b>L और P के बीच केवल दो व्यक्ति बैठे हैं:</b> L से दो स्थान छोड़कर, P को सीट 4 पर बैठना चाहिए।<br>अब तक की व्यवस्था: L _ _ P _ R Q<br>4. <b>M, K के बाएँ बैठा है, लेकिन J के दाएँ बैठा है (J -> M -> K):</b> शेष खाली सीटें 2, 3 और 5 हैं। क्रम बनाए रखने के लिए, J सीट 2 पर, M सीट 3 पर और K सीट 5 पर होना चाहिए।<br>अंतिम व्यवस्था: L J M P K R Q<br><br>बाएँ छोर से तीसरे स्थान पर बैठने वाला व्यक्ति M है।<br><br><b>Short Trick:</b><br><br>A gap of 5 in a row of 7 automatically pins those two to the ends! Once Q is pinned right (since R needs to be left of Q), L is pinned left. P jumps to 4th. J, M, K simply fill the blanks in order from left to right. 3rd spot goes to M naturally."
-    },
-    {
-        "section": "General intelligence and Reasoning Ability",
-        "topic": "Coding-Decoding",
-        "difficulty": "Easy",
-        "q_en": "In a certain code language, ‘lights guide travelers’ is coded as ‘mk jv rt’ and ‘make him guide’ is coded as ‘as rt zf’. How is ‘guide’ coded in the given language? (All codes are two letter codes only).",
-        "q_hi": "एक निश्चित कूट भाषा में, 'lights guide travelers' को 'mk jv rt' के रूप में और 'make him guide' को 'as rt zf' के रूप में कूटबद्ध किया गया है। दी गई भाषा में 'guide' को किस प्रकार कूटबद्ध किया गया है? (सभी कूट केवल दो अक्षर के कूट हैं)।",
-        "op_en": [
-            "as",
-            "mk",
-            "jv",
-            "rt"
-        ],
-        "op_hi": [
-            "as",
-            "mk",
-            "jv",
-            "rt"
-        ],
-        "ans": "4",
-        "solution": "<b>Solution (EN):</b><br><br>Let's compare the given sentences and their codes:<br>Sentence 1: lights <b>guide</b> travelers = mk jv <b>rt</b><br>Sentence 2: make him <b>guide</b> = as <b>rt</b> zf<br><br>By analyzing both sentences, the only common word is <b>'guide'</b>.<br>Similarly, the only common code between the two statements is <b>'rt'</b>.<br>Therefore, the code for 'guide' is 'rt'.<br><br><b>Solution (HI):</b><br><br>आइए दिए गए वाक्यों और उनके कूटों की तुलना करें:<br>वाक्य 1: lights <b>guide</b> travelers = mk jv <b>rt</b><br>वाक्य 2: make him <b>guide</b> = as <b>rt</b> zf<br><br>दोनों वाक्यों का विश्लेषण करने पर, एकमात्र समान शब्द <b>'guide'</b> है।<br>इसी प्रकार, दोनों कथनों के बीच एकमात्र समान कूट <b>'rt'</b> है।<br>इसलिए, 'guide' के लिए कूट 'rt' है।<br><br><b>Short Trick:</b><br><br>Find the intersection point directly. Common Word = 'guide'. Common Code = 'rt'. Hence, guide = rt."
-    },
-    {
-        "section": "General intelligence and Reasoning Ability",
-        "topic": "Ranking",
-        "difficulty": "Easy",
-        "q_en": "Neha ranked $14^{th}$ from the top and $38^{th}$ from the bottom in her class. How many students are there in the class?",
-        "q_hi": "नेहा अपनी कक्षा में ऊपर से $14^{th}$ और नीचे से $38^{th}$ स्थान पर है। कक्षा में कितने छात्र हैं?",
-        "op_en": [
-            "51",
-            "52",
+            "30",
+            "10",
             "50",
-            "53"
+            "20"
         ],
         "op_hi": [
-            "51",
-            "52",
+            "30",
+            "10",
             "50",
-            "53"
+            "20"
         ],
-        "ans": "1",
-        "solution": "<b>Solution (EN):</b><br><br>To find the total number of students in a class when the ranks of one person from both ends are given, we use the formula:<br><b>Total Students = (Rank from Top) + (Rank from Bottom) - 1</b><br><br>Given:<br>Rank from Top = 14<br>Rank from Bottom = 38<br><br>Total Students = $14 + 38 - 1$<br>Total Students = $52 - 1 = 51$<br>There are 51 students in the class.<br><br><b>Solution (HI):</b><br><br>जब किसी एक व्यक्ति का दोनों छोरों से स्थान दिया गया हो, तो कक्षा में कुल छात्रों की संख्या ज्ञात करने के लिए हम इस सूत्र का उपयोग करते हैं:<br><b>कुल छात्र = (ऊपर से स्थान) + (नीचे से स्थान) - 1</b><br><br>दिया गया है:<br>ऊपर से स्थान = 14<br>नीचे से स्थान = 38<br><br>कुल छात्र = $14 + 38 - 1$<br>कुल छात्र = $52 - 1 = 51$<br>कक्षा में 51 छात्र हैं।<br><br><b>Short Trick:</b><br><br>Just add both given numbers and subtract 1. (Because Neha is counted twice, once from top and once from bottom). $14 + 38 = 52 \\Rightarrow 52 - 1 = 51$."
+        "ans": 1,
+        "solution": "<b>Solution (EN):</b> Let the fourth proportional be $x$.<br>According to the concept of proportion: $8 : 12 :: 20 : x$<br>$\\Rightarrow \\frac{8}{12} = \\frac{20}{x}$<br>$\\Rightarrow 8 \\times x = 12 \\times 20$<br>$\\Rightarrow x = \\frac{240}{8} = 30$<br><br><b>Solution (HI):</b> माना चतुर्थानुपाती $x$ है।<br>समानुपात की अवधारणा के अनुसार: $8 : 12 :: 20 : x$<br>$\\Rightarrow \\frac{8}{12} = \\frac{20}{x}$<br>$\\Rightarrow 8 \\times x = 12 \\times 20$<br>$\\Rightarrow x = \\frac{240}{8} = 30$<br><br><b>Short Trick:</b> Fourth proportional of $a, b, c = \\frac{b \\times c}{a} = \\frac{12 \\times 20}{8} = 30$."
     },
     {
-        "section": "General intelligence and Reasoning Ability",
-        "topic": "Number Series",
+        "section": "Arithmetical and Numerical Ability1",
+        "topic": "Arithmetic",
         "difficulty": "Medium",
-        "q_en": "Refer to the given series and answer the question that follows. (All numbers are single digit numbers only.) (Counting is to be done from left to right only.)<br><br>(Left) 6 1 2 1 5 7 5 9 7 9 1 2 6 1 9 2 2 2 8 5 2 2 9 1 6 9 3 (Right)<br><br>How many such odd numbers are there, each of which is immediately preceded by an odd number and also immediately followed by an odd number?",
-        "q_hi": "दी गई श्रृंखला का संदर्भ लें और उसके बाद आने वाले प्रश्न का उत्तर दें। (सभी संख्याएँ केवल एक अंक की संख्याएँ हैं।) (गिनती केवल बाएँ से दाएँ की जानी चाहिए।)<br><br>(बाएँ) 6 1 2 1 5 7 5 9 7 9 1 2 6 1 9 2 2 2 8 5 2 2 9 1 6 9 3 (दाएँ)<br><br>ऐसी कितनी विषम संख्याएँ हैं, जिनमें से प्रत्येक के ठीक पहले एक विषम संख्या है और ठीक बाद में भी एक विषम संख्या है?",
+        "q_en": "The marked price of a jacket is ₹2400. It is sold at two successive discounts of 10% and x%. If the jacket is sold for ₹1728, then find the value of x.",
+        "q_hi": "एक जैकेट का अंकित मूल्य ₹2400 है। इसे 10% और x% की दो क्रमिक छूटों पर बेचा जाता है। यदि जैकेट को ₹1728 में बेचा जाता है, तो x का मान ज्ञात कीजिए।",
         "op_en": [
-            "7",
-            "8",
-            "6",
-            "5"
+            "5",
+            "10",
+            "15",
+            "20"
         ],
         "op_hi": [
-            "7",
-            "8",
-            "6",
-            "5"
+            "5",
+            "10",
+            "15",
+            "20"
         ],
-        "ans": "3",
-        "solution": "<b>Solution (EN):</b><br><br>We need to find the pattern: <b>(Odd Number) (Odd Number) (Odd Number)</b> and count the middle odd numbers.<br><br>Let's scan the sequence to find consecutive groups of odd numbers:<br>6 1 2 <b>1 5 7 5 9 7 9 1</b> 2 6 1 9 2 2 2 8 5 2 2 9 1 6 9 3<br><br>Extracting the continuous odd number chunk: <b>1, 5, 7, 5, 9, 7, 9, 1</b><br>Let's check each number in this chunk for the condition:<br>1. 1 <b>5</b> 7 -> '5' is between 1 and 7 (Valid - 1)<br>2. 5 <b>7</b> 5 -> '7' is between 5 and 5 (Valid - 2)<br>3. 7 <b>5</b> 9 -> '5' is between 7 and 9 (Valid - 3)<br>4. 5 <b>9</b> 7 -> '9' is between 5 and 7 (Valid - 4)<br>5. 9 <b>7</b> 9 -> '7' is between 9 and 9 (Valid - 5)<br>6. 7 <b>9</b> 1 -> '9' is between 7 and 1 (Valid - 6)<br><br>Are there any other continuous odd groups? <br>'1 9' is followed by 2 (Even).<br>'9 1' is followed by 6 (Even).<br>'9 3' are the last two digits, so '9' has no odd number before it, and '3' has no number after it.<br><br>Total valid occurrences = 6.<br><br><b>Solution (HI):</b><br><br>हमें निम्नलिखित पैटर्न खोजना है: <b>(विषम संख्या) (विषम संख्या) (विषम संख्या)</b> और बीच वाली विषम संख्याओं को गिनना है।<br><br>आइए लगातार विषम संख्याओं के समूहों को खोजने के लिए अनुक्रम को स्कैन करें:<br>6 1 2 <b>1 5 7 5 9 7 9 1</b> 2 6 1 9 2 2 2 8 5 2 2 9 1 6 9 3<br><br>लगातार विषम संख्याओं के हिस्से को निकालने पर: <b>1, 5, 7, 5, 9, 7, 9, 1</b><br>आइए शर्त के लिए इस हिस्से की प्रत्येक संख्या की जाँच करें:<br>1. 1 <b>5</b> 7 -> '5', 1 और 7 के बीच है (मान्य - 1)<br>2. 5 <b>7</b> 5 -> '7', 5 और 5 के बीच है (मान्य - 2)<br>3. 7 <b>5</b> 9 -> '5', 7 और 9 के बीच है (मान्य - 3)<br>4. 5 <b>9</b> 7 -> '9', 5 और 7 के बीच है (मान्य - 4)<br>5. 9 <b>7</b> 9 -> '7', 9 और 9 के बीच है (मान्य - 5)<br>6. 7 <b>9</b> 1 -> '9', 7 और 1 के बीच है (मान्य - 6)<br><br>क्या कोई अन्य लगातार विषम समूह हैं?<br>'1 9' के बाद 2 (सम) है।<br>'9 1' के बाद 6 (सम) है।<br>'9 3' अंतिम दो अंक हैं, इसलिए '9' से पहले कोई विषम संख्या नहीं है, और '3' के बाद कोई संख्या नहीं है।<br><br>कुल मान्य घटनाएँ = 6.<br><br><b>Short Trick:</b><br><br>When searching for O-O-O, look for a long unbroken chain of odd numbers. The chain \"1, 5, 7, 5, 9, 7, 9, 1\" has 8 numbers. The formula to count triplets in a continuous chain of $n$ numbers is $(n - 2)$. So, $8 - 2 = 6$. Simple!"
+        "ans": 4,
+        "solution": "<b>Solution (EN):</b> Marked Price (MP) = ₹2400.<br>Selling price after the first discount of $10\\%$ = $2400 \\times \\frac{90}{100} = 2160$<br>Final Selling Price (SP) = ₹1728.<br>Discount given in the second step = $2160 - 1728 = 432$<br>Therefore, the second discount percentage $x = \\frac{432}{2160} \\times 100 = 20$<br><br><b>Solution (HI):</b> अंकित मूल्य (MP) = ₹2400.<br>$10\\%$ की पहली छूट के बाद विक्रय मूल्य = $2400 \\times \\frac{90}{100} = 2160$<br>अंतिम विक्रय मूल्य (SP) = ₹1728.<br>दूसरे चरण में दी गई छूट = $2160 - 1728 = 432$<br>इसलिए, दूसरी छूट का प्रतिशत $x = \\frac{432}{2160} \\times 100 = 20$<br><br><b>Short Trick:</b> $2400 \\times 0.9 \\times (1 - \\frac{x}{100}) = 1728 \\Rightarrow 1 - \\frac{x}{100} = \\frac{1728}{2160} = 0.8 \\Rightarrow x = 20$."
     },
     {
-        "section": "General intelligence and Reasoning Ability",
-        "topic": "Syllogism",
-        "difficulty": "Easy",
-        "q_en": "Read the given statement(s) and conclusions carefully. Assuming that the information given in the statements is true, even if it appears to be at variance with commonly known facts, decide which of the given conclusions logically follow(s) from the statement(s).<br><br>Statements: All plates are saucers. All saucers are cups.<br><br>Conclusion (I): Some cups are saucers<br>Conclusion (II): All plates are cups",
-        "q_hi": "दिए गए कथन(कथनों) और निष्कर्षों को ध्यानपूर्वक पढ़ें। यह मानते हुए कि कथनों में दी गई जानकारी सत्य है, भले ही यह सामान्य रूप से ज्ञात तथ्यों से भिन्न प्रतीत होती हो, तय करें कि दिए गए निष्कर्षों में से कौन सा तार्किक रूप से कथन(कथनों) का अनुसरण करता है।<br><br>कथन: सभी प्लेट तश्तरी हैं। सभी तश्तरी कप हैं।<br><br>निष्कर्ष (I): कुछ कप तश्तरी हैं<br>निष्कर्ष (II): सभी प्लेट कप हैं",
+        "section": "Arithmetical and Numerical Ability1",
+        "topic": "Arithmetic",
+        "difficulty": "Medium",
+        "q_en": "Find the total surface area of a cylindrical vessel whose radius is 5.6 cm and height is 8 cm. (Use $\\pi = \\frac{22}{7}$)",
+        "q_hi": "एक बेलनाकार बर्तन का कुल पृष्ठीय क्षेत्रफल ज्ञात कीजिए जिसकी त्रिज्या 5.6 cm और ऊंचाई 8 cm है। ($\\pi = \\frac{22}{7}$ का प्रयोग करें)",
         "op_en": [
-            "Only conclusion (II) follows",
-            "Both conclusions (I) and (II) follow",
-            "Only conclusion (I) follows",
-            "Neither conclusion (I) nor (II) follows"
+            "$475 \\text{ cm}^2$",
+            "$478.72 \\text{ cm}^2$",
+            "$475.5 \\text{ cm}^2$",
+            "$478 \\text{ cm}^2$"
         ],
         "op_hi": [
-            "केवल निष्कर्ष (II) अनुसरण करता है",
-            "निष्कर्ष (I) और (II) दोनों अनुसरण करते हैं",
-            "केवल निष्कर्ष (I) अनुसरण करता है",
-            "न तो निष्कर्ष (I) और न ही (II) अनुसरण करता है"
+            "$475 \\text{ cm}^2$",
+            "$478.72 \\text{ cm}^2$",
+            "$475.5 \\text{ cm}^2$",
+            "$478 \\text{ cm}^2$"
         ],
-        "ans": "2",
-        "solution": "<b>Solution (EN):</b><br><br>Let's draw a Venn diagram or use logical deduction based on the statements:<br>1. <b>All plates are saucers:</b> The circle for Plates is completely inside the circle for Saucers. (Plates $\\subset$ Saucers)<br>2. <b>All saucers are cups:</b> The circle for Saucers is completely inside the circle for Cups. (Saucers $\\subset$ Cups)<br><br>Analyzing the Conclusions:<br><b>Conclusion (I) Some cups are saucers:</b> Since all saucers are inside the cups boundary, the part of the cups space occupied by saucers means that at least 'some' cups are definitely saucers. (True)<br><b>Conclusion (II) All plates are cups:</b> The Plates circle is entirely inside the Saucers circle, which in turn is entirely inside the Cups circle. Therefore, Plates are entirely inside Cups. (True)<br><br>Both conclusions (I) and (II) follow.<br><br><b>Solution (HI):</b><br><br>आइए वेन आरेख बनाएं या कथनों के आधार पर तार्किक निष्कर्ष निकालें:<br>1. <b>सभी प्लेट तश्तरी हैं:</b> प्लेट्स का चक्र पूरी तरह से तश्तरी के चक्र के अंदर है। (प्लेट $\\subset$ तश्तरी)<br>2. <b>सभी तश्तरी कप हैं:</b> तश्तरी का चक्र पूरी तरह से कप के चक्र के अंदर है। (तश्तरी $\\subset$ कप)<br><br>निष्कर्षों का विश्लेषण:<br><b>निष्कर्ष (I) कुछ कप तश्तरी हैं:</b> चूँकि सभी तश्तरियां कप की सीमा के अंदर हैं, अतः कप के स्थान का वह हिस्सा जो तश्तरियों द्वारा घेरा गया है, का अर्थ है कि कम से कम 'कुछ' कप निश्चित रूप से तश्तरी हैं। (सत्य)<br><b>निष्कर्ष (II) सभी प्लेट कप हैं:</b> प्लेट्स का चक्र पूरी तरह से तश्तरी के चक्र के अंदर है, जो बदले में पूरी तरह से कप के चक्र के अंदर है। इसलिए, प्लेटें पूरी तरह से कप के अंदर हैं। (सत्य)<br><br>निष्कर्ष (I) और (II) दोनों अनुसरण करते हैं।<br><br><b>Short Trick:</b><br><br>Inner to Outer concept: Moving from Inner circle to Outer circle, \"All\" & \"Some\" both follow. Moving from Outer to Inner, only \"Some\" follows. Cups $\\rightarrow$ Saucers (Outer to Inner = Some follows). Plates $\\rightarrow$ Cups (Inner to Outer = All follows). Both True!"
+        "ans": 2,
+        "solution": "<b>Solution (EN):</b> Total Surface Area (TSA) of a cylinder = $2 \\pi r(r + h)$<br>Given: radius $r = 5.6$ cm, height $h = 8$ cm.<br>TSA = $2 \\times \\frac{22}{7} \\times 5.6 \\times (5.6 + 8)$<br>TSA = $44 \\times 0.8 \\times 13.6$<br>TSA = $35.2 \\times 13.6 = 478.72 \\text{ cm}^2$<br><br><b>Solution (HI):</b> बेलन का कुल पृष्ठीय क्षेत्रफल (TSA) = $2 \\pi r(r + h)$<br>दिया गया है: त्रिज्या $r = 5.6$ सेमी, ऊंचाई $h = 8$ सेमी।<br>TSA = $2 \\times \\frac{22}{7} \\times 5.6 \\times (5.6 + 8)$<br>TSA = $44 \\times 0.8 \\times 13.6$<br>TSA = $35.2 \\times 13.6 = 478.72 \\text{ cm}^2$<br><br><b>Short Trick:</b> Apply digital sum or directly compute: $2 \\times \\frac{22}{7} \\times 5.6 \\times 13.6 = 478.72$."
     },
     {
-        "section": "General intelligence and Reasoning Ability",
-        "topic": "Puzzle (Arrangement)",
+        "section": "Arithmetical and Numerical Ability1",
+        "topic": "Arithmetic",
         "difficulty": "Hard",
-        "q_en": "Six boxes F, G, H, I, Q and R are kept one over the other but not necessarily in the same order. Only two boxes are kept below G. Only two boxes are kept between G and F. F is kept immediately above R. Q is kept at some place below H and at some place above I. How many boxes are kept between I and H?",
-        "q_hi": "छह बॉक्स F, G, H, I, Q और R एक के ऊपर एक रखे गए हैं लेकिन जरूरी नहीं कि इसी क्रम में हों। G के नीचे केवल दो बॉक्स रखे गए हैं। G और F के बीच केवल दो बॉक्स रखे गए हैं। F को R के ठीक ऊपर रखा गया है। Q को H के नीचे किसी स्थान पर और I के ऊपर किसी स्थान पर रखा गया है। I और H के बीच कितने बॉक्स रखे गए हैं?",
+        "q_en": "Pipe A can fill a tank in 5 hours, pipe B can fill it in 6 hours, but pipe C can empty it in 3 hours. If all three pipes are opened together, how much time will it take to fill the tank?",
+        "q_hi": "पाइप A एक टंकी को 5 घंटे में भर सकता है, पाइप B उसे 6 घंटे में भर सकता है, लेकिन पाइप C उसे 3 घंटे में खाली कर सकता है। यदि तीनों पाइप को एक साथ खोल दिए जाएं, तो टंकी को भरने में कितना समय लगेगा?",
         "op_en": [
-            "One",
-            "None",
-            "Two",
-            "Three"
+            "20 hours",
+            "30 hours",
+            "40 hours",
+            "25 hours"
         ],
         "op_hi": [
-            "एक",
-            "कोई नहीं",
-            "दो",
-            "तीन"
+            "20 घंटे",
+            "30 घंटे",
+            "40 घंटे",
+            "25 घंटे"
         ],
-        "ans": "3",
-        "solution": "<b>Solution (EN):</b><br><br>Let's map the positions of the 6 boxes from Top (1) to Bottom (6):<br>1. <b>Only two boxes are kept below G:</b> This means G is at position 4.<br>2. <b>Only two boxes are kept between G and F:</b> Starting from G(4), moving down by 2 boxes would place F at position 7 (out of bounds). So, F must be placed above G. Leaving a gap of 2 (positions 2 and 3), F is placed at position 1.<br>3. <b>F is kept immediately above R:</b> Since F is at 1, R must be at position 2.<br>Current Arrangement: 1:F, 2:R, 3:_, 4:G, 5:_, 6:_<br>4. <b>Q is kept below H and above I (Order: H > Q > I):</b> The remaining empty positions are 3, 5, and 6. To maintain the sequence, H must be at 3, Q at 5, and I at 6.<br>Final Order (1 to 6): F, R, H, G, Q, I.<br><br>The boxes between H (position 3) and I (position 6) are G and Q. That gives us exactly <b>Two</b> boxes.<br><br><b>Solution (HI):</b><br><br>आइए 6 बॉक्स के स्थानों को ऊपर (1) से नीचे (6) तक चिह्नित करें:<br>1. <b>G के नीचे केवल दो बॉक्स रखे गए हैं:</b> इसका अर्थ है कि G स्थान 4 पर है।<br>2. <b>G और F के बीच केवल दो बॉक्स रखे गए हैं:</b> G(4) से शुरू करते हुए, 2 बॉक्स नीचे जाने पर F को 7वें स्थान (सीमा से बाहर) पर रखना होगा। अतः, F को G के ऊपर रखा जाना चाहिए। 2 का अंतराल (स्थान 2 और 3) छोड़ते हुए, F को स्थान 1 पर रखा गया है।<br>3. <b>F को R के ठीक ऊपर रखा गया है:</b> चूँकि F 1 पर है, इसलिए R को स्थान 2 पर होना चाहिए।<br>वर्तमान व्यवस्था: 1:F, 2:R, 3:_, 4:G, 5:_, 6:_<br>4. <b>Q को H के नीचे और I के ऊपर रखा गया है (क्रम: H > Q > I):</b> शेष खाली स्थान 3, 5 और 6 हैं। अनुक्रम बनाए रखने के लिए, H को 3 पर, Q को 5 पर और I को 6 पर होना चाहिए।<br>अंतिम क्रम (1 से 6): F, R, H, G, Q, I.<br><br>H (स्थान 3) और I (स्थान 6) के बीच के बॉक्स G और Q हैं। यह हमें ठीक <b>दो</b> बॉक्स देता है।<br><br><b>Short Trick:</b><br><br>G has 2 below it $\\Rightarrow$ G is 4th. Gap of 2 means F is 1st. F directly over R $\\Rightarrow$ R is 2nd. The rest (H, Q, I) drop logically into spots 3, 5, 6. Between 3 (H) and 6 (I) there are exactly 2 spaces!"
+        "ans": 2,
+        "solution": "<b>Solution (EN):</b> Let the total capacity of the tank be the LCM of 5, 6, and 3.<br>LCM$(5, 6, 3) = 30$ units.<br>Efficiency of Pipe A = $\\frac{30}{5} = +6$ units/hr.<br>Efficiency of Pipe B = $\\frac{30}{6} = +5$ units/hr.<br>Efficiency of Pipe C = $\\frac{30}{3} = -10$ units/hr (negative because it empties).<br>Net efficiency when all are opened = $6 + 5 - 10 = +1$ unit/hr.<br>Time taken to fill the tank = $\\frac{\\text{Total Capacity}}{\\text{Net Efficiency}} = \\frac{30}{1} = 30$ hours.<br><br><b>Solution (HI):</b> माना टंकी की कुल क्षमता 5, 6 और 3 का LCM है।<br>LCM$(5, 6, 3) = 30$ इकाई।<br>पाइप A की क्षमता = $\\frac{30}{5} = +6$ इकाई/घंटा।<br>पाइप B की क्षमता = $\\frac{30}{6} = +5$ इकाई/घंटा।<br>पाइप C की क्षमता = $\\frac{30}{3} = -10$ इकाई/घंटा (ऋणात्मक क्योंकि यह खाली करता है)।<br>सभी को एक साथ खोलने पर कुल क्षमता = $6 + 5 - 10 = +1$ इकाई/घंटा।<br>टंकी को भरने में लगा समय = $\\frac{\\text{कुल क्षमता}}{\\text{कुल क्षमता}} = \\frac{30}{1} = 30$ घंटे。<br><br><b>Short Trick:</b> Net time = $\\frac{1}{\\frac{1}{5} + \\frac{1}{6} - \\frac{1}{3}} = \\frac{1}{\\frac{6 + 5 - 10}{30}} = 30$ hours."
     },
     {
-        "section": "General intelligence and Reasoning Ability",
-        "topic": "Alphanumeric Series",
-        "difficulty": "Easy",
-        "q_en": "Refer to the following number, symbol series and answer the question. Counting to be done from left to right only.<br>(NOTE: All numbers are single digit numbers only)<br><br>(Left) 9 € # ! # ! 6 @ 9 # © 8 7 & 3 * © 4 9 ! £ 4 (Right)<br><br>How many such symbols are there, each of which is immediately preceded by a number and also immediately followed by a number?",
-        "q_hi": "निम्नलिखित संख्या, प्रतीक श्रृंखला का संदर्भ लें और प्रश्न का उत्तर दें। गिनती केवल बाएँ से दाएँ की जानी चाहिए।<br>(नोट: सभी संख्याएँ केवल एक अंक की संख्याएँ हैं)<br><br>(बाएँ) 9 € # ! # ! 6 @ 9 # © 8 7 & 3 * © 4 9 ! £ 4 (दाएँ)<br><br>ऐसे कितने प्रतीक हैं, जिनमें से प्रत्येक के ठीक पहले एक संख्या है और ठीक बाद में भी एक संख्या है?",
+        "section": "Arithmetical and Numerical Ability1",
+        "topic": "Arithmetic",
+        "difficulty": "Hard",
+        "q_en": "A and B together can complete a piece of work in 12 days, B and C together can complete it in 15 days, and C and A together can complete it in 20 days. If A, B, and C work together, in how many days will they complete the work?",
+        "q_hi": "A और B मिलकर किसी कार्य को 12 दिनों में पूरा कर सकते हैं, B और C मिलकर उसे 15 दिनों में पूरा कर सकते हैं तथा C और A मिलकर उसे 20 दिनों में पूरा कर सकते हैं। यदि A, B और C एक साथ कार्य करें, तो उन्हें कार्य पूरा करने में कितने दिन लगेंगे?",
         "op_en": [
-            "2",
-            "4",
-            "3",
-            "1"
+            "9",
+            "8",
+            "5",
+            "10"
         ],
         "op_hi": [
-            "2",
-            "4",
-            "3",
-            "1"
+            "9",
+            "8",
+            "5",
+            "10"
         ],
-        "ans": "1",
-        "solution": "<b>Solution (EN):</b><br><br>We need to find the pattern: <b>(Number) (Symbol) (Number)</b><br><br>Let's scan the given series:<br>9 € # ! # ! 6 @ 9 # © 8 7 & 3 * © 4 9 ! £ 4<br><br>Checking combinations where a symbol is surrounded by numbers:<br>1. <b>6 @ 9</b> $\\rightarrow$ The symbol '@' is preceded by '6' and followed by '9'. (Valid)<br>2. <b>7 & 3</b> $\\rightarrow$ The symbol '&' is preceded by '7' and followed by '3'. (Valid)<br>3. 9 ! £ $\\rightarrow$ The symbol '!' is preceded by 9 but followed by another symbol '£'. (Invalid)<br><br>Thus, there are only <b>2</b> such symbols ('@' and '&').<br><br><b>Solution (HI):</b><br><br>हमें यह पैटर्न खोजना है: <b>(संख्या) (प्रतीक) (संख्या)</b><br><br>आइए दी गई श्रृंखला को स्कैन करें:<br>9 € # ! # ! 6 @ 9 # © 8 7 & 3 * © 4 9 ! £ 4<br><br>उन संयोजनों की जाँच करते हैं जहाँ कोई प्रतीक संख्याओं से घिरा हो:<br>1. <b>6 @ 9</b> $\\rightarrow$ प्रतीक '@' से पहले '6' और बाद में '9' है। (मान्य)<br>2. <b>7 & 3</b> $\\rightarrow$ प्रतीक '&' से पहले '7' और बाद में '3' है। (मान्य)<br>3. 9 ! £ $\\rightarrow$ प्रतीक '!' से पहले 9 है लेकिन बाद में एक और प्रतीक '£' है। (अमान्य)<br><br>इस प्रकार, ऐसे केवल <b>2</b> प्रतीक ('@' और '&') हैं।<br><br><b>Short Trick:</b><br><br>Run your eyes through the string searching only for consecutive clusters of numbers. The string has numbers mostly broken by multiple symbols. The only spots where exactly one symbol wedges between two numbers are `6@9` and `7&3`. That makes 2."
+        "ans": 4,
+        "solution": "<b>Solution (EN):</b> Let total work be the LCM of 12, 15, and 20.<br>Total Work = $60$ units.<br>Efficiency of $(A + B) = \\frac{60}{12} = 5$ units/day.<br>Efficiency of $(B + C) = \\frac{60}{15} = 4$ units/day.<br>Efficiency of $(C + A) = \\frac{60}{20} = 3$ units/day.<br>Adding all three efficiencies: $2(A + B + C) = 5 + 4 + 3 = 12$<br>Therefore, efficiency of $(A + B + C) = \\frac{12}{2} = 6$ units/day.<br>Time taken by A, B, and C together = $\\frac{60}{6} = 10$ days.<br><br><b>Solution (HI):</b> माना कुल कार्य 12, 15 और 20 का LCM है।<br>कुल कार्य = $60$ इकाई।<br>$(A + B)$ की क्षमता = $\\frac{60}{12} = 5$ इकाई/दिन।<br>$(B + C)$ की क्षमता = $\\frac{60}{15} = 4$ इकाई/दिन।<br>$(C + A)$ की क्षमता = $\\frac{60}{20} = 3$ इकाई/दिन।<br>तीनों क्षमताओं को जोड़ने पर: $2(A + B + C) = 5 + 4 + 3 = 12$<br>इसलिए, $(A + B + C)$ की क्षमता = $\\frac{12}{2} = 6$ इकाई/दिन।<br>A, B और C द्वारा एक साथ लिया गया समय = $\\frac{60}{6} = 10$ दिन।<br><br><b>Short Trick:</b> Total Time = $\\frac{2 \\times \\text{LCM}(12, 15, 20)}{\\text{Sum of individual efficiencies}} = \\frac{2 \\times 60}{5 + 4 + 3} = \\frac{120}{12} = 10$ days."
     },
-  {
-    "section": "General intelligence and Reasoning Ability",
-    "topic": "Number Series",
-    "difficulty": "Medium",
-    "q_en": "Which number will replace the question mark (?) in the following series?<br><br>5, 11, 24, 51, 106, ?",
-    "q_hi": "निम्नलिखित श्रृंखला में प्रश्नवाचक चिह्न (?) के स्थान पर कौन सी संख्या आएगी?<br><br>5, 11, 24, 51, 106, ?",
-    "op_en": [
-      "216",
-      "217",
-      "218",
-      "219"
-    ],
-    "op_hi": [
-      "216",
-      "217",
-      "218",
-      "219"
-    ],
-    "ans": "2",
-    "solution": "<b>Solution (EN):</b><br><br>The logic followed in the given series is:<br>$5 \\times 2 + 1 = 11$<br>$11 \\times 2 + 2 = 24$<br>$24 \\times 2 + 3 = 51$<br>$51 \\times 2 + 4 = 106$<br>Similarly, to find the next number we will multiply by 2 and add 5:<br>$106 \\times 2 + 5 = 217$<br><br>Therefore, 217 is the correct answer.<br><br><b>Solution (HI):</b><br><br>दी गई श्रृंखला में निम्नलिखित तर्क का पालन किया गया है:<br>$5 \\times 2 + 1 = 11$<br>$11 \\times 2 + 2 = 24$<br>$24 \\times 2 + 3 = 51$<br>$51 \\times 2 + 4 = 106$<br>इसी प्रकार, अगली संख्या ज्ञात करने के लिए हम 2 से गुणा करेंगे और 5 जोड़ेंगे:<br>$106 \\times 2 + 5 = 217$<br><br>अतः, 217 सही उत्तर है।<br><br><b>Short Trick:</b><br><br>Observe the growth rate of the numbers. They are roughly doubling every time. So, test the $\\times 2$ pattern:<br>$5 \\rightarrow 11$ (Double is 10, so $+1$)<br>$11 \\rightarrow 24$ (Double is 22, so $+2$)<br>The pattern is clearly $(\\text{Previous Number} \\times 2) + n$. For the 5th term transition, the addition will be $+5$. <br>$106 \\times 2 = 212$<br>$212 + 5 = 217$. Quick and easy!"
-  },
     {
-        "section": "General intelligence and Reasoning Ability",
-        "topic": "Blood Relations",
+        "section": "Arithmetical and Numerical Ability1",
+        "topic": "Arithmetic",
         "difficulty": "Medium",
-        "q_en": "H is the daughter of I. I is the son of U. U is the husband of V. V is the mother of W. How is H related to W?",
-        "q_hi": "H, I की पुत्री है। I, U का पुत्र है। U, V का पति है। V, W की माता है। H, W से किस प्रकार संबंधित है?",
+        "q_en": "The sides of a triangle are 26 cm, 28 cm, and 30 cm. Find the area of the triangle.",
+        "q_hi": "एक त्रिभुज की भुजाएँ 26 cm , 28 cm और 30 cm हैं। त्रिभुज का क्षेत्रफल ज्ञात कीजिए।",
         "op_en": [
-            "Mother's sister",
-            "Brother's daughter",
-            "Mother",
-            "Sister's daughter"
+            "$336 \\text{ cm}^2$",
+            "$316 \\text{ cm}^2$",
+            "$342 \\text{ cm}^2$",
+            "$362 \\text{ cm}^2$"
         ],
         "op_hi": [
-            "माता की बहन (मौसी)",
-            "भाई की पुत्री (भतीजी)",
-            "माता",
-            "बहन की पुत्री (भांजी)"
+            "$336 \\text{ cm}^2$",
+            "$316 \\text{ cm}^2$",
+            "$342 \\text{ cm}^2$",
+            "$362 \\text{ cm}^2$"
         ],
-        "ans": "2",
-        "solution": "<b>Solution (EN):</b><br><br>Let's draw the family tree based on the statements:<br>1. <b>U is the husband of V:</b> U (Male) and V (Female) are a married couple.<br>2. <b>I is the son of U:</b> So, I is a Male, and his parents are U and V.<br>3. <b>V is the mother of W:</b> Since V is also the mother of I, W and I are siblings. (W's gender is unknown, but it doesn't affect the answer).<br>4. <b>H is the daughter of I:</b> So, H is a Female, and I is her father.<br><br>Now, we need the relationship of H to W.<br>I is the brother of W. H is the daughter of I. Therefore, for W, H is their brother's daughter (Niece).<br><br><b>Solution (HI):</b><br><br>आइए कथनों के आधार पर पारिवारिक वृक्ष (family tree) बनाएं:<br>1. <b>U, V का पति है:</b> U (पुरुष) और V (महिला) एक विवाहित जोड़े हैं।<br>2. <b>I, U का पुत्र है:</b> अतः, I एक पुरुष है, और उसके माता-पिता U और V हैं।<br>3. <b>V, W की माता है:</b> चूँकि V, I की भी माता है, इसलिए W और I भाई-बहन हैं। (W का लिंग अज्ञात है, लेकिन इससे उत्तर पर कोई प्रभाव नहीं पड़ता है)।<br>4. <b>H, I की पुत्री है:</b> अतः, H एक महिला है, और I उसका पिता है।<br><br>अब, हमें H का W से संबंध चाहिए।<br>I, W का भाई है। H, I की पुत्री है। इसलिए, W के लिए, H उनके भाई की पुत्री (भतीजी) है।<br><br><b>Short Trick:</b><br><br>Start from W: W's mother is V $\\rightarrow$ V's husband is U $\\rightarrow$ U's son is I. So, I is W's brother. H is the daughter of I. Thus, H is the daughter of W's brother. Brother's daughter!"
+        "ans": 1,
+        "solution": "<b>Solution (EN):</b> We use Heron's formula to find the area of the triangle.<br>Semi-perimeter $(s) = \\frac{a + b + c}{2} = \\frac{26 + 28 + 30}{2} = \\frac{84}{2} = 42$ cm.<br>Area = $\\sqrt{s(s - a)(s - b)(s - c)}$<br>Area = $\\sqrt{42(42 - 26)(42 - 28)(42 - 30)}$<br>Area = $\\sqrt{42 \\times 16 \\times 14 \\times 12}$<br>Area = $\\sqrt{14 \\times 3 \\times 16 \\times 14 \\times 4 \\times 3}$<br>Area = $14 \\times 3 \\times 4 \\times 2 = 336 \\text{ cm}^2$.<br><br><b>Solution (HI):</b> हम त्रिभुज का क्षेत्रफल ज्ञात करने के लिए हीरोन के सूत्र का उपयोग करते हैं।<br>अर्ध-परिमाप $(s) = \\frac{a + b + c}{2} = \\frac{26 + 28 + 30}{2} = \\frac{84}{2} = 42$ सेमी।<br>क्षेत्रफल = $\\sqrt{s(s - a)(s - b)(s - c)}$<br>क्षेत्रफल = $\\sqrt{42(42 - 26)(42 - 28)(42 - 30)}$<br>क्षेत्रफल = $\\sqrt{42 \\times 16 \\times 14 \\times 12}$<br>क्षेत्रफल = $\\sqrt{14 \\times 3 \\times 16 \\times 14 \\times 4 \\times 3}$<br>क्षेत्रफल = $14 \\times 3 \\times 4 \\times 2 = 336 \\text{ cm}^2$।<br><br><b>Short Trick:</b> Break into prime factors for quick root: $\\sqrt{42 \\times 16 \\times 14 \\times 12} = 336$."
+    },
+    {
+        "section": "Arithmetical and Numerical Ability1",
+        "topic": "Arithmetic",
+        "difficulty": "Hard",
+        "q_en": "Two trains of lengths 250 m and 150 m are moving on parallel tracks. When moving in opposite directions, they cross each other in 12 seconds. When they move in the same direction, they cross each other in 30 seconds (the faster train crosses the slower train). What is the speed (in km/h) of the faster train?",
+        "q_hi": "250 m और 150 m लंबाई की दो ट्रेनें समानांतर पटरियों पर गतिमान हैं। विपरीत दिशाओं में चलने पर वे एक-दूसरे को 12 सेकंड में पार करती हैं। जब वे एक ही दिशा में चलती हैं , तो वे एक-दूसरे को 30 सेकंड में (तेज़ चलने वाली ट्रेन, धीमी चलने वाली ट्रेन को पार करती है) पार करती हैं। तेज़ चलने वाली ट्रेन की चाल (km/h में) कितनी है?",
+        "op_en": [
+            "84 km/h",
+            "80 km/h",
+            "90 km/h",
+            "78 km/h"
+        ],
+        "op_hi": [
+            "84 km/h",
+            "80 km/h",
+            "90 km/h",
+            "78 km/h"
+        ],
+        "ans": 1,
+        "solution": "<b>Solution (EN):</b> Let the speeds of the faster and slower trains be $V_1$ and $V_2$ respectively (in m/s).<br>Total distance to cross = Length of Train 1 + Length of Train 2 = $250 + 150 = 400$ m.<br>When moving in opposite directions (Relative speed = $V_1 + V_2$):<br>$V_1 + V_2 = \\frac{400}{12} = \\frac{100}{3}$ m/s ... (Equation 1)<br>When moving in the same direction (Relative speed = $V_1 - V_2$):<br>$V_1 - V_2 = \\frac{400}{30} = \\frac{40}{3}$ m/s ... (Equation 2)<br>Adding (1) and (2):<br>$2V_1 = \\frac{100}{3} + \\frac{40}{3} = \\frac{140}{3}$<br>$V_1 = \\frac{70}{3}$ m/s.<br>Convert to km/h: $V_1 = \\frac{70}{3} \\times \\frac{18}{5} = 14 \\times 6 = 84$ km/h.<br><br><b>Solution (HI):</b> माना तेज़ और धीमी ट्रेनों की चाल क्रमशः $V_1$ और $V_2$ (m/s में) है।<br>पार करने के लिए कुल दूरी = ट्रेन 1 की लंबाई + ट्रेन 2 की लंबाई = $250 + 150 = 400$ m.<br>विपरीत दिशाओं में चलने पर (सापेक्ष चाल = $V_1 + V_2$):<br>$V_1 + V_2 = \\frac{400}{12} = \\frac{100}{3}$ m/s ... (समीकरण 1)<br>समान दिशा में चलने पर (सापेक्ष चाल = $V_1 - V_2$):<br>$V_1 - V_2 = \\frac{400}{30} = \\frac{40}{3}$ m/s ... (समीकरण 2)<br>(1) और (2) को जोड़ने पर:<br>$2V_1 = \\frac{100}{3} + \\frac{40}{3} = \\frac{140}{3}$<br>$V_1 = \\frac{70}{3}$ m/s.<br>किमी/घंटा में बदलें: $V_1 = \\frac{70}{3} \\times \\frac{18}{5} = 14 \\times 6 = 84$ किमी/घंटा।<br><br><b>Short Trick:</b> $V_1 = \\frac{1}{2} \\times \\text{Distance} \\times (\\frac{1}{T_1} + \\frac{1}{T_2}) = \\frac{1}{2} \\times 400 \\times (\\frac{1}{12} + \\frac{1}{30}) = \\frac{70}{3} \\text{ m/s} = 84 \\text{ km/h}$."
+    },
+    {
+        "section": "Arithmetical and Numerical Ability1",
+        "topic": "Arithmetic",
+        "difficulty": "Medium",
+        "q_en": "Pipe A can fill a water tank in 12 hours, and pipe B can empty it in 20 hours. If both pipes are opened together, in how much time (in hours) will the tank be filled?",
+        "q_hi": "पाइप A पानी की एक टंकी को 12 घंटे में भर सकता है, और पाइप B उसे 20 घंटे में खाली कर सकता है। यदि दोनों पाइप एक साथ खोल दिए जाएं, तो टंकी कितने समय (घंटे में) में भर जाएगी?",
+        "op_en": [
+            "30",
+            "28",
+            "25",
+            "27"
+        ],
+        "op_hi": [
+            "30",
+            "28",
+            "25",
+            "27"
+        ],
+        "ans": 1,
+        "solution": "<b>Solution (EN):</b> Let total capacity of the tank = LCM$(12, 20) = 60$ units.<br>Efficiency of filling Pipe A = $\\frac{60}{12} = +5$ units/hr.<br>Efficiency of emptying Pipe B = $\\frac{60}{20} = -3$ units/hr.<br>Net efficiency when both are open = $5 - 3 = +2$ units/hr.<br>Time taken to fill = $\\frac{60}{2} = 30$ hours.<br><br><b>Solution (HI):</b> माना टंकी की कुल क्षमता = LCM$(12, 20) = 60$ इकाई।<br>भरने वाले पाइप A की क्षमता = $\\frac{60}{12} = +5$ इकाई/घंटा।<br>खाली करने वाले पाइप B की क्षमता = $\\frac{60}{20} = -3$ इकाई/घंटा।<br>दोनों को खोलने पर शुद्ध क्षमता = $5 - 3 = +2$ इकाई/घंटा।<br>भरने में लगा समय = $\\frac{60}{2} = 30$ घंटे।<br><br><b>Short Trick:</b> Time = $\\frac{x \\times y}{y - x} = \\frac{12 \\times 20}{20 - 12} = \\frac{240}{8} = 30$ hours."
+    },
+    {
+        "section": "Arithmetical and Numerical Ability1",
+        "topic": "Arithmetic",
+        "difficulty": "Hard",
+        "q_en": "The dimensions of a cuboid are 14 cm (length), 12 cm (width), and 10 cm (height). Its lateral faces formed by the length and height are painted blue, while the lateral faces formed by the width and height are painted green. The remaining faces are not painted. If the cost of green paint is ₹50 per cm$^2$ and the cost of blue paint is ₹40 per cm$^2$, then which color has a higher total cost and by how much?",
+        "q_hi": "एक घनाभ की विमाएँ 14 cm (लंबाई), 12 cm (चौड़ाई) और 10 cm (ऊंचाई) हैं। इसकी लंबाई और ऊंचाई द्वारा बने पार्श्व फलकों को नीले रंग से रंगा गया है, जबकि चौड़ाई और ऊंचाई द्वारा बने पार्श्व फलकों को हरे रंग से रंगा गया है। शेष पार्श्व फलकों को नहीं रंगा गया है। यदि हरे पेंट की लागत ₹50 प्रति cm$^2$ है और नीले पेंट की लागत ₹40 प्रति cm$^2$ है, तो किस रंग की कुल लागत अधिक है और कितनी अधिक है?",
+        "op_en": [
+            "Blue, ₹600",
+            "Green, ₹600",
+            "Green, ₹800",
+            "Blue, ₹800"
+        ],
+        "op_hi": [
+            "नीला, ₹600",
+            "हरा, ₹600",
+            "हरा, ₹800",
+            "नीला, ₹800"
+        ],
+        "ans": 3,
+        "solution": "<b>Solution (EN):</b> Dimensions: $L = 14$ cm, $W = 12$ cm, $H = 10$ cm.<br>Area of blue faces (length and height) = $2 \\times (L \\times H) = 2 \\times (14 \\times 10) = 280 \\text{ cm}^2$.<br>Area of green faces (width and height) = $2 \\times (W \\times H) = 2 \\times (12 \\times 10) = 240 \\text{ cm}^2$.<br>Total cost of blue paint = $280 \\times 40 =$ ₹$11200$.<br>Total cost of green paint = $240 \\times 50 =$ ₹$12000$.<br>Difference = $12000 - 11200 =$ ₹$800$.<br>Hence, the green color has a higher cost by ₹$800$.<br><br><b>Solution (HI):</b> विमाएँ: $L = 14$ सेमी, $W = 12$ सेमी, $H = 10$ सेमी।<br>नीले फलकों का क्षेत्रफल (लंबाई और ऊंचाई) = $2 \\times (L \\times H) = 2 \\times (14 \\times 10) = 280 \\text{ cm}^2$।<br>हरे फलकों का क्षेत्रफल (चौड़ाई और ऊंचाई) = $2 \\times (W \\times H) = 2 \\times (12 \\times 10) = 240 \\text{ cm}^2$।<br>नीले पेंट की कुल लागत = $280 \\times 40 =$ ₹$11200$।<br>हरे पेंट की कुल लागत = $240 \\times 50 =$ ₹$12000$।<br>अंतर = $12000 - 11200 =$ ₹$800$।<br>अतः, हरे रंग की लागत ₹$800$ अधिक है।<br><br><b>Short Trick:</b> Difference = $(240 \\times 50) - (280 \\times 40) = 12000 - 11200 = 800$ (Green is more)."
     }
 ]
