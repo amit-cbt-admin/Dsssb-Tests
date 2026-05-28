@@ -334,5 +334,89 @@
         ],
         "ans": 3,
         "solution": "<b>Solution (EN):</b> Let the three numbers be $2x$, $3x$, and $5x$.<br>According to the question, $2x + 3x + 5x = 200$<br>$\\Rightarrow 10x = 200$<br>$\\Rightarrow x = 20$<br>The smallest number is $2x$.<br>So, Smallest number = $2 \\times 20 = 40$.<br><br><b>Solution (HI):</b> माना तीन संख्याएँ $2x$, $3x$ और $5x$ हैं।<br>प्रश्नानुसार, $2x + 3x + 5x = 200$<br>$\\Rightarrow 10x = 200$<br>$\\Rightarrow x = 20$<br>सबसे छोटी संख्या $2x$ है।<br>इसलिए, सबसे छोटी संख्या = $2 \\times 20 = 40$।<br><br><b>Short Trick:</b> Smallest number = $\\frac{2}{2 + 3 + 5} \\times 200 = \\frac{2}{10} \\times 200 = 40$."
+    },
+    {
+        "section": "Arithmetical and Numerical Ability1",
+        "topic": "Profit and Loss",
+        "difficulty": "Hard",
+        "q_en": "By selling an article at $\\frac{2}{5}$ of its original marked price, Aman suffers a loss of $26\\%$. If he sells it at $78\\%$ of its original marked price, what will be the profit percentage?",
+        "q_hi": "किसी वस्तु को उसके मूल अंकित मूल्य के $\\frac{2}{5}$ पर बेचने पर अमन को $26\\%$ की हानि होती है। यदि वह उसे उसके मूल अंकित मूल्य के $78\\%$ पर बेचता है, तो लाभ प्रतिशत कितना होगा?",
+        "op_en": [
+            "$3\\%$",
+            "$9\\%$",
+            "$7\\%$",
+            "$2\\%$"
+        ],
+        "op_hi": [
+            "$3\\%$",
+            "$9\\%$",
+            "$7\\%$",
+            "$2\\%$"
+        ],
+        "ans": 3,
+        "solution": "<b>Solution (EN):</b> Let the original Marked Price (MP) be $100x$.<br>Selling Price in the first case ($SP_1$) = $\\frac{2}{5}$ of $MP = 40x$.<br>Loss = $26\\%$, so $SP_1 = 74\\%$ of Cost Price (CP).<br>$\\Rightarrow 0.74 \\times CP = 40x$<br>$\\Rightarrow CP = \\frac{40x}{0.74} = \\frac{4000x}{74} = \\frac{2000x}{37}$<br>Selling Price in the second case ($SP_2$) = $78\\%$ of $MP = 78x$.<br>Profit = $SP_2 - CP = 78x - \\frac{2000x}{37} = \\frac{2886x - 2000x}{37} = \\frac{886x}{37}$.<br>Profit Percentage = $\\frac{\\text{Profit}}{CP} \\times 100$<br>Profit Percentage = $\\frac{\\frac{886x}{37}}{\\frac{2000x}{37}} \\times 100 = \\frac{886}{2000} \\times 100 = 44.3\\%$.<br><i>Note: The options provided in the original question appear to be incorrect as none match the mathematically derived answer ($44.3\\%$). Option 3 is kept as a placeholder.</i><br><br><b>Solution (HI):</b> माना मूल अंकित मूल्य (MP) $100x$ है।<br>पहली स्थिति में विक्रय मूल्य ($SP_1$) = MP का $\\frac{2}{5} = 40x$<br>हानि = $26\\%$, इसलिए $SP_1 = $ क्रय मूल्य (CP) का $74\\%$<br>$\\Rightarrow 0.74 \\times CP = 40x$<br>$\\Rightarrow CP = \\frac{40x}{0.74} = \\frac{4000x}{74} = \\frac{2000x}{37}$<br>दूसरी स्थिति में विक्रय मूल्य ($SP_2$) = MP का $78\\% = 78x$<br>लाभ = $SP_2 - CP = 78x - \\frac{2000x}{37} = \\frac{2886x - 2000x}{37} = \\frac{886x}{37}$<br>लाभ प्रतिशत = $\\frac{\\text{लाभ}}{CP} \\times 100$<br>लाभ प्रतिशत = $\\frac{\\frac{886x}{37}}{\\frac{2000x}{37}} \\times 100 = \\frac{886}{2000} \\times 100 = 44.3\\%$<br><i>नोट: मूल प्रश्न में दिए गए विकल्प गलत प्रतीत होते हैं क्योंकि कोई भी सही उत्तर ($44.3\\%$) से मेल नहीं खाता है।</i><br><br><b>Short Trick:</b> $\\frac{CP}{MP} = \\frac{40}{74}$. New $SP = 78$. Profit = $78 - \\frac{4000}{74} = 44.3\\%$."
+    },
+    {
+        "section": "Arithmetical and Numerical Ability1",
+        "topic": "Partnership",
+        "difficulty": "Medium",
+        "q_en": "Three friends A, B and C invest in a business. A invests ₹60,000 for 10 months, and B invests ₹75,000 for 8 months, and C invests ₹90,000 for a certain number of months. At the end of the business, A's share of the profit is one-fourth of the total profit. For how much time did C invest?",
+        "q_hi": "तीन मित्र A, B और C एक व्यवसाय में निवेश करते हैं। A, 10 महीनों के लिए ₹60,000 का निवेश करता है, और B, 8 महीनों के लिए ₹75,000 का निवेश करता है, तथा C कुछ दिन बाद कुछ निश्चित महीनों के लिए ₹90,000 का निवेश करता है। व्यवसाय के अंत में, A के लाभ का हिस्सा, कुल लाभ का एक-चौथाई है। C ने कितने समय के लिए निवेश किया?",
+        "op_en": [
+            "$12 \\frac{1}{3}$ months",
+            "$13 \\frac{1}{3}$ months",
+            "$13 \\frac{2}{3}$ months",
+            "$12 \\frac{2}{3}$ months"
+        ],
+        "op_hi": [
+            "$12 \\frac{1}{3}$ महीने",
+            "$13 \\frac{1}{3}$ महीने",
+            "$13 \\frac{2}{3}$ महीने",
+            "$12 \\frac{2}{3}$ महीने"
+        ],
+        "ans": 2,
+        "solution": "<b>Solution (EN):</b> The ratio of profit share is proportional to the product of investment and time duration.<br>Investment by A = ₹$60,000$ for $10$ months.<br>Investment by B = ₹$75,000$ for $8$ months.<br>Investment by C = ₹$90,000$ for $t$ months.<br>Ratio of profit (A : B : C) = $(60000 \\times 10) : (75000 \\times 8) : (90000 \\times t)$<br>Ratio = $600000 : 600000 : 90000t = 60 : 60 : 9t = 20 : 20 : 3t$.<br>A's share is $\\frac{1}{4}$ of the total profit.<br>Therefore, $\\frac{20}{20 + 20 + 3t} = \\frac{1}{4}$<br>$\\Rightarrow 80 = 40 + 3t$<br>$\\Rightarrow 3t = 40 \\Rightarrow t = \\frac{40}{3} = 13 \\frac{1}{3}$ months.<br>So, C invested for $13 \\frac{1}{3}$ months.<br><br><b>Solution (HI):</b> लाभ के हिस्से का अनुपात, निवेश और समय अवधि के गुणनफल के समानुपाती होता है।<br>A का निवेश = ₹$60,000$, $10$ महीने के लिए।<br>B का निवेश = ₹$75,000$, $8$ महीने के लिए।<br>C का निवेश = ₹$90,000$, $t$ महीने के लिए।<br>लाभ का अनुपात (A : B : C) = $(60000 \\times 10) : (75000 \\times 8) : (90000 \\times t)$<br>अनुपात = $600000 : 600000 : 90000t = 60 : 60 : 9t = 20 : 20 : 3t$<br>A का हिस्सा कुल लाभ का $\\frac{1}{4}$ है।<br>इसलिए, $\\frac{20}{20 + 20 + 3t} = \\frac{1}{4}$<br>$\\Rightarrow 80 = 40 + 3t$<br>$\\Rightarrow 3t = 40 \\Rightarrow t = \\frac{40}{3} = 13 \\frac{1}{3}$ महीने।<br>अतः, C ने $13 \\frac{1}{3}$ महीनों के लिए निवेश किया।<br><br><b>Short Trick:</b> Profit Ratio = $20 : 20 : 3t$. Since A is $25\\%$, remaining B + C = $75\\%$. B = $20$ (which is $25\\%$), so C = $3t = 20$ (totaling $50\\%$ for B+C). Thus $3t = 40 \\Rightarrow t = 13 \\frac{1}{3}$ months."
+    },
+    {
+        "section": "Arithmetical and Numerical Ability1",
+        "topic": "Mensuration",
+        "difficulty": "Medium",
+        "q_en": "Find the surface area of a sphere whose diameter is 26.6 m. (Use $\\pi = \\frac{22}{7}$)",
+        "q_hi": "उस गोले का पृष्ठीय क्षेत्रफल ज्ञात कीजिए जिसका व्यास 26.6 m है। ($\\pi = \\frac{22}{7}$ का उपयोग करें)",
+        "op_en": [
+            "$2223.76 \\text{ m}^2$",
+            "$2213.76 \\text{ m}^2$",
+            "$2233.76 \\text{ m}^2$",
+            "$2243.76 \\text{ m}^2$"
+        ],
+        "op_hi": [
+            "$2223.76 \\text{ m}^2$",
+            "$2213.76 \\text{ m}^2$",
+            "$2233.76 \\text{ m}^2$",
+            "$2243.76 \\text{ m}^2$"
+        ],
+        "ans": 1,
+        "solution": "<b>Solution (EN):</b> Diameter of the sphere ($d$) = $26.6$ m.<br>Radius of the sphere ($r$) = $\\frac{26.6}{2} = 13.3$ m.<br>Surface Area of a sphere = $4 \\pi r^2$<br>Surface Area = $4 \\times \\frac{22}{7} \\times (13.3)^2 = 4 \\times \\frac{22}{7} \\times 13.3 \\times 13.3$<br>Surface Area = $4 \\times 22 \\times 1.9 \\times 13.3$<br>Surface Area = $88 \\times 25.27 = 2223.76 \\text{ m}^2$.<br><br><b>Solution (HI):</b> गोले का व्यास ($d$) = $26.6$ m.<br>गोले की त्रिज्या ($r$) = $\\frac{26.6}{2} = 13.3$ m.<br>गोले का पृष्ठीय क्षेत्रफल = $4 \\pi r^2$<br>पृष्ठीय क्षेत्रफल = $4 \\times \\frac{22}{7} \\times (13.3)^2 = 4 \\times \\frac{22}{7} \\times 13.3 \\times 13.3$<br>पृष्ठीय क्षेत्रफल = $4 \\times 22 \\times 1.9 \\times 13.3 = 88 \\times 25.27 = 2223.76 \\text{ m}^2$।<br><br><b>Short Trick:</b> Apply digit sum or basic multiplication estimation. Area = $4 \\times \\frac{22}{7} \\times 13.3 \\times 13.3 = 2223.76 \\text{ m}^2$. The answer must be a multiple of $11$ since $\\pi$ has $22$ in the numerator."
+    },
+    {
+        "section": "Arithmetical and Numerical Ability1",
+        "topic": "Profit and Loss",
+        "difficulty": "Hard",
+        "q_en": "By selling an article at $\\frac{3}{10}$ of its original marked price, Akash suffers a loss of $19\\%$. If he sells it at $69\\%$ of its original marked price, find the profit percentage.",
+        "q_hi": "किसी वस्तु को उसके मूल अंकित मूल्य के $\\frac{3}{10}$ पर बेचने पर आकाश को $19\\%$ की हानि होती है। यदि वह उसे उसके मूल अंकित मूल्य के $69\\%$ पर बेचता है, तो लाभ प्रतिशत ज्ञात कीजिए।",
+        "op_en": [
+            "$7\\%$",
+            "$3\\%$",
+            "$8\\%$",
+            "$2\\%$"
+        ],
+        "op_hi": [
+            "$7\\%$",
+            "$3\\%$",
+            "$8\\%$",
+            "$2\\%$"
+        ],
+        "ans": 4,
+        "solution": "<b>Solution (EN):</b> Let the original Marked Price (MP) be $100x$.<br>Selling Price 1 ($SP_1$) = $\\frac{3}{10}$ of $MP = 30x$.<br>Loss = $19\\%$, so $SP_1 = 81\\%$ of Cost Price (CP).<br>$\\Rightarrow 0.81 \\times CP = 30x$<br>$\\Rightarrow CP = \\frac{30x}{0.81} = \\frac{3000x}{81} = \\frac{1000x}{27}$<br>Selling Price 2 ($SP_2$) = $69\\%$ of $MP = 69x$.<br>Profit = $SP_2 - CP = 69x - \\frac{1000x}{27} = \\frac{1863x - 1000x}{27} = \\frac{863x}{27}$.<br>Profit Percentage = $\\frac{\\text{Profit}}{CP} \\times 100 = \\frac{\\frac{863x}{27}}{\\frac{1000x}{27}} \\times 100 = \\frac{863}{1000} \\times 100 = 86.3\\%$.<br><i>Note: The options provided in the original question image are incorrect. The correct mathematically derived profit is $86.3\\%$. Option 4 is kept as a placeholder.</i><br><br><b>Solution (HI):</b> माना मूल अंकित मूल्य (MP) $100x$ है।<br>विक्रय मूल्य 1 ($SP_1$) = MP का $\\frac{3}{10} = 30x$<br>हानि = $19\\%$, इसलिए $SP_1 = CP$ का $81\\%$<br>$\\Rightarrow 0.81 \\times CP = 30x$<br>$\\Rightarrow CP = \\frac{30x}{0.81} = \\frac{3000x}{81} = \\frac{1000x}{27}$<br>विक्रय मूल्य 2 ($SP_2$) = MP का $69\\% = 69x$<br>लाभ = $SP_2 - CP = 69x - \\frac{1000x}{27} = \\frac{1863x - 1000x}{27} = \\frac{863x}{27}$<br>लाभ प्रतिशत = $\\frac{\\frac{863x}{27}}{\\frac{1000x}{27}} \\times 100 = \\frac{863}{1000} \\times 100 = 86.3\\%$<br><i>नोट: दिए गए विकल्प गलत हैं, सही लाभ प्रतिशत $86.3\\%$ है।</i><br><br><b>Short Trick:</b> $CP = \\frac{30}{0.81} = 37.03\\%$ of MP. New $SP = 69\\%$ of MP. Profit = $69 - 37.03 = 31.97$. Profit % = $\\frac{31.97}{37.03} \\times 100 = 86.3\\%$."
     }
 ]
