@@ -1,0 +1,422 @@
+[
+  {
+    "section": "Test of English Language and Comprehension",
+    "topic": "Spelling",
+    "difficulty": "Easy",
+    "q_en": "Identify the INCORRECTLY spelt word in the given sentence.<br><br>The professor's research in archieology uncovered ancient artefacts, providing invaluable insights into early civilisations.",
+    "q_hi": "Identify the INCORRECTLY spelt word in the given sentence.<br><br>The professor's research in archieology uncovered ancient artefacts, providing invaluable insights into early civilisations.",
+    "op_en": [
+      "archieology",
+      "artefacts",
+      "insights",
+      "professor"
+    ],
+    "op_hi": [
+      "archieology",
+      "artefacts",
+      "insights",
+      "professor"
+    ],
+    "ans": 1,
+    "solution": "<b>Solution (EN):</b><br>The incorrectly spelt word is \"archieology\". The correct spelling is \"archaeology\" or \"archeology\". It means the study of human history and prehistory through the excavation of sites and the analysis of artifacts.<br><br><b>Solution (HI):</b><br>गलत स्पेलिंग वाला शब्द \"archieology\" है। सही स्पेलिंग \"archaeology\" या \"archeology\" है। इसका अर्थ पुरातत्व विज्ञान है।"
+  },
+  {
+    "section": "Test of English Language and Comprehension",
+    "topic": "Conjunctions",
+    "difficulty": "Easy",
+    "q_en": "Select the most appropriate option to fill in the blanks.<br><br>_______ the husband ________ the wife took the vow.",
+    "q_hi": "Select the most appropriate option to fill in the blanks.<br><br>_______ the husband ________ the wife took the vow.",
+    "op_en": [
+      "Whether; nor",
+      "Both; and",
+      "So; as",
+      "So; that"
+    ],
+    "op_hi": [
+      "Whether; nor",
+      "Both; and",
+      "So; as",
+      "So; that"
+    ],
+    "ans": 2,
+    "solution": "<b>Solution (EN):</b><br>The correct correlative conjunction pair is \"Both... and\". It is used to emphasise that two things are true simultaneously. So, the complete sentence will be: \"Both the husband and the wife took the vow.\"<br><br><b>Solution (HI):</b><br>सही correlative conjunction pair \"Both... and\" है। इसका उपयोग यह जोर देने के लिए किया जाता है कि दोनों बातें एक साथ सत्य हैं। इसलिए, वाक्य होगा: \"Both the husband and the wife took the vow.\""
+  },
+  {
+    "section": "Test of English Language and Comprehension",
+    "topic": "Idioms and Phrases",
+    "difficulty": "Medium",
+    "q_en": "Select the most appropriate idiom/phrase that can substitute the underlined segment in the given sentence.<br><br>Mira's passion for music mirrors her mother's; truly, <u>children often end up being similar to their parents</u>.",
+    "q_hi": "Select the most appropriate idiom/phrase that can substitute the underlined segment in the given sentence.<br><br>Mira's passion for music mirrors her mother's; truly, <u>children often end up being similar to their parents</u>.",
+    "op_en": [
+      "a tree is known by its fruit",
+      "the trees that are slow to grow bear the best fruit",
+      "you must grow where you are planted",
+      "an apple doesn’t fall far from the tree"
+    ],
+    "op_hi": [
+      "a tree is known by its fruit",
+      "the trees that are slow to grow bear the best fruit",
+      "you must grow where you are planted",
+      "an apple doesn’t fall far from the tree"
+    ],
+    "ans": 4,
+    "solution": "<b>Solution (EN):</b><br>The idiom \"an apple doesn't fall far from the tree\" means a child usually has a similar character or similar qualities to his or her parents. This perfectly substitutes the underlined segment.<br><br><b>Solution (HI):</b><br>\"an apple doesn't fall far from the tree\" मुहावरे का अर्थ है कि एक बच्चा आमतौर पर अपने माता-पिता के समान चरित्र या गुणों वाला होता है। यह रेखांकित भाग को पूरी तरह से प्रतिस्थापित करता है।"
+  },
+  {
+    "section": "Test of English Language and Comprehension",
+    "topic": "Conjunctions",
+    "difficulty": "Medium",
+    "q_en": "Select the most appropriate conjunctions to fill in the blanks.<br><br> _________ of being hurt, she didn’t express herself in front of others _________ remained quiet.",
+    "q_hi": "Select the most appropriate conjunctions to fill in the blanks.<br><br> _________ of being hurt, she didn’t express herself in front of others _________ remained quiet.",
+    "op_en": [
+      "Despite ; or",
+      "Despite ; and",
+      "In spite ; or",
+      "In spite ; and"
+    ],
+    "op_hi": [
+      "Despite ; or",
+      "Despite ; and",
+      "In spite ; or",
+      "In spite ; and"
+    ],
+    "ans": 4,
+    "solution": "<b>Solution (EN):</b><br>The phrase \"In spite of\" is used to express contrast. The word \"Despite\" means the same but is never followed by \"of\". The second blank requires \"and\" to join two similar actions (\"didn't express herself\" and \"remained quiet\"). Thus, \"In spite ; and\" is the correct choice.<br><br><b>Solution (HI):</b><br>\"In spite of\" वाक्यांश का उपयोग विरोध व्यक्त करने के लिए किया जाता है। \"Despite\" के बाद कभी \"of\" नहीं आता है। दूसरे रिक्त स्थान में दो समान कार्यों (\"didn't express herself\" और \"remained quiet\") को जोड़ने के लिए \"and\" की आवश्यकता है। इस प्रकार, \"In spite ; and\" सही विकल्प है।"
+  },
+  {
+    "section": "Test of English Language and Comprehension",
+    "topic": "Articles",
+    "difficulty": "Easy",
+    "q_en": "Select the most appropriate article to fill in the blank. If no article is required, select 'No article required'.<br><br>The experiment resulted in _____ unexpected outcome that puzzled the scientists.",
+    "q_hi": "Select the most appropriate article to fill in the blank. If no article is required, select 'No article required'.<br><br>The experiment resulted in _____ unexpected outcome that puzzled the scientists.",
+    "op_en": [
+      "a",
+      "No article required",
+      "the",
+      "an"
+    ],
+    "op_hi": [
+      "a",
+      "No article required",
+      "the",
+      "an"
+    ],
+    "ans": 4,
+    "solution": "<b>Solution (EN):</b><br>The word \"unexpected\" begins with a vowel sound (/ʌ/). Therefore, the indefinite article \"an\" should be used before it.<br><br><b>Solution (HI):</b><br>\"unexpected\" शब्द एक स्वर ध्वनि (/ʌ/) से शुरू होता है। इसलिए, इसके पहले अनिश्चितकालीन (indefinite) आर्टिकल \"an\" का उपयोग किया जाना चाहिए।"
+  },
+  {
+    "section": "Test of English Language and Comprehension",
+    "topic": "Antonyms",
+    "difficulty": "Medium",
+    "q_en": "Select the most appropriate ANTONYM of the given word.<br><br>Reverie",
+    "q_hi": "Select the most appropriate ANTONYM of the given word.<br><br>Reverie",
+    "op_en": [
+      "Vision",
+      "Bemusement",
+      "Embodiment",
+      "Reality"
+    ],
+    "op_hi": [
+      "Vision",
+      "Bemusement",
+      "Embodiment",
+      "Reality"
+    ],
+    "ans": 4,
+    "solution": "<b>Solution (EN):</b><br>\"Reverie\" means a state of being pleasantly lost in one's thoughts; a daydream. Its exact opposite is \"Reality\", which refers to the state of things as they actually exist.<br><br><b>Solution (HI):</b><br>\"Reverie\" का अर्थ है ख्यालों में खोए रहने की सुखद अवस्था या दिन में सपने देखना (daydream)। इसका सटीक विलोम \"Reality\" (वास्तविकता) है, जो उस स्थिति को दर्शाता है जिसमें चीजें वास्तव में मौजूद हैं।"
+  },
+  {
+    "section": "Test of English Language and Comprehension",
+    "topic": "Fill in the Blanks",
+    "difficulty": "Medium",
+    "q_en": "Select the most appropriate option to fill in the blank. <br><br>The philosopher was known for his ______ insights, which challenged the conventional understanding of ethics.",
+    "q_hi": "Select the most appropriate option to fill in the blank. <br><br>The philosopher was known for his ______ insights, which challenged the conventional understanding of ethics.",
+    "op_en": [
+      "superficial",
+      "vague",
+      "obscure",
+      "profound"
+    ],
+    "op_hi": [
+      "superficial",
+      "vague",
+      "obscure",
+      "profound"
+    ],
+    "ans": 4,
+    "solution": "<b>Solution (EN):</b><br>The context of the sentence requires a positive word that means deep or having intellectual depth, as the insights \"challenged the conventional understanding\". \"Profound\" means having or showing great knowledge or insight. Superficial, vague, and obscure have negative connotations in this context.<br><br><b>Solution (HI):</b><br>वाक्य के संदर्भ में एक सकारात्मक शब्द की आवश्यकता है जिसका अर्थ गहरा या बौद्धिक गहराई वाला हो, क्योंकि अंतर्दृष्टि ने \"पारंपरिक समझ को चुनौती दी\"। \"Profound\" का अर्थ है बहुत गहन ज्ञान या अंतर्दृष्टि होना। Superficial, vague और obscure इस संदर्भ में नकारात्मक अर्थ रखते हैं।"
+  },
+  {
+    "section": "Test of English Language and Comprehension",
+    "topic": "One Word Substitution",
+    "difficulty": "Easy",
+    "q_en": "Select the option that can be used as a one-word substitute for the given group of words.<br><br>A shelter for dogs",
+    "q_hi": "Select the option that can be used as a one-word substitute for the given group of words.<br><br>A shelter for dogs",
+    "op_en": [
+      "Outhouse",
+      "Harbour",
+      "Pen",
+      "Kennel"
+    ],
+    "op_hi": [
+      "Outhouse",
+      "Harbour",
+      "Pen",
+      "Kennel"
+    ],
+    "ans": 4,
+    "solution": "<b>Solution (EN):</b><br>A shelter for dogs is called a \"Kennel\". An outhouse is an outbuilding containing a toilet. A harbour is a place on the coast where ships may moor. A pen is a small enclosure for farm animals.<br><br><b>Solution (HI):</b><br>कुत्तों के लिए आश्रय (shelter) को \"Kennel\" कहा जाता है। Outhouse एक बाहरी इमारत है जिसमें शौचालय होता है। Harbour तट पर वह स्थान है जहाँ जहाज लंगर डाल सकते हैं। Pen खेत के जानवरों के लिए एक छोटा सा बाड़ा है।"
+  },
+  {
+    "section": "Test of English Language and Comprehension",
+    "topic": "Para Jumbles",
+    "difficulty": "Hard",
+    "q_en": "Sentences of a paragraph are given below in jumbled order. Arrange the sentences in the correct order to form a meaningful and coherent paragraph.<br>A. This deliberate fracturing of chronology serves to heighten tension and maintain reader engagement.<br>B. Non-linear narrative structures challenge traditional concepts of time and causality in prose.<br>C. By strategically revealing or withholding information, authors can manipulate the reader's understanding and expectations.<br>D. Flashbacks, flash-forwards and parallel timelines become tools for crafting a multi-dimensional story.",
+    "q_hi": "Sentences of a paragraph are given below in jumbled order. Arrange the sentences in the correct order to form a meaningful and coherent paragraph.<br>A. This deliberate fracturing of chronology serves to heighten tension and maintain reader engagement.<br>B. Non-linear narrative structures challenge traditional concepts of time and causality in prose.<br>C. By strategically revealing or withholding information, authors can manipulate the reader's understanding and expectations.<br>D. Flashbacks, flash-forwards and parallel timelines become tools for crafting a multi-dimensional story.",
+    "op_en": [
+      "BDAC",
+      "ABCD",
+      "CDAB",
+      "DBCA"
+    ],
+    "op_hi": [
+      "BDAC",
+      "ABCD",
+      "CDAB",
+      "DBCA"
+    ],
+    "ans": 1,
+    "solution": "<b>Solution (EN):</b><br>Sentence B introduces the main topic: non-linear narrative structures. Sentence D expands on what these structures are (flashbacks, flash-forwards, etc.). Sentence A refers back to these tools with \"This deliberate fracturing of chronology\". Sentence C concludes by explaining the ultimate effect of this technique on the reader. Therefore, the correct logical order is BDAC.<br><br><b>Solution (HI):</b><br>वाक्य B मुख्य विषय का परिचय देता है: गैर-रेखीय कथा संरचनाएँ (non-linear narrative structures)। वाक्य D विस्तार से बताता है कि ये संरचनाएँ क्या हैं (फ्लैशबैक, फ्लैश-फॉरवर्ड आदि)। वाक्य A इन उपकरणों को \"This deliberate fracturing of chronology\" के साथ संदर्भित करता है। वाक्य C इस तकनीक का पाठक पर पड़ने वाले अंतिम प्रभाव को समझाकर निष्कर्ष निकालता है। इसलिए, सही क्रम BDAC है।"
+  },
+  {
+    "section": "Test of English Language and Comprehension",
+    "topic": "Articles",
+    "difficulty": "Easy",
+    "q_en": "Select the most appropriate article to fill in the blank. If no article is required, select 'No article required'.<br><br>The professor introduced _____ ground-breaking concept in her recent publication.",
+    "q_hi": "Select the most appropriate article to fill in the blank. If no article is required, select 'No article required'.<br><br>The professor introduced _____ ground-breaking concept in her recent publication.",
+    "op_en": [
+      "No article required",
+      "the",
+      "a",
+      "an"
+    ],
+    "op_hi": [
+      "No article required",
+      "the",
+      "a",
+      "an"
+    ],
+    "ans": 3,
+    "solution": "<b>Solution (EN):</b><br>The word \"ground-breaking\" starts with a consonant sound (/g/). The sentence introduces a non-specific singular countable noun \"concept\". Therefore, the indefinite article \"a\" is the correct choice.<br><br><b>Solution (HI):</b><br>\"ground-breaking\" शब्द एक व्यंजन ध्वनि (/g/) से शुरू होता है। वाक्य एक गैर-विशिष्ट एकवचन गणनीय संज्ञा (non-specific singular countable noun) \"concept\" का परिचय देता है। इसलिए, अनिश्चितकालीन (indefinite) आर्टिकल \"a\" सही विकल्प है।"
+  },
+  {
+    "section": "Test of English Language and Comprehension",
+    "topic": "Synonyms",
+    "difficulty": "Easy",
+    "q_en": "Select the most appropriate synonym of the given word.<br><br>Deceased",
+    "q_hi": "Select the most appropriate synonym of the given word.<br><br>Deceased",
+    "op_en": [
+      "Dead",
+      "Unwell",
+      "Extended",
+      "Misplace"
+    ],
+    "op_hi": [
+      "Dead",
+      "Unwell",
+      "Extended",
+      "Misplace"
+    ],
+    "ans": 1,
+    "solution": "<b>Solution (EN):</b><br>The word \"Deceased\" means a person who has died. Therefore, its exact synonym is \"Dead\". <br>Other words mean:<br>Unwell: ill or sick.<br>Extended: made larger or longer.<br>Misplace: put in the wrong place.<br><br><b>Solution (HI):</b><br>\"Deceased\" शब्द का अर्थ है मृत या वह व्यक्ति जिसकी मृत्यु हो गई हो। इसलिए, इसका सटीक पर्यायवाची \"Dead\" (मृत) है।<br>अन्य शब्दों के अर्थ:<br>Unwell: अस्वस्थ या बीमार।<br>Extended: विस्तारित या लंबा किया हुआ।<br>Misplace: गलत जगह पर रख देना।"
+  },
+  {
+    "section": "Test of English Language and Comprehension",
+    "topic": "Para Jumbles",
+    "difficulty": "Hard",
+    "q_en": "Sentences of a paragraph are given below in jumbled order. Arrange the sentences in the correct order to form a meaningful and coherent paragraph.<br>A. This interplay between syntax and semantics creates a dynamic tension in the text.<br>B. The structure of a sentence can often contradict or complicate its surface meaning.<br>C. Skilled writers exploit this dissonance to create irony, ambiguity or deeper layers of significance.<br>D. For instance, a long, convoluted sentence might be used to describe simplicity, creating a subtle contrast.",
+    "q_hi": "Sentences of a paragraph are given below in jumbled order. Arrange the sentences in the correct order to form a meaningful and coherent paragraph.<br>A. This interplay between syntax and semantics creates a dynamic tension in the text.<br>B. The structure of a sentence can often contradict or complicate its surface meaning.<br>C. Skilled writers exploit this dissonance to create irony, ambiguity or deeper layers of significance.<br>D. For instance, a long, convoluted sentence might be used to describe simplicity, creating a subtle contrast.",
+    "op_en": [
+      "CBDA",
+      "ABCD",
+      "DBAC",
+      "BADC"
+    ],
+    "op_hi": [
+      "CBDA",
+      "ABCD",
+      "DBAC",
+      "BADC"
+    ],
+    "ans": 4,
+    "solution": "<b>Solution (EN):</b><br>Sentence B is the independent introductory sentence that introduces the main idea: sentence structure contradicting its surface meaning. <br>Sentence A follows, using the pronoun phrase \"This interplay\" to refer back to the contradiction between structure (syntax) and meaning (semantics) mentioned in B.<br>Sentence D provides a practical example of this tension (\"For instance...\"). <br>Sentence C concludes the paragraph by explaining how writers use \"this dissonance\" (referring to the subtle contrast created in D) to add deeper meaning. <br>Thus, the correct sequence is BADC.<br><br><b>Solution (HI):</b><br>वाक्य B स्वतंत्र परिचयात्मक वाक्य है जो मुख्य विचार प्रस्तुत करता है: वाक्य की संरचना अक्सर इसके सतही अर्थ का खंडन करती है। <br>वाक्य A इसके बाद आता है, जिसमें \"This interplay\" का उपयोग B में उल्लिखित संरचना (syntax) और अर्थ (semantics) के बीच के संबंध को संदर्भित करने के लिए किया गया है।<br>वाक्य D इस तनाव का एक व्यावहारिक उदाहरण देता है (\"For instance...\")। <br>वाक्य C पैराग्राफ का निष्कर्ष निकालता है कि कैसे लेखक गहरे अर्थ जोड़ने के लिए \"this dissonance\" (D में बनाए गए सूक्ष्म कंट्रास्ट) का उपयोग करते हैं। <br>इस प्रकार, सही क्रम BADC है।"
+  },
+  {
+    "section": "Test of English Language and Comprehension",
+    "topic": "Idioms and Phrases",
+    "difficulty": "Medium",
+    "q_en": "Select the most appropriate option that can substitute the underlined segment in the given sentence.<br><br>When she found out the truth, she <u>was extremely angry</u> with all her students.",
+    "q_hi": "Select the most appropriate option that can substitute the underlined segment in the given sentence.<br><br>When she found out the truth, she <u>was extremely angry</u> with all her students.",
+    "op_en": [
+      "saw red",
+      "was green with envy",
+      "was over the moon",
+      "felt blue"
+    ],
+    "op_hi": [
+      "saw red",
+      "was green with envy",
+      "was over the moon",
+      "felt blue"
+    ],
+    "ans": 1,
+    "solution": "<b>Solution (EN):</b><br>The idiom \"saw red\" means to become very angry suddenly. This perfectly substitutes the phrase \"was extremely angry\". <br>Meanings of other idioms:<br>Green with envy: very jealous.<br>Over the moon: extremely happy or delighted.<br>Felt blue: felt sad or depressed.<br><br><b>Solution (HI):</b><br>मुहावरे \"saw red\" का अर्थ है अचानक बहुत क्रोधित होना (आग बबूला होना)। यह \"was extremely angry\" वाक्यांश को पूरी तरह से प्रतिस्थापित करता है। <br>अन्य मुहावरों के अर्थ:<br>Green with envy: बहुत अधिक ईर्ष्या करना।<br>Over the moon: बहुत खुश या प्रसन्न होना।<br>Felt blue: उदास या निराश महसूस करना।"
+  },
+  {
+    "section": "Test of English Language and Comprehension",
+    "topic": "One Word Substitution",
+    "difficulty": "Medium",
+    "q_en": "Select the option that can be used as a one-word substitute for the given group of words.<br><br>Quick in noticing, understanding or judging things accurately",
+    "q_hi": "Select the option that can be used as a one-word substitute for the given group of words.<br><br>Quick in noticing, understanding or judging things accurately",
+    "op_en": [
+      "Precarious",
+      "Perspicacious",
+      "Languid",
+      "Ineffable"
+    ],
+    "op_hi": [
+      "Precarious",
+      "Perspicacious",
+      "Languid",
+      "Ineffable"
+    ],
+    "ans": 2,
+    "solution": "<b>Solution (EN):</b><br>\"Perspicacious\" means having a ready insight into and understanding of things; astute. <br>Other options:<br>Precarious: not securely held or in position; dangerously likely to fall or collapse.<br>Languid: displaying or having a disinclination for physical exertion or effort; slow and relaxed.<br>Ineffable: too great or extreme to be expressed or described in words.<br><br><b>Solution (HI):</b><br>\"Perspicacious\" का अर्थ है चीजों को जल्दी समझने और सटीक रूप से आंकने में तेज; कुशाग्र बुद्धि। <br>अन्य विकल्प:<br>Precarious: अनिश्चित या खतरनाक स्थिति में होना।<br>Languid: सुस्त या शारीरिक श्रम के प्रति अनिच्छुक; धीमा और शिथिल।<br>Ineffable: इतना महान या चरम जिसे शब्दों में व्यक्त नहीं किया जा सकता (अकथनीय)।"
+  },
+  {
+    "section": "Test of English Language and Comprehension",
+    "topic": "Fill in the Blanks",
+    "difficulty": "Easy",
+    "q_en": "Select the most appropriate option to fill in the blank. <br><br>His ______ dedication to the project ensured that every detail was meticulously addressed.",
+    "q_hi": "Select the most appropriate option to fill in the blank. <br><br>His ______ dedication to the project ensured that every detail was meticulously addressed.",
+    "op_en": [
+      "unwavering",
+      "haphazard",
+      "superficial",
+      "erratic "
+    ],
+    "op_hi": [
+      "unwavering",
+      "haphazard",
+      "superficial",
+      "erratic "
+    ],
+    "ans": 1,
+    "solution": "<b>Solution (EN):</b><br>The sentence requires a positive adjective to describe \"dedication\" that led to a positive outcome (\"every detail was meticulously addressed\"). \"Unwavering\" means steady, resolute, or not varying, which fits perfectly. <br>The other options (haphazard, superficial, erratic) have negative connotations of being careless, surface-level, or inconsistent.<br><br><b>Solution (HI):</b><br>वाक्य में \"dedication\" (समर्पण) का वर्णन करने के लिए एक सकारात्मक विशेषण की आवश्यकता है जिसके कारण सकारात्मक परिणाम सामने आया (\"हर विवरण को सावधानीपूर्वक संबोधित किया गया\")। \"Unwavering\" का अर्थ है स्थिर, दृढ़ या अटूट, जो पूरी तरह से फिट बैठता है। <br>अन्य विकल्प (haphazard, superficial, erratic) नकारात्मक अर्थ रखते हैं जैसे लापरवाह, सतही या अनियमित।"
+  },
+  {
+    "section": "Test of English Language and Comprehension",
+    "topic": "Reading Comprehension",
+    "difficulty": "Medium",
+    "q_en": "<b>Comprehension:</b><br>Read the given passage and answer the questions that follow.<br><br>The 18th-century rise of the novel marked a turning point in literary history, establishing it as a dominant form of artistic expression. Unlike earlier genres, such as the epic or romance, which focused on heroic deeds or fantastical exploits, the novel centred on ordinary life and the dynamics of social relationships in a rapidly changing world. This shift in content came with narrative innovations, as authors abandoned linear storytelling for more experimental forms. Techniques such as multiple narrators, shifting points of view and epistolary elements mirrored the fragmented, subjective nature of human experience. These approaches challenged the traditional expectations of a unified, coherent story. The novel's focus on psychological realism, delving into the intricacies of the inner life, further distinguished it from other forms, positioning it as a significant medium for social commentary and a deeper exploration of the human condition. This evolution cemented the novel’s place as a crucial tool in understanding individual and societal complexities.<br>Which of the following connections can be made between the ideas presented in the passage and the real world?",
+    "q_hi": "<b>Comprehension:</b><br>Read the given passage and answer the questions that follow.<br><br>The 18th-century rise of the novel marked a turning point in literary history, establishing it as a dominant form of artistic expression. Unlike earlier genres, such as the epic or romance, which focused on heroic deeds or fantastical exploits, the novel centred on ordinary life and the dynamics of social relationships in a rapidly changing world. This shift in content came with narrative innovations, as authors abandoned linear storytelling for more experimental forms. Techniques such as multiple narrators, shifting points of view and epistolary elements mirrored the fragmented, subjective nature of human experience. These approaches challenged the traditional expectations of a unified, coherent story. The novel's focus on psychological realism, delving into the intricacies of the inner life, further distinguished it from other forms, positioning it as a significant medium for social commentary and a deeper exploration of the human condition. This evolution cemented the novel’s place as a crucial tool in understanding individual and societal complexities.<br>Which of the following connections can be made between the ideas presented in the passage and the real world?",
+    "op_en": [
+      "Contemporary literature often employs experimental narrative techniques and explores ordinary life, reflecting the innovations of the 18th-century novel.",
+      "Modern novels continue to focus exclusively on heroic figures and legendary characters.",
+      "The narrative techniques of the 18th century novel are no longer relevant in modern literature.",
+      "Today's novels rarely delve into psychological realism or social commentary."
+    ],
+    "op_hi": [
+      "Contemporary literature often employs experimental narrative techniques and explores ordinary life, reflecting the innovations of the 18th-century novel.",
+      "Modern novels continue to focus exclusively on heroic figures and legendary characters.",
+      "The narrative techniques of the 18th century novel are no longer relevant in modern literature.",
+      "Today's novels rarely delve into psychological realism or social commentary."
+    ],
+    "ans": 1,
+    "solution": "<b>Solution (EN):</b><br>The passage discusses how the 18th-century novel shifted focus to \"ordinary life\" and introduced \"narrative innovations\" like experimental storytelling. Option 1 correctly bridges this idea to the real world by stating that contemporary literature still reflects these groundbreaking 18th-century innovations. The other options directly contradict the passage's claims.<br><br><b>Solution (HI):</b><br>गद्यांश में चर्चा की गई है कि कैसे 18वीं सदी के उपन्यास ने \"आम जीवन\" (ordinary life) पर ध्यान केंद्रित किया और प्रायोगिक कहानी सुनाने जैसे \"कथात्मक नवाचार\" (narrative innovations) पेश किए। विकल्प 1 इस विचार को वास्तविक दुनिया से सही ढंग से जोड़ता है कि समकालीन साहित्य अभी भी इन अभूतपूर्व 18वीं सदी के नवाचारों को दर्शाता है। अन्य विकल्प गद्यांश के दावों का सीधे खंडन करते हैं।"
+  },
+  {
+    "section": "Test of English Language and Comprehension",
+    "topic": "Reading Comprehension",
+    "difficulty": "Easy",
+    "q_en": "<b>Comprehension:</b><br>Read the given passage and answer the questions that follow.<br><br>The 18th-century rise of the novel marked a turning point in literary history, establishing it as a dominant form of artistic expression. Unlike earlier genres, such as the epic or romance, which focused on heroic deeds or fantastical exploits, the novel centred on ordinary life and the dynamics of social relationships in a rapidly changing world. This shift in content came with narrative innovations, as authors abandoned linear storytelling for more experimental forms. Techniques such as multiple narrators, shifting points of view and epistolary elements mirrored the fragmented, subjective nature of human experience. These approaches challenged the traditional expectations of a unified, coherent story. The novel's focus on psychological realism, delving into the intricacies of the inner life, further distinguished it from other forms, positioning it as a significant medium for social commentary and a deeper exploration of the human condition. This evolution cemented the novel’s place as a crucial tool in understanding individual and societal complexities.<br>Which of the following options best summarises the main idea of the passage?",
+    "q_hi": "<b>Comprehension:</b><br>Read the given passage and answer the questions that follow.<br><br>The 18th-century rise of the novel marked a turning point in literary history, establishing it as a dominant form of artistic expression. Unlike earlier genres, such as the epic or romance, which focused on heroic deeds or fantastical exploits, the novel centred on ordinary life and the dynamics of social relationships in a rapidly changing world. This shift in content came with narrative innovations, as authors abandoned linear storytelling for more experimental forms. Techniques such as multiple narrators, shifting points of view and epistolary elements mirrored the fragmented, subjective nature of human experience. These approaches challenged the traditional expectations of a unified, coherent story. The novel's focus on psychological realism, delving into the intricacies of the inner life, further distinguished it from other forms, positioning it as a significant medium for social commentary and a deeper exploration of the human condition. This evolution cemented the novel’s place as a crucial tool in understanding individual and societal complexities.<br>Which of the following options best summarises the main idea of the passage?",
+    "op_en": [
+      "The novel's development in the 18th century had little impact on literary form and social commentary.",
+      "The 18th-century novel was primarily concerned with maintaining traditional narrative structures.",
+      "The novel's rise in the 18th century was marked by its focus on heroic figures and legendary characters.",
+      "The novel's emergence in the 18th century introduced new narrative techniques and focused on everyday life, distinguishing it from earlier literary forms."
+    ],
+    "op_hi": [
+      "The novel's development in the 18th century had little impact on literary form and social commentary.",
+      "The 18th-century novel was primarily concerned with maintaining traditional narrative structures.",
+      "The novel's rise in the 18th century was marked by its focus on heroic figures and legendary characters.",
+      "The novel's emergence in the 18th century introduced new narrative techniques and focused on everyday life, distinguishing it from earlier literary forms."
+    ],
+    "ans": 4,
+    "solution": "<b>Solution (EN):</b><br>The passage clearly elaborates that the 18th-century novel marked a turning point by focusing on \"ordinary life\" and introducing \"narrative innovations\" (experimental forms), which distinguished it from older forms like the epic or romance. Option 4 comprehensively captures this main idea. The other options make claims that are the exact opposite of what the passage states.<br><br><b>Solution (HI):</b><br>गद्यांश स्पष्ट रूप से विस्तार से बताता है कि 18वीं शताब्दी के उपन्यास ने \"आम जीवन\" (ordinary life) पर ध्यान केंद्रित करके और \"कथात्मक नवाचार\" (narrative innovations) को पेश करके एक महत्वपूर्ण मोड़ लाया, जिसने इसे महाकाव्य या रोमांस जैसे पुराने रूपों से अलग किया। विकल्प 4 इस मुख्य विचार को व्यापक रूप से पकड़ता है। अन्य विकल्प गद्यांश में कही गई बातों के बिल्कुल विपरीत दावे करते हैं।"
+  },
+  {
+    "section": "Test of English Language and Comprehension",
+    "topic": "Reading Comprehension",
+    "difficulty": "Medium",
+    "q_en": "<b>Comprehension:</b><br>Read the given passage and answer the questions that follow.<br><br>The 18th-century rise of the novel marked a turning point in literary history, establishing it as a dominant form of artistic expression. Unlike earlier genres, such as the epic or romance, which focused on heroic deeds or fantastical exploits, the novel centred on ordinary life and the dynamics of social relationships in a rapidly changing world. This shift in content came with narrative innovations, as authors abandoned linear storytelling for more experimental forms. Techniques such as multiple narrators, shifting points of view and epistolary elements mirrored the fragmented, subjective nature of human experience. These approaches challenged the traditional expectations of a unified, coherent story. The novel's focus on psychological realism, delving into the intricacies of the inner life, further distinguished it from other forms, positioning it as a significant medium for social commentary and a deeper exploration of the human condition. This evolution cemented the novel’s place as a crucial tool in understanding individual and societal complexities.<br>What is the central theme of the passage?",
+    "q_hi": "<b>Comprehension:</b><br>Read the given passage and answer the questions that follow.<br><br>The 18th-century rise of the novel marked a turning point in literary history, establishing it as a dominant form of artistic expression. Unlike earlier genres, such as the epic or romance, which focused on heroic deeds or fantastical exploits, the novel centred on ordinary life and the dynamics of social relationships in a rapidly changing world. This shift in content came with narrative innovations, as authors abandoned linear storytelling for more experimental forms. Techniques such as multiple narrators, shifting points of view and epistolary elements mirrored the fragmented, subjective nature of human experience. These approaches challenged the traditional expectations of a unified, coherent story. The novel's focus on psychological realism, delving into the intricacies of the inner life, further distinguished it from other forms, positioning it as a significant medium for social commentary and a deeper exploration of the human condition. This evolution cemented the novel’s place as a crucial tool in understanding individual and societal complexities.<br>What is the central theme of the passage?",
+    "op_en": [
+      "The relationship between the individual and society as reflected in the novel",
+      "The social and cultural significance of the rise of the novel in the 18th century",
+      "The formal and stylistic features that distinguish the novel from other literary forms",
+      "The evolution of literary form and the emergence of the novel as a dominant genre"
+    ],
+    "op_hi": [
+      "The relationship between the individual and society as reflected in the novel",
+      "The social and cultural significance of the rise of the novel in the 18th century",
+      "The formal and stylistic features that distinguish the novel from other literary forms",
+      "The evolution of literary form and the emergence of the novel as a dominant genre"
+    ],
+    "ans": 4,
+    "solution": "<b>Solution (EN):</b><br>While the passage touches upon societal relations and stylistic features, its primary and overarching focus is on the historical transition—how the novel emerged as a \"turning point in literary history\" and evolved into a \"dominant form of artistic expression\". Therefore, \"The evolution of literary form and the emergence of the novel as a dominant genre\" is the central theme.<br><br><b>Solution (HI):</b><br>यद्यपि गद्यांश सामाजिक संबंधों और शैलीगत विशेषताओं (stylistic features) को छूता है, इसका प्राथमिक और व्यापक ध्यान ऐतिहासिक संक्रमण पर है—कि कैसे उपन्यास \"साहित्यिक इतिहास में एक महत्वपूर्ण मोड़\" के रूप में उभरा और \"कलात्मक अभिव्यक्ति के एक प्रमुख रूप\" में विकसित हुआ। इसलिए, \"साहित्यिक रूप का विकास और एक प्रमुख शैली के रूप में उपन्यास का उद्भव\" (The evolution of literary form and the emergence of the novel as a dominant genre) इसका केंद्रीय विषय है।"
+  },
+  {
+    "section": "Test of English Language and Comprehension",
+    "topic": "Reading Comprehension",
+    "difficulty": "Medium",
+    "q_en": "<b>Comprehension:</b><br>Read the given passage and answer the questions that follow.<br><br>The 18th-century rise of the novel marked a turning point in literary history, establishing it as a dominant form of artistic expression. Unlike earlier genres, such as the epic or romance, which focused on heroic deeds or fantastical exploits, the novel centred on ordinary life and the dynamics of social relationships in a rapidly changing world. This shift in content came with narrative innovations, as authors abandoned linear storytelling for more experimental forms. Techniques such as multiple narrators, shifting points of view and epistolary elements mirrored the fragmented, subjective nature of human experience. These approaches challenged the traditional expectations of a unified, coherent story. The novel's focus on psychological realism, delving into the intricacies of the inner life, further distinguished it from other forms, positioning it as a significant medium for social commentary and a deeper exploration of the human condition. This evolution cemented the novel’s place as a crucial tool in understanding individual and societal complexities.<br>What is the overall tone of the passage?",
+    "q_hi": "<b>Comprehension:</b><br>Read the given passage and answer the questions that follow.<br><br>The 18th-century rise of the novel marked a turning point in literary history, establishing it as a dominant form of artistic expression. Unlike earlier genres, such as the epic or romance, which focused on heroic deeds or fantastical exploits, the novel centred on ordinary life and the dynamics of social relationships in a rapidly changing world. This shift in content came with narrative innovations, as authors abandoned linear storytelling for more experimental forms. Techniques such as multiple narrators, shifting points of view and epistolary elements mirrored the fragmented, subjective nature of human experience. These approaches challenged the traditional expectations of a unified, coherent story. The novel's focus on psychological realism, delving into the intricacies of the inner life, further distinguished it from other forms, positioning it as a significant medium for social commentary and a deeper exploration of the human condition. This evolution cemented the novel’s place as a crucial tool in understanding individual and societal complexities.<br>What is the overall tone of the passage?",
+    "op_en": [
+      "Critical, presenting a biased overview of the evolution of the novel as a literary genre",
+      "Analytical, providing a detailed examination of the formal and stylistic features of the novel",
+      "Nostalgic, lamenting the decline of earlier narrative traditions in the face of the novel's rise",
+      "Celebratory, highlighting the novel's emergence as a superior literary form"
+    ],
+    "op_hi": [
+      "Critical, presenting a biased overview of the evolution of the novel as a literary genre",
+      "Analytical, providing a detailed examination of the formal and stylistic features of the novel",
+      "Nostalgic, lamenting the decline of earlier narrative traditions in the face of the novel's rise",
+      "Celebratory, highlighting the novel's emergence as a superior literary form"
+    ],
+    "ans": 2,
+    "solution": "<b>Solution (EN):</b><br>The passage objectively breaks down the development of the novel, examining its narrative innovations, structural shifts, and focus on psychological realism. It does not criticize, show bias, mourn the past (nostalgic), or overly praise the novel as strictly \"superior\" (celebratory). It simply analyzes its elements and historical impact. Thus, the tone is analytical.<br><br><b>Solution (HI):</b><br>गद्यांश वस्तुनिष्ठ (objectively) रूप से उपन्यास के विकास को तोड़कर समझाता है, इसके कथात्मक नवाचारों, संरचनात्मक बदलावों और मनोवैज्ञानिक यथार्थवाद पर ध्यान केंद्रित करने की जांच करता है। यह आलोचना, पूर्वाग्रह, अतीत का शोक (nostalgic), या उपन्यास को कड़ाई से \"बेहतर\" (celebratory) के रूप में अति-प्रशंसा नहीं करता है। यह केवल इसके तत्वों और ऐतिहासिक प्रभाव का विश्लेषण करता है। इस प्रकार, इसका स्वर विश्लेषणात्मक (Analytical) है।"
+  },
+  {
+    "section": "Test of English Language and Comprehension",
+    "topic": "Reading Comprehension",
+    "difficulty": "Hard",
+    "q_en": "<b>Comprehension:</b><br>Read the given passage and answer the questions that follow.<br><br>The 18th-century rise of the novel marked a turning point in literary history, establishing it as a dominant form of artistic expression. Unlike earlier genres, such as the epic or romance, which focused on heroic deeds or fantastical exploits, the novel centred on ordinary life and the dynamics of social relationships in a rapidly changing world. This shift in content came with narrative innovations, as authors abandoned linear storytelling for more experimental forms. Techniques such as multiple narrators, shifting points of view and epistolary elements mirrored the fragmented, subjective nature of human experience. These approaches challenged the traditional expectations of a unified, coherent story. The novel's focus on psychological realism, delving into the intricacies of the inner life, further distinguished it from other forms, positioning it as a significant medium for social commentary and a deeper exploration of the human condition. This evolution cemented the novel’s place as a crucial tool in understanding individual and societal complexities.<br>Which of the following options best describes the structure of the passage?",
+    "q_hi": "<b>Comprehension:</b><br>Read the given passage and answer the questions that follow.<br><br>The 18th-century rise of the novel marked a turning point in literary history, establishing it as a dominant form of artistic expression. Unlike earlier genres, such as the epic or romance, which focused on heroic deeds or fantastical exploits, the novel centred on ordinary life and the dynamics of social relationships in a rapidly changing world. This shift in content came with narrative innovations, as authors abandoned linear storytelling for more experimental forms. Techniques such as multiple narrators, shifting points of view and epistolary elements mirrored the fragmented, subjective nature of human experience. These approaches challenged the traditional expectations of a unified, coherent story. The novel's focus on psychological realism, delving into the intricacies of the inner life, further distinguished it from other forms, positioning it as a significant medium for social commentary and a deeper exploration of the human condition. This evolution cemented the novel’s place as a crucial tool in understanding individual and societal complexities.<br>Which of the following options best describes the structure of the passage?",
+    "op_en": [
+      "The passage utilises a cause-and-effect structure, explaining how societal changes led to the emergence of the novel.",
+      "The passage follows a problem-solution structure, outlining the challenges faced by novelists and the formal innovations they developed.",
+      "The passage employs a compare-and-contrast structure, highlighting the differences between the novel and other literary genres.",
+      "The passage uses a chronological structure, tracing the historical development of the novel from earlier narrative forms."
+    ],
+    "op_hi": [
+      "The passage utilises a cause-and-effect structure, explaining how societal changes led to the emergence of the novel.",
+      "The passage follows a problem-solution structure, outlining the challenges faced by novelists and the formal innovations they developed.",
+      "The passage employs a compare-and-contrast structure, highlighting the differences between the novel and other literary genres.",
+      "The passage uses a chronological structure, tracing the historical development of the novel from earlier narrative forms."
+    ],
+    "ans": 4,
+    "solution": "<b>Solution (EN):</b><br>The passage is structured around the historical trajectory of literature. It starts with the \"18th-century rise\" of the novel, looks back at \"earlier genres\" (epic/romance), discusses the \"shift in content\" and \"evolution\" of storytelling, and concludes with how this progression cemented the novel's modern role. Therefore, it traces a chronological historical development from older narrative forms to the newer novel form.<br><br><b>Solution (HI):</b><br>गद्यांश साहित्य के ऐतिहासिक प्रक्षेपवक्र (historical trajectory) के इर्द-गिर्द संरचित है। यह उपन्यास के \"18वीं सदी के उदय\" (18th-century rise) के साथ शुरू होता है, \"पहले की शैलियों\" (earlier genres) (महाकाव्य/रोमांस) को पीछे मुड़कर देखता है, कहानी सुनाने की \"सामग्री में बदलाव\" (shift in content) और \"विकास\" (evolution) पर चर्चा करता है, और इस प्रगति ने उपन्यास की आधुनिक भूमिका को कैसे मजबूत किया, इसके साथ निष्कर्ष निकालता है। इसलिए, यह पुराने कथा रूपों (narrative forms) से नए उपन्यास रूप में कालानुक्रमिक (chronological) ऐतिहासिक विकास का पता लगाता है।"
+  }
+]
