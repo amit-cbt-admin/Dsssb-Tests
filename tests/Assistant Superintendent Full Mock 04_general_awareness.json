@@ -1,0 +1,422 @@
+[
+  {
+    "ans": 3,
+    "difficulty": "Moderate",
+    "op_en": [
+      "1972",
+      "1990",
+      "1978",
+      "1982"
+    ],
+    "op_hi": [
+      "1972",
+      "1990",
+      "1978",
+      "1982"
+    ],
+    "q_en": "The Indian Panorama section, devoted to showcasing the best Indian films and introduced under the IFFI umbrella for promoting cinema and culture, was first launched in which year?",
+    "q_hi": "सिनेमा और संस्कृति को बढ़ावा देने के लिए IFFI के तत्वावधान में शुरू किए गए बेहतरीन भारतीय फिल्मों को प्रदर्शित करने के लिए समर्पित भारतीय पैनोरमा (Indian Panorama) खंड पहली बार किस वर्ष शुरू किया गया था?",
+    "section": "General Awareness",
+    "solution": "<b>Solution (EN):</b><br>The Indian Panorama was introduced in 1978 as part of the International Film Festival of India (IFFI) to promote Indian films and their cultural diversity. It aims to select the best feature and non-feature films of the year.<br><b>Solution (HI):</b><br>भारतीय पैनोरमा की शुरुआत 1978 में भारतीय अंतर्राष्ट्रीय फिल्म महोत्सव (IFFI) के हिस्से के रूप में भारतीय फिल्मों और उनकी सांस्कृतिक विविधता को बढ़ावा देने के लिए की गई थी। इसका उद्देश्य वर्ष की सर्वश्रेष्ठ फीचर और गैर-फीचर फिल्मों का चयन करना है।<br><b>Short Trick:</b><br>IFFI Panorama: 1978.",
+    "topic": "Art and Culture"
+  },
+  {
+    "ans": 1,
+    "difficulty": "Easy",
+    "op_en": [
+      "Providing personal loans to citizens",
+      "Issuing currency",
+      "Controlling inflation",
+      "Managing the country's foreign exchange reserves"
+    ],
+    "op_hi": [
+      "नागरिकों को व्यक्तिगत ऋण प्रदान करना",
+      "मुद्रा जारी करना",
+      "मुद्रास्फीति को नियंत्रित करना",
+      "देश के विदेशी मुद्रा भंडार का प्रबंधन करना"
+    ],
+    "q_en": "Which of the following is NOT a function of a central bank in a country?",
+    "q_hi": "निम्नलिखित में से कौन सा किसी देश के केंद्रीय बैंक का कार्य नहीं है?",
+    "section": "General Awareness",
+    "solution": "<b>Solution (EN):</b><br>A central bank (like RBI in India) is the banker's bank. It issues currency, controls inflation, and manages foreign exchange. Providing personal loans is a function of commercial banks (like SBI, HDFC), not the central bank.<br><b>Solution (HI):</b><br>एक केंद्रीय बैंक (जैसे भारत में RBI) बैंकों का बैंक होता है। यह मुद्रा जारी करता है, मुद्रास्फीति को नियंत्रित करता है और विदेशी मुद्रा का प्रबंधन करता है। व्यक्तिगत ऋण प्रदान करना वाणिज्यिक बैंकों (जैसे SBI, HDFC) का कार्य है, केंद्रीय बैंक का नहीं।<br><b>Short Trick:</b><br>Central Bank = Regulator; Commercial Bank = Public Dealing.",
+    "topic": "Economics"
+  },
+  {
+    "ans": 1,
+    "difficulty": "Moderate",
+    "op_en": [
+      "1881",
+      "1851",
+      "1901",
+      "1895"
+    ],
+    "op_hi": [
+      "1881",
+      "1851",
+      "1901",
+      "1895"
+    ],
+    "q_en": "In which year was St. Stephen's College founded by the 'Cambridge Mission to Delhi' in collaboration with the Society for the Propagation of the Gospel?",
+    "q_hi": "सोसाइटी फॉर द प्रोपेगेशन ऑफ द गॉस्पेल के सहयोग से 'कैम्ब्रिज मिशन टू दिल्ली' द्वारा सेंट स्टीफंस कॉलेज की स्थापना किस वर्ष की गई थी?",
+    "section": "General Awareness",
+    "solution": "<b>Solution (EN):</b><br>St. Stephen's College, Delhi, was founded on February 1, 1881. It is one of the oldest colleges for higher education in Delhi and was established by the Cambridge Mission to Delhi.<br><b>Solution (HI):</b><br>सेंट स्टीफंस कॉलेज, दिल्ली की स्थापना 1 फरवरी, 1881 को हुई थी। यह दिल्ली में उच्च शिक्षा के लिए सबसे पुराने कॉलेजों में से एक है और इसे कैम्ब्रिज मिशन टू दिल्ली द्वारा स्थापित किया गया था।<br><b>Short Trick:</b><br>St. Stephen's = 1881.",
+    "topic": "History"
+  },
+  {
+    "ans": 3,
+    "difficulty": "Moderate",
+    "op_en": [
+      "Directorate General of Employment",
+      "Employees’ State Insurance Corporation (ESIC)",
+      "Employees Provident Fund Organisation (EPFO)",
+      "Labour Bureau of India"
+    ],
+    "op_hi": [
+      "रोजगार महानिदेशालय",
+      "कर्मचारी राज्य बीमा निगम (ESIC)",
+      "कर्मचारी भविष्य निधि संगठन (EPFO)",
+      "भारतीय श्रम ब्यूरो"
+    ],
+    "q_en": "Which of the following statutory bodies under the Ministry of Labour and Employment is responsible for implementing the Pradhan Mantri Viksit Bharat Rozgar Yojana?",
+    "q_hi": "श्रम और रोजगार मंत्रालय के तहत निम्नलिखित में से कौन सा वैधानिक निकाय प्रधानमंत्री विकसित भारत रोजगार योजना को लागू करने के लिए जिम्मेदार है?",
+    "section": "General Awareness",
+    "solution": "<b>Solution (EN):</b><br>The Pradhan Mantri Viksit Bharat Rozgar Yojana (PMVBRY) is implemented through the EPFO. The scheme encourages formal job creation by providing incentives related to EPF contributions for new employees.<br><b>Solution (HI):</b><br>प्रधानमंत्री विकसित भारत रोजगार योजना (PMVBRY) को EPFO के माध्यम से लागू किया गया है। यह योजना नए कर्मचारियों के लिए EPF योगदान से संबंधित प्रोत्साहन प्रदान करके औपचारिक रोजगार सृजन को प्रोत्साहित करती है।<br><b>Short Trick:</b><br>Rozgar Yojana + Formal Sector = EPFO.",
+    "topic": "Government Schemes"
+  },
+  {
+    "ans": 1,
+    "difficulty": "Hard",
+    "op_en": [
+      "Constitutional (130th Amendment) Bill, 2025",
+      "National Sports Governance Bill, 2025",
+      "Merchant Shipping Act, 2025",
+      "Indian Ports Bill, 2025"
+    ],
+    "op_hi": [
+      "संवैधानिक (130वां संशोधन) विधेयक, 2025",
+      "राष्ट्रीय खेल शासन विधेयक, 2025",
+      "व्यापारी नौवहन अधिनियम, 2025",
+      "भारतीय बंदरगाह विधेयक, 2025"
+    ],
+    "q_en": "Which Bill, introduced in August 2025, ensures that individuals holding high constitutional positions (PM, CM, Ministers) cannot run the government while in jail?",
+    "q_hi": "अगस्त 2025 में पेश किया गया कौन सा विधेयक यह सुनिश्चित करता है कि उच्च संवैधानिक पदों (पीएम, सीएम, मंत्री) पर बैठे व्यक्ति जेल में रहते हुए सरकार नहीं चला सकते?",
+    "section": "General Awareness",
+    "solution": "<b>Solution (EN):</b><br>The Constitutional (130th Amendment) Bill, 2025, was introduced to create a legal framework preventing high-ranking officials like the PM or CM from exercising executive powers while in judicial custody or jail.<br><b>Solution (HI):</b><br>संवैधानिक (130वां संशोधन) विधेयक, 2025, पीएम या सीएम जैसे उच्च पदों पर आसीन अधिकारियों को न्यायिक हिरासत या जेल में रहने के दौरान कार्यकारी शक्तियों का प्रयोग करने से रोकने के लिए एक कानूनी ढांचा बनाने के लिए पेश किया गया था।<br><b>Short Trick:</b><br>No Govt from Jail = 130th Amendment Bill.",
+    "topic": "Polity"
+  },
+  {
+    "ans": 2,
+    "difficulty": "Easy",
+    "op_en": [
+      "It requires a high amount of collateral.",
+      "It provides small loans with easy repayment options.",
+      "It charges high interest rates.",
+      "It only offers loans to large businesses."
+    ],
+    "op_hi": [
+      "इसके लिए भारी मात्रा में संपार्श्विक (collateral) की आवश्यकता होती है।",
+      "यह आसान पुनर्भुगतान विकल्पों के साथ छोटे ऋण प्रदान करता है।",
+      "यह उच्च ब्याज दरें वसूलता है।",
+      "यह केवल बड़े व्यवसायों को ऋण प्रदान करता है।"
+    ],
+    "q_en": "What is the main advantage of microfinance for small business owners?",
+    "q_hi": "छोटे व्यवसाय स्वामियों के लिए सूक्ष्म वित्त (microfinance) का मुख्य लाभ क्या है?",
+    "section": "General Awareness",
+    "solution": "<b>Solution (EN):</b><br>Microfinance provides financial services to low-income individuals or small business owners who lack access to traditional banking. Its primary advantage is providing small, manageable loans with flexible terms and minimal collateral requirements.<br><b>Solution (HI):</b><br>सूक्ष्म वित्त उन कम आय वाले व्यक्तियों या छोटे व्यवसाय स्वामियों को वित्तीय सेवाएं प्रदान करता है जिनके पास पारंपरिक बैंकिंग तक पहुंच नहीं है। इसका प्राथमिक लाभ लचीली शर्तों और न्यूनतम संपार्श्विक आवश्यकताओं के साथ छोटे, प्रबंधनीय ऋण प्रदान करना है।<br><b>Short Trick:</b><br>Microfinance = Small loans + Easy access.",
+    "topic": "Economics"
+  },
+  {
+    "ans": 2,
+    "difficulty": "Moderate",
+    "op_en": [
+      "Project Vajra",
+      "Project Kusha",
+      "Project Agni",
+      "Project Surya"
+    ],
+    "op_hi": [
+      "प्रोजेक्ट वज्र",
+      "प्रोजेक्ट कुशा",
+      "प्रोजेक्ट अग्नि",
+      "प्रोजेक्ट सूर्य"
+    ],
+    "q_en": "Which of the following projects under Mission Sudarshan Chakra is set to begin interceptor missile trials in 2026?",
+    "q_hi": "मिशन सुदर्शन चक्र के तहत निम्नलिखित में से कौन सी परियोजना 2026 में इंटरसेप्टर मिसाइल परीक्षण शुरू करने के लिए तैयार है?",
+    "section": "General Awareness",
+    "solution": "<b>Solution (EN):</b><br>Project Kusha is India's ambitious project to develop a long-range air defence system (similar to the S-400 or Iron Dome). Trials for its interceptor missiles are scheduled to begin around 2026 under the broader Mission Sudarshan Chakra.<br><b>Solution (HI):</b><br>प्रोजेक्ट कुशा एक लंबी दूरी की वायु रक्षा प्रणाली (एस-400 या आयरन डोम के समान) विकसित करने की भारत की महत्वाकांक्षी परियोजना है। इसके इंटरसेप्टर मिसाइलों का परीक्षण व्यापक मिशन सुदर्शन चक्र के तहत 2026 के आसपास शुरू होने वाला है।<br><b>Short Trick:</b><br>Kusha = Air Defence Interceptor (2026).",
+    "topic": "Science and Tech"
+  },
+  {
+    "ans": 4,
+    "difficulty": "Moderate",
+    "op_en": [
+      "Madras",
+      "Calcutta",
+      "Lucknow",
+      "Wardha"
+    ],
+    "op_hi": [
+      "मद्रास",
+      "कलकत्ता",
+      "लखनऊ",
+      "वर्धा"
+    ],
+    "q_en": "At which place did the meeting of the Congress Working Committee pass the Quit India Resolution on 14 July 1942, which was later endorsed and passed on 8 August at the Bombay session of the Congress?",
+    "q_hi": "किस स्थान पर कांग्रेस कार्य समिति की बैठक ने 14 जुलाई 1942 को भारत छोड़ो प्रस्ताव पारित किया था, जिसे बाद में 8 अगस्त को कांग्रेस के बंबई अधिवेशन में अनुमोदित और पारित किया गया था?",
+    "section": "General Awareness",
+    "solution": "<b>Solution (EN):</b><br>The Congress Working Committee (CWC) met at Wardha on July 14, 1942, and passed the historic 'Quit India' resolution. This was later formally ratified at the Gowalia Tank Maidan in Bombay on August 8, 1942.<br><b>Solution (HI):</b><br>कांग्रेस कार्य समिति (CWC) की बैठक 14 जुलाई, 1942 को वर्धा में हुई थी और ऐतिहासिक 'भारत छोड़ो' प्रस्ताव पारित किया गया था। इसे बाद में 8 अगस्त, 1942 को बंबई के गोवालिया टैंक मैदान में औपचारिक रूप से अनुमोदित किया गया था।<br><b>Short Trick:</b><br>CWC Wardha (July) &rarr; Bombay (Aug) Quit India.",
+    "topic": "History"
+  },
+  {
+    "ans": 3,
+    "difficulty": "Easy",
+    "op_en": [
+      "Gender-based violence",
+      "Adolescent education",
+      "Malnutrition",
+      "Child immunisation"
+    ],
+    "op_hi": [
+      "लिंग आधारित हिंसा",
+      "किशोर शिक्षा",
+      "कुपोषण",
+      "बाल टीकाकरण"
+    ],
+    "q_en": "<strong data-end=\"342\" data-start=\"318\">Poshan Pakhwada 2025</strong>, observed in April, is primarily focused on addressing which of the following issues?",
+    "q_hi": "अप्रैल में मनाया गया पोषण पखवाड़ा 2025, मुख्य रूप से निम्नलिखित में से किस मुद्दे को हल करने पर केंद्रित है?",
+    "section": "General Awareness",
+    "solution": "<b>Solution (EN):</b><br>Poshan Pakhwada is an annual mass movement aimed at raising awareness about the importance of nutrition and eradicating malnutrition in India, particularly among women and children.<br><b>Solution (HI):</b><br>पोषण पखवाड़ा एक वार्षिक जन आंदोलन है जिसका उद्देश्य पोषण के महत्व के बारे में जागरूकता बढ़ाना और भारत में कुपोषण को मिटाना है, विशेष रूप से महिलाओं और बच्चों के बीच।<br><b>Short Trick:</b><br>Poshan = Nutrition/Malnutrition awareness.",
+    "topic": "Health"
+  },
+  {
+    "ans": 3,
+    "difficulty": "Moderate",
+    "op_en": [
+      "Mumbai–Nagpur Expressway",
+      "Delhi–Meerut Expressway",
+      "Delhi–Mumbai Expressway",
+      "Eastern Peripheral Expressway"
+    ],
+    "op_hi": [
+      "मुंबई-नागपुर एक्सप्रेसवे",
+      "दिल्ली-मेरठ एक्सप्रेसवे",
+      "दिल्ली-मुंबई एक्सप्रेसवे",
+      "ईस्टर्न पेरीफेरल एक्सप्रेसवे"
+    ],
+    "q_en": "In July 2025, the National Highways Authority of India (NHAI) constructed the country’s first wildlife overpass corridor on which of the following expressways passing through the buffer zone of the Ranthambore Tiger Reserve?",
+    "q_hi": "जुलाई 2025 में, भारतीय राष्ट्रीय राजमार्ग प्राधिकरण (NHAI) ने रणथंभौर टाइगर रिजर्व के बफर जोन से गुजरने वाले निम्नलिखित में से किस एक्सप्रेसवे पर देश का पहला वन्यजीव ओवरपास कॉरिडोर बनाया?",
+    "section": "General Awareness",
+    "solution": "<b>Solution (EN):</b><br>The Delhi–Mumbai Expressway features India's first wildlife overpasses or animal bridges, designed to allow the safe passage of wildlife through forest stretches like the Ranthambore buffer zone.<br><b>Solution (HI):</b><br>दिल्ली-मुंबई एक्सप्रेसवे में भारत का पहला वन्यजीव ओवरपास या एनिमल ब्रिज है, जिसे रणथंभौर बफर जोन जैसे वन क्षेत्रों के माध्यम से वन्यजीवों के सुरक्षित मार्ग की अनुमति देने के लिए डिज़ाइन किया गया है।<br><b>Short Trick:</b><br>Wildlife Overpass = Delhi-Mumbai Expressway.",
+    "topic": "Geography"
+  },
+  {
+    "ans": 4,
+    "difficulty": "Moderate",
+    "op_en": [
+      "Only government expenditure by the state",
+      "Total value of imported goods and services",
+      "Only the value of domestic production",
+      "Income earned by residents from abroad"
+    ],
+    "op_hi": [
+      "केवल राज्य द्वारा सरकारी व्यय",
+      "आयातित वस्तुओं और सेवाओं का कुल मूल्य",
+      "केवल घरेलू उत्पादन का मूल्य",
+      "विदेशों से निवासियों द्वारा अर्जित आय"
+    ],
+    "q_en": "What does 'Gross National Income (GNI)' include that 'Gross Domestic Product (GDP)' does not?",
+    "q_hi": "'सकल राष्ट्रीय आय (GNI)' में ऐसा क्या शामिल है जो 'सकल घरेलू उत्पाद (GDP)' में नहीं है?",
+    "section": "General Awareness",
+    "solution": "<b>Solution (EN):</b><br>GDP measures the value of goods and services produced within a country's borders. GNI measures the total income earned by a country's residents, including income from foreign investments or work abroad (Net Factor Income from Abroad).<br><b>Solution (HI):</b><br>GDP किसी देश की सीमाओं के भीतर उत्पादित वस्तुओं और सेवाओं के मूल्य को मापता है। GNI किसी देश के निवासियों द्वारा अर्जित कुल आय को मापता है, जिसमें विदेशी निवेश या विदेश में काम से प्राप्त आय (विदेशों से शुद्ध कारक आय) शामिल है।<br><b>Short Trick:</b><br>GNI = GDP + Net income from abroad.",
+    "topic": "Economics"
+  },
+  {
+    "ans": 3,
+    "difficulty": "Easy",
+    "op_en": [
+      "By limiting access to financial resources",
+      "By focusing only on high-income individuals",
+      "By providing financial education and access to credit",
+      "By discouraging savings and investment"
+    ],
+    "op_hi": [
+      "वित्तीय संसाधनों तक पहुंच सीमित करके",
+      "केवल उच्च आय वाले व्यक्तियों पर ध्यान केंद्रित करके",
+      "वित्तीय शिक्षा और ऋण तक पहुंच प्रदान करके",
+      "बचत और निवेश को हतोत्साहित करके"
+    ],
+    "q_en": "How do microfinance institutions impact the financial independence of their clients?",
+    "q_hi": "सूक्ष्म वित्त संस्थान अपने ग्राहकों की वित्तीय स्वतंत्रता को कैसे प्रभावित करते हैं?",
+    "section": "General Awareness",
+    "solution": "<b>Solution (EN):</b><br>Microfinance institutions (MFIs) promote financial independence by providing small-scale financial services like micro-credit, savings accounts, and financial literacy training to those underserved by traditional banks.<br><b>Solution (HI):</b><br>सूक्ष्म वित्त संस्थान (MFIs) उन लोगों को सूक्ष्म ऋण, बचत खाते और वित्तीय साक्षरता प्रशिक्षण जैसी छोटे पैमाने की वित्तीय सेवाएं प्रदान करके वित्तीय स्वतंत्रता को बढ़ावा देते हैं जो पारंपरिक बैंकों द्वारा उपेक्षित हैं।<br><b>Short Trick:</b><br>MFI = Credit access + Financial Literacy.",
+    "topic": "Economics"
+  },
+  {
+    "ans": 3,
+    "difficulty": "Easy",
+    "op_en": [
+      "Chandra Shekar Azad",
+      "Khudiram Bose",
+      "Bhagat Singh",
+      "Uddham Singh"
+    ],
+    "op_hi": [
+      "चंद्र शेखर आजाद",
+      "खुदीराम बोस",
+      "भगत सिंह",
+      "उधम सिंह"
+    ],
+    "q_en": "Who among the following has formed the Naujawan Sabha to avenge the death of Lala Lajpat Rai and killed the police officer Saunders?",
+    "q_hi": "निम्नलिखित में से किसने लाला लाजपत राय की मृत्यु का बदला लेने के लिए नौजवान सभा का गठन किया और पुलिस अधिकारी सॉन्डर्स की हत्या की?",
+    "section": "General Awareness",
+    "solution": "<b>Solution (EN):</b><br>Bhagat Singh founded the Naujawan Bharat Sabha in March 1926. Later, to avenge Lala Lajpat Rai's death during the anti-Simon Commission protest, he along with Rajguru and Sukhdev killed J.P. Saunders in 1928.<br><b>Solution (HI):</b><br>भगत सिंह ने मार्च 1926 में नौजवान भारत सभा की स्थापना की थी। बाद में, साइमन कमीशन विरोधी प्रदर्शन के दौरान लाला लाजपत राय की मृत्यु का बदला लेने के लिए, उन्होंने राजगुरु और सुखदेव के साथ मिलकर 1928 में जे.पी. सॉन्डर्स की हत्या कर दी थी।<br><b>Short Trick:</b><br>Bhagat Singh &rarr; Naujawan Sabha &rarr; Saunders.",
+    "topic": "History"
+  },
+  {
+    "ans": 1,
+    "difficulty": "Moderate",
+    "op_en": [
+      "National Commission for Women",
+      "Ministry of Electronics and IT",
+      "Ministry of Rural Development",
+      "NITI Aayog"
+    ],
+    "op_hi": [
+      "राष्ट्रीय महिला आयोग",
+      "इलेक्ट्रॉनिक्स और आईटी मंत्रालय",
+      "ग्रामीण विकास मंत्रालय",
+      "नीति आयोग"
+    ],
+    "q_en": "Which organisation launched ‘Yashoda AI: Your AI SAKHI’ on 22 May 2025 at Mahatma Jyotiba Phule Rohilkhand University in Bareilly?",
+    "q_hi": "22 मई 2025 को बरेली के महात्मा ज्योतिबा फुले रुहेलखंड विश्वविद्यालय में 'यशोदा AI: योर AI सखी' (Yashoda AI: Your AI SAKHI) किस संगठन ने लॉन्च किया?",
+    "section": "General Awareness",
+    "solution": "<b>Solution (EN):</b><br>The National Commission for Women (NCW) launched 'Yashoda AI' to assist women by providing AI-driven guidance on legal rights, safety, and health, acting as a digital companion (Sakhi).<br><b>Solution (HI):</b><br>राष्ट्रीय महिला आयोग (NCW) ने कानूनी अधिकारों, सुरक्षा और स्वास्थ्य पर AI-आधारित मार्गदर्शन प्रदान करके महिलाओं की सहायता के लिए 'यशोदा AI' लॉन्च किया, जो एक डिजिटल साथी (सखी) के रूप में कार्य करता है।<br><b>Short Trick:</b><br>Yashoda AI = NCW (Women empowerment).",
+    "topic": "Technology"
+  },
+  {
+    "ans": 2,
+    "difficulty": "Moderate",
+    "op_en": [
+      "₹80,500 crore",
+      "₹99,446 crore",
+      "₹75,000 crore",
+      "₹1,20,000 crore"
+    ],
+    "op_hi": [
+      "₹80,500 करोड़",
+      "₹99,446 करोड़",
+      "₹75,000 करोड़",
+      "₹1,20,000 करोड़"
+    ],
+    "q_en": "What is the total outlay of the Pradhan Mantri Viksit Bharat Rozgar Yojana, as approved by the Union Cabinet in July 2025?",
+    "q_hi": "जुलाई 2025 में केंद्रीय मंत्रिमंडल द्वारा अनुमोदित प्रधानमंत्री विकसित भारत रोजगार योजना का कुल परिव्यय (outlay) क्या है?",
+    "section": "General Awareness",
+    "solution": "<b>Solution (EN):</b><br>The Union Cabinet approved the PM Viksit Bharat Rozgar Yojana with a massive outlay of ₹99,446 crore to boost employment and formalisation in the labour market over the coming years.<br><b>Solution (HI):</b><br>केंद्रीय मंत्रिमंडल ने आने वाले वर्षों में श्रम बाजार में रोजगार और औपचारिकता को बढ़ावा देने के लिए ₹99,446 करोड़ के भारी परिव्यय के साथ पीएम विकसित भारत रोजगार योजना को मंजूरी दी।<br><b>Short Trick:</b><br>PM Rozgar Yojana Outlay &approx; ₹1 Lakh Cr (Exact: 99,446).",
+    "topic": "Government Schemes"
+  },
+  {
+    "ans": 1,
+    "difficulty": "Moderate",
+    "op_en": [
+      "Savi Sharma",
+      "Anuja Chauhan",
+      "Arun Joshi",
+      "Ravinder Singh"
+    ],
+    "op_hi": [
+      "सवी शर्मा",
+      "अनुजा चौहान",
+      "अरुण जोशी",
+      "रविंदर सिंह"
+    ],
+    "q_en": "Who has written 'Everyone Has A Story', a motivational story about love, dreams and friendship?",
+    "q_hi": "प्रेम, सपनों और दोस्ती के बारे में एक प्रेरणादायक कहानी 'एवरीवन हैज ए स्टोरी' (Everyone Has A Story) किसने लिखी है?",
+    "section": "General Awareness",
+    "solution": "<b>Solution (EN):</b><br>'Everyone Has A Story' is a bestselling debut novel by Savi Sharma. It follows the life of Meera, an aspiring writer, and her journey of finding stories and relationships.<br><b>Solution (HI):</b><br>'एवरीवन हैज ए स्टोरी' सवी शर्मा का सबसे ज्यादा बिकने वाला पहला उपन्यास है। यह एक महत्वाकांक्षी लेखिका मीरा के जीवन और उसकी कहानियों और रिश्तों को खोजने की यात्रा का वर्णन करता है।<br><b>Short Trick:</b><br>Savi Sharma = Story teller.",
+    "topic": "Books and Authors"
+  },
+  {
+    "ans": 3,
+    "difficulty": "Moderate",
+    "op_en": [
+      "Helicopters and balloons",
+      "Subsonic cruise missiles only",
+      "High-speed unmanned vehicles and a multi-copter drone",
+      "Satellites and fighter jets"
+    ],
+    "op_hi": [
+      "हेलीकॉप्टर और गुब्बारे",
+      "केवल सबसोनिक क्रूज मिसाइलें",
+      "हाई-स्पीड मानव रहित वाहन और एक मल्टी-कॉप्टर ड्रोन",
+      "उपग्रह और लड़ाकू जेट"
+    ],
+    "q_en": "Which of the following types of aerial targets were intercepted during the Integrated Air Defence Weapon System (IADWS) trial on 23 August 2025?",
+    "q_hi": "23 अगस्त 2025 को एकीकृत वायु रक्षा हथियार प्रणाली (IADWS) परीक्षण के दौरान निम्नलिखित में से किस प्रकार के हवाई लक्ष्यों को इंटरसेप्ट किया गया था?",
+    "section": "General Awareness",
+    "solution": "<b>Solution (EN):</b><br>On August 23, 2025, India successfully tested the IADWS, during which it intercepted various challenging targets like high-speed unmanned aerial vehicles (UAVs) and a multi-copter drone to demonstrate precision.<br><b>Solution (HI):</b><br>23 अगस्त, 2025 को भारत ने IADWS का सफलतापूर्वक परीक्षण किया, जिसके दौरान उसने सटीकता प्रदर्शित करने के लिए हाई-स्पीड मानव रहित हवाई वाहनों (UAVs) और एक मल्टी-कॉप्टर ड्रोन जैसे विभिन्न चुनौतीपूर्ण लक्ष्यों को इंटरसेप्ट किया।<br><b>Short Trick:</b><br>IADWS Trial = UAVs + Multi-copter drones.",
+    "topic": "Science and Tech"
+  },
+  {
+    "ans": 1,
+    "difficulty": "Moderate",
+    "op_en": [
+      "VS Naipaul",
+      "Arundhati Roy",
+      "Salman Rushdie",
+      "Aravind Adiga"
+    ],
+    "op_hi": [
+      "वी.एस. नायपॉल",
+      "अरुंधति रॉय",
+      "सलमान रुश्दी",
+      "अरविन्द अडिगा"
+    ],
+    "q_en": "Who among the following Indian origin authors is also a winner of Nobel Prize for Literature?",
+    "q_hi": "निम्नलिखित भारतीय मूल के लेखकों में से कौन साहित्य के नोबेल पुरस्कार विजेता भी हैं?",
+    "section": "General Awareness",
+    "solution": "<b>Solution (EN):</b><br>V.S. Naipaul, an Indian-origin British writer born in Trinidad, won the Nobel Prize in Literature in 2001. Other authors like Arundhati Roy and Aravind Adiga have won the Booker Prize.<br><b>Solution (HI):</b><br>त्रिनिदाद में जन्मे भारतीय मूल के ब्रिटिश लेखक वी.एस. नायपॉल ने 2001 में साहित्य का नोबेल पुरस्कार जीता था। अरुंधति रॉय और अरविन्द अडिगा जैसे अन्य लेखकों ने बुकर पुरस्कार जीता है।<br><b>Short Trick:</b><br>VS Naipaul = Nobel (2001).",
+    "topic": "General Awareness"
+  },
+  {
+    "ans": 4,
+    "difficulty": "Hard",
+    "op_en": [
+      "Aruna Asaf Ali",
+      "Sarojini Naidu",
+      "Kasturba Gandhi",
+      "Indira Gandhi"
+    ],
+    "op_hi": [
+      "अरुणा आसफ अली",
+      "सरोजिनी नायडू",
+      "कस्तूरबा गांधी",
+      "इंदिरा गांधी"
+    ],
+    "q_en": "Who founded the 'Bal Charkha Sangh' in her childhood and later established the 'Vanar Sena' in 1930 to support the Congress party during the Non-Cooperation Movement?",
+    "q_hi": "किसने अपने बचपन में 'बाल चरखा संघ' की स्थापना की थी और बाद में असहयोग आंदोलन के दौरान कांग्रेस पार्टी का समर्थन करने के लिए 1930 में 'वानर सेना' की स्थापना की थी?",
+    "section": "General Awareness",
+    "solution": "<b>Solution (EN):</b><br>Indira Gandhi founded the 'Bal Charkha Sangh' at a very young age. In 1930, during the Civil Disobedience Movement, she established the 'Vanar Sena' (Monkey Brigade), a youth organisation to help the Congress with small tasks.<br><b>Solution (HI):</b><br>इंदिरा गांधी ने बहुत कम उम्र में 'बाल चरखा संघ' की स्थापना की थी। 1930 में, सविनय अवज्ञा आंदोलन के दौरान, उन्होंने 'वानर सेना' (मंकी ब्रिगेड) की स्थापना की, जो कांग्रेस को छोटे-मोटे कामों में मदद करने के लिए एक युवा संगठन था।<br><b>Short Trick:</b><br>Vanar Sena (1930) = Indira Gandhi.",
+    "topic": "History"
+  },
+  {
+    "ans": 4,
+    "difficulty": "Hard",
+    "op_en": [
+      "Venkaiah Naidu",
+      "Jagdeep Dhankhar",
+      "B Sudershan Reddy",
+      "CP Radhakrishnan"
+    ],
+    "op_hi": [
+      "वेंकैया नायडू",
+      "जगदीप धनखड़",
+      "बी सुदर्शन रेड्डी",
+      "सी.पी. राधाकृष्णन"
+    ],
+    "q_en": "Who among the following was elected as the 15<sup>th</sup> Vice President of India in September 2025?",
+    "q_hi": "सितंबर 2025 में निम्नलिखित में से किसे भारत के 15वें उपराष्ट्रपति के रूप में चुना गया था?",
+    "section": "General Awareness",
+    "solution": "<b>Solution (EN):</b><br>C.P. Radhakrishnan was elected as the 15th Vice President of India in the election held in September 2025, succeeding Jagdeep Dhankhar (14th VP).<br><b>Solution (HI):</b><br>सितंबर 2025 में हुए चुनाव में सी.पी. राधाकृष्णन को जगदीप धनखड़ (14वें उपराष्ट्रपति) के बाद भारत के 15वें उपराष्ट्रपति के रूप में चुना गया था।<br><b>Short Trick:</b><br>15th VP (2025) = CP Radhakrishnan.",
+    "topic": "Polity"
+  }
+]
