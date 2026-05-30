@@ -1,0 +1,422 @@
+[
+  {
+    "section": "Quantitative Aptitude1",
+    "topic": "Average",
+    "difficulty": "Medium",
+    "q_en": "In an examination, a student's average score per paper was 67. If he had scored 21 more marks in his geography paper and 7 less marks in his history paper, his average score would have been 69. How many papers were there in the examination?",
+    "q_hi": "एक परीक्षा में, प्रति प्रश्न पत्र एक छात्र का औसत अंक 67 था। यदि उसने भूगोल के प्रश्न पत्र में 21 अंक अधिक और इतिहास के प्रश्न पत्र में 7 अंक कम प्राप्त किए होते, तो उसका औसत अंक 69 होता। परीक्षा में कितने प्रश्न पत्र थे?",
+    "op_en": [
+      "6",
+      "7",
+      "9",
+      "10"
+    ],
+    "op_hi": [
+      "6",
+      "7",
+      "9",
+      "10"
+    ],
+    "ans": 2,
+    "solution": "<b>Solution (EN):</b><br>1. Let the total number of papers be '$n$'.<br>2. Initial average score = 67. Total initial marks = $67n$.<br>3. New conditions: +21 in geography and -7 in history. Net change in total marks = $+21 - 7 = +14$.<br>4. New total marks = $67n + 14$.<br>5. Given new average = 69. So, new total marks = $69n$.<br>6. Equating both: $67n + 14 = 69n$.<br>7. $2n = 14 \\\\Rightarrow n = 7$.<br>8. There were 7 papers in the examination.<br><br><b>Solution (HI):</b><br>1. मान लीजिए कि प्रश्न पत्रों की कुल संख्या '$n$' है।<br>2. प्रारंभिक औसत अंक = 67. कुल प्रारंभिक अंक = $67n$.<br>3. नई शर्तें: भूगोल में +21 और इतिहास में -7. कुल अंकों में शुद्ध परिवर्तन = $+21 - 7 = +14$.<br>4. नए कुल अंक = $67n + 14$.<br>5. नया औसत = 69 दिया गया है। इसलिए, नए कुल अंक = $69n$.<br>6. दोनों को बराबर करने पर: $67n + 14 = 69n$.<br>7. $2n = 14 \\\\Rightarrow n = 7$.<br>8. परीक्षा में 7 प्रश्न पत्र थे।<br><br><b>Short Trick:</b><br>Number of papers = $\\\\frac{\\\\text{Net change in marks}}{\\\\text{Change in average}} = \\\\frac{(21 - 7)}{(69 - 67)} = \\\\frac{14}{2} = 7$."
+  },
+  {
+    "section": "Quantitative Aptitude1",
+    "topic": "LCM and HCF",
+    "difficulty": "Easy",
+    "q_en": "Five bells chime automatically at intervals of 12 minutes, 8 minutes, 6 minutes, 3 minutes, and 10 minutes, respectively. How many times will they chime together in the next 12 hours from the time the clocks are first started?",
+    "q_hi": "पांच घंटियां क्रमशः 12 मिनट, 8 मिनट, 6 मिनट, 3 मिनट और 10 मिनट के अंतराल पर स्वचालित रूप से बजती हैं। घड़ियों के पहली बार शुरू होने के समय से अगले 12 घंटों में वे कितनी बार एक साथ बजेंगी?",
+    "op_en": [
+      "10",
+      "8",
+      "5",
+      "6"
+    ],
+    "op_hi": [
+      "10",
+      "8",
+      "5",
+      "6"
+    ],
+    "ans": 4,
+    "solution": "<b>Solution (EN):</b><br>1. Find the LCM of the given intervals: 12, 8, 6, 3, 10.<br>2. LCM(12, 8, 6, 3, 10) = 120 minutes.<br>3. The bells chime together every 120 minutes, which is equal to 2 hours.<br>4. Total time given = 12 hours.<br>5. Number of times they chime together in the next 12 hours = Total time / LCM = 12 / 2 = 6 times.<br>(Note: We do not add 1 for the starting chime because the question asks for the times they chime together <i>in the next</i> 12 hours).<br><br><b>Solution (HI):</b><br>1. दिए गए अंतरालों का LCM ज्ञात करें: 12, 8, 6, 3, 10.<br>2. LCM(12, 8, 6, 3, 10) = 120 मिनट.<br>3. घंटियां हर 120 मिनट में एक साथ बजती हैं, जो 2 घंटे के बराबर है.<br>4. कुल दिया गया समय = 12 घंटे.<br>5. अगले 12 घंटों में उनके एक साथ बजने की संख्या = कुल समय / LCM = 12 / 2 = 6 बार.<br>(नोट: हम शुरुआती बजने के लिए 1 नहीं जोड़ते हैं क्योंकि प्रश्न में <i>अगले</i> 12 घंटों में उनके एक साथ बजने की संख्या पूछी गई है)."
+  },
+  {
+    "section": "Quantitative Aptitude1",
+    "topic": "Simple Interest",
+    "difficulty": "Easy",
+    "q_en": "A sum of money is lent at x% annual simple interest for 2 years. If it had been lent at (x + 2)%, it would have earned ₹108 more. The amount invested (in ₹) is ______.",
+    "q_hi": "कोई धनराशि x% वार्षिक साधारण ब्याज पर 2 वर्ष के लिए उधार दी जाती है। यदि इसे (x + 2)% पर उधार दिया गया होता, तो इस पर ₹108 अधिक अर्जित होते। निवेश की गई राशि (₹ में) ______ है।",
+    "op_en": [
+      "2,700",
+      "3,200",
+      "3,000",
+      "2,500"
+    ],
+    "op_hi": [
+      "2,700",
+      "3,200",
+      "3,000",
+      "2,500"
+    ],
+    "ans": 1,
+    "solution": "<b>Solution (EN):</b><br>1. Let the principal amount be P. Time (T) = 2 years.<br>2. Difference in interest rate = (x + 2)% - x% = 2% per annum.<br>3. Extra interest earned = ₹108.<br>4. Formula for Extra Interest = (P &times; Difference in Rate &times; T) / 100<br>5. 108 = (P &times; 2 &times; 2) / 100<br>6. 108 = 4P / 100 &rarr; P = 108 &times; 100 / 4<br>7. P = 27 &times; 100 = ₹2,700.<br><br><b>Solution (HI):</b><br>1. माना मूलधन P है। समय (T) = 2 वर्ष.<br>2. ब्याज दर में अंतर = (x + 2)% - x% = 2% प्रति वर्ष.<br>3. अर्जित अतिरिक्त ब्याज = ₹108.<br>4. अतिरिक्त ब्याज का सूत्र = (P &times; दर में अंतर &times; T) / 100<br>5. 108 = (P &times; 2 &times; 2) / 100<br>6. 108 = 4P / 100 &rarr; P = 108 &times; 100 / 4<br>7. P = 27 &times; 100 = ₹2,700."
+  },
+  {
+    "section": "Quantitative Aptitude1",
+    "topic": "Number System",
+    "difficulty": "Easy",
+    "q_en": "Find the percentage of numbers having 2 or 7 unit digits in the numbers from 10 to 59.",
+    "q_hi": "10 से 59 तक की संख्याओं में 2 या 7 इकाई अंक वाली संख्याओं का प्रतिशत ज्ञात कीजिए।",
+    "op_en": [
+      "18%",
+      "25%",
+      "20%",
+      "22.5%"
+    ],
+    "op_hi": [
+      "18%",
+      "25%",
+      "20%",
+      "22.5%"
+    ],
+    "ans": 3,
+    "solution": "<b>Solution (EN):</b><br>1. Total numbers from 10 to 59 = 59 - 10 + 1 = 50 numbers.<br>2. Numbers with 2 in the unit's digit: 12, 22, 32, 42, 52 (Total 5 numbers).<br>3. Numbers with 7 in the unit's digit: 17, 27, 37, 47, 57 (Total 5 numbers).<br>4. Total favorable numbers = 5 + 5 = 10.<br>5. Percentage = (Favorable numbers / Total numbers) &times; 100 = (10 / 50) &times; 100 = 20%.<br><br><b>Solution (HI):</b><br>1. 10 से 59 तक कुल संख्याएँ = 59 - 10 + 1 = 50 संख्याएँ.<br>2. इकाई के स्थान पर 2 वाली संख्याएँ: 12, 22, 32, 42, 52 (कुल 5 संख्याएँ).<br>3. इकाई के स्थान पर 7 वाली संख्याएँ: 17, 27, 37, 47, 57 (कुल 5 संख्याएँ).<br>4. कुल अनुकूल संख्याएँ = 5 + 5 = 10.<br>5. प्रतिशत = (अनुकूल संख्याएँ / कुल संख्याएँ) &times; 100 = (10 / 50) &times; 100 = 20%."
+  },
+  {
+    "section": "Quantitative Aptitude1",
+    "topic": "Speed, Time and Distance",
+    "difficulty": "Medium",
+    "q_en": "Two trains 400 m and 350 m long are traveling on parallel tracks. Traveling in the same direction, the faster train passes the slower train in 75 seconds. Traveling in opposite directions at the same speed as before, they pass each other completely in 15 seconds. Find the difference (in m/s) in their speeds.",
+    "q_hi": "400 मीटर और 350 मीटर लंबी दो ट्रेनें समानांतर पटरियों पर चल रही हैं। एक ही दिशा में यात्रा करते हुए, तेज ट्रेन धीमी ट्रेन को 75 सेकंड में पार कर जाती है। पहले की तरह ही समान गति से विपरीत दिशाओं में यात्रा करते हुए, वे एक-दूसरे को पूरी तरह से 15 सेकंड में पार कर जाती हैं। उनकी गति में अंतर (मी/से में) ज्ञात कीजिए।",
+    "op_en": [
+      "8",
+      "10",
+      "12",
+      "15"
+    ],
+    "op_hi": [
+      "8",
+      "10",
+      "12",
+      "15"
+    ],
+    "ans": 2,
+    "solution": "<b>Solution (EN):</b><br>1. Let the speeds of the faster and slower trains be v1 and v2 m/s respectively.<br>2. Total distance to cover in both cases = Sum of lengths of trains = 400 + 350 = 750 m.<br>3. When traveling in the same direction, relative speed = v1 - v2.<br>Distance = Relative speed &times; Time<br>750 = (v1 - v2) &times; 75<br>v1 - v2 = 750 / 75 = 10 m/s.<br>4. The question asks for the difference in their speeds, which is exactly v1 - v2.<br>5. Therefore, the difference in speeds is 10 m/s.<br>(Note: The information about traveling in opposite directions is extra and not needed to find the difference).<br><br><b>Solution (HI):</b><br>1. माना तेज और धीमी ट्रेनों की गति क्रमशः v1 और v2 मी/से है।<br>2. दोनों मामलों में तय की जाने वाली कुल दूरी = ट्रेनों की लंबाई का योग = 400 + 350 = 750 मीटर.<br>3. एक ही दिशा में यात्रा करते समय, सापेक्ष गति = v1 - v2.<br>दूरी = सापेक्ष गति &times; समय<br>750 = (v1 - v2) &times; 75<br>v1 - v2 = 750 / 75 = 10 मी/से.<br>4. प्रश्न में उनकी गति में अंतर पूछा गया है, जो ठीक v1 - v2 है.<br>5. इसलिए, गति में अंतर 10 मी/से है.<br>(नोट: विपरीत दिशाओं में यात्रा करने के बारे में जानकारी अतिरिक्त है और अंतर ज्ञात करने के लिए इसकी आवश्यकता नहीं है)."
+  },
+  {
+    "section": "Quantitative Aptitude1",
+    "topic": "Percentages",
+    "difficulty": "Medium",
+    "q_en": "A is 48% more than B. C is 60% more than the sum of A and B. By what percent (correct to one decimal place) is A less than C?",
+    "q_hi": "A, B से 48% अधिक है। C, A और B के योग से 60% अधिक है। A, C से कितने प्रतिशत (एक दशमलव स्थान तक सही) कम है?",
+    "op_en": [
+      "51.9%",
+      "62.7%",
+      "67.5%",
+      "71.6%"
+    ],
+    "op_hi": [
+      "51.9%",
+      "62.7%",
+      "67.5%",
+      "71.6%"
+    ],
+    "ans": 2,
+    "solution": "<b>Solution (EN):</b><br>1. Let B = 100.<br>2. A is 48% more than B, so A = 148.<br>3. Sum of A and B = 148 + 100 = 248.<br>4. C is 60% more than the sum of A and B.<br>C = 248 &times; (1 + 60/100) = 248 &times; 1.6 = 396.8.<br>5. We need to find by what percent A is less than C.<br>Difference = C - A = 396.8 - 148 = 248.8.<br>6. Percentage less = (Difference / C) &times; 100<br>= (248.8 / 396.8) &times; 100<br>= (2488 / 3968) &times; 100 &approx; 62.7%<br>7. Rounding to one decimal place, we get 62.7%.<br><br><b>Solution (HI):</b><br>1. माना B = 100.<br>2. A, B से 48% अधिक है, इसलिए A = 148.<br>3. A और B का योग = 148 + 100 = 248.<br>4. C, A और B के योग से 60% अधिक है.<br>C = 248 &times; (1 + 60/100) = 248 &times; 1.6 = 396.8.<br>5. हमें यह ज्ञात करना है कि A, C से कितने प्रतिशत कम है.<br>अंतर = C - A = 396.8 - 148 = 248.8.<br>6. प्रतिशत कमी = (अंतर / C) &times; 100<br>= (248.8 / 396.8) &times; 100<br>= (2488 / 3968) &times; 100 &approx; 62.7%<br>7. एक दशमलव स्थान तक पूर्णांकित करने पर, हमें 62.7% प्राप्त होता है."
+  },
+  {
+    "section": "Quantitative Aptitude1",
+    "topic": "Simple Interest",
+    "difficulty": "Medium",
+    "q_en": "A financier claims to be lending money at simple interest, but he includes the interest every six months for calculating the principal. If he is charging an interest of 20% p.a., the effective rate of interest becomes:",
+    "q_hi": "एक फाइनेंसर साधारण ब्याज पर पैसा उधार देने का दावा करता है, लेकिन वह मूलधन की गणना के लिए हर छह महीने में ब्याज को शामिल करता है। यदि वह 20% प्रति वर्ष का ब्याज ले रहा है, तो प्रभावी ब्याज दर बन जाती है:",
+    "op_en": [
+      "20%",
+      "21%",
+      "20.5%",
+      "19.5%"
+    ],
+    "op_hi": [
+      "20%",
+      "21%",
+      "20.5%",
+      "19.5%"
+    ],
+    "ans": 2,
+    "solution": "<b>Solution (EN):</b><br>1. Nominal rate of interest = 20% p.a.<br>2. Since interest is added every 6 months, it acts like compound interest compounded half-yearly.<br>3. Rate per half-year (R) = 20% / 2 = 10%.<br>4. Effective rate of interest for 1 year (2 half-years) can be calculated using successive percentage change: $x + y + \\\\frac{xy}{100}$.<br>5. Effective Rate = $10 + 10 + \\\\frac{10 \\\\times 10}{100} = 20 + 1 = 21\\\\%$.<br><br><b>Solution (HI):</b><br>1. नाममात्र ब्याज दर = 20% प्रति वर्ष।<br>2. चूँकि ब्याज हर 6 महीने में जोड़ा जाता है, यह अर्ध-वार्षिक रूप से संयोजित चक्रवृद्धि ब्याज की तरह कार्य करता है।<br>3. प्रति छमाही दर (R) = 20% / 2 = 10%.<br>4. 1 वर्ष (2 छमाही) के लिए प्रभावी ब्याज दर की गणना क्रमिक प्रतिशत सूत्र का उपयोग करके की जा सकती है: $x + y + \\\\frac{xy}{100}$<br>5. प्रभावी दर = $10 + 10 + \\\\frac{10 \\\\times 10}{100} = 20 + 1 = 21\\\\%$.<br><br><b>Short Trick:</b><br>For half-yearly compounding, effective annual rate = $(1 + \\\\frac{r}{200})^2 - 1$. Here $r=20$, so $(1.1)^2 - 1 = 1.21 - 1 = 21\\\\%$."
+  },
+  {
+    "section": "Quantitative Aptitude1",
+    "topic": "Mensuration 3D",
+    "difficulty": "Hard",
+    "q_en": "A cylindrical pipe of diameter 14 cm is connected to a rectangular tank of length 50 m and width 44 m. Suppose that water is flowing through the pipe at the rate of 5 km/hr. The time (in hours) required for the water level to reach 21 cm of height is _______. (Take $\\\\pi = \\\\frac{22}{7}$)",
+    "q_hi": "14 सेमी व्यास वाला एक बेलनाकार पाइप 50 मीटर लंबाई और 44 मीटर चौड़ाई वाले एक आयताकार टैंक से जुड़ा है। मान लीजिए कि पाइप से पानी 5 किमी/घंटा की दर से बह रहा है। जल स्तर को 21 सेमी की ऊंचाई तक पहुंचने के लिए आवश्यक समय (घंटों में) _______ है। ($\\\\pi = \\\\frac{22}{7}$ लें)",
+    "op_en": [
+      "5",
+      "8",
+      "7",
+      "6"
+    ],
+    "op_hi": [
+      "5",
+      "8",
+      "7",
+      "6"
+    ],
+    "ans": 4,
+    "solution": "<b>Solution (EN):</b><br>1. Dimensions of the rectangular tank: Length (L) = 50 m, Width (W) = 44 m.<br>2. Required height of water level (H) = 21 cm = 0.21 m.<br>3. Volume of water required = $L \\\\times W \\\\times H = 50 \\\\times 44 \\\\times 0.21 = 462$ m<sup>3</sup>.<br>4. Diameter of the cylindrical pipe = 14 cm, so Radius (r) = 7 cm = 0.07 m.<br>5. Speed of water flowing through the pipe = 5 km/hr = 5000 m/hr.<br>6. Volume of water flowing per hour = Cross-sectional Area $\\\\times$ Speed = $\\\\pi r^2 \\\\times$ Speed.<br>7. Volume per hour = $\\\\frac{22}{7} \\\\times 0.07 \\\\times 0.07 \\\\times 5000 = 22 \\\\times 0.01 \\\\times 0.07 \\\\times 5000 = 77$ m<sup>3</sup>/hr.<br>8. Time required = $\\\\frac{\\\\text{Total Volume Required}}{\\\\text{Volume per hour}} = \\\\frac{462}{77} = 6$ hours.<br><br><b>Solution (HI):</b><br>1. आयताकार टैंक के आयाम: लंबाई (L) = 50 मीटर, चौड़ाई (W) = 44 मीटर।<br>2. जल स्तर की आवश्यक ऊंचाई (H) = 21 सेमी = 0.21 मीटर।<br>3. आवश्यक पानी का आयतन = $L \\\\times W \\\\times H = 50 \\\\times 44 \\\\times 0.21 = 462$ मी<sup>3</sup>।<br>4. बेलनाकार पाइप का व्यास = 14 सेमी, इसलिए त्रिज्या (r) = 7 सेमी = 0.07 मीटर।<br>5. पाइप से बहने वाले पानी की गति = 5 किमी/घंटा = 5000 मीटर/घंटा।<br>6. प्रति घंटे बहने वाले पानी का आयतन = अनुप्रस्थ काट का क्षेत्रफल $\\\\times$ गति = $\\\\pi r^2 \\\\times$ गति।<br>7. प्रति घंटा आयतन = $\\\\frac{22}{7} \\\\times 0.07 \\\\times 0.07 \\\\times 5000 = 22 \\\\times 0.01 \\\\times 0.07 \\\\times 5000 = 77$ मी<sup>3</sup>/घंटा।<br>8. आवश्यक समय = $\\\\frac{\\\\text{कुल आवश्यक आयतन}}{\\\\text{प्रति घंटे आयतन}} = \\\\frac{462}{77} = 6$ घंटे।"
+  },
+  {
+    "section": "Quantitative Aptitude1",
+    "topic": "Compound Interest",
+    "difficulty": "Medium",
+    "q_en": "A sum of ₹12,000 amounts to ₹20,736 in 3 years at certain rate per cent per annum interest compounded annually. What will be the amount (in ₹) of the same sum in 4 years at the same rate on compound interest?",
+    "q_hi": "₹12,000 की राशि 3 वर्षों में एक निश्चित वार्षिक चक्रवृद्धि ब्याज दर पर ₹20,736 हो जाती है। उसी ब्याज दर पर 4 वर्षों में उसी राशि का मिश्रधन (₹ में) क्या होगा?",
+    "op_en": [
+      "23,488.20",
+      "28,843.20",
+      "28,483.20",
+      "24,883.20"
+    ],
+    "op_hi": [
+      "23,488.20",
+      "28,843.20",
+      "28,483.20",
+      "24,883.20"
+    ],
+    "ans": 4,
+    "solution": "<b>Solution (EN):</b><br>1. Given: Principal (P) = ₹12,000, Amount after 3 years (A<sub>3</sub>) = ₹20,736.<br>2. Using the compound interest formula: $A = P(1 + \\\\frac{R}{100})^T$<br>3. $20736 = 12000(1 + \\\\frac{R}{100})^3$<br>4. $(1 + \\\\frac{R}{100})^3 = \\\\frac{20736}{12000} = \\\\frac{1728}{1000} = 1.728$<br>5. Since $1.2^3 = 1.728$, we get $(1 + \\\\frac{R}{100}) = 1.2$, which means R = 20%.<br>6. We need to find the amount after 4 years (A<sub>4</sub>).<br>7. A<sub>4</sub> = $A_3 \\\\times (1 + \\\\frac{R}{100}) = 20736 \\\\times 1.2 = 24883.20$<br>8. The amount will be ₹24,883.20.<br><br><b>Solution (HI):</b><br>1. दिया गया है: मूलधन (P) = ₹12,000, 3 वर्ष बाद मिश्रधन (A<sub>3</sub>) = ₹20,736।<br>2. चक्रवृद्धि ब्याज सूत्र का उपयोग करने पर: $A = P(1 + \\\\frac{R}{100})^T$<br>3. $20736 = 12000(1 + \\\\frac{R}{100})^3$<br>4. $(1 + \\\\frac{R}{100})^3 = \\\\frac{20736}{12000} = \\\\frac{1728}{1000} = 1.728$<br>5. चूँकि $1.2^3 = 1.728$ है, हमें $(1 + \\\\frac{R}{100}) = 1.2$ प्राप्त होता है, जिसका अर्थ है R = 20%।<br>6. हमें 4 वर्ष बाद मिश्रधन (A<sub>4</sub>) ज्ञात करना है।<br>7. A<sub>4</sub> = $A_3 \\\\times (1 + \\\\frac{R}{100}) = 20736 \\\\times 1.2 = 24883.20$<br>8. मिश्रधन ₹24,883.20 होगा।<br><br><b>Short Trick:</b><br>Amount after 4 years is simply the amount after 3 years plus 1 year's interest on it. Find the multiplier: $\\\\sqrt[3]{\\\\frac{20736}{12000}} = \\\\sqrt[3]{1.728} = 1.2$. So, $A_4 = 20736 \\\\times 1.2 = 24883.2$."
+  },
+  {
+    "section": "Quantitative Aptitude1",
+    "topic": "Mensuration 2D",
+    "difficulty": "Medium",
+    "q_en": "A metallic wire is bent to form a square of area 324 m². If the same wire is bent to form a semicircle (closed figure), then the radius (in m) of the semicircle is _______. (Take $\\\\pi = \\\\frac{22}{7}$)",
+    "q_hi": "एक धातु के तार को मोड़कर 324 वर्ग मीटर क्षेत्रफल वाला एक वर्ग बनाया जाता है। यदि उसी तार को मोड़कर एक अर्धवृत्त (बंद आकृति) बनाया जाए, तो अर्धवृत्त की त्रिज्या (मीटर में) _______ है। ($\\\\pi = \\\\frac{22}{7}$ लें)",
+    "op_en": [
+      "7",
+      "14",
+      "6",
+      "12"
+    ],
+    "op_hi": [
+      "7",
+      "14",
+      "6",
+      "12"
+    ],
+    "ans": 2,
+    "solution": "<b>Solution (EN):</b><br>1. Area of the square formed by the wire = 324 m<sup>2</sup>.<br>2. Side of the square ($a$) = $\\\\sqrt{324} = 18$ m.<br>3. Total length of the metallic wire = Perimeter of the square = $4a = 4 \\\\times 18 = 72$ m.<br>4. The same wire is bent to form a closed semicircle. Let its radius be $r$.<br>5. Perimeter of a closed semicircle = $\\\\pi r + 2r = r(\\\\pi + 2)$.<br>6. Equating the lengths: $r(\\\\frac{22}{7} + 2) = 72$<br>7. $r(\\\\frac{22 + 14}{7}) = 72 \\\\Rightarrow r(\\\\frac{36}{7}) = 72$<br>8. $r = \\\\frac{72 \\\\times 7}{36} = 2 \\\\times 7 = 14$ m.<br><br><b>Solution (HI):</b><br>1. तार से बने वर्ग का क्षेत्रफल = 324 मी<sup>2</sup>।<br>2. वर्ग की भुजा ($a$) = $\\\\sqrt{324} = 18$ मीटर।<br>3. धातु के तार की कुल लंबाई = वर्ग का परिमाप = $4a = 4 \\\\times 18 = 72$ मीटर।<br>4. उसी तार को मोड़कर एक बंद अर्धवृत्त बनाया जाता है। मान लीजिए इसकी त्रिज्या $r$ है।<br>5. बंद अर्धवृत्त का परिमाप = $\\\\pi r + 2r = r(\\\\pi + 2)$।<br>6. लंबाइयों को बराबर करने पर: $r(\\\\frac{22}{7} + 2) = 72$<br>7. $r(\\\\frac{22 + 14}{7}) = 72 \\\\Rightarrow r(\\\\frac{36}{7}) = 72$<br>8. $r = \\\\frac{72 \\\\times 7}{36} = 2 \\\\times 7 = 14$ मीटर।<br><br><b>Short Trick:</b><br>Perimeter = $4 \\\\times \\\\sqrt{324} = 72$. Semicircle perimeter $r(\\\\frac{36}{7}) = 72$. Hence $r = 14$."
+  },
+  {
+    "section": "Quantitative Aptitude1",
+    "topic": "Percentages",
+    "difficulty": "Medium",
+    "q_en": "The income of A is 50% more than that of B. If A got 30% increase in his income and B got 40% increase in his income, then the percentage increase in the combined incomes of A and B is:",
+    "q_hi": "A की आय B की आय से 50% अधिक है। यदि A की आय में 30% की वृद्धि होती है और B की आय में 40% की वृद्धि होती है, तो A और B की संयुक्त आय में प्रतिशत वृद्धि कितनी है?",
+    "op_en": [
+      "34%",
+      "40%",
+      "27%",
+      "25%"
+    ],
+    "op_hi": [
+      "34%",
+      "40%",
+      "27%",
+      "25%"
+    ],
+    "ans": 1,
+    "solution": "<b>Solution (EN):</b><br>1. Let B's income be 100.<br>2. Since A's income is 50% more than B's, A's income = 150.<br>3. Combined initial income of A and B = 150 + 100 = 250.<br>4. Increase in A's income = 30% of 150 = $\\\\frac{30}{100} \\\\times 150 = 45$.<br>5. Increase in B's income = 40% of 100 = $\\\\frac{40}{100} \\\\times 100 = 40$.<br>6. Total increase in combined income = 45 + 40 = 85.<br>7. Percentage increase in combined income = $(\\\\frac{\\\\text{Total Increase}}{\\\\text{Combined Initial Income}}) \\\\times 100$<br>8. Percentage increase = $(\\\\frac{85}{250}) \\\\times 100 = \\\\frac{850}{25} = 34\\\\%$.<br><br><b>Solution (HI):</b><br>1. माना B की आय 100 है।<br>2. चूँकि A की आय B की तुलना में 50% अधिक है, A की आय = 150।<br>3. A और B की संयुक्त प्रारंभिक आय = 150 + 100 = 250।<br>4. A की आय में वृद्धि = 150 का 30% = $\\\\frac{30}{100} \\\\times 150 = 45$।<br>5. B की आय में वृद्धि = 100 का 40% = $\\\\frac{40}{100} \\\\times 100 = 40$।<br>6. संयुक्त आय में कुल वृद्धि = 45 + 40 = 85।<br>7. संयुक्त आय में प्रतिशत वृद्धि = $(\\\\frac{\\\\text{कुल वृद्धि}}{\\\\text{संयुक्त प्रारंभिक आय}}) \\\\times 100$<br>8. प्रतिशत वृद्धि = $(\\\\frac{85}{250}) \\\\times 100 = \\\\frac{850}{25} = 34\\\\%$।<br><br><b>Short Trick:</b><br>Using weighted average: A:B ratio is 150:100 = 3:2. Net % change = $\\\\frac{3 \\\\times 30\\\\% + 2 \\\\times 40\\\\%}{3+2} = \\\\frac{90 + 80}{5} = \\\\frac{170}{5} = 34\\\\%$."
+  },
+  {
+    "section": "Quantitative Aptitude1",
+    "topic": "Speed, Time and Distance",
+    "difficulty": "Hard",
+    "q_en": "Two buses start from a bus terminal with a speed of 30 km/h at an interval of 8 minutes. What is the speed (in km/h) of a man coming on a bicycle from opposite direction towards the bus terminal if he meets the buses at an interval of 6 minutes?",
+    "q_hi": "दो बसें एक बस टर्मिनल से 30 किमी/घंटा की गति से 8 मिनट के अंतराल पर चलना शुरू करती हैं। विपरीत दिशा से बस टर्मिनल की ओर साइकिल पर आ रहे एक व्यक्ति की गति (किमी/घंटा में) क्या है यदि वह 6 मिनट के अंतराल पर बसों से मिलता है?",
+    "op_en": [
+      "18",
+      "15",
+      "12",
+      "10"
+    ],
+    "op_hi": [
+      "18",
+      "15",
+      "12",
+      "10"
+    ],
+    "ans": 4,
+    "solution": "<b>Solution (EN):</b><br>1. Let the speed of the man be $v$ km/h.<br>2. The distance between the two buses is the distance covered by a bus in 8 minutes.<br>Distance = Speed &times; Time = $30 \\\\times \\\\frac{8}{60} = 4$ km.<br>3. The man and the bus are moving in opposite directions, so their relative speed = $(30 + v)$ km/h.<br>4. They meet at an interval of 6 minutes ($\\\\frac{6}{60} = \\\\frac{1}{10}$ hours).<br>5. Distance = Relative Speed &times; Time<br>$4 = (30 + v) \\\\times \\\\frac{1}{10}$<br>$40 = 30 + v \\\\Rightarrow v = 10$ km/h.<br>6. The speed of the man is 10 km/h.<br><br><b>Solution (HI):</b><br>1. माना व्यक्ति की गति $v$ किमी/घंटा है।<br>2. दोनों बसों के बीच की दूरी एक बस द्वारा 8 मिनट में तय की गई दूरी है।<br>दूरी = गति &times; समय = $30 \\\\times \\\\frac{8}{60} = 4$ किमी।<br>3. व्यक्ति और बस विपरीत दिशाओं में चल रहे हैं, इसलिए उनकी सापेक्ष गति = $(30 + v)$ किमी/घंटा।<br>4. वे 6 मिनट ($\\\\frac{6}{60} = \\\\frac{1}{10}$ घंटे) के अंतराल पर मिलते हैं।<br>5. दूरी = सापेक्ष गति &times; समय<br>$4 = (30 + v) \\\\times \\\\frac{1}{10}$<br>$40 = 30 + v \\\\Rightarrow v = 10$ किमी/घंटा।<br>6. व्यक्ति की गति 10 किमी/घंटा है।<br><br><b>Short Trick:</b><br>The distance covered by the bus in (8 - 6) = 2 minutes is covered by the man in 6 minutes. <br>Ratio of Time taken (Bus : Man) = 2 : 6 = 1 : 3.<br>Since speed is inversely proportional to time, Ratio of Speed (Bus : Man) = 3 : 1.<br>Bus speed is 30 km/h (which is $3 \\\\times 10$). So, Man's speed = $1 \\\\times 10 = 10$ km/h."
+  },
+  {
+    "section": "Quantitative Aptitude1",
+    "topic": "Ratio and Proportion",
+    "difficulty": "Easy",
+    "q_en": "If 1.2 : y :: 4.8 : 7.2, then the value of y is:",
+    "q_hi": "यदि 1.2 : y :: 4.8 : 7.2 है, तो y का मान है:",
+    "op_en": [
+      "2.1",
+      "2.5",
+      "1.6",
+      "1.8"
+    ],
+    "op_hi": [
+      "2.1",
+      "2.5",
+      "1.6",
+      "1.8"
+    ],
+    "ans": 4,
+    "solution": "<b>Solution (EN):</b><br>1. For a proportion a : b :: c : d, the product of extremes is equal to the product of means (a &times; d = b &times; c).<br>2. Therefore, $1.2 \\\\times 7.2 = y \\\\times 4.8$.<br>3. $y = \\\\frac{1.2 \\\\times 7.2}{4.8}$.<br>4. $y = \\\\frac{7.2}{4} = 1.8$.<br><br><b>Solution (HI):</b><br>1. समानुपात a : b :: c : d के लिए, बाह्य पदों का गुणनफल मध्य पदों के गुणनफल के बराबर होता है (a &times; d = b &times; c)।<br>2. इसलिए, $1.2 \\\\times 7.2 = y \\\\times 4.8$.<br>3. $y = \\\\frac{1.2 \\\\times 7.2}{4.8}$.<br>4. $y = \\\\frac{7.2}{4} = 1.8$.<br><br><b>Short Trick:</b><br>Look at the relationship: 4.8 is exactly 4 times 1.2. Hence, 7.2 must be 4 times y. So, $y = \\\\frac{7.2}{4} = 1.8$."
+  },
+  {
+    "section": "Quantitative Aptitude1",
+    "topic": "Percentages",
+    "difficulty": "Medium",
+    "q_en": "In an election. A got 80% of the total valid votes. If 18% are invalid votes out of 1,40,000 votes, then the votes polled against A is:",
+    "q_hi": "एक चुनाव में A को कुल वैध मतों का 80% प्राप्त हुआ। यदि 1,40,000 मतों में से 18% अवैध मत हैं, तो A के विरुद्ध डाले गए मतों की संख्या है:",
+    "op_en": [
+      "90000",
+      "22960",
+      "91840",
+      "25200"
+    ],
+    "op_hi": [
+      "90000",
+      "22960",
+      "91840",
+      "25200"
+    ],
+    "ans": 2,
+    "solution": "<b>Solution (EN):</b><br>1. Total number of votes = 1,40,000.<br>2. Invalid votes = 18%. So, valid votes = $100\\\\% - 18\\\\% = 82\\\\%$.<br>3. Number of valid votes = $1,40,000 \\\\times \\\\frac{82}{100} = 1,14,800$.<br>4. A got 80% of the valid votes. Therefore, the votes polled against A = $100\\\\% - 80\\\\% = 20\\\\%$ of the valid votes.<br>5. Votes against A = $1,14,800 \\\\times \\\\frac{20}{100} = 22,960$.<br><br><b>Solution (HI):</b><br>1. कुल मतों की संख्या = 1,40,000.<br>2. अवैध मत = 18%. इसलिए, वैध मत = $100\\\\% - 18\\\\% = 82\\\\%$.<br>3. वैध मतों की संख्या = $1,40,000 \\\\times \\\\frac{82}{100} = 1,14,800$.<br>4. A को वैध मतों का 80% प्राप्त हुआ। इसलिए, A के विरुद्ध डाले गए मत = वैध मतों का $100\\\\% - 80\\\\% = 20\\\\%$.<br>5. A के विरुद्ध मत = $1,14,800 \\\\times \\\\frac{20}{100} = 22,960$.<br><br><b>Short Trick:</b><br>Required votes = Total Votes &times; Valid Fraction &times; Against Fraction<br>Required votes = $140000 \\\\times 0.82 \\\\times 0.20 = 28000 \\\\times 0.82 = 22960$."
+  },
+  {
+    "section": "Quantitative Aptitude1",
+    "topic": "Number System",
+    "difficulty": "Medium",
+    "q_en": "Kunal was asked to find 5/6 times a number. He multiplies it by 6/5. As a result, he got an answer which was more than the correct answer by 561. What is the number?",
+    "q_hi": "कुणाल को एक संख्या का 5/6 गुना ज्ञात करने के लिए कहा गया था। उसने इसे 6/5 से गुणा कर दिया। परिणामस्वरूप, उसे जो उत्तर मिला वह सही उत्तर से 561 अधिक था। वह संख्या क्या है?",
+    "op_en": [
+      "1575",
+      "1530",
+      "1550",
+      "1500"
+    ],
+    "op_hi": [
+      "1575",
+      "1530",
+      "1550",
+      "1500"
+    ],
+    "ans": 2,
+    "solution": "<b>Solution (EN):</b><br>1. Let the number be $x$.<br>2. The correct answer should have been = $\\\\frac{5}{6}x$.<br>3. Kunal's incorrect answer = $\\\\frac{6}{5}x$.<br>4. The difference between the wrong answer and the correct answer is 561.<br>$\\\\frac{6}{5}x - \\\\frac{5}{6}x = 561$<br>5. Taking LCM of 5 and 6 (which is 30):<br>$\\\\frac{36x - 25x}{30} = 561$<br>$\\\\frac{11x}{30} = 561$<br>6. Solving for $x$:<br>$11x = 561 \\\\times 30$<br>$x = \\\\frac{561 \\\\times 30}{11} = 51 \\\\times 30 = 1530$.<br>7. The number is 1530.<br><br><b>Solution (HI):</b><br>1. माना वह संख्या $x$ है।<br>2. सही उत्तर $\\\\frac{5}{6}x$ होना चाहिए था।<br>3. कुणाल का गलत उत्तर = $\\\\frac{6}{5}x$ है।<br>4. गलत उत्तर और सही उत्तर के बीच का अंतर 561 है।<br>$\\\\frac{6}{5}x - \\\\frac{5}{6}x = 561$<br>5. 5 और 6 का LCM (जो 30 है) लेने पर:<br>$\\\\frac{36x - 25x}{30} = 561$<br>$\\\\frac{11x}{30} = 561$<br>6. $x$ के लिए हल करने पर:<br>$11x = 561 \\\\times 30$<br>$x = \\\\frac{561 \\\\times 30}{11} = 51 \\\\times 30 = 1530$.<br>7. वह संख्या 1530 है।"
+  },
+  {
+    "section": "Quantitative Aptitude1",
+    "topic": "Profit and Loss",
+    "difficulty": "Medium",
+    "q_en": "The marked price of an article is ₹660. A shopkeeper allows a discount of 20% and still gets a profit of 10%. If he sells it for ₹570.24, his profit percentage will be:",
+    "q_hi": "एक वस्तु का अंकित मूल्य ₹660 है। एक दुकानदार 20% की छूट देता है और फिर भी 10% का लाभ प्राप्त करता है। यदि वह इसे ₹570.24 में बेचता है, तो उसका लाभ प्रतिशत क्या होगा:",
+    "op_en": [
+      "25.4%",
+      "18.8%",
+      "17.5%",
+      "20.6%"
+    ],
+    "op_hi": [
+      "25.4%",
+      "18.8%",
+      "17.5%",
+      "20.6%"
+    ],
+    "ans": 2,
+    "solution": "<b>Solution (EN):</b><br>1. Marked Price (MP) = ₹660.<br>2. Discount = 20%.<br>Selling Price (SP<sub>1</sub>) = MP &times; $(100 - \\\\text{Discount})\\\\% = 660 \\\\times 0.80 = 528$.<br>3. At SP<sub>1</sub>, Profit = 10%.<br>Cost Price (CP) = $\\\\frac{SP_1}{(1 + \\\\frac{\\\\text{Profit}}{100})} = \\\\frac{528}{1.10} = 480$.<br>4. New Selling Price (SP<sub>2</sub>) = ₹570.24.<br>5. New Profit = $570.24 - 480 = 90.24$.<br>6. New Profit Percentage = $(\\\\frac{\\\\text{New Profit}}{CP}) \\\\times 100$<br>$= (\\\\frac{90.24}{480}) \\\\times 100 = \\\\frac{9024}{480} = 18.8\\\\%$.<br><br><b>Solution (HI):</b><br>1. अंकित मूल्य (MP) = ₹660.<br>2. छूट = 20%.<br>विक्रय मूल्य (SP<sub>1</sub>) = MP &times; $(100 - \\\\text{छूट})\\\\% = 660 \\\\times 0.80 = 528$.<br>3. SP<sub>1</sub> पर, लाभ = 10%.<br>क्रय मूल्य (CP) = $\\\\frac{SP_1}{(1 + \\\\frac{\\\\text{लाभ}}{100})} = \\\\frac{528}{1.10} = 480$.<br>4. नया विक्रय मूल्य (SP<sub>2</sub>) = ₹570.24.<br>5. नया लाभ = $570.24 - 480 = 90.24$.<br>6. नया लाभ प्रतिशत = $(\\\\frac{\\\\text{नया लाभ}}{CP}) \\\\times 100$<br>$= (\\\\frac{90.24}{480}) \\\\times 100 = \\\\frac{9024}{480} = 18.8\\\\%$."
+  },
+  {
+    "section": "Quantitative Aptitude1",
+    "topic": "Mixture and Alligation",
+    "difficulty": "Hard",
+    "q_en": "Vessel A contains a mixture of milk and water in the ratio 4:1. Vessel B contains a mixture of milk and water in the ratio 3:2. 10 liters of the mixture from Vessel A and 20 liters of the mixture from Vessel B are poured into an empty vessel C. Then, 4 liters of pure milk and 'x' liters of pure water are added to vessel C. If the final ratio of milk to water in vessel C is 1:1, what is the value of 'x'?",
+    "q_hi": "बर्तन A में दूध और पानी का मिश्रण 4:1 के अनुपात में है। बर्तन B में दूध और पानी का मिश्रण 3:2 के अनुपात में है। बर्तन A से 10 लीटर मिश्रण और बर्तन B से 20 लीटर मिश्रण एक खाली बर्तन C में डाला जाता है। फिर, बर्तन C में 4 लीटर शुद्ध दूध और 'x' लीटर शुद्ध पानी मिलाया जाता है। यदि बर्तन C में दूध और पानी का अंतिम अनुपात 1:1 है, तो 'x' का मान क्या है?",
+    "op_en": [
+      "10",
+      "12",
+      "14",
+      "16"
+    ],
+    "op_hi": [
+      "10",
+      "12",
+      "14",
+      "16"
+    ],
+    "ans": 3,
+    "solution": "<b>Solution (EN):</b><br>1. In 10L of Vessel A (ratio 4:1): Milk = 10 &times; (4/5) = 8L, Water = 10 &times; (1/5) = 2L.<br>2. In 20L of Vessel B (ratio 3:2): Milk = 20 &times; (3/5) = 12L, Water = 20 &times; (2/5) = 8L.<br>3. Initial total in Vessel C: Milk = 8 + 12 = 20L. Water = 2 + 8 = 10L.<br>4. After adding 4L milk and x L water: Total Milk = 20 + 4 = 24L. Total Water = 10 + x L.<br>5. Since the final ratio is 1:1, Milk = Water &rarr; 24 = 10 + x.<br>6. x = 24 - 10 = 14.<br><br><b>Solution (HI):</b><br>1. बर्तन A के 10 लीटर में (अनुपात 4:1): दूध = 10 &times; (4/5) = 8 लीटर, पानी = 10 &times; (1/5) = 2 लीटर।<br>2. बर्तन B के 20 लीटर में (अनुपात 3:2): दूध = 20 &times; (3/5) = 12 लीटर, पानी = 20 &times; (2/5) = 8 लीटर।<br>3. बर्तन C में प्रारंभिक कुल: दूध = 8 + 12 = 20 लीटर। पानी = 2 + 8 = 10 लीटर।<br>4. 4 लीटर दूध और x लीटर पानी मिलाने के बाद: कुल दूध = 20 + 4 = 24 लीटर। कुल पानी = 10 + x लीटर।<br>5. चूंकि अंतिम अनुपात 1:1 है, दूध = पानी &rarr; 24 = 10 + x.<br>6. x = 24 - 10 = 14.<br><br><b>Short Trick:</b><br>Total Milk from A & B = 8 + 12 = 20L. Total Water from A & B = 2 + 8 = 10L. Add 4L pure milk &rarr; Total milk becomes 24L. To make the ratio 1:1, water must also be 24L. We already have 10L water, so we need 14L more. x = 14."
+  },
+  {
+    "section": "Quantitative Aptitude1",
+    "topic": "Time and Work",
+    "difficulty": "Hard",
+    "q_en": "Workers A, B, and C can complete a piece of work in 10, 12, and 15 days respectively. They started the work together, but A left 5 days before the completion of the work, and B left 3 days before the completion. In how many days was the total work completed?",
+    "q_hi": "श्रमिक A, B और C किसी कार्य को क्रमशः 10, 12 और 15 दिनों में पूरा कर सकते हैं। उन्होंने एक साथ काम शुरू किया, लेकिन A ने काम पूरा होने से 5 दिन पहले और B ने काम पूरा होने से 3 दिन पहले काम छोड़ दिया। कुल कार्य कितने दिनों में पूरा हुआ?",
+    "op_en": [
+      "6 days",
+      "7 days",
+      "8 days",
+      "9 days"
+    ],
+    "op_hi": [
+      "6 दिन",
+      "7 दिन",
+      "8 दिन",
+      "9 दिन"
+    ],
+    "ans": 2,
+    "solution": "<b>Solution (EN):</b><br>1. Let Total Work = LCM of 10, 12, 15 = 60 units.<br>2. Efficiency of A = 60/10 = 6 units/day. B = 60/12 = 5 units/day. C = 60/15 = 4 units/day.<br>3. Let the total time taken be T days.<br>4. A worked for (T - 5) days, B worked for (T - 3) days, and C worked for T days.<br>5. Work done: 6(T - 5) + 5(T - 3) + 4T = 60.<br>6. 6T - 30 + 5T - 15 + 4T = 60.<br>7. 15T - 45 = 60 &rarr; 15T = 105 &rarr; T = 7 days.<br><br><b>Solution (HI):</b><br>1. माना कुल कार्य = 10, 12, 15 का LCM = 60 इकाइयाँ।<br>2. A की दक्षता = 60/10 = 6 इकाई/दिन। B = 60/12 = 5 इकाई/दिन। C = 60/15 = 4 इकाई/दिन।<br>3. माना लिया गया कुल समय T दिन है।<br>4. A ने (T - 5) दिनों तक काम किया, B ने (T - 3) दिनों तक काम किया, और C ने T दिनों तक काम किया।<br>5. किया गया कार्य: 6(T - 5) + 5(T - 3) + 4T = 60.<br>6. 6T - 30 + 5T - 15 + 4T = 60.<br>7. 15T - 45 = 60 &rarr; 15T = 105 &rarr; T = 7 दिन।<br><br><b>Short Trick:</b><br>If a person leaves 'n' days before completion, add the work they would have done in those 'n' days to the total work. A left 5 days early: add 5 &times; 6 = 30 units. B left 3 days early: add 3 &times; 5 = 15 units. Imaginary Total Work = 60 + 30 + 15 = 105 units. Total combined efficiency = 6 + 5 + 4 = 15. Time = 105 / 15 = 7 days."
+  },
+  {
+    "section": "Quantitative Aptitude1",
+    "topic": "Profit and Loss",
+    "difficulty": "Hard",
+    "q_en": "A shopkeeper marks up his goods 60% above the cost price. He allows two successive discounts of 15% and 20% on the marked price. If he still makes a profit of $44 on the transaction, what is the marked price of the article?",
+    "q_hi": "एक दुकानदार अपनी वस्तुओं का मूल्य क्रय मूल्य से 60% अधिक अंकित करता है। वह अंकित मूल्य पर 15% और 20% की दो क्रमिक छूट देता है। यदि वह अभी भी लेन-देन पर $44 का लाभ कमाता है, तो वस्तु का अंकित मूल्य क्या है?",
+    "op_en": [
+      "$500",
+      "$680",
+      "$800",
+      "$850"
+    ],
+    "op_hi": [
+      "$500",
+      "$680",
+      "$800",
+      "$850"
+    ],
+    "ans": 3,
+    "solution": "<b>Solution (EN):</b><br>1. Let Cost Price (CP) = 100x.<br>2. Marked Price (MP) = 160% of CP = 160x.<br>3. Selling Price (SP) after 15% and 20% discounts: SP = 160x &times; (1 - 0.15) &times; (1 - 0.20) = 160x &times; 0.85 &times; 0.80.<br>4. SP = 160x &times; 0.68 = 108.8x.<br>5. Profit = SP - CP = 108.8x - 100x = 8.8x.<br>6. Given Profit = $44. So, 8.8x = 44 &rarr; x = 44 / 8.8 = 5.<br>7. Marked Price = 160x = 160 &times; 5 = $800.<br><br><b>Solution (HI):</b><br>1. माना क्रय मूल्य (CP) = 100x.<br>2. अंकित मूल्य (MP) = CP का 160% = 160x.<br>3. 15% और 20% की दो क्रमिक छूट के बाद विक्रय मूल्य (SP): SP = 160x &times; 0.85 &times; 0.80.<br>4. SP = 160x &times; 0.68 = 108.8x.<br>5. लाभ = SP - CP = 108.8x - 100x = 8.8x.<br>6. दिया गया लाभ = $44. इसलिए, 8.8x = 44 &rarr; x = 44 / 8.8 = 5.<br>7. अंकित मूल्य = 160x = 160 &times; 5 = $800.<br><br><b>Short Trick:</b><br>Equivalent discount of 15% and 20% is 15 + 20 - (15 &times; 20)/100 = 32%. So SP is 68% of MP. Let CP = 100, then MP = 160. SP = 160 &times; 0.68 = 108.8. Profit is 8.8% of CP. If 8.8% = $44 &rarr; 100% (CP) = $500. MP = 160% of 500 = $800."
+  },
+  {
+    "section": "Quantitative Aptitude1",
+    "topic": "Speed Time and Distance",
+    "difficulty": "Hard",
+    "q_en": "Train A and Train B are moving in opposite directions at speeds of 60 km/h and 48 km/h, respectively. Train A completely crosses Train B in 18 seconds. If the length of Train A is 25% more than the length of Train B, how long will Train A take to completely cross a stationary platform of length 350 meters?",
+    "q_hi": "ट्रेन A और ट्रेन B विपरीत दिशाओं में क्रमशः 60 किमी/घंटा और 48 किमी/घंटा की गति से चल रही हैं। ट्रेन A, ट्रेन B को 18 सेकंड में पूरी तरह से पार कर जाती है। यदि ट्रेन A की लंबाई ट्रेन B की लंबाई से 25% अधिक है, तो ट्रेन A को 350 मीटर लंबे एक स्थिर प्लेटफॉर्म को पूरी तरह से पार करने में कितना समय लगेगा?",
+    "op_en": [
+      "33 seconds",
+      "36 seconds",
+      "39 seconds",
+      "42 seconds"
+    ],
+    "op_hi": [
+      "33 सेकंड",
+      "36 सेकंड",
+      "39 सेकंड",
+      "42 सेकंड"
+    ],
+    "ans": 3,
+    "solution": "<b>Solution (EN):</b><br>1. Relative speed in opposite directions = 60 + 48 = 108 km/h.<br>2. Convert to m/s: 108 &times; 5/18 = 30 m/s.<br>3. Total distance covered when crossing each other = Sum of lengths = L<sub>A</sub> + L<sub>B</sub>.<br>4. L<sub>A</sub> + L<sub>B</sub> = Speed &times; Time = 30 &times; 18 = 540 meters.<br>5. L<sub>A</sub> is 25% more than L<sub>B</sub>. So L<sub>A</sub> / L<sub>B</sub> = 125/100 = 5/4. Let L<sub>A</sub> = 5x and L<sub>B</sub> = 4x.<br>6. 5x + 4x = 9x = 540 &rarr; x = 60. Length of Train A = 5 &times; 60 = 300 meters.<br>7. Speed of Train A = 60 km/h = 60 &times; 5/18 = 50/3 m/s.<br>8. Time to cross platform (length 350m) = Total Distance / Speed of A = (300 + 350) / (50/3).<br>9. Time = 650 &times; 3 / 50 = 13 &times; 3 = 39 seconds.<br><br><b>Solution (HI):</b><br>1. विपरीत दिशाओं में सापेक्ष गति = 60 + 48 = 108 किमी/घंटा।<br>2. मी/से में बदलें: 108 &times; 5/18 = 30 मी/से।<br>3. एक-दूसरे को पार करते समय तय की गई कुल दूरी = लंबाइयों का योग = L<sub>A</sub> + L<sub>B</sub>.<br>4. L<sub>A</sub> + L<sub>B</sub> = गति &times; समय = 30 &times; 18 = 540 मीटर।<br>5. L<sub>A</sub>, L<sub>B</sub> से 25% अधिक है। इसलिए L<sub>A</sub> / L<sub>B</sub> = 125/100 = 5/4. माना L<sub>A</sub> = 5x और L<sub>B</sub> = 4x.<br>6. 5x + 4x = 9x = 540 &rarr; x = 60. ट्रेन A की लंबाई = 5 &times; 60 = 300 मीटर।<br>7. ट्रेन A की गति = 60 किमी/घंटा = 60 &times; 5/18 = 50/3 मी/से।<br>8. प्लेटफॉर्म (लंबाई 350 मीटर) को पार करने का समय = कुल दूरी / A की गति = (300 + 350) / (50/3).<br>9. समय = 650 &times; 3 / 50 = 13 &times; 3 = 39 सेकंड।<br><br><b>Short Trick:</b><br>Relative speed = 108 km/h = 30 m/s. Total length = 30 &times; 18 = 540m. Ratio A:B is 5:4, so 9 parts = 540 &rarr; 1 part = 60 &rarr; A = 300m. Speed of A = 60 km/h = 50/3 m/s. Distance to cross platform = 300 + 350 = 650m. Time = 650 &divide; (50/3) = 13 &times; 3 = 39s."
+  }
+]
