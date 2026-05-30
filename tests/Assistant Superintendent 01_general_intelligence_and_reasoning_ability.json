@@ -1,0 +1,422 @@
+[
+  {
+    "ans": "4",
+    "level": "Moderate",
+    "op_en": [
+      "12",
+      "10",
+      "8",
+      "14"
+    ],
+    "op_hi": [
+      "12",
+      "10",
+      "8",
+      "14"
+    ],
+    "q_en": "5 is related to 35 following a certain logic. Following the same logic, 11 is related to 77. To which of the following is 2 related, following the same logic?<br>(NOTE : Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13 – Operations on 13 such as adding /subtracting /multiplying etc. to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed)",
+    "q_hi": "5 एक निश्चित तर्क के अनुसार 35 से संबंधित है। उसी तर्क के अनुसार, 11, 77 से संबंधित है। निम्नलिखित में से 2 उसी तर्क के अनुसार किससे संबंधित है?<br>(नोट: संख्याओं को उनके घटक अंकों में तोड़े बिना, पूर्ण संख्याओं पर संचालन किया जाना चाहिए। उदाहरण के लिए 13 - 13 पर जोड़ने/घटाने/गुणा करने आदि जैसे संचालन किए जा सकते हैं। 13 को 1 और 3 में तोड़ना और फिर 1 और 3 पर गणितीय संचालन करने की अनुमति नहीं है)",
+    "section": "General intelligence and Reasoning Ability",
+    "solution": "The logic is multiplying the number by 7. 5 × 7 = 35. 11 × 7 = 77. Similarly, 2 × 7 = 14.<br><br>तर्क संख्या को 7 से गुणा करना है। 5 × 7 = 35; 11 × 7 = 77; इसी प्रकार, 2 × 7 = 14.",
+    "topic": "Number Analogy"
+  },
+  {
+    "ans": "3",
+    "level": "Moderate",
+    "op_en": [
+      "15",
+      "13",
+      "17",
+      "19"
+    ],
+    "op_hi": [
+      "15",
+      "13",
+      "17",
+      "19"
+    ],
+    "q_en": "If ‘A’ stands for ‘÷’, ‘B’ stands for ‘×’, ‘C’ stands for ‘+’ and ‘D’ stands for ‘−‘, what will come in place of the question mark ‘?’ in the following equation?<br><br>35   A   7   B   3  C   2= ?",
+    "q_hi": "यदि ‘A’ का अर्थ ‘÷’ है, ‘B’ का अर्थ ‘×’ है, ‘C’ का अर्थ ‘+’ है और ‘D’ का अर्थ ‘−‘ है, तो निम्नलिखित समीकरण में प्रश्न चिह्न ‘?’ के स्थान पर क्या आएगा?<br><br>35   A   7   B   3  C   2= ?",
+    "section": "General intelligence and Reasoning Ability",
+    "solution": "Given equation: 35 A 7 B 3 C 2. Substituting the signs: 35 ÷ 7 × 3 + 2. By BODMAS rule: = 5 × 3 + 2 = 15 + 2 = 17.<br><br>दिया गया समीकरण: 35 A 7 B 3 C 2. चिह्नों को प्रतिस्थापित करने पर: 35 ÷ 7 × 3 + 2. BODMAS नियम के अनुसार: = 5 × 3 + 2 = 15 + 2 = 17.",
+    "topic": "Mathematical Operations"
+  },
+  {
+    "ans": "3",
+    "level": "Moderate",
+    "op_en": [
+      "CJBB",
+      "CKAB",
+      "CJAA",
+      "DKBA"
+    ],
+    "op_hi": [
+      "CJBB",
+      "CKAB",
+      "CJAA",
+      "DKBA"
+    ],
+    "q_en": "What should come in place of ? in the given series based on the English alphabetical order? <br>DKUG        IPQK         NUMO         SZIS        XEEW    ?",
+    "q_hi": "अंग्रेजी वर्णमाला के क्रम पर आधारित दी गई श्रृंखला में ? के स्थान पर क्या आना चाहिए?<br>DKUG        IPQK         NUMO         SZIS        XEEW    ?",
+    "section": "General intelligence and Reasoning Ability",
+    "solution": "The pattern is: 1st letter: +5, 2nd letter: +5, 3rd letter: -4, 4th letter: +4. Next term = CJAA.<br><br>पैटर्न है: पहला अक्षर: +5, दूसरा अक्षर: +5, तीसरा अक्षर: -4, चौथा अक्षर: +4. अगला पद = CJAA.",
+    "topic": "Letter Series"
+  },
+  {
+    "ans": "3",
+    "level": "Moderate",
+    "op_en": [
+      "-1",
+      "19",
+      "9",
+      "29"
+    ],
+    "op_hi": [
+      "-1",
+      "19",
+      "9",
+      "29"
+    ],
+    "q_en": "What will come in the place of ‘?’ in the following equation, if ‘+’ and ‘÷‘ are interchanged and ‘x’ and ‘–’ are interchanged?<br>20 ÷ 15 x 2 + 1 – 13 = ?<span style=\"color: white;\">252</span>",
+    "q_hi": "यदि ‘+’ और ‘÷‘ को आपस में बदल दिया जाए तथा ‘x’ और ‘–’ को आपस में बदल दिया जाए, तो निम्नलिखित समीकरण में ‘?’ के स्थान पर क्या आएगा?<br>20 ÷ 15 x 2 + 1 – 13 = ?<span style=\"color: white;\">252</span>",
+    "section": "General intelligence and Reasoning Ability",
+    "solution": "After interchanging the signs: 20 + 15 - 2 ÷ 1 × 13. Applying BODMAS: 20 + 15 - 2 × 13 = 35 - 26 = 9.<br><br>चिह्नों को आपस में बदलने के बाद: 20 + 15 - 2 ÷ 1 × 13. BODMAS लागू करने पर: 20 + 15 - 2 × 13 = 35 - 26 = 9.",
+    "topic": "Mathematical Operations"
+  },
+  {
+    "ans": "1",
+    "level": "Moderate",
+    "op_en": [
+      "1",
+      "7",
+      "9",
+      "4"
+    ],
+    "op_hi": [
+      "1",
+      "7",
+      "9",
+      "4"
+    ],
+    "q_en": "In a certain code language, ‘FAIR’ is coded as ‘5479’ and ‘FIRE’ is coded as ‘4591’. What is the code for ‘E’ in the given code language?",
+    "q_hi": "एक निश्चित कूट भाषा में, ‘FAIR’ को ‘5479’ और ‘FIRE’ को ‘4591’ के रूप में कूटबद्ध किया जाता है। दी गई कूट भाषा में ‘E’ के लिए कूट क्या है?",
+    "section": "General intelligence and Reasoning Ability",
+    "solution": "FAIR = 5479, FIRE = 4591. Common letters are F, I, R and common digits are 4, 5, 9. The remaining letter in FIRE is E and the remaining digit is 1. So, E = 1.<br><br>FAIR = 5479, FIRE = 4591. सामान्य अक्षर F, I, R हैं और सामान्य अंक 4, 5, 9 हैं। FIRE में शेष अक्षर E है और शेष अंक 1 है। इसलिए, E = 1.",
+    "topic": "Coding-Decoding"
+  },
+  {
+    "ans": "4",
+    "level": "Moderate",
+    "op_en": [
+      "One",
+      "Three",
+      "None",
+      "Two"
+    ],
+    "op_hi": [
+      "एक",
+      "तीन",
+      "कोई नहीं",
+      "दो"
+    ],
+    "q_en": "Refer to the following series and answer the question (All numbers are single-digit numbers only). Counting to be done from left to right only.<br>(Left) 7  3  6   2  9  8    5   2   1   3   6  8  3   9   5   2   7  1  3   9   8   3  6  5  8  3  (Right)<br>How many such even digits are there each of which is immediately preceded by a perfect square and immediately followed by an odd digit? (NOTE: 1 is also a perfect square)",
+    "q_hi": "निम्नलिखित श्रृंखला का संदर्भ लें और प्रश्न का उत्तर दें (सभी संख्याएं केवल एक अंक की संख्याएं हैं)। गिनती केवल बाएं से दाएं की जानी है।<br>(बाएं) 7  3  6   2  9  8    5   2   1   3   6  8  3   9   5   2   7  1  3   9   8   3  6  5  8  3  (दाएं)<br>ऐसे कितने सम अंक हैं जिनमें से प्रत्येक के ठीक पहले एक पूर्ण वर्ग है और ठीक बाद में एक विषम अंक है? (नोट: 1 भी एक पूर्ण वर्ग है)",
+    "section": "General intelligence and Reasoning Ability",
+    "solution": "Perfect squares are 1, 4, 9. We need the sequence: [Perfect Square] [Even] [Odd]. In the given series, there are two such instances: '9 8 5' and '9 8 3'.<br><br>पूर्ण वर्ग 1, 4, 9 हैं। हमें यह क्रम चाहिए: [पूर्ण वर्ग] [सम] [विषम]। दी गई श्रृंखला में, ऐसे दो उदाहरण हैं: '9 8 5' और '9 8 3'।",
+    "topic": "Number Series"
+  },
+  {
+    "ans": "4",
+    "level": "Moderate",
+    "op_en": [
+      "SX-CH-WS",
+      "SX-CH-KL",
+      "SX-CH-HN",
+      "SX-CH-MR"
+    ],
+    "op_hi": [
+      "SX-CH-WS",
+      "SX-CH-KL",
+      "SX-CH-HN",
+      "SX-CH-MR"
+    ],
+    "q_en": "Select the triad that follows the same pattern as that followed by the two triads given below. Both triads follow the same pattern.<br><br>GL-QV-AF<br>MR-WB-GL",
+    "q_hi": "उस त्रिक का चयन करें जो नीचे दिए गए दो त्रिकों द्वारा अनुसरण किए जाने वाले समान पैटर्न का अनुसरण करता है। दोनों त्रिक समान पैटर्न का अनुसरण करते हैं।<br><br>GL-QV-AF<br>MR-WB-GL",
+    "section": "General intelligence and Reasoning Ability",
+    "solution": "The pattern is a continuous addition of +5 between the letters. G(+5) = L, L(+5) = Q, Q(+5) = V, V(+5) = A, A(+5) = F. Checking the options, SX-CH-MR follows this exact pattern: S(+5)=X, X(+5)=C, C(+5)=H, H(+5)=M, M(+5)=R.<br><br>पैटर्न अक्षरों के बीच +5 का निरंतर जोड़ है। G(+5) = L, L(+5) = Q, Q(+5) = V, V(+5) = A, A(+5) = F. विकल्पों की जाँच करने पर, SX-CH-MR इसी पैटर्न का अनुसरण करता है।",
+    "topic": "Letter Analogy"
+  },
+  {
+    "ans": "2",
+    "level": "Moderate",
+    "op_en": [
+      "Floor number 4",
+      "Floor number 2",
+      "Floor number 1",
+      "Floor number 5"
+    ],
+    "op_hi": [
+      "मंजिल संख्या 4",
+      "मंजिल संख्या 2",
+      "मंजिल संख्या 1",
+      "मंजिल संख्या 5"
+    ],
+    "q_en": "H, I, J, K, L, M and N live on seven different floors of the same building. The lowermost floor in the building is numbered 1, the floor above it, number 2 and so on, till the topmost floor is numbered 7.<br>H lives on floor number 3. Only three persons live between H and N. Only L lives between M and I, but I does not live above M. J lives immediately below K.<br>On which floor number does K live?",
+    "q_hi": "H, I, J, K, L, M और N एक ही इमारत की सात अलग-अलग मंजिलों पर रहते हैं। इमारत में सबसे निचली मंजिल की संख्या 1 है, उसके ऊपर की मंजिल की संख्या 2 है और इसी तरह सबसे ऊपरी मंजिल की संख्या 7 है।<br>H मंजिल संख्या 3 पर रहता है। H और N के बीच केवल तीन व्यक्ति रहते हैं। M और I के बीच केवल L रहता है, लेकिन I, M के ऊपर नहीं रहता है। J, K के ठीक नीचे रहता है।<br>K किस मंजिल संख्या पर रहता है?",
+    "section": "General intelligence and Reasoning Ability",
+    "solution": "H is on floor 3. 3 persons live between H and N, so N is on floor 7. L is between M and I, and M is above I. This requires 3 consecutive floors: 6, 5, 4 (M=6, L=5, I=4). J lives immediately below K, so K is on floor 2 and J is on floor 1. Thus, K lives on floor 2.<br><br>H मंजिल 3 पर है। H और N के बीच 3 व्यक्ति रहते हैं, इसलिए N मंजिल 7 पर है। L, M और I के बीच है, और M, I से ऊपर है। इसके लिए 3 लगातार मंजिलों की आवश्यकता है: 6, 5, 4 (M=6, L=5, I=4)। J, K के ठीक नीचे रहता है, इसलिए K मंजिल 2 पर और J मंजिल 1 पर है। इस प्रकार, K मंजिल 2 पर रहता है।",
+    "topic": "Floor Puzzle"
+  },
+  {
+    "ans": "2",
+    "level": "Moderate",
+    "op_en": [
+      "one",
+      "none",
+      "two",
+      "three"
+    ],
+    "op_hi": [
+      "एक",
+      "कोई नहीं",
+      "दो",
+      "तीन"
+    ],
+    "q_en": "Refer to the following series and answer the question (all numbers are single digit numbers only).<br>(Left) <span style=\"font-size: 11.0pt;\"><span style=\"line-height: 107%;\"><span style=\"font-family: &amp;amp;amp;quot;Calibri&amp;amp;amp;quot;,&amp;amp;amp;quot;sans-serif&amp;amp;amp;quot;;\"><span style=\"letter-spacing: 5.0pt;\">735235352252525654654998552</span></span></span></span> (Right)<br>How many such even digits are there each of which is immediately preceded by a perfect square and immediately followed by an even digit? (NOTE: 1 is also a perfect square)<br> <span style=\"color: white;\">5465</span>",
+    "q_hi": "निम्नलिखित श्रृंखला का संदर्भ लें और प्रश्न का उत्तर दें (सभी संख्याएं केवल एक अंक की संख्याएं हैं)।<br>(बाएं) <span style=\"font-size: 11.0pt;\"><span style=\"line-height: 107%;\"><span style=\"font-family: &amp;amp;amp;quot;Calibri&amp;amp;amp;quot;,&amp;amp;amp;quot;sans-serif&amp;amp;amp;quot;;\"><span style=\"letter-spacing: 5.0pt;\">735235352252525654654998552</span></span></span></span> (दाएं)<br>ऐसे कितने सम अंक हैं जिनमें से प्रत्येक के ठीक पहले एक पूर्ण वर्ग है और ठीक बाद में एक सम अंक है? (नोट: 1 भी एक पूर्ण वर्ग है)<br> <span style=\"color: white;\">5465</span>",
+    "section": "General intelligence and Reasoning Ability",
+    "solution": "The perfect squares are 1, 4, 9. We need the pattern: [Perfect Square] [Even] [Even]. Looking at the sequence, none of the perfect squares are immediately followed by two even digits. Hence, the answer is None.<br><br>पूर्ण वर्ग 1, 4, 9 हैं। हमें यह क्रम चाहिए: [पूर्ण वर्ग] [सम अंक] [सम अंक]। अनुक्रम को देखने पर, किसी भी पूर्ण वर्ग के ठीक बाद दो सम अंक नहीं हैं। अतः उत्तर कोई नहीं है।",
+    "topic": "Number Series"
+  },
+  {
+    "ans": "1",
+    "level": "Moderate",
+    "op_en": [
+      "47",
+      "51",
+      "43",
+      "48"
+    ],
+    "op_hi": [
+      "47",
+      "51",
+      "43",
+      "48"
+    ],
+    "q_en": "What should come in place of ‘?’ in the given series?<br><br>19        21        24        29        36        ?",
+    "q_hi": "दी गई श्रृंखला में ‘?’ के स्थान पर क्या आना चाहिए?<br><br>19        21        24        29        36        ?",
+    "section": "General intelligence and Reasoning Ability",
+    "solution": "The pattern is the addition of consecutive prime numbers. 19 + 2 = 21, 21 + 3 = 24, 24 + 5 = 29, 29 + 7 = 36. The next prime number is 11. So, 36 + 11 = 47.<br><br>पैटर्न लगातार अभाज्य संख्याओं का योग है। 19 + 2 = 21, 21 + 3 = 24, 24 + 5 = 29, 29 + 7 = 36. अगली अभाज्य संख्या 11 है। इसलिए, 36 + 11 = 47.",
+    "topic": "Number Series"
+  },
+  {
+    "ans": "2",
+    "level": "Moderate",
+    "op_en": [
+      "Q",
+      "M",
+      "S",
+      "N"
+    ],
+    "op_hi": [
+      "Q",
+      "M",
+      "S",
+      "N"
+    ],
+    "q_en": "Seven people M, N, O, P, Q, R and S are sitting in a row, facing north. Only one person sits to the left of O. R sits third to the right of O. Only Q sits between R and N, but N is not an immediate neighbour of O. S sits third to the right of M. <br>Who sits at the extreme left end of the line?",
+    "q_hi": "सात व्यक्ति M, N, O, P, Q, R और S उत्तर की ओर मुख करके एक पंक्ति में बैठे हैं। O के बाईं ओर केवल एक व्यक्ति बैठा है। R, O के दाईं ओर तीसरे स्थान पर बैठा है। R और N के बीच केवल Q बैठा है, लेकिन N, O का निकटतम पड़ोसी नहीं है। S, M के दाईं ओर तीसरे स्थान पर बैठा है। <br>पंक्ति के अंतिम बाएं छोर पर कौन बैठा है?",
+    "section": "General intelligence and Reasoning Ability",
+    "solution": "Arrangement based on conditions: M (1st), O (2nd), P (3rd), S (4th), R (5th), Q (6th), N (7th). M sits at the extreme left end.<br><br>शर्तों के आधार पर व्यवस्था: M (पहला), O (दूसरा), P (तीसरा), S (चौथा), R (पाँचवाँ), Q (छठा), N (सातवाँ)। M सबसे बाएँ छोर पर बैठा है।",
+    "topic": "Seating Arrangement"
+  },
+  {
+    "ans": "4",
+    "level": "Moderate",
+    "op_en": [
+      "(7, 245, 4)",
+      "(9, 334, 4)",
+      "(4, 94, 6)",
+      "(3, 63, 7)"
+    ],
+    "op_hi": [
+      "(7, 245, 4)",
+      "(9, 334, 4)",
+      "(4, 94, 6)",
+      "(3, 63, 7)"
+    ],
+    "q_en": "Select the set in which the numbers are related in the same way as are the numbers of the following sets.<br>(NOTE: Operations should be performed on the whole numbers, without breaking down the numbers into their constituent digits. E.g. 13 – Operations on 13 such as adding to/subtracting from/multiplying with 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed.)<br><br>(6, 72,  2)<br>(4, 48, 3)",
+    "q_hi": "उस सेट का चयन करें जिसमें संख्याएँ उसी तरह संबंधित हैं जैसे निम्नलिखित सेटों की संख्याएँ हैं।<br>(नोट: संख्याओं को उनके घटक अंकों में तोड़े बिना, पूर्ण संख्याओं पर संचालन किया जाना चाहिए। उदाहरण के लिए 13 - 13 पर जोड़ने/घटाने/गुणा करने आदि जैसे संचालन किए जा सकते हैं। 13 को 1 और 3 में तोड़ना और फिर 1 और 3 पर गणितीय संचालन करने की अनुमति नहीं है।)<br><br>(6, 72,  2)<br>(4, 48, 3)",
+    "section": "General intelligence and Reasoning Ability",
+    "solution": "The logic follows the pattern: (1st number)^2 × 3rd number = 2nd number. For (6, 72, 2): 6² × 2 = 72. Checking option (4): 3² × 7 = 9 × 7 = 63.<br><br>तर्क इस पैटर्न का अनुसरण करता है: (पहली संख्या)² × तीसरी संख्या = दूसरी संख्या। (6, 72, 2) के लिए: 6² × 2 = 72. विकल्प (4) की जाँच करने पर: 3² × 7 = 9 × 7 = 63.",
+    "topic": "Set Analogy"
+  },
+  {
+    "ans": "4",
+    "level": "Moderate",
+    "op_en": [
+      "<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAG4AAAAdCAYAAABL7VmUAAACwElEQVR42u1YgY3kIAxMCZRACSmBEtLBpgO2BDpICSnhSqCElJASUsJ+/uVIc1wCtpPs3ktYspRdgTEeMzY0TZUqVapUqVLlLmlXHVcdaih+N0h/1dBvu+qy6mtVV8MjD+aL1DDnRBrvGWM7GI86rzrRdxD6/KB5UTBnZiQIJlKviF+viP+8ExuMUaT4mNxkzsJWAHSAsQsBNUFwtv/tLwFuVNjFPcYTwC30jZqC+CNOvWDhwBw7wKLPZFG349SngUOfJLS9QOBfiiTk+DUd7RdPkb0gcx1spi3Q0aygyzuAiwqbDuYMgvKhofBDlosMukRADKMG7oGR1jUJ9d4FHJ62VmATwbJK9piZp3w6GtdnimSqudbdZMBtCTCvSJo7gdvWHwX2DO0R9zkpqJYDnMlRsUn4es4US3dxUL0wcGeA62jzm3ZMFuH40CsSgANcAB+zXZXP0Ml8MQgNBC++Abhc6/0U2IuQCGktmi8AzsDjxGtnLTY4A7OJCIpmY1t3egNwE81DXZhlgFMOpLRfSqhtnx3XUHtAo+YG4N554lzGB+7lO2RYZaPLr5MJhfe7wKHxcccpJwjUQ+g4zhk/CByySmTSpCu07vakXwbwKLLRHk9Lnri4tVBDw3cDx/HdlRoFSlouXXL8YtMvtrV7be9Vd5OUht1/ANzAqIW9oGZLuspiYmNb6xXUNwhO3aAA4S7gPMMuN8m4T2ASCi8CZ4EOouJSacChmDmpQflicQdwFsb4EzSZ6xW0fokY6av5/oIvlTbpjAYKeEeAYRv8LHScj0SxYD921GYCFJKxgexhd2cUT3naWn/kl0/ucOwk7YV3m6NsiYVLb8fcmESd0s6YoTZNLebQINcvyavOvywIQho7yr4ts0f67phzPfjBVSuw4+EZrMQgoZG9/vc0xyn2x/WrSpUqVapUqVLl8/IH8fYJ1S6MZjMAAAAASUVORK5CYII=\" style=\"height: auto; max-width: 100%;\">",
+      "<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAG4AAAAdCAYAAABL7VmUAAAC2UlEQVR42u1ajY3rIAxmhIyQETICI3SDskE6AhtkBEboCIyQERghI+SlEuhcDshn0ib3JCxZul5jMP78SypEo0aNGjVq1KiREHpjs/GtmeL/ohdg68Zu497/r9t48J+7qxR7baw2tl65NcOuYu2RyPegjAJlZIVe1svcK6LuJTdnbGS9PujZLAObxcu8rd8nFHEJrgXOknUnhlzY0/wR4HpiwNX/HRx9YZyxZzryPQe0JYeXHzRQ8JaVHIwjL4EDngVcl3DuW/S9JufcA+/pnxsZ+uoU+ssXUhJNL5ooIBnyZifqzgJuIvuoRL0LNBBgFZAuHej4a1xHB5K3xReAcwQsBaS+UlqRFwGXqjG6sK8Ga1iwzQD0B7/Woh7yaeBktCmN7q4i6txFwOVqzOhB6gtR0gPnQvheQl5/GLgpse4TSCOlqHv4z4HVCcAZRj2K97iBNdwVGsKso6uoI0rNJVzgaHrpDrTCQWbZ8chvAvcEQMg57QimS1lIudPegGmBkHWVaZLSwmiFp0T7TXk+Abi5oqmCjE6eM0xQ3yLkQYw6HzSQLXicAdPljQCmLuwqa7rhCSg/cd1PnWtBlXtmIoFjoGwLy1zLfqn21qZKzvhgGDI24cgQ8Heg7nAMNALrIa0wkirOAG6qGGMWRpQqEjSx/HA0rDkGQgxjAGP8FeAGsgcyxsBpLjM+SLSBQwopaqABnNWQ9SzQmZ11c+IEftc6g/UtV/fRjvTt8EfvBDUjrbidNlt9UK+jwNFZUheesczojBuxOTNG7RbgxRt99AcLPIEG4uT2iZEuF/+8ZujVRc8Gpm8d4u9Ks9ojGotGImPE+xuUQfCJXmLDc24XzUw1cxw3t/fA1VAHXg25nZsJlB2QnUrvK63A3zmWrsAkVzh4abiHi3ncCXfNvGHI3fel9Lp53VC9+syzJUavtaT4+TmDAc+AOHLQ47I36o0aNWrUqFGjRiz6B2c6CX1E4hOYAAAAAElFTkSuQmCC\" style=\"height: auto; max-width: 100%;\">",
+      "<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAG0AAAAdCAYAAACg2uKXAAACx0lEQVR42u1ZgW3sIAzNCIzACBmBEbLBZQNuBDbICBmhI2SEjJARMsI1lRzplRKwneT+b4UlS9cKjPHDz4Y0TZUqVapUqVLlL0q76bjpUEPx/wL0pYb+tpuum742db/B+RepYc6ZaLxnjH3Q2Eng08IIHga5Z9rtwHfUr/Vm+h2UsesVsV8SvqBPE/ljcpM5C1shyHeBNgrtBvB7JZBmAH7/vxX4iTanE6Ct9Bs1BvCHX71g4SB08g7QHGyIQ2UDjH9GAXCJAHFlhaC/hIBz9zkfxQ+zx16QBXeDNglsOghsW6DYRUCRDnwYBOVCUwYOmW1iUCQGwPwj0DAzWkH9TQER1zEJ9SNQVpGlkgSYj8b1maIYq6Qlvhq0HYSRYcdkDllLYHnF4TVkE+3Ois6TA5rJ0a+JOHrJFEf3JtA6cnTXTpjpmrU941Ck7PaCwyQBLcCesx2Zz9CSlALOgJZrh58XAZC6FpT8neBQxbVnuQA0Axf9V2ItNjCD4h5zFrSZ5qGuApoOCp8drC2lXA61Sg7nHreOa6g9oE7zRtBcJhs4F2sNaKVMC5ns3Sny4+ThxPtb4MR8TDjlTlwg77pcDwy7D2EQcc5YoEZXaM/tyX0awGLmvngsymerd4HGqbGaOpwrA67UFNAB4VIkZ59sysX2NdXe/hbQpI8BWAZcBtBcLe252SHsHosUj+2rV1DMO0DzTLuDINtKlMv9CsB91pKUgSJoFmhgas59rrgDNAtjPCN7FvDBFE700UsLhxpzfYF2n6LPRR/N99dvbuf1iBSL6SOhNrOZEI0NZA+7Lg5lt1FHNpC9jmxi6/1UPIedpe54nz66o7EPfK94tuLcO2J1SjtjI3tVt036Wxpe2DtlrdNSH3efol4ikLbM8R7mcNUK7Hh42tKKg4wd6XfHyNQg7J57muMU8bpin1WqVKlSpUqVKtfLJwpwCdXza+r2AAAAAElFTkSuQmCC\" style=\"height: auto; max-width: 100%;\">",
+      "<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAG4AAAAdCAYAAABL7VmUAAACwElEQVR42u1YUZHEIAytBCQgoRKQUAdbB5wEHFRCJawEJFRCJSDhbj9gJpOhkKTd7t5MMsNXoYS8x0vIMKipqampqamp/QOzrzG9hn+NUBm+sdblOTNjv7LP+Aa/7MHc1vBEv6c8f80j5POfsRH4QTaTHfjtjL0DXG9ObX7K+x8BJvXLEdZxzlcA2xvrY/ZZYgv4D5n8ESxaM/MeYATiwcqhKOwL4LBHZNrAvoXZVL8smlvGBs6Jv00Nf38QwCHPf+SgJ/BtFACXwP+fXObbk7dpBUGhOuoaMlr2tBfdckjSB1PGSlBDg2gR+GMY/3eAxCUulsr85QIZtIAEVLL0AuwvlGcpcJEQI6w6C+P/T3DWlSqXocMkboA2wsYL4XAU2b0DOEouPuOTyf8u/y/rt97CuZNruM7MBJ1OBFC+BbgguEGcXO8r8d+pcgkTtjkZIAvyge3o+Vl5ugO4VSCtT8aaWAGZXCuYzCxYGUUwNmaAng25XAnSDG9ualR7dwBX5k+MPQLxjOZAhkfquSb0JJC+c3ryawA5KPkCvm0SIpOEUBLgNobscYFryXBXbif0hhsrQZUwu6bTE1Em8ftpv4hQd924lVAR98DxPblMF1eV2Pn5ZCkOb+mUiWBBG+yuHOcv3sMh4uGRWtWsJZa6EuBwWYvLXi4B4ody3JHsH/VZqelgYbTi5l5wrwQOy6UXlNWwY+E+BJypVMmhEbdeKw+D6yRPNdMp3c8CB8GKgiQfO0G4q3MCe6Jzo0U4EgHhdqKq+ETAHncxcFCKKa2woxzgPgzcUCmQHDonbEIvRB8Cw9+5Fty9UqXVEiUXuAE9M4Jg3foFvcoSp4SeJ1seiXFGqsphudxbD/DYKb0lwM1g/chck94g4VLgYF6rxSgSnwye+SQygvipIYJAIpkcSA3mF9sCmhNqampqampqb7A/bRIJ1fLggKEAAAAASUVORK5CYII=\" style=\"height: auto; max-width: 100%;\">"
+    ],
+    "op_hi": [
+      "<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAG4AAAAdCAYAAABL7VmUAAACwElEQVR42u1YgY3kIAxMCZRACSmBEtLBpgO2BDpICSnhSqCElJASUsJ+/uVIc1wCtpPs3ktYspRdgTEeMzY0TZUqVapUqVLlLmlXHVcdaih+N0h/1dBvu+qy6mtVV8MjD+aL1DDnRBrvGWM7GI86rzrRdxD6/KB5UTBnZiQIJlKviF+viP+8ExuMUaT4mNxkzsJWAHSAsQsBNUFwtv/tLwFuVNjFPcYTwC30jZqC+CNOvWDhwBw7wKLPZFG349SngUOfJLS9QOBfiiTk+DUd7RdPkb0gcx1spi3Q0aygyzuAiwqbDuYMgvKhofBDlosMukRADKMG7oGR1jUJ9d4FHJ62VmATwbJK9piZp3w6GtdnimSqudbdZMBtCTCvSJo7gdvWHwX2DO0R9zkpqJYDnMlRsUn4es4US3dxUL0wcGeA62jzm3ZMFuH40CsSgANcAB+zXZXP0Ml8MQgNBC++Abhc6/0U2IuQCGktmi8AzsDjxGtnLTY4A7OJCIpmY1t3egNwE81DXZhlgFMOpLRfSqhtnx3XUHtAo+YG4N554lzGB+7lO2RYZaPLr5MJhfe7wKHxcccpJwjUQ+g4zhk/CByySmTSpCu07vakXwbwKLLRHk9Lnri4tVBDw3cDx/HdlRoFSlouXXL8YtMvtrV7be9Vd5OUht1/ANzAqIW9oGZLuspiYmNb6xXUNwhO3aAA4S7gPMMuN8m4T2ASCi8CZ4EOouJSacChmDmpQflicQdwFsb4EzSZ6xW0fokY6av5/oIvlTbpjAYKeEeAYRv8LHScj0SxYD921GYCFJKxgexhd2cUT3naWn/kl0/ucOwk7YV3m6NsiYVLb8fcmESd0s6YoTZNLebQINcvyavOvywIQho7yr4ts0f67phzPfjBVSuw4+EZrMQgoZG9/vc0xyn2x/WrSpUqVapUqVLl8/IH8fYJ1S6MZjMAAAAASUVORK5CYII=\" style=\"height: auto; max-width: 100%;\">",
+      "<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAG4AAAAdCAYAAABL7VmUAAAC2UlEQVR42u1ajY3rIAxmhIyQETICI3SDskE6AhtkBEboCIyQERghI+SlEuhcDshn0ib3JCxZul5jMP78SypEo0aNGjVq1KiREHpjs/GtmeL/ohdg68Zu497/r9t48J+7qxR7baw2tl65NcOuYu2RyPegjAJlZIVe1svcK6LuJTdnbGS9PujZLAObxcu8rd8nFHEJrgXOknUnhlzY0/wR4HpiwNX/HRx9YZyxZzryPQe0JYeXHzRQ8JaVHIwjL4EDngVcl3DuW/S9JufcA+/pnxsZ+uoU+ssXUhJNL5ooIBnyZifqzgJuIvuoRL0LNBBgFZAuHej4a1xHB5K3xReAcwQsBaS+UlqRFwGXqjG6sK8Ga1iwzQD0B7/Woh7yaeBktCmN7q4i6txFwOVqzOhB6gtR0gPnQvheQl5/GLgpse4TSCOlqHv4z4HVCcAZRj2K97iBNdwVGsKso6uoI0rNJVzgaHrpDrTCQWbZ8chvAvcEQMg57QimS1lIudPegGmBkHWVaZLSwmiFp0T7TXk+Abi5oqmCjE6eM0xQ3yLkQYw6HzSQLXicAdPljQCmLuwqa7rhCSg/cd1PnWtBlXtmIoFjoGwLy1zLfqn21qZKzvhgGDI24cgQ8Heg7nAMNALrIa0wkirOAG6qGGMWRpQqEjSx/HA0rDkGQgxjAGP8FeAGsgcyxsBpLjM+SLSBQwopaqABnNWQ9SzQmZ11c+IEftc6g/UtV/fRjvTt8EfvBDUjrbidNlt9UK+jwNFZUheesczojBuxOTNG7RbgxRt99AcLPIEG4uT2iZEuF/+8ZujVRc8Gpm8d4u9Ks9ojGotGImPE+xuUQfCJXmLDc24XzUw1cxw3t/fA1VAHXg25nZsJlB2QnUrvK63A3zmWrsAkVzh4abiHi3ncCXfNvGHI3fel9Lp53VC9+syzJUavtaT4+TmDAc+AOHLQ47I36o0aNWrUqFGjRiz6B2c6CX1E4hOYAAAAAElFTkSuQmCC\" style=\"height: auto; max-width: 100%;\">",
+      "<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAG0AAAAdCAYAAACg2uKXAAACx0lEQVR42u1ZgW3sIAzNCIzACBmBEbLBZQNuBDbICBmhI2SEjJARMsI1lRzplRKwneT+b4UlS9cKjPHDz4Y0TZUqVapUqVLlL0q76bjpUEPx/wL0pYb+tpuum742db/B+RepYc6ZaLxnjH3Q2Eng08IIHga5Z9rtwHfUr/Vm+h2UsesVsV8SvqBPE/ljcpM5C1shyHeBNgrtBvB7JZBmAH7/vxX4iTanE6Ct9Bs1BvCHX71g4SB08g7QHGyIQ2UDjH9GAXCJAHFlhaC/hIBz9zkfxQ+zx16QBXeDNglsOghsW6DYRUCRDnwYBOVCUwYOmW1iUCQGwPwj0DAzWkH9TQER1zEJ9SNQVpGlkgSYj8b1maIYq6Qlvhq0HYSRYcdkDllLYHnF4TVkE+3Ois6TA5rJ0a+JOHrJFEf3JtA6cnTXTpjpmrU941Ck7PaCwyQBLcCesx2Zz9CSlALOgJZrh58XAZC6FpT8neBQxbVnuQA0Axf9V2ItNjCD4h5zFrSZ5qGuApoOCp8drC2lXA61Sg7nHreOa6g9oE7zRtBcJhs4F2sNaKVMC5ns3Sny4+ThxPtb4MR8TDjlTlwg77pcDwy7D2EQcc5YoEZXaM/tyX0awGLmvngsymerd4HGqbGaOpwrA67UFNAB4VIkZ59sysX2NdXe/hbQpI8BWAZcBtBcLe252SHsHosUj+2rV1DMO0DzTLuDINtKlMv9CsB91pKUgSJoFmhgas59rrgDNAtjPCN7FvDBFE700UsLhxpzfYF2n6LPRR/N99dvbuf1iBSL6SOhNrOZEI0NZA+7Lg5lt1FHNpC9jmxi6/1UPIedpe54nz66o7EPfK94tuLcO2J1SjtjI3tVt036Wxpe2DtlrdNSH3efol4ikLbM8R7mcNUK7Hh42tKKg4wd6XfHyNQg7J57muMU8bpin1WqVKlSpUqVKtfLJwpwCdXza+r2AAAAAElFTkSuQmCC\" style=\"height: auto; max-width: 100%;\">",
+      "<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAG4AAAAdCAYAAABL7VmUAAACwElEQVR42u1YUZHEIAytBCQgoRKQUAdbB5wEHFRCJawEJFRCJSDhbj9gJpOhkKTd7t5MMsNXoYS8x0vIMKipqampqamp/QOzrzG9hn+NUBm+sdblOTNjv7LP+Aa/7MHc1vBEv6c8f80j5POfsRH4QTaTHfjtjL0DXG9ObX7K+x8BJvXLEdZxzlcA2xvrY/ZZYgv4D5n8ESxaM/MeYATiwcqhKOwL4LBHZNrAvoXZVL8smlvGBs6Jv00Nf38QwCHPf+SgJ/BtFACXwP+fXObbk7dpBUGhOuoaMlr2tBfdckjSB1PGSlBDg2gR+GMY/3eAxCUulsr85QIZtIAEVLL0AuwvlGcpcJEQI6w6C+P/T3DWlSqXocMkboA2wsYL4XAU2b0DOEouPuOTyf8u/y/rt97CuZNruM7MBJ1OBFC+BbgguEGcXO8r8d+pcgkTtjkZIAvyge3o+Vl5ugO4VSCtT8aaWAGZXCuYzCxYGUUwNmaAng25XAnSDG9ualR7dwBX5k+MPQLxjOZAhkfquSb0JJC+c3ryawA5KPkCvm0SIpOEUBLgNobscYFryXBXbif0hhsrQZUwu6bTE1Em8ftpv4hQd924lVAR98DxPblMF1eV2Pn5ZCkOb+mUiWBBG+yuHOcv3sMh4uGRWtWsJZa6EuBwWYvLXi4B4ody3JHsH/VZqelgYbTi5l5wrwQOy6UXlNWwY+E+BJypVMmhEbdeKw+D6yRPNdMp3c8CB8GKgiQfO0G4q3MCe6Jzo0U4EgHhdqKq+ETAHncxcFCKKa2woxzgPgzcUCmQHDonbEIvRB8Cw9+5Fty9UqXVEiUXuAE9M4Jg3foFvcoSp4SeJ1seiXFGqsphudxbD/DYKb0lwM1g/chck94g4VLgYF6rxSgSnwye+SQygvipIYJAIpkcSA3mF9sCmhNqampqampqb7A/bRIJ1fLggKEAAAAASUVORK5CYII=\" style=\"height: auto; max-width: 100%;\">"
+    ],
+    "q_en": "Select the correct mirror image of the given combination when the mirror is placed at 'PQ' as shown below.<br><br><img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIQAAACaCAYAAABomOBMAAAFPklEQVR42u2dAZGjMBRAIwEJkYAEJOCgOGAl4AAJSFgJSKgEJCBhr8wlt79coD+Blt3y3kxmbpaWC+Hx85N2+o0BAAAAAAAIUN9aE2iXWytvLWOIzsVwa18rbby1FjHOJ0TrooJvU5TonBDT8Z6hOpcQxcJxK15TMVwI4fMMogRC/KNwrxkYLoRACIRgykAIXVJZM1znEeLDSSFbLY4P7EWcS4i1dnWRAk4kxJQfdKJNG1XNg9wCTppUAkIAQgAgBCAEIAQAAAC8BL9lDYAQgBCAEIAQgBCAEIAQgBCAEIAQgBCAEIAQgBCAEIAQgBCAEIAQgBAACAEIAQgBCAEIAQgBCAEIAQgBCAEIAQgBCAEIAQgBCAEIAQgBCAEIgRCwnxBTtbbGNbuxM9Z8FyLvTFzdp1r0Q9tsxHmmIumleVydzl9DTFnD0r2nTLi+2vUt+ylCFOIk3QYRerNcGW5QiKGpMDdvReJ5upUbYMXrtA/IaB6XKdD0q91BjM1C9LMbF0tu7utDdu5JuZj72pG+vuTaU3aZtU6c9xJo2crAt7PXNu5vo+JaO3EO7QM1KoWf96t2/5/v1+eRQmTiYq7u32Xk+2WpwKUnqkl46owbsNgyxTHVbqsVObUPiJen2bFfxVFC1MLaKmHa8Df6qnhtmxCFniGEvO5+43ky8WTnO/SrVcr1NCF60Uk5d2rnsTHCaBlN8oOFKCKmjW6n/mn61URMVbsLkQfmvs8HoTRl7kydm48WIle8xj9Q9U798ue7HCFEyMYq4gZcEqaYS2Ti9CwhGuV5186VRUbUtXNZ8TD2ZhvJQiyF+1GZ/KWEtyLyop8hRCWu8VECvZZX1ZF9G0S+1Yt2FZH246hl51rI1GbNKQlQEZGEbhViPvC9EEErsl2ZFvvIFYFmH6KPXOXtJsTazdTMr/MVSsyO3qumjKU2KnOk+Y2vFpbr2cbIlTnxWtHH6pVCZLPNmVD7UthfJtysOjLv2CJE5Qbat4/EvZAqIHHKdBmT2wyvFOJi9FvDnSKchpIqa8KfB8Rm0XvnEENCIpwF8qrY6UIrhLyh+auE0CyVcqWp/crUM8yOFQlhdm8hisQo0YmoUyQ+xVohrq8UImap9Gh7V4bT0AXY2TmGhDD7jFVGlxAl5OqoSdxN1AhhI1Z5uwjRRAxwrUwAW/HkNzPRSvP/p57ZwUJYZY60dN7RxO3mavtVmPvPhV6SQ8TM4TYivLazLH4ILPPGBOuftTHVJYT9drY8NIlCrCXx/rh9hRApc3hv4rayQ9+JGMS82PwQIWzCEk++p94gxNL3RXrXl8O/D7E3fl2di4uT+URp4Jn8mu9Ulub7a3WAEIAQgBCAEIAQgBCAEIAQgBCAEIAQgBCAEAAIAQgBCAEIAQgBCAEIAQgBCAEIAQgBCAEIAQgBCAEIAQgBCAEIAQgBgBCAEIAQgBCAEIAQAAAAAHAY1vz9yejOfP98dMGwnFOEUAUC+Sv7iHEScnNfg2OKDNMPzE8lJWpzX47hg+F6b2Qd9d4sF1xpTFqNMfhl+ButKYjbmu2lH+GHs1Sm+1E0yRm696Mwy+Wnl/A1xlqG7/3wdci6hPd8Mnzvmz/EPO2F2V7+EX4oPklsEoS4MnzvR50QIUqmjPelTAj/dULeAb8Ea5brt1s3lcwLzcZUdIZfSL+SRwyzY3KZmjF070klokQeiBJeikr8mz2Ik6w2RhcNskCeIT/1JDqcSAovhi8qP87+bhmq81CY8HciBrfvELtnAW9C5iJBLqYHmU+UDBH4fKIjSgAAAMAe/AHDV4vzl9xfkwAAAABJRU5ErkJggg==\" style=\"height: auto; max-width: 100%;\">",
+    "q_hi": "Select the correct mirror image of the given combination when the mirror is placed at 'PQ' as shown below.<br><br><img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIQAAACaCAYAAABomOBMAAAFPklEQVR42u2dAZGjMBRAIwEJkYAEJOCgOGAl4AAJSFgJSKgEJCBhr8wlt79coD+Blt3y3kxmbpaWC+Hx85N2+o0BAAAAAAAIUN9aE2iXWytvLWOIzsVwa18rbby1FjHOJ0TrooJvU5TonBDT8Z6hOpcQxcJxK15TMVwI4fMMogRC/KNwrxkYLoRACIRgykAIXVJZM1znEeLDSSFbLY4P7EWcS4i1dnWRAk4kxJQfdKJNG1XNg9wCTppUAkIAQgAgBCAEIAQAAAC8BL9lDYAQgBCAEIAQgBCAEIAQgBCAEIAQgBCAEIAQgBCAEIAQgBCAEIAQgBAACAEIAQgBCAEIAQgBCAEIAQgBCAEIAQgBCAEIAQgBCAEIAQgBCAEIgRCwnxBTtbbGNbuxM9Z8FyLvTFzdp1r0Q9tsxHmmIumleVydzl9DTFnD0r2nTLi+2vUt+ylCFOIk3QYRerNcGW5QiKGpMDdvReJ5upUbYMXrtA/IaB6XKdD0q91BjM1C9LMbF0tu7utDdu5JuZj72pG+vuTaU3aZtU6c9xJo2crAt7PXNu5vo+JaO3EO7QM1KoWf96t2/5/v1+eRQmTiYq7u32Xk+2WpwKUnqkl46owbsNgyxTHVbqsVObUPiJen2bFfxVFC1MLaKmHa8Df6qnhtmxCFniGEvO5+43ky8WTnO/SrVcr1NCF60Uk5d2rnsTHCaBlN8oOFKCKmjW6n/mn61URMVbsLkQfmvs8HoTRl7kydm48WIle8xj9Q9U798ue7HCFEyMYq4gZcEqaYS2Ti9CwhGuV5186VRUbUtXNZ8TD2ZhvJQiyF+1GZ/KWEtyLyop8hRCWu8VECvZZX1ZF9G0S+1Yt2FZH246hl51rI1GbNKQlQEZGEbhViPvC9EEErsl2ZFvvIFYFmH6KPXOXtJsTazdTMr/MVSsyO3qumjKU2KnOk+Y2vFpbr2cbIlTnxWtHH6pVCZLPNmVD7UthfJtysOjLv2CJE5Qbat4/EvZAqIHHKdBmT2wyvFOJi9FvDnSKchpIqa8KfB8Rm0XvnEENCIpwF8qrY6UIrhLyh+auE0CyVcqWp/crUM8yOFQlhdm8hisQo0YmoUyQ+xVohrq8UImap9Gh7V4bT0AXY2TmGhDD7jFVGlxAl5OqoSdxN1AhhI1Z5uwjRRAxwrUwAW/HkNzPRSvP/p57ZwUJYZY60dN7RxO3mavtVmPvPhV6SQ8TM4TYivLazLH4ILPPGBOuftTHVJYT9drY8NIlCrCXx/rh9hRApc3hv4rayQ9+JGMS82PwQIWzCEk++p94gxNL3RXrXl8O/D7E3fl2di4uT+URp4Jn8mu9Ulub7a3WAEIAQgBCAEIAQgBCAEIAQgBCAEIAQgBCAEAAIAQgBCAEIAQgBCAEIAQgBCAEIAQgBCAEIAQgBCAEIAQgBCAEIAQgBgBCAEIAQgBCAEIAQAAAAAHAY1vz9yejOfP98dMGwnFOEUAUC+Sv7iHEScnNfg2OKDNMPzE8lJWpzX47hg+F6b2Qd9d4sF1xpTFqNMfhl+ButKYjbmu2lH+GHs1Sm+1E0yRm696Mwy+Wnl/A1xlqG7/3wdci6hPd8Mnzvmz/EPO2F2V7+EX4oPklsEoS4MnzvR50QIUqmjPelTAj/dULeAb8Ea5brt1s3lcwLzcZUdIZfSL+SRwyzY3KZmjF070klokQeiBJeikr8mz2Ik6w2RhcNskCeIT/1JDqcSAovhi8qP87+bhmq81CY8HciBrfvELtnAW9C5iJBLqYHmU+UDBH4fKIjSgAAAMAe/AHDV4vzl9xfkwAAAABJRU5ErkJggg==\" style=\"height: auto; max-width: 100%;\">",
+    "section": "General intelligence and Reasoning Ability",
+    "solution": "The mirror image is formed by laterally inverting the given figure. The left side becomes the right side and vice versa.<br><br>दी गई आकृति को पार्श्व रूप से उलटने पर दर्पण छवि बनती है। बायां भाग दायां भाग बन जाता है और इसके विपरीत।",
+    "topic": "Mirror Image"
+  },
+  {
+    "ans": "3",
+    "level": "Moderate",
+    "op_en": [
+      "NIL−PLP",
+      "NJN−PMP",
+      "NJN−QMQ",
+      "NIL−QMQ"
+    ],
+    "op_hi": [
+      "NIL−PLP",
+      "NJN−PMP",
+      "NJN−QMQ",
+      "NIL−QMQ"
+    ],
+    "q_en": "Select the pair which follows the same pattern as that followed by the two set of pairs given below. Both pairs follow the same pattern.<br>BXB−EAE<br>AWA−DZD<span style=\"color: white;\">6502</span>",
+    "q_hi": "उस युग्म का चयन करें जो नीचे दिए गए दो युग्मों द्वारा अनुसरण किए जाने वाले समान पैटर्न का अनुसरण करता है। दोनों युग्म समान पैटर्न का अनुसरण करते हैं।<br>BXB−EAE<br>AWA−DZD<span style=\"color: white;\">6502</span>",
+    "section": "General intelligence and Reasoning Ability",
+    "solution": "The pattern is adding +3 to each letter's positional value. B(+3) = E, X(+3) = A, B(+3) = E. Option (3) NJN - QMQ follows the same logic: N(+3) = Q, J(+3) = M, N(+3) = Q.<br><br>पैटर्न प्रत्येक अक्षर के स्थानीय मान में +3 जोड़ना है। B(+3) = E, X(+3) = A, B(+3) = E. विकल्प (3) NJN - QMQ इसी तर्क का अनुसरण करता है: N(+3) = Q, J(+3) = M, N(+3) = Q.",
+    "topic": "Letter Analogy"
+  },
+  {
+    "ans": "3",
+    "level": "Moderate",
+    "op_en": [
+      "None",
+      "One",
+      "Two",
+      "Three"
+    ],
+    "op_hi": [
+      "कोई नहीं",
+      "एक",
+      "दो",
+      "तीन"
+    ],
+    "q_en": "The position(s) of how many letters will remain unchanged if each of the letters in the word CHEMISTRY is arranged in the English alphabetical order?<span style=\"color: white;\">1202</span>",
+    "q_hi": "यदि शब्द CHEMISTRY के प्रत्येक अक्षर को अंग्रेजी वर्णमाला के क्रम में व्यवस्थित किया जाए, तो कितने अक्षरों का स्थान अपरिवर्तित रहेगा?<span style=\"color: white;\">1202</span>",
+    "section": "General intelligence and Reasoning Ability",
+    "solution": "Original word: C H E M I S T R Y. Sorted alphabetically: C E H I M R S T Y. The letters 'C' and 'Y' remain in the same position. Hence, two letters remain unchanged.<br><br>मूल शब्द: C H E M I S T R Y. वर्णानुक्रम में व्यवस्थित: C E H I M R S T Y. 'C' और 'Y' अक्षर उसी स्थान पर रहते हैं। इसलिए, दो अक्षर अपरिवर्तित रहते हैं।",
+    "topic": "Alphabet Test"
+  },
+  {
+    "ans": "4",
+    "level": "Moderate",
+    "op_en": [
+      "KN - EG",
+      "DG - XZ",
+      "TW - NP",
+      "JM - GJ"
+    ],
+    "op_hi": [
+      "KN - EG",
+      "DG - XZ",
+      "TW - NP",
+      "JM - GJ"
+    ],
+    "q_en": "Based on the English alphabetical order, three of the following four letter cluster pairs are alike in a certain way and thus form a group. Which is the one that does not belong to that group?<br>(Note: The odd one out is not based on the number of consonants/vowels or their position in the letter cluster)",
+    "q_hi": "अंग्रेजी वर्णमाला के क्रम के आधार पर, निम्नलिखित चार अक्षर समूह युग्मों में से तीन एक निश्चित तरीके से समान हैं और इस प्रकार एक समूह बनाते हैं। वह कौन सा है जो उस समूह से संबंधित नहीं है?<br>(नोट: बेजोड़ का चयन स्वर/व्यंजन की संख्या या अक्षर समूह में उनके स्थान पर आधारित नहीं है)",
+    "section": "General intelligence and Reasoning Ability",
+    "solution": "In all options except the fourth, the first letter cluster has a difference of +3 between its letters, and the second cluster has a difference of +2 (e.g., K(+3)=N and E(+2)=G). In option 4 (JM - GJ), both clusters have a difference of +3.<br><br>चौथे को छोड़कर सभी विकल्पों में, पहले अक्षर समूह के अक्षरों के बीच +3 का अंतर है, और दूसरे समूह में +2 का अंतर है (जैसे, K(+3)=N और E(+2)=G)। विकल्प 4 (JM - GJ) में, दोनों समूहों में +3 का अंतर है।",
+    "topic": "Odd One Out (Letter Cluster)"
+  },
+  {
+    "ans": "1",
+    "level": "Moderate",
+    "op_en": [
+      "MN−IM",
+      "LM−IJ",
+      "JK−GH",
+      "PQ−MN"
+    ],
+    "op_hi": [
+      "MN−IM",
+      "LM−IJ",
+      "JK−GH",
+      "PQ−MN"
+    ],
+    "q_en": "Based on the English alphabetical order, three of the following four letter cluster pairs are alike in a certain way and thus form a group. Which is the one that does not belong to that group?<br>(Note: The odd man out is not based on the number of consonants/vowels or their position in the letter cluster)<span style=\"color: white;\">5099</span>",
+    "q_hi": "अंग्रेजी वर्णमाला के क्रम के आधार पर, निम्नलिखित चार अक्षर समूह युग्मों में से तीन एक निश्चित तरीके से समान हैं और इस प्रकार एक समूह बनाते हैं। वह कौन सा है जो उस समूह से संबंधित नहीं है?<br>(नोट: बेजोड़ का चयन स्वर/व्यंजन की संख्या या अक्षर समूह में उनके स्थान पर आधारित नहीं है)<span style=\"color: white;\">5099</span>",
+    "section": "General intelligence and Reasoning Ability",
+    "solution": "In all options except the first, the second letter cluster is obtained by subtracting 3 from the positional values of the corresponding letters in the first cluster. LM (-3, -3) → IJ. Option 1 (MN - IM) does not follow this pattern.<br><br>पहले विकल्प को छोड़कर सभी विकल्पों में, दूसरा अक्षर समूह पहले समूह के संबंधित अक्षरों के स्थानीय मान से 3 घटाकर प्राप्त किया जाता है। LM (-3, -3) → IJ. विकल्प 1 (MN - IM) इस पैटर्न का अनुसरण नहीं करता है।",
+    "topic": "Odd One Out (Letter Cluster)"
+  },
+  {
+    "ans": "1",
+    "level": "Moderate",
+    "op_en": [
+      "LDV",
+      "MEU",
+      "LDU",
+      "MEV"
+    ],
+    "op_hi": [
+      "LDV",
+      "MEU",
+      "LDU",
+      "MEV"
+    ],
+    "q_en": "What should come in place of ? in the given series based on the English alphabetical order? <br>BNJ         XRM         TVP        PZS        ?",
+    "q_hi": "अंग्रेजी वर्णमाला के क्रम पर आधारित दी गई श्रृंखला में ? के स्थान पर क्या आना चाहिए?<br>BNJ         XRM         TVP        PZS        ?",
+    "section": "General intelligence and Reasoning Ability",
+    "solution": "The pattern in the letter clusters is: 1st letter: -4, 2nd letter: +4, 3rd letter: +3. Following this, P(-4) = L, Z(+4) = D, S(+3) = V. So the next term is LDV.<br><br>अक्षर समूहों में पैटर्न है: पहला अक्षर: -4, दूसरा अक्षर: +4, तीसरा अक्षर: +3. इसके अनुसार, P(-4) = L, Z(+4) = D, S(+3) = V. इसलिए अगला पद LDV है।",
+    "topic": "Letter Series"
+  },
+  {
+    "ans": "2",
+    "level": "Moderate",
+    "op_en": [
+      "Father's brother",
+      "Mother's father",
+      "Father's Father",
+      "Mother's brother"
+    ],
+    "op_hi": [
+      "पिता का भाई",
+      "माता का पिता (नाना)",
+      "पिता का पिता (दादा)",
+      "माता का भाई (मामा)"
+    ],
+    "q_en": "In a certain code language, <br><br>A + B means ‘A is the father of B’,<br>A – B means ‘A is the brother of B’, <br>A x B means ‘A is the sister of B’ and<br>A ÷ B means ‘A is the mother of B’.<br><br>Based on the above, how is G related to K if ‘G + H ÷ I – J x K’?",
+    "q_hi": "एक निश्चित कूट भाषा में, <br><br>A + B का अर्थ है ‘A, B का पिता है’,<br>A – B का अर्थ है ‘A, B का भाई है’, <br>A x B का अर्थ है ‘A, B की बहन है’ और<br>A ÷ B का अर्थ है ‘A, B की माता है’।<br><br>उपरोक्त के आधार पर, यदि ‘G + H ÷ I – J x K’ है, तो G, K से किस प्रकार संबंधित है?",
+    "section": "General intelligence and Reasoning Ability",
+    "solution": "G + H → G is father of H. H ÷ I → H is mother of I. I - J → I is brother of J. J x K → J is sister of K. Since I, J, and K are siblings and H is their mother, G (who is H's father) is the maternal grandfather of K.<br><br>G + H → G, H का पिता है। H ÷ I → H, I की माता है। I - J → I, J का भाई है। J x K → J, K की बहन है। चूंकि I, J और K भाई-बहन हैं और H उनकी माता है, G (जो H का पिता है) K का नाना है।",
+    "topic": "Blood Relation (Coded)"
+  },
+  {
+    "ans": "2",
+    "level": "Moderate",
+    "op_en": [
+      "Mother's brother's wife",
+      "Father's brother's wife",
+      "Father's mother",
+      "Mother's sister"
+    ],
+    "op_hi": [
+      "माता के भाई की पत्नी (मामी)",
+      "पिता के भाई की पत्नी (चाची)",
+      "पिता की माता (दादी)",
+      "माता की बहन (मौसी)"
+    ],
+    "q_en": "In a certain code language, <br><br>A - B means ‘A is the father of B’,<br>A + B means ‘A is the sister of B’, <br>A x B means ‘A is the wife of B’ and<br>A ÷ B means ‘A is the brother of B’.<br><br>Based on the above, how is S related to X if ‘S x T ÷ U – V + W ÷ X’?",
+    "q_hi": "एक निश्चित कूट भाषा में, <br><br>A - B का अर्थ है ‘A, B का पिता है’,<br>A + B का अर्थ है ‘A, B की बहन है’, <br>A x B का अर्थ है ‘A, B की पत्नी है’ और<br>A ÷ B का अर्थ है ‘A, B का भाई है’।<br><br>उपरोक्त के आधार पर, यदि ‘S x T ÷ U – V + W ÷ X’ है, तो S, X से किस प्रकार संबंधित है?",
+    "section": "General intelligence and Reasoning Ability",
+    "solution": "S x T → S is wife of T. T ÷ U → T is brother of U. U - V → U is father of V. V + W → V is sister of W. W ÷ X → W is brother of X. T is the uncle of X. S is the wife of T. Therefore, S is the Father's brother's wife to X.<br><br>S x T → S, T की पत्नी है। T ÷ U → T, U का भाई है। U - V → U, V का पिता है। V + W → V, W की बहन है। W ÷ X → W, X का भाई है। T, X का चाचा है। S, T की पत्नी है। इसलिए, S, X के पिता के भाई की पत्नी (चाची) है।",
+    "topic": "Blood Relation (Coded)"
+  }
+]
