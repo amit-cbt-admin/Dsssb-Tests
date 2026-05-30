@@ -1,0 +1,422 @@
+[
+  {
+    "ans": 1,
+    "difficulty": "Easy",
+    "op_en": [
+      "ice creams and jellies",
+      "cake",
+      "cookies",
+      "juices"
+    ],
+    "op_hi": [
+      "आइसक्रीम और जेली",
+      "केक",
+      "कुकीज़",
+      "जूस"
+    ],
+    "q_en": "Gelidium and Gracilaria are used to grow microbes that are used in the preparation of ___________.",
+    "q_hi": "जैलिसियम (Gelidium) और ग्रेसीलेरिया (Gracilaria) का उपयोग उन सूक्ष्मजीवों को उगाने के लिए किया जाता है जिनका उपयोग ___________ की तैयारी में किया जाता है।",
+    "section": "General Awareness1",
+    "solution": "<b>Solution (EN):</b><br>Gelidium and Gracilaria are types of red algae from which agar-agar is obtained. Agar is widely used to solidify microbial culture media and in the commercial preparation of ice creams and jellies to provide a smooth texture.<br><br><b>Solution (HI):</b><br>जैलिसियम और ग्रेसीलेरिया लाल शैवाल के प्रकार हैं जिनसे अगर-अगर प्राप्त होता है। अगर का उपयोग सूक्ष्मजीव संवर्धन माध्यम को ठोस बनाने और आइसक्रीम तथा जेली तैयार करने में व्यापक रूप से किया जाता है ताकि उन्हें एक चिकनी बनावट मिल सके।<br><br><b>Short Trick:</b><br>Remember: Gelidium/Gracilaria &rarr; Agar-agar &rarr; Jellies and Ice creams.",
+    "topic": "Biology"
+  },
+  {
+    "ans": 3,
+    "difficulty": "Easy",
+    "op_en": [
+      "Speaker of the Lok Sabha",
+      "Prime Minister of India",
+      "President of India",
+      "Chief Justice of India"
+    ],
+    "op_hi": [
+      "लोकसभा अध्यक्ष",
+      "भारत के प्रधानमंत्री",
+      "भारत के राष्ट्रपति",
+      "भारत के मुख्य न्यायाधीश"
+    ],
+    "q_en": "In case of a deadlock on a Bill between two houses, ____________ will summon the joint sitting of both houses.",
+    "q_hi": "दोनों सदनों के बीच किसी विधेयक पर गतिरोध की स्थिति में, दोनों सदनों की संयुक्त बैठक को ___________ बुलाएगा।",
+    "section": "General Awareness1",
+    "solution": "<b>Solution (EN):</b><br>According to Article 108 of the Indian Constitution, the President of India summons a joint sitting of both houses of Parliament to resolve a deadlock over an ordinary bill. Note that this joint sitting is presided over by the Speaker of the Lok Sabha.<br><br><b>Solution (HI):</b><br>भारतीय संविधान के अनुच्छेद 108 के अनुसार, साधारण विधेयक पर गतिरोध को दूर करने के लिए भारत के राष्ट्रपति संसद के दोनों सदनों की संयुक्त बैठक बुलाते हैं। ध्यान दें कि इस संयुक्त बैठक की अध्यक्षता लोकसभा अध्यक्ष करते हैं।<br><br><b>Short Trick:</b><br>Summon (बुलाना) = President; Preside (अध्यक्षता करना) = Speaker.",
+    "topic": "Polity"
+  },
+  {
+    "ans": 3,
+    "difficulty": "Hard",
+    "op_en": [
+      "63.57%",
+      "61.07%",
+      "66.07%",
+      "68.42%"
+    ],
+    "op_hi": [
+      "63.57%",
+      "61.07%",
+      "66.07%",
+      "68.42%"
+    ],
+    "q_en": "According to the Census of India 2011, what was the literacy rate among the Scheduled Caste (SC) population in India?",
+    "q_hi": "भारत की जनगणना 2011 के अनुसार, भारत में अनुसूचित जाति (SC) जनसंख्या की साक्षरता दर कितनी थी?",
+    "section": "General Awareness1",
+    "solution": "<b>Solution (EN):</b><br>According to the 2011 Census, the literacy rate of Scheduled Castes (SCs) in India stood at 66.07%. Among the SC population, the male literacy rate was around 75.17% and the female literacy rate was 56.46%.<br><br><b>Solution (HI):</b><br>2011 की जनगणना के अनुसार, भारत में अनुसूचित जातियों (SCs) की साक्षरता दर 66.07% थी। अनुसूचित जातियों में पुरुष साक्षरता दर लगभग 75.17% और महिला साक्षरता दर 56.46% थी।<br><br><b>Short Trick:</b><br>2011 SC Literacy is approximately 2/3rd of their population, which is 66.07%.",
+    "topic": "Census of India"
+  },
+  {
+    "ans": 1,
+    "difficulty": "Hard",
+    "op_en": [
+      "Only 1",
+      "Neither 1 nor 2",
+      "Only 2",
+      "Both 1 and 2"
+    ],
+    "op_hi": [
+      "केवल 1",
+      "न तो 1 और न ही 2",
+      "केवल 2",
+      "1 और 2 दोनों"
+    ],
+    "q_en": "Consider the following statements regarding caste-based data collection in India:<br>1. The last comprehensive caste census in India, covering all castes, was conducted in 1931 during the British rule.<br>2. The inclusion of Other Backward Classes (OBCs) in reservation measures is based on recent detailed caste data collected through the decennial Census.<br><br>Which of the statement/s given above is/are correct?",
+    "q_hi": "भारत में जाति-आधारित डेटा संग्रह के संबंध में निम्नलिखित कथनों पर विचार कीजिए:<br>1. भारत में सभी जातियों को शामिल करने वाली अंतिम व्यापक जाति जनगणना ब्रिटिश शासन के दौरान 1931 में आयोजित की गई थी।<br>2. आरक्षण उपायों में अन्य पिछड़ा वर्ग (OBC) को शामिल करना दशकीय जनगणना के माध्यम से एकत्र किए गए हालिया विस्तृत जाति डेटा पर आधारित है।<br><br>उपरोक्त दिए गए कथनों में से कौन सा/से सही है/हैं?",
+    "section": "General Awareness1",
+    "solution": "<b>Solution (EN):</b><br>Statement 1 is correct: The last full caste census map counting all castes was conducted in 1931. Statement 2 is incorrect: In independent India's decennial census, data is explicitly collected only for SCs and STs. OBC reservation provisions were originally formulated based on the Mandal Commission, which heavily relied on projections from the 1931 data.<br><br><b>Solution (HI):</b><br>कथन 1 सही है: सभी जातियों की गणना करने वाली अंतिम पूर्ण जाति जनगणना 1931 में की गई थी। कथन 2 गलत है: स्वतंत्र भारत की दशकीय जनगणना में केवल अनुसूचित जातियों (SC) और अनुसूचित जनजातियों (ST) के लिए डेटा एकत्र किया जाता है, ओबीसी के लिए अलग से विवरण नहीं आता है। ओबीसी आरक्षण मुख्य रूप से मंडल आयोग पर आधारित था जिसने 1931 के आंकड़ों का अनुमान लगाया था।<br><br><b>Short Trick:</b><br>Remember that post-independence India does not publish detailed caste data for OBCs in regular decennial censuses.",
+    "topic": "Census of India"
+  },
+  {
+    "ans": 4,
+    "difficulty": "Easy",
+    "op_en": [
+      "Paeophyta",
+      "Rhodophyta",
+      "Pyrrophyta",
+      "Chlorella"
+    ],
+    "op_hi": [
+      "फियोफाइटा (Paeophyta)",
+      "रोडोफाइटा (Rhodophyta)",
+      "पाइरोफाइटा (Pyrrophyta)",
+      "क्लोरेला (Chlorella)"
+    ],
+    "q_en": "Which of the following algae is used as a food supplement by space travellers?",
+    "q_hi": "निम्नलिखित में से किस शैवाल का उपयोग अंतरिक्ष यात्रियों द्वारा खाद्य पूरक के रूप में किया जाता है?",
+    "section": "General Awareness1",
+    "solution": "<b>Solution (EN):</b><br>Chlorella is a single-celled green alga that is exceptionally rich in proteins, vitamins, and minerals. Because it yields a high amount of nutrients in a small volume, it is widely used as a key food supplement by space travellers.<br><br><b>Solution (HI):</b><br>क्लोरेला एक एककोशकीय हरा शैवाल है जो प्रोटीन, विटामिन और खनिजों से भरपूर होता है। क्योंकि यह कम मात्रा में उच्च पोषक तत्व प्रदान करता है, इसलिए इसका उपयोग अंतरिक्ष यात्रियों द्वारा एक मुख्य खाद्य पूरक के रूप में किया जाता है।<br><br><b>Short Trick:</b><br>Space Algae = Chlorella / Spirulina.",
+    "topic": "Biology"
+  },
+  {
+    "ans": 1,
+    "difficulty": "Easy",
+    "op_en": [
+      "Midnight's Children",
+      "A Suitable Boy",
+      "Interpreter of Maladies",
+      "The Glass Palace"
+    ],
+    "op_hi": [
+      "मिडनाइट्स चिल्ड्रन (Midnight's Children)",
+      "ए सूटेबल बॉय (A Suitable Boy)",
+      "इंटरप्रेटर ऑफ मैलेडीज (Interpreter of Maladies)",
+      "द ग्लास पैलेस (The Glass Palace)"
+    ],
+    "q_en": "What is the name of the Booker Prize-winning novel of Salman Rushdie?",
+    "q_hi": "सलमान रुश्दी के बुकर पुरस्कार विजेता उपन्यास का नाम क्या है?",
+    "section": "General Awareness1",
+    "solution": "<b>Solution (EN):</b><br>Salman Rushdie won the prestigious Booker Prize in 1981 for his critically acclaimed novel 'Midnight's Children'. The book deals with India's transition from British colonial rule to independence.<br><br><b>Solution (HI):</b><br>सलमान रुश्दी ने अपने बहुप्रशंसित उपन्यास 'मिडनाइट्स चिल्ड्रन' के लिए 1981 में प्रतिष्ठित बुकर पुरस्कार जीता था। यह पुस्तक ब्रिटिश औपनिवेशिक शासन से स्वतंत्रता तक भारत के परिवर्तन पर आधारित है।<br><br><b>Short Trick:</b><br>Rushdie + Booker Status = Midnight's Children (1981).",
+    "topic": "Books and Authors"
+  },
+  {
+    "ans": 4,
+    "difficulty": "Moderate",
+    "op_en": [
+      "budding",
+      "spores",
+      "vegetative propagation",
+      "thalli"
+    ],
+    "op_hi": [
+      "मुकुलन (budding)",
+      "बीजाणु (spores)",
+      "वानस्पतिक प्रवर्धन (vegetative propagation)",
+      "थैली/थैलस (thalli)"
+    ],
+    "q_en": "Asexual reproduction in liverworts takes place by the fragmentation of _______.",
+    "q_hi": "लिवरवर्ट्स (liverworts) में अलैंगिक जनन ___________ के विखंडन द्वारा होता है।",
+    "section": "General Awareness1",
+    "solution": "<b>Solution (EN):</b><br>Liverworts are bryophytes. Asexual reproduction in them takes place by the fragmentation of their plant body, called the thalli (singular: thallus), or via specialized multicellular structures called gemmae contained within gemma cups.<br><br><b>Solution (HI):</b><br>लिवरवर्ट्स ब्रायोफाइट्स वर्ग के होते हैं। इनमें अलैंगिक जनन उनके मुख्य पौधे के शरीर, जिसे थैलस या थैली (thalli) कहा जाता है, के विखंडन द्वारा या जेम्मा कप के भीतर विशेष बहुकोशकीय संरचनाओं (gemmae) द्वारा होता है।<br><br><b>Short Trick:</b><br>Liverwort plant body format is a Thallus. Fragmentation breaks down the thalli.",
+    "topic": "Biology"
+  },
+  {
+    "ans": 1,
+    "difficulty": "Easy",
+    "op_en": [
+      "President of India",
+      "Prime Minister of India",
+      "Advocate General of States",
+      "Speaker of Lok Sabha"
+    ],
+    "op_hi": [
+      "भारत के राष्ट्रपति",
+      "भारत के प्रधानमंत्री",
+      "राज्यों के महाधिवक्ता",
+      "लोकसभा अध्यक्ष"
+    ],
+    "q_en": "Who is empowered to appoint the acting Chief Justice of the Supreme Court?",
+    "q_hi": "सर्वोच्च न्यायालय के कार्यवाहक मुख्य न्यायाधीश को नियुक्त करने का अधिकार किसे है?",
+    "section": "General Awareness1",
+    "solution": "<b>Solution (EN):</b><br>Under Article 126 of the Indian Constitution, when the office of the Chief Justice of India is vacant or when the Chief Justice is unable to perform duties, the President of India is empowered to appoint an acting Chief Justice from among the other judges of the Supreme Court.<br><br><b>Solution (HI):</b><br>भारतीय संविधान के अनुच्छेद 126 के तहत, जब भारत के मुख्य न्यायाधीश का पद रिक्त हो या जब मुख्य न्यायाधीश अपने कर्तव्यों का पालन करने में असमर्थ हों, तो भारत के राष्ट्रपति को सर्वोच्च न्यायालय के अन्य न्यायाधीशों में से एक कार्यवाहक मुख्य न्यायाधीश नियुक्त करने का अधिकार है।<br><br><b>Short Trick:</b><br>All top-level constitutional and judicial appointments are executed directly by the President.",
+    "topic": "Polity"
+  },
+  {
+    "ans": 2,
+    "difficulty": "Moderate",
+    "op_en": [
+      "1, 3, 2",
+      "2, 1, 3",
+      "2, 3, 1",
+      "1, 2, 3"
+    ],
+    "op_hi": [
+      "1, 3, 2",
+      "2, 1, 3",
+      "2, 3, 1",
+      "1, 2, 3"
+    ],
+    "q_en": "Arrange the following languages in the order they were declared as Classical Languages in India.<br>1. Sanskrit<br>2. Tamil<br>3. Kannada",
+    "q_hi": "निम्नलिखित भाषाओं को भारत में शास्त्रीय भाषा (Classical Languages) घोषित किए जाने के क्रम में व्यवस्थित कीजिए।<br>1. संस्कृत<br>2. तमिल<br>3. कन्नड़",
+    "section": "General Awareness1",
+    "solution": "<b>Solution (EN):</b><br>The chronological order in which these languages were accorded classical status by the Government of India is:<br>1. Tamil &rarr; 2004<br>2. Sanskrit &rarr; 2005<br>3. Kannada &rarr; 2008<br>Therefore, the correct sequence is 2, 1, 3.<br><br><b>Solution (HI):</b><br>भारत सरकार द्वारा इन भाषाओं को शास्त्रीय दर्जा दिए जाने का कालानुक्रमिक क्रम इस प्रकार है:<br>1. तमिल &rarr; 2004<br>2. संस्कृत &rarr; 2005<br>3. कन्नड़ &rarr; 2008<br>इसलिए, सही क्रम 2, 1, 3 है।<br><br><b>Short Trick:</b><br>Tamil was the very first classical language (2004), followed immediately by Sanskrit (2005). Hence, it must start with 2 then 1.",
+    "topic": "Art and Culture"
+  },
+  {
+    "ans": 3,
+    "difficulty": "Moderate",
+    "op_en": [
+      "Tamil and Sanskrit",
+      "Sanskrit and Malayalam",
+      "Kannada and Telugu",
+      "Malayalam and Odia"
+    ],
+    "op_hi": [
+      "तमिल और संस्कृत",
+      "संस्कृत और मरम्मत",
+      "कन्नड़ और तेलुगु",
+      "मलयालम और ओडिया"
+    ],
+    "q_en": "Which two languages were declared Classical Languages on the same day?",
+    "q_hi": "किन दो भाषाओं को एक ही दिन शास्त्रीय भाषा घोषित किया गया था?",
+    "section": "General Awareness1",
+    "solution": "<b>Solution (EN):</b><br>Both Kannada and Telugu were officially accorded the status of Classical Languages by the Ministry of Tourism and Culture on the exact same declaration day in the year 2008.<br><br><b>Solution (HI):</b><br>कन्नड़ और तेलुगु दोनों को वर्ष 2008 में एक ही घोषणा पत्र के तहत पर्यटन और संस्कृति मंत्रालय द्वारा आधिकारिक तौर पर शास्त्रीय भाषा का दर्जा दिया गया था।<br><br><b>Short Trick:</b><br>Remember the southern duo pairing: Kannada and Telugu got the status together in 2008.",
+    "topic": "Art and Culture"
+  },
+  {
+    "ans": 4,
+    "difficulty": "Easy",
+    "op_en": [
+      "Tropical Evergreen Forests",
+      "Montane Forests",
+      "Mangrove Forests",
+      "Thorn Forests and Scrubs"
+    ],
+    "op_hi": [
+      "उष्णकटिबंधीय सदाबहार वन",
+      "पर्वतीय वन",
+      "मैंग्रोव वन",
+      "कांटेदार वन और झाड़ियाँ"
+    ],
+    "q_en": "Which of the following vegetation types is characterised by thorny trees and bushes, commonly found in regions with less than 50 cm of rainfall in India?",
+    "q_hi": "निम्नलिखित में से कौन सी वनस्पति कांटेदार पेड़ों और झाड़ियों की विशेषता है, जो आमतौर पर भारत में 50 सेमी से कम वर्षा वाले क्षेत्रों में पाई जाती है?",
+    "section": "General Awareness1",
+    "solution": "<b>Solution (EN):</b><br>Thorn Forests and Scrubs are located in semi-arid and arid regions that receive less than 70 cm (and often below 50 cm) of annual rainfall. Plants like Acacias, Cacti, and Euphorbias are common in states like Rajasthan and Gujarat.<br><br><b>Solution (HI):</b><br>कांटेदार वन और झाड़ियाँ उन अर्ध-शुष्क और शुष्क क्षेत्रों में स्थित हैं जहाँ वार्षिक वर्षा 70 सेमी (और अक्सर 50 सेमी से कम) से कम होती है। राजस्थान और गुजरात जैसे राज्यों में बबूल, कैक्टस और यूफोरबिया जैसे पौधे आम हैं।<br><br><b>Short Trick:</b><br>Rainfall < 50 cm implies an arid region, which matches with Thorn Forests and Scrubs.",
+    "topic": "Geography"
+  },
+  {
+    "ans": 4,
+    "difficulty": "Easy",
+    "op_en": [
+      "Navratri",
+      "Shamlaji Fair",
+      "Uttarayan",
+      "Tulsi Vivah"
+    ],
+    "op_hi": [
+      "नवरात्रि",
+      "शामलाजी मेला",
+      "उत्तरायण",
+      "तुलसी विवाह"
+    ],
+    "q_en": "Which festival in Gujarat involves decorating and worshipping the holy Tulsi plant?",
+    "q_hi": "गुजरात के किस त्योहार में पवित्र तुलसी के पौधे को सजाना और उसकी पूजा करना शामिल है?",
+    "section": "General Awareness1",
+    "solution": "<b>Solution (EN):</b><br>Tulsi Vivah is a significant festival performed in Gujarat and across India. It involves the ceremonial marriage of the holy Tulsi (basil plant) to Lord Vishnu or his avatar, Krishna, marking the beginning of the Hindu wedding season.<br><br><b>Solution (HI):</b><br>तुलसी विवाह गुजरात और पूरे भारत में मनाया जाने वाला एक महत्वपूर्ण त्योहार है। इसमें हिंदू विवाह सीजन की शुरुआत के प्रतीक के रूप में पवित्र तुलसी के पौधे का विवाह भगवान विष्णु या उनके अवतार कृष्ण के साथ औपचारिक रूप से कराया जाता है।<br><br><b>Short Trick:</b><br>Worshipping and decorating the Tulsi plant &rarr; Tulsi Vivah.",
+    "topic": "Art and Culture"
+  },
+  {
+    "ans": 2,
+    "difficulty": "Moderate",
+    "op_en": [
+      "Comptroller and Auditor-General of India",
+      "Parliament",
+      "Legislative Council",
+      "Legislative Assembly"
+    ],
+    "op_hi": [
+      "भारत के नियंत्रक और महालेखापरीक्षक",
+      "संसद",
+      "विधान परिषद",
+      "विधानसभा"
+    ],
+    "q_en": "As per Article 125 of Indian Constitution, salaries of the Judges of the Supreme Court shall be determined by _____________________by law.",
+    "q_hi": "भारतीय संविधान के अनुच्छेद 125 के अनुसार, सर्वोच्च न्यायालय के न्यायाधीशों के वेतन का निर्धारण कानून द्वारा _____________________ द्वारा किया जाएगा।",
+    "section": "General Awareness1",
+    "solution": "<b>Solution (EN):</b><br>Article 125 states that the salaries, allowances, and pensions of Supreme Court judges are determined by Parliament by law. These salaries are charged directly onto the Consolidated Fund of India.<br><br><b>Solution (HI):</b><br>अनुच्छेद 125 निर्दिष्ट करता है कि सर्वोच्च न्यायालय के न्यायाधीशों के वेतन, भत्ते और पेंशन कानून द्वारा संसद द्वारा निर्धारित किए जाते हैं। ये वेतन सीधे भारत की संचित निधि पर भारित होते हैं।<br><br><b>Short Trick:</b><br>Centralized allowances and salary provisions for federal courts are always regulated by the Parliament.",
+    "topic": "Polity"
+  },
+  {
+    "ans": 2,
+    "difficulty": "Easy",
+    "op_en": [
+      "angiosperms",
+      "bryophytes",
+      "gymnosperms",
+      "pteridophytes"
+    ],
+    "op_hi": [
+      "आवृतबीजी (angiosperms)",
+      "ब्रायोफाइट्स (bryophytes)",
+      "अनावृतबीजी (gymnosperms)",
+      "टेरिडोफाइट्स (pteridophytes)"
+    ],
+    "q_en": "Plants that can live on soil but are dependent on water for sexual reproduction are called ________.",
+    "q_hi": "वे पौधे जो मिट्टी पर रह सकते हैं लेकिन लैंगिक जनन के लिए पानी पर निर्भर होते हैं, क्या कहलाते हैं?",
+    "section": "General Awareness1",
+    "solution": "<b>Solution (EN):</b><br>Bryophytes are widely referred to as the \"amphibians of the plant kingdom\". Even though they grow on terrestrial soil, they absolutely require a thin film of water to facilitate sexual reproduction so that the flagellated male gametes can swim to the egg.<br><br><b>Solution (HI):</b><br>ब्रायोफाइट्स को पादप जगत का \"उभयचर\" कहा जाता है। भले ही वे स्थलीय मिट्टी पर उगते हैं, लेकिन उन्हें लैंगिक जनन के लिए पानी की एक पतली परत की आवश्यकता होती है ताकि नर युग्मक तैरकर मादा अंडे तक पहुंच सकें।<br><br><b>Short Trick:</b><br>Soil dweller + Water dependent for reproduction = Plant Amphibians &rarr; Bryophytes.",
+    "topic": "Biology"
+  },
+  {
+    "ans": 1,
+    "difficulty": "Easy",
+    "op_en": [
+      "Karnataka",
+      "Odisha",
+      "Madhya Pradesh",
+      "Maharashtra"
+    ],
+    "op_hi": [
+      "कर्नाटक",
+      "ओडिशा",
+      "मध्य प्रदेश",
+      "महाराष्ट्र"
+    ],
+    "q_en": "In which of the following states are the gold ore deposits of<span style=\"background-color: white;\"> Chitradurga </span>and Kolar located?",
+    "q_hi": "निम्नलिखित में से किस राज्य में चित्रदुर्ग और कोलार के स्वर्ण अयस्क भंडार स्थित हैं?",
+    "section": "General Awareness1",
+    "solution": "<b>Solution (EN):</b><br>The major gold mining regions and ore reserves of India, specifically Kolar Gold Fields (KGF) and the Hutti/Chitradurga greenstone belts, are located in the state of Karnataka.<br><br><b>Solution (HI):</b><br>भारत के प्रमुख सोने के खनन क्षेत्र और अयस्क भंडार, विशेष रूप से कोलार गोल्ड फील्ड्स (KGF) और चित्रदुर्ग ग्रीनस्टोन बेल्ट, कर्नाटक राज्य में स्थित हैं।<br><br><b>Short Trick:</b><br>Kolar (famous via KGF) is situated directly in Karnataka.",
+    "topic": "Geography"
+  },
+  {
+    "ans": 2,
+    "difficulty": "Easy",
+    "op_en": [
+      "World Peace Day",
+      "International Day of Non-Violence",
+      "Global Human Rights Day",
+      "Freedom Movement Day"
+    ],
+    "op_hi": [
+      "विश्व शांति दिवस",
+      "अंतर्राष्ट्रीय अहिंसा दिवस",
+      "वैश्विक मानवाधिकार दिवस",
+      "स्वतंत्रता आंदोलन दिवस"
+    ],
+    "q_en": "Internationally, Gandhi Jayanti is known as _______.",
+    "q_hi": "अंतर्राष्ट्रीय स्तर पर गांधी जयंती को किस रूप में जाना जाता है?",
+    "section": "General Awareness1",
+    "solution": "<b>Solution (EN):</b><br>In June 2007, the United Nations General Assembly officially declared October 2 (the birthday of Mahatma Gandhi) as the International Day of Non-Violence to propagate his message of peace globally.<br><br><b>Solution (HI):</b><br>जून 2007 में, संयुक्त राष्ट्र महासभा ने महात्मा गांधी के शांति के संदेश को वैश्विक स्तर पर प्रसारित करने के लिए आधिकारिक तौर पर 2 अक्टूबर (महात्मा गांधी के जन्मदिन) को अंतर्राष्ट्रीय अहिंसा दिवस के रूप में घोषित किया था।<br><br><b>Short Trick:</b><br>Mahatma Gandhi is globally synonymous with Ahimsa &rarr; International Day of Non-Violence.",
+    "topic": "Important Days"
+  },
+  {
+    "ans": 2,
+    "difficulty": "Moderate",
+    "op_en": [
+      "River basins",
+      "Longitudinal valleys",
+      "Mountain peaks",
+      "Desert areas"
+    ],
+    "op_hi": [
+      "नदी घाटियाँ",
+      "अनुदैर्ध्य घाटियाँ (Longitudinal valleys)",
+      "पर्वत चोटियाँ",
+      "मरुस्थलीय क्षेत्र"
+    ],
+    "q_en": "What are duns?",
+    "q_hi": "दून (duns) क्या हैं?",
+    "section": "General Awareness1",
+    "solution": "<b>Solution (EN):</b><br>Duns are structural longitudinal valleys created between the Lesser Himalayas and the outer Shivalik range. Dehradun, Kotli Dun, and Patli Dun are well-known examples of this phenomenon.<br><br><b>Solution (HI):</b><br>दून संरचनात्मक अनुदैर्ध्य घाटियाँ (Longitudinal valleys) हैं जो लघु हिमालय और बाहरी शिवालिक श्रेणी के बीच बनती हैं। देहरादून, कोटली दून और पाटली दून इसके प्रसिद्ध उदाहरण हैं।<br><br><b>Short Trick:</b><br>Dehra'dun' is a famous valley layout embedded between mountains.",
+    "topic": "Geography"
+  },
+  {
+    "ans": 3,
+    "difficulty": "Moderate",
+    "op_en": [
+      "Prime Minister of India",
+      "President of India",
+      "Chairman of Rajya Sabha",
+      "Speaker of Lok Sabha"
+    ],
+    "op_hi": [
+      "भारत के प्रधानमंत्री",
+      "भारत के राष्ट्रपति",
+      "राज्यसभा के सभापति",
+      "लोकसभा अध्यक्ष"
+    ],
+    "q_en": "Who among the following appoints Secretary General of Rajya Sabha?",
+    "q_hi": "निम्नलिखित में से कौन राज्यसभा के महासचिव की नियुक्ति करता है?",
+    "section": "General Awareness1",
+    "solution": "<b>Solution (EN):</b><br>The Secretary-General of the Rajya Sabha holds a administrative rank equivalent to the Cabinet Secretary of India and is appointed directly by the Chairman of the Rajya Sabha (the Vice-President of India).<br><br><b>Solution (HI):</b><br>राज्यसभा के महासचिव का प्रशासनिक पद भारत के कैबिनेट सचिव के समकक्ष होता है और उनकी नियुक्ति सीधे राज्यसभा के सभापति (भारत के उपराष्ट्रपति) द्वारा की जाती है।<br><br><b>Short Trick:</b><br>The administrative head of any parliamentary house is appointed by the presiding officer of that house (Chairman for Rajya Sabha).",
+    "topic": "Polity"
+  },
+  {
+    "ans": 1,
+    "difficulty": "Moderate",
+    "op_en": [
+      "Quasi-Federal Constitution",
+      "Rigid Constitution",
+      "Flexible Constitution",
+      "Unitary Constitution"
+    ],
+    "op_hi": [
+      "अर्ध-संघीय संविधान (Quasi-Federal)",
+      "कठोर संविधान",
+      "लचीला संविधान",
+      "एकात्मक संविधान"
+    ],
+    "q_en": "Of which of the following types is the Indian Constitution?",
+    "q_hi": "भारतीय संविधान निम्नलिखित में से किस प्रकार का है?",
+    "section": "General Awareness1",
+    "solution": "<b>Solution (EN):</b><br>The Indian Constitution is famously described as 'Quasi-Federal' (unitary in spirit but federal in structure) by constitutional expert K.C. Wheare. It provides a strong central bias alongside regular federal divisions.<br><br><b>Solution (HI):</b><br>भारतीय संविधान को संवैधानिक विशेषज्ञ के.सी. व्हीयर द्वारा 'अर्ध-संघीय' (भावना में एकात्मक लेकिन संरचना में संघीय) के रूप में वर्णित किया गया है। यह नियमित संघीय विभाजनों के साथ एक मजबूत केंद्रीय झुकाव प्रदान करता है।<br><br><b>Short Trick:</b><br>Indian federalism is unique and centrally inclined &rarr; Quasi-Federal.",
+    "topic": "Polity"
+  },
+  {
+    "ans": 1,
+    "difficulty": "Easy",
+    "op_en": [
+      "Vikram Seth",
+      "Salman Rushdie",
+      "Jhumpa Lahiri",
+      "RK Narayan"
+    ],
+    "op_hi": [
+      "विक्रम सेठ (Vikram Seth)",
+      "सलमान रुश्दी (Salman Rushdie)",
+      "झुम्पा लाहिड़ी (Jhumpa Lahiri)",
+      "आरके नारायण (RK Narayan)"
+    ],
+    "q_en": "Who is the author of the novel ‘A Suitable Boy’?",
+    "q_hi": "‘A Suitable Boy’ उपन्यास के लेखक कौन हैं?",
+    "section": "General Awareness1",
+    "solution": "<b>Solution (EN):</b><br>'A Suitable Boy' is a highly celebrated massive novel published in 1993, written by Indian author Vikram Seth. It remains one of the longest single-volume English novels ever published.<br><br><b>Solution (HI):</b><br>'A Suitable Boy' 1993 में प्रकाशित भारतीय लेखक विक्रम सेठ द्वारा लिखित एक अत्यंत प्रसिद्ध और विशाल उपन्यास है। यह अंग्रेजी भाषा में प्रकाशित अब तक के सबसे लंबे एकल-खंड उपन्यासों में से एक है।<br><br><b>Short Trick:</b><br>Match phrase: Vikram Seth &rarr; A Suitable Boy.",
+    "topic": "Books and Authors"
+  }
+]
