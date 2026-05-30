@@ -1,0 +1,422 @@
+[
+  {
+    "ans": 2,
+    "difficulty": "Easy",
+    "op_en": [
+      "Shivaliks",
+      "Aravalli",
+      "Himachal Range",
+      "Himadri"
+    ],
+    "op_hi": [
+      "शिवालिक",
+      "अरावली",
+      "हिमाचल श्रेणी",
+      "हिमाद्रि"
+    ],
+    "q_en": "Which of the following mountain ranges is NOT part of the Himalayas?",
+    "q_hi": "निम्नलिखित में से कौन सी पर्वत श्रृंखला हिमालय का हिस्सा नहीं है?",
+    "section": "General Awareness1",
+    "solution": "<b>Solution (EN):</b><br>The Himalayas consist of three parallel ranges: the Himadri (Great Himalayas), Himachal (Lesser Himalayas), and Shivaliks (Outer Himalayas). The Aravalli Range is one of the oldest fold mountain systems in the world, located in western India (Rajasthan, Haryana, Gujarat), and is not part of the Himalayan system.<br><br><b>Solution (HI):</b><br>हिमालय में तीन समानांतर श्रेणियां शामिल हैं: हिमाद्रि (महान हिमालय), हिमाचल (लघु हिमालय), और शिवालिक (बाह्य हिमालय)। अरावली श्रेणी दुनिया की सबसे पुरानी वलित पर्वत प्रणालियों में से एक है, जो पश्चिमी भारत (राजस्थान, हरियाणा, गुजरात) में स्थित है, और हिमालयी प्रणाली का हिस्सा नहीं है।<br><br><b>Short Trick:</b><br>Himalayan layers: Himadri &rarr; Himachal &rarr; Shivalik. Aravalli is in Rajasthan/Oldest.",
+    "topic": "Indian Geography"
+  },
+  {
+    "ans": 2,
+    "difficulty": "Easy",
+    "op_en": [
+      "Soil restoration",
+      "Global warming",
+      "Biodiversity conservation",
+      "Climate stabilisation"
+    ],
+    "op_hi": [
+      "मिट्टी की बहाली",
+      "ग्लोबल वार्मिंग",
+      "जैव विविधता संरक्षण",
+      "जलवायु स्थिरीकरण"
+    ],
+    "q_en": "Which of the following is one of the negative consequences of the increasing adoption of industrial technology?",
+    "q_hi": "औद्योगिक तकनीक के बढ़ते उपयोग के नकारात्मक परिणामों में से कौन सा एक है?",
+    "section": "General Awareness1",
+    "solution": "<b>Solution (EN):</b><br>Industrial technology often involves the burning of fossil fuels and large-scale manufacturing, which leads to the emission of greenhouse gases like Carbon Dioxide (CO2). This results in global warming. Other options like soil restoration and biodiversity conservation are positive environmental outcomes.<br><br><b>Solution (HI):</b><br>औद्योगिक तकनीक में अक्सर जीवाश्म ईंधन को जलाना और बड़े पैमाने पर विनिर्माण शामिल होता है, जिससे कार्बन डाइऑक्साइड (CO2) जैसी ग्रीनहाउस गैसों का उत्सर्जन होता है। इसके परिणामस्वरूप ग्लोबल वार्मिंग होती है। मिट्टी की बहाली और जैव विविधता संरक्षण जैसे अन्य विकल्प सकारात्मक पर्यावरणीय परिणाम हैं।<br><br><b>Short Trick:</b><br>Industry &rarr; Pollution/CO2 &rarr; Global Warming.",
+    "topic": "Environment"
+  },
+  {
+    "ans": 4,
+    "difficulty": "Moderate",
+    "op_en": [
+      "Kajal and Jyoti Berwal",
+      "Pooja Sihag and Tapasya Gahlawat",
+      "Saarika and Shruti Kundu",
+      "Reena and Priya Malik"
+    ],
+    "op_hi": [
+      "काजल और ज्योति बेरवाल",
+      "पूजा सिहाग और तपस्या गहलावत",
+      "सारिका और श्रुति कुंडू",
+      "रीना और प्रिया मलिक"
+    ],
+    "q_en": "In August 2025, which two Indian women wrestlers won silver medals at the U20 World Wrestling Championships in Bulgaria?",
+    "q_hi": "अगस्त 2025 में, बुल्गारिया में आयोजित U20 विश्व कुश्ती चैंपियनशिप में किन दो भारतीय महिला पहलवानों ने रजत पदक जीते?",
+    "section": "General Awareness1",
+    "solution": "<b>Solution (EN):</b><br>At the 2025 U20 World Wrestling Championships held in Bulgaria, Indian wrestlers Reena (57kg) and Priya Malik (76kg) secured silver medals, contributing to India's strong performance in the tournament.<br><br><b>Solution (HI):</b><br>बुल्गारिया में आयोजित 2025 U20 विश्व कुश्ती चैंपियनशिप में, भारतीय पहलवान रीना (57 किग्रा) और प्रिया मलिक (76 किग्रा) ने रजत पदक हासिल किए, जिससे टूर्नामेंट में भारत के मजबूत प्रदर्शन में योगदान मिला।<br><br><b>Short Trick:</b><br>Silver Duo 2025: Reena &amp; Priya.",
+    "topic": "Current Affairs - Sports"
+  },
+  {
+    "ans": 4,
+    "difficulty": "Easy",
+    "op_en": [
+      "Ganga, Yamuna and Tapi",
+      "Brahmaputra, Yamuna and Mahanadi",
+      "Yamuna, Godavari and Krishna",
+      "Indus, Ganga and Brahmaputra"
+    ],
+    "op_hi": [
+      "गंगा, यमुना और तापी",
+      "ब्रह्मपुत्र, यमुना और महानदी",
+      "यमुना, गोदावरी और कृष्णा",
+      "सिंधु, गंगा और ब्रह्मपुत्र"
+    ],
+    "q_en": "Which of the following major river systems contributes to the formation of the northern plain?",
+    "q_hi": "निम्नलिखित में से कौन सी प्रमुख नदी प्रणाली उत्तरी मैदान के निर्माण में योगदान देती है?",
+    "section": "General Awareness1",
+    "solution": "<b>Solution (EN):</b><br>The Northern Plains of India (Indo-Gangetic-Brahmaputra plain) are formed by the alluvial deposits brought down by the three major Himalayan river systems: the Indus, the Ganga, and the Brahmaputra, along with their tributaries.<br><br><b>Solution (HI):</b><br>भारत के उत्तरी मैदान (सिंधु-गंगा-ब्रह्मपुत्र मैदान) तीन प्रमुख हिमालयी नदी प्रणालियों: सिंधु, गंगा और ब्रह्मपुत्र, उनकी सहायक नदियों के साथ, द्वारा लाए गए जलोढ़ निक्षेपों से बने हैं।<br><br><b>Short Trick:</b><br>IGB Plain = Indus + Ganga + Brahmaputra.",
+    "topic": "Indian Geography"
+  },
+  {
+    "ans": 2,
+    "difficulty": "Easy",
+    "op_en": [
+      "Basant Panchami",
+      "Guru Purab",
+      "Dol Jatra",
+      "Vaisakhi"
+    ],
+    "op_hi": [
+      "बसंत पंचमी",
+      "गुरु पूरब",
+      "डोल जात्रा",
+      "बैसाखी"
+    ],
+    "q_en": "What is the name of the festival that celebrates the anniversary of the ten Sikh Gurus?",
+    "q_hi": "उस त्योहार का नाम क्या है जो दस सिख गुरुओं की वर्षगांठ मनाता है?",
+    "section": "General Awareness1",
+    "solution": "<b>Solution (EN):</b><br>Gurpurab (Guru Purab) refers to the celebration of the birth anniversary or martyrdom of the Sikh Gurus. The most famous one is Guru Nanak Gurpurab. Vaisakhi is the harvest festival and the anniversary of the formation of Khalsa Panth.<br><br><b>Solution (HI):</b><br>गुरुपुरब (गुरु पूरब) सिख गुरुओं की जयंती या शहादत के उत्सव को संदर्भित करता है। सबसे प्रसिद्ध गुरु नानक गुरुपुरब है। बैसाखी फसल उत्सव और खालसा पंथ की स्थापना की वर्षगांठ है।<br><br><b>Short Trick:</b><br>Guru + Purab (Occurrence/Festival) = Guru's Anniversary.",
+    "topic": "Culture & Religion"
+  },
+  {
+    "ans": 4,
+    "difficulty": "Easy",
+    "op_en": [
+      "Holi",
+      "Christmas Day",
+      "Eid",
+      "Navratri"
+    ],
+    "op_hi": [
+      "होली",
+      "क्रिसमस",
+      "ईद",
+      "नवरात्रि"
+    ],
+    "q_en": "Garba nights are significantly organised during which festival?",
+    "q_hi": "गरबा रातों का आयोजन मुख्य रूप से किस त्योहार के दौरान किया जाता है?",
+    "section": "General Awareness1",
+    "solution": "<b>Solution (EN):</b><br>Garba is a traditional folk dance of Gujarat, performed during the nine nights of the Navratri festival in honor of Goddess Durga. It involves dancing in a circular pattern around a lamp or a picture of the Goddess.<br><br><b>Solution (HI):</b><br>गरबा गुजरात का एक पारंपरिक लोक नृत्य है, जो देवी दुर्गा के सम्मान में नवरात्रि उत्सव की नौ रातों के दौरान किया जाता है। इसमें एक दीपक या देवी की तस्वीर के चारों ओर गोलाकार पैटर्न में नृत्य करना शामिल है।<br><br><b>Short Trick:</b><br>Gujarat + Navratri = Garba/Dandiya.",
+    "topic": "Culture"
+  },
+  {
+    "ans": 1,
+    "difficulty": "Moderate",
+    "op_en": [
+      "the interaction between genes and nutrients",
+      "the marketing of dietary supplements",
+      "the economic impact of agriculture",
+      "the chemistry of artificial sweeteners"
+    ],
+    "op_hi": [
+      "जीन और पोषक तत्वों के बीच परस्पर क्रिया",
+      "आहार पूरक (dietary supplements) का विपणन",
+      "कृषि का आर्थिक प्रभाव",
+      "कृत्रिम मिठास का रसायन विज्ञान"
+    ],
+    "q_en": "Nutrigenomics is the study of __________.<br>",
+    "q_hi": "न्यूट्रीजेनोमिक्स (Nutrigenomics) __________ का अध्ययन है।",
+    "section": "General Awareness1",
+    "solution": "<b>Solution (EN):</b><br>Nutrigenomics (also known as nutritional genomics) is a branch of science that studies the relationship between human genome, nutrition and health. It focuses on how individual genetic differences affect our response to nutrients and how nutrients affect our genes.<br><br><b>Solution (HI):</b><br>न्यूट्रीजेनोमिक्स (जिसे पोषण जीनोमिक्स के रूप में भी जाना जाता है) विज्ञान की एक शाखा है जो मानव जीनोम, पोषण और स्वास्थ्य के बीच संबंधों का अध्ययन करती है। यह इस बात पर ध्यान केंद्रित करता है कि व्यक्तिगत आनुवंशिक अंतर पोषक तत्वों के प्रति हमारी प्रतिक्रिया को कैसे प्रभावित करते हैं और पोषक तत्व हमारे जीन को कैसे प्रभावित करते हैं।<br><br><b>Short Trick:</b><br>Nutri (Nutrition) + Genomics (Genes) = Interaction of Food and Genes.",
+    "topic": "Science - Biology"
+  },
+  {
+    "ans": 2,
+    "difficulty": "Easy",
+    "op_en": [
+      "1951",
+      "1881",
+      "1872",
+      "1865"
+    ],
+    "op_hi": [
+      "1951",
+      "1881",
+      "1872",
+      "1865"
+    ],
+    "q_en": "Which year marked India’s first coordinated nationwide population census?",
+    "q_hi": "किस वर्ष भारत की पहली समन्वित राष्ट्रव्यापी जनसंख्या जनगणना हुई थी?",
+    "section": "General Awareness1",
+    "solution": "<b>Solution (EN):</b><br>The first non-synchronous census in India was held in 1872 under Lord Mayo. However, the first synchronous (coordinated/nationwide) census was conducted in 1881 under Lord Ripon. Since then, censuses have been conducted every 10 years.<br><br><b>Solution (HI):</b><br>भारत में पहली गैर-तुल्यकालिक जनगणना 1872 में लॉर्ड मेयो के तहत हुई थी। हालांकि, पहली तुल्यकालिक (समन्वित/राष्ट्रव्यापी) जनगणना 1881 में लॉर्ड रिपन के तहत आयोजित की गई थी। तब से, हर 10 साल में जनगणना की जाती है।<br><br><b>Short Trick:</b><br>First (Partial): 1872; First (Nationwide/Regular): 1881.",
+    "topic": "History - Census"
+  },
+  {
+    "ans": 2,
+    "difficulty": "Moderate",
+    "op_en": [
+      "243 G",
+      "243 I",
+      "243 J",
+      "243 F"
+    ],
+    "op_hi": [
+      "243 G",
+      "243 I",
+      "243 J",
+      "243 F"
+    ],
+    "q_en": "Which Article of the Indian Constitution mandates the establishment of a State Finance Commission (SFC) by the Governor every five years to review the financial position of Panchayats and Municipalities?",
+    "q_hi": "भारतीय संविधान का कौन सा अनुच्छेद राज्यपाल द्वारा पंचायतों और नगर पालिकाओं की वित्तीय स्थिति की समीक्षा के लिए हर पांच साल में राज्य वित्त आयोग (SFC) की स्थापना का आदेश देता है?",
+    "section": "General Awareness1",
+    "solution": "<b>Solution (EN):</b><br>Article 243-I of the Constitution mandates the Governor of a state to constitute a State Finance Commission every five years to review the financial position of Panchayats and make recommendations. Article 243-Y does the same for Municipalities.<br><br><b>Solution (HI):</b><br>संविधान का अनुच्छेद 243-I राज्य के राज्यपाल को पंचायतों की वित्तीय स्थिति की समीक्षा करने और सिफारिशें करने के लिए हर पांच साल में एक राज्य वित्त आयोग गठित करने का आदेश देता है। अनुच्छेद 243-Y नगर पालिकाओं के लिए भी यही करता है।<br><br><b>Short Trick:</b><br>I &rarr; Income/Finance for Panchayats.",
+    "topic": "Indian Polity"
+  },
+  {
+    "ans": 4,
+    "difficulty": "Easy",
+    "op_en": [
+      "Governor",
+      "Block Development officer",
+      "Chief Minister",
+      "District Collector"
+    ],
+    "op_hi": [
+      "राज्यपाल",
+      "खंड विकास अधिकारी",
+      "मुख्यमंत्री",
+      "जिला कलेक्टर"
+    ],
+    "q_en": "In a state, who is responsible for supervising the functioning of Panchayats?",
+    "q_hi": "किसी राज्य में पंचायतों के कामकाज के पर्यवेक्षण के लिए कौन जिम्मेदार है?",
+    "section": "General Awareness1",
+    "solution": "<b>Solution (EN):</b><br>At the district level, the District Collector (or District Magistrate) is generally responsible for the overall supervision, coordination, and control over the functioning of the Panchayati Raj Institutions (PRIs).<br><br><b>Solution (HI):</b><br>जिला स्तर पर, जिला कलेक्टर (या जिला मजिस्ट्रेट) आम तौर पर पंचायती राज संस्थानों (PRIs) के कामकाज के समग्र पर्यवेक्षण, समन्वय और नियंत्रण के लिए जिम्मेदार होता है।<br><br><b>Short Trick:</b><br>Head of District Admin = Collector.",
+    "topic": "Indian Polity"
+  },
+  {
+    "ans": 3,
+    "difficulty": "Easy",
+    "op_en": [
+      "Udta Punjab",
+      "Dear Zindagi",
+      "Gangubai Kathiawadi",
+      "Raazi"
+    ],
+    "op_hi": [
+      "उड़ता पंजाब",
+      "डियर जिंदगी",
+      "गंगूबाई काठियावाड़ी",
+      "राजी"
+    ],
+    "q_en": "For which film did Alia Bhatt win the 'Best Actress' National Award in 2023?",
+    "q_hi": "आलिया भट्ट ने 2023 में किस फिल्म के लिए 'सर्वश्रेष्ठ अभिनेत्री' का राष्ट्रीय पुरस्कार जीता?",
+    "section": "General Awareness1",
+    "solution": "<b>Solution (EN):</b><br>Alia Bhatt won the Best Actress award at the 69th National Film Awards (2023) for her performance in the film 'Gangubai Kathiawadi'. She shared the award with Kriti Sanon (for Mimi).<br><br><b>Solution (HI):</b><br>आलिया भट्ट ने फिल्म 'गंगूबाई काठियावाड़ी' में अपने प्रदर्शन के लिए 69वें राष्ट्रीय फिल्म पुरस्कार (2023) में सर्वश्रेष्ठ अभिनेत्री का पुरस्कार जीता। उन्होंने यह पुरस्कार कृति सेनन (मिमी के लिए) के साथ साझा किया।<br><br><b>Short Trick:</b><br>Alia &rarr; Gangubai (National Award 2023).",
+    "topic": "Awards"
+  },
+  {
+    "ans": 4,
+    "difficulty": "Easy",
+    "op_en": [
+      "air pollution",
+      "soil erosion",
+      "deforestation",
+      "water scarcity"
+    ],
+    "op_hi": [
+      "वायु प्रदूषण",
+      "मृदा अपरदन",
+      "वनों की कटाई",
+      "पानी की कमी"
+    ],
+    "q_en": "Desalination technology primarily addresses the problem of _______.<br>",
+    "q_hi": "डिसेलिनेशन (Desalination) तकनीक मुख्य रूप से _______ की समस्या का समाधान करती है।",
+    "section": "General Awareness1",
+    "solution": "<b>Solution (EN):</b><br>Desalination is the process of removing mineral components (salts) from saline water (usually seawater) to make it suitable for human consumption or irrigation. It is used in regions facing extreme water scarcity.<br><br><b>Solution (HI):</b><br>डिसेलिनेशन खारे पानी (आमतौर पर समुद्री पानी) से खनिज घटकों (लवण) को हटाने की प्रक्रिया है ताकि इसे मानव उपभोग या सिंचाई के लिए उपयुक्त बनाया जा सके। इसका उपयोग अत्यधिक पानी की कमी का सामना करने वाले क्षेत्रों में किया जाता है।<br><br><b>Short Trick:</b><br>De (Remove) + Saline (Salt) &rarr; Fresh Water &rarr; Fixes Scarcity.",
+    "topic": "Science - Technology"
+  },
+  {
+    "ans": 2,
+    "difficulty": "Moderate",
+    "op_en": [
+      "Ramakant Achrekar",
+      "Salim Durani",
+      "Ajit Wadekar",
+      "Cottari Kanakaiya Nayudu"
+    ],
+    "op_hi": [
+      "रमाकांत अचरेकर",
+      "सलीम दुरानी",
+      "अजीत वाडेकर",
+      "कोट्टारी कनकैया नायडू"
+    ],
+    "q_en": "Who among the following was the first Indian male cricketer to win the Arjuna Award?",
+    "q_hi": "निम्नलिखित में से कौन अर्जुन पुरस्कार जीतने वाले पहले भारतीय पुरुष क्रिकेटर थे?",
+    "section": "General Awareness1",
+    "solution": "<b>Solution (EN):</b><br>Salim Durani was the first male cricketer to be honored with the Arjuna Award in 1961, which was the inception year of the award. He was known for his ability to hit sixes on public demand.<br><br><b>Solution (HI):</b><br>सलीम दुरानी 1961 में अर्जुन पुरस्कार से सम्मानित होने वाले पहले पुरुष क्रिकेटर थे, जो इस पुरस्कार का स्थापना वर्ष था। वे जनता की मांग पर छक्के मारने की अपनी क्षमता के लिए जाने जाते थे।<br><br><b>Short Trick:</b><br>First Cricket Arjuna: Salim Durani (1961).",
+    "topic": "Sports - Awards"
+  },
+  {
+    "ans": 2,
+    "difficulty": "Moderate",
+    "op_en": [
+      "Article 18",
+      "Article 16",
+      "Article 15",
+      "Article 14"
+    ],
+    "op_hi": [
+      "अनुच्छेद 18",
+      "अनुच्छेद 16",
+      "अनुच्छेद 15",
+      "अनुच्छेद 14"
+    ],
+    "q_en": "Which Article in the Indian Constitution states that the state cannot discriminate against anyone in the matter of public employment?",
+    "q_hi": "भारतीय संविधान के किस अनुच्छेद में कहा गया है कि राज्य सार्वजनिक रोजगार के मामले में किसी के साथ भेदभाव नहीं कर सकता है?",
+    "section": "General Awareness1",
+    "solution": "<b>Solution (EN):</b><br>Article 16 of the Indian Constitution provides for equality of opportunity for all citizens in matters relating to employment or appointment to any office under the State and prohibits discrimination on grounds of religion, race, caste, sex, descent, place of birth, or residence.<br><br><b>Solution (HI):</b><br>भारतीय संविधान का अनुच्छेद 16 राज्य के अधीन किसी भी कार्यालय में रोजगार या नियुक्ति से संबंधित मामलों में सभी नागरिकों के लिए अवसर की समानता प्रदान करता है और धर्म, मूलवंश, जाति, लिंग, वंश, जन्म स्थान या निवास के आधार पर भेदभाव को रोकता है।<br><br><b>Short Trick:</b><br>Article 16 = Employment Equality.",
+    "topic": "Indian Polity"
+  },
+  {
+    "ans": 4,
+    "difficulty": "Moderate",
+    "op_en": [
+      "Only manual data entry",
+      "No reference date given",
+      "Coverage limited to five states",
+      "Digital census with caste data"
+    ],
+    "op_hi": [
+      "केवल मैनुअल डेटा प्रविष्टि",
+      "कोई संदर्भ तिथि नहीं दी गई",
+      "कवरेज पांच राज्यों तक सीमित",
+      "जाति डेटा के साथ डिजिटल जनगणना"
+    ],
+    "q_en": "Which feature distinguishes Census 2027 from earlier censuses since independence?",
+    "q_hi": "कौन सी विशेषता जनगणना 2027 को आजादी के बाद की पिछली जनगणनाओं से अलग करती है?",
+    "section": "General Awareness1",
+    "solution": "<b>Solution (EN):</b><br>The next census (planned for 2027) is expected to be India's first digital census, where data will be collected via mobile apps. There is also a significant demand and focus on including detailed caste data in this exercise.<br><br><b>Solution (HI):</b><br>अगली जनगणना (2027 के लिए योजनाबद्ध) भारत की पहली डिजिटल जनगणना होने की उम्मीद है, जहां मोबाइल ऐप के माध्यम से डेटा एकत्र किया जाएगा। इस अभ्यास में विस्तृत जाति डेटा शामिल करने पर भी महत्वपूर्ण मांग और ध्यान है।<br><br><b>Short Trick:</b><br>2027 Census &rarr; Digital + Caste focus.",
+    "topic": "Current Affairs - Census"
+  },
+  {
+    "ans": 4,
+    "difficulty": "Moderate",
+    "op_en": [
+      "Committee on Privileges",
+      "Estimates Committee",
+      "Rules Committee",
+      "Public Accounts Committee"
+    ],
+    "op_hi": [
+      "विशेषाधिकार समिति",
+      "प्राक्कलन समिति",
+      "नियम समिति",
+      "लोक लेखा समिति"
+    ],
+    "q_en": "Which Parliamentary Committee examines whether government spending is within the authority granted by the Parliament?",
+    "q_hi": "कौन सी संसदीय समिति इस बात की जांच करती है कि क्या सरकारी खर्च संसद द्वारा दी गई अनुमति के भीतर है?",
+    "section": "General Awareness1",
+    "solution": "<b>Solution (EN):</b><br>The Public Accounts Committee (PAC) examines the annual audit reports of the Comptroller and Auditor General (CAG). Its primary role is to check if the money spent by the government was legally available and used for the purpose it was intended for.<br><br><b>Solution (HI):</b><br>लोक लेखा समिति (PAC) भारत के नियंत्रक और महालेखा परीक्षक (CAG) की वार्षिक ऑडिट रिपोर्ट की जांच करती है। इसकी प्राथमिक भूमिका यह जांचना है कि सरकार द्वारा खर्च किया गया पैसा कानूनी रूप से उपलब्ध था और उसी उद्देश्य के लिए उपयोग किया गया था जिसके लिए इसका इरादा था।<br><br><b>Short Trick:</b><br>Spend Audit = PAC (Public Accounts Committee).",
+    "topic": "Indian Polity"
+  },
+  {
+    "ans": 4,
+    "difficulty": "Easy",
+    "op_en": [
+      "Increasing screen addiction",
+      "Managing hospital waste",
+      "Nanoparticle and vibration therapy",
+      "Continuous monitoring of vital signs"
+    ],
+    "op_hi": [
+      "स्क्रीन की लत बढ़ाना",
+      "अस्पताल के कचरे का प्रबंधन",
+      "नैनोकण और कंपन चिकित्सा",
+      "महत्वपूर्ण संकेतों (vital signs) की निरंतर निगरानी"
+    ],
+    "q_en": "Which of the following best represents the primary function of wearable health devices?",
+    "q_hi": "निम्नलिखित में से कौन पहनने योग्य स्वास्थ्य उपकरणों (wearable health devices) के प्राथमिक कार्य का सबसे अच्छा प्रतिनिधित्व करता है?",
+    "section": "General Awareness1",
+    "solution": "<b>Solution (EN):</b><br>Wearable health devices (like smartwatches and fitness trackers) are used for real-time and continuous monitoring of physiological parameters such as heart rate, blood pressure, sleep patterns, and physical activity.<br><br><b>Solution (HI):</b><br>पहनने योग्य स्वास्थ्य उपकरण (जैसे स्मार्टवॉच और फिटनेस ट्रैकर) हृदय गति, रक्तचाप, नींद के पैटर्न और शारीरिक गतिविधि जैसे शारीरिक मापदंडों की वास्तविक समय और निरंतर निगरानी के लिए उपयोग किए जाते हैं।<br><br><b>Short Trick:</b><br>Wearable = Real-time monitoring.",
+    "topic": "Science - Technology"
+  },
+  {
+    "ans": 4,
+    "difficulty": "Moderate",
+    "op_en": [
+      "David Silva",
+      "Rohan Kumar",
+      "Liam O'Connell",
+      "Hitesh Gulia"
+    ],
+    "op_hi": [
+      "डेविड सिल्वा",
+      "रोहन कुमार",
+      "लियाम ओ'कोनेल",
+      "हितेश गुलिया"
+    ],
+    "q_en": "At the 2025 World Boxing Cup in Foz do Iguaçu, Brazil, which athlete secured the gold medal in the Men's 70 kg division?",
+    "q_hi": "ब्राजील के फोज डो इगुआकु में आयोजित 2025 विश्व मुक्केबाजी कप में, किस एथलीट ने पुरुषों के 70 किग्रा वर्ग में स्वर्ण पदक जीता?",
+    "section": "General Awareness1",
+    "solution": "<b>Solution (EN):</b><br>In the 2025 World Boxing Cup held in Brazil, Indian boxer Hitesh Gulia delivered an outstanding performance to win the gold medal in the Men's 70 kg weight category.<br><br><b>Solution (HI):</b><br>ब्राजील में आयोजित 2025 विश्व मुक्केबाजी कप में, भारतीय मुक्केबाज हितेश गुलिया ने पुरुषों के 70 किग्रा भार वर्ग में स्वर्ण पदक जीतने के लिए उत्कृष्ट प्रदर्शन किया।<br><br><b>Short Trick:</b><br>Hitesh &rarr; 70kg Gold &rarr; Boxing 2025.",
+    "topic": "Current Affairs - Sports"
+  },
+  {
+    "ans": 2,
+    "difficulty": "Moderate",
+    "op_en": [
+      "Nanda Devi",
+      "Manas",
+      "Sundarvan",
+      "Gulf of Mannar"
+    ],
+    "op_hi": [
+      "नंदा देवी",
+      "मानस",
+      "सुंदरवन",
+      "मन्नार की खाड़ी"
+    ],
+    "q_en": "Which of the following bio-reserves of India is NOT included in the World Network of Biosphere Reserves?",
+    "q_hi": "भारत के निम्नलिखित जैव-आरक्षित क्षेत्रों (bio-reserves) में से कौन विश्व नेटवर्क ऑफ बायोस्फीयर रिजर्व में शामिल नहीं है?",
+    "section": "General Awareness1",
+    "solution": "<b>Solution (EN):</b><br>While India has 18 Biosphere Reserves, only 12 are currently part of the UNESCO World Network of Biosphere Reserves (WNBR). Manas (Assam) is a Biosphere Reserve but is NOT included in the WNBR. Nanda Devi, Sundarban, and Gulf of Mannar are included.<br><br><b>Solution (HI):</b><br>जबकि भारत में 18 बायोस्फीयर रिजर्व हैं, केवल 12 वर्तमान में यूनेस्को के वर्ल्ड नेटवर्क ऑफ बायोस्फीयर रिजर्व (WNBR) का हिस्सा हैं। मानस (असम) एक बायोस्फीयर रिजर्व है लेकिन WNBR में शामिल नहीं है। नंदा देवी, सुंदरवन और मन्नार की खाड़ी इसमें शामिल हैं।<br><br><b>Short Trick:</b><br>Manas = Biosphere Reserve &ne; UNESCO WNBR list.",
+    "topic": "Indian Geography - Environment"
+  },
+  {
+    "ans": 3,
+    "difficulty": "Easy",
+    "op_en": [
+      "30",
+      "25",
+      "15",
+      "20"
+    ],
+    "op_hi": [
+      "30",
+      "25",
+      "15",
+      "20"
+    ],
+    "q_en": "The total number of ministers, including the Prime Minister, in the Council of Ministers shall not exceed ________% of the total number of members of the House of the People.",
+    "q_hi": "मंत्रिपरिषद में प्रधान मंत्री सहित मंत्रियों की कुल संख्या लोकसभा के सदस्यों की कुल संख्या के ________% से अधिक नहीं होगी।",
+    "section": "General Awareness1",
+    "solution": "<b>Solution (EN):</b><br>As per the 91st Amendment Act, 2003, the size of the Council of Ministers (at both Union and State levels) was limited to 15% of the total strength of the Lok Sabha (Union) or the Legislative Assembly (State).<br><br><b>Solution (HI):</b><br>91वें संशोधन अधिनियम, 2003 के अनुसार, मंत्रिपरिषद का आकार (केंद्र और राज्य दोनों स्तरों पर) लोकसभा (केंद्र) या विधानसभा (राज्य) की कुल शक्ति के 15% तक सीमित कर दिया गया था।<br><br><b>Short Trick:</b><br>Max Ministers = 15% of House Members.",
+    "topic": "Indian Polity"
+  }
+]
