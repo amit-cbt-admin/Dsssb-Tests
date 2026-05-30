@@ -1,0 +1,422 @@
+[
+  {
+    "section": "Quantitative Aptitude",
+    "topic": "Percentage",
+    "difficulty": "Moderate",
+    "q_en": "If decreasing 120 by x% gives the same result as increasing 40 by x%, then x% of 210 is more than (x-20)% of 180 by: (correct to nearest integer)",
+    "q_hi": "यदि 120 को x% से घटाने पर वही परिणाम मिलता है जो 40 को x% से बढ़ाने पर मिलता है, तो 210 का x%, 180 के (x-20)% से कितना अधिक है: (निकटतम पूर्णांक तक)",
+    "op_en": [
+      "74%",
+      "120%",
+      "111%",
+      "94%"
+    ],
+    "op_hi": [
+      "74%",
+      "120%",
+      "111%",
+      "94%"
+    ],
+    "ans": 4,
+    "solution": "<b>Solution (EN):</b><br>Given:<br>$120 \\times \\frac{100 - x}{100} = 40 \\times \\frac{100 + x}{100}$<br>$3 \\times (100 - x) = 100 + x$<br>$300 - 3x = 100 + x$<br>$4x = 200 \\Rightarrow x = 50$<br><br>Now, find $x\\%$ of $210$:<br>$50\\%$ of $210 = 105$<br><br>Find $(x - 20)\\%$ of $180$:<br>$(50 - 20)\\%$ of $180 = 30\\%$ of $180 = 54$<br><br>Difference $= 105 - 54 = 51$<br>Required Percentage $= \\frac{51}{54} \\times 100 = 94.44\\% \\approx 94\\%$<br><br><b>Solution (HI):</b><br>दिया गया है:<br>$120 \\times \\frac{100 - x}{100} = 40 \\times \\frac{100 + x}{100}$<br>$3 \\times (100 - x) = 100 + x$<br>$300 - 3x = 100 + x$<br>$4x = 200 \\Rightarrow x = 50$<br><br>अब, $210$ का $x\\%$ ज्ञात करें:<br>$210$ का $50\\% = 105$<br><br>$180$ का $(x - 20)\\%$ ज्ञात करें:<br>$180$ का $(50 - 20)\\% = 180$ का $30\\% = 54$<br><br>अंतर $= 105 - 54 = 51$<br>अभीष्ट प्रतिशत $= \\frac{51}{54} \\times 100 = 94.44\\% \\approx 94\\%$<br><br><b>Short Trick:</b><br>Ratio of numbers $= 120 : 40 = 3 : 1$.<br>Difference in ratio / Sum in ratio $= \\frac{3-1}{3+1} = \\frac{2}{4} = \\frac{1}{2} = 50\\%$. So $x = 50$.<br>Required $\\% = \\frac{105 - 54}{54} \\times 100 = \\frac{51}{54} \\times 100 \\approx 94\\%$."
+  },
+  {
+    "section": "Quantitative Aptitude",
+    "topic": "Number System",
+    "difficulty": "Moderate",
+    "q_en": "If a nine-digit number 785x3678y is divisible by 72, then the value of (3x-4y) is:",
+    "q_hi": "यदि नौ अंकों की संख्या 785x3678y, 72 से विभाज्य है, तो (3x-4y) का मान क्या है:",
+    "op_en": [
+      "2",
+      "12",
+      "4",
+      "5"
+    ],
+    "op_hi": [
+      "2",
+      "12",
+      "4",
+      "5"
+    ],
+    "ans": 1,
+    "solution": "<b>Solution (EN):</b><br>For a number to be divisible by 72, it must be divisible by both 8 and 9.<br><b>Divisibility by 8:</b> The last 3 digits must be divisible by 8.<br>Here, 78y should be divisible by 8. The multiple of 8 near 780 is 784 (98 &times; 8). Thus, y = 4.<br><b>Divisibility by 9:</b> The sum of all digits must be divisible by 9.<br>Sum = 7 + 8 + 5 + x + 3 + 6 + 7 + 8 + 4 = 48 + x.<br>The nearest multiple of 9 greater than 48 is 54. So, 48 + x = 54 &rArr; x = 6.<br>Now find (3x - 4y):<br>3(6) - 4(4) = 18 - 16 = 2.<br><br><b>Solution (HI):</b><br>किसी संख्या के 72 से विभाज्य होने के लिए, उसे 8 और 9 दोनों से विभाज्य होना चाहिए।<br><b>8 से विभाज्यता:</b> अंतिम 3 अंक 8 से विभाज्य होने चाहिए।<br>यहाँ, 78y, 8 से विभाज्य होना चाहिए। 780 के पास 8 का गुणज 784 (98 &times; 8) है। अतः, y = 4.<br><b>9 से विभाज्यता:</b> सभी अंकों का योग 9 से विभाज्य होना चाहिए।<br>योग = 7 + 8 + 5 + x + 3 + 6 + 7 + 8 + 4 = 48 + x.<br>48 से बड़ा 9 का निकटतम गुणज 54 है। अतः, 48 + x = 54 &rArr; x = 6.<br>अब (3x - 4y) का मान ज्ञात करें:<br>3(6) - 4(4) = 18 - 16 = 2.<br><br><b>Short Trick:</b><br>Check 78y &divide; 8 &rArr; y=4.<br>Digital sum of 785x36784 &rArr; 48+x &rArr; 3+x. For divisibility by 9, 3+x = 9 &rArr; x=6.<br>Ans: 3(6)-4(4) = 18 - 16 = 2."
+  },
+  {
+    "section": "Quantitative Aptitude",
+    "topic": "HCF & LCM",
+    "difficulty": "Easy",
+    "q_en": "Which largest number will divide 2,042 and 233 leaving remainders 18 and 13, respectively?",
+    "q_hi": "वह सबसे बड़ी संख्या कौन सी है जिससे 2,042 और 233 को विभाजित करने पर क्रमशः 18 और 13 शेष बचता है?",
+    "op_en": [
+      "88",
+      "44",
+      "22",
+      "66"
+    ],
+    "op_hi": [
+      "88",
+      "44",
+      "22",
+      "66"
+    ],
+    "ans": 2,
+    "solution": "<b>Solution (EN):</b><br>To find the largest number that divides given numbers leaving specific remainders, we find the HCF of (Number - Remainder).<br>Number 1 = 2042 - 18 = 2024<br>Number 2 = 233 - 13 = 220<br>Now, find HCF of 2024 and 220.<br>Factors of 220 = 44 &times; 5<br>Factors of 2024 = 44 &times; 46<br>The Highest Common Factor (HCF) is 44.<br><br><b>Solution (HI):</b><br>वह सबसे बड़ी संख्या ज्ञात करने के लिए जो दी गई संख्याओं को विभाजित करने पर विशिष्ट शेषफल छोड़ती है, हम (संख्या - शेषफल) का HCF निकालते हैं।<br>संख्या 1 = 2042 - 18 = 2024<br>संख्या 2 = 233 - 13 = 220<br>अब, 2024 और 220 का HCF (म.स.प.) ज्ञात करें।<br>220 के गुणनखंड = 44 &times; 5<br>2024 के गुणनखंड = 44 &times; 46<br>महत्तम समापवर्तक (HCF) 44 है।<br><br><b>Short Trick:</b><br>Required No. = HCF(2042-18, 233-13) = HCF(2024, 220).<br>Since 220 = 44 &times; 5 and 2024 is not divisible by 5, check for 44. 2024 is exactly divisible by 44. Ans = 44."
+  },
+  {
+    "section": "Quantitative Aptitude",
+    "topic": "Time and Work",
+    "difficulty": "Easy",
+    "q_en": "A can do a certain job in 18 days. B is 50% more efficient than A. How many days does B alone take to do the same job?",
+    "q_hi": "A किसी निश्चित कार्य को 18 दिनों में कर सकता है। B, A से 50% अधिक कुशल है। B अकेले उसी कार्य को करने में कितने दिन लेगा?",
+    "op_en": [
+      "10",
+      "12",
+      "15",
+      "18"
+    ],
+    "op_hi": [
+      "10",
+      "12",
+      "15",
+      "18"
+    ],
+    "ans": 2,
+    "solution": "<b>Solution (EN):</b><br>Let the efficiency of A be 100.<br>Since B is 50% more efficient, efficiency of B = 150.<br>Ratio of Efficiency (A : B) = 100 : 150 = 2 : 3<br>Time taken is inversely proportional to efficiency.<br>Ratio of Time taken (A : B) = 3 : 2<br>Given, A takes 18 days. So, 3 units = 18 days &rArr; 1 unit = 6 days.<br>Time taken by B = 2 units = 2 &times; 6 = 12 days.<br><br><b>Solution (HI):</b><br>माना A की कार्यक्षमता 100 है।<br>चूंकि B, 50% अधिक कुशल है, B की कार्यक्षमता = 150.<br>कार्यक्षमता का अनुपात (A : B) = 100 : 150 = 2 : 3<br>लिया गया समय कार्यक्षमता के व्युत्क्रमानुपाती होता है।<br>लिए गए समय का अनुपात (A : B) = 3 : 2<br>दिया गया है, A 18 दिन लेता है। अतः, 3 इकाई = 18 दिन &rArr; 1 इकाई = 6 दिन।<br>B द्वारा लिया गया समय = 2 इकाई = 2 &times; 6 = 12 दिन।<br><br><b>Short Trick:</b><br>Time taken by B = Time of A &times; (Efficiency of A / Efficiency of B) = 18 &times; (100 / 150) = 18 &times; (2/3) = 12 days."
+  },
+  {
+    "section": "Quantitative Aptitude",
+    "topic": "Average",
+    "difficulty": "Easy",
+    "q_en": "Three numbers are in the ratio 1 : 2 : 3. If the average of the second and the third numbers is 45, then what is the average of the first and the second numbers?",
+    "q_hi": "तीन संख्याएँ 1 : 2 : 3 के अनुपात में हैं। यदि दूसरी और तीसरी संख्या का औसत 45 है, तो पहली और दूसरी संख्या का औसत क्या है?",
+    "op_en": [
+      "18",
+      "36",
+      "33 3/4",
+      "27"
+    ],
+    "op_hi": [
+      "18",
+      "36",
+      "33 3/4",
+      "27"
+    ],
+    "ans": 4,
+    "solution": "<b>Solution (EN):</b><br>Let the numbers be x, 2x, and 3x.<br>The average of the 2nd and 3rd numbers is 45.<br>(2x + 3x) / 2 = 45<br>5x / 2 = 45 &rArr; 5x = 90 &rArr; x = 18.<br>The first and second numbers are x and 2x.<br>Average of 1st and 2nd numbers = (x + 2x) / 2 = 3x / 2<br>Substitute x = 18: (3 &times; 18) / 2 = 54 / 2 = 27.<br><br><b>Solution (HI):</b><br>माना संख्याएँ x, 2x और 3x हैं।<br>दूसरी और तीसरी संख्या का औसत 45 है।<br>(2x + 3x) / 2 = 45<br>5x / 2 = 45 &rArr; 5x = 90 &rArr; x = 18.<br>पहली और दूसरी संख्याएँ x और 2x हैं।<br>पहली और दूसरी संख्या का औसत = (x + 2x) / 2 = 3x / 2<br>x = 18 रखने पर: (3 &times; 18) / 2 = 54 / 2 = 27.<br><br><b>Short Trick:</b><br>In ratio, average of 2nd and 3rd = (2+3)/2 = 2.5 units.<br>2.5 units = 45 &rArr; 1 unit = 18.<br>Average of 1st and 2nd = (1+2)/2 = 1.5 units.<br>1.5 units = 1.5 &times; 18 = 27."
+  },
+  {
+    "section": "Quantitative Aptitude",
+    "topic": "Time and Work",
+    "difficulty": "Easy",
+    "q_en": "B is twice as skilled a worker as A, and together they complete a job in 16 days. In how many days will A alone complete the job?",
+    "q_hi": "B, A की तुलना में दोगुना कुशल कर्मचारी है, और वे एक साथ किसी कार्य को 16 दिनों में पूरा करते हैं। A अकेला उस कार्य को कितने दिनों में पूरा करेगा?",
+    "op_en": [
+      "36",
+      "24",
+      "48",
+      "12"
+    ],
+    "op_hi": [
+      "36",
+      "24",
+      "48",
+      "12"
+    ],
+    "ans": 3,
+    "solution": "<b>Solution (EN):</b><br>B is twice as skilled as A, which means the efficiency ratio of B : A = 2 : 1.<br>Total efficiency of A and B together = 2 + 1 = 3 units/day.<br>They complete the work in 16 days.<br>Total Work = Total efficiency &times; Number of days = 3 &times; 16 = 48 units.<br>Time taken by A alone = Total Work / Efficiency of A = 48 / 1 = 48 days.<br><br><b>Solution (HI):</b><br>B, A से दोगुना कुशल है, जिसका अर्थ है B और A की कार्यक्षमता का अनुपात = 2 : 1.<br>A और B की कुल कार्यक्षमता = 2 + 1 = 3 इकाई/दिन।<br>वे काम को 16 दिनों में पूरा करते हैं।<br>कुल कार्य = कुल कार्यक्षमता &times; दिनों की संख्या = 3 &times; 16 = 48 इकाई।<br>A अकेले द्वारा लिया गया समय = कुल कार्य / A की कार्यक्षमता = 48 / 1 = 48 दिन।<br><br><b>Short Trick:</b><br>A's time = Total days &times; [(Efficiency of A + B) / Efficiency of A] = 16 &times; (3 / 1) = 48 days."
+  },
+  {
+    "section": "Quantitative Aptitude",
+    "topic": "Simple & Compound Interest",
+    "difficulty": "Moderate",
+    "q_en": "A sum of ₹10,500 becomes ₹13,650 in 2 years at a certain annual simple interest rate. If the interest is compounded quarterly, how much will the same amount become (to the nearest rupee) in 1 year at the same rate?",
+    "q_hi": "₹10,500 की राशि एक निश्चित वार्षिक साधारण ब्याज दर पर 2 वर्षों में ₹13,650 हो जाती है। यदि ब्याज तिमाही रूप से संयोजित होता है, तो वही राशि उसी दर पर 1 वर्ष में (निकटतम रुपये तक) कितनी हो जाएगी?",
+    "op_en": [
+      "₹12,500",
+      "₹12,250",
+      "₹12,135",
+      "₹12,166"
+    ],
+    "op_hi": [
+      "₹12,500",
+      "₹12,250",
+      "₹12,135",
+      "₹12,166"
+    ],
+    "ans": 4,
+    "solution": "<b>Solution (EN):</b><br>Principal (P) = ₹10500, Amount (A) = ₹13650, Time (T) = 2 years.<br>Simple Interest (SI) = 13650 - 10500 = ₹3150.<br>Rate of Interest (R) = (SI &times; 100) / (P &times; T) = (3150 &times; 100) / (10500 &times; 2) = 315000 / 21000 = 15% per annum.<br><br>New condition: Interest is compounded quarterly for 1 year.<br>New Rate = 15% / 4 = 3.75% per quarter.<br>Time (n) = 1 year = 4 quarters.<br>Amount = P(1 + R/100)<sup>n</sup> = 10500(1 + 3.75/100)<sup>4</sup> = 10500(1 + 3/80)<sup>4</sup> = 10500(83/80)<sup>4</sup>.<br>Amount = 10500 &times; 1.0375<sup>4</sup> &approx; 10500 &times; 1.15865 &approx; ₹12165.83<br>Nearest integer = ₹12166.<br><br><b>Solution (HI):</b><br>मूलधन (P) = ₹10500, मिश्रधन (A) = ₹13650, समय (T) = 2 वर्ष।<br>साधारण ब्याज (SI) = 13650 - 10500 = ₹3150.<br>ब्याज दर (R) = (SI &times; 100) / (P &times; T) = (3150 &times; 100) / (10500 &times; 2) = 15% वार्षिक।<br><br>नई शर्त: 1 वर्ष के लिए ब्याज तिमाही संयोजित होता है।<br>नई दर = 15% / 4 = 3.75% प्रति तिमाही।<br>समय (n) = 1 वर्ष = 4 तिमाही।<br>मिश्रधन = P(1 + R/100)<sup>n</sup> = 10500(1 + 3.75/100)<sup>4</sup> = 10500(83/80)<sup>4</sup>.<br>मिश्रधन &approx; 10500 &times; 1.15865 &approx; ₹12165.83<br>निकटतम पूर्णांक = ₹12166.<br><br><b>Short Trick:</b><br>Annual Rate = 15%. For quarterly, rate = 3.75%.<br>Effective rate for 4 cycles of 3.75% &approx; 15% + (small compound effect) &approx; 15.86%<br>New Amount &approx; 10500 &times; 115.86% &approx; 12166."
+  },
+  {
+    "section": "Quantitative Aptitude",
+    "topic": "HCF & LCM",
+    "difficulty": "Moderate",
+    "q_en": "A librarian needs to arrange his books into identical groups. He groups 9 books, but three books are left over. He tries to group 10 books, but still has three left over. When he tries to group 36 or even 30 books, he still has three left over. What is the minimum number of books he has?",
+    "q_hi": "एक लाइब्रेरियन को अपनी किताबों को समान समूहों में व्यवस्थित करना है। वह 9 किताबों का समूह बनाता है, लेकिन तीन किताबें बच जाती हैं। वह 10 किताबों का समूह बनाने की कोशिश करता है, लेकिन फिर भी तीन बच जाती हैं। जब वह 36 या 30 किताबों का समूह बनाने का प्रयास करता है, तब भी उसके पास तीन बच जाती हैं। उसके पास न्यूनतम कितनी किताबें हैं?",
+    "op_en": [
+      "153",
+      "123",
+      "183",
+      "213"
+    ],
+    "op_hi": [
+      "153",
+      "123",
+      "183",
+      "213"
+    ],
+    "ans": 3,
+    "solution": "<b>Solution (EN):</b><br>Let the total number of books be N.<br>When N is divided by 9, 10, 36, and 30, it leaves a remainder of 3 in each case.<br>So, N must be in the form of LCM(9, 10, 36, 30) &times; k + 3.<br>For minimum number of books, k = 1.<br>Prime factorization for LCM:<br>9 = 3<sup>2</sup><br>10 = 2 &times; 5<br>36 = 2<sup>2</sup> &times; 3<sup>2</sup><br>30 = 2 &times; 3 &times; 5<br>LCM = 2<sup>2</sup> &times; 3<sup>2</sup> &times; 5 = 4 &times; 9 &times; 5 = 180.<br>Minimum books (N) = 180 + 3 = 183.<br><br><b>Solution (HI):</b><br>माना किताबों की कुल संख्या N है।<br>जब N को 9, 10, 36 और 30 से विभाजित किया जाता है, तो प्रत्येक स्थिति में 3 शेषफल प्राप्त होता है।<br>इसलिए, N, LCM(9, 10, 36, 30) &times; k + 3 के रूप में होना चाहिए।<br>न्यूनतम किताबों के लिए, k = 1.<br>LCM के लिए अभाज्य गुणनखंड:<br>LCM = 2<sup>2</sup> &times; 3<sup>2</sup> &times; 5 = 180.<br>न्यूनतम किताबें (N) = 180 + 3 = 183.<br><br><b>Short Trick:</b><br>Number is LCM(9, 10, 30, 36) + 3.<br>Since it's divided by 10 leaving 3, the unit digit must be 3. (153, 123, 183, 213).<br>Subtracting 3 gives (150, 120, 180, 210). Only 180 is divisible by 9 and 36. Ans = 183."
+  },
+  {
+    "section": "Quantitative Aptitude",
+    "topic": "Mensuration",
+    "difficulty": "Moderate",
+    "q_en": "Two concrete roads intersect in the middle of a rectangular park 50 m long and 30 m wide, and the remaining area is used as a lawn. If the lawn area is 1,125 m<sup>2</sup>, what is the width (in m) of the road?",
+    "q_hi": "एक 50 मीटर लंबे और 30 मीटर चौड़े आयताकार पार्क के मध्य में दो कंक्रीट की सड़कें एक-दूसरे को काटती हैं, और शेष क्षेत्र का उपयोग लॉन के रूप में किया जाता है। यदि लॉन का क्षेत्रफल 1,125 m<sup>2</sup> है, तो सड़क की चौड़ाई (मीटर में) क्या है?",
+    "op_en": [
+      "10",
+      "4",
+      "6",
+      "5"
+    ],
+    "op_hi": [
+      "10",
+      "4",
+      "6",
+      "5"
+    ],
+    "ans": 4,
+    "solution": "<b>Solution (EN):</b><br>Let the width of the roads be x meters.<br>The total area of the park = 50 &times; 30 = 1500 m<sup>2</sup>.<br>If we shift both roads to the edges of the park, the remaining lawn forms a single rectangle with dimensions (50 - x) and (30 - x).<br>Area of Lawn = (50 - x)(30 - x)<br>Given, Lawn area = 1125 m<sup>2</sup><br>So, (50 - x)(30 - x) = 1125<br>Check from given options:<br>If x = 5: (50 - 5)(30 - 5) = 45 &times; 25 = 1125. (Satisfies the equation)<br>Therefore, the width of the road is 5 m.<br><br><b>Solution (HI):</b><br>माना सड़कों की चौड़ाई x मीटर है।<br>पार्क का कुल क्षेत्रफल = 50 &times; 30 = 1500 m<sup>2</sup>.<br>यदि हम दोनों सड़कों को पार्क के किनारों पर खिसका दें, तो बचा हुआ लॉन (50 - x) और (30 - x) विमाओं वाला एक आयत बनाता है।<br>लॉन का क्षेत्रफल = (50 - x)(30 - x)<br>दिया गया है, लॉन का क्षेत्रफल = 1125 m<sup>2</sup><br>अतः, (50 - x)(30 - x) = 1125<br>दिए गए विकल्पों से जाँचें:<br>यदि x = 5 है: (50 - 5)(30 - 5) = 45 &times; 25 = 1125. (समीकरण को संतुष्ट करता है)<br>इसलिए, सड़क की चौड़ाई 5 मीटर है।<br><br><b>Short Trick:</b><br>Formula for remaining area = (L - w)(B - w) where w is the width of the road.<br>(50 - w)(30 - w) = 1125. Try w = 5, 45 &times; 25 = 1125. Matches instantly."
+  },
+  {
+    "section": "Quantitative Aptitude",
+    "topic": "Percentage",
+    "difficulty": "Easy",
+    "q_en": "A worker's wages are increased by 20%. Originally, he was earning ₹3,000 per week. If working hours are reduced by 10%, what will his weekly wages be?",
+    "q_hi": "एक कर्मचारी की मजदूरी में 20% की वृद्धि की जाती है। प्रारंभ में, वह प्रति सप्ताह ₹3,000 कमा रहा था। यदि काम के घंटे 10% कम कर दिए जाते हैं, तो उसकी साप्ताहिक मजदूरी क्या होगी?",
+    "op_en": [
+      "₹3,500",
+      "₹3,430",
+      "₹3,240",
+      "₹2,700"
+    ],
+    "op_hi": [
+      "₹3,500",
+      "₹3,430",
+      "₹3,240",
+      "₹2,700"
+    ],
+    "ans": 3,
+    "solution": "<b>Solution (EN):</b><br>Original weekly wage = ₹3,000.<br>Let original wage rate be ₹x/hr and hours be y. So xy = 3000.<br>Wage rate increases by 20%, so new rate = 120% of x = 1.2x<br>Working hours decrease by 10%, so new hours = 90% of y = 0.9y<br>New weekly wage = (1.2x) &times; (0.9y) = 1.08 &times; (xy) = 1.08 &times; 3000 = ₹3,240.<br><br>Alternative approach:<br>Net percentage change = a + b + (ab/100) = 20 - 10 - (200/100) = 10 - 2 = 8% increase.<br>New Wage = 3000 + 8% of 3000 = 3000 + 240 = ₹3,240.<br><br><b>Solution (HI):</b><br>मूल साप्ताहिक मजदूरी = ₹3,000.<br>मजदूरी दर में 20% की वृद्धि होती है, और काम के घंटे 10% कम हो जाते हैं।<br>आय में शुद्ध प्रतिशत परिवर्तन = a + b + (ab/100) = 20 - 10 + (20 &times; -10)/100 = 10 - 2 = 8% वृद्धि।<br>नई साप्ताहिक मजदूरी = 3000 का 108%<br>नई मजदूरी = 3000 &times; (108 / 100) = ₹3,240.<br><br><b>Short Trick:</b><br>Effective % change = +20 - 10 - (20 &times; 10)/100 = +8%.<br>New Wage = 3000 &times; 1.08 = 3240."
+  },
+  {
+    "section": "Quantitative Aptitude",
+    "topic": "Mensuration",
+    "difficulty": "Easy",
+    "q_en": "20 stones are immersed in a tank of water 20 m long and 10 m wide. If the average displacement of water by a stone is 4 m<sup>3</sup>, what is the rise (in cm) of the water level in the tank?",
+    "q_hi": "20 मीटर लंबे और 10 मीटर चौड़े पानी के टैंक में 20 पत्थर डुबोए जाते हैं। यदि एक पत्थर द्वारा पानी का औसत विस्थापन 4 m<sup>3</sup> है, तो टैंक में पानी के स्तर में वृद्धि (सेमी में) क्या है?",
+    "op_en": [
+      "40",
+      "25",
+      "36",
+      "50"
+    ],
+    "op_hi": [
+      "40",
+      "25",
+      "36",
+      "50"
+    ],
+    "ans": 1,
+    "solution": "<b>Solution (EN):</b><br>Number of stones = 20<br>Water displaced by 1 stone = 4 m<sup>3</sup><br>Total volume of water displaced = 20 &times; 4 = 80 m<sup>3</sup><br>This volume of water will rise uniformly over the base area of the tank.<br>Base Area of tank = Length &times; Width = 20 m &times; 10 m = 200 m<sup>2</sup><br>Volume = Base Area &times; Rise in height (h)<br>80 = 200 &times; h<br>h = 80 / 200 = 0.4 m<br>To convert to cm, multiply by 100: h = 0.4 &times; 100 = 40 cm.<br><br><b>Solution (HI):</b><br>पत्थरों की संख्या = 20<br>1 पत्थर द्वारा विस्थापित पानी = 4 m<sup>3</sup><br>विस्थापित पानी का कुल आयतन = 20 &times; 4 = 80 m<sup>3</sup><br>यह आयतन टैंक के आधार क्षेत्रफल पर समान रूप से ऊपर उठेगा।<br>टैंक का आधार क्षेत्रफल = लंबाई &times; चौड़ाई = 20 m &times; 10 m = 200 m<sup>2</sup><br>आयतन = आधार क्षेत्रफल &times; ऊंचाई में वृद्धि (h)<br>80 = 200 &times; h<br>h = 80 / 200 = 0.4 मीटर<br>सेमी में बदलने के लिए 100 से गुणा करें: h = 0.4 &times; 100 = 40 सेमी।<br><br><b>Short Trick:</b><br>Rise in level = Total volume of stones / Base Area of tank<br>h = (20 &times; 4) / (20 &times; 10) = 80 / 200 = 0.4 m = 40 cm."
+  },
+  {
+    "section": "Quantitative Aptitude",
+    "topic": "Number System",
+    "difficulty": "Medium",
+    "q_en": "The product of the digits of a two-digit number is 12. When 9 is added to that number, the order of the digits is reversed. The number is ______.",
+    "q_hi": "एक दो अंकों की संख्या के अंकों का गुणनफल 12 है। जब उस संख्या में 9 जोड़ा जाता है, तो अंकों का क्रम उलट जाता है। वह संख्या ______ है।",
+    "op_en": [
+      "43",
+      "34",
+      "26",
+      "62"
+    ],
+    "op_hi": [
+      "43",
+      "34",
+      "26",
+      "62"
+    ],
+    "ans": 2,
+    "solution": "<b>Solution (EN):</b><br>1. Let the two-digit number be 10x + y, where x is the tens digit and y is the units digit.<br>2. Product of digits: x * y = 12.<br>3. When 9 is added, digits are reversed: (10x + y) + 9 = 10y + x.<br>4. Simplifying the equation: 9y - 9x = 9 &rarr; y - x = 1 &rarr; y = x + 1.<br>5. Substitute y in the first equation: x * (x + 1) = 12 &rarr; x<sup>2</sup> + x - 12 = 0.<br>6. Solving the quadratic equation gives (x + 4)(x - 3) = 0. Since a digit cannot be negative, x = 3.<br>7. Then y = 3 + 1 = 4.<br>8. The number is 34.<br><br><b>Solution (HI):</b><br>1. मान लें कि दो अंकों की संख्या 10x + y है, जहाँ x दहाई का अंक है और y इकाई का अंक है।<br>2. अंकों का गुणनफल: x * y = 12.<br>3. जब 9 जोड़ा जाता है, तो अंक उलट जाते हैं: (10x + y) + 9 = 10y + x.<br>4. समीकरण को सरल करने पर: 9y - 9x = 9 &rarr; y - x = 1 &rarr; y = x + 1.<br>5. पहले समीकरण में y का मान रखने पर: x * (x + 1) = 12 &rarr; x<sup>2</sup> + x - 12 = 0.<br>6. द्विघात समीकरण को हल करने पर (x + 4)(x - 3) = 0 प्राप्त होता है। चूँकि अंक ऋणात्मक नहीं हो सकता, x = 3.<br>7. तो y = 3 + 1 = 4.<br>8. वह संख्या 34 है।<br><br><b>Short Trick:</b><br>Check the options directly.<br>Option 1 (43): 4 * 3 = 12. 43 + 9 = 52 (Not 34).<br>Option 2 (34): 3 * 4 = 12. 34 + 9 = 43 (Reversed!). Matches perfectly."
+  },
+  {
+    "section": "Quantitative Aptitude",
+    "topic": "Compound Interest",
+    "difficulty": "Medium",
+    "q_en": "A person invests ₹50,000 in a bond that pays compound interest at 4% per annum for the first two years, 5% per annum for the next two years, and 10% per annum for the fifth year. How much money (in ₹) does the person receive at the end of the fifth year?",
+    "q_hi": "एक व्यक्ति एक बांड में ₹50,000 का निवेश करता है जो पहले दो वर्षों के लिए 4% प्रति वर्ष, अगले दो वर्षों के लिए 5% प्रति वर्ष और पांचवें वर्ष के लिए 10% प्रति वर्ष की दर से चक्रवृद्धि ब्याज देता है। पांचवें वर्ष के अंत में व्यक्ति को कितनी धनराशि (₹ में) प्राप्त होगी?",
+    "op_en": [
+      "56,582.50",
+      "65,855.25",
+      "65,585.52",
+      "68,555.20"
+    ],
+    "op_hi": [
+      "56,582.50",
+      "65,855.25",
+      "65,585.52",
+      "68,555.20"
+    ],
+    "ans": 3,
+    "solution": "<b>Solution (EN):</b><br>1. Principal (P) = ₹50,000.<br>2. Formula for Amount with varying rates: A = P * (1 + R<sub>1</sub>/100)<sup>t1</sup> * (1 + R<sub>2</sub>/100)<sup>t2</sup> * (1 + R<sub>3</sub>/100)<sup>t3</sup>.<br>3. Amount = 50000 * (1 + 4/100)<sup>2</sup> * (1 + 5/100)<sup>2</sup> * (1 + 10/100)<sup>1</sup><br>4. Amount = 50000 * (1.04)<sup>2</sup> * (1.05)<sup>2</sup> * (1.10)<br>5. Amount = 50000 * 1.0816 * 1.1025 * 1.1<br>6. Calculating the product: 50000 * 1.3117104 = 65585.52<br>7. The person receives ₹65,585.52 at the end of the fifth year.<br><br><b>Solution (HI):</b><br>1. मूलधन (P) = ₹50,000.<br>2. अलग-अलग दरों के साथ मिश्रधन का सूत्र: A = P * (1 + R<sub>1</sub>/100)<sup>t1</sup> * (1 + R<sub>2</sub>/100)<sup>t2</sup> * (1 + R<sub>3</sub>/100)<sup>t3</sup>.<br>3. मिश्रधन = 50000 * (1 + 4/100)<sup>2</sup> * (1 + 5/100)<sup>2</sup> * (1 + 10/100)<sup>1</sup><br>4. मिश्रधन = 50000 * (1.04)<sup>2</sup> * (1.05)<sup>2</sup> * (1.10)<br>5. मिश्रधन = 50000 * 1.0816 * 1.1025 * 1.1<br>6. गुणनफल की गणना करने पर: 50000 * 1.3117104 = 65585.52<br>7. व्यक्ति को पांचवें वर्ष के अंत में ₹65,585.52 प्राप्त होते हैं।"
+  },
+  {
+    "section": "Quantitative Aptitude",
+    "topic": "Discount",
+    "difficulty": "Easy",
+    "q_en": "A pharmacy offers an 18% discount on its medications. It offers an additional 3% discount on the reduced price to customers who pay with their online wallet. If a customer purchases ₹1,200 worth of medications and pays with their online wallet, how much (in ₹) will they have to pay?",
+    "q_hi": "एक फ़ार्मेसी अपनी दवाओं पर 18% की छूट देती है। यह अपने ऑनलाइन वॉलेट से भुगतान करने वाले ग्राहकों को कम की गई कीमत पर 3% की अतिरिक्त छूट प्रदान करती है। यदि कोई ग्राहक ₹1,200 मूल्य की दवाएं खरीदता है और अपने ऑनलाइन वॉलेट से भुगतान करता है, तो उसे कितना भुगतान (₹ में) करना होगा?",
+    "op_en": [
+      "954.48",
+      "876.45",
+      "1,134.56",
+      "1,000"
+    ],
+    "op_hi": [
+      "954.48",
+      "876.45",
+      "1,134.56",
+      "1,000"
+    ],
+    "ans": 1,
+    "solution": "<b>Solution (EN):</b><br>1. Marked Price of medications = ₹1,200.<br>2. First discount = 18%.<br>Price after first discount = 1200 * (100 - 18) / 100 = 1200 * 0.82 = ₹984.<br>3. Additional discount for paying with online wallet = 3% on the reduced price.<br>4. Final Price = 984 * (100 - 3) / 100 = 984 * 0.97 = ₹954.48.<br>5. The customer has to pay ₹954.48.<br><br><b>Solution (HI):</b><br>1. दवाओं का अंकित मूल्य = ₹1,200.<br>2. पहली छूट = 18%.<br>पहली छूट के बाद मूल्य = 1200 * (100 - 18) / 100 = 1200 * 0.82 = ₹984.<br>3. ऑनलाइन वॉलेट से भुगतान करने पर अतिरिक्त छूट = घटी हुई कीमत पर 3%.<br>4. अंतिम मूल्य = 984 * (100 - 3) / 100 = 984 * 0.97 = ₹954.48.<br>5. ग्राहक को ₹954.48 का भुगतान करना होगा।"
+  },
+  {
+    "section": "Quantitative Aptitude",
+    "topic": "Ratio and Proportion",
+    "difficulty": "Easy",
+    "q_en": "The salaries of A and B are respectively in the ratio 3 : 5. If the salary of each is increased by ₹70,000, the new ratio becomes 5 : 6. What is A's present salary (in ₹)?",
+    "q_hi": "A और B के वेतन क्रमशः 3 : 5 के अनुपात में हैं। यदि प्रत्येक के वेतन में ₹70,000 की वृद्धि की जाती है, तो नया अनुपात 5 : 6 हो जाता है। A का वर्तमान वेतन (₹ में) क्या है?",
+    "op_en": [
+      "30,000",
+      "40,000",
+      "50,000",
+      "60,000"
+    ],
+    "op_hi": [
+      "30,000",
+      "40,000",
+      "50,000",
+      "60,000"
+    ],
+    "ans": 1,
+    "solution": "<b>Solution (EN):</b><br>1. Let the initial (present) salaries of A and B be 3x and 5x respectively.<br>2. After an increase of ₹70,000, A's new salary = 3x + 70000 and B's new salary = 5x + 70000.<br>3. According to the question, the new ratio is 5 : 6. So, (3x + 70000) / (5x + 70000) = 5 / 6.<br>4. Cross-multiplying: 6 * (3x + 70000) = 5 * (5x + 70000).<br>5. 18x + 420000 = 25x + 350000.<br>6. 25x - 18x = 420000 - 350000 &rarr; 7x = 70000 &rarr; x = 10000.<br>7. A's present salary = 3x = 3 * 10000 = ₹30,000.<br><br><b>Solution (HI):</b><br>1. मान लें कि A और B का प्रारंभिक (वर्तमान) वेतन क्रमशः 3x और 5x है।<br>2. ₹70,000 की वृद्धि के बाद, A का नया वेतन = 3x + 70000 और B का नया वेतन = 5x + 70000.<br>3. प्रश्न के अनुसार, नया अनुपात 5 : 6 है। इसलिए, (3x + 70000) / (5x + 70000) = 5 / 6.<br>4. क्रॉस-गुणा करने पर: 6 * (3x + 70000) = 5 * (5x + 70000).<br>5. 18x + 420000 = 25x + 350000.<br>6. 25x - 18x = 420000 - 350000 &rarr; 7x = 70000 &rarr; x = 10000.<br>7. A का वर्तमान वेतन = 3x = 3 * 10000 = ₹30,000."
+  },
+  {
+    "section": "Quantitative Aptitude",
+    "topic": "Fractions",
+    "difficulty": "Medium",
+    "q_en": "What is the least fraction to be added to 3 2/3 + 6 7/12 + 4 9/36 + 7 1/12 so that the sum becomes an integer?",
+    "q_hi": "3 2/3 + 6 7/12 + 4 9/36 + 7 1/12 में वह कौन सी सबसे छोटी भिन्न जोड़ी जानी चाहिए ताकि योग एक पूर्णांक बन जाए?",
+    "op_en": [
+      "1/12",
+      "1/2",
+      "5/6",
+      "5/12"
+    ],
+    "op_hi": [
+      "1/12",
+      "1/2",
+      "5/6",
+      "5/12"
+    ],
+    "ans": 4,
+    "solution": "<b>Solution (EN):</b><br>1. The given expression is: 3 2/3 + 6 7/12 + 4 9/36 + 7 1/12.<br>2. Simplify the fraction 9/36 to 1/4. The expression becomes: 3 2/3 + 6 7/12 + 4 1/4 + 7 1/12.<br>3. Add the integer parts separately: 3 + 6 + 4 + 7 = 20.<br>4. Add the fractional parts: 2/3 + 7/12 + 1/4 + 1/12. The LCM of the denominators (3, 12, 4, 12) is 12.<br>5. Converting to a common denominator: (8/12) + (7/12) + (3/12) + (1/12) = (8 + 7 + 3 + 1) / 12 = 19/12.<br>6. Convert 19/12 to a mixed fraction: 1 7/12.<br>7. Total sum = 20 + 1 7/12 = 21 7/12.<br>8. To make 21 7/12 an integer, the fractional part (7/12) needs to be completed to the next whole number (1).<br>9. The least fraction to be added = 1 - 7/12 = 5/12.<br><br><b>Solution (HI):</b><br>1. दिया गया व्यंजक है: 3 2/3 + 6 7/12 + 4 9/36 + 7 1/12.<br>2. भिन्न 9/36 को 1/4 में सरल करें। व्यंजक बन जाता है: 3 2/3 + 6 7/12 + 4 1/4 + 7 1/12.<br>3. पूर्णांक भागों को अलग से जोड़ें: 3 + 6 + 4 + 7 = 20.<br>4. भिन्नात्मक भागों को जोड़ें: 2/3 + 7/12 + 1/4 + 1/12। हर (3, 12, 4, 12) का LCM 12 है।<br>5. समान हर में परिवर्तित करने पर: (8/12) + (7/12) + (3/12) + (1/12) = (8 + 7 + 3 + 1) / 12 = 19/12.<br>6. 19/12 को मिश्रित भिन्न में बदलें: 1 7/12.<br>7. कुल योग = 20 + 1 7/12 = 21 7/12.<br>8. 21 7/12 को एक पूर्णांक बनाने के लिए, भिन्नात्मक भाग (7/12) को अगले पूर्ण संख्या (1) में पूरा करने की आवश्यकता है।<br>9. जोड़ी जाने वाली सबसे छोटी भिन्न = 1 - 7/12 = 5/12."
+  },
+  {
+    "section": "Quantitative Aptitude",
+    "topic": "Mensuration",
+    "difficulty": "Easy",
+    "q_en": "An error of 5% was made in measuring the side of a square. The percentage error in the calculated area of the square is ______.",
+    "q_hi": "एक वर्ग की भुजा को मापने में 5% की त्रुटि हुई। वर्ग के परिकलित क्षेत्रफल में प्रतिशत त्रुटि ______ है।",
+    "op_en": [
+      "8.75%",
+      "12%",
+      "10.25%",
+      "11.5%"
+    ],
+    "op_hi": [
+      "8.75%",
+      "12%",
+      "10.25%",
+      "11.5%"
+    ],
+    "ans": 3,
+    "solution": "<b>Solution (EN):</b><br>1. Area of a square is given by (side)<sup>2</sup>.<br>2. When a quantity is squared, the net percentage change (error) can be calculated using the successive percentage formula: $x + y + \\\\frac{xy}{100}$.<br>3. Here, $x = y = 5\\\\%$.<br>4. Percentage error = $5 + 5 + \\\\frac{5 \\\\times 5}{100} = 10 + 0.25 = 10.25\\\\%$.<br><br><b>Solution (HI):</b><br>1. वर्ग का क्षेत्रफल (भुजा)<sup>2</sup> होता है।<br>2. जब किसी मात्रा का वर्ग किया जाता है, तो शुद्ध प्रतिशत परिवर्तन (त्रुटि) की गणना क्रमिक प्रतिशत सूत्र का उपयोग करके की जा सकती है: $x + y + \\\\frac{xy}{100}$<br>3. यहाँ, $x = y = 5\\\\%$ है।<br>4. प्रतिशत त्रुटि = $5 + 5 + \\\\frac{5 \\\\times 5}{100} = 10 + 0.25 = 10.25\\\\%$.<br><br><b>Short Trick:</b><br>For area error with side error $a\\\\%$, formula is $2a + \\\\frac{a^2}{100}$. Here $a = 5$, so $2(5) + \\\\frac{25}{100} = 10 + 0.25 = 10.25\\\\%$."
+  },
+  {
+    "section": "Quantitative Aptitude",
+    "topic": "Mensuration 3D",
+    "difficulty": "Medium",
+    "q_en": "If a wire of diameter 1 mm is made from 44 cm<sup>3</sup> gold, find the length (in m) of that wire. (Given, $\\\\pi = \\\\frac{22}{7}$)",
+    "q_hi": "यदि 44 सेमी<sup>3</sup> सोने से 1 मिमी व्यास का एक तार बनाया जाता है, तो उस तार की लंबाई (मीटर में) ज्ञात कीजिए। (दिया गया है, $\\\\pi = \\\\frac{22}{7}$)",
+    "op_en": [
+      "45",
+      "64",
+      "56",
+      "50"
+    ],
+    "op_hi": [
+      "45",
+      "64",
+      "56",
+      "50"
+    ],
+    "ans": 3,
+    "solution": "<b>Solution (EN):</b><br>1. Volume of gold = 44 cm<sup>3</sup>.<br>2. A wire is in the shape of a cylinder. Volume = $\\\\pi r^2 h$.<br>3. Diameter = 1 mm = 0.1 cm. So, Radius ($r$) = 0.05 cm.<br>4. Substituting the values in the volume formula:<br>$44 = \\\\frac{22}{7} \\\\times (0.05)^2 \\\\times h$<br>$44 = \\\\frac{22}{7} \\\\times 0.0025 \\\\times h$<br>5. Solving for $h$ (length in cm):<br>$h = \\\\frac{44 \\\\times 7}{22 \\\\times 0.0025} = \\\\frac{2 \\\\times 7}{0.0025} = \\\\frac{14}{0.0025} = 5600$ cm.<br>6. Convert length to meters: $5600 \\\\div 100 = 56$ m.<br><br><b>Solution (HI):</b><br>1. सोने का आयतन = 44 सेमी<sup>3</sup>.<br>2. तार एक बेलन के आकार का होता है। आयतन = $\\\\pi r^2 h$.<br>3. व्यास = 1 मिमी = 0.1 सेमी। इसलिए, त्रिज्या ($r$) = 0.05 सेमी।<br>4. आयतन सूत्र में मान रखने पर:<br>$44 = \\\\frac{22}{7} \\\\times (0.05)^2 \\\\times h$<br>$44 = \\\\frac{22}{7} \\\\times 0.0025 \\\\times h$<br>5. $h$ (लंबाई सेमी में) के लिए हल करने पर:<br>$h = \\\\frac{44 \\\\times 7}{22 \\\\times 0.0025} = \\\\frac{2 \\\\times 7}{0.0025} = \\\\frac{14}{0.0025} = 5600$ सेमी।<br>6. लंबाई को मीटर में बदलें: $5600 \\\\div 100 = 56$ मीटर।"
+  },
+  {
+    "section": "Quantitative Aptitude",
+    "topic": "Profit and Loss",
+    "difficulty": "Easy",
+    "q_en": "A 12.5% profit is earned by selling an item for ₹ 810. What is the profit or loss percentage if the item is sold for ₹ 630?",
+    "q_hi": "किसी वस्तु को ₹ 810 में बेचने पर 12.5% का लाभ अर्जित किया जाता है। यदि वस्तु को ₹ 630 में बेचा जाता है तो लाभ या हानि प्रतिशत क्या है?",
+    "op_en": [
+      "12.5% loss",
+      "10% loss",
+      "10% profit",
+      "12.5% profit"
+    ],
+    "op_hi": [
+      "12.5% हानि",
+      "10% हानि",
+      "10% लाभ",
+      "12.5% लाभ"
+    ],
+    "ans": 1,
+    "solution": "<b>Solution (EN):</b><br>1. Selling Price (SP<sub>1</sub>) = ₹ 810, Profit = 12.5% = $\\\\frac{1}{8}$.<br>2. This means SP is $1 + \\\\frac{1}{8} = \\\\frac{9}{8}$ of Cost Price (CP).<br>3. $810 = \\\\frac{9}{8} \\\\times CP$<br>$CP = 810 \\\\times \\\\frac{8}{9} = 90 \\\\times 8 = 720$.<br>4. New Selling Price (SP<sub>2</sub>) = ₹ 630.<br>5. Since SP<sub>2</sub> < CP, there is a loss.<br>Loss = $720 - 630 = 90$.<br>6. Loss % = $\\\\frac{Loss}{CP} \\\\times 100 = \\\\frac{90}{720} \\\\times 100 = \\\\frac{1}{8} \\\\times 100 = 12.5\\\\%$.<br><br><b>Solution (HI):</b><br>1. विक्रय मूल्य (SP<sub>1</sub>) = ₹ 810, लाभ = 12.5% = $\\\\frac{1}{8}$.<br>2. इसका मतलब है कि SP, क्रय मूल्य (CP) का $1 + \\\\frac{1}{8} = \\\\frac{9}{8}$ है।<br>3. $810 = \\\\frac{9}{8} \\\\times CP$<br>$CP = 810 \\\\times \\\\frac{8}{9} = 90 \\\\times 8 = 720$.<br>4. नया विक्रय मूल्य (SP<sub>2</sub>) = ₹ 630.<br>5. चूंकि SP<sub>2</sub> < CP, इसलिए हानि होती है।<br>हानि = $720 - 630 = 90$.<br>6. हानि % = $\\\\frac{\\\\text{हानि}}{CP} \\\\times 100 = \\\\frac{90}{720} \\\\times 100 = \\\\frac{1}{8} \\\\times 100 = 12.5\\\\%$.<br><br><b>Short Trick:</b><br>Ratio of SPs = $810 : 630 = 9 : 7$.<br>SP1 is 112.5% (or 9/8) of CP. So 9 units = 112.5%. 1 unit = 12.5%.<br>SP2 = 7 units = $7 \\\\times 12.5\\\\% = 87.5\\\\%$.<br>Loss = $100\\\\% - 87.5\\\\% = 12.5\\\\%$."
+  },
+  {
+    "section": "Quantitative Aptitude",
+    "topic": "Time and Work",
+    "difficulty": "Medium",
+    "q_en": "Working alone, A can complete a task in 30 days. After working for 10 days, A left the task, and B alone completed the remaining work in 32 days. In how many days can A and B work together to complete the task?",
+    "q_hi": "अकेले कार्य करते हुए, A किसी कार्य को 30 दिनों में पूरा कर सकता है। 10 दिनों तक कार्य करने के बाद, A ने कार्य छोड़ दिया, और B ने अकेले शेष कार्य को 32 दिनों में पूरा किया। A और B एक साथ मिलकर उस कार्य को कितने दिनों में पूरा कर सकते हैं?",
+    "op_en": [
+      "20 6/13",
+      "15 6/13",
+      "18 6/13",
+      "13 6/13"
+    ],
+    "op_hi": [
+      "20 6/13",
+      "15 6/13",
+      "18 6/13",
+      "13 6/13"
+    ],
+    "ans": 3,
+    "solution": "<b>Solution (EN):</b><br>1. Time taken by A to complete the whole task = 30 days.<br>2. Work done by A in 10 days = $\\\\frac{10}{30} = \\\\frac{1}{3}$ of the total work.<br>3. Remaining work = $1 - \\\\frac{1}{3} = \\\\frac{2}{3}$.<br>4. B completes $\\\\frac{2}{3}$ of the work in 32 days. So, time taken by B to complete the entire work = $32 \\\\times \\\\frac{3}{2} = 48$ days.<br>5. Let's find their combined rate. (A + B)'s 1 day work = $\\\\frac{1}{30} + \\\\frac{1}{48}$.<br>LCM of 30 and 48 is 240.<br>$\\\\frac{1}{30} + \\\\frac{1}{48} = \\\\frac{8 + 5}{240} = \\\\frac{13}{240}$.<br>6. Time taken by A and B working together = $\\\\frac{240}{13} = 18\\\\frac{6}{13}$ days.<br><br><b>Solution (HI):</b><br>1. A द्वारा पूरा कार्य करने में लिया गया समय = 30 दिन।<br>2. 10 दिनों में A द्वारा किया गया कार्य = $\\\\frac{10}{30} = \\\\frac{1}{3}$ भाग।<br>3. शेष कार्य = $1 - \\\\frac{1}{3} = \\\\frac{2}{3}$ भाग।<br>4. B शेष $\\\\frac{2}{3}$ कार्य को 32 दिनों में पूरा करता है। इसलिए, B द्वारा पूरे कार्य को पूरा करने में लिया गया समय = $32 \\\\times \\\\frac{3}{2} = 48$ दिन।<br>5. आइए उनकी संयुक्त दर ज्ञात करें। (A + B) का 1 दिन का कार्य = $\\\\frac{1}{30} + \\\\frac{1}{48}$<br>30 और 48 का LCM 240 है।<br>$\\\\frac{1}{30} + \\\\frac{1}{48} = \\\\frac{8 + 5}{240} = \\\\frac{13}{240}$<br>6. A और B द्वारा एक साथ मिलकर कार्य पूरा करने में लिया गया समय = $\\\\frac{240}{13} = 18\\\\frac{6}{13}$ दिन।"
+  }
+]
