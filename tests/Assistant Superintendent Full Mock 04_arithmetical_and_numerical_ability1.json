@@ -1,0 +1,422 @@
+[
+  {
+    "ans": 4,
+    "difficulty": "Moderate",
+    "op_en": [
+      "13 cm",
+      "15 cm",
+      "12 cm",
+      "11 cm"
+    ],
+    "op_hi": [
+      "13 सेमी",
+      "15 सेमी",
+      "12 सेमी",
+      "11 सेमी"
+    ],
+    "q_en": "A cylindrical metallic pipe is 20 cm long. The difference between its outside and inside surface areas is 440π cm<sup>2</sup>. Find the difference between the external and internal radii of pipe.",
+    "q_hi": "एक बेलनाकार धातु के पाइप की लंबाई 20 सेमी है। इसके बाहरी और आंतरिक पृष्ठीय क्षेत्रफल का अंतर 440&pi; सेमी<sup>2</sup> है। पाइप की बाहरी और आंतरिक त्रिज्याओं के बीच का अंतर ज्ञात कीजिए।",
+    "section": "Arithmetical and Numerical Ability1",
+    "solution": "<b>Solution (EN):</b><br>Let the external radius be R and the internal radius be r.<br>Length (h) = 20 cm.<br>Difference in surface areas = 2&pi;Rh - 2&pi;rh = 440&pi;<br>2&pi;h(R - r) = 440&pi;<br>2 &times; 20 &times; (R - r) = 440<br>40(R - r) = 440<br>(R - r) = 440 &divide; 40 = 11 cm.<br><br><b>Solution (HI):</b><br>माना बाहरी त्रिज्या R और आंतरिक त्रिज्या r है।<br>लंबाई (h) = 20 सेमी।<br>पृष्ठीय क्षेत्रफलों में अंतर = 2&pi;Rh - 2&pi;rh = 440&pi;<br>2&pi;h(R - r) = 440&pi;<br>2 &times; 20 &times; (R - r) = 440<br>40(R - r) = 440<br>(R - r) = 440 &divide; 40 = 11 सेमी।<br><br><b>Short Trick:</b><br>Difference in radii = (Area difference) / (2&pi;h) = 440&pi; / (2&pi; &times; 20) = 440 / 40 = 11 cm.",
+    "topic": "Mensuration"
+  },
+  {
+    "ans": 4,
+    "difficulty": "Moderate",
+    "op_en": [
+      "2",
+      "4",
+      "3",
+      "1"
+    ],
+    "op_hi": [
+      "2",
+      "4",
+      "3",
+      "1"
+    ],
+    "q_en": "Two taps can fill a cistern in 2 hours and 3 hours, respectively. A third tap can empty it in 6 hours. How long (in hours) will it take to fill two-thirds of the empty cistern, if all of them are opened together?",
+    "q_hi": "दो नल एक टंकी को क्रमशः 2 घंटे और 3 घंटे में भर सकते हैं। एक तीसरा नल इसे 6 घंटे में खाली कर सकता है। यदि उन सभी को एक साथ खोल दिया जाए, तो खाली टंकी का दो-तिहाई भाग भरने में कितना समय (घंटों में) लगेगा?",
+    "section": "Arithmetical and Numerical Ability1",
+    "solution": "<b>Solution (EN):</b><br>Let total capacity of the cistern be LCM(2, 3, 6) = 6 units.<br>Efficiency of 1st tap = 6 &divide; 2 = +3 units/hour<br>Efficiency of 2nd tap = 6 &divide; 3 = +2 units/hour<br>Efficiency of 3rd tap = 6 &divide; 6 = -1 unit/hour (emptying)<br>Net efficiency when all taps are open = 3 + 2 - 1 = 4 units/hour.<br>We need to fill two-thirds of the cistern = (2/3) &times; 6 = 4 units.<br>Time taken = Total work / Net efficiency = 4 / 4 = 1 hour.<br><br><b>Solution (HI):</b><br>माना टंकी की कुल क्षमता LCM(2, 3, 6) = 6 इकाई है।<br>पहले नल की क्षमता = 6 &divide; 2 = +3 इकाई/घंटा<br>दूसरे नल की क्षमता = 6 &divide; 3 = +2 इकाई/घंटा<br>तीसरे नल की क्षमता = 6 &divide; 6 = -1 इकाई/घंटा (खाली करना)<br>जब सभी नल खुले हों तो कुल क्षमता = 3 + 2 - 1 = 4 इकाई/घंटा।<br>हमें टंकी का दो-तिहाई भाग भरना है = (2/3) &times; 6 = 4 इकाई।<br>लगा समय = कुल कार्य / कुल क्षमता = 4 / 4 = 1 घंटा।<br><br><b>Short Trick:</b><br>Net work rate = 1/2 + 1/3 - 1/6 = (3 + 2 - 1)/6 = 4/6 = 2/3 part per hour. So to fill 2/3 part, it will take exactly 1 hour.",
+    "topic": "Pipes and Cistern"
+  },
+  {
+    "ans": 4,
+    "difficulty": "Moderate",
+    "op_en": [
+      "<img align=\"middle\" alt=\"9 13 over 16 space hours\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mn»9«/mn»«mfrac»«mn»13«/mn»«mn»16«/mn»«/mfrac»«mo»§#160;«/mo»«mi»hours«/mi»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAAAlCAYAAADV/m7fAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAZpE86XgAAAyBJREFUeNrtWl+ElFEUv8YYyVpG1vhkxUjWWokkSbJkH5Ik0kMPSay1D72nh+xDL8lKEivpYWVZa/WQDGvtQ7IiWVljDSMra61lH0Y+4xPbOe3va263+/1rYu425/Bj7vmO+935zbnnz72j1N9LP2GUMEPwI2xOE94TAkKD8IJwSIn8lM+EFcIuYMog4R4hT+glTMFuSahrSS6GwPEIW19o+12iCMwZ4wHYPRTK0hGoyylClfBY6MpO4EXNhuNfn1CW3QM5Y3+E3bRQlp3AcBtLEmmDQMnCbRJ4GHavhLKWlDQCS8azdcJzdB6cOCqEDYtd13ueiVC4ZGmijasTHkkG7owM4cfYcXmRRwhzCPDf0PS74i3bGeJsx+LYJuE14SBark10Dj2O99tOyDMsrmwcBLBuYp9l+o5uEV086GpCYLJ8x+LylkUHjhHIIeUpsjuXSecNuwuET1j3KuFKRNUQpeOENQmn8hDGlrROah3vfqDPU8XgmmXRfsrSpV2kJXAccXoE4xXN5gSI40PcAmEBNsN43md5n2fodrTxJRyE1PGM3zWIz8f0ecJ4V0ccZE+8Bd2iw1t4F94Qyjx0vRgPY/wuxTw2ryxZduqTqAXeQZcQIBvfxSQ3HSdQ1/nGOG8JQ1kINKUG/RqIzMctmC+Clh3vt01dE+OCYdP4RwT2oD4On1sPh5nVlwiW3j4jcFGLXQpE8njGkjBt8+RSZvwzhFkzP3AnMgr3rDjWsxa1L1WM0Z3DmHfOAYQh3r7HtbnWYDMCjxrT5tky5rX9iEfxuV9LLr/cfB5Zx/VDCxWTxa8iVgUoZ2xlTliKTCGjb6N0GTLmrFnWcR3EfSGcbfeLpblY1+Uy+u0GtlLXS9LFutLqrwUQd59wUv155dm1ktToe3D3D2rvRFokY5+6DAKLQlN2Am+o1j8R3iJwb6BoF0lBYAX6MdSXZXgj624LbckE+hZ96JVVoS2ZwMCiL1gOAYTACALDqt+z2G8JbckETqjWGV4oZegmhbY9ibtY5zZpFd42gN7zDeGrkr/5WvtRmydyFzKNmNdE2/dfFdQ/AFArXZ3y+HWMAAAAi3RFWHRNYXRoTUwAPG1hdGggeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzE5OTgvTWF0aC9NYXRoTUwiPjxtbj45PC9tbj48bWZyYWM+PG1uPjEzPC9tbj48bW4+MTY8L21uPjwvbWZyYWM+PG1vPiYjeEEwOzwvbW8+PG1pPmhvdXJzPC9taT48L21hdGg+5/aZYQAAAABJRU5ErkJggg==\" style=\"max-width: none;\">",
+      "<img align=\"middle\" alt=\"8 3 over 4 space hours\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mn»8«/mn»«mfrac»«mn»3«/mn»«mn»4«/mn»«/mfrac»«mo»§#160;«/mo»«mi»hours«/mi»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEcAAAAlCAYAAAAQjPROAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAZpE86XgAAAqNJREFUeNrtmDFIm0EUx48QpJQiBAki0k2KBBGXIlJEhBKKOJRAcRCnLpKpQ5fS2aWIiHSR4iAiQobOghQRKaUQSoYiIgTJ0EGEIBlCCMLXd/j/5OV5SVObnp/kPfhD7n0fd5ff3ffeuzPm9jZO+kqqkyqkDVKfUTMp0ntSnNRLWicFpH1FY0xWtGOAU1U0VzC4DQPOB0XTaE9JR6RVRdFoM9gxYbxJKpJGe0zKA9CW4nB/WhqQWwRohdPEBgFnW1EYUyJ9QkVsg/Au6RepX9Fcpe0ajg5F0rJmqs7bCECXozzJedJ3thsKpNcexj1ndVJkz0kBVvABDpPL8L3xlOUiCydcvZhj0hcexo80nCImlxFVr/Xluh3ODOJMFXHmEemAtEl66BGOHfcj4p4tFabEe89JPzDXn6SXjj6CFj4b/FfwpQzgsLzPKvwSxl6SizWJh9Z5Rnrxhz/yN2oXThaLkUa7wN4ZAxR7wdZD2sM703iedIw3IHxl1p7FpijimR0rhd9P5Lz7cWjMMUBpTzvXBTHAKob2Gb5etKfRPmyjH9duksXqJWnNNbkUYMyjvYBVknHINxzuq4p2HO36LeFIO4H/GJDihm0pma1ewVeKCJwa2j3inUqH4Nh4t8GeX1/cHcORcKTyfETgfGGxwgCSbe+IT6NZP7E2M+MEQkuVV8dh2k5gSy2hxhn+z2ASbMKJFr5JtL+hUH2HT2qU9RUucho7YZH1cyb6dS3QECtjirJKLoB+Ddkg5XHX8Ek3y3YZxIY6Uror1YfpeB2Z7xzpe0T0eeKYxxygnJKedfqP5qJczN31wTVQODeNX7ArHGF7CIwKR9hbZAWjcBrNZoDt+3K69mm2CNsVhaPCgdnaYfw+3cv4tH+9puhaYGoKp8vh/Abk0Blm8LqiEgAAAIl0RVh0TWF0aE1MADxtYXRoIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8xOTk4L01hdGgvTWF0aE1MIj48bW4+ODwvbW4+PG1mcmFjPjxtbj4zPC9tbj48bW4+NDwvbW4+PC9tZnJhYz48bW8+JiN4QTA7PC9tbz48bWk+aG91cnM8L21pPjwvbWF0aD7BJ4z/AAAAAElFTkSuQmCC\" style=\"max-width: none;\">",
+      "<img align=\"middle\" alt=\"11 11 over 12 space hours\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mn»11«/mn»«mfrac»«mn»11«/mn»«mn»12«/mn»«/mfrac»«mo»§#160;«/mo»«mi»hours«/mi»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFkAAAAlCAYAAAAp60UVAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAZpE86XgAAAjxJREFUeNrtmjFIAlEYxw8RiYhAIsQhgoiGkGiJEIkQwkEaosWhqSWiqTWag4YIkZaG5qChoTWioaElRCJCBIloiBAcIkQkuL6jv/B43J3X6Yt7+v3hD753H++eP9+9+96HhqFWE+Qt8jm50UUMy0WP5BLZhP3GsDoo5AFgiCF3Ly8AGTJDZsgshsyQGTKLIQdGMQFgrIsYVofVKfuvMawAKEHOk+tBnqTuhZyaDk+A7oUcbWofuhdytNnLdU61GPI/zn2EfEJukl/Jy1LcCrlIbpGfyGsOmY5Tn/WSPcZ7IE5+Jt/i2gLuad37wIlTLyCbiuwV8g55mJxBuyTEzAPuPjlCvkZMGtfHbe4Xl/rqQnuVnCVXcc261yw+z6iEHKSn0MSqausSfaNop9G+8zCO3eqWD07f5MKg7clyX0Nqh9Fu+YQsq4L+MmCHBxFyE+2IFPPZI8jW++BMuJ4fRMg3wl5qALaJA5b4yDuNE/LIIEm+sDu06VzIiQrzirr0LaF9Tx4i72GrmBPGKiMmg5W5LYzzIY1r90NPCyfkaj8Vcuzm5DTPdeydLaRydileOw07RaZSQ9qWkMas2MwjB7gv5FRQaiJJ5JrWl34nHzq9MFj+6h1RAeoUYFtxR4yudzWRTWnVJhH3xdjU1hVMg/8TpxRyO6W6YmTqIOcQt8jI1EEuIm1iKYK8S37AIYGlAHIKgMcYlRrIk8ZvXVcEvIGcmeVRbvUOqyD+5nBcLzA6fzUFeUVXXGKy/QLhB28jaK25WyVOAAAAjHRFWHRNYXRoTUwAPG1hdGggeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzE5OTgvTWF0aC9NYXRoTUwiPjxtbj4xMTwvbW4+PG1mcmFjPjxtbj4xMTwvbW4+PG1uPjEyPC9tbj48L21mcmFjPjxtbz4mI3hBMDs8L21vPjxtaT5ob3VyczwvbWk+PC9tYXRoPtaCgzIAAAAASUVORK5CYII=\" style=\"max-width: none;\">",
+      "<img align=\"middle\" alt=\"10 15 over 16 space hours\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mn»10«/mn»«mfrac»«mn»15«/mn»«mn»16«/mn»«/mfrac»«mo»§#160;«/mo»«mi»hours«/mi»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFkAAAAlCAYAAAAp60UVAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAZpE86XgAAAx5JREFUeNrtWl+EVFEYv64xksTIGiO9rGRlJNJDkizZh6xkyD4kWZHVQ+9JkuxLD2utxD70tBJZa62syBjpYfWSkbXGsJKsjGFlZYwR03fs7+hznHvn3tl7c26+H7+H75yzd779zTnn+3PH89LFCeJd4mtiJ2SdT2wR+2DTE0TGF2KdiReEG2yN4oJIFw9+BJGrxGmR6mAIE3kUc7+Ii8SiyJW8yLPGVbEjQicvssII8TZxC+teiGTJi6xxiPgBmYYgJZEVxog9kSxdkRW+iWTpinyc+FQki4ciE9mWNTwi3kM+rQLgM+IRkS3+DjbJ8Qp38A/inAjsLsrEeeKuy05GbeSo47yGnadK4ZIj/reHCK7/HFEbORugymfX8Te+A/77WRA5iqNTmKvAvg77TkbTRCcdXcbcadjHYC+LyMk5uoO5nLHzfzrmu8pOnhO7KGouG+uuED8jrmziRNqyoaCxMrKgNmKS6rfUMHcen6k+ezZIyzCRe5a5vqUE7qfEqCKrnPswcQJ2na05C38fEvPE91gzzgK7+XklY2yX2ZPEq8RtzNXZST81jMi/A0TuOnwKTf9WMHYU9jjsjxGeY9vdRYtGCwe5LvQ3qLOJHOyW4yLzsY5h5yynMY7IJpoYb0Ds3LCBr8Rya9cDnznWhZ031uwlJLKKBy/Z/HxckW8ZKVwF9nSGRK6yu9SD2H0UYYOuRX6KB8WJC8Q3tsJuUCPHR9FShXM12C4UIwXmeyFk7BJsXVA9wFVxhj2rgTUT2Jkz7Dkt47m2L/okO+nbcRs5OtLW4Niq5867OJvfQf9LBXdnD6mcLcXTadgiMpU20ray8cymxY8piPuVeNGlnojGNdzxezi2ggR7IiPIWZW4j4nnHLmGMoNBPZESjtYnb/+tiCCFcn0DIhdEpnREvolx9cppHcFG9Ujui2TJifwO4zOojkaxq11qoWZe5I5lXO/uLZEtGZFtnb28Y42nzIvcMPohfL38VCshkZ94f3vAGvqntHMiW3SE9URUybqJXTuGXsFb4ndv//WWYIiegm1Hq2pvCXdwFyX4f1WU/AHGzHjbEH1QUgAAAIx0RVh0TWF0aE1MADxtYXRoIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8xOTk4L01hdGgvTWF0aE1MIj48bW4+MTA8L21uPjxtZnJhYz48bW4+MTU8L21uPjxtbj4xNjwvbW4+PC9tZnJhYz48bW8+JiN4QTA7PC9tbz48bWk+aG91cnM8L21pPjwvbWF0aD7MaKvZAAAAAElFTkSuQmCC\" style=\"max-width: none;\">"
+    ],
+    "op_hi": [
+      "<img align=\"middle\" alt=\"9 13 over 16 space hours\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mn»9«/mn»«mfrac»«mn»13«/mn»«mn»16«/mn»«/mfrac»«mo»§#160;«/mo»«mi»hours«/mi»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAAAlCAYAAADV/m7fAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAZpE86XgAAAyBJREFUeNrtWl+ElFEUv8YYyVpG1vhkxUjWWokkSbJkH5Ik0kMPSay1D72nh+xDL8lKEivpYWVZa/WQDGvtQ7IiWVljDSMra61lH0Y+4xPbOe3va263+/1rYu425/Bj7vmO+935zbnnz72j1N9LP2GUMEPwI2xOE94TAkKD8IJwSIn8lM+EFcIuYMog4R4hT+glTMFuSahrSS6GwPEIW19o+12iCMwZ4wHYPRTK0hGoyylClfBY6MpO4EXNhuNfn1CW3QM5Y3+E3bRQlp3AcBtLEmmDQMnCbRJ4GHavhLKWlDQCS8azdcJzdB6cOCqEDYtd13ueiVC4ZGmijasTHkkG7owM4cfYcXmRRwhzCPDf0PS74i3bGeJsx+LYJuE14SBark10Dj2O99tOyDMsrmwcBLBuYp9l+o5uEV086GpCYLJ8x+LylkUHjhHIIeUpsjuXSecNuwuET1j3KuFKRNUQpeOENQmn8hDGlrROah3vfqDPU8XgmmXRfsrSpV2kJXAccXoE4xXN5gSI40PcAmEBNsN43md5n2fodrTxJRyE1PGM3zWIz8f0ecJ4V0ccZE+8Bd2iw1t4F94Qyjx0vRgPY/wuxTw2ryxZduqTqAXeQZcQIBvfxSQ3HSdQ1/nGOG8JQ1kINKUG/RqIzMctmC+Clh3vt01dE+OCYdP4RwT2oD4On1sPh5nVlwiW3j4jcFGLXQpE8njGkjBt8+RSZvwzhFkzP3AnMgr3rDjWsxa1L1WM0Z3DmHfOAYQh3r7HtbnWYDMCjxrT5tky5rX9iEfxuV9LLr/cfB5Zx/VDCxWTxa8iVgUoZ2xlTliKTCGjb6N0GTLmrFnWcR3EfSGcbfeLpblY1+Uy+u0GtlLXS9LFutLqrwUQd59wUv155dm1ktToe3D3D2rvRFokY5+6DAKLQlN2Am+o1j8R3iJwb6BoF0lBYAX6MdSXZXgj624LbckE+hZ96JVVoS2ZwMCiL1gOAYTACALDqt+z2G8JbckETqjWGV4oZegmhbY9ibtY5zZpFd42gN7zDeGrkr/5WvtRmydyFzKNmNdE2/dfFdQ/AFArXZ3y+HWMAAAAi3RFWHRNYXRoTUwAPG1hdGggeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzE5OTgvTWF0aC9NYXRoTUwiPjxtbj45PC9tbj48bWZyYWM+PG1uPjEzPC9tbj48bW4+MTY8L21uPjwvbWZyYWM+PG1vPiYjeEEwOzwvbW8+PG1pPmhvdXJzPC9taT48L21hdGg+5/aZYQAAAABJRU5ErkJggg==\" style=\"max-width: none;\">",
+      "<img align=\"middle\" alt=\"8 3 over 4 space hours\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mn»8«/mn»«mfrac»«mn»3«/mn»«mn»4«/mn»«/mfrac»«mo»§#160;«/mo»«mi»hours«/mi»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEcAAAAlCAYAAAAQjPROAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAZpE86XgAAAqNJREFUeNrtmDFIm0EUx48QpJQiBAki0k2KBBGXIlJEhBKKOJRAcRCnLpKpQ5fS2aWIiHSR4iAiQobOghQRKaUQSoYiIgTJ0EGEIBlCCMLXd/j/5OV5SVObnp/kPfhD7n0fd5ff3ffeuzPm9jZO+kqqkyqkDVKfUTMp0ntSnNRLWicFpH1FY0xWtGOAU1U0VzC4DQPOB0XTaE9JR6RVRdFoM9gxYbxJKpJGe0zKA9CW4nB/WhqQWwRohdPEBgFnW1EYUyJ9QkVsg/Au6RepX9Fcpe0ajg5F0rJmqs7bCECXozzJedJ3thsKpNcexj1ndVJkz0kBVvABDpPL8L3xlOUiCydcvZhj0hcexo80nCImlxFVr/Xluh3ODOJMFXHmEemAtEl66BGOHfcj4p4tFabEe89JPzDXn6SXjj6CFj4b/FfwpQzgsLzPKvwSxl6SizWJh9Z5Rnrxhz/yN2oXThaLkUa7wN4ZAxR7wdZD2sM703iedIw3IHxl1p7FpijimR0rhd9P5Lz7cWjMMUBpTzvXBTHAKob2Gb5etKfRPmyjH9duksXqJWnNNbkUYMyjvYBVknHINxzuq4p2HO36LeFIO4H/GJDihm0pma1ewVeKCJwa2j3inUqH4Nh4t8GeX1/cHcORcKTyfETgfGGxwgCSbe+IT6NZP7E2M+MEQkuVV8dh2k5gSy2hxhn+z2ASbMKJFr5JtL+hUH2HT2qU9RUucho7YZH1cyb6dS3QECtjirJKLoB+Ddkg5XHX8Ek3y3YZxIY6Uror1YfpeB2Z7xzpe0T0eeKYxxygnJKedfqP5qJczN31wTVQODeNX7ArHGF7CIwKR9hbZAWjcBrNZoDt+3K69mm2CNsVhaPCgdnaYfw+3cv4tH+9puhaYGoKp8vh/Abk0Blm8LqiEgAAAIl0RVh0TWF0aE1MADxtYXRoIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8xOTk4L01hdGgvTWF0aE1MIj48bW4+ODwvbW4+PG1mcmFjPjxtbj4zPC9tbj48bW4+NDwvbW4+PC9tZnJhYz48bW8+JiN4QTA7PC9tbz48bWk+aG91cnM8L21pPjwvbWF0aD7BJ4z/AAAAAElFTkSuQmCC\" style=\"max-width: none;\">",
+      "<img align=\"middle\" alt=\"11 11 over 12 space hours\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mn»11«/mn»«mfrac»«mn»11«/mn»«mn»12«/mn»«/mfrac»«mo»§#160;«/mo»«mi»hours«/mi»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFkAAAAlCAYAAAAp60UVAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAZpE86XgAAAjxJREFUeNrtmjFIAlEYxw8RiYhAIsQhgoiGkGiJEIkQwkEaosWhqSWiqTWag4YIkZaG5qChoTWioaElRCJCBIloiBAcIkQkuL6jv/B43J3X6Yt7+v3hD753H++eP9+9+96HhqFWE+Qt8jm50UUMy0WP5BLZhP3GsDoo5AFgiCF3Ly8AGTJDZsgshsyQGTKLIQdGMQFgrIsYVofVKfuvMawAKEHOk+tBnqTuhZyaDk+A7oUcbWofuhdytNnLdU61GPI/zn2EfEJukl/Jy1LcCrlIbpGfyGsOmY5Tn/WSPcZ7IE5+Jt/i2gLuad37wIlTLyCbiuwV8g55mJxBuyTEzAPuPjlCvkZMGtfHbe4Xl/rqQnuVnCVXcc261yw+z6iEHKSn0MSqausSfaNop9G+8zCO3eqWD07f5MKg7clyX0Nqh9Fu+YQsq4L+MmCHBxFyE+2IFPPZI8jW++BMuJ4fRMg3wl5qALaJA5b4yDuNE/LIIEm+sDu06VzIiQrzirr0LaF9Tx4i72GrmBPGKiMmg5W5LYzzIY1r90NPCyfkaj8Vcuzm5DTPdeydLaRydileOw07RaZSQ9qWkMas2MwjB7gv5FRQaiJJ5JrWl34nHzq9MFj+6h1RAeoUYFtxR4yudzWRTWnVJhH3xdjU1hVMg/8TpxRyO6W6YmTqIOcQt8jI1EEuIm1iKYK8S37AIYGlAHIKgMcYlRrIk8ZvXVcEvIGcmeVRbvUOqyD+5nBcLzA6fzUFeUVXXGKy/QLhB28jaK25WyVOAAAAjHRFWHRNYXRoTUwAPG1hdGggeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzE5OTgvTWF0aC9NYXRoTUwiPjxtbj4xMTwvbW4+PG1mcmFjPjxtbj4xMTwvbW4+PG1uPjEyPC9tbj48L21mcmFjPjxtbz4mI3hBMDs8L21vPjxtaT5ob3VyczwvbWk+PC9tYXRoPtaCgzIAAAAASUVORK5CYII=\" style=\"max-width: none;\">",
+      "<img align=\"middle\" alt=\"10 15 over 16 space hours\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mn»10«/mn»«mfrac»«mn»15«/mn»«mn»16«/mn»«/mfrac»«mo»§#160;«/mo»«mi»hours«/mi»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFkAAAAlCAYAAAAp60UVAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAZpE86XgAAAx5JREFUeNrtWl+EVFEYv64xksTIGiO9rGRlJNJDkizZh6xkyD4kWZHVQ+9JkuxLD2utxD70tBJZa62syBjpYfWSkbXGsJKsjGFlZYwR03fs7+hznHvn3tl7c26+H7+H75yzd779zTnn+3PH89LFCeJd4mtiJ2SdT2wR+2DTE0TGF2KdiReEG2yN4oJIFw9+BJGrxGmR6mAIE3kUc7+Ii8SiyJW8yLPGVbEjQicvssII8TZxC+teiGTJi6xxiPgBmYYgJZEVxog9kSxdkRW+iWTpinyc+FQki4ciE9mWNTwi3kM+rQLgM+IRkS3+DjbJ8Qp38A/inAjsLsrEeeKuy05GbeSo47yGnadK4ZIj/reHCK7/HFEbORugymfX8Te+A/77WRA5iqNTmKvAvg77TkbTRCcdXcbcadjHYC+LyMk5uoO5nLHzfzrmu8pOnhO7KGouG+uuED8jrmziRNqyoaCxMrKgNmKS6rfUMHcen6k+ezZIyzCRe5a5vqUE7qfEqCKrnPswcQJ2na05C38fEvPE91gzzgK7+XklY2yX2ZPEq8RtzNXZST81jMi/A0TuOnwKTf9WMHYU9jjsjxGeY9vdRYtGCwe5LvQ3qLOJHOyW4yLzsY5h5yynMY7IJpoYb0Ds3LCBr8Rya9cDnznWhZ031uwlJLKKBy/Z/HxckW8ZKVwF9nSGRK6yu9SD2H0UYYOuRX6KB8WJC8Q3tsJuUCPHR9FShXM12C4UIwXmeyFk7BJsXVA9wFVxhj2rgTUT2Jkz7Dkt47m2L/okO+nbcRs5OtLW4Niq5867OJvfQf9LBXdnD6mcLcXTadgiMpU20ray8cymxY8piPuVeNGlnojGNdzxezi2ggR7IiPIWZW4j4nnHLmGMoNBPZESjtYnb/+tiCCFcn0DIhdEpnREvolx9cppHcFG9Ujui2TJifwO4zOojkaxq11qoWZe5I5lXO/uLZEtGZFtnb28Y42nzIvcMPohfL38VCshkZ94f3vAGvqntHMiW3SE9URUybqJXTuGXsFb4ndv//WWYIiegm1Hq2pvCXdwFyX4f1WU/AHGzHjbEH1QUgAAAIx0RVh0TWF0aE1MADxtYXRoIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8xOTk4L01hdGgvTWF0aE1MIj48bW4+MTA8L21uPjxtZnJhYz48bW4+MTU8L21uPjxtbj4xNjwvbW4+PC9tZnJhYz48bW8+JiN4QTA7PC9tbz48bWk+aG91cnM8L21pPjwvbWF0aD7MaKvZAAAAAElFTkSuQmCC\" style=\"max-width: none;\">"
+    ],
+    "q_en": "Sita and Geeta are jointly working on a thesis. Sita types 40 pages in 7 hours using a typewriter, whereas Geeta types 48 pages in 6 hours. If they both work simultaneously on separate typewriters, how long will it take them to complete a 150-page thesis?",
+    "q_hi": "सीता और गीता संयुक्त रूप से एक थीसिस पर काम कर रही हैं। सीता टाइपराइटर का उपयोग करके 7 घंटे में 40 पेज टाइप करती है, जबकि गीता 6 घंटे में 48 पेज टाइप करती है। यदि वे दोनों अलग-अलग टाइपराइटर पर एक साथ काम करती हैं, तो उन्हें 150 पेज की थीसिस पूरी करने में कितना समय लगेगा?",
+    "section": "Arithmetical and Numerical Ability1",
+    "solution": "<b>Solution (EN):</b><br>Sita's typing rate = 40 / 7 pages per hour.<br>Geeta's typing rate = 48 / 6 = 8 pages per hour.<br>Combined typing rate = (40 / 7) + 8 = (40 + 56) / 7 = 96 / 7 pages per hour.<br>Total pages to be typed = 150.<br>Time taken = Total pages / Combined rate = 150 / (96 / 7)<br>= (150 &times; 7) / 96 = 1050 / 96<br>= 175 / 16 hours.<br>Converting into mixed fraction: 175 &divide; 16 = 10 with a remainder of 15.<br>So, time taken = 10 <sup>15</sup>&frasl;<sub>16</sub> hours.<br><br><b>Solution (HI):</b><br>सीता की टाइपिंग गति = 40 / 7 पेज प्रति घंटा।<br>गीता की टाइपिंग गति = 48 / 6 = 8 पेज प्रति घंटा।<br>संयुक्त टाइपिंग गति = (40 / 7) + 8 = (40 + 56) / 7 = 96 / 7 पेज प्रति घंटा।<br>टाइप किए जाने वाले कुल पेज = 150.<br>लगा समय = कुल पेज / संयुक्त गति = 150 / (96 / 7)<br>= (150 &times; 7) / 96 = 1050 / 96<br>= 175 / 16 घंटे।<br>मिश्रित भिन्न में बदलने पर: 175 &divide; 16 = 10, शेषफल 15.<br>अतः, लगा समय = 10 <sup>15</sup>&frasl;<sub>16</sub> घंटे।<br><br><b>Short Trick:</b><br>Rate = 40/7 + 8 = 96/7 pages/hr. Time = 150 &times; 7 / 96 = 1050/96 = 175/16 = 10 <sup>15</sup>&frasl;<sub>16</sub> hours.",
+    "topic": "Time and Work"
+  },
+  {
+    "ans": 1,
+    "difficulty": "Moderate",
+    "op_en": [
+      "₹14,100",
+      "₹15,150",
+      "₹14,764",
+      "₹13,848"
+    ],
+    "op_hi": [
+      "₹14,100",
+      "₹15,150",
+      "₹14,764",
+      "₹13,848"
+    ],
+    "q_en": "Ritik and Sanjay together invested ₹47,000 in a business. At the end of the year, out of a total profit of ₹12,000, Sanjay's share was ₹4,200. What was the difference of their investment?<span style=\"color:#ffffff;\">10024</span>",
+    "q_hi": "रितिक और संजय ने मिलकर एक व्यवसाय में ₹47,000 का निवेश किया। वर्ष के अंत में, ₹12,000 के कुल लाभ में से, संजय का हिस्सा ₹4,200 था। उनके निवेश का अंतर क्या था?",
+    "section": "Arithmetical and Numerical Ability1",
+    "solution": "<b>Solution (EN):</b><br>Total profit = ₹12,000<br>Sanjay's profit = ₹4,200<br>Ritik's profit = 12000 - 4200 = ₹7,800<br>The ratio of their profits corresponds to the ratio of their investments (since the time period is the same).<br>Profit Ratio (Sanjay : Ritik) = 4200 : 7800 = 42 : 78 = 7 : 13<br>Total investment ratio = 7 + 13 = 20 parts.<br>20 parts = ₹47,000 &rArr; 1 part = 47000 / 20 = ₹2,350.<br>Difference in their investment = 13 parts - 7 parts = 6 parts.<br>Difference = 6 &times; 2350 = ₹14,100.<br><br><b>Solution (HI):</b><br>कुल लाभ = ₹12,000<br>संजय का लाभ = ₹4,200<br>रितिक का लाभ = 12000 - 4200 = ₹7,800<br>उनके लाभ का अनुपात उनके निवेश के अनुपात से मेल खाता है (चूंकि समय अवधि समान है)।<br>लाभ अनुपात (संजय : रितिक) = 4200 : 7800 = 42 : 78 = 7 : 13<br>कुल निवेश अनुपात = 7 + 13 = 20 भाग।<br>20 भाग = ₹47,000 &rArr; 1 भाग = 47000 / 20 = ₹2,350.<br>उनके निवेश में अंतर = 13 भाग - 7 भाग = 6 भाग।<br>अंतर = 6 &times; 2350 = ₹14,100.<br><br><b>Short Trick:</b><br>Sanjay's share : Ritik's share = 4200 : 7800 = 7 : 13.<br>Difference = (13 - 7) / (13 + 7) &times; 47000 = (6 / 20) &times; 47000 = 3 &times; 4700 = 14100.",
+    "topic": "Partnership"
+  },
+  {
+    "ans": 4,
+    "difficulty": "Easy",
+    "op_en": [
+      "15",
+      "25",
+      "30",
+      "20"
+    ],
+    "op_hi": [
+      "15",
+      "25",
+      "30",
+      "20"
+    ],
+    "q_en": "The ratio of apples to oranges in a basket is 3 : 5. If there are 12 apples, how many oranges are there?",
+    "q_hi": "एक टोकरी में सेब और संतरे का अनुपात 3 : 5 है। यदि सेब की संख्या 12 है, तो संतरे कितने हैं?",
+    "section": "Arithmetical and Numerical Ability1",
+    "solution": "<b>Solution (EN):</b><br>Ratio of apples to oranges = 3 : 5<br>Let the number of apples be 3x and oranges be 5x.<br>Given, 3x = 12 &rArr; x = 4<br>Number of oranges = 5x = 5 &times; 4 = 20.<br><br><b>Solution (HI):</b><br>सेब और संतरे का अनुपात = 3 : 5<br>माना सेब की संख्या 3x और संतरे की संख्या 5x है।<br>दिया गया है, 3x = 12 &rArr; x = 4<br>संतरे की संख्या = 5x = 5 &times; 4 = 20.<br><br><b>Short Trick:</b><br>(12 / 3) &times; 5 = 4 &times; 5 = 20.",
+    "topic": "Ratio and Proportion"
+  },
+  {
+    "ans": 2,
+    "difficulty": "Moderate",
+    "op_en": [
+      "22%",
+      "25%",
+      "23%",
+      "24%"
+    ],
+    "op_hi": [
+      "22%",
+      "25%",
+      "23%",
+      "24%"
+    ],
+    "q_en": "A shopkeeper fixes the marked price of an item 40% above its cost price. What percentage of discount on marked price should be allowed to gain 5%?",
+    "q_hi": "एक दुकानदार किसी वस्तु का अंकित मूल्य उसके क्रय मूल्य से 40% अधिक निर्धारित करता है। 5% का लाभ प्राप्त करने के लिए अंकित मूल्य पर कितने प्रतिशत की छूट दी जानी चाहिए?",
+    "section": "Arithmetical and Numerical Ability1",
+    "solution": "<b>Solution (EN):</b><br>Let the Cost Price (CP) be 100.<br>Marked Price (MP) is 40% above CP = 100 + 40 = 140.<br>To gain 5%, Selling Price (SP) should be = 100 + 5 = 105.<br>Discount = MP - SP = 140 - 105 = 35.<br>Discount Percentage = (Discount / MP) &times; 100<br>= (35 / 140) &times; 100 = (1 / 4) &times; 100 = 25%.<br><br><b>Solution (HI):</b><br>माना क्रय मूल्य (CP) 100 है।<br>अंकित मूल्य (MP) CP से 40% अधिक है = 100 + 40 = 140.<br>5% का लाभ प्राप्त करने के लिए, विक्रय मूल्य (SP) होना चाहिए = 100 + 5 = 105.<br>छूट = MP - SP = 140 - 105 = 35.<br>छूट प्रतिशत = (छूट / MP) &times; 100<br>= (35 / 140) &times; 100 = (1 / 4) &times; 100 = 25%.<br><br><b>Short Trick:</b><br>140 &times; (100 - D) / 100 = 105 &rArr; (100 - D) = 1050 / 14 = 75 &rArr; D = 25%.",
+    "topic": "Profit, Loss and Discount"
+  },
+  {
+    "ans": 2,
+    "difficulty": "Moderate",
+    "op_en": [
+      "2 : 1",
+      "4 : 1",
+      "4 : 81",
+      "8 : 5"
+    ],
+    "op_hi": [
+      "2 : 1",
+      "4 : 1",
+      "4 : 81",
+      "8 : 5"
+    ],
+    "q_en": "A solid metallic sphere of radius 12 cm is melted and recast into 64 identical spheres. What is the ratio of the surface area of the original sphere to the total surface area of 4 smaller spheres so formed?",
+    "q_hi": "12 सेमी त्रिज्या वाले एक ठोस धातु के गोले को पिघलाकर 64 समान गोले बनाए जाते हैं। मूल गोले के पृष्ठीय क्षेत्रफल का, इस प्रकार बने 4 छोटे गोलों के कुल पृष्ठीय क्षेत्रफल से अनुपात क्या है?",
+    "section": "Arithmetical and Numerical Ability1",
+    "solution": "<b>Solution (EN):</b><br>Let the radius of the original sphere be R = 12 cm and the radius of each smaller sphere be r.<br>Since volume remains constant:<br>(4/3)&pi;R<sup>3</sup> = 64 &times; (4/3)&pi;r<sup>3</sup><br>R<sup>3</sup> = 64r<sup>3</sup><br>12<sup>3</sup> = 64r<sup>3</sup> &rArr; 1728 = 64r<sup>3</sup> &rArr; r<sup>3</sup> = 27 &rArr; r = 3 cm.<br>Surface Area of original sphere = 4&pi;R<sup>2</sup> = 4&pi;(12)<sup>2</sup> = 576&pi; cm<sup>2</sup>.<br>Surface Area of 1 smaller sphere = 4&pi;r<sup>2</sup> = 4&pi;(3)<sup>2</sup> = 36&pi; cm<sup>2</sup>.<br>Total Surface Area of 4 smaller spheres = 4 &times; 36&pi; = 144&pi; cm<sup>2</sup>.<br>Ratio = 576&pi; : 144&pi; = 4 : 1.<br><br><b>Solution (HI):</b><br>माना मूल गोले की त्रिज्या R = 12 सेमी है और प्रत्येक छोटे गोले की त्रिज्या r है।<br>चूंकि आयतन स्थिर रहता है:<br>(4/3)&pi;R<sup>3</sup> = 64 &times; (4/3)&pi;r<sup>3</sup><br>R<sup>3</sup> = 64r<sup>3</sup><br>12<sup>3</sup> = 64r<sup>3</sup> &rArr; 1728 = 64r<sup>3</sup> &rArr; r<sup>3</sup> = 27 &rArr; r = 3 सेमी।<br>मूल गोले का पृष्ठीय क्षेत्रफल = 4&pi;R<sup>2</sup> = 4&pi;(12)<sup>2</sup> = 576&pi; सेमी<sup>2</sup>.<br>1 छोटे गोले का पृष्ठीय क्षेत्रफल = 4&pi;r<sup>2</sup> = 4&pi;(3)<sup>2</sup> = 36&pi; सेमी<sup>2</sup>.<br>4 छोटे गोलों का कुल पृष्ठीय क्षेत्रफल = 4 &times; 36&pi; = 144&pi; सेमी<sup>2</sup>.<br>अनुपात = 576&pi; : 144&pi; = 4 : 1.<br><br><b>Short Trick:</b><br>R = r &times; (64)<sup>1/3</sup> = 4r. Surface Area depends on R<sup>2</sup>. Original SA &prop; 16r<sup>2</sup>. Area of 4 small spheres &prop; 4 &times; r<sup>2</sup> = 4r<sup>2</sup>. Ratio = 16 : 4 = 4 : 1.",
+    "topic": "Mensuration"
+  },
+  {
+    "ans": 3,
+    "difficulty": "Easy",
+    "op_en": [
+      "75 m",
+      "90 m",
+      "150 m",
+      "180 m"
+    ],
+    "op_hi": [
+      "75 मीटर",
+      "90 मीटर",
+      "150 मीटर",
+      "180 मीटर"
+    ],
+    "q_en": "The length of a rectangular plot is 45 m, and its area is 1350 m<sup>2</sup>. Find the perimeter of the plot.",
+    "q_hi": "एक आयताकार भूखंड की लंबाई 45 मीटर है, और इसका क्षेत्रफल 1350 मीटर<sup>2</sup> है। भूखंड का परिमाप ज्ञात कीजिए।",
+    "section": "Arithmetical and Numerical Ability1",
+    "solution": "<b>Solution (EN):</b><br>Area of a rectangle = Length &times; Breadth<br>1350 = 45 &times; Breadth<br>Breadth = 1350 / 45 = 30 m.<br>Perimeter = 2 &times; (Length + Breadth)<br>= 2 &times; (45 + 30) = 2 &times; 75 = 150 m.<br><br><b>Solution (HI):</b><br>आयत का क्षेत्रफल = लंबाई &times; चौड़ाई<br>1350 = 45 &times; चौड़ाई<br>चौड़ाई = 1350 / 45 = 30 मीटर।<br>परिमाप = 2 &times; (लंबाई + चौड़ाई)<br>= 2 &times; (45 + 30) = 2 &times; 75 = 150 मीटर।<br><br><b>Short Trick:</b><br>B = 1350/45 = 30. P = 2(45 + 30) = 2(75) = 150 m.",
+    "topic": "Mensuration"
+  },
+  {
+    "ans": 1,
+    "difficulty": "Easy",
+    "op_en": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "op_hi": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "q_en": "Pipe A can fill an empty cistern alone in 5 hours and pipe B can fill the same cistern alone in 20 hours. The time taken (in hours) by them to fill half of the cistern by operating together will be:",
+    "q_hi": "पाइप A अकेले एक खाली टंकी को 5 घंटे में भर सकता है और पाइप B अकेले उसी टंकी को 20 घंटे में भर सकता है। एक साथ काम करते हुए उनके द्वारा टंकी का आधा भाग भरने में लगने वाला समय (घंटों में) होगा:",
+    "section": "Arithmetical and Numerical Ability1",
+    "solution": "<b>Solution (EN):</b><br>Let total capacity = LCM(5, 20) = 20 units.<br>Efficiency of Pipe A = 20 / 5 = 4 units/hour.<br>Efficiency of Pipe B = 20 / 20 = 1 unit/hour.<br>Combined efficiency = 4 + 1 = 5 units/hour.<br>Time taken to fill the full cistern = 20 / 5 = 4 hours.<br>Time taken to fill half the cistern = 4 / 2 = 2 hours.<br><br><b>Solution (HI):</b><br>माना कुल क्षमता = LCM(5, 20) = 20 इकाई।<br>पाइप A की क्षमता = 20 / 5 = 4 इकाई/घंटा।<br>पाइप B की क्षमता = 20 / 20 = 1 इकाई/घंटा।<br>संयुक्त क्षमता = 4 + 1 = 5 इकाई/घंटा।<br>पूरी टंकी भरने में लगा समय = 20 / 5 = 4 घंटे।<br>टंकी का आधा भाग भरने में लगा समय = 4 / 2 = 2 घंटे।<br><br><b>Short Trick:</b><br>Time to fill together = (5 &times; 20) / (5 + 20) = 100 / 25 = 4 hours. Time for half cistern = 4/2 = 2 hours.",
+    "topic": "Pipes and Cistern"
+  },
+  {
+    "ans": 1,
+    "difficulty": "Moderate",
+    "op_en": [
+      "II",
+      "I",
+      "IV",
+      "III"
+    ],
+    "op_hi": [
+      "II",
+      "I",
+      "IV",
+      "III"
+    ],
+    "q_en": "The marked price of a cooker is same at four shops I, II, III and IV. Shop I allows two successive discounts of 17% and 35%, shop II allows successive discounts of 99% and 23%, shop III allows successive discounts of 31% and 98%, and shop IV allows successive discounts of 66%, 30%, and 37% on the marked price of the cooker.<br>Which shop is selling the cooker at the lowest price?",
+    "q_hi": "चार दुकानों I, II, III और IV पर एक कुकर का अंकित मूल्य समान है। दुकान I 17% और 35% की दो क्रमिक छूट देती है, दुकान II 99% और 23% की क्रमिक छूट देती है, दुकान III 31% और 98% की क्रमिक छूट देती है, और दुकान IV कुकर के अंकित मूल्य पर 66%, 30% और 37% की क्रमिक छूट देती है।<br>कौन सी दुकान कुकर को सबसे कम कीमत पर बेच रही है?",
+    "section": "Arithmetical and Numerical Ability1",
+    "solution": "<b>Solution (EN):</b><br>Let Marked Price (MP) = 1.<br>Selling Price (SP) at Shop I = 1 &times; (1 - 0.17) &times; (1 - 0.35) = 0.83 &times; 0.65 = 0.5395.<br>SP at Shop II = 1 &times; (1 - 0.99) &times; (1 - 0.23) = 0.01 &times; 0.77 = 0.0077.<br>SP at Shop III = 1 &times; (1 - 0.31) &times; (1 - 0.98) = 0.69 &times; 0.02 = 0.0138.<br>SP at Shop IV = 1 &times; (1 - 0.66) &times; (1 - 0.30) &times; (1 - 0.37) = 0.34 &times; 0.70 &times; 0.63 = 0.14994.<br>Comparing all selling prices, 0.0077 is the lowest, which corresponds to Shop II.<br><br><b>Solution (HI):</b><br>माना अंकित मूल्य (MP) = 1.<br>दुकान I पर विक्रय मूल्य (SP) = 1 &times; (1 - 0.17) &times; (1 - 0.35) = 0.83 &times; 0.65 = 0.5395.<br>दुकान II पर SP = 1 &times; (1 - 0.99) &times; (1 - 0.23) = 0.01 &times; 0.77 = 0.0077.<br>दुकान III पर SP = 1 &times; (1 - 0.31) &times; (1 - 0.98) = 0.69 &times; 0.02 = 0.0138.<br>दुकान IV पर SP = 1 &times; (1 - 0.66) &times; (1 - 0.30) &times; (1 - 0.37) = 0.34 &times; 0.70 &times; 0.63 = 0.14994.<br>सभी विक्रय मूल्यों की तुलना करने पर, 0.0077 सबसे कम है, जो दुकान II के अनुरूप है।<br><br><b>Short Trick:</b><br>Shop II offers a 99% initial discount, reducing the price to 1% of the original, then takes another 23% off. This results in an SP of 0.77% of the original MP, clearly the absolute lowest.",
+    "topic": "Profit, Loss and Discount"
+  },
+  {
+    "ans": 4,
+    "difficulty": "Moderate",
+    "op_en": [
+      "65 seconds",
+      "42 seconds",
+      "48 seconds",
+      "60 seconds"
+    ],
+    "op_hi": [
+      "65 सेकंड",
+      "42 सेकंड",
+      "48 सेकंड",
+      "60 सेकंड"
+    ],
+    "q_en": "Two trains, one 100 metres long and the other 150 metres long, are moving in the same direction at speeds of 55 km/hr and 70 km/hr, respectively. How long will it take for the faster train to completely overtake the slower train? (Rounded off to the nearest second)",
+    "q_hi": "दो ट्रेनें, एक 100 मीटर लंबी और दूसरी 150 मीटर लंबी, समान दिशा में क्रमशः 55 किमी/घंटा और 70 किमी/घंटा की गति से चल रही हैं। तेज ट्रेन को धीमी ट्रेन को पूरी तरह से पार करने में कितना समय लगेगा? (निकटतम सेकंड तक पूर्णांकित)",
+    "section": "Arithmetical and Numerical Ability1",
+    "solution": "<b>Solution (EN):</b><br>Total distance to be covered to overtake = Sum of lengths of the two trains = 100 + 150 = 250 metres.<br>Since they are moving in the same direction, relative speed = 70 - 55 = 15 km/hr.<br>Convert relative speed to m/s: 15 &times; (5/18) = 75 / 18 = 25 / 6 m/s.<br>Time taken = Distance / Relative Speed = 250 / (25 / 6) = (250 &times; 6) / 25 = 10 &times; 6 = 60 seconds.<br><br><b>Solution (HI):</b><br>पार करने के लिए तय की जाने वाली कुल दूरी = दोनों ट्रेनों की लंबाई का योग = 100 + 150 = 250 मीटर।<br>चूंकि वे एक ही दिशा में आगे बढ़ रही हैं, सापेक्ष गति = 70 - 55 = 15 किमी/घंटा।<br>सापेक्ष गति को मीटर/सेकंड में बदलें: 15 &times; (5/18) = 75 / 18 = 25 / 6 मीटर/सेकंड।<br>लगा समय = दूरी / सापेक्ष गति = 250 / (25 / 6) = (250 &times; 6) / 25 = 10 &times; 6 = 60 सेकंड।<br><br><b>Short Trick:</b><br>Time = (100 + 150) / [(70 - 55) &times; (5/18)] = 250 / (15 &times; 5/18) = 250 / (25/6) = 60s.",
+    "topic": "Time, Speed and Distance"
+  },
+  {
+    "ans": 3,
+    "difficulty": "Moderate",
+    "op_en": [
+      "494",
+      "503",
+      "500",
+      "452"
+    ],
+    "op_hi": [
+      "494",
+      "503",
+      "500",
+      "452"
+    ],
+    "q_en": "Arvind bought an article for ₹x. He sold it to Biru at a loss of 11%. Biru spent ₹180 on its transportation and sold it to Minu at a profit of 60%. If Minu bought it for ₹1,000, then what is the value of x?",
+    "q_hi": "अरविंद ने ₹x में एक वस्तु खरीदी। उसने इसे बीरू को 11% की हानि पर बेच दिया। बीरू ने इसके परिवहन पर ₹180 खर्च किए और इसे मीनू को 60% के लाभ पर बेच दिया। यदि मीनू ने इसे ₹1,000 में खरीदा, तो x का मान क्या है?",
+    "section": "Arithmetical and Numerical Ability1",
+    "solution": "<b>Solution (EN):</b><br>Arvind's CP = x.<br>Arvind sold to Biru at 11% loss. So, Biru's Purchase Price = x &times; (1 - 0.11) = 0.89x.<br>Biru spent ₹180 on transport. Total Cost Price for Biru = 0.89x + 180.<br>Biru sold it to Minu at a 60% profit. Minu's CP = 1000.<br>(0.89x + 180) &times; 1.60 = 1000<br>0.89x + 180 = 1000 / 1.6<br>0.89x + 180 = 625<br>0.89x = 625 - 180<br>0.89x = 445<br>x = 445 / 0.89 = 500.<br><br><b>Solution (HI):</b><br>अरविंद का क्रय मूल्य = x.<br>अरविंद ने बीरू को 11% हानि पर बेचा। अतः बीरू का खरीद मूल्य = x &times; (1 - 0.11) = 0.89x.<br>बीरू ने परिवहन पर ₹180 खर्च किए। बीरू का कुल क्रय मूल्य = 0.89x + 180.<br>बीरू ने इसे 60% लाभ पर मीनू को बेचा। मीनू का क्रय मूल्य = 1000.<br>(0.89x + 180) &times; 1.60 = 1000<br>0.89x + 180 = 1000 / 1.6<br>0.89x + 180 = 625<br>0.89x = 625 - 180<br>0.89x = 445<br>x = 445 / 0.89 = 500.<br><br><b>Short Trick:</b><br>(0.89x + 180) &times; 160% = 1000 &rArr; 0.89x + 180 = 625 &rArr; 0.89x = 445 &rArr; x = 500.",
+    "topic": "Profit, Loss and Discount"
+  },
+  {
+    "ans": 1,
+    "difficulty": "Easy",
+    "op_en": [
+      "48 km/hr",
+      "50 km/hr",
+      "52 km/hr",
+      "45 km/hr"
+    ],
+    "op_hi": [
+      "48 किमी/घंटा",
+      "50 किमी/घंटा",
+      "52 किमी/घंटा",
+      "45 किमी/घंटा"
+    ],
+    "q_en": "A technical staff from a company travels from her home to office with speed of 40km/hr and drive back to home at 60km/hr. The total distance from her office to home is 25 km. Find the average speed for her entire journey.",
+    "q_hi": "एक कंपनी का एक तकनीकी कर्मचारी 40 किमी/घंटा की गति से अपने घर से कार्यालय तक यात्रा करता है और 60 किमी/घंटा की गति से घर वापस आता है। उसके कार्यालय से घर की कुल दूरी 25 किमी है। उसकी पूरी यात्रा के लिए औसत गति ज्ञात कीजिए।",
+    "section": "Arithmetical and Numerical Ability1",
+    "solution": "<b>Solution (EN):</b><br>When the distance traveled in both directions is the same, the average speed is given by the formula:<br>Average Speed = (2 &times; S1 &times; S2) / (S1 + S2)<br>Here, S1 = 40 km/hr and S2 = 60 km/hr.<br>Average Speed = (2 &times; 40 &times; 60) / (40 + 60)<br>= 4800 / 100 = 48 km/hr.<br><i>(Note: The distance 25 km is extra information not needed for finding the average speed.)</i><br><br><b>Solution (HI):</b><br>जब दोनों दिशाओं में तय की गई दूरी समान होती है, तो औसत गति निम्नलिखित सूत्र द्वारा दी जाती है:<br>औसत गति = (2 &times; S1 &times; S2) / (S1 + S2)<br>यहाँ, S1 = 40 किमी/घंटा और S2 = 60 किमी/घंटा।<br>औसत गति = (2 &times; 40 &times; 60) / (40 + 60)<br>= 4800 / 100 = 48 किमी/घंटा।<br><i>(नोट: औसत गति ज्ञात करने के लिए 25 किमी की दूरी अतिरिक्त जानकारी है जिसकी आवश्यकता नहीं है।)</i><br><br><b>Short Trick:</b><br>Average speed = 2xy/(x+y) = 2(40)(60)/(40+60) = 4800/100 = 48 km/hr.",
+    "topic": "Time, Speed and Distance"
+  },
+  {
+    "ans": 4,
+    "difficulty": "Easy",
+    "op_en": [
+      "4",
+      "44",
+      "400",
+      "40"
+    ],
+    "op_hi": [
+      "4",
+      "44",
+      "400",
+      "40"
+    ],
+    "q_en": "Find the mean proportional between 20 and 80.<br>",
+    "q_hi": "20 और 80 के बीच मध्यानुपाती ज्ञात कीजिए।",
+    "section": "Arithmetical and Numerical Ability1",
+    "solution": "<b>Solution (EN):</b><br>The mean proportional between two numbers 'a' and 'b' is given by &radic;(a &times; b).<br>Here, a = 20 and b = 80.<br>Mean proportional = &radic;(20 &times; 80) = &radic;1600 = 40.<br><br><b>Solution (HI):</b><br>दो संख्याओं 'a' और 'b' के बीच मध्यानुपाती &radic;(a &times; b) द्वारा दिया जाता है।<br>यहाँ, a = 20 और b = 80.<br>मध्यानुपाती = &radic;(20 &times; 80) = &radic;1600 = 40.<br><br><b>Short Trick:</b><br>&radic;(20 &times; 80) = &radic;1600 = 40.",
+    "topic": "Ratio and Proportion"
+  },
+  {
+    "ans": 3,
+    "difficulty": "Moderate",
+    "op_en": [
+      "7 : 8",
+      "5 : 7",
+      "6 : 7",
+      "4 : 7"
+    ],
+    "op_hi": [
+      "7 : 8",
+      "5 : 7",
+      "6 : 7",
+      "4 : 7"
+    ],
+    "q_en": "A cube and a cuboid have the same volume. The side of the cube is 10 cm. The length, breadth, and height of the cuboid are in the ratio 4 : 2 : 1. Find the ratio of the total surface areas of the cube to the cuboid.",
+    "q_hi": "एक घन और एक घनाभ का आयतन समान है। घन की भुजा 10 सेमी है। घनाभ की लंबाई, चौड़ाई और ऊंचाई 4 : 2 : 1 के अनुपात में हैं। घन और घनाभ के कुल पृष्ठीय क्षेत्रफल का अनुपात ज्ञात कीजिए।",
+    "section": "Arithmetical and Numerical Ability1",
+    "solution": "<b>Solution (EN):</b><br>Volume of cube = (side)<sup>3</sup> = 10<sup>3</sup> = 1000 cm<sup>3</sup>.<br>Let the dimensions of the cuboid be 4x, 2x, and 1x.<br>Volume of cuboid = l &times; b &times; h = 4x &times; 2x &times; 1x = 8x<sup>3</sup>.<br>Since volumes are equal: 8x<sup>3</sup> = 1000 &rArr; x<sup>3</sup> = 125 &rArr; x = 5 cm.<br>Dimensions of the cuboid are: l = 20 cm, b = 10 cm, h = 5 cm.<br>Total Surface Area of cube = 6 &times; (side)<sup>2</sup> = 6 &times; 100 = 600 cm<sup>2</sup>.<br>Total Surface Area of cuboid = 2(lb + bh + hl) = 2(20&times;10 + 10&times;5 + 5&times;20) = 2(200 + 50 + 100) = 2(350) = 700 cm<sup>2</sup>.<br>Ratio of Surface Areas = 600 : 700 = 6 : 7.<br><br><b>Solution (HI):</b><br>घन का आयतन = (भुजा)<sup>3</sup> = 10<sup>3</sup> = 1000 सेमी<sup>3</sup>.<br>माना घनाभ की विमाएँ 4x, 2x और 1x हैं।<br>घनाभ का आयतन = l &times; b &times; h = 4x &times; 2x &times; 1x = 8x<sup>3</sup>.<br>चूंकि आयतन समान हैं: 8x<sup>3</sup> = 1000 &rArr; x<sup>3</sup> = 125 &rArr; x = 5 सेमी।<br>घनाभ की विमाएँ हैं: l = 20 सेमी, b = 10 सेमी, h = 5 सेमी।<br>घन का कुल पृष्ठीय क्षेत्रफल = 6 &times; (भुजा)<sup>2</sup> = 6 &times; 100 = 600 सेमी<sup>2</sup>.<br>घनाभ का कुल पृष्ठीय क्षेत्रफल = 2(lb + bh + hl) = 2(20&times;10 + 10&times;5 + 5&times;20) = 2(200 + 50 + 100) = 2(350) = 700 सेमी<sup>2</sup>.<br>पृष्ठीय क्षेत्रफलों का अनुपात = 600 : 700 = 6 : 7.<br><br><b>Short Trick:</b><br>Volume = 1000 &rArr; 8x<sup>3</sup> = 1000 &rArr; x = 5. TSA of Cube = 600. TSA of Cuboid = 2(200 + 50 + 100) = 700. Ratio = 6:7.",
+    "topic": "Mensuration"
+  },
+  {
+    "ans": 4,
+    "difficulty": "Easy",
+    "op_en": [
+      "30",
+      "37",
+      "20",
+      "27"
+    ],
+    "op_hi": [
+      "30",
+      "37",
+      "20",
+      "27"
+    ],
+    "q_en": "Find the fourth proportional to 4, 9 and 12.<br>",
+    "q_hi": "4, 9 और 12 का चतुर्थानुपाती ज्ञात कीजिए।",
+    "section": "Arithmetical and Numerical Ability1",
+    "solution": "<b>Solution (EN):</b><br>Let the fourth proportional be x.<br>So, 4 : 9 :: 12 : x<br>&rArr; 4 / 9 = 12 / x<br>&rArr; 4x = 108<br>&rArr; x = 27.<br><br><b>Solution (HI):</b><br>माना चतुर्थानुपाती x है।<br>अतः, 4 : 9 :: 12 : x<br>&rArr; 4 / 9 = 12 / x<br>&rArr; 4x = 108<br>&rArr; x = 27.<br><br><b>Short Trick:</b><br>(9 &times; 12) / 4 = 9 &times; 3 = 27.",
+    "topic": "Ratio and Proportion"
+  },
+  {
+    "ans": 2,
+    "difficulty": "Easy",
+    "op_en": [
+      "80 cm2",
+      "84 cm2",
+      "72 cm2",
+      "76 cm2"
+    ],
+    "op_hi": [
+      "80 सेमी<sup>2</sup>",
+      "84 सेमी<sup>2</sup>",
+      "72 सेमी<sup>2</sup>",
+      "76 सेमी<sup>2</sup>"
+    ],
+    "q_en": "The sides of a triangle are 7 cm, 24 cm, and 25 cm. What is its area?",
+    "q_hi": "एक त्रिभुज की भुजाएँ 7 सेमी, 24 सेमी और 25 सेमी हैं। इसका क्षेत्रफल क्या है?",
+    "section": "Arithmetical and Numerical Ability1",
+    "solution": "<b>Solution (EN):</b><br>The given sides are 7 cm, 24 cm, and 25 cm.<br>Notice that 7<sup>2</sup> + 24<sup>2</sup> = 49 + 576 = 625 = 25<sup>2</sup>. Thus, it is a right-angled triangle with base 7 cm and height 24 cm.<br>Area = 1/2 &times; base &times; height<br>= 1/2 &times; 7 &times; 24 = 7 &times; 12 = 84 cm<sup>2</sup>.<br><br><b>Solution (HI):</b><br>दी गई भुजाएँ 7 सेमी, 24 सेमी और 25 सेमी हैं।<br>ध्यान दें कि 7<sup>2</sup> + 24<sup>2</sup> = 49 + 576 = 625 = 25<sup>2</sup>. इस प्रकार, यह 7 सेमी आधार और 24 सेमी ऊंचाई वाला एक समकोण त्रिभुज है।<br>क्षेत्रफल = 1/2 &times; आधार &times; ऊँचाई<br>= 1/2 &times; 7 &times; 24 = 7 &times; 12 = 84 सेमी<sup>2</sup>.<br><br><b>Short Trick:</b><br>(7, 24, 25) forms a Pythagorean triplet. Area = 0.5 &times; 7 &times; 24 = 84.",
+    "topic": "Mensuration"
+  },
+  {
+    "ans": 1,
+    "difficulty": "Moderate",
+    "op_en": [
+      "42",
+      "58",
+      "38",
+      "46"
+    ],
+    "op_hi": [
+      "42",
+      "58",
+      "38",
+      "46"
+    ],
+    "q_en": "Two numbers are in the ratio 5 : 9. If the first number is increased by 15 and the second number is decreased by 7, then the ratio becomes 9 : 6. What is the sum of the original two numbers?",
+    "q_hi": "दो संख्याएँ 5 : 9 के अनुपात में हैं। यदि पहली संख्या में 15 की वृद्धि की जाती है और दूसरी संख्या में 7 की कमी की जाती है, तो अनुपात 9 : 6 हो जाता है। मूल दो संख्याओं का योग क्या है?",
+    "section": "Arithmetical and Numerical Ability1",
+    "solution": "<b>Solution (EN):</b><br>Let the original numbers be 5x and 9x.<br>According to the given condition:<br>(5x + 15) / (9x - 7) = 9 / 6 = 3 / 2<br>Cross multiplying:<br>2(5x + 15) = 3(9x - 7)<br>10x + 30 = 27x - 21<br>17x = 51 &rArr; x = 3<br>The original numbers are 5(3) = 15 and 9(3) = 27.<br>Sum of the original numbers = 15 + 27 = 42.<br><br><b>Solution (HI):</b><br>माना मूल संख्याएँ 5x और 9x हैं।<br>दी गई शर्त के अनुसार:<br>(5x + 15) / (9x - 7) = 9 / 6 = 3 / 2<br>तिर्यक गुणा करने पर:<br>2(5x + 15) = 3(9x - 7)<br>10x + 30 = 27x - 21<br>17x = 51 &rArr; x = 3<br>मूल संख्याएँ 5(3) = 15 और 9(3) = 27 हैं।<br>मूल संख्याओं का योग = 15 + 27 = 42.<br><br><b>Short Trick:</b><br>Sum is 14x. (5x+15)/(9x-7) = 3/2 &rArr; 10x+30=27x-21 &rArr; 17x=51 &rArr; x=3. Sum = 14 &times; 3 = 42.",
+    "topic": "Ratio and Proportion"
+  },
+  {
+    "ans": 1,
+    "difficulty": "Easy",
+    "op_en": [
+      "30 km/h",
+      "20 km/h",
+      "40 km/h",
+      "10 km/h"
+    ],
+    "op_hi": [
+      "30 किमी/घंटा",
+      "20 किमी/घंटा",
+      "40 किमी/घंटा",
+      "10 किमी/घंटा"
+    ],
+    "q_en": "<img align=\"middle\" alt=\"An space athlete space runs space 200 space m space race space in space 24 space seconds. space Find space his space speed space left parenthesis in space km divided by space h right parenthesis.\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mi»An«/mi»«mo»§#160;«/mo»«mi»athlete«/mi»«mo»§#160;«/mo»«mi»runs«/mi»«mo»§#160;«/mo»«mn»200«/mn»«mo»§#160;«/mo»«mi»m«/mi»«mo»§#160;«/mo»«mi»race«/mi»«mo»§#160;«/mo»«mi»in«/mi»«mo»§#160;«/mo»«mn»24«/mn»«mo»§#160;«/mo»«mi»seconds«/mi»«mo».«/mo»«mo»§#160;«/mo»«mi»Find«/mi»«mo»§#160;«/mo»«mi»his«/mi»«mo»§#160;«/mo»«mi»speed«/mi»«mo»§#160;«/mo»«mo»(«/mo»«mi»in«/mi»«mo»§#160;«/mo»«mi»km«/mi»«mo»/«/mo»«mo»§#160;«/mo»«mi»h«/mi»«mo»)«/mo»«mo».«/mo»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,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\" style=\"max-width: none;\">",
+    "q_hi": "<img align=\"middle\" alt=\"An space athlete space runs space 200 space m space race space in space 24 space seconds. space Find space his space speed space left parenthesis in space km divided by space h right parenthesis.\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mi»An«/mi»«mo»§#160;«/mo»«mi»athlete«/mi»«mo»§#160;«/mo»«mi»runs«/mi»«mo»§#160;«/mo»«mn»200«/mn»«mo»§#160;«/mo»«mi»m«/mi»«mo»§#160;«/mo»«mi»race«/mi»«mo»§#160;«/mo»«mi»in«/mi»«mo»§#160;«/mo»«mn»24«/mn»«mo»§#160;«/mo»«mi»seconds«/mi»«mo».«/mo»«mo»§#160;«/mo»«mi»Find«/mi»«mo»§#160;«/mo»«mi»his«/mi»«mo»§#160;«/mo»«mi»speed«/mi»«mo»§#160;«/mo»«mo»(«/mo»«mi»in«/mi»«mo»§#160;«/mo»«mi»km«/mi»«mo»/«/mo»«mo»§#160;«/mo»«mi»h«/mi»«mo»)«/mo»«mo».«/mo»«/math»\" loading=\"lazy\" role=\"math\" src=\"data:image/png;base64,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\" style=\"max-width: none;\">",
+    "section": "Arithmetical and Numerical Ability1",
+    "solution": "<b>Solution (EN):</b><br>Distance = 200 m.<br>Time = 24 seconds.<br>Speed in m/s = Distance / Time = 200 / 24 m/s.<br>To convert m/s to km/h, multiply by 18/5:<br>Speed in km/h = (200 / 24) &times; (18 / 5)<br>= (200 / 5) &times; (18 / 24) = 40 &times; (3 / 4) = 30 km/h.<br><br><b>Solution (HI):</b><br>दूरी = 200 मीटर।<br>समय = 24 सेकंड।<br>गति मीटर/सेकंड में = दूरी / समय = 200 / 24 मीटर/सेकंड।<br>मीटर/सेकंड को किमी/घंटा में बदलने के लिए, 18/5 से गुणा करें:<br>गति किमी/घंटा में = (200 / 24) &times; (18 / 5)<br>= (200 / 5) &times; (18 / 24) = 40 &times; (3 / 4) = 30 किमी/घंटा।<br><br><b>Short Trick:</b><br>Speed = (200/24) &times; (18/5) = 30 km/h.",
+    "topic": "Time, Speed and Distance"
+  },
+  {
+    "ans": 1,
+    "difficulty": "Moderate",
+    "op_en": [
+      "20%",
+      "22.5%",
+      "21%",
+      "25%"
+    ],
+    "op_hi": [
+      "20%",
+      "22.5%",
+      "21%",
+      "25%"
+    ],
+    "q_en": "A shopkeeper sold a toy set at 4% loss on its cost price after allowing a discount of 20% on the marked price of the toy set. The selling price of the toy set is how much percentage less than the marked price of the toy set?",
+    "q_hi": "एक दुकानदार ने एक खिलौना सेट को उसके अंकित मूल्य पर 20% की छूट देने के बाद क्रय मूल्य पर 4% की हानि पर बेचा। खिलौना सेट का विक्रय मूल्य, खिलौना सेट के अंकित मूल्य से कितने प्रतिशत कम है?",
+    "section": "Arithmetical and Numerical Ability1",
+    "solution": "<b>Solution (EN):</b><br>The question asks for the percentage by which the selling price is less than the marked price.<br>By definition, the discount percentage is exactly the percentage by which the marked price is reduced to get the selling price.<br>Since the given discount is 20%, the selling price is 20% less than the marked price.<br>The information about 4% loss is irrelevant to this specific question.<br><br><b>Solution (HI):</b><br>प्रश्न में पूछा गया है कि विक्रय मूल्य, अंकित मूल्य से कितने प्रतिशत कम है।<br>परिभाषा के अनुसार, छूट प्रतिशत वह प्रतिशत है जिससे अंकित मूल्य को कम करके विक्रय मूल्य प्राप्त किया जाता है।<br>चूंकि दी गई छूट 20% है, इसलिए विक्रय मूल्य अंकित मूल्य से 20% कम है।<br>इस विशिष्ट प्रश्न के लिए 4% की हानि के बारे में जानकारी अप्रासंगिक है।<br><br><b>Short Trick:</b><br>Selling price is derived directly from marked price by subtracting the discount. So SP is exactly 20% less than MP. No calculations needed!",
+    "topic": "Profit, Loss and Discount"
+  }
+]
