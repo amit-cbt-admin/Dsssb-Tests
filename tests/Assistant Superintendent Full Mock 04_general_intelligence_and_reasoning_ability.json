@@ -1,0 +1,422 @@
+[
+  {
+    "ans": 4,
+    "difficulty": "Moderate",
+    "op_en": [
+      "Four",
+      "Two",
+      "Five",
+      "Three"
+    ],
+    "op_hi": [
+      "चार",
+      "दो",
+      "पांच",
+      "तीन"
+    ],
+    "q_en": "Refer to the following letter series and answer the question that follows. Counting to be done from left to right only.<br><br>(Left)     B    V    M    R   X   N   I    C   G   H    Z   O   S   W   A   U   K   T   D   F   Q   Y         (Right)<br><br>How many letters are there in the English alphabetical series between the letter which is fifth from the right end and fifth from the left end of the series?",
+    "q_hi": "निम्नलिखित अक्षर श्रृंखला को देखें और उसके बाद आने वाले प्रश्न का उत्तर दें। गिनती केवल बाएँ से दाएँ की जानी है।<br><br>(बाएँ)     B    V    M    R    X    N    I    C    G    H    Z    O    S    W    A    U    K    T    D    F    Q    Y         (दाएँ)<br><br>श्रृंखला के दाएँ छोर से पाँचवें और बाएँ छोर से पाँचवें अक्षर के बीच अंग्रेजी वर्णमाला श्रृंखला में कितने अक्षर हैं?",
+    "section": "General intelligence and Reasoning Ability",
+    "solution": "<b>Solution (EN):</b><br>5th letter from the left end = X<br>5th letter from the right end = T<br>Letters between T and X in the standard English alphabetical series = U, V, W (Total 3 letters).<br>Therefore, the correct answer is Three.<br><br><b>Solution (HI):</b><br>बाएँ छोर से 5वाँ अक्षर = X<br>दाएँ छोर से 5वाँ अक्षर = T<br>मानक अंग्रेजी वर्णमाला श्रृंखला में T और X के बीच के अक्षर = U, V, W (कुल 3 अक्षर)।<br>इसलिए, सही उत्तर तीन है।<br><br><b>Short Trick:</b><br>Position of Left 5 is X (24), Position of Right 5 is T (20). Difference = 24 - 20 - 1 = 3.",
+    "topic": "Alphabet Series"
+  },
+  {
+    "ans": 4,
+    "difficulty": "Moderate",
+    "op_en": [
+      "One",
+      "Four",
+      "Two",
+      "Three"
+    ],
+    "op_hi": [
+      "एक",
+      "चार",
+      "दो",
+      "तीन"
+    ],
+    "q_en": "Each of letters in the word COUNTER are arranged in the English alphabetical order. How many letters are there in the English alphabetical order between the letter which is third from the left and third from the right in the new letter cluster thus formed?",
+    "q_hi": "शब्द COUNTER के प्रत्येक अक्षर को अंग्रेजी वर्णमाला के क्रम में व्यवस्थित किया जाता है। इस प्रकार बने नए अक्षर समूह में बाएँ से तीसरे और दाएँ से तीसरे अक्षर के बीच अंग्रेजी वर्णमाला के क्रम में कितने अक्षर हैं?",
+    "section": "General intelligence and Reasoning Ability",
+    "solution": "<b>Solution (EN):</b><br>Given Word: COUNTER<br>Letters arranged alphabetically: C, E, N, O, R, T, U<br>3rd letter from left = N<br>3rd letter from right = R<br>Letters between N and R in the English alphabet = O, P, Q (3 letters).<br><br><b>Solution (HI):</b><br>दिया गया शब्द: COUNTER<br>वर्णमाला के अनुसार व्यवस्थित अक्षर: C, E, N, O, R, T, U<br>बाएँ से तीसरा अक्षर = N<br>दाएँ से तीसरा अक्षर = R<br>अंग्रेजी वर्णमाला में N और R के बीच के अक्षर = O, P, Q (3 अक्षर)।<br><br><b>Short Trick:</b><br>Sorted word is CENORTU. 3rd left is N(14), 3rd right is R(18). Number of letters between them = 18 - 14 - 1 = 3.",
+    "topic": "Word Formation / Arrangement"
+  },
+  {
+    "ans": 2,
+    "difficulty": "Easy",
+    "op_en": [
+      "AVEQ",
+      "BWFR",
+      "BXHU",
+      "BXFS"
+    ],
+    "op_hi": [
+      "AVEQ",
+      "BWFR",
+      "BXHU",
+      "BXFS"
+    ],
+    "q_en": "ZFAP is related to CIDS in a certain way based on the English alphabetical order. In the same way, JRIW is related to MULZ. To which of the given options is YTCO related, following the same logic?",
+    "q_hi": "अंग्रेजी वर्णमाला क्रम के आधार पर एक निश्चित तरीके से ZFAP का संबंध CIDS से है। उसी तरह, JRIW का संबंध MULZ से है। समान तर्क का पालन करते हुए, दिए गए विकल्पों में से YTCO किससे संबंधित है?",
+    "section": "General intelligence and Reasoning Ability",
+    "solution": "<b>Solution (EN):</b><br>The logic followed here is +3 to the positional value of each letter.<br>Z(26) + 3 = C(3)<br>F(6) + 3 = I(9)<br>A(1) + 3 = D(4)<br>P(16) + 3 = S(19)<br>Similarly, for YTCO:<br>Y(25) + 3 = B(2)<br>T(20) + 3 = W(23)<br>C(3) + 3 = F(6)<br>O(15) + 3 = R(18)<br>So, YTCO is related to BWFR.<br><br><b>Solution (HI):</b><br>यहाँ पालन किया गया तर्क प्रत्येक अक्षर के स्थानीय मान में +3 जोड़ना है।<br>Z(26) + 3 = C(3)<br>F(6) + 3 = I(9)<br>A(1) + 3 = D(4)<br>P(16) + 3 = S(19)<br>इसी प्रकार, YTCO के लिए:<br>Y(25) + 3 = B(2)<br>T(20) + 3 = W(23)<br>C(3) + 3 = F(6)<br>O(15) + 3 = R(18)<br>अतः, YTCO का संबंध BWFR से है।<br><br><b>Short Trick:</b><br>Apply +3 forward shift: Y &rarr; B, T &rarr; W, C &rarr; F, O &rarr; R. Answer is BWFR.",
+    "topic": "Letter Analogy"
+  },
+  {
+    "ans": 4,
+    "difficulty": "Easy",
+    "op_en": [
+      "QNDI",
+      "PMDI",
+      "OLCH",
+      "PMCH"
+    ],
+    "op_hi": [
+      "QNDI",
+      "PMDI",
+      "OLCH",
+      "PMCH"
+    ],
+    "q_en": "WLYX is related to YNAZ in a certain way based on the English alphabetical order. In the same way, AJSQ is related to CLUS. To which of the given options is NKAF related, following the same logic?",
+    "q_hi": "अंग्रेजी वर्णमाला क्रम के आधार पर एक निश्चित तरीके से WLYX का संबंध YNAZ से है। उसी तरह, AJSQ का संबंध CLUS से है। समान तर्क का पालन करते हुए, दिए गए विकल्पों में से NKAF किससे संबंधित है?",
+    "section": "General intelligence and Reasoning Ability",
+    "solution": "<b>Solution (EN):</b><br>The pattern is a shift of +2 for each letter.<br>W(23) + 2 = Y(25)<br>L(12) + 2 = N(14)<br>Y(25) + 2 = A(1)<br>X(24) + 2 = Z(26)<br>Applying the same logic to NKAF:<br>N(14) + 2 = P(16)<br>K(11) + 2 = M(13)<br>A(1) + 2 = C(3)<br>F(6) + 2 = H(8)<br>Thus, NKAF is related to PMCH.<br><br><b>Solution (HI):</b><br>पैटर्न प्रत्येक अक्षर के लिए +2 का बदलाव है।<br>W(23) + 2 = Y(25)<br>L(12) + 2 = N(14)<br>Y(25) + 2 = A(1)<br>X(24) + 2 = Z(26)<br>NKAF पर यही तर्क लागू करने पर:<br>N(14) + 2 = P(16)<br>K(11) + 2 = M(13)<br>A(1) + 2 = C(3)<br>F(6) + 2 = H(8)<br>इस प्रकार, NKAF का संबंध PMCH से है।<br><br><b>Short Trick:</b><br>Direct +2 mapping. N &rarr; P, K &rarr; M, A &rarr; C, F &rarr; H &rArr; PMCH.",
+    "topic": "Letter Analogy"
+  },
+  {
+    "ans": 1,
+    "difficulty": "Moderate",
+    "op_en": [
+      "N",
+      "O",
+      "I",
+      "F"
+    ],
+    "op_hi": [
+      "N",
+      "O",
+      "I",
+      "F"
+    ],
+    "q_en": "Each letter in the word HUMANE is changed to the letter immediately succeeding it in the English alphabetical order and then all the letters thus formed are arranged in the English alphabetical order. Which of the following letters will be third from the right in the letter cluster thus formed?",
+    "q_hi": "शब्द HUMANE के प्रत्येक अक्षर को अंग्रेजी वर्णमाला के क्रम में उसके ठीक बाद आने वाले अक्षर में बदल दिया जाता है और फिर इस प्रकार बने सभी अक्षरों को अंग्रेजी वर्णमाला के क्रम में व्यवस्थित किया जाता है। इस प्रकार बने अक्षर समूह में निम्नलिखित में से कौन सा अक्षर दाएँ से तीसरा होगा?",
+    "section": "General intelligence and Reasoning Ability",
+    "solution": "<b>Solution (EN):</b><br>Word: HUMANE<br>Change each letter to the succeeding letter (+1):<br>H &rarr; I<br>U &rarr; V<br>M &rarr; N<br>A &rarr; B<br>N &rarr; O<br>E &rarr; F<br>New letters: I, V, N, B, O, F<br>Arrange in alphabetical order: B, F, I, N, O, V<br>The third letter from the right is N.<br><br><b>Solution (HI):</b><br>शब्द: HUMANE<br>प्रत्येक अक्षर को उसके बाद आने वाले अक्षर (+1) में बदलें:<br>H &rarr; I<br>U &rarr; V<br>M &rarr; N<br>A &rarr; B<br>N &rarr; O<br>E &rarr; F<br>नए अक्षर: I, V, N, B, O, F<br>वर्णमाला के क्रम में व्यवस्थित करें: B, F, I, N, O, V<br>दाएँ से तीसरा अक्षर N है।<br><br><b>Short Trick:</b><br>HUMANE &rarr; IVNBOF &rarr; Sort: BFINOV. 3rd from right is N.",
+    "topic": "Word Formation"
+  },
+  {
+    "ans": 3,
+    "difficulty": "Moderate",
+    "op_en": [
+      "Daughter",
+      "Father's sister",
+      "Sister",
+      "Mother's mother"
+    ],
+    "op_hi": [
+      "पुत्री",
+      "पिता की बहन (बुआ)",
+      "बहन",
+      "माता की माता (नानी)"
+    ],
+    "q_en": "In a certain code language, <br>‘A + B’ means ‘A is the mother of B’,<br>‘A – B’ means ‘A is the daughter of B’, <br>‘A × B’ means ‘A is the husband of B’ and<br>‘A ÷ B’ means ‘A is the sister of B’.<br><br>How is U related to Y if ‘U ÷ V – W × X + Y’?",
+    "q_hi": "एक निश्चित कूट भाषा में,<br>'A + B' का अर्थ है 'A, B की माता है',<br>'A – B' का अर्थ है 'A, B की पुत्री है', <br>'A &times; B' का अर्थ है 'A, B का पति है' और<br>'A &divide; B' का अर्थ है 'A, B की बहन है'।<br><br>यदि 'U &divide; V – W &times; X + Y' है, तो U का Y से क्या संबंध है?",
+    "section": "General intelligence and Reasoning Ability",
+    "solution": "<b>Solution (EN):</b><br>Expression: U &divide; V – W &times; X + Y<br>1) U &divide; V &rarr; U is the sister of V. (U is Female)<br>2) V – W &rarr; V is the daughter of W.<br>From 1 &amp; 2, U and V are daughters of W.<br>3) W &times; X &rarr; W is the husband of X. (X is the mother of U and V).<br>4) X + Y &rarr; X is the mother of Y.<br>Therefore, U, V, and Y are siblings (children of W and X). Since U is female, U is the sister of Y.<br><br><b>Solution (HI):</b><br>समीकरण: U &divide; V – W &times; X + Y<br>1) U &divide; V &rarr; U, V की बहन है। (U महिला है)<br>2) V – W &rarr; V, W की पुत्री है।<br>1 और 2 से, U और V दोनों W की पुत्रियाँ हैं।<br>3) W &times; X &rarr; W, X का पति है। (X, U और V की माता है)।<br>4) X + Y &rarr; X, Y की माता है।<br>इसलिए, U, V और Y भाई-बहन हैं (W और X के बच्चे)। चूँकि U महिला है, इसलिए U, Y की बहन है।<br><br><b>Short Trick:</b><br>Draw family tree: U(F) - V(F) are kids of W(M)=X(F). X is mother of Y. Thus, U is the sister of Y.",
+    "topic": "Blood Relations"
+  },
+  {
+    "ans": 2,
+    "difficulty": "Moderate",
+    "op_en": [
+      "One",
+      "Three",
+      "Two",
+      "Four"
+    ],
+    "op_hi": [
+      "एक",
+      "तीन",
+      "दो",
+      "चार"
+    ],
+    "q_en": "Refer to the following number series and answer the question that follows (all numbers are single digit numbers only). Counting to be done from left to right only. <br><br>(Left)      7   3   7   7   3   6   2   1    5   6    9   4    1     7   4   9   8   5    2   8   4   3   4   1    5    7   (Right)<br><br>How many such odd digits are there each of which is immediately preceded by an even digit and also immediately followed by an odd digit?<span style=\"color:#ffffff;\">2699</span>",
+    "q_hi": "निम्नलिखित संख्या श्रृंखला को देखें और उसके बाद आने वाले प्रश्न का उत्तर दें (सभी संख्याएँ केवल एक अंक की संख्याएँ हैं)। गिनती केवल बाएँ से दाएँ की जानी है। <br><br>(बाएँ)      7   3   7   7   3   6   2   1    5   6    9   4    1      7   4   9   8   5    2   8   4   3   4   1    5    7    (दाएँ)<br><br>ऐसे कितने विषम अंक हैं जिनमें से प्रत्येक के ठीक पहले एक सम अंक और ठीक बाद में एक विषम अंक है?",
+    "section": "General intelligence and Reasoning Ability",
+    "solution": "<b>Solution (EN):</b><br>We need to find the pattern: [Even Digit] - [Odd Digit] - [Odd Digit]. The middle Odd Digit is what we are counting.<br>Let's check the series: 7 3 7 7 3 6 <b>2 1 5</b> 6 9 <b>4 1 7</b> 4 9 8 5 2 8 4 3 <b>4 1 5</b> 7<br>1) 2(Even) - 1(Odd) - 5(Odd) &rarr; Valid (digit 1)<br>2) 4(Even) - 1(Odd) - 7(Odd) &rarr; Valid (digit 1)<br>3) 4(Even) - 1(Odd) - 5(Odd) &rarr; Valid (digit 1)<br>There are exactly three such odd digits.<br><br><b>Solution (HI):</b><br>हमें यह पैटर्न खोजना है: [सम अंक] - [विषम अंक] - [विषम अंक]। हमें बीच वाले विषम अंक को गिनना है।<br>श्रृंखला की जाँच करें: 7 3 7 7 3 6 <b>2 1 5</b> 6 9 <b>4 1 7</b> 4 9 8 5 2 8 4 3 <b>4 1 5</b> 7<br>1) 2(सम) - 1(विषम) - 5(विषम) &rarr; सही (अंक 1)<br>2) 4(सम) - 1(विषम) - 7(विषम) &rarr; सही (अंक 1)<br>3) 4(सम) - 1(विषम) - 5(विषम) &rarr; सही (अंक 1)<br>ऐसे ठीक तीन विषम अंक हैं।<br><br><b>Short Trick:</b><br>Scan for 'Even-Odd-Odd'. The occurrences are '2-1-5', '4-1-7', and '4-1-5'. Total = 3.",
+    "topic": "Number Series"
+  },
+  {
+    "ans": 3,
+    "difficulty": "Easy",
+    "op_en": [
+      "CJNP",
+      "CKOR",
+      "CKPS",
+      "ZIOS"
+    ],
+    "op_hi": [
+      "CJNP",
+      "CKOR",
+      "CKPS",
+      "ZIOS"
+    ],
+    "q_en": "TMVD is related to XQZH in a certain way based on the English alphabetical order. In the same way, SFHZ is related to WJLD. To which of the given options is YGLO related, following the same logic?",
+    "q_hi": "अंग्रेजी वर्णमाला क्रम के आधार पर एक निश्चित तरीके से TMVD का संबंध XQZH से है। उसी तरह, SFHZ का संबंध WJLD से है। समान तर्क का पालन करते हुए, दिए गए विकल्पों में से YGLO किससे संबंधित है?",
+    "section": "General intelligence and Reasoning Ability",
+    "solution": "<b>Solution (EN):</b><br>The relationship pattern is a +4 shift for each letter.<br>T(20) + 4 = X(24)<br>M(13) + 4 = Q(17)<br>V(22) + 4 = Z(26)<br>D(4) + 4 = H(8)<br>Applying to YGLO:<br>Y(25) + 4 = C(3)<br>G(7) + 4 = K(11)<br>L(12) + 4 = P(16)<br>O(15) + 4 = S(19)<br>Result is CKPS.<br><br><b>Solution (HI):</b><br>संबंध पैटर्न प्रत्येक अक्षर के लिए +4 का बदलाव है।<br>T(20) + 4 = X(24)<br>M(13) + 4 = Q(17)<br>V(22) + 4 = Z(26)<br>D(4) + 4 = H(8)<br>YGLO पर लागू करने पर:<br>Y(25) + 4 = C(3)<br>G(7) + 4 = K(11)<br>L(12) + 4 = P(16)<br>O(15) + 4 = S(19)<br>परिणाम CKPS है।<br><br><b>Short Trick:</b><br>Add +4 to YGLO. Y+4 = C, G+4 = K, L+4 = P, O+4 = S. Answer is CKPS.",
+    "topic": "Letter Analogy"
+  },
+  {
+    "ans": 4,
+    "difficulty": "Moderate",
+    "op_en": [
+      "Two",
+      "Four",
+      "One",
+      "Three"
+    ],
+    "op_hi": [
+      "दो",
+      "चार",
+      "एक",
+      "तीन"
+    ],
+    "q_en": "Refer to the following number series and answer the question that follows. Counting to be done from left to right only. (All numbers are single-digit numbers.)<br><br>(Left)      6   1   5   7   3   4   3   4   5     1    5    7   9   8   5    2   1    6    9    7   2    7   4    3    4   7   8   (Right)<br><br>How many such odd digits are there which are immediately preceded by an even digit and also immediately followed by an odd digit?",
+    "q_hi": "निम्नलिखित संख्या श्रृंखला को देखें और उसके बाद आने वाले प्रश्न का उत्तर दें। गिनती केवल बाएँ से दाएँ की जानी है। (सभी संख्याएँ एक अंक की संख्याएँ हैं।)<br><br>(बाएँ)      6   1   5   7   3   4   3   4   5      1    5    7   9   8   5    2   1    6    9    7   2    7   4    3    4   7   8   (दाएँ)<br><br>ऐसे कितने विषम अंक हैं जिनके ठीक पहले एक सम अंक और ठीक बाद में एक विषम अंक है?",
+    "section": "General intelligence and Reasoning Ability",
+    "solution": "<b>Solution (EN):</b><br>We need to find the pattern: [Even Digit] - [Odd Digit] - [Odd Digit].<br>Analyzing the string: 6 1 5 7 3 4 3 4 5 1 5 7 9 8 5 2 1 6 9 7 2 7 4 3 4 7 8<br>Matches:<br>1) <b>6 1 5</b> (Even 6, Odd 1, Odd 5)<br>2) <b>4 5 1</b> (Even 4, Odd 5, Odd 1)<br>3) <b>6 9 7</b> (Even 6, Odd 9, Odd 7)<br>So, there are three such occurrences.<br><br><b>Solution (HI):</b><br>हमें यह पैटर्न खोजना है: [सम अंक] - [विषम अंक] - [विषम अंक]।<br>श्रृंखला का विश्लेषण: 6 1 5 7 3 4 3 4 5 1 5 7 9 8 5 2 1 6 9 7 2 7 4 3 4 7 8<br>मिलान:<br>1) <b>6 1 5</b> (सम 6, विषम 1, विषम 5)<br>2) <b>4 5 1</b> (सम 4, विषम 5, विषम 1)<br>3) <b>6 9 7</b> (सम 6, विषम 9, विषम 7)<br>अतः ऐसे तीन उदाहरण हैं।<br><br><b>Short Trick:</b><br>Find Even numbers followed by two Odd numbers. The triplets are 615, 451, and 697. Total = 3.",
+    "topic": "Number Series"
+  },
+  {
+    "ans": 3,
+    "difficulty": "Hard",
+    "op_en": [
+      "Three",
+      "Five",
+      "None",
+      "Four"
+    ],
+    "op_hi": [
+      "तीन",
+      "पांच",
+      "कोई नहीं",
+      "चार"
+    ],
+    "q_en": "A, B, C, D, E and F live on six different floors of the same building. The lowermost floor in the building is numbered 1, the floor above it, numbered 2 and so on, till the topmost floor is numbered 6. Only three people live below F. Only three people live above B. A lives below D but above F. E does not live on an odd numbered floor.<br>How many people live below C?",
+    "q_hi": "A, B, C, D, E और F एक ही इमारत की छह अलग-अलग मंजिलों पर रहते हैं। इमारत में सबसे निचली मंजिल की संख्या 1 है, उसके ऊपर की मंजिल की संख्या 2 है और इसी तरह, सबसे ऊपरी मंजिल की संख्या 6 है। F के नीचे केवल तीन व्यक्ति रहते हैं। B के ऊपर केवल तीन व्यक्ति रहते हैं। A, D के नीचे लेकिन F के ऊपर रहता है। E विषम संख्या वाली मंजिल पर नहीं रहता है।<br>C के नीचे कितने लोग रहते हैं?",
+    "section": "General intelligence and Reasoning Ability",
+    "solution": "<b>Solution (EN):</b><br>Floors are numbered 1 to 6 (bottom to top).<br>1) Only three people live below F &rarr; F is on Floor 4.<br>2) Only three people live above B &rarr; B is on Floor 3.<br>3) A lives below D but above F (Floor 4) &rarr; A is on Floor 5 and D is on Floor 6.<br>4) Remaining floors for E and C are 1 and 2.<br>5) E does not live on an odd-numbered floor &rarr; E lives on Floor 2 (even).<br>6) Therefore, C must live on Floor 1.<br>Since C is on the lowermost floor, 'None' (0) people live below C.<br><br><b>Solution (HI):</b><br>मंजिलें 1 से 6 (नीचे से ऊपर) तक हैं।<br>1) F के नीचे केवल तीन व्यक्ति रहते हैं &rarr; F मंजिल 4 पर है।<br>2) B के ऊपर केवल तीन व्यक्ति रहते हैं &rarr; B मंजिल 3 पर है।<br>3) A, D के नीचे लेकिन F (मंजिल 4) के ऊपर रहता है &rarr; A मंजिल 5 पर है और D मंजिल 6 पर है।<br>4) E और C के लिए शेष मंजिलें 1 और 2 हैं।<br>5) E विषम संख्या वाली मंजिल पर नहीं रहता है &rarr; E मंजिल 2 (सम) पर रहता है।<br>6) इसलिए, C को मंजिल 1 पर होना चाहिए।<br>चूँकि C सबसे निचली मंजिल पर है, इसलिए C के नीचे 'कोई नहीं' (0) व्यक्ति रहता है।<br><br><b>Short Trick:</b><br>Floor mapping: 6-D, 5-A, 4-F, 3-B, 2-E (even), 1-C. Number of floors below C (floor 1) = 0 (None).",
+    "topic": "Puzzle / Floor Arrangement"
+  },
+  {
+    "ans": 4,
+    "difficulty": "Moderate",
+    "op_en": [
+      "Two",
+      "One",
+      "Three",
+      "Zero"
+    ],
+    "op_hi": [
+      "दो",
+      "एक",
+      "तीन",
+      "शून्य"
+    ],
+    "q_en": "Seven people, A, B, C, D, E, F and G are sitting in a row, facing north. Only four people sit to the right of E. Only three people sit to the left of F. B is the immediate neighbour of D and G. A sits third to the left of G. <br>How many people sit to the left of C?",
+    "q_hi": "सात व्यक्ति A, B, C, D, E, F और G उत्तर की ओर मुख करके एक पंक्ति में बैठे हैं। E के दाईं ओर केवल चार व्यक्ति बैठे हैं। F के बाईं ओर केवल तीन व्यक्ति बैठे हैं। B, D और G का निकटतम पड़ोसी है। A, G के बाईं ओर तीसरे स्थान पर बैठा है।<br>C के बाईं ओर कितने व्यक्ति बैठे हैं?",
+    "section": "General intelligence and Reasoning Ability",
+    "solution": "<b>Solution (EN):</b><br>Total 7 people (Positions 1 to 7 from Left to Right).<br>1) 4 people to the right of E &rarr; E is at position 3.<br>2) 3 people to the left of F &rarr; F is at position 4.<br>Current layout: _ _ E F _ _ _<br>3) A sits 3rd to the left of G. The only way to fit them without displacing E and F is A at 2 and G at 5 (Position 5 - 3 = 2).<br>Layout becomes: _ A E F G _ _<br>4) B is the immediate neighbour of D and G. So B and D must be at 6 and 7 respectively (G is already at 5).<br>Layout becomes: _ A E F G B D<br>5) C takes the remaining 1st position: C A E F G B D<br>Since C is at the leftmost end (position 1), there are Zero people sitting to the left of C.<br><br><b>Solution (HI):</b><br>कुल 7 व्यक्ति (बाएँ से दाएँ स्थान 1 से 7)।<br>1) E के दाईं ओर 4 व्यक्ति &rarr; E स्थान 3 पर है।<br>2) F के बाईं ओर 3 व्यक्ति &rarr; F स्थान 4 पर है।<br>वर्तमान व्यवस्था: _ _ E F _ _ _<br>3) A, G के बाईं ओर तीसरे स्थान पर बैठा है। उन्हें E और F को हटाए बिना फिट करने का एकमात्र तरीका A को 2 पर और G को 5 पर रखना है (स्थान 5 - 3 = 2)।<br>व्यवस्था बनती है: _ A E F G _ _<br>4) B, D और G का निकटतम पड़ोसी है। अतः B और D क्रमशः 6 और 7 पर होंगे (G पहले से ही 5 पर है)।<br>व्यवस्था बनती है: _ A E F G B D<br>5) C शेष पहले स्थान पर है: C A E F G B D<br>चूँकि C सबसे बाएँ छोर (स्थान 1) पर है, इसलिए C के बाईं ओर शून्य व्यक्ति बैठे हैं।<br><br><b>Short Trick:</b><br>Order from left to right: C(1), A(2), E(3), F(4), G(5), B(6), D(7). C is at extreme left, so 0 (Zero) people are to its left.",
+    "topic": "Seating Arrangement"
+  },
+  {
+    "ans": 4,
+    "difficulty": "Moderate",
+    "op_en": [
+      "Sister",
+      "Father's mother",
+      "Mother's sister",
+      "Mother's mother"
+    ],
+    "op_hi": [
+      "बहन",
+      "पिता की माता (दादी)",
+      "माता की बहन (मौसी)",
+      "माता की माता (नानी)"
+    ],
+    "q_en": "In a certain code language, <br>‘A + B’ means ‘A is the wife of B’,<br>‘A – B’ means ‘A is the father of B’, <br>‘A × B’ means ‘A is the mother of B’ and<br>‘A ÷ B’ means ‘A is the sister of B’.<br><br>How is H related to L if ‘H × I + J – K ÷ L’?",
+    "q_hi": "एक निश्चित कूट भाषा में,<br>'A + B' का अर्थ है 'A, B की पत्नी है',<br>'A – B' का अर्थ है 'A, B का पिता है', <br>'A &times; B' का अर्थ है 'A, B की माता है' और<br>'A &divide; B' का अर्थ है 'A, B की बहन है'।<br><br>यदि 'H &times; I + J – K &divide; L' है, तो H का L से क्या संबंध है?",
+    "section": "General intelligence and Reasoning Ability",
+    "solution": "<b>Solution (EN):</b><br>Expression: H &times; I + J – K &divide; L<br>1) H &times; I &rarr; H is the mother of I.<br>2) I + J &rarr; I is the wife of J.<br>3) J – K &rarr; J is the father of K.<br>4) K &divide; L &rarr; K is the sister of L.<br>From 3 and 4, K and L are siblings, and J is their father. Since I is the wife of J, I is the mother of L.<br>From 1, H is the mother of I. Therefore, H is the mother of L's mother (Mother's mother).<br><br><b>Solution (HI):</b><br>समीकरण: H &times; I + J – K &divide; L<br>1) H &times; I &rarr; H, I की माता है।<br>2) I + J &rarr; I, J की पत्नी है।<br>3) J – K &rarr; J, K का पिता है।<br>4) K &divide; L &rarr; K, L की बहन है।<br>3 और 4 से, K और L भाई-बहन हैं, और J उनका पिता है। चूँकि I, J की पत्नी है, इसलिए I, L की माता है।<br>1 से, H, I की माता है। इसलिए, H, L की माता की माता (नानी) है।<br><br><b>Short Trick:</b><br>L's parents are I (Mother) and J (Father). H is I's mother. So, H is L's maternal grandmother (Mother's mother).",
+    "topic": "Blood Relations"
+  },
+  {
+    "ans": 3,
+    "difficulty": "Easy",
+    "op_en": [
+      "su",
+      "iv",
+      "aq",
+      "th"
+    ],
+    "op_hi": [
+      "su",
+      "iv",
+      "aq",
+      "th"
+    ],
+    "q_en": "In a certain code language, ‘let us rest’ is coded as ‘aq  iv  th’ and ‘some rest helps’ is coded as ‘my  su  aq’. How is ‘rest’ coded in the given language?",
+    "q_hi": "एक निश्चित कूट भाषा में, 'let us rest' को 'aq  iv  th' और 'some rest helps' को 'my  su  aq' के रूप में कूटबद्ध किया जाता है। दी गई भाषा में 'rest' को कैसे कूटबद्ध किया जाएगा?",
+    "section": "General intelligence and Reasoning Ability",
+    "solution": "<b>Solution (EN):</b><br>Statement 1: 'let us <b>rest</b>' = '<b>aq</b> iv th'<br>Statement 2: 'some <b>rest</b> helps' = 'my su <b>aq</b>'<br>The only common word in both statements is 'rest' and the only common code is 'aq'.<br>Thus, 'rest' is coded as 'aq'.<br><br><b>Solution (HI):</b><br>कथन 1: 'let us <b>rest</b>' = '<b>aq</b> iv th'<br>कथन 2: 'some <b>rest</b> helps' = 'my su <b>aq</b>'<br>दोनों कथनों में एकमात्र सामान्य शब्द 'rest' है और एकमात्र सामान्य कूट 'aq' है।<br>इस प्रकार, 'rest' को 'aq' के रूप में कूटबद्ध किया गया है।<br><br><b>Short Trick:</b><br>Find intersection: (let us rest) &cap; (some rest helps) = rest. (aq iv th) &cap; (my su aq) = aq. Answer is aq.",
+    "topic": "Coding-Decoding"
+  },
+  {
+    "ans": 3,
+    "difficulty": "Hard",
+    "op_en": [
+      "Four",
+      "Two",
+      "Five",
+      "Three"
+    ],
+    "op_hi": [
+      "चार",
+      "दो",
+      "पांच",
+      "तीन"
+    ],
+    "q_en": "A, B, C, D, E and F live on six different floors of the same building. The lowermost floor in the building is numbered 1, the floor above it, numbered 2 and so on till the topmost floor is numbered 6. Only two people live above F. Only two people live between D and F. A lives above B but below F. C does not live above E.<br>How many people live below E?",
+    "q_hi": "A, B, C, D, E और F एक ही इमारत की छह अलग-अलग मंजिलों पर रहते हैं। इमारत में सबसे निचली मंजिल की संख्या 1 है, उसके ऊपर की मंजिल की संख्या 2 है और इसी तरह सबसे ऊपरी मंजिल की संख्या 6 है। F के ऊपर केवल दो व्यक्ति रहते हैं। D और F के बीच केवल दो व्यक्ति रहते हैं। A, B के ऊपर लेकिन F के नीचे रहता है। C, E के ऊपर नहीं रहता है।<br>E के नीचे कितने लोग रहते हैं?",
+    "section": "General intelligence and Reasoning Ability",
+    "solution": "<b>Solution (EN):</b><br>Floors numbered 1 to 6.<br>1) Only two people live above F &rarr; F is on Floor 4.<br>2) Only two people live between D and F. Since F is on 4, D must be on Floor 1.<br>3) A lives above B but below F (Floor 4) &rarr; A is on Floor 3 and B is on Floor 2.<br>4) Remaining floors for E and C are 5 and 6.<br>5) C does not live above E &rarr; C lives below E. So, E is on Floor 6 and C is on Floor 5.<br>Floor arrangement (1 to 6): 1-D, 2-B, 3-A, 4-F, 5-C, 6-E.<br>E is on the 6th floor, so 5 people live below E.<br><br><b>Solution (HI):</b><br>मंजिलें 1 से 6 तक हैं।<br>1) F के ऊपर केवल दो व्यक्ति रहते हैं &rarr; F मंजिल 4 पर है।<br>2) D और F के बीच केवल दो व्यक्ति रहते हैं। चूँकि F 4 पर है, इसलिए D मंजिल 1 पर होना चाहिए।<br>3) A, B के ऊपर लेकिन F (मंजिल 4) के नीचे रहता है &rarr; A मंजिल 3 पर और B मंजिल 2 पर है।<br>4) E और C के लिए शेष मंजिलें 5 और 6 हैं।<br>5) C, E के ऊपर नहीं रहता है &rarr; C, E के नीचे रहता है। इसलिए, E मंजिल 6 पर और C मंजिल 5 पर है।<br>मंजिल व्यवस्था (1 से 6): 1-D, 2-B, 3-A, 4-F, 5-C, 6-E।<br>E छठी मंजिल पर है, इसलिए E के नीचे 5 लोग रहते हैं।<br><br><b>Short Trick:</b><br>Order: 6:E, 5:C, 4:F, 3:A, 2:B, 1:D. E is top, so 5 people below it.",
+    "topic": "Puzzle / Floor Arrangement"
+  },
+  {
+    "ans": 1,
+    "difficulty": "Hard",
+    "op_en": [
+      "Three",
+      "Two",
+      "Four",
+      "One"
+    ],
+    "op_hi": [
+      "तीन",
+      "दो",
+      "चार",
+      "एक"
+    ],
+    "q_en": "Seven boxes M, N, O, P, Q, R and S are kept one over the other but not necessarily in the same order. M is kept sixth from the bottom. S is kept immediately above P. Only three boxes are kept between P and N. O is kept on one of the positions below N. R is kept immediately below Q. <br>How many boxes are kept between O and R?",
+    "q_hi": "सात डिब्बे M, N, O, P, Q, R और S एक के ऊपर एक रखे गए हैं लेकिन जरूरी नहीं कि इसी क्रम में हों। M को नीचे से छठे स्थान पर रखा गया है। S को P के ठीक ऊपर रखा गया है। P और N के बीच केवल तीन डिब्बे रखे गए हैं। O को N के नीचे किसी एक स्थान पर रखा गया है। R को Q के ठीक नीचे रखा गया है।<br>O और R के बीच कितने डिब्बे रखे गए हैं?",
+    "section": "General intelligence and Reasoning Ability",
+    "solution": "<b>Solution (EN):</b><br>Let positions be 1 (bottom) to 7 (top).<br>1) M is 6th from the bottom &rarr; M is at position 6.<br>2) S is immediately above P (S = P + 1).<br>3) 3 boxes between P and N.<br>Let's find positions: If P is 3, S is 4. Then N must be 7 (3 boxes between 3 and 7: 4,5,6). M is already at 6.<br>4) Q and R are together (R immediately below Q). Empty slots are 1, 2, 5. So Q=2, R=1.<br>5) O is below N. The only slot left is 5, which is below N(7).<br>Arrangement from bottom to top: 1-R, 2-Q, 3-P, 4-S, 5-O, 6-M, 7-N.<br>Number of boxes between O(5) and R(1) are boxes at positions 2, 3, 4 (Q, P, S) &rarr; Total 3 boxes.<br><br><b>Solution (HI):</b><br>मान लीजिए स्थान 1 (नीचे) से 7 (ऊपर) हैं।<br>1) M नीचे से छठे स्थान पर है &rarr; M स्थान 6 पर है।<br>2) S, P के ठीक ऊपर है (S = P + 1)।<br>3) P और N के बीच 3 डिब्बे।<br>स्थान खोजें: यदि P 3 है, S 4 है। तब N 7 होना चाहिए (3 और 7 के बीच 3 डिब्बे: 4,5,6)। M पहले से 6 पर है।<br>4) Q और R एक साथ हैं (R, Q के ठीक नीचे)। खाली स्लॉट 1, 2, 5 हैं। अतः Q=2, R=1।<br>5) O, N के नीचे है। केवल 5 वां स्लॉट बचा है, जो N(7) के नीचे है।<br>नीचे से ऊपर की व्यवस्था: 1-R, 2-Q, 3-P, 4-S, 5-O, 6-M, 7-N।<br>O(5) और R(1) के बीच डिब्बों की संख्या 2, 3, 4 (Q, P, S) पर रखे डिब्बे हैं &rarr; कुल 3 डिब्बे।<br><br><b>Short Trick:</b><br>Arrangement from top to bottom is N, M, O, S, P, Q, R. Between O and R are S, P, Q (3 boxes).",
+    "topic": "Puzzle / Box Arrangement"
+  },
+  {
+    "ans": 4,
+    "difficulty": "Easy",
+    "op_en": [
+      "1",
+      "5",
+      "4",
+      "3"
+    ],
+    "op_hi": [
+      "1",
+      "5",
+      "4",
+      "3"
+    ],
+    "q_en": "In a certain code language, ‘LEAF’ is coded as ‘1845’ and ‘FAKE’ is coded as ‘5438’. What is the code for ‘K’ in the given code language?",
+    "q_hi": "एक निश्चित कूट भाषा में, 'LEAF' को '1845' और 'FAKE' को '5438' के रूप में कूटबद्ध किया जाता है। दी गई कूट भाषा में 'K' के लिए कूट क्या है?",
+    "section": "General intelligence and Reasoning Ability",
+    "solution": "<b>Solution (EN):</b><br>LEAF = 1 8 4 5<br>FAKE = 5 4 3 8<br>The common letters in both words are F, A, and E.<br>The common digits in both codes are 8, 4, and 5.<br>In the word 'FAKE', the remaining letter is 'K' and the remaining digit is '3'.<br>Thus, the code for 'K' is 3.<br><br><b>Solution (HI):</b><br>LEAF = 1 8 4 5<br>FAKE = 5 4 3 8<br>दोनों शब्दों में सामान्य अक्षर F, A और E हैं।<br>दोनों कूटों में सामान्य अंक 8, 4 और 5 हैं।<br>'FAKE' शब्द में शेष अक्षर 'K' है और शेष अंक '3' है।<br>इस प्रकार, 'K' के लिए कूट 3 है।<br><br><b>Short Trick:</b><br>Remove common digits (8,4,5) from FAKE(5438). The only remaining digit is 3, which corresponds to K.",
+    "topic": "Coding-Decoding"
+  },
+  {
+    "ans": 3,
+    "difficulty": "Easy",
+    "op_en": [
+      "Four",
+      "Two",
+      "One",
+      "Three"
+    ],
+    "op_hi": [
+      "चार",
+      "दो",
+      "एक",
+      "तीन"
+    ],
+    "q_en": "Refer to the following letter series and answer the question that follows. Counting to be done from left to right only.<br><br>(Left)    M   R   E   S   I   W   A   Q   T   B   Y   C   O   F   H   G   U   K   D    X   Z    (Right)<br><br>How many letters are there in the English alphabetical series between the letter which is sixth from the right end and third from the left end of the series?",
+    "q_hi": "निम्नलिखित अक्षर श्रृंखला को देखें और उसके बाद आने वाले प्रश्न का उत्तर दें। गिनती केवल बाएँ से दाएँ की जानी है।<br><br>(बाएँ)    M   R   E   S   I   W   A   Q   T   B   Y   C   O   F   H   G   U   K   D    X   Z    (दाएँ)<br><br>श्रृंखला के दाएँ छोर से छठे और बाएँ छोर से तीसरे अक्षर के बीच अंग्रेजी वर्णमाला श्रृंखला में कितने अक्षर हैं?",
+    "section": "General intelligence and Reasoning Ability",
+    "solution": "<b>Solution (EN):</b><br>6th letter from the right end = G (Z-1, X-2, D-3, K-4, U-5, G-6)<br>3rd letter from the left end = E (M-1, R-2, E-3)<br>Letters between E and G in the standard English alphabetical series = F (Only 1 letter).<br>So, the correct answer is One.<br><br><b>Solution (HI):</b><br>दाएँ छोर से छठा अक्षर = G (Z-1, X-2, D-3, K-4, U-5, G-6)<br>बाएँ छोर से तीसरा अक्षर = E (M-1, R-2, E-3)<br>मानक अंग्रेजी वर्णमाला श्रृंखला में E और G के बीच के अक्षर = F (केवल 1 अक्षर)।<br>अतः सही उत्तर एक है।<br><br><b>Short Trick:</b><br>Right 6th is G, Left 3rd is E. Between E and G in standard alphabet is only F (1 letter).",
+    "topic": "Alphabet Series"
+  },
+  {
+    "ans": 2,
+    "difficulty": "Easy",
+    "op_en": [
+      "3",
+      "7",
+      "8",
+      "4"
+    ],
+    "op_hi": [
+      "3",
+      "7",
+      "8",
+      "4"
+    ],
+    "q_en": "In a certain code language, ‘MAIN’ is coded as ‘3476’ and ‘NAME’ is coded as ‘6438’. What is the code for ‘I’ in the given code language?",
+    "q_hi": "एक निश्चित कूट भाषा में, 'MAIN' को '3476' और 'NAME' को '6438' के रूप में कूटबद्ध किया जाता है। दी गई कूट भाषा में 'I' के लिए कूट क्या है?",
+    "section": "General intelligence and Reasoning Ability",
+    "solution": "<b>Solution (EN):</b><br>MAIN = 3476<br>NAME = 6438<br>Common letters: M, A, N<br>Common digits: 3, 4, 6<br>In 'MAIN', the remaining letter is 'I' and the remaining digit is '7'.<br>Thus, the code for 'I' is 7.<br><br><b>Solution (HI):</b><br>MAIN = 3476<br>NAME = 6438<br>सामान्य अक्षर: M, A, N<br>सामान्य अंक: 3, 4, 6<br>'MAIN' में, शेष अक्षर 'I' है और शेष अंक '7' है।<br>इस प्रकार, 'I' के लिए कूट 7 है।<br><br><b>Short Trick:</b><br>Compare MAIN &amp; NAME. Common digits are 3,4,6. The unused digit in MAIN's code is 7, which belongs to I.",
+    "topic": "Coding-Decoding"
+  },
+  {
+    "ans": 4,
+    "difficulty": "Moderate",
+    "op_en": [
+      "Third to the left",
+      "Second to the right",
+      "Immediate left",
+      "Immediate right"
+    ],
+    "op_hi": [
+      "बाईं ओर तीसरा",
+      "दाईं ओर दूसरा",
+      "ठीक बाईं ओर",
+      "ठीक दाईं ओर"
+    ],
+    "q_en": "J, K, L, M, N and O are sitting around a circular table facing the centre. M is an immediate neighbour of both L and N. J is sitting second to the right of N. O is an immediate neighbour of both J and L. What is the position of N with respect to M?",
+    "q_hi": "J, K, L, M, N और O केंद्र की ओर मुख करके एक गोलाकार मेज के चारों ओर बैठे हैं। M, L और N दोनों का निकटतम पड़ोसी है। J, N के दाईं ओर दूसरे स्थान पर बैठा है। O, J और L दोनों का निकटतम पड़ोसी है। M के संबंध में N का स्थान क्या है?",
+    "section": "General intelligence and Reasoning Ability",
+    "solution": "<b>Solution (EN):</b><br>Let's map the 6 positions in a circle facing the centre.<br>1) J is sitting second to the right of N. If N is at position 1, J is at position 5 (Right means anti-clockwise).<br>2) M is an immediate neighbour of both L and N. So M must be between N and L. This places M at position 6 and L at position 5? No, J is at 5. <br>Wait, Right is anti-clockwise. Let's arrange clockwise: 1, 2, 3, 4, 5, 6.<br>If N is at 6. 1st to right is 5, 2nd to right is 4. So J is at 4.<br>M is between L and N. Since J is at 4, M must be at 1 (left side) and L at 2. (6-N, 1-M, 2-L).<br>3) O is neighbour of J and L &rarr; O is at 3.<br>Remaining K is at 5.<br>Arrangement (clockwise): M, L, O, J, K, N.<br>Question: Position of N with respect to M?<br>M is at 1, N is at 6. Since they face the centre, 6 is to the immediate right of 1.<br>So, N is to the immediate right of M.<br><br><b>Solution (HI):</b><br>केंद्र की ओर मुख करके एक वृत्त में 6 स्थानों को व्यवस्थित करें।<br>1) J, N के दाईं ओर दूसरे स्थान पर है। यदि N स्थान 6 पर है, तो दाईं ओर दूसरा स्थान 4 होगा (दायाँ = वामावर्त)। अतः J 4 पर है।<br>2) M, L और N दोनों का पड़ोसी है। M, 1 पर और L, 2 पर होगा (ताकि J से टकराव न हो)।<br>3) O, J(4) और L(2) का पड़ोसी है &rarr; O, 3 पर है।<br>शेष K, 5 पर है।<br>व्यवस्था (दक्षिणावर्त): 1-M, 2-L, 3-O, 4-J, 5-K, 6-N।<br>प्रश्न: M के संबंध में N का स्थान?<br>M, 1 पर है और N, 6 पर है। चूँकि वे केंद्र की ओर मुख किए हुए हैं, M के ठीक दाईं ओर N है।<br>अतः उत्तर ठीक दाईं ओर है।<br><br><b>Short Trick:</b><br>Since M is between L and N, N is adjacent to M. Based on J's position (2nd right of N), M must be to the immediate left of N. Thus, N is to the immediate right of M.",
+    "topic": "Seating Arrangement"
+  },
+  {
+    "ans": 3,
+    "difficulty": "Hard",
+    "op_en": [
+      "H",
+      "M",
+      "G",
+      "K"
+    ],
+    "op_hi": [
+      "H",
+      "M",
+      "G",
+      "K"
+    ],
+    "q_en": "Seven boxes G, H, I, J, K, L and M are kept one over the other but not necessarily in the same order. J is kept second from the bottom. H is kept immediately below K. Only three boxes are kept between K and M. G is kept on one of the positions above M. I is kept immediately above L. <br>Which box is fifth from the top?",
+    "q_hi": "सात डिब्बे G, H, I, J, K, L और M एक के ऊपर एक रखे गए हैं लेकिन जरूरी नहीं कि इसी क्रम में हों। J को नीचे से दूसरे स्थान पर रखा गया है। H को K के ठीक नीचे रखा गया है। K और M के बीच केवल तीन डिब्बे रखे गए हैं। G को M के ऊपर किसी एक स्थान पर रखा गया है। I को L के ठीक ऊपर रखा गया है।<br>ऊपर से पांचवां डिब्बा कौन सा है?",
+    "section": "General intelligence and Reasoning Ability",
+    "solution": "<b>Solution (EN):</b><br>Positions from 1 (bottom) to 7 (top).<br>1) J is 2nd from the bottom &rarr; J = 2.<br>2) H is immediately below K &rarr; K is above H.<br>3) 3 boxes between K and M. If M is 1, K is 5. Then H is 4.<br>4) I is immediately above L &rarr; I, L together. Remaining slots for I, L are 6, 7. So I=7, L=6.<br>5) G is kept above M. Remaining slot is 3, which is above M(1). So G=3.<br>Arrangement (bottom to top): 1-M, 2-J, 3-G, 4-H, 5-K, 6-L, 7-I.<br>Question: Which box is 5th from the top?<br>From top (7 to 1): 1st(7)=I, 2nd(6)=L, 3rd(5)=K, 4th(4)=H, 5th(3)=G.<br>The box is G.<br><br><b>Solution (HI):</b><br>स्थान 1 (नीचे) से 7 (ऊपर) तक।<br>1) J नीचे से दूसरे स्थान पर है &rarr; J = 2.<br>2) H, K के ठीक नीचे है &rarr; K, H के ऊपर है।<br>3) K और M के बीच 3 डिब्बे। यदि M=1, तो K=5. तब H=4.<br>4) I, L के ठीक ऊपर है &rarr; I, L एक साथ। I, L के लिए 6, 7 खाली हैं। अतः I=7, L=6.<br>5) G, M के ऊपर है। बचा हुआ स्लॉट 3 है, जो M(1) के ऊपर है। अतः G=3.<br>व्यवस्था (नीचे से ऊपर): 1-M, 2-J, 3-G, 4-H, 5-K, 6-L, 7-I.<br>प्रश्न: ऊपर से 5वाँ डिब्बा कौन सा है?<br>ऊपर से (7 से 1): 1st(7)=I, 2nd(6)=L, 3rd(5)=K, 4th(4)=H, 5th(3)=G.<br>यह डिब्बा G है।<br><br><b>Short Trick:</b><br>Arrangement from top is I, L, K, H, G, J, M. The 5th box from the top (or 3rd from the bottom) is G.",
+    "topic": "Puzzle / Box Arrangement"
+  }
+]
