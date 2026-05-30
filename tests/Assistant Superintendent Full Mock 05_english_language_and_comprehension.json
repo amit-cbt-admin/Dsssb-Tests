@@ -1,0 +1,422 @@
+[
+  {
+    "ans": 3,
+    "difficulty": "Easy",
+    "op_en": [
+      "red",
+      "happily",
+      "surprising",
+      "quickly"
+    ],
+    "op_hi": [
+      "red",
+      "happily",
+      "surprising",
+      "quickly"
+    ],
+    "q_en": "Select the most appropriate adjective to fill in the blank.<br><br>She received a ____________ gift on her birthday.",
+    "q_hi": "Select the most appropriate adjective to fill in the blank.<br><br>She received a ____________ gift on her birthday.",
+    "section": "English Language and Comprehension",
+    "solution": "<b>Solution (EN):</b><br>The correct option is 3. 'Surprising' is a present participle adjective that logically modifies the noun 'gift' based on the given answer key. 'Happily' and 'quickly' are adverbs, hence incorrect.<br><br><b>Solution (HI):</b><br>सही विकल्प 3 है। 'Surprising' (आश्चर्यजनक) एक विशेषण (adjective) है जो संज्ञा 'gift' की विशेषता बताने के लिए प्रयुक्त हुआ है। 'Happily' और 'quickly' क्रियाविशेषण (adverbs) हैं, इसलिए वे गलत हैं।",
+    "topic": "Fill in the Blanks"
+  },
+  {
+    "ans": 3,
+    "difficulty": "Easy",
+    "op_en": [
+      "No article required",
+      "an",
+      "the",
+      "a"
+    ],
+    "op_hi": [
+      "No article required",
+      "an",
+      "the",
+      "a"
+    ],
+    "q_en": "Select the most appropriate article to fill in the blank. If no article is required, select ‘No article required’.<br><br>The story was very explicit, and it did not leave anything to _____ imagination.",
+    "q_hi": "Select the most appropriate article to fill in the blank. If no article is required, select ‘No article required’.<br><br>The story was very explicit, and it did not leave anything to _____ imagination.",
+    "section": "English Language and Comprehension",
+    "solution": "<b>Solution (EN):</b><br>The correct option is 3. The phrase 'leave something to the imagination' is a standard English idiom meaning to not fully disclose all details. Thus, the definite article 'the' is used.<br><br><b>Solution (HI):</b><br>सही विकल्प 3 है। अंग्रेजी में 'leave something to the imagination' एक स्थापित मुहावरा (idiom) है, जिसका अर्थ होता है कि किसी चीज के सभी विवरण प्रकट न करना। इस मुहावरे के निश्चित रूप में आर्टिकल 'the' का प्रयोग अनिवार्य है।",
+    "topic": "Articles"
+  },
+  {
+    "ans": 1,
+    "difficulty": "Easy",
+    "op_en": [
+      ", (comma)",
+      "- (hyphen)",
+      ": (colon)",
+      "; (semi-colon)"
+    ],
+    "op_hi": [
+      ", (comma)",
+      "- (hyphen)",
+      ": (colon)",
+      "; (semi-colon)"
+    ],
+    "q_en": "Select the most appropriate punctuation mark to fill in the blank.<br><br>Slowly_____ she entered her mother’s room and sat on the cot.",
+    "q_hi": "Select the most appropriate punctuation mark to fill in the blank.<br><br>Slowly_____ she entered her mother’s room and sat on the cot.",
+    "section": "English Language and Comprehension",
+    "solution": "<b>Solution (EN):</b><br>The correct option is 1. A comma is placed immediately after an introductory adverb (like 'Slowly') at the beginning of a sentence to mark a slight structural pause.<br><br><b>Solution (HI):</b><br>सही विकल्प 1 है। वाक्य के आरंभ में आने वाले परिचयात्मक क्रियाविशेषण (introductory adverb) जैसे 'Slowly' के ठीक बाद एक संक्षिप्त ठहराव या विराम दर्शाने के लिए अल्पविराम (, - comma) का प्रयोग किया जाता है।",
+    "topic": "Punctuation"
+  },
+  {
+    "ans": 3,
+    "difficulty": "Easy",
+    "op_en": [
+      "an",
+      "a",
+      "the",
+      "No article needed"
+    ],
+    "op_hi": [
+      "an",
+      "a",
+      "the",
+      "No article needed"
+    ],
+    "q_en": "Select the most appropriate article to fill in the blank. If no article is needed, select 'No article needed'.<br>Mary said, \"I wish to live in __________ largest house which is situated near the river bank.\"<br>",
+    "q_hi": "Select the most appropriate article to fill in the blank. If no article is needed, select 'No article needed'.<br>Mary said, \"I wish to live in __________ largest house which is situated near the river bank.\"<br>",
+    "section": "English Language and Comprehension",
+    "solution": "<b>Solution (EN):</b><br>The correct option is 3. Superlative degree adjectives (like 'largest') are always preceded by the definite article 'the' when identifying a specific item.<br><br><b>Solution (HI):</b><br>सही विकल्प 3 है। सुपरलेटिव डिग्री वाले विशेषणों (superlative adjectives) जैसे 'largest' के पहले हमेशा निश्चित आर्टिकल 'the' का प्रयोग किया जाता है।",
+    "topic": "Articles"
+  },
+  {
+    "ans": 1,
+    "difficulty": "Easy",
+    "op_en": [
+      "lovely",
+      "loveliest",
+      "more lovely",
+      "lovelier"
+    ],
+    "op_hi": [
+      "lovely",
+      "loveliest",
+      "more lovely",
+      "lovelier"
+    ],
+    "q_en": "Select the most appropriate option to fill in the blank.<br><br>She is a _______ lady.",
+    "q_hi": "Select the most appropriate option to fill in the blank.<br><br>She is a _______ lady.",
+    "section": "English Language and Comprehension",
+    "solution": "<b>Solution (EN):</b><br>The correct option is 1. The presence of the indefinite article 'a' indicates that a positive degree adjective is required to qualify the singular noun 'lady'. 'Lovely' fits perfectly.<br><br><b>Solution (HI):</b><br>सही विकल्प 1 है। वाक्य में प्रयुक्त इंडेफिनिट आर्टिकल 'a' दर्शाता है कि यहाँ एकवचन संज्ञा 'lady' की विशेषता बताने के लिए पॉजिटिव डिग्री के विशेषण की आवश्यकता है, इसलिए 'lovely' सही उत्तर है।",
+    "topic": "Degrees of Comparison"
+  },
+  {
+    "ans": 3,
+    "difficulty": "Moderate",
+    "op_en": [
+      "cultivate",
+      "suppress",
+      "enrich",
+      "endow"
+    ],
+    "op_hi": [
+      "cultivate",
+      "suppress",
+      "enrich",
+      "endow"
+    ],
+    "q_en": "<b>Comprehension:</b><br>In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank. <br><br>Incorporating socioeconomic status into college admissions is imperative for fostering equity and (1) _______ in higher education. Traditional metrics — academic performance, standardised test scores, and extracurricular involvement — often (2) _______ students from affluent backgrounds with greater access to resources. This systemic imbalance (3) _______ educational disparities, restricting upward mobility for underprivileged students. By considering SES, institutions can mitigate these inequities, cultivate diverse learning environments, and (4) _______ intellectual discourse. A holistic admissions framework acknowledges systemic barriers while ensuring (5) _______. Ultimately, integrating SES as a criterion is not merely an act of fairness but a strategic approach to nurturing a more representative and just society.<br>Select the most appropriate option to fill in blank number 4.",
+    "q_hi": "<b>Comprehension:</b><br>In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank. <br><br>Incorporating socioeconomic status into college admissions is imperative for fostering equity and (1) _______ in higher education. Traditional metrics — academic performance, standardised test scores, and extracurricular involvement — often (2) _______ students from affluent backgrounds with greater access to resources. This systemic imbalance (3) _______ educational disparities, restricting upward mobility for underprivileged students. By considering SES, institutions can mitigate these inequities, cultivate diverse learning environments, and (4) _______ intellectual discourse. A holistic admissions framework acknowledges systemic barriers while ensuring (5) _______. Ultimately, integrating SES as a criterion is not merely an act of fairness but a strategic approach to nurturing a more representative and just society.<br>Select the most appropriate option to fill in blank number 4.",
+    "section": "English Language and Comprehension",
+    "solution": "<b>Solution (EN):</b><br>The correct option is 3. In the given context, 'enrich' is the most suitable verb as it means to improve or enhance the quality or value of something (intellectual discourse).<br><br><b>Solution (HI):</b><br>सही विकल्प 3 है। वाक्य के संदर्भ में 'enrich' सबसे उपयुक्त क्रिया है, जिसका अर्थ किसी चीज़ (बौद्धिक विमर्श/चर्चा) की गुणवत्ता या मूल्य को बढ़ाना या समृद्ध करना होता है।",
+    "topic": "Cloze Test"
+  },
+  {
+    "ans": 3,
+    "difficulty": "Moderate",
+    "op_en": [
+      "inhibits",
+      "challenges",
+      "perpetuates",
+      "involves"
+    ],
+    "op_hi": [
+      "inhibits",
+      "challenges",
+      "perpetuates",
+      "involves"
+    ],
+    "q_en": "<b>Comprehension:</b><br>In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank. <br><br>Incorporating socioeconomic status into college admissions is imperative for fostering equity and (1) _______ in higher education. Traditional metrics — academic performance, standardised test scores, and extracurricular involvement — often (2) _______ students from affluent backgrounds with greater access to resources. This systemic imbalance (3) _______ educational disparities, restricting upward mobility for underprivileged students. By considering SES, institutions can mitigate these inequities, cultivate diverse learning environments, and (4) _______ intellectual discourse. A holistic admissions framework acknowledges systemic barriers while ensuring (5) _______. Ultimately, integrating SES as a criterion is not merely an act of fairness but a strategic approach to nurturing a more representative and just society.<br>Select the most appropriate option to fill in blank number 3.",
+    "q_hi": "<b>Comprehension:</b><br>In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank. <br><br>Incorporating socioeconomic status into college admissions is imperative for fostering equity and (1) _______ in higher education. Traditional metrics — academic performance, standardised test scores, and extracurricular involvement — often (2) _______ students from affluent backgrounds with greater access to resources. This systemic imbalance (3) _______ educational disparities, restricting upward mobility for underprivileged students. By considering SES, institutions can mitigate these inequities, cultivate diverse learning environments, and (4) _______ intellectual discourse. A holistic admissions framework acknowledges systemic barriers while ensuring (5) _______. Ultimately, integrating SES as a criterion is not merely an act of fairness but a strategic approach to nurturing a more representative and just society.<br>Select the most appropriate option to fill in blank number 3.",
+    "section": "English Language and Comprehension",
+    "solution": "<b>Solution (EN):</b><br>The correct option is 3. 'Perpetuates' means to make something (typically an undesirable situation or an unfounded belief) continue indefinitely. Here, it refers to continuing educational disparities.<br><br><b>Solution (HI):</b><br>सही विकल्प 3 है। 'Perpetuates' का अर्थ किसी अवांछनीय स्थिति को अनिश्चित काल के लिए बनाए रखना या जारी रखना होता है। यहाँ यह प्रणालीगत असंतुलन शैक्षिक असमानताओं को निरंतर बनाए रखने का काम करता है।",
+    "topic": "Cloze Test"
+  },
+  {
+    "ans": 2,
+    "difficulty": "Moderate",
+    "op_en": [
+      "bias",
+      "meritocracy",
+      "favouritism",
+      "inequality"
+    ],
+    "op_hi": [
+      "bias",
+      "meritocracy",
+      "favouritism",
+      "inequality"
+    ],
+    "q_en": "<b>Comprehension:</b><br>In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank. <br><br>Incorporating socioeconomic status into college admissions is imperative for fostering equity and (1) _______ in higher education. Traditional metrics — academic performance, standardised test scores, and extracurricular involvement — often (2) _______ students from affluent backgrounds with greater access to resources. This systemic imbalance (3) _______ educational disparities, restricting upward mobility for underprivileged students. By considering SES, institutions can mitigate these inequities, cultivate diverse learning environments, and (4) _______ intellectual discourse. A holistic admissions framework acknowledges systemic barriers while ensuring (5) _______. Ultimately, integrating SES as a criterion is not merely an act of fairness but a strategic approach to nurturing a more representative and just society.<br>Select the most appropriate option to fill in blank number 5.",
+    "q_hi": "<b>Comprehension:</b><br>In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank. <br><br>Incorporating socioeconomic status into college admissions is imperative for fostering equity and (1) _______ in higher education. Traditional metrics — academic performance, standardised test scores, and extracurricular involvement — often (2) _______ students from affluent backgrounds with greater access to resources. This systemic imbalance (3) _______ educational disparities, restricting upward mobility for underprivileged students. By considering SES, institutions can mitigate these inequities, cultivate diverse learning environments, and (4) _______ intellectual discourse. A holistic admissions framework acknowledges systemic barriers while ensuring (5) _______. Ultimately, integrating SES as a criterion is not merely an act of fairness but a strategic approach to nurturing a more representative and just society.<br>Select the most appropriate option to fill in blank number 5.",
+    "section": "English Language and Comprehension",
+    "solution": "<b>Solution (EN):</b><br>The correct option is 2. 'Meritocracy' is a social system, society, or organization in which people get success or power because of their abilities. A holistic framework ensures true meritocracy by contextualizing achievements.<br><br><b>Solution (HI):</b><br>सही विकल्प 2 है। 'Meritocracy' (योग्यतातंत्र) एक ऐसी व्यवस्था को संदर्भित करता है जहाँ व्यक्तिगत योग्यता और प्रतिभा को अवसर का आधार बनाया जाता है। यह समग्र ढांचा योग्यतातंत्र सुनिश्चित करता है।",
+    "topic": "Cloze Test"
+  },
+  {
+    "ans": 2,
+    "difficulty": "Moderate",
+    "op_en": [
+      "advantage",
+      "benefit",
+      "hinder",
+      "profit"
+    ],
+    "op_hi": [
+      "advantage",
+      "benefit",
+      "hinder",
+      "profit"
+    ],
+    "q_en": "<b>Comprehension:</b><br>In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank. <br><br>Incorporating socioeconomic status into college admissions is imperative for fostering equity and (1) _______ in higher education. Traditional metrics — academic performance, standardised test scores, and extracurricular involvement — often (2) _______ students from affluent backgrounds with greater access to resources. This systemic imbalance (3) _______ educational disparities, restricting upward mobility for underprivileged students. By considering SES, institutions can mitigate these inequities, cultivate diverse learning environments, and (4) _______ intellectual discourse. A holistic admissions framework acknowledges systemic barriers while ensuring (5) _______. Ultimately, integrating SES as a criterion is not merely an act of fairness but a strategic approach to nurturing a more representative and just society.<br>Select the most appropriate option to fill in blank number 2.",
+    "q_hi": "<b>Comprehension:</b><br>In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank. <br><br>Incorporating socioeconomic status into college admissions is imperative for fostering equity and (1) _______ in higher education. Traditional metrics — academic performance, standardised test scores, and extracurricular involvement — often (2) _______ students from affluent backgrounds with greater access to resources. This systemic imbalance (3) _______ educational disparities, restricting upward mobility for underprivileged students. By considering SES, institutions can mitigate these inequities, cultivate diverse learning environments, and (4) _______ intellectual discourse. A holistic admissions framework acknowledges systemic barriers while ensuring (5) _______. Ultimately, integrating SES as a criterion is not merely an act of fairness but a strategic approach to nurturing a more representative and just society.<br>Select the most appropriate option to fill in blank number 2.",
+    "section": "English Language and Comprehension",
+    "solution": "<b>Solution (EN):</b><br>The correct option is 2. 'Benefit' is used here as a verb meaning to bring advantage to. The traditional metrics 'often benefit' wealthy students due to their better access to learning resources.<br><br><b>Solution (HI):</b><br>सही विकल्प 2 है। 'Benefit' का प्रयोग यहाँ एक क्रिया (verb) के रूप में हुआ है जिसका अर्थ लाभ पहुँचाना होता है। पारंपरिक मानदंड अक्सर अमीर पृष्ठभूमि के छात्रों को लाभ पहुँचाते हैं क्योंकि उनकी संसाधनों तक पहुँच बेहतर होती है।",
+    "topic": "Cloze Test"
+  },
+  {
+    "ans": 4,
+    "difficulty": "Moderate",
+    "op_en": [
+      "isolation",
+      "division",
+      "exclusion",
+      "inclusion"
+    ],
+    "op_hi": [
+      "isolation",
+      "division",
+      "exclusion",
+      "inclusion"
+    ],
+    "q_en": "<b>Comprehension:</b><br>In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank. <br><br>Incorporating socioeconomic status into college admissions is imperative for fostering equity and (1) _______ in higher education. Traditional metrics — academic performance, standardised test scores, and extracurricular involvement — often (2) _______ students from affluent backgrounds with greater access to resources. This systemic imbalance (3) _______ educational disparities, restricting upward mobility for underprivileged students. By considering SES, institutions can mitigate these inequities, cultivate diverse learning environments, and (4) _______ intellectual discourse. A holistic admissions framework acknowledges systemic barriers while ensuring (5) _______. Ultimately, integrating SES as a criterion is not merely an act of fairness but a strategic approach to nurturing a more representative and just society.<br>Select the most appropriate option to fill in blank number 1.",
+    "q_hi": "<b>Comprehension:</b><br>In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank. <br><br>Incorporating socioeconomic status into college admissions is imperative for fostering equity and (1) _______ in higher education. Traditional metrics — academic performance, standardised test scores, and extracurricular involvement — often (2) _______ students from affluent backgrounds with greater access to resources. This systemic imbalance (3) _______ educational disparities, restricting upward mobility for underprivileged students. By considering SES, institutions can mitigate these inequities, cultivate diverse learning environments, and (4) _______ intellectual discourse. A holistic admissions framework acknowledges systemic barriers while ensuring (5) _______. Ultimately, integrating SES as a criterion is not merely an act of fairness but a strategic approach to nurturing a more representative and just society.<br>Select the most appropriate option to fill in blank number 1.",
+    "section": "English Language and Comprehension",
+    "solution": "<b>Solution (EN):</b><br>The correct option is 4. 'Equity and inclusion' is a standard and cohesive phrase used to describe practices that provide fair opportunities and welcome diverse groups within an educational system.<br><br><b>Solution (HI):</b><br>सही विकल्प 4 है। 'Equity and inclusion' (समानता और समावेश) एक स्थापित वाक्यांश है जिसका उपयोग शैक्षणिक संस्थानों में सभी को समान अवसर देने और जोड़ने के संदर्भ में किया जाता है।",
+    "topic": "Cloze Test"
+  },
+  {
+    "ans": 1,
+    "difficulty": "Easy",
+    "op_en": [
+      "Balancing Technology with Real-Life Interactions",
+      "The Benefits of Technology in Education",
+      "The Impact of Social Media on Youth",
+      "Overcoming Mental Health Issues"
+    ],
+    "op_hi": [
+      "Balancing Technology with Real-Life Interactions",
+      "The Benefits of Technology in Education",
+      "The Impact of Social Media on Youth",
+      "Overcoming Mental Health Issues"
+    ],
+    "q_en": "<b>Comprehension:</b><br>Read the following passage carefully and answer the questions that follow. <br><br>In the modern era, technology has dramatically transformed our daily lives, bringing both opportunities and challenges. While it has greatly enhanced convenience, connectivity and access to information, it has also introduced concerns about mental health and social isolation. People, especially the younger generation, are spending more time on devices, often at the cost of face-to-face interactions. This increased screen time has been linked to problems, such as eye strain, reduced physical activity and weakened social bonds. On the positive side, technological advancements in medicine, education and communication have led to significant improvements in quality of life. However, the key challenge remains finding a balance between embracing technological progress and maintaining healthy, real-world relationships. Experts argue that a mindful approach to technology usage, incorporating time for physical activities and social connections, is essential for the overall well-being. As society continues to evolve, it is crucial that individuals and institutions work together to ensure that technology remains a tool for improvement rather than a source of detriment.<br>Which of the following is the most suitable title for the passage?",
+    "q_hi": "<b>Comprehension:</b><br>Read the following passage carefully and answer the questions that follow. <br><br>In the modern era, technology has dramatically transformed our daily lives, bringing both opportunities and challenges. While it has greatly enhanced convenience, connectivity and access to information, it has also introduced concerns about mental health and social isolation. People, especially the younger generation, are spending more time on devices, often at the cost of face-to-face interactions. This increased screen time has been linked to problems, such as eye strain, reduced physical activity and weakened social bonds. On the positive side, technological advancements in medicine, education and communication have led to significant improvements in quality of life. However, the key challenge remains finding a balance between embracing technological progress and maintaining healthy, real-world relationships. Experts argue that a mindful approach to technology usage, incorporating time for physical activities and social connections, is essential for the overall well-being. As society continues to evolve, it is crucial that individuals and institutions work together to ensure that technology remains a tool for improvement rather than a source of detriment.<br>Which of the following is the most suitable title for the passage?",
+    "section": "English Language and Comprehension",
+    "solution": "<b>Solution (EN):</b><br>The correct option is 1. The main premise of the passage is the need to find a balance between the continuous growth of technology and maintaining active real-world social relationships.<br><br><b>Solution (HI):</b><br>सही विकल्प 1 है। गद्यांश का मुख्य विषय तकनीकी प्रगति को अपनाने और उसके साथ-साथ वास्तविक दुनिया के रिश्तों और बातचीत के बीच एक संतुलन (balance) खोजने की आवश्यकता पर केंद्रित है।",
+    "topic": "Reading Comprehension"
+  },
+  {
+    "ans": 1,
+    "difficulty": "Easy",
+    "op_en": [
+      "The social and mental health challenges posed by technology",
+      "How technology has improved communication and lifestyle",
+      "The benefits of modern technology in healthcare and interaction",
+      "The role of education in technology usage in the classrooms"
+    ],
+    "op_hi": [
+      "The social and mental health challenges posed by technology",
+      "How technology has improved communication and lifestyle",
+      "The benefits of modern technology in healthcare and interaction",
+      "The role of education in technology usage in the classrooms"
+    ],
+    "q_en": "<b>Comprehension:</b><br>Read the following passage carefully and answer the questions that follow. <br><br>In the modern era, technology has dramatically transformed our daily lives, bringing both opportunities and challenges. While it has greatly enhanced convenience, connectivity and access to information, it has also introduced concerns about mental health and social isolation. People, especially the younger generation, are spending more time on devices, often at the cost of face-to-face interactions. This increased screen time has been linked to problems, such as eye strain, reduced physical activity and weakened social bonds. On the positive side, technological advancements in medicine, education and communication have led to significant improvements in quality of life. However, the key challenge remains finding a balance between embracing technological progress and maintaining healthy, real-world relationships. Experts argue that a mindful approach to technology usage, incorporating time for physical activities and social connections, is essential for the overall well-being. As society continues to evolve, it is crucial that individuals and institutions work together to ensure that technology remains a tool for improvement rather than a source of detriment.<br>What is the central theme of the passage?",
+    "q_hi": "<b>Comprehension:</b><br>Read the following passage carefully and answer the questions that follow. <br><br>In the modern era, technology has dramatically transformed our daily lives, bringing both opportunities and challenges. While it has greatly enhanced convenience, connectivity and access to information, it has also introduced concerns about mental health and social isolation. People, especially the younger generation, are spending more time on devices, often at the cost of face-to-face interactions. This increased screen time has been linked to problems, such as eye strain, reduced physical activity and weakened social bonds. On the positive side, technological advancements in medicine, education and communication have led to significant improvements in quality of life. However, the key challenge remains finding a balance between embracing technological progress and maintaining healthy, real-world relationships. Experts argue that a mindful approach to technology usage, incorporating time for physical activities and social connections, is essential for the overall well-being. As society continues to evolve, it is crucial that individuals and institutions work together to ensure that technology remains a tool for improvement rather than a source of detriment.<br>What is the central theme of the passage?",
+    "section": "English Language and Comprehension",
+    "solution": "<b>Solution (EN):</b><br>The correct option is 1. The passage emphasizes the negative impacts of excessive technology usage, such as social isolation, reduced physical activity, and mental health challenges.<br><br><b>Solution (HI):</b><br>सही विकल्प 1 है। गद्यांश का मुख्य विचार तकनीक के बढ़ते उपयोग से उत्पन्न होने वाली सामाजिक दूरियों और मानसिक स्वास्थ्य संबंधी चुनौतियों के गिर्द घूमता है।",
+    "topic": "Reading Comprehension"
+  },
+  {
+    "ans": 4,
+    "difficulty": "Easy",
+    "op_en": [
+      "The younger generation is facing challenges due to technology.",
+      "Technology leads to social isolation and mental health problems.",
+      "The physical activity levels have decreased because of technology.",
+      "It highlights the role of artificial intelligence (AI) in transforming industries."
+    ],
+    "op_hi": [
+      "The younger generation is facing challenges due to technology.",
+      "Technology leads to social isolation and mental health problems.",
+      "The physical activity levels have decreased because of technology.",
+      "It highlights the role of artificial intelligence (AI) in transforming industries."
+    ],
+    "q_en": "<b>Comprehension:</b><br>Read the following passage carefully and answer the questions that follow. <br><br>In the modern era, technology has dramatically transformed our daily lives, bringing both opportunities and challenges. While it has greatly enhanced convenience, connectivity and access to information, it has also introduced concerns about mental health and social isolation. People, especially the younger generation, are spending more time on devices, often at the cost of face-to-face interactions. This increased screen time has been linked to problems, such as eye strain, reduced physical activity and weakened social bonds. On the positive side, technological advancements in medicine, education and communication have led to significant improvements in quality of life. However, the key challenge remains finding a balance between embracing technological progress and maintaining healthy, real-world relationships. Experts argue that a mindful approach to technology usage, incorporating time for physical activities and social connections, is essential for the overall well-being. As society continues to evolve, it is crucial that individuals and institutions work together to ensure that technology remains a tool for improvement rather than a source of detriment.<br>Which of the following is NOT a fact given in the passage?",
+    "q_hi": "<b>Comprehension:</b><br>Read the following passage carefully and answer the questions that follow. <br><br>In the modern era, technology has dramatically transformed our daily lives, bringing both opportunities and challenges. While it has greatly enhanced convenience, connectivity and access to information, it has also introduced concerns about mental health and social isolation. People, especially the younger generation, are spending more time on devices, often at the cost of face-to-face interactions. This increased screen time has been linked to problems, such as eye strain, reduced physical activity and weakened social bonds. On the positive side, technological advancements in medicine, education and communication have led to significant improvements in quality of life. However, the key challenge remains finding a balance between embracing technological progress and maintaining healthy, real-world relationships. Experts argue that a mindful approach to technology usage, incorporating time for physical activities and social connections, is essential for the overall well-being. As society continues to evolve, it is crucial that individuals and institutions work together to ensure that technology remains a tool for improvement rather than a source of detriment.<br>Which of the following is NOT a fact given in the passage?",
+    "section": "English Language and Comprehension",
+    "solution": "<b>Solution (EN):</b><br>The correct option is 4. The passage mentions advancements in medicine, education, and communication, but it does not mention artificial intelligence (AI) or industrial transformation anywhere.<br><br><b>Solution (HI):</b><br>सही विकल्प 4 है। पूरे गद्यांश में कहीं भी आर्टिफिशियल इंटेलिजेंस (AI) या उद्योगों में इसके बदलाव लाने की भूमिका का कोई उल्लेख नहीं किया गया है, जबकि अन्य सभी तथ्य गद्यांश में दिए गए हैं।",
+    "topic": "Reading Comprehension"
+  },
+  {
+    "ans": 1,
+    "difficulty": "Easy",
+    "op_en": [
+      "Technology should be used in moderation for a healthy lifestyle.",
+      "Social isolation is not a concern for the younger generation.",
+      "Gadgets are the only cause of mental health issues.",
+      "Governments should ban all technology to protect mental health."
+    ],
+    "op_hi": [
+      "Technology should be used in moderation for a healthy lifestyle.",
+      "Social isolation is not a concern for the younger generation.",
+      "Gadgets are the only cause of mental health issues.",
+      "Governments should ban all technology to protect mental health."
+    ],
+    "q_en": "<b>Comprehension:</b><br>Read the following passage carefully and answer the questions that follow. <br><br>In the modern era, technology has dramatically transformed our daily lives, bringing both opportunities and challenges. While it has greatly enhanced convenience, connectivity and access to information, it has also introduced concerns about mental health and social isolation. People, especially the younger generation, are spending more time on devices, often at the cost of face-to-face interactions. This increased screen time has been linked to problems, such as eye strain, reduced physical activity and weakened social bonds. On the positive side, technological advancements in medicine, education and communication have led to significant improvements in quality of life. However, the key challenge remains finding a balance between embracing technological progress and maintaining healthy, real-world relationships. Experts argue that a mindful approach to technology usage, incorporating time for physical activities and social connections, is essential for the overall well-being. As society continues to evolve, it is crucial that individuals and institutions work together to ensure that technology remains a tool for improvement rather than a source of detriment.<br>Based on the passage, which of the following inferences can be drawn?",
+    "q_hi": "<b>Comprehension:</b><br>Read the following passage carefully and answer the questions that follow. <br><br>In the modern era, technology has dramatically transformed our daily lives, bringing both opportunities and challenges. While it has greatly enhanced convenience, connectivity and access to information, it has also introduced concerns about mental health and social isolation. People, especially the younger generation, are spending more time on devices, often at the cost of face-to-face interactions. This increased screen time has been linked to problems, such as eye strain, reduced physical activity and weakened social bonds. On the positive side, technological advancements in medicine, education and communication have led to significant improvements in quality of life. However, the key challenge remains finding a balance between embracing technological progress and maintaining healthy, real-world relationships. Experts argue that a mindful approach to technology usage, incorporating time for physical activities and social connections, is essential for the overall well-being. As society continues to evolve, it is crucial that individuals and institutions work together to ensure that technology remains a tool for improvement rather than a source of detriment.<br>Based on the passage, which of the following inferences can be drawn?",
+    "section": "English Language and Comprehension",
+    "solution": "<b>Solution (EN):</b><br>The correct option is 1. Since the text explicitly states that a mindful approach incorporating physical activities and real-life connections is needed, it infers that moderation is key.<br><br><b>Solution (HI):</b><br>सही विकल्प 1 है। गद्यांश में कहा गया है कि 'तकनीक के उपयोग के प्रति एक सचेत दृष्टिकोण (mindful approach)... समग्र स्वास्थ्य के लिए आवश्यक है,' जिससे यह निष्कर्ष निकाला जा सकता है कि स्वस्थ जीवन के लिए इसका संतुलित और सीमित उपयोग होना चाहिए।",
+    "topic": "Reading Comprehension"
+  },
+  {
+    "ans": 2,
+    "difficulty": "Easy",
+    "op_en": [
+      "Humorous",
+      "Informative",
+      "Optimistic",
+      "Critical"
+    ],
+    "op_hi": [
+      "Humorous",
+      "Informative",
+      "Optimistic",
+      "Critical"
+    ],
+    "q_en": "<b>Comprehension:</b><br>Read the following passage carefully and answer the questions that follow. <br><br>In the modern era, technology has dramatically transformed our daily lives, bringing both opportunities and challenges. While it has greatly enhanced convenience, connectivity and access to information, it has also introduced concerns about mental health and social isolation. People, especially the younger generation, are spending more time on devices, often at the cost of face-to-face interactions. This increased screen time has been linked to problems, such as eye strain, reduced physical activity and weakened social bonds. On the positive side, technological advancements in medicine, education and communication have led to significant improvements in quality of life. However, the key challenge remains finding a balance between embracing technological progress and maintaining healthy, real-world relationships. Experts argue that a mindful approach to technology usage, incorporating time for physical activities and social connections, is essential for the overall well-being. As society continues to evolve, it is crucial that individuals and institutions work together to ensure that technology remains a tool for improvement rather than a source of detriment.<br>What is the tone of the passage?",
+    "q_hi": "<b>Comprehension:</b><br>Read the following passage carefully and answer the questions that follow. <br><br>In the modern era, technology has dramatically transformed our daily lives, bringing both opportunities and challenges. While it has greatly enhanced convenience, connectivity and access to information, it has also introduced concerns about mental health and social isolation. People, especially the younger generation, are spending more time on devices, often at the cost of face-to-face interactions. This increased screen time has been linked to problems, such as eye strain, reduced physical activity and weakened social bonds. On the positive side, technological advancements in medicine, education and communication have led to significant improvements in quality of life. However, the key challenge remains finding a balance between embracing technological progress and maintaining healthy, real-world relationships. Experts argue that a mindful approach to technology usage, incorporating time for physical activities and social connections, is essential for the overall well-being. As society continues to evolve, it is crucial that individuals and institutions work together to ensure that technology remains a tool for improvement rather than a source of detriment.<br>What is the tone of the passage?",
+    "section": "English Language and Comprehension",
+    "solution": "<b>Solution (EN):</b><br>The correct option is 2. The author presents structured facts, challenges, and arguments from experts objectively to outline both sides of tech progression, which characterizes an 'Informative' tone.<br><br><b>Solution (HI):</b><br>सही विकल्प 2 है। लेखक ने तकनीक के फायदे और नुकसान दोनों पक्षों को तथ्यों और विशेषज्ञों के तर्कों के साथ बिना किसी व्यक्तिगत पूर्वग्रह के प्रस्तुत किया है, इसलिए इसकी शैली 'Informative' (सूचनात्मक) है।",
+    "topic": "Reading Comprehension"
+  },
+  {
+    "ans": 4,
+    "difficulty": "Easy",
+    "op_en": [
+      "The Life Cycle of Honeybees",
+      "Imaginary Fears of Children",
+      "A Guide to Beekeeping at Home",
+      "Saylor and the Monsters in Her Wall"
+    ],
+    "op_hi": [
+      "The Life Cycle of Honeybees",
+      "Imaginary Fears of Children",
+      "A Guide to Beekeeping at Home",
+      "Saylor and the Monsters in Her Wall"
+    ],
+    "q_en": "<b>Comprehension:</b><br>Read the passage, answer the questions that follow.<br><br>Children can be afraid of the dark and have nightmares. They hear noises at night or see imaginary monsters. For one little girl, the monster was real. Three-year-old Saylor told her parents about the 'monsters in the wall' of her bedroom. Her parents thought the 'monsters' came from Saylor's imagination because she had just seen the movie Monsters, Inc. Saylor's parents were shocked when they found 60,000 bees behind Saylor's bedroom wall.<br><br>A beekeeper said the insects were honeybees. The bees are protected in the USA, so these bees could not be killed. The beekeeper said he had never seen so many bees in a house. He drilled a hole in the bedroom wall. Saylor's mother said: \"They just came pouring out, like a horror movie.\" The beekeeper captured the bees. They are now living on a special honeybee farm. The bees caused more than $20,000 in damages to the house.<br>Which of the following is the most appropriate title for the passage?",
+    "q_hi": "<b>Comprehension:</b><br>Read the passage, answer the questions that follow.<br><br>Children can be afraid of the dark and have nightmares. They hear noises at night or see imaginary monsters. For one little girl, the monster was real. Three-year-old Saylor told her parents about the 'monsters in the wall' of her bedroom. Her parents thought the 'monsters' came from Saylor's imagination because she had just seen the movie Monsters, Inc. Saylor's parents were shocked when they found 60,000 bees behind Saylor's bedroom wall.<br><br>A beekeeper said the insects were honeybees. The bees are protected in the USA, so these bees could not be killed. The beekeeper said he had never seen so many bees in a house. He drilled a hole in the bedroom wall. Saylor's mother said: \"They just came pouring out, like a horror movie.\" The beekeeper captured the bees. They are now living on a special honeybee farm. The bees caused more than $20,000 in damages to the house.<br>Which of the following is the most appropriate title for the passage?",
+    "section": "English Language and Comprehension",
+    "solution": "<b>Solution (EN):</b><br>The correct option is 4. The story centers completely on Saylor, her persistent complaints about monsters inside her bedroom wall, and the discovery of thousands of real bees.<br><br><b>Solution (HI):</b><br>सही विकल्प 4 है। यह पूरी कहानी छोटी बच्ची सायलर (Saylor) और उसकी बेडरूम की दीवार में होने वाली हलचल के इर्द-गिर्द घूमती है, जो बाद में मधुमक्खियों का छत्ता निकलती है। इसलिए यह शीर्षक सबसे सटीक है।",
+    "topic": "Reading Comprehension"
+  },
+  {
+    "ans": 1,
+    "difficulty": "Easy",
+    "op_en": [
+      "They believed she was influenced by a movie she had watched.",
+      "They didn’t hear the noises Saylor mentioned.",
+      "They assumed she was too young to understand fear.",
+      "They thought she was scared of the dark."
+    ],
+    "op_hi": [
+      "They believed she was influenced by a movie she had watched.",
+      "They didn’t hear the noises Saylor mentioned.",
+      "They assumed she was too young to understand fear.",
+      "They thought she was scared of the dark."
+    ],
+    "q_en": "<b>Comprehension:</b><br>Read the passage, answer the questions that follow.<br><br>Children can be afraid of the dark and have nightmares. They hear noises at night or see imaginary monsters. For one little girl, the monster was real. Three-year-old Saylor told her parents about the 'monsters in the wall' of her bedroom. Her parents thought the 'monsters' came from Saylor's imagination because she had just seen the movie Monsters, Inc. Saylor's parents were shocked when they found 60,000 bees behind Saylor's bedroom wall.<br><br>A beekeeper said the insects were honeybees. The bees are protected in the USA, so these bees could not be killed. The beekeeper said he had never seen so many bees in a house. He drilled a hole in the bedroom wall. Saylor's mother said: \"They just came pouring out, like a horror movie.\" The beekeeper captured the bees. They are now living on a special honeybee farm. The bees caused more than $20,000 in damages to the house.<br>What made Saylor’s parents initially dismiss her fears?",
+    "q_hi": "<b>Comprehension:</b><br>Read the passage, answer the questions that follow.<br><br>Children can be afraid of the dark and have nightmares. They hear noises at night or see imaginary monsters. For one little girl, the monster was real. Three-year-old Saylor told her parents about the 'monsters in the wall' of her bedroom. Her parents thought the 'monsters' came from Saylor's imagination because she had just seen the movie Monsters, Inc. Saylor's parents were shocked when they found 60,000 bees behind Saylor's bedroom wall.<br><br>A beekeeper said the insects were honeybees. The bees are protected in the USA, so these bees could not be killed. The beekeeper said he had never seen so many bees in a house. He drilled a hole in the bedroom wall. Saylor's mother said: \"They just came pouring out, like a horror movie.\" The beekeeper captured the bees. They are now living on a special honeybee farm. The bees caused more than $20,000 in damages to the house.<br>What made Saylor’s parents initially dismiss her fears?",
+    "section": "English Language and Comprehension",
+    "solution": "<b>Solution (EN):</b><br>The correct option is 1. The passage explicitly highlights that her parents thought the 'monsters' came from her imagination because she had recently seen the animated movie 'Monsters, Inc.'<br><br><b>Solution (HI):</b><br>सही विकल्प 1 है। गद्यांश में साफ़ तौर पर लिखा गया है कि माता-पिता ने सोचा कि सायलर का यह डर काल्पनिक है क्योंकि उसने हाल ही में 'Monsters, Inc.' फिल्म देखी थी।",
+    "topic": "Reading Comprehension"
+  },
+  {
+    "ans": 2,
+    "difficulty": "Easy",
+    "op_en": [
+      "They let her watch a movie that scared her.",
+      "They underestimated the severity of her fear.",
+      "They ignored her complaints for too long.",
+      "They didn’t notice the signs of the infestation earlier."
+    ],
+    "op_hi": [
+      "They let her watch a movie that scared her.",
+      "They underestimated the severity of her fear.",
+      "They ignored her complaints for too long.",
+      "They didn’t notice the signs of the infestation earlier."
+    ],
+    "q_en": "<b>Comprehension:</b><br>Read the passage, answer the questions that follow.<br><br>Children can be afraid of the dark and have nightmares. They hear noises at night or see imaginary monsters. For one little girl, the monster was real. Three-year-old Saylor told her parents about the 'monsters in the wall' of her bedroom. Her parents thought the 'monsters' came from Saylor's imagination because she had just seen the movie Monsters, Inc. Saylor's parents were shocked when they found 60,000 bees behind Saylor's bedroom wall.<br><br>A beekeeper said the insects were honeybees. The bees are protected in the USA, so these bees could not be killed. The beekeeper said he had never seen so many bees in a house. He drilled a hole in the bedroom wall. Saylor's mother said: \"They just came pouring out, like a horror movie.\" The beekeeper captured the bees. They are now living on a special honeybee farm. The bees caused more than $20,000 in damages to the house.<br>Why did Saylor's parents likely feel guilty after discovering the bees?",
+    "q_hi": "<b>Comprehension:</b><br>Read the passage, answer the questions that follow.<br><br>Children can be afraid of the dark and have nightmares. They hear noises at night or see imaginary monsters. For one little girl, the monster was real. Three-year-old Saylor told her parents about the 'monsters in the wall' of her bedroom. Her parents thought the 'monsters' came from Saylor's imagination because she had just seen the movie Monsters, Inc. Saylor's parents were shocked when they found 60,000 bees behind Saylor's bedroom wall.<br><br>A beekeeper said the insects were honeybees. The bees are protected in the USA, so these bees could not be killed. The beekeeper said he had never seen so many bees in a house. He drilled a hole in the bedroom wall. Saylor's mother said: \"They just came pouring out, like a horror movie.\" The beekeeper captured the bees. They are now living on a special honeybee farm. The bees caused more than $20,000 in damages to the house.<br>Why did Saylor's parents likely feel guilty after discovering the bees?",
+    "section": "English Language and Comprehension",
+    "solution": "<b>Solution (EN):</b><br>The correct option is 2. The parents initially linked her fears to a cartoon film and assumed it was just childhood imagination, thereby underestimating the severity and reality of her distress.<br><br><b>Solution (HI):</b><br>सही विकल्प 2 है। सायलर के माता-पिता को दोषी इसलिए महसूस हुआ होगा क्योंकि उन्होंने उसकी शिकायत को मात्र एक फिल्म का प्रभाव मानकर उसके वास्तविक डर और गम्भीरता को कम करके आँका था।",
+    "topic": "Reading Comprehension"
+  },
+  {
+    "ans": 2,
+    "difficulty": "Easy",
+    "op_en": [
+      "Dripping slowly from a narrow opening",
+      "Flowing out rapidly in large quantities",
+      "Being placed carefully into a container",
+      "Falling accidentally in all directions randomly"
+    ],
+    "op_hi": [
+      "Dripping slowly from a narrow opening",
+      "Flowing out rapidly in large quantities",
+      "Being placed carefully into a container",
+      "Falling accidentally in all directions randomly"
+    ],
+    "q_en": "<b>Comprehension:</b><br>Read the passage, answer the questions that follow.<br><br>Children can be afraid of the dark and have nightmares. They hear noises at night or see imaginary monsters. For one little girl, the monster was real. Three-year-old Saylor told her parents about the 'monsters in the wall' of her bedroom. Her parents thought the 'monsters' came from Saylor's imagination because she had just seen the movie Monsters, Inc. Saylor's parents were shocked when they found 60,000 bees behind Saylor's bedroom wall.<br><br>A beekeeper said the insects were honeybees. The bees are protected in the USA, so these bees could not be killed. The beekeeper said he had never seen so many bees in a house. He drilled a hole in the bedroom wall. Saylor's mother said: \"They just came pouring out, like a horror movie.\" The beekeeper captured the bees. They are now living on a special honeybee farm. The bees caused more than $20,000 in damages to the house.<br>What does the word 'pouring' most likely mean in the sentence, “They just came pouring out, like a horror movie”?",
+    "q_hi": "<b>Comprehension:</b><br>Read the passage, answer the questions that follow.<br><br>Children can be afraid of the dark and have nightmares. They hear noises at night or see imaginary monsters. For one little girl, the monster was real. Three-year-old Saylor told her parents about the 'monsters in the wall' of her bedroom. Her parents thought the 'monsters' came from Saylor's imagination because she had just seen the movie Monsters, Inc. Saylor's parents were shocked when they found 60,000 bees behind Saylor's bedroom wall.<br><br>A beekeeper said the insects were honeybees. The bees are protected in the USA, so these bees could not be killed. The beekeeper said he had never seen so many bees in a house. He drilled a hole in the bedroom wall. Saylor's mother said: \"They just came pouring out, like a horror movie.\" The beekeeper captured the bees. They are now living on a special honeybee farm. The bees caused more than $20,000 in damages to the house.<br>What does the word 'pouring' most likely mean in the sentence, “They just came pouring out, like a horror movie”?",
+    "section": "English Language and Comprehension",
+    "solution": "<b>Solution (EN):</b><br>The correct option is 2. In this context, 'pouring out' indicates that the bees were emerging rapidly and continuously in massive clusters or streams from the drilled hole.<br><br><b>Solution (HI):</b><br>सही विकल्प 2 है। इस संदर्भ में 'pouring out' का अर्थ बड़ी संख्या में मधुमक्खियों के दीवार के छेद से बहुत तेजी से और लगातार बाहर निकलने (उमड़ पड़ने) से है।",
+    "topic": "Reading Comprehension"
+  },
+  {
+    "ans": 2,
+    "difficulty": "Easy",
+    "op_en": [
+      "Watching scary movies can negatively affect children’s mental health.",
+      "Children’s fears should not be dismissed without investigation.",
+      "Beekeeping is an essential profession that requires skill.",
+      "Honeybees are more dangerous than most people assume."
+    ],
+    "op_hi": [
+      "Watching scary movies can negatively affect children’s mental health.",
+      "Children’s fears should not be dismissed without investigation.",
+      "Beekeeping is an essential profession that requires skill.",
+      "Honeybees are more dangerous than most people assume."
+    ],
+    "q_en": "<b>Comprehension:</b><br>Read the passage, answer the questions that follow.<br><br>Children can be afraid of the dark and have nightmares. They hear noises at night or see imaginary monsters. For one little girl, the monster was real. Three-year-old Saylor told her parents about the 'monsters in the wall' of her bedroom. Her parents thought the 'monsters' came from Saylor's imagination because she had just seen the movie Monsters, Inc. Saylor's parents were shocked when they found 60,000 bees behind Saylor's bedroom wall.<br><br>A beekeeper said the insects were honeybees. The bees are protected in the USA, so these bees could not be killed. The beekeeper said he had never seen so many bees in a house. He drilled a hole in the bedroom wall. Saylor's mother said: \"They just came pouring out, like a horror movie.\" The beekeeper captured the bees. They are now living on a special honeybee farm. The bees caused more than $20,000 in damages to the house.<br>What real-life lesson can be drawn from this story?",
+    "q_hi": "<b>Comprehension:</b><br>Read the passage, answer the questions that follow.<br><br>Children can be afraid of the dark and have nightmares. They hear noises at night or see imaginary monsters. For one little girl, the monster was real. Three-year-old Saylor told her parents about the 'monsters in the wall' of her bedroom. Her parents thought the 'monsters' came from Saylor's imagination because she had just seen the movie Monsters, Inc. Saylor's parents were shocked when they found 60,000 bees behind Saylor's bedroom wall.<br><br>A beekeeper said the insects were honeybees. The bees are protected in the USA, so these bees could not be killed. The beekeeper said he had never seen so many bees in a house. He drilled a hole in the bedroom wall. Saylor's mother said: \"They just came pouring out, like a horror movie.\" The beekeeper captured the bees. They are now living on a special honeybee farm. The bees caused more than $20,000 in damages to the house.<br>What real-life lesson can be drawn from this story?",
+    "section": "English Language and Comprehension",
+    "solution": "<b>Solution (EN):</b><br>The correct option is 2. The narrative underscores that parents should systematically evaluate or investigate claims of fear by children rather than passing them off instantly as imaginary tales.<br><br><b>Solution (HI):</b><br>सही विकल्प 2 है। यह कहानी सिखाती है कि बच्चों के भय या उनकी बातों को बिना किसी जांच के केवल कल्पना मानकर खारिज नहीं कर देना चाहिए, क्योंकि उसके पीछे कोई वास्तविक समस्या भी हो सकती है।",
+    "topic": "Reading Comprehension"
+  }
+]
