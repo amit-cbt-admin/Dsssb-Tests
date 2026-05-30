@@ -1,0 +1,422 @@
+[
+  {
+    "section": "Test of English Language and Comprehension1",
+    "topic": "Antonyms",
+    "difficulty": "Medium",
+    "q_en": "Select the most appropriate ANTONYM for the given word.<br><br>Exacerbate",
+    "q_hi": "Select the most appropriate ANTONYM for the given word.<br><br>Exacerbate",
+    "op_en": [
+      "Alleviate",
+      "Worsen",
+      "Intensify",
+      "Aggravate"
+    ],
+    "op_hi": [
+      "Alleviate",
+      "Worsen",
+      "Intensify",
+      "Aggravate"
+    ],
+    "ans": 1,
+    "solution": "<b>Solution (EN):</b><br>\"Exacerbate\" means to make a problem, bad situation, or negative feeling worse. Its exact antonym is \"Alleviate\", which means to make (suffering, deficiency, or a problem) less severe. The other options (Worsen, Intensify, Aggravate) are synonyms of Exacerbate.<br><br><b>Solution (HI):</b><br>\"Exacerbate\" का अर्थ है किसी समस्या या बुरी स्थिति को और अधिक खराब कर देना (बदतर करना)। इसका सटीक विलोम \"Alleviate\" है, जिसका अर्थ है कम करना या राहत देना। अन्य विकल्प (Worsen, Intensify, Aggravate) Exacerbate के पर्यायवाची हैं।"
+  },
+  {
+    "section": "Test of English Language and Comprehension1",
+    "topic": "Para Jumbles",
+    "difficulty": "Medium",
+    "q_en": "Sentences of a paragraph are given below in jumbled order. Arrange the sentences in the correct order to form a meaningful and coherent paragraph.<br><br>A. However, in many places, eating healthy is not so easy.<br>B. A healthy diet, containing plenty of vegetables and fruits, helps to keep our bodies strong and our minds sharp.<br>C. Similarly, in extreme environments like deserts, or in exceptionally cold and dark northern regions, growing food and eating healthy can be tough.<br>D. For example, in massive mega-cities, where lots and lots of people live, access to healthy fruits and vegetables can be limited.",
+    "q_hi": "Sentences of a paragraph are given below in jumbled order. Arrange the sentences in the correct order to form a meaningful and coherent paragraph.<br><br>A. However, in many places, eating healthy is not so easy.<br>B. A healthy diet, containing plenty of vegetables and fruits, helps to keep our bodies strong and our minds sharp.<br>C. Similarly, in extreme environments like deserts, or in exceptionally cold and dark northern regions, growing food and eating healthy can be tough.<br>D. For example, in massive mega-cities, where lots and lots of people live, access to healthy fruits and vegetables can be limited.",
+    "op_en": [
+      "BADC",
+      "DACB",
+      "CADB",
+      "ADBC"
+    ],
+    "op_hi": [
+      "BADC",
+      "DACB",
+      "CADB",
+      "ADBC"
+    ],
+    "ans": 1,
+    "solution": "<b>Solution (EN):</b><br>Sentence B introduces the main topic: the benefits of a healthy diet. Sentence A introduces a contrast (\"However\") stating that eating healthy is not easy in many places. Sentence D provides a specific instance (\"For example\") of what was stated in A, referring to massive mega-cities. Sentence C provides another related example (\"Similarly\") about extreme environments. Thus, the correct logical order is BADC.<br><br><b>Solution (HI):</b><br>वाक्य B मुख्य विषय का परिचय देता है: स्वस्थ आहार के लाभ। वाक्य A एक विरोधाभास (\"However\") प्रस्तुत करता है कि कई जगहों पर स्वस्थ भोजन करना आसान नहीं है। वाक्य D, वाक्य A में कही गई बात का एक उदाहरण (\"For example\") देता है, जो बड़े महानगरों (mega-cities) के बारे में है। वाक्य C चरम वातावरण (extreme environments) के बारे में एक और समान उदाहरण (\"Similarly\") देता है। इसलिए, सही तार्किक क्रम BADC है।"
+  },
+  {
+    "section": "Test of English Language and Comprehension1",
+    "topic": "Fill in the Blanks",
+    "difficulty": "Easy",
+    "q_en": "Select the most appropriate option to fill in the blank.<br><br>They took him to the hospital immediately after the cardiac arrest, ______ he could not survive.",
+    "q_hi": "Select the most appropriate option to fill in the blank.<br><br>They took him to the hospital immediately after the cardiac arrest, ______ he could not survive.",
+    "op_en": [
+      "still",
+      "as a result",
+      "in fact",
+      "or"
+    ],
+    "op_hi": [
+      "still",
+      "as a result",
+      "in fact",
+      "or"
+    ],
+    "ans": 1,
+    "solution": "<b>Solution (EN):</b><br>The sentence requires a conjunction that shows contrast. Despite being taken to the hospital immediately, he did not survive. \"Still\" acts as a conjunction of concession here, meaning \"nevertheless\" or \"even so\".<br><br><b>Solution (HI):</b><br>वाक्य में एक ऐसे conjunction (संयोजक) की आवश्यकता है जो विरोधाभास (contrast) को दर्शाता हो। तुरंत अस्पताल ले जाने के बावजूद, वह बच नहीं सका। यहाँ \"Still\" का अर्थ \"फिर भी\" (nevertheless) है, जो दो विपरीत स्थितियों को जोड़ता है।"
+  },
+  {
+    "section": "Test of English Language and Comprehension1",
+    "topic": "Articles",
+    "difficulty": "Easy",
+    "q_en": "Select the most appropriate article to fill in the blank. If no article is required, select ‘No article required’.<br><br>Arjun's presentation turned out to be _____ best that the company had ever seen.",
+    "q_hi": "Select the most appropriate article to fill in the blank. If no article is required, select ‘No article required’.<br><br>Arjun's presentation turned out to be _____ best that the company had ever seen.",
+    "op_en": [
+      "the",
+      "a",
+      "an",
+      "No article required"
+    ],
+    "op_hi": [
+      "the",
+      "a",
+      "an",
+      "No article required"
+    ],
+    "ans": 1,
+    "solution": "<b>Solution (EN):</b><br>The definite article \"the\" is always used before superlative adjectives. Here, \"best\" is the superlative degree of \"good\". Therefore, \"the\" is the correct article.<br><br><b>Solution (HI):</b><br>Superlative adjectives (जैसे best, tallest, greatest) से पहले हमेशा definite article \"the\" का प्रयोग किया जाता है। यहाँ \"best\", \"good\" की superlative degree है। इसलिए, सही विकल्प \"the\" है।"
+  },
+  {
+    "section": "Test of English Language and Comprehension1",
+    "topic": "Idioms and Phrases",
+    "difficulty": "Medium",
+    "q_en": "Select the most appropriate article to fill in the blank. If no article is required, select ‘No article required’.<br><br>I always keep my enemies at _____ arm's length.",
+    "q_hi": "Select the most appropriate article to fill in the blank. If no article is required, select ‘No article required’.<br><br>I always keep my enemies at _____ arm's length.",
+    "op_en": [
+      "a",
+      "an",
+      "No article required",
+      "the"
+    ],
+    "op_hi": [
+      "a",
+      "an",
+      "No article required",
+      "the"
+    ],
+    "ans": 2,
+    "solution": "<b>Solution (EN):</b><br>The correct phrase is an idiom \"at an arm's length\", which means to avoid being very close to or friendly with someone. Since \"arm\" starts with a vowel sound, the indefinite article \"an\" is used.<br><br><b>Solution (HI):</b><br>सही मुहावरा \"at an arm's length\" है, जिसका अर्थ है किसी से उचित दूरी बनाए रखना या अधिक घनिष्ठता न बढ़ाना। चूँकि \"arm\" एक स्वर ध्वनि (vowel sound) से शुरू होता है, इसलिए indefinite article \"an\" का प्रयोग किया जाएगा।"
+  },
+  {
+    "section": "Test of English Language and Comprehension1",
+    "topic": "Idioms and Phrases",
+    "difficulty": "Medium",
+    "q_en": "Select the most appropriate idiom that can substitute the underlined segment in the given sentence.<br><br>The job done was lousy, it was evident they were <u>trying to save money</u>.",
+    "q_hi": "Select the most appropriate idiom that can substitute the underlined segment in the given sentence.<br><br>The job done was lousy, it was evident they were <u>trying to save money</u>.",
+    "op_en": [
+      "on a wild goose chase",
+      "getting out of hand",
+      "biting the bullet",
+      "​cutting corners"
+    ],
+    "op_hi": [
+      "on a wild goose chase",
+      "getting out of hand",
+      "biting the bullet",
+      "​cutting corners"
+    ],
+    "ans": 4,
+    "solution": "<b>Solution (EN):</b><br>The idiom \"cutting corners\" means to do something perfunctorily or cheaply so as to save money or time, which fits the context of doing a \"lousy job\" perfectly. <br>Other meanings:<br>On a wild goose chase: a foolish and hopeless search.<br>Getting out of hand: becoming difficult to control.<br>Biting the bullet: facing a difficult or unpleasant situation bravely.<br><br><b>Solution (HI):</b><br>\"Cutting corners\" मुहावरे का अर्थ है समय या पैसा बचाने के लिए किसी काम को खराब या सस्ते तरीके से करना, जो \"lousy job\" (खराब काम) के संदर्भ में बिल्कुल सही बैठता है। <br>अन्य मुहावरों के अर्थ:<br>On a wild goose chase: व्यर्थ की खोज।<br>Getting out of hand: नियंत्रण से बाहर होना।<br>Biting the bullet: किसी कठिन स्थिति का बहादुरी से सामना करना।"
+  },
+  {
+    "section": "Test of English Language and Comprehension1",
+    "topic": "Spelling",
+    "difficulty": "Medium",
+    "q_en": "Select the INCORRECTLY spelt word in the given sentence.<br><br>The professor's lecture on Renaissance art was both enlightning and engaging.",
+    "q_hi": "Select the INCORRECTLY spelt word in the given sentence.<br><br>The professor's lecture on Renaissance art was both enlightning and engaging.",
+    "op_en": [
+      "enlightning",
+      "professor's",
+      "Renaissance",
+      "engaging"
+    ],
+    "op_hi": [
+      "enlightning",
+      "professor's",
+      "Renaissance",
+      "engaging"
+    ],
+    "ans": 1,
+    "solution": "<b>Solution (EN):</b><br>The incorrectly spelt word is \"enlightning\". The correct spelling is \"enlightening\" (with an 'e' after 't'). It means giving someone greater knowledge and understanding about a subject or situation.<br><br><b>Solution (HI):</b><br>गलत स्पेलिंग वाला शब्द \"enlightning\" है। सही स्पेलिंग \"enlightening\" है (t के बाद e आता है)। इसका अर्थ है किसी विषय या स्थिति के बारे में अधिक ज्ञान और समझ प्रदान करना (ज्ञानवर्धक)।"
+  },
+  {
+    "section": "Test of English Language and Comprehension1",
+    "topic": "One Word Substitution",
+    "difficulty": "Medium",
+    "q_en": "Select the option that can be used as a one-word substitute for the given group of words.<br><br>A person who is excessively concerned with cleanliness and orderliness",
+    "q_hi": "Select the option that can be used as a one-word substitute for the given group of words.<br><br>A person who is excessively concerned with cleanliness and orderliness",
+    "op_en": [
+      "Slattern",
+      "Slovenly",
+      "Haphazard",
+      "Fastidious"
+    ],
+    "op_hi": [
+      "Slattern",
+      "Slovenly",
+      "Haphazard",
+      "Fastidious"
+    ],
+    "ans": 4,
+    "solution": "<b>Solution (EN):</b><br>\"Fastidious\" means very attentive to and concerned about accuracy and detail, or very concerned about matters of cleanliness. <br>Other options:<br>Slattern / Slovenly: refer to being untidy and dirty.<br>Haphazard: lacking any obvious principle of organization.<br><br><b>Solution (HI):</b><br>\"Fastidious\" का अर्थ है वह व्यक्ति जो साफ-सफाई, सटीकता और विवरण को लेकर बहुत अधिक सावधान (नखरेबाज़ या तुनकमिजाज़) हो। <br>अन्य विकल्पों के अर्थ:<br>Slattern / Slovenly: मैला या फूहड़ होना।<br>Haphazard: अव्यवस्थित या बेतरतीब।"
+  },
+  {
+    "section": "Test of English Language and Comprehension1",
+    "topic": "Fill in the Blanks",
+    "difficulty": "Easy",
+    "q_en": "Select the most appropriate option to fill in the blank.<br><br>_____, they arrived at the destination before nightfall.",
+    "q_hi": "Select the most appropriate option to fill in the blank.<br><br>_____, they arrived at the destination before nightfall.",
+    "op_en": [
+      "Quickly",
+      "Carelessly",
+      "Carefully",
+      "Fortunately"
+    ],
+    "op_hi": [
+      "Quickly",
+      "Carelessly",
+      "Carefully",
+      "Fortunately"
+    ],
+    "ans": 4,
+    "solution": "<b>Solution (EN):</b><br>The sentence describes a positive outcome (arriving before nightfall). \"Fortunately\" (meaning luckily) is the most appropriate sentence adverb to introduce this positive event. \"Quickly\", \"Carelessly\", and \"Carefully\" do not fit the sentence structure as smoothly as an introductory remark here.<br><br><b>Solution (HI):</b><br>यह वाक्य एक सकारात्मक परिणाम (रात होने से पहले गंतव्य पर पहुंचना) का वर्णन करता है। इस सकारात्मक घटना को प्रस्तुत करने के लिए \"Fortunately\" (सौभाग्य से) सबसे उपयुक्त adverb (क्रियाविशेषण) है।"
+  },
+  {
+    "section": "Test of English Language and Comprehension1",
+    "topic": "Para Jumbles",
+    "difficulty": "Easy",
+    "q_en": "Sentences of a paragraph are given below in jumbled order. Arrange the sentences in the correct order to form a meaningful and coherent paragraph.<br><br>A. The first little pig builds a house of straw, but a wolf huffs and puffs and blows his house down and eats that little pig.<br>B. The second little pig builds a house of sticks, but the same wolf huffs and puffs and blows it down, and eats that pig, too.<br>C. The third pig builds a house of bricks, so when the wolf comes huffing and puffing, the structure withstands the assault, and the little pig survives.<br>D. The Three Little Pigs is quite a cautionary tale for children.",
+    "q_hi": "Sentences of a paragraph are given below in jumbled order. Arrange the sentences in the correct order to form a meaningful and coherent paragraph.<br><br>A. The first little pig builds a house of straw, but a wolf huffs and puffs and blows his house down and eats that little pig.<br>B. The second little pig builds a house of sticks, but the same wolf huffs and puffs and blows it down, and eats that pig, too.<br>C. The third pig builds a house of bricks, so when the wolf comes huffing and puffing, the structure withstands the assault, and the little pig survives.<br>D. The Three Little Pigs is quite a cautionary tale for children.",
+    "op_en": [
+      "BDAC",
+      "CADB",
+      "ABCD",
+      "DABC"
+    ],
+    "op_hi": [
+      "BDAC",
+      "CADB",
+      "ABCD",
+      "DABC"
+    ],
+    "ans": 4,
+    "solution": "<b>Solution (EN):</b><br>Sentence D introduces the subject of the paragraph: the story of \"The Three Little Pigs\". Sentences A, B, and C then narrate the events of the story in logical and chronological order: what happened to the first pig (A), the second pig (B), and finally the third pig (C). Therefore, the correct logical sequence is DABC.<br><br><b>Solution (HI):</b><br>वाक्य D पैराग्राफ के विषय का परिचय देता है: \"The Three Little Pigs\" (तीन छोटे सूअरों) की कहानी। वाक्य A, B और C फिर कहानी की घटनाओं को कालानुक्रमिक क्रम (chronological order) में बताते हैं: पहला सूअर (A), दूसरा सूअर (B), और अंत में तीसरा सूअर (C)। इसलिए, सही तार्किक क्रम DABC है।"
+  },
+  {
+    "section": "Test of English Language and Comprehension1",
+    "topic": "One Word Substitution",
+    "difficulty": "Hard",
+    "q_en": "Select the option that can be used as a one-word substitute for the underlined group of words.<br><br>Despite facing endless <u>complicated layers of red tape and procedures</u>, she persisted in getting approval for the charity's new initiative.",
+    "q_hi": "Select the option that can be used as a one-word substitute for the underlined group of words.<br><br>Despite facing endless <u>complicated layers of red tape and procedures</u>, she persisted in getting approval for the charity's new initiative.",
+    "op_en": [
+      "barrage",
+      "bastion",
+      "behemoth",
+      "bureaucracy"
+    ],
+    "op_hi": [
+      "barrage",
+      "bastion",
+      "behemoth",
+      "bureaucracy"
+    ],
+    "ans": 4,
+    "solution": "<b>Solution (EN):</b><br>\"Bureaucracy\" refers to a system of government or administration marked by excessive red tape and complex procedures. <br>Other meanings:<br>Barrage: a concentrated artillery bombardment over a wide area or a rapid large number of questions/complaints.<br>Bastion: an institution, place, or person strongly defending particular principles.<br>Behemoth: a huge or monstrous creature; something enormous.<br><br><b>Solution (HI):</b><br>\"Bureaucracy\" (नौकरशाही) का अर्थ है एक ऐसी प्रणाली जिसमें अत्यधिक लालफीताशाही (red tape) और जटिल प्रक्रियाएं शामिल हों। <br>अन्य शब्दों के अर्थ:<br>Barrage: प्रश्नों, शिकायतों या गोलियों की बौछार।<br>Bastion: किसी सिद्धांत या परंपरा का रक्षक या गढ़।<br>Behemoth: एक विशाल और शक्तिशाली संस्था या प्राणी।"
+  },
+  {
+    "section": "Test of English Language and Comprehension1",
+    "topic": "Fill in the Blanks",
+    "difficulty": "Medium",
+    "q_en": "Select the most appropriate option to fill in the blank.<br><br>The painting was carefully _____ on the wall by the curator.",
+    "q_hi": "Select the most appropriate option to fill in the blank.<br><br>The painting was carefully _____ on the wall by the curator.",
+    "op_en": [
+      "hung",
+      "hangs",
+      "hanged",
+      "hanging"
+    ],
+    "op_hi": [
+      "hung",
+      "hangs",
+      "hanged",
+      "hanging"
+    ],
+    "ans": 1,
+    "solution": "<b>Solution (EN):</b><br>The verb \"hang\" has two past participle forms with different meanings: \"hanged\" refers to executing a person by suspending them by the neck, while \"hung\" refers to suspending an object (like a picture, coat, or painting). The sentence is in the passive voice (\"was... hung\"), so \"hung\" is the correct past participle here.<br><br><b>Solution (HI):</b><br>\"Hang\" क्रिया (verb) के दो past participle रूप होते हैं: \"hanged\" का प्रयोग किसी व्यक्ति को फाँसी देने के संदर्भ में होता है, जबकि \"hung\" का प्रयोग किसी वस्तु (जैसे पेंटिंग, कपड़े) को टांगने के लिए होता है। वाक्य passive voice (\"was... hung\") में है, इसलिए यहाँ \"hung\" सही है।"
+  },
+  {
+    "section": "Test of English Language and Comprehension1",
+    "topic": "Synonyms",
+    "difficulty": "Medium",
+    "q_en": "Select the most appropriate synonym of the given word.<br><br>Contemporary",
+    "q_hi": "Select the most appropriate synonym of the given word.<br><br>Contemporary",
+    "op_en": [
+      "Coincident",
+      "Remote",
+      "Kaput",
+      "Disused"
+    ],
+    "op_hi": [
+      "Coincident",
+      "Remote",
+      "Kaput",
+      "Disused"
+    ],
+    "ans": 1,
+    "solution": "<b>Solution (EN):</b><br>\"Contemporary\" means living or occurring at the same time. \"Coincident\" also means occurring together in space or time. <br>Other meanings:<br>Remote: distant.<br>Kaput: broken and useless.<br>Disused: no longer being used.<br><br><b>Solution (HI):</b><br>\"Contemporary\" का अर्थ है समकालीन या एक ही समय में होने वाला। \"Coincident\" का अर्थ भी एक ही समय या स्थान पर एक साथ होना है। <br>अन्य शब्दों के अर्थ:<br>Remote: दूरस्थ।<br>Kaput: टूटा हुआ या बेकार (नष्ट)।<br>Disused: अप्रयुक्त (जिसका अब उपयोग नहीं किया जाता)।"
+  },
+  {
+    "section": "Test of English Language and Comprehension1",
+    "topic": "Fill in the Blanks",
+    "difficulty": "Easy",
+    "q_en": "Select the most appropriate option to fill in the blank.<br><br>Kiruthik _____ completed his tasks on time.",
+    "q_hi": "Select the most appropriate option to fill in the blank.<br><br>Kiruthik _____ completed his tasks on time.",
+    "op_en": [
+      "has",
+      "will",
+      "is",
+      "have"
+    ],
+    "op_hi": [
+      "has",
+      "will",
+      "is",
+      "have"
+    ],
+    "ans": 1,
+    "solution": "<b>Solution (EN):</b><br>The verb \"completed\" is in the past participle form ($V_3$). To form the present perfect tense with a singular subject (\"Kiruthik\"), the auxiliary verb \"has\" must be used. \"Have\" is plural, \"will\" takes the base form ($V_1$), and \"is\" takes the continuous form ($V_4$ or -ing).<br><br><b>Solution (HI):</b><br>वाक्य में मुख्य क्रिया \"completed\" past participle ($V_3$) रूप में है। Singular (एकवचन) subject \"Kiruthik\" के साथ present perfect tense बनाने के लिए auxiliary verb \"has\" का प्रयोग किया जाएगा। \"have\" बहुवचन के लिए है, \"will\" के साथ $V_1$ (complete) आता है, और \"is\" के साथ $V_4$ (completing) आता है।"
+  },
+  {
+    "section": "Test of English Language and Comprehension1",
+    "topic": "Idioms and Phrases",
+    "difficulty": "Hard",
+    "q_en": "Select the most appropriate idiom that can substitute the underlined segment in the given sentence.<br><br>The excitement over the new product launch quickly faded, proving that <u>amazing things or events often lose their appeal relatively quickly</u>.",
+    "q_hi": "Select the most appropriate idiom that can substitute the underlined segment in the given sentence.<br><br>The excitement over the new product launch quickly faded, proving that <u>amazing things or events often lose their appeal relatively quickly</u>.",
+    "op_en": [
+      "the early bird catches the worm",
+      "a wonder lasts but nine days",
+      "a watched pot never boils",
+      "a cat has nine lives"
+    ],
+    "op_hi": [
+      "the early bird catches the worm",
+      "a wonder lasts but nine days",
+      "a watched pot never boils",
+      "a cat has nine lives"
+    ],
+    "ans": 2,
+    "solution": "<b>Solution (EN):</b><br>The idiom \"a wonder lasts but nine days\" (or a nine days' wonder) means that something which causes great excitement initially will soon be forgotten and lose its appeal. <br>Other meanings:<br>The early bird catches the worm: success comes to those who prepare well and put in effort early.<br>A watched pot never boils: time seems to drag when you are waiting for something to happen.<br>A cat has nine lives: cats can survive seemingly fatal events.<br><br><b>Solution (HI):</b><br>\"A wonder lasts but nine days\" मुहावरे का अर्थ है (चार दिन की चांदनी) कि कोई अद्भुत चीज़ जो शुरू में बहुत उत्साह पैदा करती है, वह जल्द ही भुला दी जाती है और अपना आकर्षण खो देती है। <br>अन्य मुहावरों के अर्थ:<br>The early bird catches the worm: जो पहले काम शुरू करता है, उसे सफलता मिलती है।<br>A watched pot never boils: जब आप किसी चीज़ के होने का इंतज़ार करते हैं, तो समय बहुत धीमा लगता है।<br>A cat has nine lives: बिल्लियाँ अक्सर जानलेवा दुर्घटनाओं में भी बच जाती हैं।"
+  },
+  {
+    "section": "Test of English Language and Comprehension1",
+    "topic": "Reading Comprehension",
+    "difficulty": "Easy",
+    "q_en": "<b>Comprehension:</b><br>Read the given passage and answer the questions that follow.<br><br>Whoever knew that cashew nuts, sugar, and ghee could come together to result in a decadent sweet that would arguably be hailed as one of the most versatile mithais! We say ‘versatile’ because no matter the occasion — festive or celebratory — you can never go wrong with a box of kaju katli. The filigree foil-coated diamond-shaped pieces of heaven have reigned supreme over the Indian mithai scene for decades now and they aren’t moving any time soon.<br><br>As you let your palate revel in the celebration of flavours this sweet brings to your mouth, have you ever stopped to wonder whether it was a ‘Eureka!’ moment that led to its creation or a similarly dramatic incident? You will be surprised to know there are two origin stories, one of which holds more popularity than the other. We leave it to you to decide which story reveals the true brains behind the creation of kaju katli.<br>What are the main ingredients mentioned in the passage for making kaju katli?",
+    "q_hi": "<b>Comprehension:</b><br>Read the given passage and answer the questions that follow.<br><br>Whoever knew that cashew nuts, sugar, and ghee could come together to result in a decadent sweet that would arguably be hailed as one of the most versatile mithais! We say ‘versatile’ because no matter the occasion — festive or celebratory — you can never go wrong with a box of kaju katli. The filigree foil-coated diamond-shaped pieces of heaven have reigned supreme over the Indian mithai scene for decades now and they aren’t moving any time soon.<br><br>As you let your palate revel in the celebration of flavours this sweet brings to your mouth, have you ever stopped to wonder whether it was a ‘Eureka!’ moment that led to its creation or a similarly dramatic incident? You will be surprised to know there are two origin stories, one of which holds more popularity than the other. We leave it to you to decide which story reveals the true brains behind the creation of kaju katli.<br>What are the main ingredients mentioned in the passage for making kaju katli?",
+    "op_en": [
+      "Flour, ghee, and jaggery",
+      "Almonds, sugar, and butter",
+      "Milk, sugar, and cashews",
+      "Cashew nuts, sugar, and ghee"
+    ],
+    "op_hi": [
+      "Flour, ghee, and jaggery",
+      "Almonds, sugar, and butter",
+      "Milk, sugar, and cashews",
+      "Cashew nuts, sugar, and ghee"
+    ],
+    "ans": 4,
+    "solution": "<b>Solution (EN):</b><br>The very first sentence of the passage clearly states the ingredients: \"Whoever knew that <b>cashew nuts, sugar, and ghee</b> could come together...\" Therefore, option 4 is the correct answer.<br><br><b>Solution (HI):</b><br>गद्यांश के पहले ही वाक्य में स्पष्ट रूप से सामग्री (ingredients) बताई गई है: \"Whoever knew that cashew nuts, sugar, and ghee could come together...\" इसलिए, विकल्प 4 सही उत्तर है।"
+  },
+  {
+    "section": "Test of English Language and Comprehension1",
+    "topic": "Reading Comprehension",
+    "difficulty": "Medium",
+    "q_en": "<b>Comprehension:</b><br>Read the given passage and answer the questions that follow.<br><br>Whoever knew that cashew nuts, sugar, and ghee could come together to result in a decadent sweet that would arguably be hailed as one of the most versatile mithais! We say ‘versatile’ because no matter the occasion — festive or celebratory — you can never go wrong with a box of kaju katli. The filigree foil-coated diamond-shaped pieces of heaven have reigned supreme over the Indian mithai scene for decades now and they aren’t moving any time soon.<br><br>As you let your palate revel in the celebration of flavours this sweet brings to your mouth, have you ever stopped to wonder whether it was a ‘Eureka!’ moment that led to its creation or a similarly dramatic incident? You will be surprised to know there are two origin stories, one of which holds more popularity than the other. We leave it to you to decide which story reveals the true brains behind the creation of kaju katli.<br>Select the most appropriate synonym of the word 'decadent' as used in the passage.",
+    "q_hi": "<b>Comprehension:</b><br>Read the given passage and answer the questions that follow.<br><br>Whoever knew that cashew nuts, sugar, and ghee could come together to result in a decadent sweet that would arguably be hailed as one of the most versatile mithais! We say ‘versatile’ because no matter the occasion — festive or celebratory — you can never go wrong with a box of kaju katli. The filigree foil-coated diamond-shaped pieces of heaven have reigned supreme over the Indian mithai scene for decades now and they aren’t moving any time soon.<br><br>As you let your palate revel in the celebration of flavours this sweet brings to your mouth, have you ever stopped to wonder whether it was a ‘Eureka!’ moment that led to its creation or a similarly dramatic incident? You will be surprised to know there are two origin stories, one of which holds more popularity than the other. We leave it to you to decide which story reveals the true brains behind the creation of kaju katli.<br>Select the most appropriate synonym of the word 'decadent' as used in the passage.",
+    "op_en": [
+      "Simple",
+      "Healthy",
+      "Plain",
+      "Luxurious"
+    ],
+    "op_hi": [
+      "Simple",
+      "Healthy",
+      "Plain",
+      "Luxurious"
+    ],
+    "ans": 4,
+    "solution": "<b>Solution (EN):</b><br>In the context of food, the word \"decadent\" refers to something that is luxuriously self-indulgent, usually rich, sweet, and delicious. Therefore, \"Luxurious\" is the most appropriate synonym.<br><br><b>Solution (HI):</b><br>भोजन के संदर्भ में, \"decadent\" शब्द का अर्थ कुछ ऐसा है जो बहुत ही शानदार, समृद्ध, मीठा और स्वादिष्ट (luxuriously self-indulgent) हो। इसलिए, \"Luxurious\" (शानदार/विलासितापूर्ण) सबसे उपयुक्त पर्यायवाची है।"
+  },
+  {
+    "section": "Test of English Language and Comprehension1",
+    "topic": "Reading Comprehension",
+    "difficulty": "Medium",
+    "q_en": "<b>Comprehension:</b><br>Read the given passage and answer the questions that follow.<br><br>Whoever knew that cashew nuts, sugar, and ghee could come together to result in a decadent sweet that would arguably be hailed as one of the most versatile mithais! We say ‘versatile’ because no matter the occasion — festive or celebratory — you can never go wrong with a box of kaju katli. The filigree foil-coated diamond-shaped pieces of heaven have reigned supreme over the Indian mithai scene for decades now and they aren’t moving any time soon.<br><br>As you let your palate revel in the celebration of flavours this sweet brings to your mouth, have you ever stopped to wonder whether it was a ‘Eureka!’ moment that led to its creation or a similarly dramatic incident? You will be surprised to know there are two origin stories, one of which holds more popularity than the other. We leave it to you to decide which story reveals the true brains behind the creation of kaju katli.<br>Which of the following is the most appropriate title for this passage?",
+    "q_hi": "<b>Comprehension:</b><br>Read the given passage and answer the questions that follow.<br><br>Whoever knew that cashew nuts, sugar, and ghee could come together to result in a decadent sweet that would arguably be hailed as one of the most versatile mithais! We say ‘versatile’ because no matter the occasion — festive or celebratory — you can never go wrong with a box of kaju katli. The filigree foil-coated diamond-shaped pieces of heaven have reigned supreme over the Indian mithai scene for decades now and they aren’t moving any time soon.<br><br>As you let your palate revel in the celebration of flavours this sweet brings to your mouth, have you ever stopped to wonder whether it was a ‘Eureka!’ moment that led to its creation or a similarly dramatic incident? You will be surprised to know there are two origin stories, one of which holds more popularity than the other. We leave it to you to decide which story reveals the true brains behind the creation of kaju katli.<br>Which of the following is the most appropriate title for this passage?",
+    "op_en": [
+      "The Sweet Origins of Kaju Katli",
+      "The Ingredients of Cashew Delights",
+      "Festive Desserts in India",
+      "The Making of Indian Mithai"
+    ],
+    "op_hi": [
+      "The Sweet Origins of Kaju Katli",
+      "The Ingredients of Cashew Delights",
+      "Festive Desserts in India",
+      "The Making of Indian Mithai"
+    ],
+    "ans": 1,
+    "solution": "<b>Solution (EN):</b><br>The passage primarily focuses on introducing Kaju Katli, describing its popularity, and then leading into the mystery of how it was created by mentioning \"two origin stories\". Thus, \"The Sweet Origins of Kaju Katli\" captures the central theme perfectly.<br><br><b>Solution (HI):</b><br>गद्यांश मुख्य रूप से काजू कतली (Kaju Katli) का परिचय देने, इसकी लोकप्रियता का वर्णन करने, और फिर इसके \"दो उत्पत्ति की कहानियों\" (two origin stories) का उल्लेख करके यह रहस्य पैदा करने पर केंद्रित है कि यह कैसे बनी। इसलिए, \"The Sweet Origins of Kaju Katli\" (काजू कतली की मीठी उत्पत्ति) केंद्रीय विषय को पूरी तरह से पकड़ता है।"
+  },
+  {
+    "section": "Test of English Language and Comprehension1",
+    "topic": "Reading Comprehension",
+    "difficulty": "Easy",
+    "q_en": "<b>Comprehension:</b><br>Read the given passage and answer the questions that follow.<br><br>Whoever knew that cashew nuts, sugar, and ghee could come together to result in a decadent sweet that would arguably be hailed as one of the most versatile mithais! We say ‘versatile’ because no matter the occasion — festive or celebratory — you can never go wrong with a box of kaju katli. The filigree foil-coated diamond-shaped pieces of heaven have reigned supreme over the Indian mithai scene for decades now and they aren’t moving any time soon.<br><br>As you let your palate revel in the celebration of flavours this sweet brings to your mouth, have you ever stopped to wonder whether it was a ‘Eureka!’ moment that led to its creation or a similarly dramatic incident? You will be surprised to know there are two origin stories, one of which holds more popularity than the other. We leave it to you to decide which story reveals the true brains behind the creation of kaju katli.<br>What shape is typically associated with kaju katli?",
+    "q_hi": "<b>Comprehension:</b><br>Read the given passage and answer the questions that follow.<br><br>Whoever knew that cashew nuts, sugar, and ghee could come together to result in a decadent sweet that would arguably be hailed as one of the most versatile mithais! We say ‘versatile’ because no matter the occasion — festive or celebratory — you can never go wrong with a box of kaju katli. The filigree foil-coated diamond-shaped pieces of heaven have reigned supreme over the Indian mithai scene for decades now and they aren’t moving any time soon.<br><br>As you let your palate revel in the celebration of flavours this sweet brings to your mouth, have you ever stopped to wonder whether it was a ‘Eureka!’ moment that led to its creation or a similarly dramatic incident? You will be surprised to know there are two origin stories, one of which holds more popularity than the other. We leave it to you to decide which story reveals the true brains behind the creation of kaju katli.<br>What shape is typically associated with kaju katli?",
+    "op_en": [
+      "Round",
+      "Square",
+      "Triangular",
+      "Diamond"
+    ],
+    "op_hi": [
+      "Round",
+      "Square",
+      "Triangular",
+      "Diamond"
+    ],
+    "ans": 4,
+    "solution": "<b>Solution (EN):</b><br>The passage explicitly states in the first paragraph: \"The filigree foil-coated <b>diamond-shaped</b> pieces...\" Therefore, the diamond shape is associated with kaju katli.<br><br><b>Solution (HI):</b><br>गद्यांश के पहले पैराग्राफ में स्पष्ट रूप से लिखा है: \"The filigree foil-coated diamond-shaped pieces...\" (चांदी के वर्क से लिपटे डायमंड के आकार के टुकड़े)। इसलिए, काजू कतली डायमंड (diamond) आकार से जुड़ी है।"
+  },
+  {
+    "section": "Test of English Language and Comprehension1",
+    "topic": "Reading Comprehension",
+    "difficulty": "Easy",
+    "q_en": "<b>Comprehension:</b><br>Read the given passage and answer the questions that follow.<br><br>Whoever knew that cashew nuts, sugar, and ghee could come together to result in a decadent sweet that would arguably be hailed as one of the most versatile mithais! We say ‘versatile’ because no matter the occasion — festive or celebratory — you can never go wrong with a box of kaju katli. The filigree foil-coated diamond-shaped pieces of heaven have reigned supreme over the Indian mithai scene for decades now and they aren’t moving any time soon.<br><br>As you let your palate revel in the celebration of flavours this sweet brings to your mouth, have you ever stopped to wonder whether it was a ‘Eureka!’ moment that led to its creation or a similarly dramatic incident? You will be surprised to know there are two origin stories, one of which holds more popularity than the other. We leave it to you to decide which story reveals the true brains behind the creation of kaju katli.<br>Why is kaju katli considered versatile, according to the passage?",
+    "q_hi": "<b>Comprehension:</b><br>Read the given passage and answer the questions that follow.<br><br>Whoever knew that cashew nuts, sugar, and ghee could come together to result in a decadent sweet that would arguably be hailed as one of the most versatile mithais! We say ‘versatile’ because no matter the occasion — festive or celebratory — you can never go wrong with a box of kaju katli. The filigree foil-coated diamond-shaped pieces of heaven have reigned supreme over the Indian mithai scene for decades now and they aren’t moving any time soon.<br><br>As you let your palate revel in the celebration of flavours this sweet brings to your mouth, have you ever stopped to wonder whether it was a ‘Eureka!’ moment that led to its creation or a similarly dramatic incident? You will be surprised to know there are two origin stories, one of which holds more popularity than the other. We leave it to you to decide which story reveals the true brains behind the creation of kaju katli.<br>Why is kaju katli considered versatile, according to the passage?",
+    "op_en": [
+      "It is the least expensive of all mithais.",
+      "It is suitable for both festive and celebratory occasions.",
+      "It is easy to make in large quantities.",
+      "It is a recent addition to the Indian mithai scene."
+    ],
+    "op_hi": [
+      "It is the least expensive of all mithais.",
+      "It is suitable for both festive and celebratory occasions.",
+      "It is easy to make in large quantities.",
+      "It is a recent addition to the Indian mithai scene."
+    ],
+    "ans": 2,
+    "solution": "<b>Solution (EN):</b><br>The author answers this directly in the passage: \"We say ‘versatile’ because <b>no matter the occasion — festive or celebratory</b> — you can never go wrong with a box of kaju katli.\" Option 2 perfectly captures this reason.<br><br><b>Solution (HI):</b><br>लेखक ने गद्यांश में इसका सीधा उत्तर दिया है: \"We say ‘versatile’ because no matter the occasion — festive or celebratory — you can never go wrong with a box of kaju katli.\" (हम इसे 'बहुमुखी' कहते हैं क्योंकि अवसर चाहे कोई भी हो - त्योहारी या उत्सव - आप काजू कतली के डिब्बे के साथ कभी गलत नहीं हो सकते)। विकल्प 2 इस कारण को पूरी तरह से दर्शाता है।"
+  }
+]
