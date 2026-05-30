@@ -1,0 +1,422 @@
+[
+  {
+    "section": "General Awareness1",
+    "topic": "Biology",
+    "difficulty": "Hard",
+    "q_en": "The dormant forms of malaria parasites that remain in the liver are known as:",
+    "q_hi": "मलेरिया परजीवियों के सुप्त रूप जो यकृत में रहते हैं, कहलाते हैं:",
+    "op_en": [
+      "sporozoites",
+      "hypnozoites",
+      "gametocytes",
+      "merozoites"
+    ],
+    "op_hi": [
+      "स्पोरोज़ोइट्स",
+      "हिप्नोज़ोइट्स",
+      "गैमेटोसाइट्स",
+      "मेरोज़ोइट्स"
+    ],
+    "ans": 2,
+    "solution": "<b>Solution (EN):</b><br>Hypnozoites are the dormant stages of the malaria parasites (specifically <i>Plasmodium vivax</i> and <i>Plasmodium ovale</i>) that can persist in the liver for weeks or even years, causing clinical relapses of malaria.<br><br><b>Solution (HI):</b><br>हिप्नोज़ोइट्स (Hypnozoites) मलेरिया परजीवियों (विशेष रूप से <i>प्लास्मोडियम वाइवैक्स</i> और <i>प्लास्मोडियम ओवले</i>) के सुप्त चरण हैं जो हफ्तों या वर्षों तक यकृत (liver) में रह सकते हैं, जिससे मलेरिया फिर से हो सकता है।<br><br><b>Key Fact:</b><br>The term \"hypnozoite\" comes from the Greek word \"hypnos\" meaning sleep. Sporozoites are the infective stage transmitted by mosquitoes, which then infect the liver."
+  },
+  {
+    "section": "General Awareness1",
+    "topic": "Awards and Honours",
+    "difficulty": "Medium",
+    "q_en": "Who among the following was awarded the Padma Shri in 2024 for contributions to Science and Engineering from Delhi?",
+    "q_hi": "निम्नलिखित में से किसे दिल्ली से विज्ञान और इंजीनियरिंग में योगदान के लिए 2024 में पद्म श्री से सम्मानित किया गया था?",
+    "op_en": [
+      "Dr. Raghunath Anant Mashelkar",
+      "Dr. Shailesh Nayak",
+      "Dr. K Sivan",
+      "Dr. CNR Rao"
+    ],
+    "op_hi": [
+      "डॉ. रघुनाथ अनंत माशेलकर",
+      "डॉ. शैलेश नायक",
+      "डॉ. के सीवान",
+      "डॉ. सीएनआर राव"
+    ],
+    "ans": 2,
+    "solution": "<b>Solution (EN):</b><br>Dr. Shailesh Nayak, an eminent Indian scientist and former Secretary of the Ministry of Earth Sciences, was awarded the Padma Shri in 2024 in the field of Science and Engineering.<br><br><b>Solution (HI):</b><br>एक प्रख्यात भारतीय वैज्ञानिक और पृथ्वी विज्ञान मंत्रालय के पूर्व सचिव, डॉ. शैलेश नायक को विज्ञान और इंजीनियरिंग के क्षेत्र में 2024 में पद्म श्री से सम्मानित किया गया था।<br><br><b>Key Fact:</b><br>Dr. Nayak is globally recognized for his work in establishing the Tsunami Warning System in India."
+  },
+  {
+    "section": "General Awareness1",
+    "topic": "Physics",
+    "difficulty": "Medium",
+    "q_en": "Which of the following is the magnetic field at a point inside a toroid?",
+    "q_hi": "किसी टोरॉइड के अंदर किसी बिंदु पर चुंबकीय क्षेत्र निम्नलिखित में से क्या होता है?",
+    "op_en": [
+      "0",
+      "Cannot be determined",
+      "&infin;",
+      "1"
+    ],
+    "op_hi": [
+      "0",
+      "निर्धारित नहीं किया जा सकता",
+      "&infin;",
+      "1"
+    ],
+    "ans": 1,
+    "solution": "<b>Solution (EN):</b><br>According to Ampere's Circuital Law, the magnetic field in the empty space (the hollow central part) enclosed by a toroid is zero, because there is no net current enclosed by an Amperian loop in that region. The magnetic field outside the toroid is also zero.<br><br><b>Solution (HI):</b><br>एम्पीयर के परिपथीय नियम (Ampere's Circuital Law) के अनुसार, एक टोरॉइड द्वारा घिरे खाली स्थान (खोखले केंद्रीय भाग) में चुंबकीय क्षेत्र शून्य होता है, क्योंकि उस क्षेत्र में एम्पीरियन लूप द्वारा कोई शुद्ध धारा (net current) परिबद्ध नहीं होती है। टोरॉइड के बाहर भी चुंबकीय क्षेत्र शून्य होता है।<br><br><b>Key Fact:</b><br>The magnetic field is non-zero ONLY within the core of the toroid (the space where the turns are wound), given by the formula $B = \\\\mu_0 n I$."
+  },
+  {
+    "section": "General Awareness1",
+    "topic": "Polity",
+    "difficulty": "Hard",
+    "q_en": "How many members were nominated by the Speaker to the Standing Committee on Ethics, which was established during the 16<sup>th</sup> Lok Sabha under Rule 316A?",
+    "q_hi": "16वीं लोकसभा के दौरान नियम 316A के तहत स्थापित आचार समिति (Standing Committee on Ethics) में अध्यक्ष द्वारा कितने सदस्यों को नामित किया गया था?",
+    "op_en": [
+      "8",
+      "15",
+      "13",
+      "10"
+    ],
+    "op_hi": [
+      "8",
+      "15",
+      "13",
+      "10"
+    ],
+    "ans": 2,
+    "solution": "<b>Solution (EN):</b><br>According to Rule 316A of the Rules of Procedure and Conduct of Business in Lok Sabha, the Committee on Ethics consists of not more than 15 members nominated by the Speaker.<br><br><b>Solution (HI):</b><br>लोकसभा में प्रक्रिया और कार्य संचालन के नियमों के नियम 316A के अनुसार, आचार समिति (Committee on Ethics) में अध्यक्ष द्वारा नामित अधिकतम 15 सदस्य होते हैं।<br><br><b>Key Fact:</b><br>The Ethics Committee of the Rajya Sabha, on the other hand, consists of 10 members."
+  },
+  {
+    "section": "General Awareness1",
+    "topic": "History",
+    "difficulty": "Medium",
+    "q_en": "The Begumpuri Mosque in Delhi was built during the reign of which of the following rulers?",
+    "q_hi": "दिल्ली में बेगमपुरी मस्जिद का निर्माण निम्नलिखित में से किस शासक के शासनकाल में हुआ था?",
+    "op_en": [
+      "Sikandar Lodi",
+      "Alauddin Khilji",
+      "Sultan Iltutmish",
+      "Muhammad Tughluq"
+    ],
+    "op_hi": [
+      "सिकंदर लोदी",
+      "अलाउद्दीन खिलजी",
+      "सुल्तान इल्तुतमिश",
+      "मुहम्मद तुगलक"
+    ],
+    "ans": 4,
+    "solution": "<b>Solution (EN):</b><br>The Begumpuri Mosque was built in the 14th century during the reign of Muhammad bin Tughluq. It served as one of the principal mosques of Jahanpanah, the new capital city founded by him in Delhi.<br><br><b>Solution (HI):</b><br>बेगमपुरी मस्जिद का निर्माण 14वीं शताब्दी में मुहम्मद बिन तुगलक के शासनकाल के दौरान किया गया था। यह दिल्ली में उनके द्वारा स्थापित नई राजधानी जहांपनाह (Jahanpanah) की प्रमुख मस्जिदों में से एक थी।<br><br><b>Key Fact:</b><br>Jahanpanah was the fourth medieval city of Delhi, built to protect the residents from Mongol attacks."
+  },
+  {
+    "section": "General Awareness1",
+    "topic": "History",
+    "difficulty": "Easy",
+    "q_en": "Who was defeated by Sher Shah Suri in the battles of Chausa in 1539?",
+    "q_hi": "1539 में चौसा के युद्ध में शेर शाह सूरी ने किसे हराया था?",
+    "op_en": [
+      "Jalaluddin Khalji",
+      "Ghiyasuddin Tughluq",
+      "Humayun",
+      "Sikandar Lodi"
+    ],
+    "op_hi": [
+      "जलालुद्दीन खिलजी",
+      "गयासुद्दीन तुगलक",
+      "हुमायूँ",
+      "सिकंदर लोदी"
+    ],
+    "ans": 3,
+    "solution": "<b>Solution (EN):</b><br>The Battle of Chausa was fought on June 26, 1539, between the Mughal Emperor Humayun and the Afghan warlord Sher Shah Suri. Humayun suffered a severe defeat and had to plunge into the Ganges to save his life.<br><br><b>Solution (HI):</b><br>चौसा का युद्ध 26 जून, 1539 को मुगल सम्राट हुमायूँ और अफगान शासक शेर शाह सूरी के बीच लड़ा गया था। हुमायूँ को करारी हार का सामना करना पड़ा और उसे अपनी जान बचाने के लिए गंगा नदी में कूदना पड़ा।<br><br><b>Key Fact:</b><br>The defeat at Chausa, followed by another crushing defeat at Kannauj in 1540, forced Humayun into exile for 15 years."
+  },
+  {
+    "section": "General Awareness1",
+    "topic": "History",
+    "difficulty": "Medium",
+    "q_en": "Secundrah Bagh, held by the rebel sepoys in 1857, is located in which of the following places?",
+    "q_hi": "1857 में विद्रोही सिपाहियों के कब्जे में रहा सिकंदर बाग (Secundrah Bagh) निम्नलिखित में से किस स्थान पर स्थित है?",
+    "op_en": [
+      "Kanpur",
+      "Delhi",
+      "Meerut",
+      "Lucknow"
+    ],
+    "op_hi": [
+      "कानपुर",
+      "दिल्ली",
+      "मेरठ",
+      "लखनऊ"
+    ],
+    "ans": 4,
+    "solution": "<b>Solution (EN):</b><br>Sikandar Bagh (often written as Secundrah Bagh) is a historic villa and garden in Lucknow, Uttar Pradesh. It was the site of a fierce battle during the Indian Rebellion of 1857, where hundreds of rebel sepoys were killed by British forces.<br><br><b>Solution (HI):</b><br>सिकंदर बाग (Sikandar Bagh) उत्तर प्रदेश के लखनऊ में एक ऐतिहासिक विला और उद्यान है। यह 1857 के भारतीय विद्रोह के दौरान एक भयंकर लड़ाई का स्थल था, जहां ब्रिटिश सेना द्वारा सैकड़ों विद्रोही सिपाहियों को मार दिया गया था।<br><br><b>Key Fact:</b><br>The garden was built by the last Nawab of Oudh, Wajid Ali Shah, and named after his favorite wife, Sikandar Mahal."
+  },
+  {
+    "section": "General Awareness1",
+    "topic": "Polity",
+    "difficulty": "Medium",
+    "q_en": "Which of the following parts of the Indian Constitution contains Article 239A that addresses the creation of local legislatures or councils of ministers, or both, for certain union territories?",
+    "q_hi": "भारतीय संविधान के निम्नलिखित में से किस भाग में अनुच्छेद 239A है जो कुछ केंद्र शासित प्रदेशों के लिए स्थानीय विधानसभाओं या मंत्रिपरिषद, या दोनों के निर्माण को संबोधित करता है?",
+    "op_en": [
+      "Part VIII",
+      "Part V",
+      "Part VII",
+      "Part VI"
+    ],
+    "op_hi": [
+      "भाग VIII",
+      "भाग V",
+      "भाग VII",
+      "भाग VI"
+    ],
+    "ans": 1,
+    "solution": "<b>Solution (EN):</b><br>Part VIII of the Indian Constitution (Articles 239 to 242) deals with the administration of Union Territories. Article 239A specifically provides for the creation of local Legislatures or Council of Ministers, or both, for certain Union territories like Puducherry.<br><br><b>Solution (HI):</b><br>भारतीय संविधान का भाग VIII (अनुच्छेद 239 से 242) केंद्र शासित प्रदेशों के प्रशासन से संबंधित है। विशेष रूप से अनुच्छेद 239A पुडुचेरी जैसे कुछ केंद्र शासित प्रदेशों के लिए स्थानीय विधानसभाओं या मंत्रिपरिषद, या दोनों के निर्माण का प्रावधान करता है।<br><br><b>Key Fact:</b><br>Article 239AA, inserted later by the 69th Amendment, contains special provisions with respect to Delhi, designating it as the National Capital Territory (NCT)."
+  },
+  {
+    "section": "General Awareness1",
+    "topic": "Current Affairs",
+    "difficulty": "Easy",
+    "q_en": "In 2024, where in India was the World Heritage Committee Meeting hosted for the first time?",
+    "q_hi": "2024 में, भारत में पहली बार विश्व धरोहर समिति (World Heritage Committee) की बैठक कहाँ आयोजित की गई थी?",
+    "op_en": [
+      "Gateway of India, Mumbai",
+      "Lalbagh Gardens, Bengaluru",
+      "Bharat Mandapam, New Delhi",
+      "Charminar, Hyderabad"
+    ],
+    "op_hi": [
+      "गेटवे ऑफ इंडिया, मुंबई",
+      "लालबाग बॉटनिकल गार्डन, बेंगलुरु",
+      "भारत मंडपम, नई दिल्ली",
+      "चारमीनार, हैदराबाद"
+    ],
+    "ans": 3,
+    "solution": "<b>Solution (EN):</b><br>India hosted the 46<sup>th</sup> session of the UNESCO World Heritage Committee for the first time in July 2024. The prestigious global event was held at the Bharat Mandapam in New Delhi.<br><br><b>Solution (HI):</b><br>भारत ने जुलाई 2024 में पहली बार यूनेस्को विश्व धरोहर समिति के 46वें सत्र की मेजबानी की। यह प्रतिष्ठित वैश्विक कार्यक्रम नई दिल्ली के भारत मंडपम (Bharat Mandapam) में आयोजित किया गया था।<br><br><b>Key Fact:</b><br>Bharat Mandapam is the same state-of-the-art convention center that hosted the highly successful G20 Summit in September 2023."
+  },
+  {
+    "section": "General Awareness1",
+    "topic": "Current Affairs",
+    "difficulty": "Hard",
+    "q_en": "As of 30 October 2024, Mukesh Ahlawat is the Cabinet Minister of which of the following areas in the Delhi Government?",
+    "q_hi": "30 अक्टूबर 2024 तक, मुकेश अहलावत दिल्ली सरकार में निम्नलिखित में से किस क्षेत्र के कैबिनेट मंत्री हैं?",
+    "op_en": [
+      "Art, Culture and Language",
+      "Urban Development and Irrigation",
+      "Gurudwara Elections and SC & ST",
+      "Development and Environment"
+    ],
+    "op_hi": [
+      "कला, संस्कृति और भाषा",
+      "शहरी विकास और सिंचाई",
+      "गुरुद्वारा चुनाव और एससी एवं एसटी",
+      "विकास और पर्यावरण"
+    ],
+    "ans": 3,
+    "solution": "<b>Solution (EN):</b><br>In the newly formed Delhi Government cabinet under Chief Minister Atishi in late 2024, Mukesh Ahlawat (MLA from Sultanpur Majra) was inducted as a minister and was assigned the portfolios of SC/ST welfare, Gurudwara Elections, and Labour.<br><br><b>Solution (HI):</b><br>2024 के अंत में मुख्यमंत्री आतिशी के नेतृत्व में नवगठित दिल्ली सरकार के मंत्रिमंडल में, मुकेश अहलावत (सुल्तानपुर माजरा से विधायक) को मंत्री के रूप में शामिल किया गया था और उन्हें एससी/एसटी कल्याण (SC/ST welfare), गुरुद्वारा चुनाव (Gurudwara Elections) और श्रम (Labour) विभाग सौंपे गए थे।<br><br><b>Key Fact:</b><br>Mukesh Ahlawat was the new face added to the Delhi Cabinet following the resignation of Arvind Kejriwal."
+  },
+  {
+    "section": "General Awareness1",
+    "topic": "Biology",
+    "difficulty": "Easy",
+    "q_en": "The nucleus, mitochondria and chloroplast can be considered as:",
+    "q_hi": "केंद्रक, माइटोकॉन्ड्रिया और क्लोरोप्लास्ट को किस रूप में माना जा सकता है:",
+    "op_en": [
+      "membrane-bound organelles",
+      "permeable organs",
+      "non-membranous organelles",
+      "autonomous organelles"
+    ],
+    "op_hi": [
+      "झिल्ली-बद्ध अंगक (membrane-bound organelles)",
+      "पारगम्य अंग (permeable organs)",
+      "गैर-झिल्लीदार अंगक (non-membranous organelles)",
+      "स्वायत्त अंगक (autonomous organelles)"
+    ],
+    "ans": 1,
+    "solution": "<b>Solution (EN):</b><br>The nucleus, mitochondria, and chloroplasts are classic examples of membrane-bound organelles found in eukaryotic cells. Specifically, they are double membrane-bound organelles.<br><br><b>Solution (HI):</b><br>केंद्रक (nucleus), माइटोकॉन्ड्रिया (mitochondria), और क्लोरोप्लास्ट (chloroplasts) यूकेरियोटिक कोशिकाओं में पाए जाने वाले झिल्ली-बद्ध अंगकों (membrane-bound organelles) के उत्कृष्ट उदाहरण हैं। विशेष रूप से, वे दोहरी झिल्ली से घिरे अंगक हैं।<br><br><b>Key Fact:</b><br>Ribosomes and centrosomes are examples of non-membranous organelles."
+  },
+  {
+    "section": "General Awareness1",
+    "topic": "Physics",
+    "difficulty": "Medium",
+    "q_en": "The electron spin theory describes the electron as a:",
+    "q_hi": "इलेक्ट्रॉन स्पिन सिद्धांत इलेक्ट्रॉन का वर्णन किस रूप में करता है:",
+    "op_en": [
+      "simple sphere",
+      "quantum particle",
+      "non-quantum particle",
+      "non-magnetic particle"
+    ],
+    "op_hi": [
+      "साधारण गोला (simple sphere)",
+      "क्वांटम कण (quantum particle)",
+      "गैर-क्वांटम कण (non-quantum particle)",
+      "गैर-चुंबकीय कण (non-magnetic particle)"
+    ],
+    "ans": 2,
+    "solution": "<b>Solution (EN):</b><br>Electron spin is a fundamental quantum property of electrons. Unlike a classical spinning sphere, electron spin is intrinsically a quantum mechanical phenomenon, describing the electron as a quantum particle with intrinsic angular momentum.<br><br><b>Solution (HI):</b><br>इलेक्ट्रॉन स्पिन (electron spin) इलेक्ट्रॉनों का एक मौलिक क्वांटम गुण है। एक शास्त्रीय (classical) घूमते हुए गोले के विपरीत, इलेक्ट्रॉन स्पिन आंतरिक रूप से एक क्वांटम यांत्रिक घटना है, जो इलेक्ट्रॉन को आंतरिक कोणीय गति (intrinsic angular momentum) वाले क्वांटम कण के रूप में वर्णित करती है।<br><br><b>Key Fact:</b><br>The concept of electron spin was proposed by George Uhlenbeck and Samuel Goudsmit in 1925."
+  },
+  {
+    "section": "General Awareness1",
+    "topic": "Government Schemes",
+    "difficulty": "Medium",
+    "q_en": "What level of financial support does the Delhi Arogya Kosh (DAK) provide for the treatment of illnesses or diseases in government hospitals as of 30 October 2024?",
+    "q_hi": "30 अक्टूबर 2024 तक, दिल्ली आरोग्य कोष (DAK) सरकारी अस्पतालों में बीमारियों के इलाज के लिए किस स्तर की वित्तीय सहायता प्रदान करता है?",
+    "op_en": [
+      "₹2 lakh",
+      "₹5 lakh",
+      "₹3 lakh",
+      "₹10 lakh"
+    ],
+    "op_hi": [
+      "₹2 लाख",
+      "₹5 लाख",
+      "₹3 लाख",
+      "₹10 लाख"
+    ],
+    "ans": 2,
+    "solution": "<b>Solution (EN):</b><br>The Delhi Arogya Kosh (DAK) is a scheme by the Delhi Government that provides financial assistance up to ₹5 lakh to eligible patients for various medical treatments, surgeries, and interventions in government-recognized hospitals.<br><br><b>Solution (HI):</b><br>दिल्ली आरोग्य कोष (DAK) दिल्ली सरकार की एक योजना है जो सरकारी मान्यता प्राप्त अस्पतालों में विभिन्न चिकित्सा उपचारों, सर्जरी और हस्तक्षेपों के लिए पात्र रोगियों को ₹5 लाख तक की वित्तीय सहायता प्रदान करती है।<br><br><b>Key Fact:</b><br>The DAK scheme ensures that residents of Delhi with a valid voter ID can access expensive medical procedures free of cost or with substantial financial support."
+  },
+  {
+    "section": "General Awareness1",
+    "topic": "Sports",
+    "difficulty": "Hard",
+    "q_en": "Which edition of the Delhi Triathlon will take place in 2025?",
+    "q_hi": "2025 में दिल्ली ट्रायथलॉन का कौन सा संस्करण आयोजित होगा?",
+    "op_en": [
+      "14th edition",
+      "13th edition",
+      "12th edition",
+      "11th edition"
+    ],
+    "op_hi": [
+      "14वां संस्करण",
+      "13वां संस्करण",
+      "12वां संस्करण",
+      "11वां संस्करण"
+    ],
+    "ans": 2,
+    "solution": "<b>Solution (EN):</b><br>The New Delhi Triathlon championship is an annual multi-sport event. In 2025, the 13th edition of the Delhi Triathlon is scheduled to be held, attracting athletes to compete in swimming, cycling, and running.<br><br><b>Solution (HI):</b><br>नई दिल्ली ट्रायथलॉन चैम्पियनशिप एक वार्षिक बहु-खेल आयोजन है। 2025 में, दिल्ली ट्रायथलॉन का 13वां संस्करण आयोजित होने वाला है, जिसमें एथलीट तैराकी, साइकिलिंग और दौड़ (running) में प्रतिस्पर्धा करने के लिए आकर्षित होंगे।<br><br><b>Key Fact:</b><br>A standard Olympic triathlon consists of a 1.5 km swim, a 40 km bike ride, and a 10 km run."
+  },
+  {
+    "section": "General Awareness1",
+    "topic": "Awards and Honours",
+    "difficulty": "Hard",
+    "q_en": "Which author won the AutHer Award, 2024, for Best Author Non-Fiction?",
+    "q_hi": "बेस्ट ऑथर नॉन-फिक्शन के लिए ऑथर अवार्ड (AutHer Award), 2024 किस लेखिका ने जीता?",
+    "op_en": [
+      "Tashan Mehta",
+      "Rajasree Variyar",
+      "Sudha Bharadwaj",
+      "Shabnam Minwalla"
+    ],
+    "op_hi": [
+      "ताशन मेहता",
+      "राजश्री वरियार",
+      "सुधा भारद्वाज",
+      "शबनम मिनवाला"
+    ],
+    "ans": 3,
+    "solution": "<b>Solution (EN):</b><br>Sudha Bharadwaj won the AutHer Award 2024 in the Best Author Non-Fiction category for her compelling book \"From Phansi Yard: My Year with the Women of Yerawada\".<br><br><b>Solution (HI):</b><br>सुधा भारद्वाज ने अपनी सम्मोहक पुस्तक \"फ्रॉम फाँसी यार्ड: माई ईयर विद द वीमेन ऑफ यरवदा (From Phansi Yard: My Year with the Women of Yerawada)\" के लिए सर्वश्रेष्ठ लेखिका नॉन-फिक्शन श्रेणी में ऑथर अवार्ड (AutHer Award) 2024 जीता।<br><br><b>Key Fact:</b><br>The AutHer Awards are presented annually to celebrate and honor Indian women writers who have made a significant impact in the literary field."
+  },
+  {
+    "section": "General Awareness1",
+    "topic": "History",
+    "difficulty": "Easy",
+    "q_en": "Which Delhi structure symbolises India's sacrifices during World War I?",
+    "q_hi": "दिल्ली की कौन सी संरचना प्रथम विश्व युद्ध के दौरान भारत के बलिदानों का प्रतीक है?",
+    "op_en": [
+      "Red Fort",
+      "Amar Jawan Jyoti",
+      "India Gate",
+      "Jantar Mantar"
+    ],
+    "op_hi": [
+      "लाल किला",
+      "अमर जवान ज्योति",
+      "इंडिया गेट",
+      "जंतर मंतर"
+    ],
+    "ans": 3,
+    "solution": "<b>Solution (EN):</b><br>India Gate (formerly known as the All India War Memorial) is a war memorial located astride the Rajpath in New Delhi. It stands as a memorial to 84,000 soldiers of the British Indian Army who died in between 1914 and 1921 in the First World War and the Third Anglo-Afghan War.<br><br><b>Solution (HI):</b><br>इंडिया गेट (जिसे पहले अखिल भारतीय युद्ध स्मारक के रूप में जाना जाता था) नई दिल्ली में राजपथ पर स्थित एक युद्ध स्मारक है। यह ब्रिटिश भारतीय सेना के उन 84,000 सैनिकों के स्मारक के रूप में खड़ा है जो 1914 और 1921 के बीच प्रथम विश्व युद्ध और तीसरे एंग्लो-अफगान युद्ध में मारे गए थे।<br><br><b>Key Fact:</b><br>The Amar Jawan Jyoti (Flame of the Immortal Soldier) was added under the arch of India Gate much later, in 1972, following the Indo-Pakistani War of 1971."
+  },
+  {
+    "section": "General Awareness1",
+    "topic": "Polity",
+    "difficulty": "Medium",
+    "q_en": "In which of the following years did Delhi hold its first assembly elections?",
+    "q_hi": "निम्नलिखित में से किस वर्ष दिल्ली में अपना पहला विधानसभा चुनाव हुआ था?",
+    "op_en": [
+      "1952",
+      "1954",
+      "1958",
+      "1956"
+    ],
+    "op_hi": [
+      "1952",
+      "1954",
+      "1958",
+      "1956"
+    ],
+    "ans": 1,
+    "solution": "<b>Solution (EN):</b><br>The first legislative assembly elections in Delhi were held in 1952 under the Government of Part C States Act, 1951. The Indian National Congress won a majority, and Chaudhary Brahm Prakash became the first Chief Minister of Delhi.<br><br><b>Solution (HI):</b><br>दिल्ली में पहले विधानसभा चुनाव 1952 में 'पार्ट सी स्टेट्स एक्ट, 1951' के तहत हुए थे। भारतीय राष्ट्रीय कांग्रेस ने बहुमत हासिल किया, और चौधरी ब्रह्म प्रकाश दिल्ली के पहले मुख्यमंत्री बने।<br><br><b>Key Fact:</b><br>The Delhi Legislative Assembly was abolished in 1956 under the States Reorganisation Act and later re-established in 1993 following the 69th Constitutional Amendment."
+  },
+  {
+    "section": "General Awareness1",
+    "topic": "Geography",
+    "difficulty": "Medium",
+    "q_en": "Which of the following mineral resources is obtained from the Aravalli Hills in the Delhi NCR region?",
+    "q_hi": "दिल्ली एनसीआर क्षेत्र में अरावली पहाड़ियों से निम्नलिखित में से कौन सा खनिज संसाधन प्राप्त होता है?",
+    "op_en": [
+      "Silver",
+      "Petroleum",
+      "Gold",
+      "Quartzite"
+    ],
+    "op_hi": [
+      "चांदी",
+      "पेट्रोलियम",
+      "सोना",
+      "क्वार्टजाइट (Quartzite)"
+    ],
+    "ans": 4,
+    "solution": "<b>Solution (EN):</b><br>The Aravalli hills in and around the Delhi NCR region (often referred to as the Delhi Ridge) are primarily composed of quartzite and sandstone rocks. Quartzite is the main mineral resource traditionally quarried from this region for construction purposes.<br><br><b>Solution (HI):</b><br>दिल्ली एनसीआर क्षेत्र (जिसे अक्सर दिल्ली रिज कहा जाता है) में अरावली की पहाड़ियाँ मुख्य रूप से क्वार्टजाइट और बलुआ पत्थर की चट्टानों से बनी हैं। क्वार्टजाइट मुख्य खनिज संसाधन है जिसे पारंपरिक रूप से निर्माण उद्देश्यों के लिए इस क्षेत्र से निकाला जाता है।<br><br><b>Key Fact:</b><br>Extensive mining in the Aravallis was banned by the Supreme Court of India to protect the environment and groundwater reserves of the NCR."
+  },
+  {
+    "section": "General Awareness1",
+    "topic": "History",
+    "difficulty": "Easy",
+    "q_en": "The Chandni Chowk area was designed during the reign of which Mughal emperor?",
+    "q_hi": "चांदनी चौक क्षेत्र का निर्माण किस मुगल सम्राट के शासनकाल के दौरान किया गया था?",
+    "op_en": [
+      "Aurangzeb",
+      "Shah Jahan",
+      "Babur",
+      "Akbar"
+    ],
+    "op_hi": [
+      "औरंगजेब",
+      "शाहजहाँ",
+      "बाबर",
+      "अकबर"
+    ],
+    "ans": 2,
+    "solution": "<b>Solution (EN):</b><br>Chandni Chowk, one of the oldest and busiest markets in Old Delhi, was built in the 17th century by the Mughal Emperor Shah Jahan and designed by his daughter Jahanara Begum. It was originally built with canals running through the center to reflect moonlight, hence the name \"Moonlight Square\".<br><br><b>Solution (HI):</b><br>चांदनी चौक, पुरानी दिल्ली के सबसे पुराने और व्यस्त बाजारों में से एक है, जिसे 17वीं शताब्दी में मुगल सम्राट शाहजहाँ द्वारा बनाया गया था और इसे उनकी बेटी जहाँआरा बेगम द्वारा डिजाइन किया गया था। मूल रूप से इसके केंद्र से नहरें बहती थीं जो चाँदनी को दर्शाती थीं, इसलिए इसका नाम \"चांदनी चौक\" (Moonlight Square) पड़ा।<br><br><b>Key Fact:</b><br>Shah Jahan also built the Red Fort and Jama Masjid in the vicinity as part of his new capital city, Shahjahanabad."
+  },
+  {
+    "section": "General Awareness1",
+    "topic": "Environment",
+    "difficulty": "Easy",
+    "q_en": "The 'Graded Response Action Plan' (GRAP) implemented in Delhi primarily addresses:",
+    "q_hi": "दिल्ली में लागू 'ग्रेडेड रिस्पांस एक्शन प्लान' (GRAP) मुख्य रूप से किससे संबंधित है?",
+    "op_en": [
+      "traffic congestion during peak hours",
+      "water scarcity in summer months",
+      "unemployment rates among youth",
+      "air pollution levels in the city"
+    ],
+    "op_hi": [
+      "पीक ऑवर्स के दौरान ट्रैफिक जाम",
+      "गर्मियों के महीनों में पानी की कमी",
+      "युवाओं में बेरोजगारी दर",
+      "शहर में वायु प्रदूषण का स्तर"
+    ],
+    "ans": 4,
+    "solution": "<b>Solution (EN):</b><br>The Graded Response Action Plan (GRAP) is a set of emergency measures implemented in Delhi and the National Capital Region (NCR) to combat deteriorating air quality. It is activated in stages according to the severity of air pollution (Moderate to Poor, Very Poor, Severe, and Severe+).<br><br><b>Solution (HI):</b><br>ग्रेडेड रिस्पांस एक्शन प्लान (GRAP) बिगड़ती वायु गुणवत्ता से निपटने के लिए दिल्ली और राष्ट्रीय राजधानी क्षेत्र (NCR) में लागू किए गए आपातकालीन उपायों का एक समूह है। यह वायु प्रदूषण की गंभीरता (मध्यम से खराब, बहुत खराब, गंभीर और गंभीर+) के अनुसार चरणों में सक्रिय होता है।<br><br><b>Key Fact:</b><br>GRAP measures include banning construction activities, restricting the entry of trucks, and odd-even vehicle rationing during severe pollution episodes."
+  }
+]
