@@ -1,0 +1,422 @@
+[
+  {
+    "ans": "1",
+    "difficulty": "Hard",
+    "op_en": [
+      "37 hours 16 minutes",
+      "38 hours 20 minutes",
+      "36 hours 45 minutes",
+      "39 hours 12 minutes"
+    ],
+    "op_hi": [
+      "37 घंटे 16 मिनट",
+      "38 घंटे 20 मिनट",
+      "36 घंटे 45 मिनट",
+      "39 घंटे 12 मिनट"
+    ],
+    "q_en": "Pipes A and B can fill a tank in 15 hours and 20 hours respectively, while Pipe C can empty the full tank in 25 hours. All three pipes are opened alternately for 1 hour each, starting with A, then B, and then C. In how much time will the empty tank be completely filled?",
+    "q_hi": "पाइप A और B एक टैंक को क्रमशः 15 घंटे और 20 घंटे में भर सकते हैं, जबकि पाइप C पूरे टैंक को 25 घंटे में खाली कर सकता है। तीनों पाइपों को A से शुरू करते हुए बारी-बारी से 1-1 घंटे के लिए खोला जाता है (पहले A, फिर B, और फिर C)। खाली टैंक को पूरी तरह भरने में कितना समय लगेगा?",
+    "section": "Arithmetical and Numerical Ability1",
+    "solution": "<b>Solution (EN):</b><br>Let the total capacity of the tank be the LCM of 15, 20, and 25, which is 300 units.<br>Efficiency of Pipe A = 300 &divide; 15 = 20 units/hour.<br>Efficiency of Pipe B = 300 &divide; 20 = 15 units/hour.<br>Efficiency of Pipe C = 300 &divide; 25 = &minus;12 units/hour (emptying).<br>In a 3-hour cycle (A + B + C), work done = 20 + 15 &minus; 12 = 23 units.<br>To ensure we don't overshoot, find max full cycles before the peak contribution: 300 &minus; (20 + 15) = 265 units.<br>23 units &times; 11 cycles = 253 units in 33 hours.<br>34th hour: A fills 20 units. Total = 253 + 20 = 273 units.<br>35th hour: B fills 15 units. Total = 273 + 15 = 288 units.<br>36th hour: C empties 12 units. Total = 288 &minus; 12 = 276 units.<br>37th hour: A fills 20 units. Total = 276 + 20 = 296 units.<br>38th hour: Now B needs to fill the remaining 4 units. B fills 15 units in 60 minutes.<br>Time taken by B for 4 units = (4 / 15) &times; 60 = 16 minutes.<br>Total time = 37 hours and 16 minutes.<br><br><b>Solution (HI):</b><br>माना टैंक की कुल क्षमता 15, 20 और 25 का LCM है, जो 300 इकाई है।<br>पाइप A की कार्यक्षमता = 300 &divide; 15 = 20 इकाई/घंटा।<br>पाइप B की कार्यक्षमता = 300 &divide; 20 = 15 इकाई/घंटा।<br>पाइप C की कार्यक्षमता = 300 &divide; 25 = &minus;12 इकाई/घंटा (खाली करना)।<br>3 घंटे के चक्र में (A + B + C), किया गया कार्य = 20 + 15 &minus; 12 = 23 इकाई।<br>अंतिम भराव से पहले अधिकतम पूर्ण चक्र ज्ञात करें: 300 &minus; (20 + 15) = 265 इकाई।<br>23 इकाई &times; 11 चक्र = 33 घंटे में 253 इकाई।<br>34वें घंटे में: A 20 इकाई भरता है। कुल = 253 + 20 = 273 इकाई।<br>35वें घंटे में: B 15 इकाई भरता है। कुल = 273 + 15 = 288 इकाई।<br>36वें घंटे में: C 12 इकाई खाली करता है। कुल = 288 &minus; 12 = 276 इकाई।<br>37वें घंटे में: A 20 इकाई भरता है। कुल = 276 + 20 = 296 इकाई।<br>अब टैंक को पूरा भरने के लिए 4 इकाई और चाहिए जो B भरेगा। B 60 मिनट में 15 इकाई भरता है।<br>B द्वारा 4 इकाई के लिए लिया गया समय = (4 / 15) &times; 60 = 16 मिनट।<br>कुल समय = 37 घंटे और 16 मिनट।<br><br><b>Short Trick:</b><br>Cycle of 3 hrs = 23. Max positive work in cycle = 35. Work till (300 - 35) = 265. Nearest multiple is 23 &times; 11 = 253 in 33 hrs. Add sequence manually: 34th hr (A=20) &rarr; 273, 35th hr (B=15) &rarr; 288, 36th hr (C=-12) &rarr; 276, 37th hr (A=20) &rarr; 296. Remaining 4 units by B takes 4/15 hr = 16 mins. Total = 37 hrs 16 mins.",
+    "topic": "Time and Work"
+  },
+  {
+    "ans": "1",
+    "difficulty": "Hard",
+    "op_en": [
+      "₹17,150",
+      "₹18,050",
+      "₹16,500",
+      "₹19,200"
+    ],
+    "op_hi": [
+      "₹17,150",
+      "₹18,050",
+      "₹16,500",
+      "₹19,200"
+    ],
+    "q_en": "A man borrowed ₹38,100 at 16.66% per annum compound interest, compounded annually. He promised to clear the loan in three equal annual installments. Find the value of each installment.",
+    "q_hi": "एक व्यक्ति ने 16.66% वार्षिक चक्रवृद्धि ब्याज की दर से ₹38,100 उधार लिए, जो वार्षिक रूप से संयोजित होता है। उसने तीन समान वार्षिक किस्तों में ऋण चुकाने का वादा किया। प्रत्येक किस्त का मान ज्ञात कीजिए।",
+    "section": "Arithmetical and Numerical Ability1",
+    "solution": "<b>Solution (EN):</b><br>Rate of interest = 16.66% = 1/6.<br>This means for every ₹6 borrowed, ₹7 has to be paid back. So, the multiplying factor is 7/6.<br>Let the equal annual installment be X.<br>Principal (P) = Sum of present values of all installments.<br>P = X &times; [ (6/7) + (6/7)<sup>2</sup> + (6/7)<sup>3</sup> ]<br>38100 = X &times; [ (6/7) + (36/49) + (216/343) ]<br>Taking LCM as 343:<br>38100 = X &times; [ (294 + 252 + 216) / 343 ]<br>38100 = X &times; [ 762 / 343 ]<br>X = 38100 &times; (343 / 762)<br>X = 50 &times; 343 = ₹17,150.<br>The value of each installment is ₹17,150.<br><br><b>Solution (HI):</b><br>ब्याज दर = 16.66% = 1/6.<br>इसका मतलब है कि उधार लिए गए प्रत्येक ₹6 के लिए ₹7 चुकाने होंगे। अतः, गुणक 7/6 है।<br>माना समान वार्षिक किस्त X है।<br>मूलधन (P) = सभी किस्तों के वर्तमान मूल्यों का योग।<br>P = X &times; [ (6/7) + (6/7)<sup>2</sup> + (6/7)<sup>3</sup> ]<br>38100 = X &times; [ (6/7) + (36/49) + (216/343) ]<br>LCM 343 लेने पर:<br>38100 = X &times; [ (294 + 252 + 216) / 343 ]<br>38100 = X &times; [ 762 / 343 ]<br>X = 38100 &times; (343 / 762)<br>X = 50 &times; 343 = ₹17,150.<br>प्रत्येक किस्त का मान ₹17,150 है।<br><br><b>Short Trick:</b><br>Fraction for 16.66% is 1/6. Multiplier = 7/6.<br>P : I formula for 3 years is P = I &times; (6/7 + 36/49 + 216/343) = I &times; (762/343).<br>Since 38100 = I &times; (762/343), I = 50 &times; 343 = 17150.",
+    "topic": "Compound Interest"
+  },
+  {
+    "ans": "1",
+    "difficulty": "Hard",
+    "op_en": [
+      "125 : 91",
+      "125 : 216",
+      "91 : 125",
+      "216 : 91"
+    ],
+    "op_hi": [
+      "125 : 91",
+      "125 : 216",
+      "91 : 125",
+      "216 : 91"
+    ],
+    "q_en": "A vessel contains 120 liters of pure wine. 20 liters of wine is taken out and replaced with water. This process is repeated two more times. What is the ratio of wine to water in the final mixture?",
+    "q_hi": "एक बर्तन में 120 लीटर शुद्ध वाइन है। 20 लीटर वाइन निकाली जाती है और उसकी जगह पानी डाल दिया जाता है। यह प्रक्रिया दो बार और दोहराई जाती है। अंतिम मिश्रण में वाइन और पानी का अनुपात क्या है?",
+    "section": "Arithmetical and Numerical Ability1",
+    "solution": "<b>Solution (EN):</b><br>Initial quantity of pure wine (V) = 120 liters.<br>Quantity replaced each time (x) = 20 liters.<br>Number of operations (n) = 1 + 2 = 3 times.<br>Final quantity of wine = Initial quantity &times; (1 &minus; x/V)<sup>n</sup><br>Final Wine = 120 &times; (1 &minus; 20/120)<sup>3</sup><br>Final Wine = 120 &times; (1 &minus; 1/6)<sup>3</sup> = 120 &times; (5/6)<sup>3</sup><br>Final Wine = 120 &times; (125 / 216) = (20 &times; 125) / 36 = (5 &times; 125) / 9 = 625 / 9 liters.<br>Total mixture remains 120 liters.<br>Amount of Water = Total volume &minus; Final Wine = 120 &minus; 625/9 = (1080 &minus; 625) / 9 = 455 / 9 liters.<br>Ratio of Wine to Water = (625 / 9) : (455 / 9) = 625 : 455.<br>Divide both sides by 5: Ratio = 125 : 91.<br><br><b>Solution (HI):</b><br>शुद्ध वाइन की प्रारंभिक मात्रा (V) = 120 लीटर।<br>हर बार बदली गई मात्रा (x) = 20 लीटर।<br>प्रक्रियाओं की संख्या (n) = 1 + 2 = 3 बार।<br>वाइन की अंतिम मात्रा = प्रारंभिक मात्रा &times; (1 &minus; x/V)<sup>n</sup><br>अंतिम वाइन = 120 &times; (1 &minus; 20/120)<sup>3</sup><br>अंतिम वाइन = 120 &times; (1 &minus; 1/6)<sup>3</sup> = 120 &times; (5/6)<sup>3</sup><br>अंतिम वाइन = 120 &times; (125 / 216) = (20 &times; 125) / 36 = (5 &times; 125) / 9 = 625 / 9 लीटर।<br>कुल मिश्रण 120 लीटर रहता है।<br>पानी की मात्रा = कुल आयतन &minus; अंतिम वाइन = 120 &minus; 625/9 = (1080 &minus; 625) / 9 = 455 / 9 लीटर।<br>वाइन और पानी का अनुपात = (625 / 9) : (455 / 9) = 625 : 455.<br>दोनों पक्षों को 5 से विभाजित करने पर: अनुपात = 125 : 91.<br><br><b>Short Trick:</b><br>Fraction of wine remaining after each replacement = 1 &minus; 20/120 = 5/6.<br>After 3 replacements, the fraction of wine = (5/6)<sup>3</sup> = 125/216.<br>This means out of 216 parts of the total mixture, wine is 125 parts.<br>Water = 216 &minus; 125 = 91 parts.<br>Ratio of wine to water = 125 : 91.",
+    "topic": "Mixture and Alligation"
+  },
+  {
+    "ans": "1",
+    "difficulty": "Hard",
+    "op_en": [
+      "48",
+      "54",
+      "60",
+      "72"
+    ],
+    "op_hi": [
+      "48",
+      "54",
+      "60",
+      "72"
+    ],
+    "q_en": "A train meets with an accident 50 km from its starting point. After the accident, it proceeds at 3/4th of its original speed and reaches its destination 35 minutes late. Had the accident happened 24 km further along the route, it would have been only 25 minutes late. Find the original speed of the train (in km/h).",
+    "q_hi": "एक ट्रेन अपने शुरुआती बिंदु से 50 किमी दूर दुर्घटनाग्रस्त हो जाती है। दुर्घटना के बाद, यह अपनी मूल गति के 3/4 भाग से आगे बढ़ती है और अपने गंतव्य पर 35 मिनट देरी से पहुंचती है। यदि दुर्घटना मार्ग पर 24 किमी आगे हुई होती, तो यह केवल 25 मिनट लेट होती। ट्रेन की मूल गति (किमी/घंटा में) ज्ञात कीजिए।",
+    "section": "Arithmetical and Numerical Ability1",
+    "solution": "<b>Solution (EN):</b><br>The delay of the train is caused solely by traveling at the reduced speed (3/4 of original speed v) instead of the original speed.<br>Delay difference = 35 minutes &minus; 25 minutes = 10 minutes.<br>This 10-minute difference in delay is due to traveling the extra 24 km at the original speed 'v' rather than the reduced speed '3v/4'.<br>Time taken to cover 24 km at reduced speed &minus; Time taken at original speed = 10 minutes = 10/60 hours.<br>24 / (3v/4) &minus; 24 / v = 1/6<br>32 / v &minus; 24 / v = 1/6<br>8 / v = 1 / 6<br>v = 8 &times; 6 = 48 km/h.<br>The original speed of the train is 48 km/h.<br><br><b>Solution (HI):</b><br>ट्रेन की देरी पूरी तरह से मूल गति की बजाय कम गति (मूल गति v का 3/4) पर यात्रा करने के कारण होती है।<br>देरी में अंतर = 35 मिनट &minus; 25 मिनट = 10 मिनट।<br>देरी में यह 10 मिनट का अंतर घटी हुई गति '3v/4' के बजाय मूल गति 'v' पर अतिरिक्त 24 किमी की यात्रा करने के कारण है।<br>कम गति पर 24 किमी तय करने में लगा समय &minus; मूल गति पर लगा समय = 10 मिनट = 10/60 घंटे।<br>24 / (3v/4) &minus; 24 / v = 1/6<br>32 / v &minus; 24 / v = 1/6<br>8 / v = 1 / 6<br>v = 8 &times; 6 = 48 किमी/घंटा।<br>ट्रेन की मूल गति 48 किमी/घंटा है।<br><br><b>Short Trick:</b><br>Delay difference = 10 mins (1/6 hr) for 24 km. <br>When speed becomes 3/4, time becomes 4/3. Delay is 1/3 of the normal time for that section.<br>So, 1/3 of (normal time for 24 km) = 10 mins.<br>Normal time for 24 km = 30 mins = 1/2 hour.<br>Original Speed = Distance / Normal Time = 24 / (1/2) = 48 km/h.",
+    "topic": "Time, Speed and Distance"
+  },
+  {
+    "ans": "1",
+    "difficulty": "Easy",
+    "op_en": [
+      "86400",
+      "86364",
+      "86442",
+      "86352"
+    ],
+    "op_hi": [
+      "86400",
+      "86364",
+      "86442",
+      "86352"
+    ],
+    "q_en": "The total surface area (in m<sup>2</sup>) of a cube, each of whose edges measures 120 m, is:",
+    "q_hi": "एक घन का कुल पृष्ठीय क्षेत्रफल (m<sup>2</sup> में), जिसका प्रत्येक किनारा 120 मीटर है, क्या है?",
+    "section": "Arithmetical and Numerical Ability1",
+    "solution": "<b>Solution (EN):</b><br>The formula for the total surface area of a cube is 6a<sup>2</sup>, where 'a' is the edge length.<br>Given, a = 120 m.<br>Total Surface Area = 6 &times; (120)<sup>2</sup><br>= 6 &times; 14400<br>= 86400 m<sup>2</sup>.<br><br><b>Solution (HI):</b><br>एक घन के कुल पृष्ठीय क्षेत्रफल का सूत्र 6a<sup>2</sup> है, जहाँ 'a' किनारे की लंबाई है।<br>दिया गया है, a = 120 मीटर।<br>कुल पृष्ठीय क्षेत्रफल = 6 &times; (120)<sup>2</sup><br>= 6 &times; 14400<br>= 86400 मीटर<sup>2</sup>।<br><br><b>Short Trick:</b><br>TSA = 6 &times; a<sup>2</sup> = 6 &times; 120 &times; 120 = 6 &times; 14400 = 86400.",
+    "topic": "Mensuration"
+  },
+  {
+    "ans": "1",
+    "difficulty": "Easy",
+    "op_en": [
+      "Gain, 20%",
+      "Loss, 15%",
+      "Gain, 16%",
+      "Loss, 16%"
+    ],
+    "op_hi": [
+      "लाभ, 20%",
+      "हानि, 15%",
+      "लाभ, 16%",
+      "हानि, 16%"
+    ],
+    "q_en": "A man loses 25% by selling an article for ₹150. If he sells it for ₹240, what will be his gain/loss percentage?",
+    "q_hi": "एक व्यक्ति को एक वस्तु ₹150 में बेचने पर 25% की हानि होती है। यदि वह इसे ₹240 में बेचता है, तो उसका लाभ/हानि प्रतिशत क्या होगा?",
+    "section": "Arithmetical and Numerical Ability1",
+    "solution": "<b>Solution (EN):</b><br>Selling Price (SP) = ₹150<br>Loss = 25%<br>Cost Price (CP) = SP / (1 &minus; Loss%) = 150 / (1 &minus; 0.25) = 150 / 0.75 = ₹200.<br>New Selling Price = ₹240.<br>Gain = New SP &minus; CP = 240 &minus; 200 = ₹40.<br>Gain % = (Gain / CP) &times; 100 = (40 / 200) &times; 100 = 20%.<br>Thus, it is a Gain of 20%.<br><br><b>Solution (HI):</b><br>विक्रय मूल्य (SP) = ₹150<br>हानि = 25%<br>क्रय मूल्य (CP) = SP / (1 &minus; हानि%) = 150 / (1 &minus; 0.25) = 150 / 0.75 = ₹200.<br>नया विक्रय मूल्य = ₹240.<br>लाभ = नया SP &minus; CP = 240 &minus; 200 = ₹40.<br>लाभ % = (लाभ / CP) &times; 100 = (40 / 200) &times; 100 = 20%.<br>इस प्रकार, उसे 20% का लाभ होता है।<br><br><b>Short Trick:</b><br>150 &rarr; 75% of CP.<br>So, 1% of CP = 150 / 75 = 2.<br>For 240, the value is 240 / 2 = 120% of CP.<br>120% means a 20% gain.",
+    "topic": "Profit and Loss"
+  },
+  {
+    "ans": "1",
+    "difficulty": "Easy",
+    "op_en": [
+      "216",
+      "220",
+      "206",
+      "210"
+    ],
+    "op_hi": [
+      "216",
+      "220",
+      "206",
+      "210"
+    ],
+    "q_en": "A solid cube of edge 54 cm is melted down and recasted into smaller cubes of edge length 9 cm. Find the number of smaller cubes obtained.",
+    "q_hi": "54 सेमी किनारे वाले एक ठोस घन को पिघलाकर 9 सेमी किनारे वाले छोटे घनों में ढाला जाता है। प्राप्त छोटे घनों की संख्या ज्ञात कीजिए।",
+    "section": "Arithmetical and Numerical Ability1",
+    "solution": "<b>Solution (EN):</b><br>Volume of the large cube = (54)<sup>3</sup> = 54 &times; 54 &times; 54 cm<sup>3</sup>.<br>Volume of one small cube = (9)<sup>3</sup> = 9 &times; 9 &times; 9 cm<sup>3</sup>.<br>Number of smaller cubes = Volume of large cube / Volume of one small cube<br>= (54 &times; 54 &times; 54) / (9 &times; 9 &times; 9)<br>= 6 &times; 6 &times; 6 = 216.<br><br><b>Solution (HI):</b><br>बड़े घन का आयतन = (54)<sup>3</sup> = 54 &times; 54 &times; 54 सेमी<sup>3</sup>।<br>एक छोटे घन का आयतन = (9)<sup>3</sup> = 9 &times; 9 &times; 9 सेमी<sup>3</sup>।<br>छोटे घनों की संख्या = बड़े घन का आयतन / एक छोटे घन का आयतन<br>= (54 &times; 54 &times; 54) / (9 &times; 9 &times; 9)<br>= 6 &times; 6 &times; 6 = 216.<br><br><b>Short Trick:</b><br>Number of cubes = (Large edge / Small edge)<sup>3</sup> = (54 / 9)<sup>3</sup> = 6<sup>3</sup> = 216.",
+    "topic": "Mensuration"
+  },
+  {
+    "ans": "2",
+    "difficulty": "Hard",
+    "op_en": [
+      "greater than 2 km/hr",
+      "greater than 1.2 km/hr and less than 1.9 km/hr",
+      "less than 1 km/hr",
+      "greater than 0.5 km/hr and less than 1 km/hr"
+    ],
+    "op_hi": [
+      "2 किमी/घंटा से अधिक",
+      "1.2 किमी/घंटा से अधिक और 1.9 किमी/घंटा से कम",
+      "1 किमी/घंटा से कम",
+      "0.5 किमी/घंटा से अधिक और 1 किमी/घंटा से कम"
+    ],
+    "q_en": "Paul rows to a place 70 km in distance and back in 11 hours 40 minutes. He found that he can row 4 km with the stream in the same time as he can row 3 km against the stream. The rate of flow of stream is:",
+    "q_hi": "पॉल 70 किमी की दूरी पर स्थित एक स्थान तक नाव चलाकर जाता है और 11 घंटे 40 मिनट में वापस आता है। उसने पाया कि वह जितने समय में धारा के प्रतिकूल 3 किमी नाव चला सकता है, उतने ही समय में वह धारा के अनुकूल 4 किमी नाव चला सकता है। धारा के प्रवाह की गति है:",
+    "section": "Arithmetical and Numerical Ability1",
+    "solution": "<b>Solution (EN):</b><br>Let Downstream speed be D and Upstream speed be U.<br>Given, D / U = 4 / 3. So, let D = 4x and U = 3x.<br>Total time = 11 hrs 40 mins = 11 + 40/60 = 11 + 2/3 = 35/3 hours.<br>Time = Distance / D + Distance / U<br>70 / 4x + 70 / 3x = 35/3<br>(210 + 280) / 12x = 35/3<br>490 / 12x = 35/3<br>490 / 4x = 35 &rArr; x = 490 / 140 = 3.5.<br>So, D = 4 &times; 3.5 = 14 km/hr, U = 3 &times; 3.5 = 10.5 km/hr.<br>Rate of stream = (D &minus; U) / 2 = (14 &minus; 10.5) / 2 = 3.5 / 2 = 1.75 km/hr.<br>1.75 is greater than 1.2 and less than 1.9.<br><br><b>Solution (HI):</b><br>माना धारा के अनुकूल गति D और धारा के प्रतिकूल गति U है।<br>दिया गया है, D / U = 4 / 3. इसलिए, माना D = 4x और U = 3x.<br>कुल समय = 11 घंटे 40 मिनट = 11 + 40/60 = 11 + 2/3 = 35/3 घंटे।<br>समय = दूरी / D + दूरी / U<br>70 / 4x + 70 / 3x = 35/3<br>(210 + 280) / 12x = 35/3<br>490 / 12x = 35/3<br>490 / 4x = 35 &rArr; x = 490 / 140 = 3.5.<br>अतः, D = 4 &times; 3.5 = 14 किमी/घंटा, U = 3 &times; 3.5 = 10.5 किमी/घंटा।<br>धारा की गति = (D &minus; U) / 2 = (14 &minus; 10.5) / 2 = 3.5 / 2 = 1.75 किमी/घंटा।<br>1.75, 1.2 से अधिक और 1.9 से कम है।<br><br><b>Short Trick:</b><br>Ratio of speeds (D:U) = 4:3. Average speed for round trip = 2&times;4&times;3 / (4+3) = 24/7 unit.<br>Actual average speed = Total Distance / Total Time = 140 / (35/3) = 12 km/hr.<br>So, 24/7 unit = 12 &rArr; 1 unit = 3.5 km/hr.<br>Stream speed = (4 - 3)/2 = 0.5 unit. 0.5 &times; 3.5 = 1.75 km/hr.",
+    "topic": "Boats and Streams"
+  },
+  {
+    "ans": "4",
+    "difficulty": "Easy",
+    "op_en": [
+      "34.7",
+      "35.7",
+      "35.3",
+      "36.4"
+    ],
+    "op_hi": [
+      "34.7",
+      "35.7",
+      "35.3",
+      "36.4"
+    ],
+    "q_en": "If 4.5 : 11.7 :: 14 : x, find the value of x.",
+    "q_hi": "यदि 4.5 : 11.7 :: 14 : x है, तो x का मान ज्ञात कीजिए।",
+    "section": "Arithmetical and Numerical Ability1",
+    "solution": "<b>Solution (EN):</b><br>Given proportion: 4.5 : 11.7 = 14 : x<br>This can be written as: 4.5 / 11.7 = 14 / x<br>x = (11.7 &times; 14) / 4.5<br>Multiply by 10 to remove decimals:<br>x = (117 &times; 14) / 45<br>Divide 117 and 45 by 9:<br>x = (13 &times; 14) / 5<br>x = 182 / 5 = 36.4.<br><br><b>Solution (HI):</b><br>दिया गया अनुपात: 4.5 : 11.7 = 14 : x<br>इसे इस प्रकार लिखा जा सकता है: 4.5 / 11.7 = 14 / x<br>x = (11.7 &times; 14) / 4.5<br>दशमलव हटाने के लिए 10 से गुणा करें:<br>x = (117 &times; 14) / 45<br>117 और 45 को 9 से विभाजित करें:<br>x = (13 &times; 14) / 5<br>x = 182 / 5 = 36.4.<br><br><b>Short Trick:</b><br>Product of extremes = Product of means.<br>4.5 &times; x = 11.7 &times; 14 &rArr; 45x = 117 &times; 14 &rArr; x = (13 &times; 14) / 5 = 182 / 5 = 36.4.",
+    "topic": "Ratio and Proportion"
+  },
+  {
+    "ans": "3",
+    "difficulty": "Easy",
+    "op_en": [
+      "24",
+      "16",
+      "8",
+      "20"
+    ],
+    "op_hi": [
+      "24",
+      "16",
+      "8",
+      "20"
+    ],
+    "q_en": "The diagonals of a rhombus are 8 cm and 2 cm, respectively. The area of the rhombus (in cm<sup>2</sup>) is:",
+    "q_hi": "एक समचतुर्भुज के विकर्ण क्रमशः 8 सेमी और 2 सेमी हैं। समचतुर्भुज का क्षेत्रफल (सेमी<sup>2</sup> में) है:",
+    "section": "Arithmetical and Numerical Ability1",
+    "solution": "<b>Solution (EN):</b><br>The area of a rhombus is given by the formula:<br>Area = (1/2) &times; d<sub>1</sub> &times; d<sub>2</sub><br>Where d<sub>1</sub> and d<sub>2</sub> are the lengths of the diagonals.<br>Area = (1/2) &times; 8 &times; 2 = 8 cm<sup>2</sup>.<br><br><b>Solution (HI):</b><br>समचतुर्भुज का क्षेत्रफल इस सूत्र द्वारा दिया जाता है:<br>क्षेत्रफल = (1/2) &times; d<sub>1</sub> &times; d<sub>2</sub><br>जहाँ d<sub>1</sub> और d<sub>2</sub> विकर्णों की लंबाई हैं।<br>क्षेत्रफल = (1/2) &times; 8 &times; 2 = 8 सेमी<sup>2</sup>।<br><br><b>Short Trick:</b><br>Area = Half the product of diagonals = (8 &times; 2) / 2 = 8.",
+    "topic": "Mensuration"
+  },
+  {
+    "ans": "2",
+    "difficulty": "Moderate",
+    "op_en": [
+      "36,000",
+      "30,000",
+      "27,000",
+      "33,000"
+    ],
+    "op_hi": [
+      "36,000",
+      "30,000",
+      "27,000",
+      "33,000"
+    ],
+    "q_en": "Ajay, Manoj and Aman started a business in partnership investing in the ratio of 4 : 3 : 6, respectively. At the end of the year, they earned a profit of ₹19,500, which was 15% of their total investment. How much did Manoj invest (in ₹)?",
+    "q_hi": "अजय, मनोज और अमन ने एक साझेदारी में क्रमशः 4 : 3 : 6 के अनुपात में निवेश करके एक व्यवसाय शुरू किया। वर्ष के अंत में, उन्होंने ₹19,500 का लाभ कमाया, जो उनके कुल निवेश का 15% था। मनोज ने कितना निवेश किया (₹ में)?",
+    "section": "Arithmetical and Numerical Ability1",
+    "solution": "<b>Solution (EN):</b><br>Profit earned = ₹19,500.<br>This profit is 15% of the total investment.<br>Total Investment &times; (15/100) = 19500<br>Total Investment = 19500 &times; (100/15) = 1300 &times; 100 = ₹1,30,000.<br>Ratio of investment = 4 : 3 : 6.<br>Sum of the ratio parts = 4 + 3 + 6 = 13.<br>Manoj's share corresponds to 3 parts.<br>Manoj's investment = (3 / 13) &times; 1,30,000 = 3 &times; 10,000 = ₹30,000.<br><br><b>Solution (HI):</b><br>अर्जित लाभ = ₹19,500.<br>यह लाभ कुल निवेश का 15% है।<br>कुल निवेश &times; (15/100) = 19500<br>कुल निवेश = 19500 &times; (100/15) = 1300 &times; 100 = ₹1,30,000.<br>निवेश का अनुपात = 4 : 3 : 6.<br>अनुपात भागों का योग = 4 + 3 + 6 = 13.<br>मनोज का हिस्सा 3 भागों के अनुरूप है।<br>मनोज का निवेश = (3 / 13) &times; 1,30,000 = 3 &times; 10,000 = ₹30,000.<br><br><b>Short Trick:</b><br>Total Investment = 19500 / 0.15 = 130000.<br>Manoj's share = 3/13 of 130000 = 30000.",
+    "topic": "Partnership"
+  },
+  {
+    "ans": "3",
+    "difficulty": "Easy",
+    "op_en": [
+      "16",
+      "22",
+      "18",
+      "14"
+    ],
+    "op_hi": [
+      "16",
+      "22",
+      "18",
+      "14"
+    ],
+    "q_en": "If the mean proportional of A and 32 is 24, then find the value of A.",
+    "q_hi": "यदि A और 32 का मध्यानुपाती 24 है, तो A का मान ज्ञात कीजिए।",
+    "section": "Arithmetical and Numerical Ability1",
+    "solution": "<b>Solution (EN):</b><br>The mean proportional 'm' of two numbers 'a' and 'b' is given by m = &radic;(a &times; b).<br>Here, m = 24, a = A, and b = 32.<br>24 = &radic;(A &times; 32)<br>Squaring both sides:<br>24<sup>2</sup> = A &times; 32<br>576 = A &times; 32<br>A = 576 / 32 = 18.<br><br><b>Solution (HI):</b><br>दो संख्याओं 'a' और 'b' का मध्यानुपाती 'm', m = &radic;(a &times; b) द्वारा दिया जाता है।<br>यहाँ, m = 24, a = A, और b = 32.<br>24 = &radic;(A &times; 32)<br>दोनों पक्षों का वर्ग करने पर:<br>24<sup>2</sup> = A &times; 32<br>576 = A &times; 32<br>A = 576 / 32 = 18.<br><br><b>Short Trick:</b><br>A = Mean<sup>2</sup> / Other number = (24 &times; 24) / 32 = 576 / 32 = 18.",
+    "topic": "Ratio and Proportion"
+  },
+  {
+    "ans": "2",
+    "difficulty": "Moderate",
+    "op_en": [
+      "45.23",
+      "47.37",
+      "42.32",
+      "37.47"
+    ],
+    "op_hi": [
+      "45.23",
+      "47.37",
+      "42.32",
+      "37.47"
+    ],
+    "q_en": "On his way to office, Mr. Mehra was travelling at 50 km/hr and on the return journey, he was travelling at 45 km/hr. What is Mr. Mehra's average speed (in km/hr)? (Round up to two decimal places.)",
+    "q_hi": "कार्यालय जाते समय, श्री मेहरा 50 किमी/घंटा की गति से यात्रा कर रहे थे और वापसी यात्रा पर, वह 45 किमी/घंटा की गति से यात्रा कर रहे थे। श्री मेहरा की औसत गति (किमी/घंटा में) क्या है? (दो दशमलव स्थानों तक पूर्णांकित करें।)",
+    "section": "Arithmetical and Numerical Ability1",
+    "solution": "<b>Solution (EN):</b><br>When the distance traveled is the same in both directions, the average speed is given by:<br>Average Speed = (2 &times; S1 &times; S2) / (S1 + S2)<br>Given, S1 = 50 km/hr and S2 = 45 km/hr.<br>Average Speed = (2 &times; 50 &times; 45) / (50 + 45)<br>= 4500 / 95<br>= 900 / 19<br>&approx; 47.368... km/hr.<br>Rounding to two decimal places, we get 47.37 km/hr.<br><br><b>Solution (HI):</b><br>जब दोनों दिशाओं में तय की गई दूरी समान हो, तो औसत गति इस प्रकार दी जाती है:<br>औसत गति = (2 &times; S1 &times; S2) / (S1 + S2)<br>दिया गया है, S1 = 50 किमी/घंटा और S2 = 45 किमी/घंटा।<br>औसत गति = (2 &times; 50 &times; 45) / (50 + 45)<br>= 4500 / 95<br>= 900 / 19<br>&approx; 47.368... किमी/घंटा।<br>दो दशमलव स्थानों तक पूर्णांकित करने पर, हमें 47.37 किमी/घंटा मिलता है।<br><br><b>Short Trick:</b><br>Avg Speed = (2 &times; 50 &times; 45) / 95 = 900 / 19 = 47.37 km/hr.",
+    "topic": "Time, Speed and Distance"
+  },
+  {
+    "ans": "2",
+    "difficulty": "Easy",
+    "op_en": [
+      "₹17,860",
+      "₹17,800",
+      "₹16,760",
+      "₹16,800"
+    ],
+    "op_hi": [
+      "₹17,860",
+      "₹17,800",
+      "₹16,760",
+      "₹16,800"
+    ],
+    "q_en": "A dealer allows 25% discount on the marked price of an item. What is the marked price of the item if its sale price is ₹13,350?",
+    "q_hi": "एक डीलर किसी वस्तु के अंकित मूल्य पर 25% की छूट देता है। वस्तु का अंकित मूल्य क्या है यदि उसका विक्रय मूल्य ₹13,350 है?",
+    "section": "Arithmetical and Numerical Ability1",
+    "solution": "<b>Solution (EN):</b><br>Let the Marked Price be MP.<br>Selling Price (SP) = MP &times; (1 &minus; Discount%)<br>13350 = MP &times; (1 &minus; 0.25)<br>13350 = MP &times; 0.75<br>MP = 13350 / 0.75 = 1335000 / 75 = ₹17,800.<br><br><b>Solution (HI):</b><br>माना अंकित मूल्य MP है।<br>विक्रय मूल्य (SP) = MP &times; (1 &minus; छूट%)<br>13350 = MP &times; (1 &minus; 0.25)<br>13350 = MP &times; 0.75<br>MP = 13350 / 0.75 = 1335000 / 75 = ₹17,800.<br><br><b>Short Trick:</b><br>75% of MP = 13350. Therefore, 100% of MP = 13350 &times; (4 / 3) = 4450 &times; 4 = 17800.",
+    "topic": "Profit and Loss"
+  },
+  {
+    "ans": "1",
+    "difficulty": "Moderate",
+    "op_en": [
+      "64.8",
+      "63",
+      "62",
+      "62.5"
+    ],
+    "op_hi": [
+      "64.8",
+      "63",
+      "62",
+      "62.5"
+    ],
+    "q_en": "Two trains are running in opposite directions with the same speed. If the length of each train is 810 metres and they cross each other in 45 seconds, then find the speed of each train (in km/hr)?",
+    "q_hi": "दो ट्रेनें समान गति से विपरीत दिशाओं में चल रही हैं। यदि प्रत्येक ट्रेन की लंबाई 810 मीटर है और वे 45 सेकंड में एक-दूसरे को पार करती हैं, तो प्रत्येक ट्रेन की गति (किमी/घंटा में) ज्ञात कीजिए?",
+    "section": "Arithmetical and Numerical Ability1",
+    "solution": "<b>Solution (EN):</b><br>Let the speed of each train be v m/s.<br>Since they are running in opposite directions, relative speed = v + v = 2v m/s.<br>Total distance covered to cross each other = 810 + 810 = 1620 m.<br>Time taken = 45 seconds.<br>Relative Speed = Distance / Time<br>2v = 1620 / 45 = 36 m/s.<br>Speed of each train (v) = 36 / 2 = 18 m/s.<br>Convert to km/hr: 18 &times; (18 / 5) = 324 / 5 = 64.8 km/hr.<br><br><b>Solution (HI):</b><br>माना प्रत्येक ट्रेन की गति v मीटर/सेकंड है।<br>चूंकि वे विपरीत दिशाओं में चल रही हैं, सापेक्ष गति = v + v = 2v मीटर/सेकंड।<br>एक-दूसरे को पार करने के लिए तय की गई कुल दूरी = 810 + 810 = 1620 मीटर।<br>लिया गया समय = 45 सेकंड।<br>सापेक्ष गति = दूरी / समय<br>2v = 1620 / 45 = 36 मीटर/सेकंड।<br>प्रत्येक ट्रेन की गति (v) = 36 / 2 = 18 मीटर/सेकंड।<br>किमी/घंटा में बदलें: 18 &times; (18 / 5) = 324 / 5 = 64.8 किमी/घंटा।<br><br><b>Short Trick:</b><br>Speed = (Distance / 2) / Time = 810 / 45 = 18 m/s. In km/hr = 18 &times; 3.6 = 64.8 km/hr.",
+    "topic": "Trains"
+  },
+  {
+    "ans": "1",
+    "difficulty": "Moderate",
+    "op_en": [
+      "₹202",
+      "₹241",
+      "₹233",
+      "₹165"
+    ],
+    "op_hi": [
+      "₹202",
+      "₹241",
+      "₹233",
+      "₹165"
+    ],
+    "q_en": "The marked price of an article is ₹404. The shopkeeper offers a discount of 31% on the purchase of the article, thereby, making a profit of 38%. The cost price of the article is:",
+    "q_hi": "एक वस्तु का अंकित मूल्य ₹404 है। दुकानदार वस्तु की खरीद पर 31% की छूट देता है, जिससे उसे 38% का लाभ होता है। वस्तु का क्रय मूल्य है:",
+    "section": "Arithmetical and Numerical Ability1",
+    "solution": "<b>Solution (EN):</b><br>The relationship between Cost Price (CP), Marked Price (MP), Discount%, and Profit% is:<br>CP / MP = (100 &minus; Discount%) / (100 + Profit%)<br>Given: MP = 404, Discount = 31%, Profit = 38%.<br>CP / 404 = (100 &minus; 31) / (100 + 38)<br>CP / 404 = 69 / 138<br>CP / 404 = 1 / 2<br>CP = 404 / 2 = ₹202.<br><br><b>Solution (HI):</b><br>क्रय मूल्य (CP), अंकित मूल्य (MP), छूट% और लाभ% के बीच का संबंध है:<br>CP / MP = (100 &minus; छूट%) / (100 + लाभ%)<br>दिया गया है: MP = 404, छूट = 31%, लाभ = 38%.<br>CP / 404 = (100 &minus; 31) / (100 + 38)<br>CP / 404 = 69 / 138<br>CP / 404 = 1 / 2<br>CP = 404 / 2 = ₹202.<br><br><b>Short Trick:</b><br>CP : MP = (100-31) : (100+38) = 69 : 138 = 1 : 2. Since 2 units = 404, 1 unit = 202.",
+    "topic": "Profit and Loss"
+  },
+  {
+    "ans": "2",
+    "difficulty": "Hard",
+    "op_en": [
+      "4.5 days",
+      "1.5 days",
+      "3 days",
+      "2 days"
+    ],
+    "op_hi": [
+      "4.5 दिन",
+      "1.5 दिन",
+      "3 दिन",
+      "2 दिन"
+    ],
+    "q_en": "A can do a piece of work in 12 days, B in 15 days and C in 20 days. They all start working together, but after 3 days, C leaves the work. A and B continue, but after 2 more days, A also leaves. How many more days will B alone take to finish the remaining work?",
+    "q_hi": "A किसी काम को 12 दिनों में, B 15 दिनों में और C 20 दिनों में कर सकता है। वे सभी एक साथ काम करना शुरू करते हैं, लेकिन 3 दिनों के बाद, C काम छोड़ देता है। A और B जारी रखते हैं, लेकिन 2 और दिनों के बाद, A भी छोड़ देता है। शेष काम को पूरा करने में B को अकेले कितने दिन और लगेंगे?",
+    "section": "Arithmetical and Numerical Ability1",
+    "solution": "<b>Solution (EN):</b><br>Let total work be the LCM of 12, 15, and 20, which is 60 units.<br>Efficiency of A = 60 / 12 = 5 units/day.<br>Efficiency of B = 60 / 15 = 4 units/day.<br>Efficiency of C = 60 / 20 = 3 units/day.<br>Work done by A, B, and C in the first 3 days = (5 + 4 + 3) &times; 3 = 12 &times; 3 = 36 units.<br>Remaining work = 60 &minus; 36 = 24 units.<br>Work done by A and B in the next 2 days = (5 + 4) &times; 2 = 9 &times; 2 = 18 units.<br>Remaining work = 24 &minus; 18 = 6 units.<br>Now, B alone finishes the remaining work.<br>Time taken by B = Remaining Work / Efficiency of B = 6 / 4 = 1.5 days.<br><br><b>Solution (HI):</b><br>माना कुल काम 12, 15 और 20 का LCM है, जो 60 इकाई है।<br>A की कार्यक्षमता = 60 / 12 = 5 इकाई/दिन।<br>B की कार्यक्षमता = 60 / 15 = 4 इकाई/दिन।<br>C की कार्यक्षमता = 60 / 20 = 3 इकाई/दिन।<br>पहले 3 दिनों में A, B और C द्वारा किया गया कार्य = (5 + 4 + 3) &times; 3 = 12 &times; 3 = 36 इकाई।<br>शेष कार्य = 60 &minus; 36 = 24 इकाई।<br>अगले 2 दिनों में A और B द्वारा किया गया कार्य = (5 + 4) &times; 2 = 9 &times; 2 = 18 इकाई।<br>शेष कार्य = 24 &minus; 18 = 6 इकाई।<br>अब, B अकेले शेष कार्य पूरा करता है।<br>B द्वारा लिया गया समय = शेष कार्य / B की कार्यक्षमता = 6 / 4 = 1.5 दिन।<br><br><b>Short Trick:</b><br>A works for 5 days, C works for 3 days. Total work = 60. A's part = 5&times;5=25. C's part = 3&times;3=9. Total done by A & C = 34. Remaining for B = 60 - 34 = 26 units. Total days B worked = 26/4 = 6.5 days. He worked 5 days with others. So extra days alone = 6.5 - 5 = 1.5 days.",
+    "topic": "Time and Work"
+  },
+  {
+    "ans": "3",
+    "difficulty": "Easy",
+    "op_en": [
+      "25 : 23",
+      "27 : 23",
+      "23 : 25",
+      "23 : 27"
+    ],
+    "op_hi": [
+      "25 : 23",
+      "27 : 23",
+      "23 : 25",
+      "23 : 27"
+    ],
+    "q_en": "If the cost of two books are 15% and 25% more than the third book, then find the ratio cost of first book to second book.",
+    "q_hi": "यदि दो पुस्तकों का मूल्य तीसरी पुस्तक से 15% और 25% अधिक है, तो पहली पुस्तक और दूसरी पुस्तक के मूल्य का अनुपात ज्ञात कीजिए।",
+    "section": "Arithmetical and Numerical Ability1",
+    "solution": "<b>Solution (EN):</b><br>Let the cost of the third book be 100 units.<br>Cost of the first book = 100 + 15% of 100 = 115.<br>Cost of the second book = 100 + 25% of 100 = 125.<br>Ratio of the cost of the first book to the second book = 115 : 125.<br>Dividing both by 5, we get: 23 : 25.<br><br><b>Solution (HI):</b><br>माना तीसरी पुस्तक का मूल्य 100 इकाई है।<br>पहली पुस्तक का मूल्य = 100 + 100 का 15% = 115.<br>दूसरी पुस्तक का मूल्य = 100 + 100 का 25% = 125.<br>पहली पुस्तक और दूसरी पुस्तक के मूल्य का अनुपात = 115 : 125.<br>दोनों को 5 से विभाजित करने पर, हमें प्राप्त होता है: 23 : 25.<br><br><b>Short Trick:</b><br>Ratio = (100 + 15) : (100 + 25) = 115 : 125 = 23 : 25.",
+    "topic": "Ratio and Proportion"
+  },
+  {
+    "ans": "3",
+    "difficulty": "Hard",
+    "op_en": [
+      "₹880",
+      "₹990",
+      "₹980",
+      "₹1,080"
+    ],
+    "op_hi": [
+      "₹880",
+      "₹990",
+      "₹980",
+      "₹1,080"
+    ],
+    "q_en": "A vendor offers successive discounts of 37% and 6% on an article whose marked price is ₹2,200. He earns a profit of 33% in the transaction. The cost price (rounded off to the nearest integer) of the article is:",
+    "q_hi": "एक विक्रेता एक वस्तु पर 37% और 6% की क्रमिक छूट प्रदान करता है जिसका अंकित मूल्य ₹2,200 है। वह लेन-देन में 33% का लाभ कमाता है। वस्तु का क्रय मूल्य (निकटतम पूर्णांक तक पूर्णांकित) है:",
+    "section": "Arithmetical and Numerical Ability1",
+    "solution": "<b>Solution (EN):</b><br>Marked Price (MP) = ₹2,200.<br>First discount = 37%. Second discount = 6%.<br>Selling Price (SP) = MP &times; (1 &minus; 37/100) &times; (1 &minus; 6/100)<br>SP = 2200 &times; 0.63 &times; 0.94 = 1386 &times; 0.94 = 1302.84.<br>Profit = 33%.<br>Cost Price (CP) = SP / (1 + Profit%) = 1302.84 / 1.33<br>CP = 979.578...<br>Rounding off to the nearest integer, we get ₹980.<br><br><b>Solution (HI):</b><br>अंकित मूल्य (MP) = ₹2,200.<br>पहली छूट = 37%. दूसरी छूट = 6%.<br>विक्रय मूल्य (SP) = MP &times; (1 &minus; 37/100) &times; (1 &minus; 6/100)<br>SP = 2200 &times; 0.63 &times; 0.94 = 1386 &times; 0.94 = 1302.84.<br>लाभ = 33%.<br>क्रय मूल्य (CP) = SP / (1 + लाभ%) = 1302.84 / 1.33<br>CP = 979.578...<br>निकटतम पूर्णांक तक पूर्णांकित करने पर, हमें ₹980 प्राप्त होता है।<br><br><b>Short Trick:</b><br>CP = MP &times; (63/100) &times; (94/100) &times; (100/133)<br>CP = 22 &times; 63 &times; (94/133) = 22 &times; 63 &times; 0.7067 &approx; 980.",
+    "topic": "Profit and Loss"
+  },
+  {
+    "ans": "3",
+    "difficulty": "Hard",
+    "op_en": [
+      "3.5 hours",
+      "3 hours",
+      "4 hours",
+      "2.5 hours"
+    ],
+    "op_hi": [
+      "3.5 घंटे",
+      "3 घंटे",
+      "4 घंटे",
+      "2.5 घंटे"
+    ],
+    "q_en": "Pipe P can fill a tank in 6 hours, while pipe Q can fill the same tank in 9 hours. Both pipes are opened together for 2 hours. After this, pipe Q clogs and works at half its original speed. How long does it take from the start to fill the tank completely?",
+    "q_hi": "पाइप P एक टैंक को 6 घंटे में भर सकता है, जबकि पाइप Q उसी टैंक को 9 घंटे में भर सकता है। दोनों पाइपों को एक साथ 2 घंटे के लिए खोला जाता है। इसके बाद, पाइप Q बंद (clog) हो जाता है और अपनी मूल गति से आधी गति पर काम करता है। शुरुआत से टैंक को पूरी तरह भरने में कितना समय लगता है?",
+    "section": "Arithmetical and Numerical Ability1",
+    "solution": "<b>Solution (EN):</b><br>Let the total capacity of the tank be the LCM of 6 and 9, which is 18 units.<br>Efficiency of P = 18 / 6 = 3 units/hour.<br>Efficiency of Q = 18 / 9 = 2 units/hour.<br>In the first 2 hours, they work together: Work done = (3 + 2) &times; 2 = 10 units.<br>Remaining work to be done = 18 &minus; 10 = 8 units.<br>Now, pipe Q works at half its speed, so new efficiency of Q = 2 / 2 = 1 unit/hour.<br>New combined efficiency = 3 (from P) + 1 (from Q) = 4 units/hour.<br>Time required to fill the remaining tank = 8 / 4 = 2 hours.<br>Total time taken from the start = 2 + 2 = 4 hours.<br><br><b>Solution (HI):</b><br>माना टैंक की कुल क्षमता 6 और 9 का LCM है, जो 18 इकाई है।<br>P की कार्यक्षमता = 18 / 6 = 3 इकाई/घंटा।<br>Q की कार्यक्षमता = 18 / 9 = 2 इकाई/घंटा।<br>पहले 2 घंटों में, वे एक साथ काम करते हैं: किया गया कार्य = (3 + 2) &times; 2 = 10 इकाई।<br>किया जाने वाला शेष कार्य = 18 &minus; 10 = 8 इकाई।<br>अब, पाइप Q अपनी आधी गति से काम करता है, इसलिए Q की नई कार्यक्षमता = 2 / 2 = 1 इकाई/घंटा।<br>नई संयुक्त कार्यक्षमता = 3 (P से) + 1 (Q से) = 4 इकाई/घंटा।<br>शेष टैंक को भरने के लिए आवश्यक समय = 8 / 4 = 2 घंटे।<br>शुरुआत से लिया गया कुल समय = 2 + 2 = 4 घंटे।<br><br><b>Short Trick:</b><br>P & Q fill (1/6 + 1/9) &times; 2 = (5/18) &times; 2 = 5/9 of tank in 2 hrs. Remaining = 4/9. New rate = 1/6 + 1/18 = 4/18 = 2/9 per hr. Time = (4/9) / (2/9) = 2 hrs. Total = 2 + 2 = 4 hrs.",
+    "topic": "Pipes and Cisterns"
+  }
+]
