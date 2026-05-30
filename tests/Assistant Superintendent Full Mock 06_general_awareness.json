@@ -1,0 +1,422 @@
+[
+  {
+    "section": "General Awareness",
+    "topic": "Economics",
+    "difficulty": "Medium",
+    "q_en": "Unemployment arising as a result of industrial reorganization, typically due to technological change rather than fluctuations in supply or demand, is known as _________.",
+    "q_hi": "औद्योगिक पुनर्गठन के परिणामस्वरूप उत्पन्न बेरोजगारी, जो प्रायः आपूर्ति या मांग में उच्चावचन के बजाय तकनीकी परिवर्तन के कारण होती है, को _________ के रूप में जाना जाता है।",
+    "op_en": [
+      "Cyclical unemployment",
+      "Seasonal unemployment",
+      "Structural unemployment",
+      "Frictional unemployment"
+    ],
+    "op_hi": [
+      "चक्रीय बेरोजगारी",
+      "मौसमी बेरोजगारी",
+      "संरचनात्मक बेरोजगारी",
+      "संघर्षात्मक बेरोजगारी"
+    ],
+    "ans": 3,
+    "solution": "<b>Solution (EN):</b><br>Structural unemployment is a long-lasting form of unemployment caused by fundamental shifts in an economy and exacerbated by extraneous factors such as technology, competition, and government policy. It occurs because workers lack the requisite job skills or live too far from regions where jobs are available.<br><br><b>Solution (HI):</b><br>संरचनात्मक बेरोजगारी एक अर्थव्यवस्था में मूलभूत बदलावों के कारण होने वाली दीर्घकालिक बेरोजगारी है जो तकनीक, प्रतिस्पर्धा और सरकारी नीति जैसे बाहरी कारकों से बढ़ जाती है। यह इसलिए होता है क्योंकि श्रमिकों के पास आवश्यक नौकरी कौशल की कमी होती है या वे उन क्षेत्रों से बहुत दूर रहते हैं जहां नौकरियां उपलब्ध हैं।<br><br><b>Key Fact:</b><br>Cyclical unemployment relates to economic cycles (recessions), frictional is the time between jobs, and structural is a mismatch of skills due to technological or industrial changes."
+  },
+  {
+    "section": "General Awareness",
+    "topic": "History",
+    "difficulty": "Easy",
+    "q_en": "After the initial uprising at Meerut on 10 May 1857, the rebel sepoys marched towards Delhi and persuaded whom to become the symbolic leader of the revolt?",
+    "q_hi": "10 मई 1857 को मेरठ में प्रारंभिक विद्रोह के बाद, विद्रोही सिपाहियों ने दिल्ली की ओर कूच किया और विद्रोह का प्रतीकात्मक नेता बनने के लिए किसे राजी किया?",
+    "op_en": [
+      "Tantia Tope",
+      "Begum Hazrat Mahal",
+      "Bahadur Shah Zafar",
+      "Laxmi Bai"
+    ],
+    "op_hi": [
+      "तात्या टोपे",
+      "बेगम हज़रत महल",
+      "बहादुर शाह ज़फ़र",
+      "लक्ष्मी बाई"
+    ],
+    "ans": 3,
+    "solution": "<b>Solution (EN):</b><br>Following the outbreak of the mutiny in Meerut on May 10, 1857, the rebel sepoys marched to Delhi. On May 11, they captured Delhi and persuaded the aging and powerless Mughal emperor, Bahadur Shah Zafar, to accept the leadership of the revolt. He was proclaimed the Emperor of India (Shahenshah-e-Hind).<br><br><b>Solution (HI):</b><br>10 मई, 1857 को मेरठ में विद्रोह भड़कने के बाद, विद्रोही सिपाहियों ने दिल्ली की ओर कूच किया। 11 मई को, उन्होंने दिल्ली पर कब्जा कर लिया और बूढ़े और शक्तिहीन मुगल सम्राट, बहादुर शाह ज़फ़र को विद्रोह का नेतृत्व स्वीकार करने के लिए राजी किया। उन्हें भारत का सम्राट (शहंशाह-ए-हिंद) घोषित किया गया था।<br><br><b>Key Fact:</b><br>Bahadur Shah Zafar II was the last Mughal Emperor. After the rebellion was suppressed, he was exiled by the British to Rangoon (Yangon) in Burma."
+  },
+  {
+    "section": "General Awareness",
+    "topic": "Finance",
+    "difficulty": "Hard",
+    "q_en": "As of June 2025, the minimum tangible net worth to issue Commercial Paper for a corporate, as per the latest audited balance sheet, is NOT less than:",
+    "q_hi": "जून 2025 तक, नवीनतम लेखा परीक्षित बैलेंस शीट के अनुसार, किसी कॉर्पोरेट के लिए कमर्शियल पेपर (वाणिज्यिक पत्र) जारी करने के लिए न्यूनतम मूर्त निवल संपत्ति (tangible net worth) इससे कम नहीं होनी चाहिए:",
+    "op_en": [
+      "₹1 crore",
+      "₹4 crore",
+      "₹5 crore",
+      "₹3 crore"
+    ],
+    "op_hi": [
+      "₹1 करोड़",
+      "₹4 करोड़",
+      "₹5 करोड़",
+      "₹3 करोड़"
+    ],
+    "ans": 2,
+    "solution": "<b>Solution (EN):</b><br>According to the Reserve Bank of India (RBI) guidelines, a corporate would be eligible to issue Commercial Paper (CP) provided the tangible net worth of the company, as per the latest audited balance sheet, is not less than ₹4 crore.<br><br><b>Solution (HI):</b><br>भारतीय रिज़र्व बैंक (RBI) के दिशा-निर्देशों के अनुसार, कोई भी कॉर्पोरेट कमर्शियल पेपर (CP) जारी करने के लिए तब पात्र होगा जब नवीनतम लेखा परीक्षित बैलेंस शीट के अनुसार कंपनी की न्यूनतम मूर्त निवल संपत्ति (tangible net worth) ₹4 करोड़ से कम न हो।<br><br><b>Key Fact:</b><br>Commercial Paper is an unsecured money market instrument issued in the form of a promissory note. It was introduced in India in 1990."
+  },
+  {
+    "section": "General Awareness",
+    "topic": "Current Affairs",
+    "difficulty": "Medium",
+    "q_en": "Who succeeded Girish Chandra Murmu as the Comptroller and Auditor General (CAG) of India on 21 November 2024?",
+    "q_hi": "21 नवंबर 2024 को भारत के नियंत्रक एवं महालेखा परीक्षक (CAG) के रूप में गिरीश चंद्र मुर्मू का स्थान किसने लिया?",
+    "op_en": [
+      "Shashi Kant Sharma",
+      "K Sanjay Murthy",
+      "Vinod Rai",
+      "Rajeev Ranjan"
+    ],
+    "op_hi": [
+      "शशिकांत शर्मा",
+      "के संजय मूर्ति",
+      "विनोद राय",
+      "राजीव रंजन"
+    ],
+    "ans": 2,
+    "solution": "<b>Solution (EN):</b><br>K. Sanjay Murthy, an IAS officer, was appointed and sworn in as the Comptroller and Auditor General (CAG) of India on 21 November 2024. He succeeded Girish Chandra Murmu upon his retirement.<br><br><b>Solution (HI):</b><br>आईएएस अधिकारी के. संजय मूर्ति को 21 नवंबर 2024 को भारत के नियंत्रक और महालेखा परीक्षक (CAG) के रूप में नियुक्त किया गया और शपथ दिलाई गई। उन्होंने गिरीश चंद्र मुर्मू की सेवानिवृत्ति पर उनका स्थान लिया।<br><br><b>Key Fact:</b><br>The CAG of India is appointed by the President of India under Article 148 of the Constitution and holds office for a term of six years or until the age of 65 years, whichever is earlier."
+  },
+  {
+    "section": "General Awareness",
+    "topic": "Current Affairs",
+    "difficulty": "Medium",
+    "q_en": "Which of the following statements regarding the changes in national sports awards announced by the Sports Ministry in 2024 are correct?<br><br>1. The Dhyan Chand Award for lifetime achievement has been discontinued and replaced by the Arjuna Award Lifetime.<br>2. The Arjuna Award Lifetime will be given for lifetime contributions to sports development.<br>3. The Maulana Abdul Kalam Azad (MAKA) Trophy is given to the university with the overall top performance in the Khelo India University Games.",
+    "q_hi": "2024 में खेल मंत्रालय द्वारा घोषित राष्ट्रीय खेल पुरस्कारों में बदलाव के संबंध में निम्नलिखित में से कौन से कथन सही हैं?<br><br>1. लाइफटाइम अचीवमेंट के लिए ध्यानचंद पुरस्कार को बंद कर दिया गया है और इसे अर्जुन पुरस्कार लाइफटाइम से बदल दिया गया है।<br>2. खेल विकास में आजीवन योगदान के लिए अर्जुन पुरस्कार लाइफटाइम दिया जाएगा।<br>3. मौलाना अबुल कलाम आजाद (MAKA) ट्रॉफी खेलो इंडिया यूनिवर्सिटी गेम्स में समग्र शीर्ष प्रदर्शन करने वाले विश्वविद्यालय को दी जाती है।",
+    "op_en": [
+      "Only 1 and 2",
+      "Only 2 and 3",
+      "1, 2 and 3",
+      "Only 1 and 3"
+    ],
+    "op_hi": [
+      "केवल 1 और 2",
+      "केवल 2 और 3",
+      "1, 2 और 3",
+      "केवल 1 और 3"
+    ],
+    "ans": 3,
+    "solution": "<b>Solution (EN):</b><br>In 2024, the Union Sports Ministry rationalized the National Sports Awards. The Dhyan Chand Award for lifetime achievement was discontinued and effectively replaced by introducing the 'Arjuna Award Lifetime' to recognize lifetime contributions to sports. Furthermore, the criteria for the MAKA trophy are tied to top performance in the Khelo India University Games. Thus, all three statements are correct.<br><br><b>Solution (HI):</b><br>2024 में, केंद्रीय खेल मंत्रालय ने राष्ट्रीय खेल पुरस्कारों को युक्तिसंगत बनाया। लाइफटाइम अचीवमेंट के लिए ध्यानचंद पुरस्कार को बंद कर दिया गया और खेलों में आजीवन योगदान को मान्यता देने के लिए 'अर्जुन पुरस्कार लाइफटाइम' शुरू करके इसे प्रभावी रूप से बदल दिया गया। इसके अलावा, MAKA ट्रॉफी के मानदंड खेलो इंडिया यूनिवर्सिटी गेम्स में शीर्ष प्रदर्शन से जुड़े हैं। इस प्रकार, तीनों कथन सही हैं।<br><br><b>Key Fact:</b><br>The Major Dhyan Chand Khel Ratna Award continues to be the highest sporting honour in India; only the lifetime achievement award bearing his name was restructured."
+  },
+  {
+    "section": "General Awareness",
+    "topic": "Current Affairs",
+    "difficulty": "Medium",
+    "q_en": "Which of the following is the name of the pioneering facility set up by Union Minister Rajeev Chandrasekhar to transform semiconductor design in India, covering Electronics, IT, Skill Development, and Jal Shakti initiatives?",
+    "q_hi": "इलेक्ट्रॉनिक्स, आईटी, कौशल विकास और जल शक्ति पहल को कवर करते हुए भारत में सेमीकंडक्टर डिजाइन को बदलने के लिए केंद्रीय मंत्री राजीव चंद्रशेखर द्वारा स्थापित अग्रणी सुविधा का नाम निम्नलिखित में से क्या है?",
+    "op_en": [
+      "ChipIN Centre",
+      "ChipMax Centre",
+      "ChipEx Centre",
+      "ChipNext Centre"
+    ],
+    "op_hi": [
+      "चिपइन सेंटर (ChipIN Centre)",
+      "चिपमैक्स सेंटर (ChipMax Centre)",
+      "चिपेक्स सेंटर (ChipEx Centre)",
+      "चिपनेक्स्ट सेंटर (ChipNext Centre)"
+    ],
+    "ans": 1,
+    "solution": "<b>Solution (EN):</b><br>The ChipIN Centre is a one-stop centre set up by the Government of India to provide semiconductor design tools, fab access, and vital resources to start-ups and researchers across the country. It was spearheaded by the Ministry of Electronics & Information Technology (MeitY) to boost India's semiconductor ecosystem.<br><br><b>Solution (HI):</b><br>चिपइन सेंटर (ChipIN Centre) भारत सरकार द्वारा स्थापित एक वन-स्टॉप सेंटर है जो देश भर में स्टार्ट-अप और शोधकर्ताओं को सेमीकंडक्टर डिज़ाइन टूल, फैब एक्सेस और महत्वपूर्ण संसाधन प्रदान करता है। भारत के सेमीकंडक्टर इकोसिस्टम को बढ़ावा देने के लिए इलेक्ट्रॉनिक्स और सूचना प्रौद्योगिकी मंत्रालय (MeitY) द्वारा इसकी शुरुआत की गई थी।<br><br><b>Key Fact:</b><br>The ChipIN Centre is located at C-DAC (Centre for Development of Advanced Computing) and serves as a centralized design facility under the India Semiconductor Mission."
+  },
+  {
+    "section": "General Awareness",
+    "topic": "Polity",
+    "difficulty": "Medium",
+    "q_en": "Who among the following was the President of India when the Fundamental Duties were implemented in India for the first time by the 42nd Constitutional Amendment Act, 1976?",
+    "q_hi": "42वें संविधान संशोधन अधिनियम, 1976 द्वारा भारत में पहली बार मौलिक कर्तव्यों को लागू किए जाने के समय निम्नलिखित में से कौन भारत के राष्ट्रपति थे?",
+    "op_en": [
+      "Dr. Fakhruddin Ali Ahmed",
+      "Charan Singh",
+      "Lal Bahadur Sastri",
+      "Indira Gandhi"
+    ],
+    "op_hi": [
+      "डॉ. फखरुद्दीन अली अहमद",
+      "चरण सिंह",
+      "लाल बहादुर शास्त्री",
+      "इंदिरा गांधी"
+    ],
+    "ans": 1,
+    "solution": "<b>Solution (EN):</b><br>The 42nd Constitutional Amendment Act was enacted in 1976 during the period of National Emergency. Dr. Fakhruddin Ali Ahmed was the President of India at that time (served from 1974 to 1977). Indira Gandhi was the Prime Minister.<br><br><b>Solution (HI):</b><br>42वां संविधान संशोधन अधिनियम 1976 में राष्ट्रीय आपातकाल की अवधि के दौरान लागू किया गया था। उस समय डॉ. फखरुद्दीन अली अहमद भारत के राष्ट्रपति थे (उनका कार्यकाल 1974 से 1977 तक था)। इंदिरा गांधी उस समय प्रधानमंत्री थीं।<br><br><b>Key Fact:</b><br>Fundamental Duties were added to the Constitution (Part IVA, Article 51A) upon the recommendations of the Swaran Singh Committee."
+  },
+  {
+    "section": "General Awareness",
+    "topic": "Polity",
+    "difficulty": "Easy",
+    "q_en": "Which of the following Articles was considered the heart and soul of the Constitution of India by Dr. BR Ambedkar, the chairman of the Drafting Committee?",
+    "q_hi": "प्रारूप समिति के अध्यक्ष डॉ. बी.आर. अंबेडकर द्वारा निम्नलिखित में से किस अनुच्छेद को भारत के संविधान का 'हृदय और आत्मा' माना गया था?",
+    "op_en": [
+      "Article 19",
+      "Article 21",
+      "Article 14",
+      "Article 32"
+    ],
+    "op_hi": [
+      "अनुच्छेद 19",
+      "अनुच्छेद 21",
+      "अनुच्छेद 14",
+      "अनुच्छेद 32"
+    ],
+    "ans": 4,
+    "solution": "<b>Solution (EN):</b><br>Dr. B.R. Ambedkar called Article 32 the \"Heart and Soul of the Constitution.\" Article 32 guarantees the Right to Constitutional Remedies, which means individuals can approach the Supreme Court directly for the enforcement of their Fundamental Rights.<br><br><b>Solution (HI):</b><br>डॉ. बी.आर. अंबेडकर ने अनुच्छेद 32 को \"संविधान का हृदय और आत्मा\" कहा था। अनुच्छेद 32 संवैधानिक उपचारों के अधिकार की गारंटी देता है, जिसका अर्थ है कि व्यक्ति अपने मौलिक अधिकारों को लागू कराने के लिए सीधे सर्वोच्च न्यायालय का दरवाजा खटखटा सकता है।<br><br><b>Key Fact:</b><br>Under Article 32, the Supreme Court has the power to issue five types of writs: Habeas Corpus, Mandamus, Prohibition, Certiorari, and Quo-Warranto."
+  },
+  {
+    "section": "General Awareness",
+    "topic": "Geography",
+    "difficulty": "Hard",
+    "q_en": "Which of the following is the local name for Shifting Agriculture in Andhra Pradesh?",
+    "q_hi": "आंध्र प्रदेश में स्थानांतरित कृषि (Shifting Agriculture) का स्थानीय नाम निम्नलिखित में से कौन सा है?",
+    "op_en": [
+      "Waltre",
+      "Khil",
+      "Kumari",
+      "Penda"
+    ],
+    "op_hi": [
+      "वाल्ट्रे",
+      "खिल",
+      "कुमारी",
+      "पेंडा"
+    ],
+    "ans": 4,
+    "solution": "<b>Solution (EN):</b><br>In different parts of India, shifting agriculture is known by various local names. In Andhra Pradesh, it is primarily known as 'Podu' or 'Penda' (often associated with the AP-Madhya Pradesh border and Bastar regions, but traditionally accepted as a term for AP in standard classifications alongside Podu).<br><br><b>Solution (HI):</b><br>भारत के विभिन्न हिस्सों में, स्थानांतरित कृषि को विभिन्न स्थानीय नामों से जाना जाता है। आंध्र प्रदेश में, इसे मुख्य रूप से 'पोडु' या 'पेंडा' के रूप में जाना जाता है (अक्सर एपी-मध्य प्रदेश सीमा और बस्तर क्षेत्रों से जुड़ा होता है, लेकिन पारंपरिक रूप से पोडु के साथ एपी के लिए एक शब्द के रूप में स्वीकार किया जाता है)।<br><br><b>Key Fact:</b><br>Other local names for shifting agriculture in India: 'Jhum' in the North-East, 'Kumari' in the Western Ghats, and 'Valre' or 'Waltre' in South-Eastern Rajasthan."
+  },
+  {
+    "section": "General Awareness",
+    "topic": "Current Affairs",
+    "difficulty": "Easy",
+    "q_en": "Who was re-elected as the President of the European Commission for a second term in 2024?",
+    "q_hi": "2024 में दूसरे कार्यकाल के लिए यूरोपीय आयोग के अध्यक्ष के रूप में किसे फिर से चुना गया?",
+    "op_en": [
+      "Ursula von der Leyen",
+      "Charles Michel",
+      "Angela Merkel",
+      "Emmanuel Macron"
+    ],
+    "op_hi": [
+      "उर्सुला वॉन डेर लेयेन",
+      "चार्ल्स मिशेल",
+      "एंजेला मर्केल",
+      "इमैनुएल मैक्रॉन"
+    ],
+    "ans": 1,
+    "solution": "<b>Solution (EN):</b><br>Ursula von der Leyen was re-elected as the President of the European Commission in July 2024 for a second five-year term, securing a comfortable majority in the European Parliament.<br><br><b>Solution (HI):</b><br>उर्सुला वॉन डेर लेयेन को जुलाई 2024 में दूसरे पांच साल के कार्यकाल के लिए यूरोपीय आयोग के अध्यक्ष के रूप में फिर से चुना गया, उन्होंने यूरोपीय संसद में स्पष्ट बहुमत हासिल किया।<br><br><b>Key Fact:</b><br>The European Commission is the executive branch of the European Union, responsible for proposing legislation, implementing decisions, and upholding the EU treaties."
+  },
+  {
+    "section": "General Awareness",
+    "topic": "Literature",
+    "difficulty": "Medium",
+    "q_en": "Which of the following works is associated with Jaishankar Prasad, a prominent figure in modern Hindi literature and theatre?",
+    "q_hi": "आधुनिक हिंदी साहित्य और रंगमंच की एक प्रमुख हस्ती जयशंकर प्रसाद निम्नलिखित में से किस रचना से जुड़े हैं?",
+    "op_en": [
+      "Kamayani",
+      "Karmabhoomi",
+      "Godan",
+      "Madhushala"
+    ],
+    "op_hi": [
+      "कामायनी",
+      "कर्मभूमि",
+      "गोदान",
+      "मधुशाला"
+    ],
+    "ans": 1,
+    "solution": "<b>Solution (EN):</b><br>Kamayani is an epic Hindi poem written by Jaishankar Prasad, published in 1936. It is considered one of the greatest literary works in modern Hindi literature and belongs to the Chhayavaadi (Neo-romantic) movement.<br><br><b>Solution (HI):</b><br>कामायनी जयशंकर प्रसाद द्वारा लिखित एक महाकाव्य हिंदी कविता है, जिसे 1936 में प्रकाशित किया गया था। इसे आधुनिक हिंदी साहित्य में महानतम साहित्यिक कृतियों में से एक माना जाता है और यह छायावादी आंदोलन से संबंधित है।<br><br><b>Key Fact:</b><br>Among the other options: Godan and Karmabhoomi were written by Munshi Premchand, and Madhushala was authored by Harivansh Rai Bachchan."
+  },
+  {
+    "section": "General Awareness",
+    "topic": "Art and Culture",
+    "difficulty": "Medium",
+    "q_en": "What is another name for the Indo-Saracenic architectural style?",
+    "q_hi": "इंडो-सारसेनिक वास्तुकला शैली का दूसरा नाम क्या है?",
+    "op_en": [
+      "Neo-Mughal style",
+      "Victorian Indian style",
+      "Gothic-Islamic style",
+      "Renaissance-Indian style"
+    ],
+    "op_hi": [
+      "नव-मुगल शैली",
+      "विक्टोरियन भारतीय शैली",
+      "गोथिक-इस्लामिक शैली",
+      "पुनर्जागरण-भारतीय शैली"
+    ],
+    "ans": 1,
+    "solution": "<b>Solution (EN):</b><br>Indo-Saracenic architecture (also known as Indo-Gothic, Mughal-Gothic, Neo-Mughal, or Hindu style) was a revivalist architectural style mostly used by British architects in India in the later 19th century. It drew elements from native Indo-Islamic architecture and combined it with the Gothic revival and Neo-Classical styles favored in Victorian Britain.<br><br><b>Solution (HI):</b><br>इंडो-सारसेनिक वास्तुकला (जिसे इंडो-गॉथिक, मुगल-गॉथिक, नव-मुगल या हिंदू शैली के रूप में भी जाना जाता है) एक पुनरुत्थानवादी वास्तुकला शैली थी जिसका उपयोग मुख्य रूप से 19वीं सदी के अंत में भारत में ब्रिटिश वास्तुकारों द्वारा किया गया था। इसने मूल इंडो-इस्लामिक वास्तुकला से तत्वों को लिया और इसे विक्टोरियन ब्रिटेन में पसंदीदा गॉथिक पुनरुद्धार और नव-शास्त्रीय शैलियों के साथ जोड़ा।<br><br><b>Key Fact:</b><br>Notable examples include the Gateway of India, Chhatrapati Shivaji Maharaj Terminus (formerly Victoria Terminus), and the Victoria Memorial."
+  },
+  {
+    "section": "General Awareness",
+    "topic": "Current Affairs",
+    "difficulty": "Medium",
+    "q_en": "Which of the following States launched 'CSpace', India's maiden government-backed Over-The-Top (OTT) platform, in March 2024?",
+    "q_hi": "मार्च 2024 में निम्नलिखित में से किस राज्य ने भारत का पहला सरकार समर्थित ओवर-द-टॉप (OTT) प्लेटफॉर्म 'CSpace' लॉन्च किया?",
+    "op_en": [
+      "Kerala",
+      "Karnataka",
+      "Odisha",
+      "Rajasthan"
+    ],
+    "op_hi": [
+      "केरल",
+      "कर्नाटक",
+      "ओडिशा",
+      "राजस्थान"
+    ],
+    "ans": 1,
+    "solution": "<b>Solution (EN):</b><br>Kerala launched 'CSpace', India's first government-backed Over-The-Top (OTT) platform, in March 2024. It is managed by the Kerala State Film Development Corporation (KSFDC) and aims to promote Malayalam cinema and culture while ensuring fair compensation for creators.<br><br><b>Solution (HI):</b><br>केरल ने मार्च 2024 में भारत का पहला सरकार समर्थित ओवर-द-टॉप (OTT) प्लेटफॉर्म 'CSpace' लॉन्च किया। इसका प्रबंधन केरल राज्य फिल्म विकास निगम (KSFDC) द्वारा किया जाता है और इसका उद्देश्य मलयालम सिनेमा और संस्कृति को बढ़ावा देने के साथ-साथ रचनाकारों के लिए उचित पारिश्रमिक सुनिश्चित करना है।<br><br><b>Key Fact:</b><br>CSpace focuses on providing a platform for award-winning films, short films, and documentaries that often struggle to find space on mainstream OTT platforms."
+  },
+  {
+    "section": "General Awareness",
+    "topic": "Economy",
+    "difficulty": "Easy",
+    "q_en": "Which of the following is the oldest public sector bank in India?",
+    "q_hi": "निम्नलिखित में से कौन सा भारत का सबसे पुराना सार्वजनिक क्षेत्र का बैंक है?",
+    "op_en": [
+      "Central Bank of India",
+      "Allahabad Bank",
+      "Canara Bank",
+      "Bank of Baroda"
+    ],
+    "op_hi": [
+      "सेंट्रल बैंक ऑफ इंडिया",
+      "इलाहाबाद बैंक",
+      "केनरा बैंक",
+      "बैंक ऑफ बड़ौदा"
+    ],
+    "ans": 2,
+    "solution": "<b>Solution (EN):</b><br>Allahabad Bank, founded in 1865 in Allahabad (now Prayagraj), was the oldest joint-stock bank in India and one of the oldest public sector banks until it was merged into Indian Bank in 2020.<br><br><b>Solution (HI):</b><br>इलाहाबाद बैंक, जिसकी स्थापना 1865 में इलाहाबाद (अब प्रयागराज) में हुई थी, भारत का सबसे पुराना संयुक्त स्टॉक बैंक था और 2020 में इंडियन बैंक में विलय होने तक यह सबसे पुराने सार्वजनिक क्षेत्र के बैंकों में से एक था।<br><br><b>Key Fact:</b><br>State Bank of India (SBI) has roots back to the Bank of Calcutta founded in 1806, but as a continuously operating entity under its own original name and structure, Allahabad Bank was historically cited as the oldest joint-stock bank."
+  },
+  {
+    "section": "General Awareness",
+    "topic": "History",
+    "difficulty": "Hard",
+    "q_en": "Kulottunga I, who abolished tolls and earned the title – Sungam Tavirtta Cholan, ruled from 1070 AD to _________.",
+    "q_hi": "कुलोत्तुंग प्रथम, जिसने टोल को समाप्त कर दिया और सुंगम तविर्त्त चोलन की उपाधि अर्जित की, ने 1070 ईस्वी से _________ तक शासन किया।",
+    "op_en": [
+      "1122 AD",
+      "1100 AD",
+      "1105 AD",
+      "1114 AD"
+    ],
+    "op_hi": [
+      "1122 ईस्वी",
+      "1100 ईस्वी",
+      "1105 ईस्वी",
+      "1114 ईस्वी"
+    ],
+    "ans": 1,
+    "solution": "<b>Solution (EN):</b><br>Kulottunga Chola I was a significant Chola emperor who ruled from 1070 AD to 1122 AD. He is famous for abolishing tolls and customs duties, which earned him the title 'Sungam Tavirtta Cholan' (the Chola who abolished tolls).<br><br><b>Solution (HI):</b><br>कुलोत्तुंग चोल प्रथम एक महत्वपूर्ण चोल सम्राट था जिसने 1070 ईस्वी से 1122 ईस्वी तक शासन किया। वह टोल और सीमा शुल्क को समाप्त करने के लिए प्रसिद्ध है, जिसने उसे 'सुंगम तविर्त्त चोलन' (टोल को समाप्त करने वाला चोल) की उपाधि दिलाई।<br><br><b>Key Fact:</b><br>His reign marked the beginning of a new line of rulers known as the Later Cholas or Chalukya-Cholas, as his father was an Eastern Chalukya prince and his mother a Chola princess."
+  },
+  {
+    "section": "General Awareness",
+    "topic": "Current Affairs",
+    "difficulty": "Medium",
+    "q_en": "Which of the following statements regarding the PM Vidyalaxmi scheme are correct?<br><br>1. PM Vidyalaxmi is a Central Sector scheme providing financial assistance to meritorious students in both public and private institutions.<br>2. The scheme covers full tuition and expenses for students in top 500 NIRF-ranked Quality Higher Education Institutions (QHEIs).<br>3. Students with an annual family income up to ₹8 lakh are eligible for interest subvention on loans up to ₹10 lakh, if not receiving any other government scholarship.",
+    "q_hi": "पीएम विद्यालक्ष्मी योजना के संबंध में निम्नलिखित में से कौन से कथन सही हैं?<br><br>1. पीएम विद्यालक्ष्मी एक केंद्रीय क्षेत्र की योजना है जो सार्वजनिक और निजी दोनों संस्थानों में मेधावी छात्रों को वित्तीय सहायता प्रदान करती है。<br>2. यह योजना शीर्ष 500 NIRF-रैंक वाले गुणवत्तापूर्ण उच्च शिक्षा संस्थानों (QHEIs) में छात्रों के लिए पूर्ण ट्यूशन और खर्चों को कवर करती है。<br>3. ₹8 लाख तक की वार्षिक पारिवारिक आय वाले छात्र ₹10 लाख तक के ऋण पर ब्याज छूट (subvention) के लिए पात्र हैं, यदि वे कोई अन्य सरकारी छात्रवृत्ति प्राप्त नहीं कर रहे हैं।",
+    "op_en": [
+      "1, 2 and 3",
+      "Only 1 and 3",
+      "Only 2 and 3",
+      "Only 1 and 2"
+    ],
+    "op_hi": [
+      "1, 2 और 3",
+      "केवल 1 और 3",
+      "केवल 2 और 3",
+      "केवल 1 और 2"
+    ],
+    "ans": 2,
+    "solution": "<b>Solution (EN):</b><br>PM Vidyalaxmi is a Central Sector scheme offering financial assistance for higher education (Statement 1 is correct). It aims to ensure that no meritorious student is denied higher education due to financial constraints. Statement 2 is incorrect because the scheme does not necessarily cover the \"full tuition and expenses\" unconditionally for everyone but facilitates collateral-free, guarantor-free education loans up to a certain limit. Statement 3 is correct; students with a family income of up to ₹8 lakh get 3% interest subvention on loans up to ₹10 lakh during the moratorium period. Hence, only statements 1 and 3 are correct.<br><br><b>Solution (HI):</b><br>पीएम विद्यालक्ष्मी उच्च शिक्षा के लिए वित्तीय सहायता प्रदान करने वाली एक केंद्रीय क्षेत्र की योजना है (कथन 1 सही है)। इसका उद्देश्य यह सुनिश्चित करना है कि वित्तीय बाधाओं के कारण किसी भी मेधावी छात्र को उच्च शिक्षा से वंचित न किया जाए। कथन 2 गलत है क्योंकि यह योजना अनिवार्य रूप से सभी के लिए \"पूर्ण ट्यूशन और खर्चों\" को कवर नहीं करती है, बल्कि एक निश्चित सीमा तक संपार्श्विक-मुक्त (collateral-free), गारंटर-मुक्त शिक्षा ऋण की सुविधा प्रदान करती है। कथन 3 सही है; ₹8 लाख तक की पारिवारिक आय वाले छात्रों को अधिस्थगन अवधि के दौरान ₹10 लाख तक के ऋण पर 3% ब्याज छूट मिलती है। इसलिए, केवल कथन 1 और 3 सही हैं।<br><br><b>Key Fact:</b><br>The scheme targets students admitted to the top 860 Quality Higher Education Institutions (QHEIs) of India, based on NIRF rankings."
+  },
+  {
+    "section": "General Awareness",
+    "topic": "Environment and Ecology",
+    "difficulty": "Medium",
+    "q_en": "Who among the following is the chairperson of the National Tiger Conservation Authority (NTCA), as of April 2024?",
+    "q_hi": "अप्रैल 2024 तक, निम्नलिखित में से कौन राष्ट्रीय बाघ संरक्षण प्राधिकरण (NTCA) के अध्यक्ष हैं?",
+    "op_en": [
+      "Nisith Pramanik",
+      "Bhupender Yadav",
+      "Shantanu Thakur",
+      "Bhagwanth Khuba"
+    ],
+    "op_hi": [
+      "निसिथ प्रमाणिक",
+      "भूपेंद्र यादव",
+      "शांतनु ठाकुर",
+      "भगवंत खुबा"
+    ],
+    "ans": 2,
+    "solution": "<b>Solution (EN):</b><br>The Minister for Environment, Forest and Climate Change acts as the Chairperson of the National Tiger Conservation Authority (NTCA). As of April 2024, Bhupender Yadav is the Union Minister for Environment, Forest and Climate Change, and thus serves as the Chairperson of NTCA.<br><br><b>Solution (HI):</b><br>पर्यावरण, वन और जलवायु परिवर्तन मंत्री राष्ट्रीय बाघ संरक्षण प्राधिकरण (NTCA) के अध्यक्ष के रूप में कार्य करते हैं। अप्रैल 2024 तक, भूपेंद्र यादव केंद्रीय पर्यावरण, वन और जलवायु परिवर्तन मंत्री हैं, और इस प्रकार NTCA के अध्यक्ष के रूप में कार्य करते हैं।<br><br><b>Key Fact:</b><br>NTCA is a statutory body under the Ministry of Environment, Forests and Climate Change constituted under enabling provisions of the Wildlife (Protection) Act, 1972, as amended in 2006."
+  },
+  {
+    "section": "General Awareness",
+    "topic": "Geography",
+    "difficulty": "Easy",
+    "q_en": "The Kathiawar coast is a part of which state of India?",
+    "q_hi": "काठियावाड़ तट भारत के किस राज्य का हिस्सा है?",
+    "op_en": [
+      "Karnataka",
+      "Gujarat",
+      "Maharashtra",
+      "Goa"
+    ],
+    "op_hi": [
+      "कर्नाटक",
+      "गुजरात",
+      "महाराष्ट्र",
+      "गोवा"
+    ],
+    "ans": 2,
+    "solution": "<b>Solution (EN):</b><br>The Kathiawar coast forms part of the Kathiawar Peninsula in the state of Gujarat, India. It is bounded by the Gulf of Kutch to the northwest, the Arabian Sea to the south and west, and the Gulf of Khambhat to the east and southeast.<br><br><b>Solution (HI):</b><br>काठियावाड़ तट भारत के गुजरात राज्य में काठियावाड़ प्रायद्वीप का हिस्सा है। यह उत्तर-पश्चिम में कच्छ की खाड़ी, दक्षिण और पश्चिम में अरब सागर और पूर्व और दक्षिण-पूर्व में खंभात की खाड़ी से घिरा है।<br><br><b>Key Fact:</b><br>The Gir Forest National Park, famous for its Asiatic lions, is located in the Kathiawar peninsula."
+  },
+  {
+    "section": "General Awareness",
+    "topic": "History",
+    "difficulty": "Easy",
+    "q_en": "Which of the following battles in 1526 led to the founding of the Mughal Empire in India?",
+    "q_hi": "1526 में निम्नलिखित में से किस युद्ध के कारण भारत में मुगल साम्राज्य की स्थापना हुई?",
+    "op_en": [
+      "Battle of Chausa",
+      "Battle of Chanderi",
+      "Battle of Ghagra",
+      "First battle of Panipat"
+    ],
+    "op_hi": [
+      "चौसा का युद्ध",
+      "चंदेरी का युद्ध",
+      "घाघरा का युद्ध",
+      "पानीपत का प्रथम युद्ध"
+    ],
+    "ans": 4,
+    "solution": "<b>Solution (EN):</b><br>The First Battle of Panipat was fought on April 21, 1526, between the invading forces of Babur and the Lodi dynasty led by Ibrahim Lodi. Babur's victory in this battle marked the beginning of the Mughal Empire in India and the end of the Delhi Sultanate.<br><br><b>Solution (HI):</b><br>पानीपत का प्रथम युद्ध 21 अप्रैल, 1526 को बाबर की आक्रमणकारी सेनाओं और इब्राहिम लोदी के नेतृत्व वाले लोदी वंश के बीच लड़ा गया था। इस युद्ध में बाबर की जीत ने भारत में मुगल साम्राज्य की शुरुआत और दिल्ली सल्तनत के अंत को चिह्नित किया।<br><br><b>Key Fact:</b><br>Babur introduced field artillery (cannons) and the tulughma (flanking) and araba (cart) formations in India during this battle, which were crucial to his victory over Ibrahim Lodi's much larger army."
+  },
+  {
+    "section": "General Awareness",
+    "topic": "History",
+    "difficulty": "Easy",
+    "q_en": "In December 1924, at which of the following places was the 39<sup>th</sup> session of the Indian National Congress held, the only session presided over by Mahatma Gandhi?",
+    "q_hi": "दिसंबर 1924 में, भारतीय राष्ट्रीय कांग्रेस का 39वाँ अधिवेशन निम्नलिखित में से किस स्थान पर आयोजित किया गया था, जो एकमात्र अधिवेशन था जिसकी अध्यक्षता महात्मा गांधी ने की थी?",
+    "op_en": [
+      "Lahore",
+      "Lucknow",
+      "Bombay",
+      "Belgaum"
+    ],
+    "op_hi": [
+      "लाहौर",
+      "लखनऊ",
+      "बॉम्बे",
+      "बेलगाम"
+    ],
+    "ans": 4,
+    "solution": "<b>Solution (EN):</b><br>The 39th session of the Indian National Congress was held in Belgaum in December 1924. This session is historically significant because it was the only INC session ever presided over by Mahatma Gandhi.<br><br><b>Solution (HI):</b><br>भारतीय राष्ट्रीय कांग्रेस का 39वाँ अधिवेशन दिसंबर 1924 में बेलगाम में आयोजित किया गया था। यह अधिवेशन ऐतिहासिक रूप से महत्वपूर्ण है क्योंकि यह एकमात्र ऐसा कांग्रेस अधिवेशन था जिसकी अध्यक्षता महात्मा गांधी ने की थी।<br><br><b>Key Fact:</b><br>Mahatma Gandhi became the President of the Indian National Congress only once in his lifetime, at the Belgaum session (1924)."
+  }
+]
