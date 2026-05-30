@@ -1,0 +1,422 @@
+[
+  {
+    "ans": "2",
+    "level": "Moderate",
+    "op_en": [
+      "MTQ",
+      "RXV",
+      "PWT",
+      "BIF"
+    ],
+    "op_hi": [
+      "MTQ",
+      "RXV",
+      "PWT",
+      "BIF"
+    ],
+    "q_en": "Based on the English alphabetical order, three of the following four letter-clusters are alike in a certain way and thus form a group. Which is the one that does not belong to that group?<br>(Note: The odd one out is not based on the number of consonants/vowels or their position in the letter cluster.)",
+    "q_hi": "अंग्रेजी वर्णमाला के क्रम के आधार पर, निम्नलिखित चार अक्षर-समूहों में से तीन एक निश्चित तरीके से समान हैं और इस प्रकार एक समूह बनाते हैं। वह कौन सा है जो उस समूह से संबंधित नहीं है?<br>(नोट: बेजोड़ का चयन स्वर/व्यंजन की संख्या या अक्षर समूह में उनके स्थान पर आधारित नहीं है।)",
+    "section": "General Intelligence and Reasoning Ability1",
+    "solution": "Pattern: +7, -3.<br>M(+7) = T, T(-3) = Q.<br>P(+7) = W, W(-3) = T.<br>B(+7) = I, I(-3) = F.<br>But R(+6) = X, X(-2) = V.<br>So, RXV is the odd one out.<br><br>पैटर्न: +7, -3.<br>M(+7) = T, T(-3) = Q.<br>P(+7) = W, W(-3) = T.<br>B(+7) = I, I(-3) = F.<br>लेकिन R(+6) = X, X(-2) = V.<br>इसलिए, RXV बेजोड़ है।",
+    "topic": "Letter Classification"
+  },
+  {
+    "ans": "4",
+    "level": "Moderate",
+    "op_en": [
+      "AH-CJ-EF",
+      "BH-CJ-EF",
+      "BH-CI-EF",
+      "AH-CJ-EG"
+    ],
+    "op_hi": [
+      "AH-CJ-EF",
+      "BH-CJ-EF",
+      "BH-CI-EF",
+      "AH-CJ-EG"
+    ],
+    "q_en": "Select the triad which follows the same pattern as that followed by the two triads given below. Both triads follow the same pattern.<br>EL-GN-IK<br>CJ-EL-GI",
+    "q_hi": "उस त्रिक का चयन करें जो नीचे दिए गए दो त्रिकों द्वारा अनुसरण किए जाने वाले समान पैटर्न का अनुसरण करता है। दोनों त्रिक समान पैटर्न का अनुसरण करते हैं।<br>EL-GN-IK<br>CJ-EL-GI",
+    "section": "General Intelligence and Reasoning Ability1",
+    "solution": "Pattern for first letter: +2, +2.<br>Pattern for second letter: +2, -3.<br>E(+2)=G(+2)=I; L(+2)=N(-3)=K.<br>C(+2)=E(+2)=G; J(+2)=L(-3)=I.<br>Similarly, A(+2)=C(+2)=E; H(+2)=J(-3)=G.<br><br>पहले अक्षर के लिए पैटर्न: +2, +2.<br>दूसरे अक्षर के लिए पैटर्न: +2, -3.<br>E(+2)=G(+2)=I; L(+2)=N(-3)=K.<br>C(+2)=E(+2)=G; J(+2)=L(-3)=I.<br>उसी प्रकार, A(+2)=C(+2)=E; H(+2)=J(-3)=G.",
+    "topic": "Letter Analogy"
+  },
+  {
+    "ans": "2",
+    "level": "Moderate",
+    "op_en": [
+      "5",
+      "3",
+      "1",
+      "7"
+    ],
+    "op_hi": [
+      "5",
+      "3",
+      "1",
+      "7"
+    ],
+    "q_en": "In a certain code language, ‘DUET’ is coded as ‘7523’ and ‘UGLY’ is coded as ‘4136’.     <br>What is the code for ‘U’ in the given code language?",
+    "q_hi": "एक निश्चित कूट भाषा में, ‘DUET’ को ‘7523’ और ‘UGLY’ को ‘4136’ के रूप में कूटबद्ध किया जाता है।<br>दी गई कूट भाषा में ‘U’ के लिए कूट क्या है?",
+    "section": "General Intelligence and Reasoning Ability1",
+    "solution": "Comparing 'DUET' = 7523 and 'UGLY' = 4136. The common letter is 'U' and the common digit is '3'. Hence, code for U is 3.<br><br>'DUET' = 7523 और 'UGLY' = 4136 की तुलना करने पर। सामान्य अक्षर 'U' है और सामान्य अंक '3' है। अतः, U का कूट 3 है।",
+    "topic": "Coding-Decoding"
+  },
+  {
+    "ans": "2",
+    "level": "Moderate",
+    "op_en": [
+      "3",
+      "1",
+      "0",
+      "2"
+    ],
+    "op_hi": [
+      "3",
+      "1",
+      "0",
+      "2"
+    ],
+    "q_en": "Each vowel in the word ACETYLS is changed to the letter immediately following it in the English alphabetical order and each consonant is changed to the letter immediately preceding it in the English alphabetical order. How many letters will appear exactly twice in the group of letters thus formed? <span style=\"color:#ffffff;\">3999</span>",
+    "q_hi": "शब्द ACETYLS में प्रत्येक स्वर को अंग्रेजी वर्णमाला के क्रम में उसके ठीक बाद वाले अक्षर में बदल दिया जाता है और प्रत्येक व्यंजन को अंग्रेजी वर्णमाला के क्रम में उसके ठीक पहले वाले अक्षर में बदल दिया जाता है। इस प्रकार बने अक्षरों के समूह में कितने अक्षर ठीक दो बार आएंगे? <span style=\"color:#ffffff;\">3999</span>",
+    "section": "General Intelligence and Reasoning Ability1",
+    "solution": "Word: A C E T Y L S<br>Vowels (+1): A -> B, E -> F<br>Consonants (-1): C -> B, T -> S, Y -> X, L -> K, S -> R<br>New arrangement: B, B, F, S, X, K, R. Only 'B' appears exactly twice. Thus, 1 letter.<br><br>शब्द: A C E T Y L S<br>स्वर (+1): A -> B, E -> F<br>व्यंजन (-1): C -> B, T -> S, Y -> X, L -> K, S -> R<br>नई व्यवस्था: B, B, F, S, X, K, R. केवल 'B' ठीक दो बार आता है। अतः, 1 अक्षर।",
+    "topic": "Alphabet Test"
+  },
+  {
+    "ans": "1",
+    "level": "Moderate",
+    "op_en": [
+      "RUZ",
+      "RVZ",
+      "RVY",
+      "RUY"
+    ],
+    "op_hi": [
+      "RUZ",
+      "RVZ",
+      "RVY",
+      "RUY"
+    ],
+    "q_en": "What should come in place of ? in the given series based on the English alphabetical order?<br>BEJ    FIN   JMR   NQV   ?",
+    "q_hi": "अंग्रेजी वर्णमाला के क्रम पर आधारित दी गई श्रृंखला में ? के स्थान पर क्या आना चाहिए?<br>BEJ   FIN   JMR   NQV   ?",
+    "section": "General Intelligence and Reasoning Ability1",
+    "solution": "The pattern is +4 for each corresponding letter.<br>1st letter: B(+4) = F(+4) = J(+4) = N(+4) = R<br>2nd letter: E(+4) = I(+4) = M(+4) = Q(+4) = U<br>3rd letter: J(+4) = N(+4) = R(+4) = V(+4) = Z<br>Next term is RUZ.<br><br>प्रत्येक संगत अक्षर के लिए पैटर्न +4 है।<br>पहला अक्षर: B(+4) = F(+4) = J(+4) = N(+4) = R<br>दूसरा अक्षर: E(+4) = I(+4) = M(+4) = Q(+4) = U<br>तीसरा अक्षर: J(+4) = N(+4) = R(+4) = V(+4) = Z<br>अगला पद RUZ है।",
+    "topic": "Letter Series"
+  },
+  {
+    "ans": "4",
+    "level": "Moderate",
+    "op_en": [
+      "3",
+      "4",
+      "1",
+      "2"
+    ],
+    "op_hi": [
+      "3",
+      "4",
+      "1",
+      "2"
+    ],
+    "q_en": "The position(s) of how many letters will remain unchanged if each letter in the word WHISTLE is arranged in alphabetical order?<span style=\"color:#ffffff;\">4852</span>",
+    "q_hi": "यदि शब्द WHISTLE के प्रत्येक अक्षर को वर्णानुक्रम में व्यवस्थित किया जाए, तो कितने अक्षरों का स्थान अपरिवर्तित रहेगा?<span style=\"color:#ffffff;\">4852</span>",
+    "section": "General Intelligence and Reasoning Ability1",
+    "solution": "Original word: W H I S T L E<br>Alphabetical order: E H I L S T W<br>Letters 'H' and 'I' remain in their original positions. Hence, 2 letters.<br><br>मूल शब्द: W H I S T L E<br>वर्णानुक्रम: E H I L S T W<br>अक्षर 'H' और 'I' अपने मूल स्थान पर रहते हैं। अतः, 2 अक्षर।",
+    "topic": "Alphabet Test"
+  },
+  {
+    "ans": "4",
+    "level": "Moderate",
+    "op_en": [
+      "3",
+      "1",
+      "2",
+      "4"
+    ],
+    "op_hi": [
+      "3",
+      "1",
+      "2",
+      "4"
+    ],
+    "q_en": "A, E, Q, S, X, W and Z are sitting around a circular table facing the centre. W is an immediate neighbour of both E and X. X sits third to the left of Z. A sits to the immediate left of Z. S is not an immediate neighbour of X. How many people sit between S and W when counted from the left of S?",
+    "q_hi": "A, E, Q, S, X, W और Z एक वृत्ताकार मेज के चारों ओर केंद्र की ओर मुख करके बैठे हैं। W, E और X दोनों का निकटतम पड़ोसी है। X, Z के बाईं ओर तीसरे स्थान पर बैठा है। A, Z के ठीक बाईं ओर बैठा है। S, X का निकटतम पड़ोसी नहीं है। S के बाईं ओर से गिनने पर S और W के बीच कितने लोग बैठे हैं?",
+    "section": "General Intelligence and Reasoning Ability1",
+    "solution": "Positions around the circle (facing center, Clockwise):<br>1. Z<br>2. A (immediate left of Z)<br>3. Q<br>4. X (3rd to left of Z)<br>5. W (neighbor of X)<br>6. E (W is between X and E)<br>7. S (S is not a neighbor of X)<br>Counting from left of S (Clockwise): Z, A, Q, X. There are 4 people between S and W.<br><br>वृत्त के चारों ओर स्थान (केंद्र की ओर मुख, दक्षिणावर्त):<br>1. Z<br>2. A (Z के ठीक बाएं)<br>3. Q<br>4. X (Z के बाएं तीसरा)<br>5. W (X का पड़ोसी)<br>6. E (W, X और E के बीच है)<br>7. S (S, X का पड़ोसी नहीं है)<br>S के बाएं से गिनने पर (दक्षिणावर्त): Z, A, Q, X. S और W के बीच 4 लोग हैं।",
+    "topic": "Seating Arrangement"
+  },
+  {
+    "ans": "4",
+    "level": "Moderate",
+    "op_en": [
+      "208",
+      "214",
+      "212",
+      "210"
+    ],
+    "op_hi": [
+      "208",
+      "214",
+      "212",
+      "210"
+    ],
+    "q_en": "What should come in place of ‘?’ in the given series?<br>75,    84,    102,    129,    165,      ?",
+    "q_hi": "दी गई श्रृंखला में ‘?’ के स्थान पर क्या आना चाहिए?<br>75,   84,   102,   129,   165,      ?",
+    "section": "General Intelligence and Reasoning Ability1",
+    "solution": "The pattern is the addition of multiples of 9.<br>75 + 9 = 84<br>84 + 18 = 102<br>102 + 27 = 129<br>129 + 36 = 165<br>165 + 45 = 210<br><br>पैटर्न 9 के गुणजों का योग है।<br>75 + 9 = 84<br>84 + 18 = 102<br>102 + 27 = 129<br>129 + 36 = 165<br>165 + 45 = 210",
+    "topic": "Number Series"
+  },
+  {
+    "ans": "2",
+    "level": "Moderate",
+    "op_en": [
+      "GJ – LM",
+      "SV – XZ",
+      "LO – QR",
+      "PS – UV"
+    ],
+    "op_hi": [
+      "GJ – LM",
+      "SV – XZ",
+      "LO – QR",
+      "PS – UV"
+    ],
+    "q_en": "Based on the English alphabetical order, three of the following four letter cluster pairs are alike in a certain way and thus form a group. Which is the one that does not belong to that group?<br>(Note: The odd man out is not based on the number of consonants/vowels or their position in the letter cluster)<span style=\"color:#ffffff;\">4553</span>",
+    "q_hi": "अंग्रेजी वर्णमाला के क्रम के आधार पर, निम्नलिखित चार अक्षर समूह युग्मों में से तीन एक निश्चित तरीके से समान हैं और इस प्रकार एक समूह बनाते हैं। वह कौन सा है जो उस समूह से संबंधित नहीं है?<br>(नोट: बेजोड़ का चयन स्वर/व्यंजन की संख्या या अक्षर समूह में उनके स्थान पर आधारित नहीं है)<span style=\"color:#ffffff;\">4553</span>",
+    "section": "General Intelligence and Reasoning Ability1",
+    "solution": "The pattern for all pairs except the second is adding +5 to the first letter and +3 to the second letter to get the second cluster.<br>G(+5) = L, J(+3) = M.<br>L(+5) = Q, O(+3) = R.<br>P(+5) = U, S(+3) = V.<br>For SV - XZ: S(+5) = X, V(+4) = Z. Hence, SV - XZ is odd.<br><br>दूसरे को छोड़कर सभी युग्मों का पैटर्न पहले अक्षर में +5 और दूसरे अक्षर में +3 जोड़कर दूसरा समूह प्राप्त करना है।<br>G(+5) = L, J(+3) = M.<br>L(+5) = Q, O(+3) = R.<br>P(+5) = U, S(+3) = V.<br>SV - XZ के लिए: S(+5) = X, V(+4) = Z. इसलिए, SV - XZ बेजोड़ है।",
+    "topic": "Letter Classification"
+  },
+  {
+    "ans": "1",
+    "level": "Moderate",
+    "op_en": [
+      "12",
+      "2",
+      "22",
+      "-8"
+    ],
+    "op_hi": [
+      "12",
+      "2",
+      "22",
+      "-8"
+    ],
+    "q_en": "What will come in the place of ‘?’ in the following equation, if  ‘+’ and ‘x‘ are interchanged and ‘–’ and ‘÷’ are interchanged?<br>21+14-7x1÷31 = ?<span style=\"color:#ffffff;\">190</span>",
+    "q_hi": "यदि ‘+’ और ‘x‘ को आपस में बदल दिया जाए तथा ‘–’ और ‘÷’ को आपस में बदल दिया जाए, तो निम्नलिखित समीकरण में ‘?’ के स्थान पर क्या आएगा?<br>21+14-7x1÷31 = ?<span style=\"color:#ffffff;\">190</span>",
+    "section": "General Intelligence and Reasoning Ability1",
+    "solution": "Given equation: 21 + 14 - 7 x 1 ÷ 31<br>After interchanging the signs (+ and x, - and ÷):<br>21 x 14 ÷ 7 + 1 - 31<br>Apply BODMAS:<br>= 21 x 2 + 1 - 31<br>= 42 + 1 - 31<br>= 43 - 31 = 12.<br><br>दिया गया समीकरण: 21 + 14 - 7 x 1 ÷ 31<br>चिह्नों को आपस में बदलने के बाद (+ और x, - और ÷):<br>21 x 14 ÷ 7 + 1 - 31<br>BODMAS लागू करें:<br>= 21 x 2 + 1 - 31<br>= 42 + 1 - 31<br>= 43 - 31 = 12.",
+    "topic": "Mathematical Operations"
+  },
+  {
+    "ans": "4",
+    "level": "Moderate",
+    "op_en": [
+      "<span lang=\"EN-US\" style=\"font-size:11.0pt\"><span style=\"line-height:107%\"><span style=\"font-family:&amp;amp;quot;Calibri&amp;amp;quot;,sans-serif\">UVT−WYV</span></span></span>",
+      "<span lang=\"EN-US\" style=\"font-size:11.0pt\"><span style=\"line-height:107%\"><span style=\"font-family:&amp;amp;quot;Calibri&amp;amp;quot;,sans-serif\">UUR−WXV</span></span></span>",
+      "<span lang=\"EN-US\" style=\"font-size:11.0pt\"><span style=\"line-height:107%\"><span style=\"font-family:&amp;amp;quot;Calibri&amp;amp;quot;,sans-serif\">UUR−XYW</span></span></span>",
+      "<span lang=\"EN-US\" style=\"font-size:11.0pt\"><span style=\"line-height:107%\"><span style=\"font-family:&amp;amp;quot;Calibri&amp;amp;quot;,sans-serif\">UVT−XYW</span></span></span>"
+    ],
+    "op_hi": [
+      "UVT−WYV",
+      "UUR−WXV",
+      "UUR−XYW",
+      "UVT−XYW"
+    ],
+    "q_en": "Select the pair which follows the same pattern as that followed by the two pairs given below. Both pairs follow the same pattern.<br>DEC−GHF<br>PQO−STR<span style=\"color:#ffffff;\">6242</span>",
+    "q_hi": "उस युग्म का चयन करें जो नीचे दिए गए दो युग्मों द्वारा अनुसरण किए जाने वाले समान पैटर्न का अनुसरण करता है। दोनों युग्म समान पैटर्न का अनुसरण करते हैं।<br>DEC−GHF<br>PQO−STR<span style=\"color:#ffffff;\">6242</span>",
+    "section": "General Intelligence and Reasoning Ability1",
+    "solution": "The pattern is adding +3 to each letter's positional value.<br>D(+3)=G, E(+3)=H, C(+3)=F.<br>P(+3)=S, Q(+3)=T, O(+3)=R.<br>Similarly, U(+3)=X, V(+3)=Y, T(+3)=W.<br>Hence, UVT-XYW follows the pattern.<br><br>पैटर्न प्रत्येक अक्षर के स्थानीय मान में +3 जोड़ना है।<br>D(+3)=G, E(+3)=H, C(+3)=F.<br>P(+3)=S, Q(+3)=T, O(+3)=R.<br>इसी तरह, U(+3)=X, V(+3)=Y, T(+3)=W.<br>अतः, UVT-XYW पैटर्न का अनुसरण करता है।",
+    "topic": "Letter Analogy"
+  },
+  {
+    "ans": "1",
+    "level": "Moderate",
+    "op_en": [
+      "145",
+      "146",
+      "144",
+      "147"
+    ],
+    "op_hi": [
+      "145",
+      "146",
+      "144",
+      "147"
+    ],
+    "q_en": "Sara ranked 94th from the top and 52nd from the bottom in her class. How many students are there in her class?",
+    "q_hi": "सारा अपनी कक्षा में ऊपर से 94वें और नीचे से 52वें स्थान पर है। उसकी कक्षा में कितने छात्र हैं?",
+    "section": "General Intelligence and Reasoning Ability1",
+    "solution": "Total students = Rank from top + Rank from bottom - 1<br>Total = 94 + 52 - 1 = 146 - 1 = 145.<br><br>कुल छात्र = ऊपर से स्थान + नीचे से स्थान - 1<br>कुल = 94 + 52 - 1 = 146 - 1 = 145.",
+    "topic": "Ranking"
+  },
+  {
+    "ans": "3",
+    "level": "Moderate",
+    "op_en": [
+      "Two",
+      "Three",
+      "More than three",
+      "One"
+    ],
+    "op_hi": [
+      "दो",
+      "तीन",
+      "तीन से अधिक",
+      "एक"
+    ],
+    "q_en": "Refer to the following letter series and answer the question. Counting to be done from left to right only.<br>(Left)  M   U  Y  R   A  N  V  H  I  T  H  U  Q  I  X  I  L  A  V  I  S  H  U  I  O  D  H  (Right)<br>How many such consonants are there each of which is immediately preceded by a vowel and also immediately followed by a consonant?<span style=\"color:#ffffff;\">7434</span>",
+    "q_hi": "निम्नलिखित अक्षर श्रृंखला का संदर्भ लें और प्रश्न का उत्तर दें। गिनती केवल बाएं से दाएं की जानी है।<br>(बाएं)  M   U  Y  R   A  N  V  H  I  T  H  U  Q  I  X  I  L  A  V  I  S  H  U  I  O  D  H  (दाएं)<br>ऐसे कितने व्यंजन हैं जिनमें से प्रत्येक के ठीक पहले एक स्वर है और ठीक बाद में एक व्यंजन है?<span style=\"color:#ffffff;\">7434</span>",
+    "section": "General Intelligence and Reasoning Ability1",
+    "solution": "We need to find the pattern: [Vowel] [Consonant] [Consonant].<br>Checking the series, we find:<br>1. U Y R<br>2. A N V<br>3. I T H<br>4. I S H<br>5. O D H<br>There are 5 such consonants, which is more than three.<br><br>हमें यह पैटर्न खोजना है: [स्वर] [व्यंजन] [व्यंजन]।<br>श्रृंखला की जाँच करने पर, हम पाते हैं:<br>1. U Y R<br>2. A N V<br>3. I T H<br>4. I S H<br>5. O D H<br>ऐसे 5 व्यंजन हैं, जो तीन से अधिक हैं।",
+    "topic": "Alphanumeric Series"
+  },
+  {
+    "ans": "3",
+    "level": "Moderate",
+    "op_en": [
+      "15",
+      "21",
+      "19",
+      "17"
+    ],
+    "op_hi": [
+      "15",
+      "21",
+      "19",
+      "17"
+    ],
+    "q_en": "If ‘E’ stands for ‘+’, ‘F’ stands for ‘−’, ‘G’ stands for ‘×’ and ‘H’ stands for ‘÷’, then what will come in place of the question mark ‘?’ in the following equation?<br><br>88 H 11 G 2 E 9 F 6 = ?",
+    "q_hi": "यदि ‘E’ का अर्थ ‘+’ है, ‘F’ का अर्थ ‘−’ है, ‘G’ का अर्थ ‘×’ है और ‘H’ का अर्थ ‘÷’ है, तो निम्नलिखित समीकरण में प्रश्न चिह्न ‘?’ के स्थान पर क्या आएगा?<br><br>88 H 11 G 2 E 9 F 6 = ?",
+    "section": "General Intelligence and Reasoning Ability1",
+    "solution": "Given: 88 H 11 G 2 E 9 F 6<br>Substitute symbols: 88 ÷ 11 × 2 + 9 - 6<br>Apply BODMAS:<br>= 8 × 2 + 9 - 6<br>= 16 + 9 - 6<br>= 25 - 6 = 19.<br><br>दिया गया है: 88 H 11 G 2 E 9 F 6<br>चिह्नों को प्रतिस्थापित करने पर: 88 ÷ 11 × 2 + 9 - 6<br>BODMAS लागू करें:<br>= 8 × 2 + 9 - 6<br>= 16 + 9 - 6<br>= 25 - 6 = 19.",
+    "topic": "Mathematical Operations"
+  },
+  {
+    "ans": "1",
+    "level": "Moderate",
+    "op_en": [
+      "Wife's father's sister",
+      "Wife's father's mother",
+      "Wife's father's brother",
+      "Wife's mother's mother"
+    ],
+    "op_hi": [
+      "पत्नी के पिता की बहन (बुआ)",
+      "पत्नी के पिता की माता (दादी)",
+      "पत्नी के पिता का भाई (चाचा)",
+      "पत्नी की माता की माता (नानी)"
+    ],
+    "q_en": "Shreya is the sister of Atishay. Atishay is the brother of Harsh. Harsh is the father of Mamta. Mamta is the wife of Girish. How is Shreya related to Girish?",
+    "q_hi": "श्रेया, अतिशय की बहन है। अतिशय, हर्ष का भाई है। हर्ष, ममता का पिता है। ममता, गिरीश की पत्नी है। श्रेया, गिरीश से किस प्रकार संबंधित है?",
+    "section": "General Intelligence and Reasoning Ability1",
+    "solution": "Mamta is Girish's wife. Harsh is Mamta's father, so Harsh is Girish's father-in-law. Shreya is Harsh's sister. Therefore, Shreya is Girish's wife's father's sister.<br><br>ममता, गिरीश की पत्नी है। हर्ष, ममता का पिता है, इसलिए हर्ष गिरीश का ससुर है। श्रेया, हर्ष की बहन है। इसलिए, श्रेया गिरीश की पत्नी के पिता की बहन है।",
+    "topic": "Blood Relation"
+  },
+  {
+    "ans": "4",
+    "level": "Moderate",
+    "op_en": [
+      "Brother's wife's mother",
+      "Wife's sister",
+      "Wife's mother",
+      "Brother's wife's sister"
+    ],
+    "op_hi": [
+      "भाई की पत्नी की माता",
+      "पत्नी की बहन",
+      "पत्नी की माता",
+      "भाई की पत्नी की बहन"
+    ],
+    "q_en": "In a certain code language,<br><br>A @ B means ‘A is the daughter of B’,<br>A # B means ‘A is the brother of B’,<br>A \\\\\\\\\\\\\\\\\\\\$ B means ‘A is the wife of B’ and<br>A % B means ‘A is the father of B’.<br><br>Based on the above, how is Jatin related to Disha if ‘Jatin @ Naina % Karan \\\\\\\\\\\\\\\\\\\\$ Piyush # Disha’?",
+    "q_hi": "एक निश्चित कूट भाषा में,<br><br>A @ B का अर्थ है ‘A, B की पुत्री है’,<br>A # B का अर्थ है ‘A, B का भाई है’,<br>A \\\\\\\\\\\\\\\\\\\\$ B का अर्थ है ‘A, B की पत्नी है’ और<br>A % B का अर्थ है ‘A, B का पिता है’।<br><br>उपरोक्त के आधार पर, यदि ‘Jatin @ Naina % Karan \\\\\\\\\\\\\\\\\\\\$ Piyush # Disha’ है, तो जतिन दिशा से किस प्रकार संबंधित है?",
+    "section": "General Intelligence and Reasoning Ability1",
+    "solution": "1. Jatin @ Naina: Jatin is the daughter of Naina.<br>2. Naina % Karan: Naina is the father of Karan.<br>3. Karan \\\\\\\\\\\\\\\\\\\\$ Piyush: Karan is the wife of Piyush.<br>4. Piyush # Disha: Piyush is the brother of Disha.<br>From 1 &amp;amp;amp; 2, Jatin and Karan are sisters. Karan is married to Piyush, who is Disha's brother. Thus, Jatin is the sister of Disha's brother's wife. Jatin is Brother's wife's sister to Disha.<br><br>1. Jatin @ Naina: जतिन, नैना की पुत्री है।<br>2. Naina % Karan: नैना, करन का पिता है।<br>3. Karan \\\\\\\\\\\\\\\\\\\\$ Piyush: करन, पीयूष की पत्नी है।<br>4. Piyush # Disha: पीयूष, दिशा का भाई है।<br>1 और 2 से, जतिन और करन बहनें हैं। करन की शादी पीयूष से हुई है, जो दिशा का भाई है। इस प्रकार, जतिन दिशा के भाई की पत्नी की बहन है।",
+    "topic": "Blood Relation (Coded)"
+  },
+  {
+    "ans": "2",
+    "level": "Moderate",
+    "op_en": [
+      "UXR",
+      "UXS",
+      "UYS",
+      "UYR"
+    ],
+    "op_hi": [
+      "UXR",
+      "UXS",
+      "UYS",
+      "UYR"
+    ],
+    "q_en": "What should come in place of ? in the given series based on the English alphabetical order?<br>EHC    ILG   MPK   QTO   ?",
+    "q_hi": "अंग्रेजी वर्णमाला के क्रम पर आधारित दी गई श्रृंखला में ? के स्थान पर क्या आना चाहिए?<br>EHC   ILG   MPK   QTO   ?",
+    "section": "General Intelligence and Reasoning Ability1",
+    "solution": "The pattern is +4 for each corresponding letter.<br>1st letter: E(+4) = I(+4) = M(+4) = Q(+4) = U<br>2nd letter: H(+4) = L(+4) = P(+4) = T(+4) = X<br>3rd letter: C(+4) = G(+4) = K(+4) = O(+4) = S<br>Next term is UXS.<br><br>प्रत्येक संगत अक्षर के लिए पैटर्न +4 है।<br>पहला अक्षर: E(+4) = I(+4) = M(+4) = Q(+4) = U<br>दूसरा अक्षर: H(+4) = L(+4) = P(+4) = T(+4) = X<br>तीसरा अक्षर: C(+4) = G(+4) = K(+4) = O(+4) = S<br>अगला पद UXS है।",
+    "topic": "Letter Series"
+  },
+  {
+    "ans": "1",
+    "level": "Moderate",
+    "op_en": [
+      "<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGUAAABlCAYAAABUfC3PAAAFKklEQVR42u1da9GjQBBcCUhAQiQgIRKQgAQcREIkREIkRAIS8uME3OW7IlXzUTz2MY8eYKv2x13dJQy92z09DJsQQvh7Tqj5f5w3AhgUj6P5zDeJYfjMq9NYdgFKR6798Zl38uf+BEV/3BYA6Mnf/4BUnaDIj/ozX+P1/tBWO/NvriONfemsPkGRG5fJzb5sgDc40xl3oLRE0F+Rq79ypjOuQKE6cSv8/8g64wKUasyqvtfXFXzWlew0VJ2BB4Vqwnv0I5yfiagz0KA0gqt6uvv6E5Q0QyjJ/4g6AwnKTXkFo+kMFCgxhlBDu6x1BgaUFEOoleX1RwaFGsInAH1Y64w5KKWGcI86YwZKNe4KDkO4N50xAUXCEO5JZ9RBaQJ+mcNaZ1RB6YLfB0+aOqMCSmVgCLV0pvEIiqUh9KozoqBMDWEd9jWm6XyFDsrUEFZhn0NCZ0RAQTWEXnSGFRQPhtCDzrCBopGVHEVnWEChhjC2w2TPo1RnikHRdLpH0ZlsULz1UnnSmSxQ9mgIkXQmGZS9G0IEnUkCpTuIIbTWmWhQbgczhJY6swnKkQ2hlc6sgjLdbpfzXqrozCIopyG005lZUE5DqA8M1ZnVV7bfo56cU2dO7381B8o5bWc9B8p15Dgv8yucb2fX/Z1t+H0WwC/6ejr1I73zWtx9TVNqgljjSCzfc9vfyWiJji+mxD1J0zxkX3NCOThMi7st8/hyQgXdzCobHNHYncjGpqOnRgbVzVcEjJZcb+OExtqZ69ysfd0mKHpaZTdwGqsWdnRUQXIALUY2hLbmVlkFTmNLiyaqdD8XvItVNnoXRBpbo9fo5ykPMBr7ZoevtYAmFIdEY2s7OBoUKqjWJzRcJoK+BUoNRsH9xiJJfhz8pTFL77JWcViKoQWh4DqCTpMbJ6xLMN2GqV2L4Q5AwTGJRzIoliWYOoJC12KwprEt2soGxbIEE5NsbMVgRWP1ig6ygBK7DaU9SQ4olMbuBrQVQ/vZoGiWYFIMbCwFD6Q0o0lblSQomiWYlO+JjaENOl2elLZiF0ARKBolmCaBi1Nj0KCxZ8Z3FL8KIV2CSU3BU2KQprEuczeyvDQkVYLZ8iSloEjSGE3fUwFnASXGP5R8ZpMbkCGNlXwm2zuPOas6hrYeJQEprGqJ3cf6djBXCeZaoFO5MXSBh8Y4dIoVlBTXKpXRlcTwDOU0xkGF7IcblJZgSr1P6WvnJTTGVcJhB6XkESxHlaA0hj6TxmpGzyZyDEiud+FoaeKIYcigIM7HAmIH5qTSUCntccZAtTEmxW8Dbx+AGCgpgp3rSaRASVkkEh0zoud9xaa2HFmPRAwx5XaJ3jLxk/G2TCDNWCowULZS/CbItC+pHFe4RE20Q6aTCIiZxpZ2Us98z1QO9lwqwUg8j5GIYe7m90Gul0ztCNxpCSY3bbYApZ7QVB1kuy7VQLlM0swh+HwPcQjy/Qmqh0V/t/yf4P8lUckWWFVQ0LvgS7Mxl6BIaonGSGkTcgWKVNYlPbjKQLCgSPgTLdpqFb7P7EdtrgGjgz8lndfqqDT9+afc5/Cag+sxsRtQ1kowKLTF2VDhApS1EgzCsGgEhwBlrgSDMNpgd6IsBCgXJVOWQluaXfmQoFAf8DowbcGBglKCaQEqDlA/6NwY3xBKW5amFu6nzy1LMAhvD0OCYlWCaQPOcSFwoEx5vVJaCEiPFCBBod5FIwNCO4IKFhRa4pD0Lk3AO+UIFpQQdEowiE9CV0/wPqftPEFBBeUcYOMfUe3+qEfNMf4AAAAASUVORK5CYII=\" style=\"max-width:100%;height:auto;\">",
+      "<img loading=\"lazy\" src=\"data:image/png;base64,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\" style=\"max-width:100%;height:auto;\">",
+      "<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGUAAABkCAYAAACfIP5qAAAFRElEQVR42u2dMa7UMBCGhxvkCD7CUtGm4ADb0+QIW1LmBimh2yPsEVJQUFBsSblH2ILiIaEHPKREGoYkazsz9oxxJBdPeu+t7S+Zf/6J7QUA+FWbqvYG6iTohvLKYHv90m5oDPeX1hkdy9MaFEvXCfV9fGkD+rkHe5d5KP0KAAqqqVDkLzdN9tzn08LvtCik3aa/qVAEgeDJPjz43SvRmQqF+TpOkxty9/8JXWdDOmMKCtaPIUInrOiMCSgNY0bVRjxpFcqGftyn8MXxPzXrjGooB8HsSbPOqIVC479L9DlNhRJmCKUubTqjCoqPIZT8bC06owZKiCGUzPI06IwKKEdl4SO3zmSHstcQlqgz2aBwGsLSdCYLFAlDWJLOJIciaQhT6cxFOMwmhUIHZgVIap1JBiW1IUylM0eLUPAgUhtCqzojCkWDIbSoM2JQtBlCSzojAoUawtIvbp1hhWLtXbhWnWGDYskQatcZFihWDaFWndkNxboh1Kgzu6CUYgi16UwUlBINoSadCYbiqn6I60wQlA7942sFIpahekP53wxhTp15CKWZ4mAVdN6r39CZTShUP451LpPozCqUagjz6cwilB7Svfqs17868wwPtmyPRttng32+k7lv16DUlq+9W4JymWhZau9R/78a63sHG4cbdIZLKFcysN6QrsyC/3Mt+8JibyUV7lfCgIXMcUSVku9bPqVHqZr2RQ9uQSjPKKXXfA3Eejx09IMRrzIiHZzHgUOC1jDW0WzLt/Z1UQ7miJ7oBo1jds1aw9gBPd2n0IJkgwRUGxj8NMwDw1BwGL4p7fcQWpBcKgdcFbn8AZlcWIECCsPYuDGXQe9TMJiLksd/7vPhARS3ELu1CDvsgULBDEruNtqPJSg0jOUKwZ3HzRH1jh4LVK5wcEIT3HhCwWHsrEjYWaDgjCcHmAYNbsnYbkHBfqZTIuxsUPDdmnqA5wVx94VCn7JUYWwMSJJ2L8brEwtoizyJi4SCJylFGAs14CzLVlOVY3wdug8UnLBIPuXdSoYoDiVVOcbXBPpAwRN2F+qzr7CLQZEux2CBbpmg+OhTCmEXhULLMZyufwwYYAgUJ+T2sbBDTihL5RjOuHz3BB0ChcZ9jid8bygX2V7nGE1aExGXQ6HQieQwtSHCngQKZ1gYImJ+DBSOdy+xwp4MCkc5po0MKzFQ5v7GhjEHfDVB8cMN9pRjrpF/FwuFpt0hicoeYU8OJbYcc9qRxe2BAhF3PLdHy3I2y8EjFPh6EgkoLqB0xCHs2aDQcozzCAWxL9L2QqFhzAkLe1Yo2EGvDbZlKH1wQIEHaT2nsGeHgp8ECmZpEUROKDiMdoLCrgLKWjmmZ6pDcUGhCYcTEnYVUJbKMQfgey/DCQWH3DOCJPmaIusRuBjMN/T5t52N6//MDS+HfQL5he/ZzyV2BIiF9kF4TlSc4P0WffbHCZS29mXq3yeQX4io5qz7DvTuKUm9yF3Vt0L0kGd1jE/2lXI7iLrvTwkpx0hfOCNMuaNN9Zfa3CHf8lJJx24Sik85Rvq6gsyCCtNQAPLticm9e001lAbS74nJIeymoNDYLh1Kcgm7OSipRDensJuEMk+a5J6YnMJuFgoNL5xgtG1LN/fV5x1z3Ncg7OahUNd/ZHryNJ1BYxIKdf0xd7gmYS8Gyl4t0CTsRUGJLcdgmE2FIuP6Q8oxGoW9OCgh5Rgs7J3i8RQBhQr3xZiwFwtla+Ib5cJeNJQ5RNFyjHZhLx4KwN97Ykawc+Ri0VBwlmVB2L2gPBXS5uPJn431+wc8OFa9tnztzW88TAGjJ2a1RgAAAABJRU5ErkJggg==\" style=\"max-width:100%;height:auto;\">",
+      "<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGUAAABlCAYAAABUfC3PAAAEsUlEQVR42u2dzY2jQBCFOwRCIASHQAgOgRA47pHj3gjBITiECcEhcNyjQ9i1V1gqtTD0X1W9gm6ppZ3RrAf4+vWrVwaPc879rRNq/h/1QgBDsTi613ySc5hf82r0XA4BZSDHfn/NG/l6rFDkx/QFwEi+/4bUVCj8o33Nx3K8722rX/mZ67KNfbaztkLhGxfvYl924M3GfMYclJ4Y+iNw9TfGfMYUFOoTU+b/R/YZE1Capar6HN+Q8VpXojRUn4GHQj3hueSRkq+J6DPQUDrGVe2rb6xQ4gIh5/6P6DOQUCbhFYzmM1BQQgKhhHdp+wwMlJhAKFXljWeGQgPhD8D2oe0z6lByA+ERfUYNSrOookQgPJrPqEDhCIRH8hlxKJ3Db3No+4wolMHZfeNJ0mdEoDQKgdCyz7BD0QyEVn2GFYofCFt3rOGX8w06FD8QNu6Yg8NnWKCgBkIpn+mQoFgIhBZ8phiU0qvlzD5TBAoNhKF3mBx55PpMNhTJpHsWn0mGYu1eKks+kwTliIEQyWeioRw9ECL4TBSU4SSBUNtngqFMJwuEmj6zC+XMgVDLZzah+HK71Gsp4jNfodRAqOczq1BqIJQHQ31m85Ht5+IndcpM//o3a1Dq1J3tGpTrssdZmb/Isf82duyf+fi2ff0YzSN0C7DYbei2PKUllVdn5IQGAuNO/m11Ua2WxCM5MfTqy19EtMycjKlk3guPD2ejLf9ZYXcPlKUuxAdGvweF7nEX8BX2XPGQwa9kQEfvbbe7va+JmD9ic2/eUcNkwPipSoIbkjPoNhC6YOaV7Q1VJUFQ9rYIhPJxb2ulxj+CqyQYiiNlJso2Fpulrl4oRlVJFJSGlJ3aJzUklusjmL+sqSQKCr0YT8XskhtsUYJlv3Ec0TdOaLdgfjJNGyVYflNJEhTNFkypgkM7WPY7ak2670ujBVO6NNcMllsqSYbiFEpMjhCrESz3VJIFRbIFw/m7pIPlnkqyoEi2YDiLC8lgGaKSbCgSLZjUTBIzpIJliEqyoXC3YCQrPe5gGaqSIlA4WzC5mQQpWIaqpBiUlqEFw6lA6WDZR8Iu9sxjyb1f8+0CjmAZo5KiUEpWSdpvrJUMlrEqKQ6FrrJUY5bMPxLBMlYlxaGUaMEg3XOWGyxTVMICpckIYxKZRDJYpqiEBUpq5SSZSSSCZapK2KCkmLV0JuEOlqkqYYUSU9ZqZBLOYJmjElYoVPpbFxv5FqbUYJmjEnYoIdsS8s1+KcEyVyUiULYMHCWTlAyWuSoRgbJV6lp9DuZbsCyhEjEoawDQMkmJYDkXKunFoFzI6/dkS7svJae16X+C01jQG0U/LHp0x31o9E/B4CsKhZa/D6MKWZtz4QpS5bPu0YNian7prEKxlk1Ct+SS56IChd7BP1SVYEDxWzBNVQkGlJAWzBlVog5lqwVzVpWoQ7Ga7KlK2iNCWWvBWFHJjen1IaDQFkxnQCXcz7XA/EXUkSR95HFjVgkUlJy7YI6kEigozuG3YCRUAgfFOdwWjJRKIKGgtmCkVAIJ5T16h9WCkVQJLBSaXW4nUwk0lNZhtGCkVQINxTmMFsxNQbGbn+Bdp+6sUFCh1AE2/gHeMMpcT4WMlwAAAABJRU5ErkJggg==\" style=\"max-width:100%;height:auto;\">"
+    ],
+    "op_hi": [
+      "<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGUAAABlCAYAAABUfC3PAAAFKklEQVR42u1da9GjQBBcCUhAQiQgIRKQgAQcREIkREIkRAIS8uME3OW7IlXzUTz2MY8eYKv2x13dJQy92z09DJsQQvh7Tqj5f5w3AhgUj6P5zDeJYfjMq9NYdgFKR6798Zl38uf+BEV/3BYA6Mnf/4BUnaDIj/ozX+P1/tBWO/NvriONfemsPkGRG5fJzb5sgDc40xl3oLRE0F+Rq79ypjOuQKE6cSv8/8g64wKUasyqvtfXFXzWlew0VJ2BB4Vqwnv0I5yfiagz0KA0gqt6uvv6E5Q0QyjJ/4g6AwnKTXkFo+kMFCgxhlBDu6x1BgaUFEOoleX1RwaFGsInAH1Y64w5KKWGcI86YwZKNe4KDkO4N50xAUXCEO5JZ9RBaQJ+mcNaZ1RB6YLfB0+aOqMCSmVgCLV0pvEIiqUh9KozoqBMDWEd9jWm6XyFDsrUEFZhn0NCZ0RAQTWEXnSGFRQPhtCDzrCBopGVHEVnWEChhjC2w2TPo1RnikHRdLpH0ZlsULz1UnnSmSxQ9mgIkXQmGZS9G0IEnUkCpTuIIbTWmWhQbgczhJY6swnKkQ2hlc6sgjLdbpfzXqrozCIopyG005lZUE5DqA8M1ZnVV7bfo56cU2dO7381B8o5bWc9B8p15Dgv8yucb2fX/Z1t+H0WwC/6ejr1I73zWtx9TVNqgljjSCzfc9vfyWiJji+mxD1J0zxkX3NCOThMi7st8/hyQgXdzCobHNHYncjGpqOnRgbVzVcEjJZcb+OExtqZ69ysfd0mKHpaZTdwGqsWdnRUQXIALUY2hLbmVlkFTmNLiyaqdD8XvItVNnoXRBpbo9fo5ykPMBr7ZoevtYAmFIdEY2s7OBoUKqjWJzRcJoK+BUoNRsH9xiJJfhz8pTFL77JWcViKoQWh4DqCTpMbJ6xLMN2GqV2L4Q5AwTGJRzIoliWYOoJC12KwprEt2soGxbIEE5NsbMVgRWP1ig6ygBK7DaU9SQ4olMbuBrQVQ/vZoGiWYFIMbCwFD6Q0o0lblSQomiWYlO+JjaENOl2elLZiF0ARKBolmCaBi1Nj0KCxZ8Z3FL8KIV2CSU3BU2KQprEuczeyvDQkVYLZ8iSloEjSGE3fUwFnASXGP5R8ZpMbkCGNlXwm2zuPOas6hrYeJQEprGqJ3cf6djBXCeZaoFO5MXSBh8Y4dIoVlBTXKpXRlcTwDOU0xkGF7IcblJZgSr1P6WvnJTTGVcJhB6XkESxHlaA0hj6TxmpGzyZyDEiud+FoaeKIYcigIM7HAmIH5qTSUCntccZAtTEmxW8Dbx+AGCgpgp3rSaRASVkkEh0zoud9xaa2HFmPRAwx5XaJ3jLxk/G2TCDNWCowULZS/CbItC+pHFe4RE20Q6aTCIiZxpZ2Us98z1QO9lwqwUg8j5GIYe7m90Gul0ztCNxpCSY3bbYApZ7QVB1kuy7VQLlM0swh+HwPcQjy/Qmqh0V/t/yf4P8lUckWWFVQ0LvgS7Mxl6BIaonGSGkTcgWKVNYlPbjKQLCgSPgTLdpqFb7P7EdtrgGjgz8lndfqqDT9+afc5/Cag+sxsRtQ1kowKLTF2VDhApS1EgzCsGgEhwBlrgSDMNpgd6IsBCgXJVOWQluaXfmQoFAf8DowbcGBglKCaQEqDlA/6NwY3xBKW5amFu6nzy1LMAhvD0OCYlWCaQPOcSFwoEx5vVJaCEiPFCBBod5FIwNCO4IKFhRa4pD0Lk3AO+UIFpQQdEowiE9CV0/wPqftPEFBBeUcYOMfUe3+qEfNMf4AAAAASUVORK5CYII=\" style=\"max-width:100%;height:auto;\">",
+      "<img loading=\"lazy\" src=\"data:image/png;base64,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\" style=\"max-width:100%;height:auto;\">",
+      "<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGUAAABkCAYAAACfIP5qAAAFRElEQVR42u2dMa7UMBCGhxvkCD7CUtGm4ADb0+QIW1LmBimh2yPsEVJQUFBsSblH2ILiIaEHPKREGoYkazsz9oxxJBdPeu+t7S+Zf/6J7QUA+FWbqvYG6iTohvLKYHv90m5oDPeX1hkdy9MaFEvXCfV9fGkD+rkHe5d5KP0KAAqqqVDkLzdN9tzn08LvtCik3aa/qVAEgeDJPjz43SvRmQqF+TpOkxty9/8JXWdDOmMKCtaPIUInrOiMCSgNY0bVRjxpFcqGftyn8MXxPzXrjGooB8HsSbPOqIVC479L9DlNhRJmCKUubTqjCoqPIZT8bC06owZKiCGUzPI06IwKKEdl4SO3zmSHstcQlqgz2aBwGsLSdCYLFAlDWJLOJIciaQhT6cxFOMwmhUIHZgVIap1JBiW1IUylM0eLUPAgUhtCqzojCkWDIbSoM2JQtBlCSzojAoUawtIvbp1hhWLtXbhWnWGDYskQatcZFihWDaFWndkNxboh1Kgzu6CUYgi16UwUlBINoSadCYbiqn6I60wQlA7942sFIpahekP53wxhTp15CKWZ4mAVdN6r39CZTShUP451LpPozCqUagjz6cwilB7Svfqs17868wwPtmyPRttng32+k7lv16DUlq+9W4JymWhZau9R/78a63sHG4cbdIZLKFcysN6QrsyC/3Mt+8JibyUV7lfCgIXMcUSVku9bPqVHqZr2RQ9uQSjPKKXXfA3Eejx09IMRrzIiHZzHgUOC1jDW0WzLt/Z1UQ7miJ7oBo1jds1aw9gBPd2n0IJkgwRUGxj8NMwDw1BwGL4p7fcQWpBcKgdcFbn8AZlcWIECCsPYuDGXQe9TMJiLksd/7vPhARS3ELu1CDvsgULBDEruNtqPJSg0jOUKwZ3HzRH1jh4LVK5wcEIT3HhCwWHsrEjYWaDgjCcHmAYNbsnYbkHBfqZTIuxsUPDdmnqA5wVx94VCn7JUYWwMSJJ2L8brEwtoizyJi4SCJylFGAs14CzLVlOVY3wdug8UnLBIPuXdSoYoDiVVOcbXBPpAwRN2F+qzr7CLQZEux2CBbpmg+OhTCmEXhULLMZyufwwYYAgUJ+T2sbBDTihL5RjOuHz3BB0ChcZ9jid8bygX2V7nGE1aExGXQ6HQieQwtSHCngQKZ1gYImJ+DBSOdy+xwp4MCkc5po0MKzFQ5v7GhjEHfDVB8cMN9pRjrpF/FwuFpt0hicoeYU8OJbYcc9qRxe2BAhF3PLdHy3I2y8EjFPh6EgkoLqB0xCHs2aDQcozzCAWxL9L2QqFhzAkLe1Yo2EGvDbZlKH1wQIEHaT2nsGeHgp8ECmZpEUROKDiMdoLCrgLKWjmmZ6pDcUGhCYcTEnYVUJbKMQfgey/DCQWH3DOCJPmaIusRuBjMN/T5t52N6//MDS+HfQL5he/ZzyV2BIiF9kF4TlSc4P0WffbHCZS29mXq3yeQX4io5qz7DvTuKUm9yF3Vt0L0kGd1jE/2lXI7iLrvTwkpx0hfOCNMuaNN9Zfa3CHf8lJJx24Sik85Rvq6gsyCCtNQAPLticm9e001lAbS74nJIeymoNDYLh1Kcgm7OSipRDensJuEMk+a5J6YnMJuFgoNL5xgtG1LN/fV5x1z3Ncg7OahUNd/ZHryNJ1BYxIKdf0xd7gmYS8Gyl4t0CTsRUGJLcdgmE2FIuP6Q8oxGoW9OCgh5Rgs7J3i8RQBhQr3xZiwFwtla+Ib5cJeNJQ5RNFyjHZhLx4KwN97Ykawc+Ri0VBwlmVB2L2gPBXS5uPJn431+wc8OFa9tnztzW88TAGjJ2a1RgAAAABJRU5ErkJggg==\" style=\"max-width:100%;height:auto;\">",
+      "<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGUAAABlCAYAAABUfC3PAAAEsUlEQVR42u2dzY2jQBCFOwRCIASHQAgOgRA47pHj3gjBITiECcEhcNyjQ9i1V1gqtTD0X1W9gm6ppZ3RrAf4+vWrVwaPc879rRNq/h/1QgBDsTi613ySc5hf82r0XA4BZSDHfn/NG/l6rFDkx/QFwEi+/4bUVCj8o33Nx3K8722rX/mZ67KNfbaztkLhGxfvYl924M3GfMYclJ4Y+iNw9TfGfMYUFOoTU+b/R/YZE1Capar6HN+Q8VpXojRUn4GHQj3hueSRkq+J6DPQUDrGVe2rb6xQ4gIh5/6P6DOQUCbhFYzmM1BQQgKhhHdp+wwMlJhAKFXljWeGQgPhD8D2oe0z6lByA+ERfUYNSrOookQgPJrPqEDhCIRH8hlxKJ3Db3No+4wolMHZfeNJ0mdEoDQKgdCyz7BD0QyEVn2GFYofCFt3rOGX8w06FD8QNu6Yg8NnWKCgBkIpn+mQoFgIhBZ8phiU0qvlzD5TBAoNhKF3mBx55PpMNhTJpHsWn0mGYu1eKks+kwTliIEQyWeioRw9ECL4TBSU4SSBUNtngqFMJwuEmj6zC+XMgVDLZzah+HK71Gsp4jNfodRAqOczq1BqIJQHQ31m85Ht5+IndcpM//o3a1Dq1J3tGpTrssdZmb/Isf82duyf+fi2ff0YzSN0C7DYbei2PKUllVdn5IQGAuNO/m11Ua2WxCM5MfTqy19EtMycjKlk3guPD2ejLf9ZYXcPlKUuxAdGvweF7nEX8BX2XPGQwa9kQEfvbbe7va+JmD9ic2/eUcNkwPipSoIbkjPoNhC6YOaV7Q1VJUFQ9rYIhPJxb2ulxj+CqyQYiiNlJso2Fpulrl4oRlVJFJSGlJ3aJzUklusjmL+sqSQKCr0YT8XskhtsUYJlv3Ec0TdOaLdgfjJNGyVYflNJEhTNFkypgkM7WPY7ak2670ujBVO6NNcMllsqSYbiFEpMjhCrESz3VJIFRbIFw/m7pIPlnkqyoEi2YDiLC8lgGaKSbCgSLZjUTBIzpIJliEqyoXC3YCQrPe5gGaqSIlA4WzC5mQQpWIaqpBiUlqEFw6lA6WDZR8Iu9sxjyb1f8+0CjmAZo5KiUEpWSdpvrJUMlrEqKQ6FrrJUY5bMPxLBMlYlxaGUaMEg3XOWGyxTVMICpckIYxKZRDJYpqiEBUpq5SSZSSSCZapK2KCkmLV0JuEOlqkqYYUSU9ZqZBLOYJmjElYoVPpbFxv5FqbUYJmjEnYoIdsS8s1+KcEyVyUiULYMHCWTlAyWuSoRgbJV6lp9DuZbsCyhEjEoawDQMkmJYDkXKunFoFzI6/dkS7svJae16X+C01jQG0U/LHp0x31o9E/B4CsKhZa/D6MKWZtz4QpS5bPu0YNian7prEKxlk1Ct+SS56IChd7BP1SVYEDxWzBNVQkGlJAWzBlVog5lqwVzVpWoQ7Ga7KlK2iNCWWvBWFHJjen1IaDQFkxnQCXcz7XA/EXUkSR95HFjVgkUlJy7YI6kEigozuG3YCRUAgfFOdwWjJRKIKGgtmCkVAIJ5T16h9WCkVQJLBSaXW4nUwk0lNZhtGCkVQINxTmMFsxNQbGbn+Bdp+6sUFCh1AE2/gHeMMpcT4WMlwAAAABJRU5ErkJggg==\" style=\"max-width:100%;height:auto;\">"
+    ],
+    "q_en": "Select the correct mirror image of the given figure when the mirror is placed at MN as shown below.<br><img loading=\"lazy\" src=\"data:image/png;base64,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\" style=\"max-width:100%;height:auto;\">",
+    "q_hi": "Select the correct mirror image of the given figure when the mirror is placed at MN as shown below.<br><img loading=\"lazy\" src=\"data:image/png;base64,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\" style=\"max-width:100%;height:auto;\">",
+    "section": "General Intelligence and Reasoning Ability1",
+    "solution": "The mirror image is formed by laterally inverting the given figure. The left side becomes the right side and vice versa.<br><br>दी गई आकृति को पार्श्व रूप से उलटने पर दर्पण छवि बनती है। बायां भाग दायां भाग बन जाता है और इसके विपरीत।",
+    "topic": "Mirror Image"
+  },
+  {
+    "ans": "4",
+    "level": "Moderate",
+    "op_en": [
+      "425",
+      "450",
+      "435",
+      "405"
+    ],
+    "op_hi": [
+      "425",
+      "450",
+      "435",
+      "405"
+    ],
+    "q_en": "Select the option that is related to the fifth number in the same way as the second number is related to the first number and the fourth number is related to the third number.<br>25: 225 :: 35 : 315 :: 45 : ?<span style=\"color:#ffffff;\">1737</span>",
+    "q_hi": "उस विकल्प का चयन करें जो पाँचवीं संख्या से उसी प्रकार संबंधित है जैसे दूसरी संख्या पहली संख्या से संबंधित है और चौथी संख्या तीसरी संख्या से संबंधित है।<br>25: 225 :: 35 : 315 :: 45 : ?<span style=\"color:#ffffff;\">1737</span>",
+    "section": "General Intelligence and Reasoning Ability1",
+    "solution": "The logic is: First number × 9 = Second number.<br>25 × 9 = 225.<br>35 × 9 = 315.<br>Similarly, 45 × 9 = 405.<br><br>तर्क है: पहली संख्या × 9 = दूसरी संख्या।<br>25 × 9 = 225.<br>35 × 9 = 315.<br>उसी प्रकार, 45 × 9 = 405.",
+    "topic": "Number Analogy"
+  },
+  {
+    "ans": "1",
+    "level": "Moderate",
+    "op_en": [
+      "508",
+      "507",
+      "506",
+      "509"
+    ],
+    "op_hi": [
+      "508",
+      "507",
+      "506",
+      "509"
+    ],
+    "q_en": "214 is related to 430 following a certain logic. Following the same logic, 242 is related to 486. To which of the following is 253 related, following the same logic?<br>(NOTE: Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13 – Operations on 13 such as adding /subtracting /multiplying etc. to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed.)",
+    "q_hi": "214 एक निश्चित तर्क के अनुसार 430 से संबंधित है। उसी तर्क के अनुसार, 242, 486 से संबंधित है। निम्नलिखित में से 253 उसी तर्क के अनुसार किससे संबंधित है?<br>(नोट: संख्याओं को उनके घटक अंकों में तोड़े बिना, पूर्ण संख्याओं पर संचालन किया जाना चाहिए। उदाहरण के लिए 13 - 13 पर जोड़ने/घटाने/गुणा करने आदि जैसे संचालन किए जा सकते हैं। 13 को 1 और 3 में तोड़ना और फिर 1 और 3 पर गणितीय संचालन करने की अनुमति नहीं है।)",
+    "section": "General Intelligence and Reasoning Ability1",
+    "solution": "The logic is: (Number × 2) + 2.<br>214 × 2 + 2 = 428 + 2 = 430.<br>242 × 2 + 2 = 484 + 2 = 486.<br>Similarly, 253 × 2 + 2 = 506 + 2 = 508.<br><br>तर्क है: (संख्या × 2) + 2.<br>214 × 2 + 2 = 428 + 2 = 430.<br>242 × 2 + 2 = 484 + 2 = 486.<br>उसी प्रकार, 253 × 2 + 2 = 506 + 2 = 508.",
+    "topic": "Number Analogy"
+  }
+]
