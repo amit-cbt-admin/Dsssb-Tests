@@ -1,0 +1,422 @@
+[
+  {
+    "ans": 2,
+    "difficulty": "Moderate",
+    "op_en": [
+      "verbosity",
+      "brevity",
+      "eloquence",
+      "candor"
+    ],
+    "op_hi": [
+      "verbosity",
+      "brevity",
+      "eloquence",
+      "candor"
+    ],
+    "q_en": "Select the option that can be used as a one-word substitute for the highlighted phrase in the given sentence.<br><br>He never wasted words; his style was admired for his <strong>use of very few words to express much</strong>.",
+    "q_hi": "Select the option that can be used as a one-word substitute for the highlighted phrase in the given sentence.<br><br>He never wasted words; his style was admired for his <strong>use of very few words to express much</strong>.",
+    "section": "English Language and Comprehension",
+    "solution": "<b>Solution (EN):</b><br>The phrase \"use of very few words to express much\" refers to 'brevity'. It means concise and exact use of words in writing or speech.<br>1. <b>Verbosity:</b> Using more words than needed.<br>2. <b>Eloquence:</b> Fluent or persuasive speaking or writing.<br>3. <b>Candor:</b> The quality of being open and honest.<br><br><b>Solution (HI):</b><br>वाक्यांश \"use of very few words to express much\" (बहुत कम शब्दों में बहुत कुछ कहना) 'brevity' (संक्षिप्तता) को संदर्भित करता है।<br>1. <b>Verbosity:</b> आवश्यकता से अधिक शब्दों का प्रयोग।<br>2. <b>Eloquence:</b> सुवक्ता या वाक्पटुता।<br>3. <b>Candor:</b> स्पष्टवादिता या ईमानदारी।<br><br><b>Short Trick:</b><br>Brevity is related to 'Brief' (small/short).",
+    "topic": "One-word Substitution"
+  },
+  {
+    "ans": 1,
+    "difficulty": "Easy",
+    "op_en": [
+      "an",
+      "the",
+      "No article required",
+      "a"
+    ],
+    "op_hi": [
+      "an",
+      "the",
+      "No article required",
+      "a"
+    ],
+    "q_en": "Select the most appropriate article to fill in the blank. If no article is needed, select 'No article required'.<br><br>My uncle is ______ honest man who always speaks the truth.",
+    "q_hi": "Select the most appropriate article to fill in the blank. If no article is needed, select 'No article required'.<br><br>My uncle is ______ honest man who always speaks the truth.",
+    "section": "English Language and Comprehension",
+    "solution": "<b>Solution (EN):</b><br>The word 'honest' begins with a silent 'h', so its pronunciation starts with a vowel sound (/&alpha;n&infin;st/). Therefore, the indefinite article 'an' is used before it.<br><br><b>Solution (HI):</b><br>'Honest' शब्द एक मूक (silent) 'h' से शुरू होता है, इसलिए इसका उच्चारण स्वर ध्वनि (/&alpha;n&infin;st/) से शुरू होता है। अतः इसके पहले अनिश्चित उपपद (indefinite article) 'an' का प्रयोग किया जाता है।<br><br><b>Short Trick:</b><br>Honest &rarr; Vowel Sound &rarr; An.",
+    "topic": "Articles"
+  },
+  {
+    "ans": 4,
+    "difficulty": "Easy",
+    "op_en": [
+      "This is the more tall building in our city.",
+      "This is the most taller building in our city.",
+      "This is the tall building in our city.",
+      "This is the tallest building in our city."
+    ],
+    "op_hi": [
+      "This is the more tall building in our city.",
+      "This is the most taller building in our city.",
+      "This is the tall building in our city.",
+      "This is the tallest building in our city."
+    ],
+    "q_en": "Identify the option that rectifies the given sentence to make it grammatically correct.<br><br>This is the most tallest building in our city.",
+    "q_hi": "Identify the option that rectifies the given sentence to make it grammatically correct.<br><br>This is the most tallest building in our city.",
+    "section": "English Language and Comprehension",
+    "solution": "<b>Solution (EN):</b><br>The word 'tallest' is already in the superlative degree. Using 'most' before a superlative adjective creates a double superlative error, which is grammatically incorrect. The correct sentence should simply be \"This is the tallest building...\".<br><br><b>Solution (HI):</b><br>'Tallest' शब्द पहले से ही सुपरलेटिव डिग्री (superlative degree) में है। सुपरलेटिव विशेषण से पहले 'most' का उपयोग करना 'double superlative' की गलती है। सही वाक्य केवल \"This is the tallest building...\" होना चाहिए।<br><br><b>Short Trick:</b><br>Don't use 'most' with adjectives ending in '-est'.",
+    "topic": "Adjectives"
+  },
+  {
+    "ans": 1,
+    "difficulty": "Easy",
+    "op_en": [
+      "the",
+      "a",
+      "an",
+      "No article required"
+    ],
+    "op_hi": [
+      "the",
+      "a",
+      "an",
+      "No article required"
+    ],
+    "q_en": "Select the most appropriate article to fill in the blank. If no article is needed, select 'No article required'.<br><br>They crossed ______ Pacific Ocean during their voyage.",
+    "q_hi": "Select the most appropriate article to fill in the blank. If no article is needed, select 'No article required'.<br><br>They crossed ______ Pacific Ocean during their voyage.",
+    "section": "English Language and Comprehension",
+    "solution": "<b>Solution (EN):</b><br>The definite article 'the' is always used before the names of oceans, seas, mountain ranges, and rivers. Thus, 'the Pacific Ocean' is correct.<br><br><b>Solution (HI):</b><br>निश्चित उपपद 'the' का प्रयोग हमेशा महासागरों, समुद्रों, पर्वत श्रृंखलाओं और नदियों के नाम के पहले किया जाता है। इसलिए, 'the Pacific Ocean' सही है।<br><br><b>Short Trick:</b><br>Names of Oceans &rarr; Always use 'The'.",
+    "topic": "Articles"
+  },
+  {
+    "ans": 4,
+    "difficulty": "Moderate",
+    "op_en": [
+      "most quickly",
+      "quickly",
+      "quickest",
+      "more quickly"
+    ],
+    "op_hi": [
+      "most quickly",
+      "quickly",
+      "quickest",
+      "more quickly"
+    ],
+    "q_en": "Select the most appropriate option to fill in the blank.<br><br>He completed the assignment _______ than his classmates.",
+    "q_hi": "Select the most appropriate option to fill in the blank.<br><br>He completed the assignment _______ than his classmates.",
+    "section": "English Language and Comprehension",
+    "solution": "<b>Solution (EN):</b><br>The sentence involves a comparison between 'He' and 'his classmates', signaled by the word 'than'. For such comparisons using adverbs ending in '-ly', we use the comparative form 'more + adverb'.<br><br><b>Solution (HI):</b><br>वाक्य में 'He' और 'his classmates' के बीच तुलना की गई है, जिसे 'than' शब्द द्वारा दर्शाया गया है। '-ly' में समाप्त होने वाले क्रियाविशेषणों (adverbs) के लिए तुलनात्मक रूप 'more + adverb' का उपयोग किया जाता है।<br><br><b>Short Trick:</b><br>Than &rarr; Comparative degree (More + Adverb).",
+    "topic": "Adverbs"
+  },
+  {
+    "ans": 3,
+    "difficulty": "Easy",
+    "op_en": [
+      "actively",
+      "lethargic",
+      "cheerful",
+      "costly"
+    ],
+    "op_hi": [
+      "actively",
+      "lethargic",
+      "cheerful",
+      "costly"
+    ],
+    "q_en": "Select the most appropriate option to fill in the blank.<br><br>The kitten is very _______ and plays all day long.",
+    "q_hi": "Select the most appropriate option to fill in the blank.<br><br>The kitten is very _______ and plays all day long.",
+    "section": "English Language and Comprehension",
+    "solution": "<b>Solution (EN):</b><br>The context of \"plays all day long\" suggests a positive and high-energy state. 'Cheerful' (happy and optimistic) fits best. 'Lethargic' (lazy) is the opposite. 'Actively' is an adverb, while the sentence requires an adjective to describe the kitten.<br><br><b>Solution (HI):</b><br>\"Plays all day long\" (पूरे दिन खेलता है) का संदर्भ एक सकारात्मक और ऊर्जावान स्थिति का सुझाव देता है। 'Cheerful' (हंसमुख/खुशमिजाज) यहाँ सबसे उपयुक्त है। 'Lethargic' का अर्थ सुस्त होता है।<br><br><b>Short Trick:</b><br>Kitten + Play all day &rarr; Happy/Energetic &rarr; Cheerful.",
+    "topic": "Vocabulary"
+  },
+  {
+    "ans": 3,
+    "difficulty": "Moderate",
+    "op_en": [
+      "monarchy",
+      "oligarchy",
+      "matriarchy",
+      "patriarchy"
+    ],
+    "op_hi": [
+      "monarchy",
+      "oligarchy",
+      "matriarchy",
+      "patriarchy"
+    ],
+    "q_en": "Select the appropriate one-word substitute for the highlighted part. <br><br>The committee dissolved because no one could tolerate <strong>a society organised around female dominance in family and social structures</strong>.",
+    "q_hi": "Select the appropriate one-word substitute for the highlighted part. <br><br>The committee dissolved because no one could tolerate <strong>a society organised around female dominance in family and social structures</strong>.",
+    "section": "English Language and Comprehension",
+    "solution": "<b>Solution (EN):</b><br>A society or system of government ruled by a woman or women is called a 'matriarchy'.<br>1. <b>Monarchy:</b> Rule by a king or queen.<br>2. <b>Oligarchy:</b> Rule by a small group of people.<br>3. <b>Patriarchy:</b> Rule by men.<br><br><b>Solution (HI):</b><br>महिलाओं द्वारा शासित समाज या शासन प्रणाली को 'matriarchy' (मातृसत्ता) कहा जाता है।<br>1. <b>Monarchy:</b> राजा या रानी का शासन।<br>2. <b>Oligarchy:</b> कुछ चुनिंदा लोगों का शासन।<br>3. <b>Patriarchy:</b> पितृसत्ता (पुरुषों का शासन)।<br><br><b>Short Trick:</b><br>Matri (Mother/Female) + Archy (Rule).",
+    "topic": "One-word Substitution"
+  },
+  {
+    "ans": 3,
+    "difficulty": "Moderate",
+    "op_en": [
+      "parricide",
+      "regicide",
+      "fratricide",
+      "homicide"
+    ],
+    "op_hi": [
+      "parricide",
+      "regicide",
+      "fratricide",
+      "homicide"
+    ],
+    "q_en": "Select the option that can be used as a one-word substitute for the highlighted phrase in the given sentence.<br><br>Despite her efforts, she was accused of <strong>the murder of her own brother,</strong> a crime that shocked everyone in the village.",
+    "q_hi": "Select the option that can be used as a one-word substitute for the highlighted phrase in the given sentence.<br><br>Despite her efforts, she was accused of <strong>the murder of her own brother,</strong> a crime that shocked everyone in the village.",
+    "section": "English Language and Comprehension",
+    "solution": "<b>Solution (EN):</b><br>'Fratricide' is the act of killing one's own brother or sister.<br>1. <b>Parricide:</b> The killing of a parent or other near relative.<br>2. <b>Regicide:</b> The killing of a king.<br>3. <b>Homicide:</b> The killing of one person by another (general).<br><br><b>Solution (HI):</b><br>'Fratricide' (भ्रातृवध) अपने ही भाई या बहन की हत्या करने का कृत्य है।<br>1. <b>Parricide:</b> माता-पिता या किसी अन्य करीबी रिश्तेदार की हत्या।<br>2. <b>Regicide:</b> राजा की हत्या।<br>3. <b>Homicide:</b> मानव वध (सामान्य)।<br><br><b>Short Trick:</b><br>Frater (Brother) + Cide (Kill).",
+    "topic": "One-word Substitution"
+  },
+  {
+    "ans": 3,
+    "difficulty": "Easy",
+    "op_en": [
+      "Of the two players, Rohit is the skillful.",
+      "Of the two players, Rohit is more skillfuller.",
+      "Of the two players, Rohit is more skillful.",
+      "Of the two players, Rohit is much skillful."
+    ],
+    "op_hi": [
+      "Of the two players, Rohit is the skillful.",
+      "Of the two players, Rohit is more skillfuller.",
+      "Of the two players, Rohit is more skillful.",
+      "Of the two players, Rohit is much skillful."
+    ],
+    "q_en": "Identify the option that rectifies the given sentence to make it grammatically correct.<br><br>Of the two players, Rohit is the most skillful.",
+    "q_hi": "Identify the option that rectifies the given sentence to make it grammatically correct.<br><br>Of the two players, Rohit is the most skillful.",
+    "section": "English Language and Comprehension",
+    "solution": "<b>Solution (EN):</b><br>When comparing exactly two items or people, the comparative degree is used. The superlative degree ('most') is reserved for comparing three or more. Thus, \"more skillful\" is the correct form.<br><br><b>Solution (HI):</b><br>जब ठीक दो वस्तुओं या व्यक्तियों की तुलना की जाती है, तो तुलनात्मक डिग्री (comparative degree) का उपयोग किया जाता है। सुपरलेटिव डिग्री ('most') का उपयोग तीन या अधिक की तुलना के लिए किया जाता है। अतः \"more skillful\" सही रूप है।<br><br><b>Short Trick:</b><br>Two people &rarr; Comparative degree (More).",
+    "topic": "Adjectives"
+  },
+  {
+    "ans": 2,
+    "difficulty": "Easy",
+    "op_en": [
+      "She most beautifully sings.",
+      "She sings beautifully.",
+      "She sings beauty.",
+      "She sings more beautiful."
+    ],
+    "op_hi": [
+      "She most beautifully sings.",
+      "She sings beautifully.",
+      "She sings beauty.",
+      "She sings more beautiful."
+    ],
+    "q_en": "Select the grammatically correct sentence.",
+    "q_hi": "Select the grammatically correct sentence.",
+    "section": "English Language and Comprehension",
+    "solution": "<b>Solution (EN):</b><br>In this sentence, we need an adverb to describe the manner of the action 'sings'. 'Beautifully' is the adverbial form. The standard word order is Subject + Verb + Adverb.<br><br><b>Solution (HI):</b><br>इस वाक्य में, क्रिया 'sings' के ढंग का वर्णन करने के लिए एक क्रियाविशेषण (adverb) की आवश्यकता है। 'Beautifully' क्रियाविशेषण रूप है। सही क्रम 'Subject + Verb + Adverb' है।<br><br><b>Short Trick:</b><br>Verb (Sings) + Adverb (Beautifully).",
+    "topic": "Adverbs"
+  },
+  {
+    "ans": 1,
+    "difficulty": "Moderate",
+    "op_en": [
+      "a house divided cannot stand",
+      "too many cooks spoil the broth",
+      "actions speak louder than words",
+      "birds of a feather flock together"
+    ],
+    "op_hi": [
+      "a house divided cannot stand",
+      "too many cooks spoil the broth",
+      "actions speak louder than words",
+      "birds of a feather flock together"
+    ],
+    "q_en": "Select the most appropriate option that can substitute the underlined segment in the given sentence. <br><br><strong></strong>The team argued endlessly about the design and the project ultimately failed, proving that <u>lack of unity can weaken a group or organisation</u>.",
+    "q_hi": "Select the most appropriate option that can substitute the underlined segment in the given sentence. <br><br><strong></strong>The team argued endlessly about the design and the project ultimately failed, proving that <u>lack of unity can weaken a group or organisation</u>.",
+    "section": "English Language and Comprehension",
+    "solution": "<b>Solution (EN):</b><br>The proverb \"a house divided cannot stand\" means that if members of a group are in constant conflict, they will not be able to survive or succeed. This fits the context of the team failing due to arguments.<br><br><b>Solution (HI):</b><br>कहावत \"a house divided cannot stand\" का अर्थ है कि यदि किसी समूह के सदस्य निरंतर संघर्ष में रहते हैं, तो वे सफल नहीं हो पाएंगे। यह टीम की विफलता के संदर्भ में बिल्कुल सही है।<br><br><b>Short Trick:</b><br>Lack of unity &rarr; Divided &rarr; Cannot stand.",
+    "topic": "Idioms and Phrases"
+  },
+  {
+    "ans": 4,
+    "difficulty": "Easy",
+    "op_en": [
+      "librarian",
+      "caretaker",
+      "custodian",
+      "curator"
+    ],
+    "op_hi": [
+      "librarian",
+      "caretaker",
+      "custodian",
+      "curator"
+    ],
+    "q_en": "Select the option that can be used as a one-word substitute for the highlighted phrase in the given sentence.<br><br>She was appointed as the <strong>person who is responsible for the proper custody of the museum's collection</strong>.",
+    "q_hi": "Select the option that can be used as a one-word substitute for the highlighted phrase in the given sentence.<br><br>She was appointed as the <strong>person who is responsible for the proper custody of the museum's collection</strong>.",
+    "section": "English Language and Comprehension",
+    "solution": "<b>Solution (EN):</b><br>A 'curator' is a person who oversees or manages a museum, art gallery, or library collection. While 'custodian' is a more general term for someone who looks after something, 'curator' is the specific professional term for a museum collection.<br><br><b>Solution (HI):</b><br>'Curator' (संग्रहाध्यक्ष) वह व्यक्ति होता है जो संग्रहालय या कला दीर्घा का प्रबंधन करता है। 'Librarian' पुस्तकालय के लिए होता है।<br><br><b>Short Trick:</b><br>Museum Collection manager &rarr; Curator.",
+    "topic": "One-word Substitution"
+  },
+  {
+    "ans": 1,
+    "difficulty": "Easy",
+    "op_en": [
+      "at",
+      "in",
+      "on",
+      "over"
+    ],
+    "op_hi": [
+      "at",
+      "in",
+      "on",
+      "over"
+    ],
+    "q_en": "Select the most appropriate option to fill in the blank.<br><br>She is waiting ______ the bus stop.",
+    "q_hi": "Select the most appropriate option to fill in the blank.<br><br>She is waiting ______ the bus stop.",
+    "section": "English Language and Comprehension",
+    "solution": "<b>Solution (EN):</b><br>The preposition 'at' is used to indicate a specific point or location in space, such as 'at the bus stop' or 'at the door'.<br><br><b>Solution (HI):</b><br>पूर्वसर्ग (preposition) 'at' का उपयोग अंतरिक्ष में एक विशिष्ट बिंदु या स्थान को इंगित करने के लिए किया जाता है, जैसे 'at the bus stop'।<br><br><b>Short Trick:</b><br>Specific Point/Spot &rarr; At.",
+    "topic": "Prepositions"
+  },
+  {
+    "ans": 1,
+    "difficulty": "Easy",
+    "op_en": [
+      "The",
+      "A",
+      "An",
+      "No article required"
+    ],
+    "op_hi": [
+      "The",
+      "A",
+      "An",
+      "No article required"
+    ],
+    "q_en": "Select the most appropriate article to fill in the blank. If no article is needed, select 'No article required'.<br><br>_______ Himalayas are the highest mountain range in the world.",
+    "q_hi": "Select the most appropriate article to fill in the blank. If no article is needed, select 'No article required'.<br><br>_______ Himalayas are the highest mountain range in the world.",
+    "section": "English Language and Comprehension",
+    "solution": "<b>Solution (EN):</b><br>The definite article 'the' is used before the names of mountain ranges (e.g., the Alps, the Himalayas). However, it is not used before the names of single mountain peaks (e.g., Mount Everest).<br><br><b>Solution (HI):</b><br>निश्चित उपपद 'the' का प्रयोग पर्वत श्रृंखलाओं (जैसे, the Himalayas) के नाम के पहले किया जाता है। एकल पर्वत चोटियों (जैसे, Mount Everest) के पहले इसका प्रयोग नहीं किया जाता।<br><br><b>Short Trick:</b><br>Mountain Range &rarr; The.",
+    "topic": "Articles"
+  },
+  {
+    "ans": 1,
+    "difficulty": "Easy",
+    "op_en": [
+      "He is good at playing the guitar.",
+      "He is good to playing the guitar.",
+      "He is good in playing the guitar.",
+      "He is good on playing the guitar."
+    ],
+    "op_hi": [
+      "He is good at playing the guitar.",
+      "He is good to playing the guitar.",
+      "He is good in playing the guitar.",
+      "He is good on playing the guitar."
+    ],
+    "q_en": "Select the grammatically correct sentence.",
+    "q_hi": "Select the grammatically correct sentence.",
+    "section": "English Language and Comprehension",
+    "solution": "<b>Solution (EN):</b><br>The adjective 'good' is followed by the preposition 'at' when describing skill or talent in a specific activity. This is a fixed phrase: \"Good at + (verb-ing/noun)\".<br><br><b>Solution (HI):</b><br>विशेषण 'good' के बाद 'at' पूर्वसर्ग का उपयोग तब किया जाता है जब किसी विशिष्ट गतिविधि में कौशल या प्रतिभा का वर्णन किया जाता है। यह एक निश्चित वाक्यांश है: \"Good at + (verb-ing/noun)\"।<br><br><b>Short Trick:</b><br>Good/Bad + At.",
+    "topic": "Prepositions"
+  },
+  {
+    "ans": 1,
+    "difficulty": "Easy",
+    "op_en": [
+      "He solved the puzzle easily.",
+      "He solved the puzzle easy.",
+      "He solved the puzzle easier.",
+      "He solved the puzzle ease."
+    ],
+    "op_hi": [
+      "He solved the puzzle easily.",
+      "He solved the puzzle easy.",
+      "He solved the puzzle easier.",
+      "He solved the puzzle ease."
+    ],
+    "q_en": "Select the grammatically correct sentence.",
+    "q_hi": "Select the grammatically correct sentence.",
+    "section": "English Language and Comprehension",
+    "solution": "<b>Solution (EN):</b><br>In this sentence, the word modifies the verb 'solved'. Therefore, we must use the adverbial form 'easily'. 'Easy' is an adjective, and 'ease' is a noun.<br><br><b>Solution (HI):</b><br>इस वाक्य में, शब्द क्रिया 'solved' की विशेषता बताता है। इसलिए, हमें क्रियाविशेषण रूप 'easily' का उपयोग करना चाहिए।<br><br><b>Short Trick:</b><br>Modified Verb &rarr; Use Adverb (-ly).",
+    "topic": "Adverbs"
+  },
+  {
+    "ans": 1,
+    "difficulty": "Moderate",
+    "op_en": [
+      "CABD",
+      "ACBD",
+      "BCAD",
+      "BADC"
+    ],
+    "op_hi": [
+      "CABD",
+      "ACBD",
+      "BCAD",
+      "BADC"
+    ],
+    "q_en": "Sentences of a paragraph are given below. While the first and the last sentences (S1 and S6) are in the correct order, the sentences in between are jumbled up. Arrange the sentences in the correct order to form a meaningful and coherent paragraph.<br><br>S1) Climate change has emerged as one of the biggest challenges facing humanity.<br>A) This has led to erratic weather patterns, rising sea levels, and loss of biodiversity.<br>B) Scientists across the globe are working tirelessly to find sustainable solutions.<br>C) Human activities like deforestation and excessive use of fossil fuels are the main culprits.<br>D) Governments are also being urged to implement stricter environmental policies.<br>S6) Only collective and timely action can help mitigate the effects of this global crisis.",
+    "q_hi": "Sentences of a paragraph are given below. While the first and the last sentences (S1 and S6) are in the correct order, the sentences in between are jumbled up. Arrange the sentences in the correct order to form a meaningful and coherent paragraph.<br><br>S1) Climate change has emerged as one of the biggest challenges facing humanity.<br>A) This has led to erratic weather patterns, rising sea levels, and loss of biodiversity.<br>B) Scientists across the globe are working tirelessly to find sustainable solutions.<br>C) Human activities like deforestation and excessive use of fossil fuels are the main culprits.<br>D) Governments are also being urged to implement stricter environmental policies.<br>S6) Only collective and timely action can help mitigate the effects of this global crisis.",
+    "section": "English Language and Comprehension",
+    "solution": "<b>Solution (EN):</b><br>S1 starts the topic. 'C' points out the causes of climate change. 'A' describes the effects of those causes. 'B' and 'D' list the efforts being made by experts and authorities to solve the problem. S6 concludes with the need for action. Correct sequence: CABD.<br><br><b>Solution (HI):</b><br>S1 विषय की शुरुआत करता है। 'C' जलवायु परिवर्तन के कारणों की ओर इशारा करता है। 'A' उन कारणों के प्रभावों का वर्णन करता है। 'B' और 'D' समस्या को हल करने के प्रयासों की सूची देते हैं। S6 निष्कर्ष निकालता है। सही क्रम: CABD है।<br><br><b>Short Trick:</b><br>Cause (C) &rarr; Effect (A). This link confirms the sequence.",
+    "topic": "Para Jumbles"
+  },
+  {
+    "ans": 1,
+    "difficulty": "Easy",
+    "op_en": [
+      "an",
+      "a",
+      "No article required",
+      "the"
+    ],
+    "op_hi": [
+      "an",
+      "a",
+      "No article required",
+      "the"
+    ],
+    "q_en": "Select the most appropriate article to fill in the blank. If no article is needed, select 'No article required'.<br><br>He bought ______ orange from the market.",
+    "q_hi": "Select the most appropriate article to fill in the blank. If no article is needed, select 'No article required'.<br><br>He bought ______ orange from the market.",
+    "section": "English Language and Comprehension",
+    "solution": "<b>Solution (EN):</b><br>'Orange' starts with a vowel sound (/&infin;/) and is a singular countable noun. Therefore, the indefinite article 'an' is appropriate here.<br><br><b>Solution (HI):</b><br>'Orange' का उच्चारण स्वर ध्वनि (/&infin;/) से शुरू होता है और यह एकवचन गणनीय संज्ञा है। इसलिए, यहाँ अनिश्चित उपपद 'an' उपयुक्त है।<br><br><b>Short Trick:</b><br>Vowel sound start &rarr; An.",
+    "topic": "Articles"
+  },
+  {
+    "ans": 4,
+    "difficulty": "Moderate",
+    "op_en": [
+      "a stitch in time saves nine",
+      "Rome was not built in a day",
+      "don’t put all your eggs in one basket",
+      "every cloud has a silver lining"
+    ],
+    "op_hi": [
+      "a stitch in time saves nine",
+      "Rome was not built in a day",
+      "don’t put all your eggs in one basket",
+      "every cloud has a silver lining"
+    ],
+    "q_en": "Select the most appropriate proverb that can substitute the highlighted segment in the given sentence. <br><br>When her plan failed, she reminded herself that <strong>there is always something good to be found even in unpleasant situations.</strong>",
+    "q_hi": "Select the most appropriate proverb that can substitute the highlighted segment in the given sentence. <br><br>When her plan failed, she reminded herself that <strong>there is always something good to be found even in unpleasant situations.</strong>",
+    "section": "English Language and Comprehension",
+    "solution": "<b>Solution (EN):</b><br>The proverb \"every cloud has a silver lining\" means that every difficult or unpleasant situation has some advantage or positive side to it.<br>1. <b>A stitch in time:</b> Solving a problem immediately prevents it from worsening.<br>2. <b>Rome wasn't built in a day:</b> Important work takes time.<br>3. <b>Eggs in one basket:</b> Don't risk everything on one single venture.<br><br><b>Solution (HI):</b><br>कहावत \"every cloud has a silver lining\" का अर्थ है कि हर कठिन या अप्रिय स्थिति का कुछ न कुछ लाभ या सकारात्मक पक्ष होता है।<br><br><b>Short Trick:</b><br>Silver lining &rarr; Good/Hope in bad times.",
+    "topic": "Idioms and Phrases"
+  },
+  {
+    "ans": 1,
+    "difficulty": "Moderate",
+    "op_en": [
+      "4231",
+      "1234",
+      "4321",
+      "3412"
+    ],
+    "op_hi": [
+      "4231",
+      "1234",
+      "4321",
+      "3412"
+    ],
+    "q_en": "Sentences of a paragraph are given below in jumbled order. Arrange the sentences in the correct order to form a meaningful and coherent paragraph.<br><br>1. Despite these complexities, avocados remain superfoods rich in healthy fats and potassium.<br>2. This unique quality is because it does not ripen until picked from the tree.<br>3. Consequently, the fruit must be harvested carefully for transportation.<br>4. The avocado, botanically a single-seeded berry, is unlike most fruits.",
+    "q_hi": "Sentences of a paragraph are given below in jumbled order. Arrange the sentences in the correct order to form a meaningful and coherent paragraph.<br><br>1. Despite these complexities, avocados remain superfoods rich in healthy fats and potassium.<br>2. This unique quality is because it does not ripen until picked from the tree.<br>3. Consequently, the fruit must be harvested carefully for transportation.<br>4. The avocado, botanically a single-seeded berry, is unlike most fruits.",
+    "section": "English Language and Comprehension",
+    "solution": "<b>Solution (EN):</b><br>Sentence 4 introduces the avocado as an unusual fruit. Sentence 2 follows by explaining the 'unique quality' mentioned or implied in 4 (ripening only after picking). Sentence 3 explains the consequence ('Consequently') of that ripening process. Sentence 1 concludes with a positive summary despite the complexities.<br><br><b>Solution (HI):</b><br>वाक्य 4 एवोकैडो को एक असामान्य फल के रूप में पेश करता है। वाक्य 2 उस 'विशिष्ट गुणवत्ता' की व्याख्या करता है जिसका उल्लेख 4 में किया गया है। वाक्य 3 पकने की उस प्रक्रिया के परिणाम ('Consequently') की व्याख्या करता है। वाक्य 1 सकारात्मक सारांश के साथ समाप्त होता है।<br><br><b>Short Trick:</b><br>4 is the introductory sentence. Only option 4231 and 4321 start with it. 'Consequently' (3) follows the cause in 2.",
+    "topic": "Para Jumbles"
+  }
+]
