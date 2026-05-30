@@ -1,0 +1,422 @@
+[
+  {
+    "ans": 4,
+    "difficulty": "Easy",
+    "op_en": [
+      "Yoga",
+      "Hibernation",
+      "Nap",
+      "Siesta"
+    ],
+    "op_hi": [
+      "Yoga",
+      "Hibernation",
+      "Nap",
+      "Siesta"
+    ],
+    "q_en": "Select the option that can be used as a one-word substitute for the given group of words.<br><br>A relaxed, short sleep in the afternoon",
+    "q_hi": "Select the option that can be used as a one-word substitute for the given group of words.<br><br>A relaxed, short sleep in the afternoon",
+    "section": "English Language and Comprehension1",
+    "solution": "<b>Solution (EN):</b><br>The correct option is 4. 'Siesta' explicitly refers to a short sleep or rest taken in the afternoon, especially in hot countries. While a 'Nap' can be taken at any time of the day, a dedicated afternoon rest or short sleep is formally called a siesta.<br><br><b>Solution (HI):</b><br>सही विकल्प 4 है। विशेष रूप से दोपहर के समय आराम या थोड़ी देर की नींद लेने को 'Siesta' (दोपहर का विश्राम) कहा जाता है। यद्यपि 'Nap' (झपकी) दिन में कभी भी ली जा सकती है, दोपहर की विशिष्ट नींद के लिए 'Siesta' सबसे सटीक शब्द है।<br><br><b>Short Trick:</b><br>Afternoon + Rest/Sleep = Siesta.",
+    "topic": "One-Word Substitution"
+  },
+  {
+    "ans": 3,
+    "difficulty": "Moderate",
+    "op_en": [
+      "A – B – C – D",
+      "C – B – D – A",
+      "B – C – D – A",
+      "D – A – C – B"
+    ],
+    "op_hi": [
+      "A – B – C – D",
+      "C – B – D – A",
+      "B – C – D – A",
+      "D – A – C – B"
+    ],
+    "q_en": "Sentences of a paragraph are given below in jumbled order. Arrange the sentences in the correct order to form a meaningful and coherent paragraph.<br><br>(A) Each of these fields contributes to our understanding of the world in unique ways.<br>(B) Human knowledge is vast and constantly evolving across disciplines.<br>(C) While science explains the laws of nature, literature explores the depths of human experience.<br>(D) History, on the other hand, helps us interpret the lessons of the past.",
+    "q_hi": "Sentences of a paragraph are given below in jumbled order. Arrange the sentences in the correct order to form a meaningful and coherent paragraph.<br><br>(A) Each of these fields contributes to our understanding of the world in unique ways.<br>(B) Human knowledge is vast and constantly evolving across disciplines.<br>(C) While science explains the laws of nature, literature explores the depths of human experience.<br>(D) History, on the other hand, helps us interpret the lessons of the past.",
+    "section": "English Language and Comprehension1",
+    "solution": "<b>Solution (EN):</b><br>The correct sequence is 3 (B – C – D – A). Sentence (B) is the generic opening statement that introduces the main theme of 'Human knowledge'. Sentence (C) expands on this theme by detailing specific fields (science and literature). Sentence (D) uses the contrast connector 'on the other hand' to transition to another discipline (History). Sentence (A) concludes perfectly by summarizing all 'these fields'.<br><br><b>Solution (HI):</b><br>सही अनुक्रम 3 (B – C – D – A) है। वाक्य (B) एक सामान्य परिचयात्मक कथन है जो मुख्य विषय 'मानव ज्ञान' की शुरुआत करता है। वाक्य (C) विशिष्ट क्षेत्रों (विज्ञान और साहित्य) का विवरण देकर इसे आगे बढ़ाता है। वाक्य (D) विपरीत योजक 'on the other hand' का उपयोग करके इतिहास को जोड़ता है। अंत में, वाक्य (A) 'these fields' का उपयोग करके सभी क्षेत्रों का निष्कर्ष प्रस्तुत करता है।<br><br><b>Short Trick:</b><br>Sentence B acts as an introduction. The phrase 'on the other hand' in D indicates it must follow another sentence describing specific disciplines, making the C-D link mandatory.",
+    "topic": "Jumbled Sentences"
+  },
+  {
+    "ans": 4,
+    "difficulty": "Easy",
+    "op_en": [
+      "a - iv, b - iii, c - ii, d - i",
+      "a - iii, b - iv, c - i, d - ii",
+      "a - i, b - ii, c - iii, d - iv",
+      "a - ii, b - i, c - iv, d - iii"
+    ],
+    "op_hi": [
+      "a - iv, b - iii, c - ii, d - i",
+      "a - iii, b - iv, c - i, d - ii",
+      "a - i, b - ii, c - iii, d - iv",
+      "a - ii, b - i, c - iv, d - iii"
+    ],
+    "q_en": "Match the words in Column A with their synonyms in Column B and select the correct option.<br> <table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width: 500px;\">\t<tbody>\t\t<tr>\t\t\t<td style=\"text-align: center;\"><strong>Column A</strong></td>\t\t\t<td style=\"text-align: center;\"><strong>Column B</strong></td>\t\t</tr>\t\t<tr>\t\t\t<td>a. Amazing  </td>\t\t\t<td>i. Furious</td>\t\t</tr>\t\t<tr>\t\t\t<td>b. Angry</td>\t\t\t<td>ii. Incredible</td>\t\t</tr>\t\t<tr>\t\t\t<td>c. Beautiful</td>\t\t\t<td>iii. Tranquil</td>\t\t</tr>\t\t<tr>\t\t\t<td>d. Calm</td>\t\t\t<td>iv. Gorgeous</td>\t\t</tr>\t</tbody></table>",
+    "q_hi": "Match the words in Column A with their synonyms in Column B and select the correct option.<br> <table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width: 500px;\">\t<tbody>\t\t<tr>\t\t\t<td style=\"text-align: center;\"><strong>Column A</strong></td>\t\t\t<td style=\"text-align: center;\"><strong>Column B</strong></td>\t\t</tr>\t\t<tr>\t\t\t<td>a. Amazing  </td>\t\t\t<td>i. Furious</td>\t\t</tr>\t\t<tr>\t\t\t<td>b. Angry</td>\t\t\t<td>ii. Incredible</td>\t\t</tr>\t\t<tr>\t\t\t<td>c. Beautiful</td>\t\t\t<td>iii. Tranquil</td>\t\t</tr>\t\t<tr>\t\t\t<td>d. Calm</td>\t\t\t<td>iv. Gorgeous</td>\t\t</tr>\t</tbody></table>",
+    "section": "English Language and Comprehension1",
+    "solution": "<b>Solution (EN):</b><br>The correct option is 4. The meanings and exact synonyms map as follows:<br>a. Amazing &rarr; ii. Incredible (unbelievable/wonderful)<br>b. Angry &rarr; i. Furious (extremely enraged)<br>c. Beautiful &rarr; iv. Gorgeous (strikingly attractive)<br>d. Calm &rarr; iii. Tranquil (peaceful/quiet)<br>This gives the combination a - ii, b - i, c - iv, d - iii.<br><br><b>Solution (HI):</b><br>सही विकल्प 4 है। शब्दों का उनके पर्यायवाची (synonyms) के साथ मिलान इस प्रकार है:<br>a. Amazing &rarr; ii. Incredible (अद्भुत/अविश्वसनीय)<br>b. Angry &rarr; i. Furious (अत्यंत क्रोधित)<br>c. Beautiful &rarr; iv. Gorgeous (भव्य/अति सुंदर)<br>d. Calm &rarr; iii. Tranquil (शांत)<br>यह संयोजन a - ii, b - i, c - iv, d - iii को दर्शाता है।<br><br><b>Short Trick:</b><br>Match the most common pairs first: Angry pairs with Furious (b-i) and Calm pairs with Tranquil (d-iii). Only option 4 satisfies this structure.",
+    "topic": "Synonyms"
+  },
+  {
+    "ans": 1,
+    "difficulty": "Easy",
+    "op_en": [
+      "seen → had seen",
+      "released → release",
+      "seen → saw",
+      "said → says"
+    ],
+    "op_hi": [
+      "seen → had seen",
+      "released → release",
+      "seen → saw",
+      "said → says"
+    ],
+    "q_en": "Identify the part of the sentence that contains an error and select the option that rectifies it.<br><br>She said that she seen the movie before it was released in theatres.",
+    "q_hi": "Identify the part of the sentence that contains an error and select the option that rectifies it.<br><br>She said that she seen the movie before it was released in theatres.",
+    "section": "English Language and Comprehension1",
+    "solution": "<b>Solution (EN):</b><br>The correct option is 1. The sentence reports two past actions: 'seeing the movie' and 'the movie being released'. The action that happened earlier in the past must be expressed in the Past Perfect Tense ('had + past participle'). Therefore, 'seen' must be rectified to 'had seen'.<br><br><b>Solution (HI):</b><br>सही विकल्प 1 है। वाक्य में भूतकाल की दो घटनाओं का संदर्भ है: 'फिल्म देखना' और 'सिनेमाघरों में रिलीज होना'। जो घटना भूतकाल में पहले घटित हुई हो, उसे Past Perfect Tense ('had + V3') में होना चाहिए। इसलिए 'seen' को 'had seen' में बदला जाएगा।<br><br><b>Short Trick:</b><br>When two related events happen in the past, the older event always uses 'had + third form of verb'.",
+    "topic": "Spotting Errors"
+  },
+  {
+    "ans": 2,
+    "difficulty": "Easy",
+    "op_en": [
+      "many",
+      "a",
+      "some",
+      "little&nbsp;"
+    ],
+    "op_hi": [
+      "many",
+      "a",
+      "some",
+      "little&nbsp;"
+    ],
+    "q_en": "Select the most appropriate option to fill in the blank.<br><br>Don’t make _______ noise.",
+    "q_hi": "Select the most appropriate option to fill in the blank.<br><br>Don’t make _______ noise.",
+    "section": "English Language and Comprehension1",
+    "solution": "<b>Solution (EN):</b><br>The correct option is 2. The construction 'make a noise' is a fixed idiomatic phrase in English grammar where 'noise' takes the singular indefinite article 'a'.<br><br><b>Solution (HI):</b><br>सही विकल्प 2 है। अंग्रेजी भाषा में 'make a noise' एक निश्चित मुहावरा (idiomatic expression) है, जहाँ 'noise' के साथ अनिश्चित आर्टिकल 'a' का प्रयोग अनिवार्य रूप से होता है।<br><br><b>Short Trick:</b><br>Standard grammatical idiom phrase: Always use 'make a noise'.",
+    "topic": "Fill in the Blanks"
+  },
+  {
+    "ans": 2,
+    "difficulty": "Easy",
+    "op_en": [
+      "Concede",
+      "Mischievious",
+      "Perseverance",
+      "Magnanimous"
+    ],
+    "op_hi": [
+      "Concede",
+      "Mischievious",
+      "Perseverance",
+      "Magnanimous"
+    ],
+    "q_en": "Select the wrongly spelt word:",
+    "q_hi": "Select the wrongly spelt word:",
+    "section": "English Language and Comprehension1",
+    "solution": "<b>Solution (EN):</b><br>The correct option is 2. The word 'Mischievious' is misspelled. The correct spelling is 'Mischievous' (ending in -vous, without an extra 'i' after the 'v'). All other words like Concede, Perseverance, and Magnanimous are correctly spelled.<br><br><b>Solution (HI):</b><br>सही विकल्प 2 है। यहाँ 'Mischievious' की वर्तनी अशुद्ध है। इसकी सही वर्तनी 'Mischievous' (शरारती) होती है, जिसमें 'v' के बाद 'i' अक्षर नहीं आता है। शेष सभी शब्द शुद्ध हैं।<br><br><b>Short Trick:</b><br>Mischief &rarr; Mischievous (Remember there is no 'i' right before the suffix -ous).",
+    "topic": "Spelling Test"
+  },
+  {
+    "ans": 1,
+    "difficulty": "Easy",
+    "op_en": [
+      "ardeuous",
+      "challenged",
+      "techniques",
+      "resilience"
+    ],
+    "op_hi": [
+      "ardeuous",
+      "challenged",
+      "techniques",
+      "resilience"
+    ],
+    "q_en": "Select the INCORRECTLY spelt word from the sentence given below.<br><br>Raman's ardeuous journey across the desert challenged his resilience and survival techniques to the utmost.",
+    "q_hi": "Select the INCORRECTLY spelt word from the sentence given below.<br><br>Raman's ardeuous journey across the desert challenged his resilience and survival techniques to the utmost.",
+    "section": "English Language and Comprehension1",
+    "solution": "<b>Solution (EN):</b><br>The correct option is 1. The word 'ardeuous' is misspelled in the text. The correct spelling is 'Arduous' (meaning full of difficulty, strenuous, or requiring severe effort).<br><br><b>Solution (HI):</b><br>सही विकल्प 1 है। 'ardeuous' शब्द की वर्तनी गलत है। इसका शुद्ध रूप 'Arduous' (कठिन/श्रमसाध्य) होता है, जिसमें 'd' और 'u' के बीच 'e' नहीं लगाया जाता है।<br><br><b>Short Trick:</b><br>Arduous contains straight syllables: Ar-du-ous.",
+    "topic": "Spelling Test"
+  },
+  {
+    "ans": 4,
+    "difficulty": "Easy",
+    "op_en": [
+      "Working excessively hard to build a mountain on one’s own",
+      "Doing something unique that was not done earlier",
+      "Clearly conveying what one feels or thinks about something",
+      "Pointlessly exaggerating the importance of something trivial"
+    ],
+    "op_hi": [
+      "Working excessively hard to build a mountain on one’s own",
+      "Doing something unique that was not done earlier",
+      "Clearly conveying what one feels or thinks about something",
+      "Pointlessly exaggerating the importance of something trivial"
+    ],
+    "q_en": "Select the most appropriate meaning of the underlined idiom.<br><br>The parents reprimanded the child for stealing a cookie from the kitchen. They <u>made a mountain out of a molehill</u>.",
+    "q_hi": "Select the most appropriate meaning of the underlined idiom.<br><br>The parents reprimanded the child for stealing a cookie from the kitchen. They <u>made a mountain out of a molehill</u>.",
+    "section": "English Language and Comprehension1",
+    "solution": "<b>Solution (EN):</b><br>The correct option is 4. The figurative phrase 'make a mountain out of a molehill' means to treat a minor, minor problem or a small mistake as a significant obstacle or a huge disaster; pointlessly exaggerating a trivial matter.<br><br><b>Solution (HI):</b><br>सही विकल्प 4 है। मुहावरे 'make a mountain out of a molehill' (राई का पहाड़ बनाना) का अर्थ होता है किसी छोटी सी मामूली समस्या या बात को बहुत बड़ा रूप देकर अनावश्यक रूप से बढ़ा-चढ़ाकर प्रस्तुत करना।<br><br><b>Short Trick:</b><br>Molehill (small mound) converted into a Mountain (huge) = Pointless exaggeration of small things.",
+    "topic": "Idioms and Phrases"
+  },
+  {
+    "ans": 1,
+    "difficulty": "Easy",
+    "op_en": [
+      "Negative or ill feelings&nbsp;",
+      "Mental and physical strain",
+      "Immoral thoughts&nbsp;",
+      "Contaminated or polluted blood"
+    ],
+    "op_hi": [
+      "Negative or ill feelings&nbsp;",
+      "Mental and physical strain",
+      "Immoral thoughts&nbsp;",
+      "Contaminated or polluted blood"
+    ],
+    "q_en": "Select the most appropriate meaning of the given idiom/phrase.<br><br>Bad blood",
+    "q_hi": "Select the most appropriate meaning of the given idiom/phrase.<br><br>Bad blood",
+    "section": "English Language and Comprehension1",
+    "solution": "<b>Solution (EN):</b><br>The correct option is 1. The idiom 'Bad blood' denotes long-standing bitterness, active enmity, animosity, or negative/ill feelings between people or families.<br><br><b>Solution (HI):</b><br>सही विकल्प 1 है। मुहावरे 'Bad blood' का तात्पर्य दो पक्षों या व्यक्तियों के बीच लंबे समय से चली आ रही दुश्मनी, कड़वाहट या मनमुटाव (Negative or ill feelings) से होता है।<br><br><b>Short Trick:</b><br>Bad blood = Hostility / Bitter relationship.",
+    "topic": "Idioms and Phrases"
+  },
+  {
+    "ans": 1,
+    "difficulty": "Easy",
+    "op_en": [
+      "B – C – A – D",
+      "D – A – C – B",
+      "C – B – A – D",
+      "A – D – C – B"
+    ],
+    "op_hi": [
+      "B – C – A – D",
+      "D – A – C – B",
+      "C – B – A – D",
+      "A – D – C – B"
+    ],
+    "q_en": "Sentences of a paragraph are given below in jumbled order. Arrange the sentences in the correct order to form a meaningful and coherent paragraph.<br><br>(A) This curiosity has driven discoveries from ancient astronomy to modern genetics.<br>(B) Human beings have always been curious about the mysteries of existence.<br>(C) Such curiosity often leads to exploration, experimentation and innovation.<br>(D) Without this persistent questioning, much of human progress would not have been possible.",
+    "q_hi": "Sentences of a paragraph are given below in jumbled order. Arrange the sentences in the correct order to form a meaningful and coherent paragraph.<br><br>(A) This curiosity has driven discoveries from ancient astronomy to modern genetics.<br>(B) Human beings have always been curious about the mysteries of existence.<br>(C) Such curiosity often leads to exploration, experimentation and innovation.<br>(D) Without this persistent questioning, much of human progress would not have been possible.",
+    "section": "English Language and Comprehension1",
+    "solution": "<b>Solution (EN):</b><br>The correct sequence is 1 (B – C – A – D). Sentence (B) establishes the main topic about human curiosity. Sentence (C) uses the demonstrative pointer 'Such curiosity' to immediately follow and expand on (B). Sentence (A) continues the logical flow by tracing historical achievements driven by 'This curiosity'. Sentence (D) concludes by validating 'this persistent questioning' as the driver of human progress.<br><br><b>Solution (HI):</b><br>सही अनुक्रम 1 (B – C – A – D) है। वाक्य (B) बुनियादी विषय 'जिज्ञासा' (curiosity) का परिचय देता है। वाक्य (C) 'Such curiosity' वाक्यांश के माध्यम से सीधे (B) से जुड़ा हुआ है। वाक्य (A) 'This curiosity' का उपयोग करके ऐतिहासिक खोजों के उदाहरण देता है और वाक्य (D) 'this persistent questioning' के साथ निष्कर्ष निकालता है।<br><br><b>Short Trick:</b><br>Sentence B mentions 'curious' &rarr; Sentence C immediately links with 'Such curiosity'. This B-C pair is only found at the start of option 1.",
+    "topic": "Jumbled Sentences"
+  },
+  {
+    "ans": 1,
+    "difficulty": "Easy",
+    "op_en": [
+      "Artificial",
+      "Pure",
+      "Nutritious",
+      "Pristine"
+    ],
+    "op_hi": [
+      "Artificial",
+      "Pure",
+      "Nutritious",
+      "Pristine"
+    ],
+    "q_en": "Select the most appropriate ANTONYM of the underlined word in the given sentence.<br><br>I always prefer to give <u>natural</u> juices to my children to keep them healthy and fit.",
+    "q_hi": "Select the most appropriate ANTONYM of the underlined word in the given sentence.<br><br>I always prefer to give <u>natural</u> juices to my children to keep them healthy and fit.",
+    "section": "English Language and Comprehension1",
+    "solution": "<b>Solution (EN):</b><br>The correct option is 1. 'Natural' refers to things produced by nature and not artificial or man-made. The direct and precise antonym is 'Artificial' (synthetic/imitation). 'Pure' and 'Pristine' are closely related synonyms.<br><br><b>Solution (HI):</b><br>सही विकल्प 1 है। 'Natural' का अर्थ 'प्राकृतिक' होता है, जो प्रकृति द्वारा निर्मित हो। इसका सटीक विलोम शब्द 'Artificial' (कृत्रिम/बनावटी) है। 'Pure' और 'Pristine' इसके समानार्थी अर्थ प्रकट करते हैं।<br><br><b>Short Trick:</b><br>Natural (Nature-made) vs. Artificial (Man-made).",
+    "topic": "Antonyms"
+  },
+  {
+    "ans": 1,
+    "difficulty": "Easy",
+    "op_en": [
+      "Alison urged them to be quiet and listen to her words.",
+      "Alison urged them to be quiet and listened to her words.",
+      "Alison requests them to be quiet and listen to her words.",
+      "Alison urges them to be quiet and listen to her words."
+    ],
+    "op_hi": [
+      "Alison urged them to be quiet and listen to her words.",
+      "Alison urged them to be quiet and listened to her words.",
+      "Alison requests them to be quiet and listen to her words.",
+      "Alison urges them to be quiet and listen to her words."
+    ],
+    "q_en": "Select the option that expresses the given sentence in indirect speech.<br><br>Alison said, “Be quiet and listen to my words.”",
+    "q_hi": "Select the option that expresses the given sentence in indirect speech.<br><br>Alison said, “Be quiet and listen to my words.”",
+    "section": "English Language and Comprehension1",
+    "solution": "<b>Solution (EN):</b><br>The correct option is 1. The original reporting verb is in the past tense ('said') and the speech is an imperative instruction. Thus, 'said' transforms into the past reporting verb 'urged'. The imperative clause 'Be quiet and listen...' shifts into an infinitive form 'to be quiet and listen'. The possessive pronoun 'my' correctly shifts to 'her' to align with Alison.<br><br><b>Solution (HI):</b><br>सही विकल्प 1 है। चूंकि Direct speech का वाक्य एक आदेश या आग्रह (imperative sentence) है, इसलिए reporting verb 'said' को 'urged' में बदला गया है। वाक्य को जोड़ने के लिए 'to + infinitive' का नियम लागू हुआ है ('to be quiet and listen') और सर्वनाम 'my' को 'her' में बदला गया है।<br><br><b>Short Trick:</b><br>The reporting verb 'said' must be converted into past tense ('urged', not present 'urges'/'requests'). Also, the infinitive 'to' must take base verbs: 'to be... and listen...'",
+    "topic": "Direct and Indirect Speech"
+  },
+  {
+    "ans": 4,
+    "difficulty": "Easy",
+    "op_en": [
+      "She was refused admittance.",
+      "The peon refused to admit her.",
+      "Admittance had been refused to her by the peon.",
+      "She was refused admittance by the peon."
+    ],
+    "op_hi": [
+      "She was refused admittance.",
+      "The peon refused to admit her.",
+      "Admittance had been refused to her by the peon.",
+      "She was refused admittance by the peon."
+    ],
+    "q_en": "Select the option that expresses the given sentence in passive voice. <br><br>The peon refused her admittance.",
+    "q_hi": "Select the option that expresses the given sentence in passive voice. <br><br>The peon refused her admittance.",
+    "section": "English Language and Comprehension1",
+    "solution": "<b>Solution (EN):</b><br>The correct option is 4. The active sentence contains the simple past tense verb 'refused'. To change it to passive voice, we apply the structure 'was/were + V3'. The indirect object 'her' becomes the subject pronoun 'She', followed by 'was refused admittance by the peon'. Option 4 retains the complete agent description correctly.<br><br><b>Solution (HI):</b><br>सही विकल्प 4 है। एक्टिव वॉइस का वाक्य Simple Past Tense ('refused') में है। पैसिव वॉइस में बदलने के लिए 'was/were + V3' संरचना का प्रयोग होता है। कर्म 'her' बदलकर कर्ता 'She' बन जाता है, जिसके बाद 'was refused admittance by the peon' आता है।<br><br><b>Short Trick:</b><br>Simple Past verb 'refused' always transitions into 'was/were refused' along with the active subject added with a 'by' phrase.",
+    "topic": "Active and Passive Voice"
+  },
+  {
+    "ans": 1,
+    "difficulty": "Easy",
+    "op_en": [
+      "quintessence",
+      "template",
+      "blueprint",
+      "anomaly"
+    ],
+    "op_hi": [
+      "quintessence",
+      "template",
+      "blueprint",
+      "anomaly"
+    ],
+    "q_en": "Select the option that can be used as a one-word substitute for the underlined phrase in the given sentence.<br><br>The painting captured the <u>most typical example</u> of the artist's vision.",
+    "q_hi": "Select the option that can be used as a one-word substitute for the underlined phrase in the given sentence.<br><br>The painting captured the <u>most typical example</u> of the artist's vision.",
+    "section": "English Language and Comprehension1",
+    "solution": "<b>Solution (EN):</b><br>The correct option is 1. 'Quintessence' means the most perfect or typical example of a quality, feature, or class. 'Template' and 'blueprint' signify preliminary structural plans, while 'anomaly' means an irregularity or deviation.<br><br><b>Solution (HI):</b><br>सही विकल्प 1 है। 'Quintessence' का अर्थ किसी गुण या वर्ग का सबसे उत्कृष्ट या विशिष्ट उदाहरण (most typical example) होता है। 'Template' और 'blueprint' योजनाबद्ध प्रारूप को दर्शाते हैं, जबकि 'anomaly' सामान्य नियम से हटकर होने वाली विसंगति को दर्शाती है।<br><br><b>Short Trick:</b><br>Most typical/perfect example = Quintessence.",
+    "topic": "One-Word Substitution"
+  },
+  {
+    "ans": 1,
+    "difficulty": "Easy",
+    "op_en": [
+      "will met → will meet",
+      "arrives → arrive",
+      "no error",
+      "at → on"
+    ],
+    "op_hi": [
+      "will met → will meet",
+      "arrives → arrive",
+      "no error",
+      "at → on"
+    ],
+    "q_en": "Identify the part of the sentence that contains an error and select the option that rectifies it.<br><br>I will met him at the station when his train arrives.",
+    "q_hi": "Identify the part of the sentence that contains an error and select the option that rectifies it.<br><br>I will met him at the station when his train arrives.",
+    "section": "English Language and Comprehension1",
+    "solution": "<b>Solution (EN):</b><br>The correct option is 1. Modal auxiliary verbs (such as 'will', 'shall', 'can', 'must') are always succeeded by the base/first form of the verb (V1). Therefore, the past form 'met' must be corrected to the base form 'meet'.<br><br><b>Solution (HI):</b><br>सही विकल्प 1 है। मॉडल ऑक्जिलरी वर्ब (जैसे 'will') के बाद हमेशा क्रिया के मूल रूप या पहले रूप (V1) का प्रयोग किया जाता है। इसलिए यहाँ पास्ट फॉर्म 'met' को बदलकर बेस फॉर्म 'meet' करना आवश्यक है।<br><br><b>Short Trick:</b><br>Rule: Will + V1 (meet), never V2/V3 (met).",
+    "topic": "Spotting Errors"
+  },
+  {
+    "ans": 2,
+    "difficulty": "Easy",
+    "op_en": [
+      "I knew her address Roni said.",
+      "Roni said he knew her address.",
+      "Roni said that he had known her address.",
+      "Roni said he know her address."
+    ],
+    "op_hi": [
+      "I knew her address Roni said.",
+      "Roni said he knew her address.",
+      "Roni said that he had known her address.",
+      "Roni said he know her address."
+    ],
+    "q_en": "Select the option that expresses the given sentence in indirect speech.<br><br>“I know her address,” said Roni.",
+    "q_hi": "Select the option that expresses the given sentence in indirect speech.<br><br>“I know her address,” said Roni.",
+    "section": "English Language and Comprehension1",
+    "solution": "<b>Solution (EN):</b><br>The correct option is 2. The reporting verb is in the past tense ('said'), so the simple present verb 'know' inside quotes changes into the simple past tense 'knew'. The first-person pronoun 'I' changes to 'he' to reflect the speaker Roni.<br><br><b>Solution (HI):</b><br>सही विकल्प 2 है। चूँकि मुख्य reporting verb भूतकाल ('said') में है, इसलिए reported speech का Simple Present Tense ('know') बदलकर Simple Past Tense ('knew') में परिवर्तित हो जाएगा और 'I' के स्थान पर 'he' का प्रयोग होगा।<br><br><b>Short Trick:</b><br>Direct Present Tense ('know') always converts to Indirect Past Tense ('knew') when reporting verb is in the past tense.",
+    "topic": "Direct and Indirect Speech"
+  },
+  {
+    "ans": 1,
+    "difficulty": "Easy",
+    "op_en": [
+      "take it with a grain of salt",
+      "take a rain check",
+      "be in a tight corner",
+      "look before you leap"
+    ],
+    "op_hi": [
+      "take it with a grain of salt",
+      "take a rain check",
+      "be in a tight corner",
+      "look before you leap"
+    ],
+    "q_en": "Select the most appropriate idiom that can substitute the underlined segment in the given sentence.<br><br>You <u>don't have to take it too seriously</u> because she tends to exaggerate.",
+    "q_hi": "Select the most appropriate idiom that can substitute the underlined segment in the given sentence.<br><br>You <u>don't have to take it too seriously</u> because she tends to exaggerate.",
+    "section": "English Language and Comprehension1",
+    "solution": "<b>Solution (EN):</b><br>The correct option is 1. The classic phrase 'take something with a grain of salt' means to interpret a statement with skepticism and not accept it as completely serious, literal, or entirely true.<br><br><b>Solution (HI):</b><br>सही विकल्प 1 है। रेखांकित वाक्यांश 'don't have to take it too seriously' के स्थान पर मुहावरे 'take it with a grain of salt' का प्रयोग होगा, जिसका अर्थ होता है किसी बात को पूरी तरह से सच न मानना या संदेह के साथ देखना।<br><br><b>Short Trick:</b><br>Not take completely literally/seriously = Take with a grain of salt.",
+    "topic": "Idioms and Phrases"
+  },
+  {
+    "ans": 3,
+    "difficulty": "Moderate",
+    "op_en": [
+      "is due some respect",
+      "is done to death",
+      "is on the cards",
+      "is not worth his salt"
+    ],
+    "op_hi": [
+      "is due some respect",
+      "is done to death",
+      "is on the cards",
+      "is not worth his salt"
+    ],
+    "q_en": "Select the most appropriate idiom that can substitute the underlined segment in the given sentence.<br><br>Shashank’s salary increase <u>is due</u>.",
+    "q_hi": "Select the most appropriate idiom that can substitute the underlined segment in the given sentence.<br><br>Shashank’s salary increase <u>is due</u>.",
+    "section": "English Language and Comprehension1",
+    "solution": "<b>Solution (EN):</b><br>The correct option is 3. The phrase 'on the cards' is an established English idiom meaning highly likely to happen, anticipated, or expected shortly. It accurately corresponds to 'is due' in this situation.<br><br><b>Solution (HI):</b><br>सही विकल्प 3 है। 'is due' (होने वाला या तय होना) को प्रतिस्थापित करने के लिए मुहावरा 'is on the cards' प्रयुक्त होगा, जिसका अर्थ होता है किसी घटना के घटित होने की पूरी संभावना होना।<br><br><b>Short Trick:</b><br>Likely to happen or due soon = On the cards.",
+    "topic": "Idioms and Phrases"
+  },
+  {
+    "ans": 4,
+    "difficulty": "Easy",
+    "op_en": [
+      "The multiplex was being built by Mr. Alok and the team.",
+      "The multiplex is been built by Mr. Alok and the team.&nbsp;",
+      "The multiplex was been built by Mr. Alok and the team.&nbsp;",
+      "The multiplex is being built by Mr. Alok and the team."
+    ],
+    "op_hi": [
+      "The multiplex was being built by Mr. Alok and the team.",
+      "The multiplex is been built by Mr. Alok and the team.&nbsp;",
+      "The multiplex was been built by Mr. Alok and the team.&nbsp;",
+      "The multiplex is being built by Mr. Alok and the team."
+    ],
+    "q_en": "Select the option that expresses the given sentence in passive voice. <br><br>Mr. Alok and the team are building the multiplex.",
+    "q_hi": "Select the option that expresses the given sentence in passive voice. <br><br>Mr. Alok and the team are building the multiplex.",
+    "section": "English Language and Comprehension1",
+    "solution": "<b>Solution (EN):</b><br>The correct option is 4. The active voice sentence is structured in the Present Continuous Tense ('are building'). Its conversion rules dictate the usage of 'is/am/are + being + V3'. As 'The multiplex' is a singular object, it seamlessly updates to 'is being built by Mr. Alok and the team'.<br><br><b>Solution (HI):</b><br>सही विकल्प 4 है। सक्रिय वाक्य Present Continuous Tense में है। इसे पैसिव वॉइस में बदलने के लिए नियम के अनुसार 'is/am/are + being + V3' रूप का उपयोग किया जाता है। 'The multiplex' एकवचन कर्म है, इसलिए यह 'is being built' में बदल जाएगा।<br><br><b>Short Trick:</b><br>Active Continuous ('is/are building') always converts into 'is/are being built' in Passive voice.",
+    "topic": "Active and Passive Voice"
+  },
+  {
+    "ans": 1,
+    "difficulty": "Easy",
+    "op_en": [
+      "aren’t you",
+      "are you",
+      "is you",
+      "were you"
+    ],
+    "op_hi": [
+      "aren’t you",
+      "are you",
+      "is you",
+      "were you"
+    ],
+    "q_en": "Select the most appropriate option to fill in the blank.<br><br>You are working for a business house, _______?",
+    "q_hi": "Select the most appropriate option to fill in the blank.<br><br>You are working for a business house, _______?",
+    "section": "English Language and Comprehension1",
+    "solution": "<b>Solution (EN):</b><br>The correct option is 1. According to the foundational syntax laws of question tags, a positive declarative statement requires a matching negative question tag. Since the main clause contains 'You are...', the correct tag inversion is 'aren't you?'.<br><br><b>Solution (HI):</b><br>सही विकल्प 1 है। क्वेश्चन टैग के मूल नियमों के अनुसार, यदि मुख्य कथन सकारात्मक (positive) हो, तो उसके साथ हमेशा नकारात्मक (negative) टैग जुड़ता है। चूंकि वाक्य 'You are...' से प्रारंभ हुआ है, अतः इसका सही क्वेश्चन टैग 'aren't you?' होगा।<br><br><b>Short Trick:</b><br>Positive statement ('are') &rarr; Negative question tag ('aren't you').",
+    "topic": "Question Tags"
+  }
+]
