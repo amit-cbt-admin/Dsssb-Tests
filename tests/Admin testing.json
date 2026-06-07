@@ -1,23 +1,422 @@
 [
-  {
-    "section": "General Intelligence and Reasoning Ability",
-    "topic": "Alphanumeric Series",
-    "difficulty": "Easy",
-    "q_en": "Refer to the given letter, number, symbol series and answer the question that follows. All numbers are single-digit numbers only.<br><br>(Left) H J $ 4 L ? 2 3 T A @ + C ? > $ D 6 9 3 K M N > & S X # 9 & @ $ % K L (Right)<br><br>If all the symbols are dropped from the series, which of the following will be fifth from the right?",
-    "q_hi": "दी गई अक्षर, संख्या, प्रतीक श्रृंखला का संदर्भ लें और निम्नलिखित प्रश्न का उत्तर दें। सभी संख्याएँ केवल एकल-अंकीय संख्याएँ हैं।<br><br>(बाएँ) H J $ 4 L ? 2 3 T A @ + C ? > $ D 6 9 3 K M N > & S X # 9 & @ $ % K L (दाएँ)<br><br>यदि श्रृंखला से सभी प्रतीकों को हटा दिया जाता है, तो निम्नलिखित में से कौन सा दाएँ से पाँचवाँ होगा?",
-    "op_en": [
-      "3",
-      "L",
-      "2",
-      "S"
-    ],
-    "op_hi": [
-      "3",
-      "L",
-      "2",
-      "S"
-    ],
-    "ans": 4,
-    "solution": "<b>Solution (EN):</b><br>1. The given series is: H J $ 4 L ? 2 3 T A @ + C ? > $ D 6 9 3 K M N > & S X # 9 & @ $ % K L<br>2. Drop all symbols ($, ?, @, +, ?, >, $, >, &, #, &, @, $, %): H J 4 L 2 3 T A C D 6 9 3 K M N S X 9 K L<br>3. We need to find the 5th element from the right end of this new series.<br>4. New series from right: L(1st), K(2nd), 9(3rd), X(4th), S(5th)...<br>5. The 5th element from the right is S.<br><br><b>Solution (HI):</b><br>1. दी गई श्रृंखला है: H J $ 4 L ? 2 3 T A @ + C ? > $ D 6 9 3 K M N > & S X # 9 & @ $ % K L<br>2. सभी प्रतीकों ($, ?, @, +, ?, >, $, >, &, #, &, @, $, %) को हटा दें: H J 4 L 2 3 T A C D 6 9 3 K M N S X 9 K L<br>3. हमें इस नई श्रृंखला के दाएँ छोर से 5वाँ तत्व खोजना है।<br>4. दाएँ से नई श्रृंखला: L(पहला), K(दूसरा), 9(तीसरा), X(चौथा), S(पाँचवाँ)...<br>5. दाएँ से 5वाँ तत्व S है।<br><br><b>Short Trick:</b><br>Instead of writing the whole new series, just count 5 elements (letters/numbers only) from the right end. L (1), K (2), % (skip), $ (skip), @ (skip), & (skip), 9 (3), # (skip), X (4), S (5). The 5th is S."
-  }
+    {
+        "section": "General intelligence and Reasoning Ability",
+        "topic": "",
+        "level": "",
+        "q_en": "In a certain code language, ‘FAIL’ is coded as ‘6027’ and ‘LIFE’ is coded as ‘2096’. What is the code for ‘E’ in that language?",
+        "q_hi": "",
+        "op_en": [
+            "6",
+            "2",
+            "9",
+            "0"
+        ],
+        "op_hi": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "ans": "3",
+        "solution": ""
+    },
+    {
+        "section": "General intelligence and Reasoning Ability",
+        "topic": "",
+        "level": "",
+        "q_en": "Mahesh ranked 15th from the top and 19th from the bottom in his class. How many students are there in the class?",
+        "q_hi": "",
+        "op_en": [
+            "34",
+            "33",
+            "35",
+            "32"
+        ],
+        "op_hi": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "ans": "2",
+        "solution": ""
+    },
+    {
+        "section": "General intelligence and Reasoning Ability",
+        "topic": "",
+        "level": "",
+        "q_en": "Each vowel in the word CLIMATE is changed to the letter following it in the English alphabetical order, and each consonant is changed to the letter preceding it in the English alphabetical order. Which of the following letters will be fourth from the left in the new group of letters thus formed?<span style=\"color: white;\">4916</span>",
+        "q_hi": "",
+        "op_en": [
+            "L",
+            "M",
+            "N",
+            "K"
+        ],
+        "op_hi": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "ans": "1",
+        "solution": ""
+    },
+    {
+        "section": "General intelligence and Reasoning Ability",
+        "topic": "",
+        "level": "",
+        "q_en": "Refer to the following number series and answer the question that follows. All numbers are single digit numbers only. (Counting to be done from left to right only.)<br><br>(Left) 5 9 7 3 8 2 4 1 9 2 6 4 5 3 6 1 2 4 9 8 6 5 2 1 4 3 3 (Right)<br><br>How many such even numbers are there, each of which is immediately preceded by an odd number and also immediately followed by an odd number?",
+        "q_hi": "",
+        "op_en": [
+            "Two",
+            "Five",
+            "Four",
+            "Three"
+        ],
+        "op_hi": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "ans": "4",
+        "solution": ""
+    },
+    {
+        "section": "General intelligence and Reasoning Ability",
+        "topic": "",
+        "level": "",
+        "q_en": "Refer to the following letter series and answer the question. (Counting to be done from left to right only)<br><br>(Left) F C X Q T Y H I M R G U K S D B Z E O W A (Right)<br><br>How many such consonants are there, each of which is immediately preceded by a vowel and also immediately followed by a vowel?",
+        "q_hi": "",
+        "op_en": [
+            "2",
+            "3",
+            "1",
+            "0"
+        ],
+        "op_hi": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "ans": "3",
+        "solution": ""
+    },
+    {
+        "section": "General intelligence and Reasoning Ability",
+        "topic": "",
+        "level": "",
+        "q_en": "In a certain code language, ‘smoking is not good habit’ is coded as ‘pk by mn qj az’ and ‘you are not bad boy’ is coded as ‘dh az gt ol cx’. How is ‘not’ coded in the given language?",
+        "q_hi": "",
+        "op_en": [
+            "ol",
+            "gt",
+            "az",
+            "qj"
+        ],
+        "op_hi": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "ans": "3",
+        "solution": ""
+    },
+    {
+        "section": "General intelligence and Reasoning Ability",
+        "topic": "",
+        "level": "",
+        "q_en": "A,B,C,D,E,F and G are sitting in a straight line facing North.<br>Only five people sit between G and C. F sits to the immediate left of C. Only one person sits between F and A. D sits at some place to the left of E but at some place to the right of B.<br>How many people sit to the right of D?",
+        "q_hi": "",
+        "op_en": [
+            "1",
+            "2",
+            "4",
+            "3"
+        ],
+        "op_hi": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "ans": "3",
+        "solution": ""
+    },
+    {
+        "section": "General intelligence and Reasoning Ability",
+        "topic": "",
+        "level": "",
+        "q_en": "Six boxes B, C, D, E, O and P are kept one over the other but not necessarily in the same order. No box is kept above C. Only two boxes are kept between C and O. Only one box is kept between D and O. E is kept immediately above O. Only two boxes are kept between E and B. How many boxes are kept below P?",
+        "q_hi": "",
+        "op_en": [
+            "None",
+            "One",
+            "Two",
+            "Three"
+        ],
+        "op_hi": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "ans": "2",
+        "solution": ""
+    },
+    {
+        "section": "General intelligence and Reasoning Ability",
+        "topic": "",
+        "level": "",
+        "q_en": "Refer to the following letter, symbol series and answer the question.<br><br>(Left) &amp; P Z £ D Z Q D R % Y &amp; F £ A ξ K ! δ # Ω (Right)<br><br>If all the symbols are dropped from the series, which of the following will be ninth from right?",
+        "q_hi": "",
+        "op_en": [
+            "R",
+            "D",
+            "Q",
+            "Y"
+        ],
+        "op_hi": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "ans": "2",
+        "solution": ""
+    },
+    {
+        "section": "General intelligence and Reasoning Ability",
+        "topic": "",
+        "level": "",
+        "q_en": "A statement is followed by two conclusions labelled I and II. Identify which of these conclusions is/are true based on the given statement.<br><br><strong>Statement: </strong><br>P = Q &lt; R ≤ S = T<br><strong><br>Conclusions:</strong><br>I. P &lt; S<br>II. Q = T",
+        "q_hi": "",
+        "op_en": [
+            "Neither I nor II is true",
+            "Only I is true",
+            "Only II is true",
+            "Both I and II are true"
+        ],
+        "op_hi": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "ans": "2",
+        "solution": ""
+    },
+    {
+        "section": "General intelligence and Reasoning Ability",
+        "topic": "",
+        "level": "",
+        "q_en": "In a certain code language, ‘second to none’ is coded as ‘zh bg sp’ and ‘she came second’ is coded as ‘km sp cy’. How is ‘second’ coded in the given language? (All codes are two-letter codes)",
+        "q_hi": "",
+        "op_en": [
+            "sp",
+            "cy",
+            "zh",
+            "bg"
+        ],
+        "op_hi": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "ans": "1",
+        "solution": ""
+    },
+    {
+        "section": "General intelligence and Reasoning Ability",
+        "topic": "",
+        "level": "",
+        "q_en": "56 people are standing in a row facing north. Pams is 14<sup>th</sup> from the left end while Sams is 25<sup>th</sup> from the right end. How many people are there between Pams and Sams?",
+        "q_hi": "",
+        "op_en": [
+            "16",
+            "17",
+            "14",
+            "15"
+        ],
+        "op_hi": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "ans": "2",
+        "solution": ""
+    },
+    {
+        "section": "General intelligence and Reasoning Ability",
+        "topic": "",
+        "level": "",
+        "q_en": "D is the mother of R. R is the sister of G. O is the father of N. N is the son of G. How is D related to N?",
+        "q_hi": "",
+        "op_en": [
+            "Mother's mother",
+            "Mother's sister",
+            "Sister",
+            "Mother"
+        ],
+        "op_hi": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "ans": "1",
+        "solution": ""
+    },
+    {
+        "section": "General intelligence and Reasoning Ability",
+        "topic": "",
+        "level": "",
+        "q_en": "In a certain code language, <br>A @ B means ‘A is the father of B’, <br>A &gt; B means ‘A is the sister of B’, <br>A € B means ‘A is the daughter of B’,<br>A ¥ B means ‘A is the son of B’.<br><br>Based on the above, how is F related to T if 'F ¥ G € R @ S &gt; T'?",
+        "q_hi": "",
+        "op_en": [
+            "Mother's father",
+            "Sister's son",
+            "Wife's father",
+            "Father's mother"
+        ],
+        "op_hi": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "ans": "2",
+        "solution": ""
+    },
+    {
+        "section": "General intelligence and Reasoning Ability",
+        "topic": "",
+        "level": "",
+        "q_en": "<span style=\"font-size: 12pt;\"><span style=\"line-height: 115%;\"><span style=\"font-family: &quot;Calibri&quot;,sans-serif;\"><span style=\"font-family: &quot;Times New Roman&quot;,serif;\"><span style=\"color: black;\">Refer to the given letter series and answer the question that follows. Counting to be done from left to right only.</span></span></span></span></span><br><br><span style=\"font-size: 12pt;\"><span style=\"line-height: 115%;\"><span style=\"font-family: &quot;Calibri&quot;,sans-serif;\"><b><span style=\"font-family: &quot;Times New Roman&quot;,serif;\"><span style=\"color: black;\">(Left) X K Y Z W A M Q T E H G U B R D C S F I O (Right)</span></span></b></span></span></span><br><br><span style=\"font-size: 12pt;\"><span style=\"line-height: 115%;\"><span style=\"font-family: &quot;Calibri&quot;,sans-serif;\"><span style=\"font-family: &quot;Times New Roman&quot;,serif;\"><span style=\"color: black;\">How many such vowels are there, each of which is immediately preceded by a vowel and also immediately followed by a vowel?</span></span></span></span></span>",
+        "q_hi": "",
+        "op_en": [
+            "3",
+            "1",
+            "0",
+            "2"
+        ],
+        "op_hi": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "ans": "3",
+        "solution": ""
+    },
+    {
+        "section": "General intelligence and Reasoning Ability",
+        "topic": "",
+        "level": "",
+        "q_en": "Seven people J, K, L, M, P, Q and R are sitting in a straight line facing north. Only four people sit to the right of J. L sits second to the right of J. Only one person sits between L and K. Only two people sit between L and P. R sits at some place to the right of M, but at some place to the left of Q. How many people sit to the right of R?<span style=\"color: white;\">177</span>",
+        "q_hi": "",
+        "op_en": [
+            "One",
+            "Three",
+            "Four",
+            "Two"
+        ],
+        "op_hi": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "ans": "2",
+        "solution": ""
+    },
+    {
+        "section": "General intelligence and Reasoning Ability",
+        "topic": "",
+        "level": "",
+        "q_en": "The position(s) of how many letters will remain unchanged if each letter in the word PANTHER is arranged in the English alphabetical order?<span style=\"color: white;\">5227</span>",
+        "q_hi": "",
+        "op_en": [
+            "0",
+            "3",
+            "2",
+            "1"
+        ],
+        "op_hi": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "ans": "1",
+        "solution": ""
+    },
+    {
+        "section": "General intelligence and Reasoning Ability",
+        "topic": "",
+        "level": "",
+        "q_en": "Each of C, D, E, F, L, M and N has an exam on a different day of a week starting from Monday and ending on Sunday of the same week. Only three people have exam between F and N. N has exam on the last day of the week. Only one person has exam between C and L. E has exam immediately the day before M. D doesn't have exam on Friday. C has exam before L. How many people have exam between D and E?",
+        "q_hi": "",
+        "op_en": [
+            "Two",
+            "Three",
+            "Four",
+            "One"
+        ],
+        "op_hi": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "ans": "2",
+        "solution": ""
+    },
+    {
+        "section": "General intelligence and Reasoning Ability",
+        "topic": "",
+        "level": "",
+        "q_en": "Read the given statement(s) and conclusions carefully. Assuming that the information given in the statements is true, even if it appears to be at variance with commonly known facts, decide which of the given conclusions logically follow(s) from the statement(s).<br>Statements: All clays are muds. No clay is a toy.<br>Conclusion (I) : Some toys are muds<br>Conclusion (II) : All muds are toys",
+        "q_hi": "",
+        "op_en": [
+            "Neither conclusion (I) nor (II) follows",
+            "Only conclusion (II) follows",
+            "Only conclusion (I) follows",
+            "Both conclusions (I) and (II) follow"
+        ],
+        "op_hi": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "ans": "1",
+        "solution": ""
+    },
+    {
+        "section": "General intelligence and Reasoning Ability",
+        "topic": "",
+        "level": "",
+        "q_en": "In this question, statement is followed by two conclusions. Find out which conclusion is true based on the given statement.<br><br>Statement : P &lt; G ≥ C = K ≤ R<br><br>Conclusions:<br>I . K &lt; G<br>II. R ≥ P",
+        "q_hi": "",
+        "op_en": [
+            "Both I and II are true",
+            "Only II is true",
+            "Only I is true",
+            "Neither I nor II is true"
+        ],
+        "op_hi": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "ans": "4",
+        "solution": ""
+    }
 ]
