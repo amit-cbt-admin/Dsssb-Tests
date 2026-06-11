@@ -629,27 +629,27 @@
         "ans": 2,
         "solution": "<b>Solution (EN):</b><br>Original Number: $9 \\ 4 \\ 2 \\ 7 \\ 6 \\ 3 \\ 1$<br>Arranging digits in descending order: $9 \\ 7 \\ 6 \\ 4 \\ 3 \\ 2 \\ 1$<br>Comparing both:<br>Original: <b>9</b> 4 2 7 6 3 <b>1</b><br>New: <b>9</b> 7 6 4 3 2 <b>1</b><br>The positions of the digits $9$ and $1$ remain unchanged. Hence, two digits remain unchanged.<br><br><b>Solution (HI):</b><br>मूल संख्या: $9 \\ 4 \\ 2 \\ 7 \\ 6 \\ 3 \\ 1$<br>अंकों को अवरोही क्रम में व्यवस्थित करने पर: $9 \\ 7 \\ 6 \\ 4 \\ 3 \\ 2 \\ 1$<br>दोनों की तुलना करने पर:<br>मूल: <b>9</b> 4 2 7 6 3 <b>1</b><br>नया: <b>9</b> 7 6 4 3 2 <b>1</b><br>अंक $9$ और $1$ का स्थान अपरिवर्तित रहता है। अतः, दो अंक अपरिवर्तित रहते हैं।<br><br><b>Final Answer:</b> Two"
     },
-    {
-        "section": "General intelligence and Reasoning Ability1",
-        "topic": "Mathematical Operations",
-        "difficulty": "Medium",
-        "q_en": "If ‘A’ stands for ‘÷’, ‘B’ stands for ‘×’, ‘C’ stands for ‘+’ and ‘D’ stands for ‘−’, what will come in the place of the question mark (?) in the following equation?<br><br>$5 \text{ B } 64 \text{ A } 16 \text{ C } 18 \text{ D } 32 = ?$",
-        "q_hi": "यदि ‘A’ का अर्थ ‘÷’ है, ‘B’ का अर्थ ‘×’ है, ‘C’ का अर्थ ‘+’ है और ‘D’ का अर्थ ‘−’ है, तो निम्नलिखित समीकरण में प्रश्न चिह्न (?) के स्थान पर क्या आएगा?<br><br>$5 \text{ B } 64 \text{ A } 16 \text{ C } 18 \text{ D } 32 = ?$",
-        "op_en": [
-            "7",
-            "5",
-            "9",
-            "6"
-        ],
-        "op_hi": [
-            "7",
-            "5",
-            "9",
-            "6"
-        ],
-        "ans": 4,
-        "solution": "<b>Solution (EN):</b><br>Given equation:<br>$5 \\text{ B } 64 \\text{ A } 16 \\text{ C } 18 \\text{ D } 32 = ?$<br>Substituting the letters with mathematical signs:<br>$\\Rightarrow 5 \\times 64 \\div 16 + 18 - 32 = ?$<br>Applying BODMAS rule:<br>$\\Rightarrow 5 \\times 4 + 18 - 32 = ?$ <br>$\\Rightarrow 20 + 18 - 32 = ?$ <br>$\\Rightarrow 38 - 32 = 6$<br><br><b>Solution (HI):</b><br>दिया गया समीकरण:<br>$5 \\text{ B } 64 \\text{ A } 16 \\text{ C } 18 \\text{ D } 32 = ?$<br>अक्षरों को गणितीय चिह्नों से बदलने पर:<br>$\\Rightarrow 5 \\times 64 \\div 16 + 18 - 32 = ?$<br>BODMAS नियम लागू करने पर:<br>$\\Rightarrow 5 \\times 4 + 18 - 32 = ?$ <br>$\\Rightarrow 20 + 18 - 32 = ?$ <br>$\\Rightarrow 38 - 32 = 6$<br><br><b>Final Answer:</b> $6$"
-    },
+  {
+    "section": "General intelligence and Reasoning Ability1",
+    "topic": "Mathematical Operations",
+    "difficulty": "Medium",
+    "q_en": "If 'A' stands for '$\\div$', 'B' stands for '$\\times$', 'C' stands for '$+$' and 'D' stands for '$-$', what will come in the place of the question mark (?) in the following equation?<br><br>$5$ B $64$ A $16$ C $18$ D $32 = ?$",
+    "q_hi": "यदि 'A' का अर्थ '$\\div$' है, 'B' का अर्थ '$\\times$' है, 'C' का अर्थ '$+$' है और 'D' का अर्थ '$-$' है, तो निम्नलिखित समीकरण में प्रश्न चिह्न (?) के स्थान पर क्या आएगा?<br><br>$5$ B $64$ A $16$ C $18$ D $32 = ?$",
+    "op_en": [
+      "$7$",
+      "$5$",
+      "$9$",
+      "$6$"
+    ],
+    "op_hi": [
+      "$7$",
+      "$5$",
+      "$9$",
+      "$6$"
+    ],
+    "ans": "4",
+    "solution": "<b>Solution (EN):</b><br>Given equation:<br>$5$ B $64$ A $16$ C $18$ D $32 = ?$<br>Substituting the letters with mathematical signs:<br>$\\Rightarrow 5 \\times 64 \\div 16 + 18 - 32 = ?$<br>Applying BODMAS rule:<br>$\\Rightarrow 5 \\times 4 + 18 - 32 = ?$<br>$\\Rightarrow 20 + 18 - 32 = ?$<br>$\\Rightarrow 38 - 32 = 6$<br><br><b>Solution (HI):</b><br>दिया गया समीकरण:<br>$5$ B $64$ A $16$ C $18$ D $32 = ?$<br>अक्षरों को गणितीय चिह्नों से बदलने पर:<br>$\\Rightarrow 5 \\times 64 \\div 16 + 18 - 32 = ?$<br>BODMAS नियम लागू करने पर:<br>$\\Rightarrow 5 \\times 4 + 18 - 32 = ?$<br>$\\Rightarrow 20 + 18 - 32 = ?$<br>$\\Rightarrow 38 - 32 = 6$<br><br><b>Final Answer:</b> $6$"
+  },
     {
         "section": "General intelligence and Reasoning Ability1",
         "topic": "Classification",
@@ -1890,47 +1890,47 @@
         "solution": "<b>Solution (EN):</b><br>Let the original price of petrol be ₹$100$.<br>After a $25\\%$ increase, the new price becomes:<br>$\\Rightarrow 100 + 25 = 125$<br><br>To bring it back to the original price ($100$), the reduction needed is:<br>$\\Rightarrow 125 - 100 = 25$<br><br>Percentage reduction required:<br>$\\Rightarrow \\left(\\dfrac{25}{125}\\right) \\times 100$<br>$\\Rightarrow \\dfrac{1}{5} \\times 100 = 20\\%$<br><br><b>Solution (HI):</b><br>माना पेट्रोल की मूल कीमत ₹$100$ है।<br>$25\\%$ की वृद्धि के बाद, नई कीमत हो जाती है:<br>$\\Rightarrow 100 + 25 = 125$<br><br>इसे वापस मूल कीमत ($100$) पर लाने के लिए, आवश्यक कमी है:<br>$\\Rightarrow 125 - 100 = 25$<br><br>आवश्यक प्रतिशत कमी:<br>$\\Rightarrow \\left(\\dfrac{25}{125}\\right) \\times 100$<br>$\\Rightarrow \\dfrac{1}{5} \\times 100 = 20\\%$<br><br><b>Short Trick:</b><br>Reduction $\\% = \\dfrac{R}{100 + R} \\times 100$<br>$\\Rightarrow \\dfrac{25}{125} \\times 100 = 20\\%$<br><br><b>Final Answer:</b> $1$"
     },
     {
-        "section": "Arithmetical and Numerical Ability",
-        "topic": "Simple and Compound Interest",
-        "difficulty": "Hard",
-        "q_en": "If, at the same rate of interest per annum, in $2$ years, the simple interest is ₹$40$ and compound interest, compounded annually, is ₹$65$, then what is the principal (in ₹)?",
-        "q_hi": "निम्नलिखित रेखा आरेख पांच वर्षों में दो कंपनियों M और N की बिक्री (₹करोड़ में) दर्शाता है। आरेख का अध्ययन करें और निम्नलिखित प्रश्न का उत्तर दें।<br><img loading=\\\"lazy\\\" src=\\\"https://blogger.googleusercontent.com/img/a/AVvXsEgsrZrEi7EbZtGG8jwGCM3ZFsgjuEJnlL7Ipf5Y2oMe1XiW9u1WIqfqs1Vmv0hv0u1nK-nWPow_EjtWvrMUruVJlTtcX1ekWq4SMHrUnoc6gD4gFrpZzXme903iAnpKqzReFcmP6zvcugAGyjjZEl-6hpWyrXxPlA228epmf5WzQrZGLEVy8iGGbmVn4UU=rw\\\" style=\\\"height: auto; max-width: 100%;\\\"><br><br>दी गई अवधि में कंपनी-M की औसत बिक्री (₹करोड़ में) क्या है?",
-        "op_en": [
-            "$16$",
-            "$11$",
-            "$9$",
-            "$20$"
-        ],
-        "op_hi": [
-            "$16$",
-            "$11$",
-            "$9$",
-            "$20$"
-        ],
-        "ans": 1,
-        "solution": "<b>Solution (EN):</b><br>Given:<br>Simple Interest (SI) for $2$ years = ₹$40$<br>Compound Interest (CI) for $2$ years = ₹$65$<br><br>SI is the same for every year. Thus, SI for $1$st year = $\\dfrac{40}{2} = 20$<br>In CI, the interest for the first year is the same as SI, which is ₹$20$.<br>For the second year, CI = Total CI - First Year CI<br>$\\Rightarrow \\text{2nd Year CI} = 65 - 20 = 45$<br><br>The difference between 2nd-year CI and 1st-year CI is the interest earned on the 1st year's interest.<br>$\\Rightarrow \\text{Difference} = 45 - 20 = 25$<br>This ₹$25$ is the interest on ₹$20$ for $1$ year.<br>$\\Rightarrow \\text{Rate (R)} = \\dfrac{25}{20} \\times 100 = 125\\%$<br><br>Now, finding Principal (P):<br>$\\Rightarrow SI = \\dfrac{P \\times R \\times T}{100}$<br>$\\Rightarrow 40 = \\dfrac{P \\times 125 \\times 2}{100}$<br>$\\Rightarrow 4000 = P \\times 250$<br>$\\Rightarrow P = \\dfrac{4000}{250} = 16$<br><br><b>Solution (HI):</b><br>दिया गया है:<br>$2$ वर्षों का साधारण ब्याज (SI) = ₹$40$<br>$2$ वर्षों का चक्रवृद्धि ब्याज (CI) = ₹$65$<br><br>SI हर साल समान रहता है। इसलिए, पहले वर्ष का SI = $\\dfrac{40}{2} = 20$<br>CI में, पहले वर्ष का ब्याज SI के समान होता है, जो ₹$20$ है।<br>दूसरे वर्ष के लिए, CI = कुल CI - पहले वर्ष का CI<br>$\\Rightarrow \\text{दूसरे वर्ष का CI} = 65 - 20 = 45$<br><br>दूसरे वर्ष के CI और पहले वर्ष के CI के बीच का अंतर पहले वर्ष के ब्याज पर अर्जित ब्याज है।<br>$\\Rightarrow \\text{अंतर} = 45 - 20 = 25$<br>यह ₹$25$, ₹$20$ पर $1$ वर्ष का ब्याज है।<br>$\\Rightarrow \\text{दर (R)} = \\dfrac{25}{20} \\times 100 = 125\\%$<br><br>अब, मूलधन (P) ज्ञात करते हैं:<br>$\\Rightarrow SI = \\dfrac{P \\times R \\times T}{100}$<br>$\\Rightarrow 40 = \\dfrac{P \\times 125 \\times 2}{100}$<br>$\\Rightarrow 4000 = P \\times 250$<br>$\\Rightarrow P = \\dfrac{4000}{250} = 16$<br><br><b>Short Trick:</b><br>Rate $\\% = \\dfrac{CI - SI}{\\text{Half of } SI} \\times 100$<br>$\\Rightarrow R = \\dfrac{25}{20} \\times 100 = 125\\%$<br>$P = \\dfrac{SI}{2} \\times \\dfrac{100}{R} = 20 \\times \\dfrac{100}{125} = 16$.<br><br><b>Final Answer:</b> $1$"
-    },
-    {
-        "section": "Arithmetical and Numerical Ability",
-        "topic": "Data Interpretation",
-        "difficulty": "Easy",
-        "q_en": "The following line graph gives the sales (in ₹crore) of two companies M and N across five years. Study the graph and answer the question that follows.<br><img loading=\\\"lazy\\\" src=\\\"https://blogger.googleusercontent.com/img/a/AVvXsEgsrZrEi7EbZtGG8jwGCM3ZFsgjuEJnlL7Ipf5Y2oMe1XiW9u1WIqfqs1Vmv0hv0u1nK-nWPow_EjtWvrMUruVJlTtcX1ekWq4SMHrUnoc6gD4gFrpZzXme903iAnpKqzReFcmP6zvcugAGyjjZEl-6hpWyrXxPlA228epmf5WzQrZGLEVy8iGGbmVn4UU=rw\\\" style=\\\"height: auto; max-width: 100%;\\\"><br><br>What is the average sales of Company-M (in ₹crore) in the given period?",
-        "q_hi": "दो वर्षों में, किसी निश्चित राशि पर वार्षिक रूप से संयोजित साधारण ब्याज और चक्रवृद्धि ब्याज के बीच का अंतर राशि का $1.44\\%$ है। प्रति वर्ष ब्याज दर क्या है?",
-        "op_en": [
-            "$583$",
-            "$525$",
-            "$783$",
-            "$725$"
-        ],
-        "op_hi": [
-            "$583$",
-            "$525$",
-            "$783$",
-            "$725$"
-        ],
-        "ans": 4,
-        "solution": "<b>Solution (EN):</b><br>Average sales = $\\dfrac{\\text{Total Sales of Company M across 5 years}}{5}$<br><br>Extracting the individual year's sales from the graph and adding them up gives a total of $3,625$ crores.<br>$\\Rightarrow \\text{Average} = \\dfrac{3625}{5} = 725$<br><br><b>Solution (HI):</b><br>औसत बिक्री = $\\dfrac{\\text{5 वर्षों में कंपनी M की कुल बिक्री}}{5}$<br><br>ग्राफ से प्रत्येक वर्ष की बिक्री निकालकर और उन्हें जोड़ने पर कुल $3,625$ करोड़ प्राप्त होता है।<br>$\\Rightarrow \\text{औसत} = \\dfrac{3625}{5} = 725$<br><br><b>Short Trick:</b><br>Average = $\\dfrac{\\text{Sum of all data points}}{5} = 725$.<br><br><b>Final Answer:</b> $4$"
-    },
+    "section": "Arithmetical and Numerical Ability",
+    "topic": "",
+    "level": "",
+    "q_en": "The following line graph gives the sales (in ₹crore) of two companies M and N across five years. Study the graph and answer the question that follows.<br><img loading=\"lazy\" src=\"https://blogger.googleusercontent.com/img/a/AVvXsEgsrZrEi7EbZtGG8jwGCM3ZFsgjuEJnlL7Ipf5Y2oMe1XiW9u1WIqfqs1Vmv0hv0u1nK-nWPow_EjtWvrMUruVJlTtcX1ekWq4SMHrUnoc6gD4gFrpZzXme903iAnpKqzReFcmP6zvcugAGyjjZEl-6hpWyrXxPlA228epmf5WzQrZGLEVy8iGGbmVn4UU=rw\" style=\"height: auto; max-width: 100%;\"><br><br>What is the average sales of Company-M (in ₹crore) in the given period?",
+    "q_hi": "The following line graph gives the sales (in ₹crore) of two companies M and N across five years. Study the graph and answer the question that follows.<br><img loading=\"lazy\" src=\"https://blogger.googleusercontent.com/img/a/AVvXsEgsrZrEi7EbZtGG8jwGCM3ZFsgjuEJnlL7Ipf5Y2oMe1XiW9u1WIqfqs1Vmv0hv0u1nK-nWPow_EjtWvrMUruVJlTtcX1ekWq4SMHrUnoc6gD4gFrpZzXme903iAnpKqzReFcmP6zvcugAGyjjZEl-6hpWyrXxPlA228epmf5WzQrZGLEVy8iGGbmVn4UU=rw\" style=\"height: auto; max-width: 100%;\"><br><br>What is the average sales of Company-M (in ₹crore) in the given period?",
+    "op_en": [
+        "583",
+        "525",
+        "783",
+        "725"
+    ],
+    "op_hi": [
+        "583",
+        "525",
+        "783",
+        "725"
+    ],
+    "ans": "4",
+    "solution": ""
+},
+  {
+    "section": "Arithmetical and Numerical Ability",
+    "topic": "Interest",
+    "difficulty": "Easy",
+    "q_en": "In $2$ years, the difference between the simple interest and compound interest compounded annually on a certain sum is $1.44\\%$ of the sum. What is the rate of interest per annum?",
+    "q_hi": "दो वर्षों में, किसी निश्चित राशि पर वार्षिक रूप से संयोजित साधारण ब्याज और चक्रवृद्धि ब्याज के बीच का अंतर राशि का $1.44\\%$ है। प्रति वर्ष ब्याज दर क्या है?",
+    "op_en": [
+      "$583$",
+      "$525$",
+      "$783$",
+      "$725$"
+    ],
+    "op_hi": [
+      "$583$",
+      "$525$",
+      "$783$",
+      "$725$"
+    ],
+    "ans": "4",
+    "solution": "<b>Solution (EN):</b><br>Average sales = $\\dfrac{\\text{Total Sales of Company M across 5 years}}{5}$<br><br>Extracting the individual year's sales from the graph and adding them up gives a total of $3,625$ crores.<br>$\\Rightarrow \\text{Average} = \\dfrac{3625}{5} = 725$<br><br><b>Solution (HI):</b><br>औसत बिक्री = $\\dfrac{\\text{5 वर्षों में कंपनी M की कुल बिक्री}}{5}$<br><br>ग्राफ से प्रत्येक वर्ष की बिक्री निकालकर और उन्हें जोड़ने पर कुल $3,625$ करोड़ प्राप्त होता है।<br>$\\Rightarrow \\text{औसत} = \\dfrac{3625}{5} = 725$<br><br><b>Short Trick:</b><br>Average = $\\dfrac{\\text{Sum of all data points}}{5} = 725$.<br><br><b>Final Answer:</b> $4$"
+  },
     {
         "section": "Arithmetical and Numerical Ability",
         "topic": "Simple and Compound Interest",
