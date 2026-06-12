@@ -1726,7 +1726,7 @@
         "topic": "Average",
         "difficulty": "Easy",
         "q_en": "A shopkeeper sells $5$ pens for ₹$15$ each, $10$ pens for ₹$25$ each, and $5$ pens for ₹$20$ each. Find the average selling price of each pen.",
-        "q_hi": "एक व्यक्ति अपने मासिक वेतन का $30\\%$ किराए पर, $20\\%$ किराने के सामान पर और $15\\%$ अन्य खर्चों पर खर्च करता है। वह शेष राशि बचाता है। यदि $6$ महीने में उसकी कुल बचत ₹$1,26,000$ है, तो उसकी मासिक आय क्या है?",
+        "q_hi": "एक दुकानदार $5$ पेन ₹$15$ प्रति पेन, $10$ पेन ₹$25$ प्रति पेन और $5$ पेन ₹$20$ प्रति पेन की दर से बेचता है। प्रत्येक पेन का औसत विक्रय मूल्य ज्ञात कीजिए।",
         "op_en": [
             "₹$21.50$",
             "₹$21.25$",
@@ -1747,7 +1747,7 @@
         "topic": "Percentage",
         "difficulty": "Moderate",
         "q_en": "A person spends $30\\%$ of his monthly salary on rent, $20\\%$ on groceries and $15\\%$ on other expenses. He saves the rest. If his total savings in $6$ months is ₹$1,26,000$, what is his monthly income?",
-        "q_hi": "कितने समय (वर्षों में) में ₹$4,800$ की राशि पर $3\\%$ वार्षिक ब्याज दर से ₹$720$ का साधारण ब्याज प्राप्त होगा?",
+        "q_hi": "एक व्यक्ति अपने मासिक वेतन का $30\\%$ किराए पर, $20\\%$ किराने के सामान पर और $15\\%$ अन्य खर्चों पर खर्च करता है। वह शेष राशि बचाता है। यदि $6$ महीने में उसकी कुल बचत ₹$1,26,000$ है, तो उसकी मासिक आय क्या है?",
         "op_en": [
             "₹$70,000$",
             "₹$50,000$",
@@ -1768,7 +1768,7 @@
         "topic": "Simple Interest",
         "difficulty": "Easy",
         "q_en": "In what duration (in years) will ₹$4,800$ fetch a simple interest of ₹$720$ at $3\\%$ per annum rate of interest?",
-        "q_hi": "निम्नलिखित में से कौन-सा युग्म सह-अभाज्य (co-prime) संख्याओं का युग्म है?",
+        "q_hi": "कितने समय (वर्षों में) में ₹$4,800$ की राशि पर $3\\%$ वार्षिक ब्याज दर से ₹$720$ का साधारण ब्याज प्राप्त होगा?",
         "op_en": [
             "$5$",
             "$10$",
@@ -1789,7 +1789,7 @@
         "topic": "Number System",
         "difficulty": "Easy",
         "q_en": "Which of the following pairs is a pair of co-prime numbers?",
-        "q_hi": "प्रियंका के स्टॉक पोर्टफोलियो में तीन स्टॉक शामिल हैं। पहला स्टॉक पोर्टफोलियो का $25\\%$ है और इसका रिटर्न $5\\%$ है। दूसरा स्टॉक पोर्टफोलियो का $40\\%$ है और इसका रिटर्न $10\\%$ है। तीसरा स्टॉक पोर्टफोलियो का शेष भाग है और इसका रिटर्न $2\\%$ नकारात्मक है। पोर्टफोलियो का औसत रिटर्न है:",
+        "q_hi": "निम्नलिखित में से कौन-सा युग्म सह-अभाज्य (co-prime) संख्याओं का युग्म है?",
         "op_en": [
             "$15$ and $28$",
             "$25$ and $35$",
@@ -1810,7 +1810,7 @@
         "topic": "Percentage",
         "difficulty": "Moderate",
         "q_en": "Priyanka’s stock portfolio consists of three stocks. The first stock makes up $25\\%$ of the portfolio and has a return of $5\\%$. The second stock accounts for $40\\%$ of the portfolio with a return of $10\\%$. The third stock comprises the remaining portion of the portfolio and has a negative return of $2\\%$. The average return of the portfolio is:",
-        "q_hi": "एक विक्रेता एक रुपये में $25$ चॉकलेट बेचता है और $20\\%$ का लाभ कमाता है। उसने मूल रूप से एक रुपये में कितनी चॉकलेट खरीदी थीं?",
+        "q_hi": "प्रियंका के स्टॉक पोर्टफोलियो में तीन स्टॉक शामिल हैं। पहला स्टॉक पोर्टफोलियो का $25\\%$ है और इसका रिटर्न $5\\%$ है। दूसरा स्टॉक पोर्टफोलियो का $40\\%$ है और इसका रिटर्न $10\\%$ है। तीसरा स्टॉक पोर्टफोलियो का शेष भाग है और इसका रिटर्न $2\\%$ नकारात्मक है। पोर्टफोलियो का औसत रिटर्न है:",
         "op_en": [
             "$6.25\\%$",
             "$5.27\\%$",
@@ -1831,7 +1831,7 @@
         "topic": "Profit and Loss",
         "difficulty": "Moderate",
         "q_en": "A vendor sells $25$ chocolates for one rupee and makes a profit of $20\\%$. How many chocolates did he originally purchase for one rupee?",
-        "q_hi": "एक विक्रेता एक रुपये में $22$ चॉकलेट बेचता है और $100\\%$ का लाभ कमाता है। उसने मूल रूप से एक रुपये में कितनी चॉकलेट खरीदी थीं?",
+        "q_hi": "एक विक्रेता एक रुपये में $25$ चॉकलेट बेचता है और $20\\%$ का लाभ कमाता है। उसने मूल रूप से एक रुपये में कितनी चॉकलेट खरीदी थीं?",
         "op_en": [
             "$32$",
             "$30$",
@@ -1852,7 +1852,7 @@
         "topic": "Profit and Loss",
         "difficulty": "Moderate",
         "q_en": "A vendor sells $22$ chocolates for one rupee and makes a profit of $100\\%$. How many chocolates did he originally purchase for one rupee?",
-        "q_hi": "पेट्रोल की कीमत में $25\\%$ की वृद्धि की जाती है। इसे वापस मूल कीमत पर लाने के लिए इसमें कितने प्रतिशत की कमी की जानी चाहिए?",
+        "q_hi": "एक विक्रेता एक रुपये में $22$ चॉकलेट बेचता है और $100\\%$ का लाभ कमाता है। उसने मूल रूप से एक रुपये में कितनी चॉकलेट खरीदी थीं?",
         "op_en": [
             "$48$",
             "$50$",
@@ -1873,7 +1873,7 @@
         "topic": "Percentage",
         "difficulty": "Easy",
         "q_en": "The price of petrol is increased by $25\\%$. By what percentage should it be reduced to bring it back to the original price?",
-        "q_hi": "यदि, समान वार्षिक ब्याज दर पर, $2$ वर्षों में साधारण ब्याज ₹$40$ है और वार्षिक रूप से संयोजित चक्रवृद्धि ब्याज ₹$65$ है, तो मूलधन (₹ में) क्या है?",
+        "q_hi": "पेट्रोल की कीमत में $25\\%$ की वृद्धि की जाती है। इसे वापस मूल कीमत पर लाने के लिए इसमें कितने प्रतिशत की कमी की जानी चाहिए?",
         "op_en": [
             "$20\\%$",
             "$25\\%$",
@@ -1890,53 +1890,32 @@
         "solution": "<b>Solution (EN):</b><br>Let the original price of petrol be ₹$100$.<br>After a $25\\%$ increase, the new price becomes:<br>$\\Rightarrow 100 + 25 = 125$<br><br>To bring it back to the original price ($100$), the reduction needed is:<br>$\\Rightarrow 125 - 100 = 25$<br><br>Percentage reduction required:<br>$\\Rightarrow \\left(\\dfrac{25}{125}\\right) \\times 100$<br>$\\Rightarrow \\dfrac{1}{5} \\times 100 = 20\\%$<br><br><b>Solution (HI):</b><br>माना पेट्रोल की मूल कीमत ₹$100$ है।<br>$25\\%$ की वृद्धि के बाद, नई कीमत हो जाती है:<br>$\\Rightarrow 100 + 25 = 125$<br><br>इसे वापस मूल कीमत ($100$) पर लाने के लिए, आवश्यक कमी है:<br>$\\Rightarrow 125 - 100 = 25$<br><br>आवश्यक प्रतिशत कमी:<br>$\\Rightarrow \\left(\\dfrac{25}{125}\\right) \\times 100$<br>$\\Rightarrow \\dfrac{1}{5} \\times 100 = 20\\%$<br><br><b>Short Trick:</b><br>Reduction $\\% = \\dfrac{R}{100 + R} \\times 100$<br>$\\Rightarrow \\dfrac{25}{125} \\times 100 = 20\\%$<br><br><b>Final Answer:</b> $1$"
     },
     {
-    "section": "Arithmetical and Numerical Ability",
-    "topic": "",
-    "level": "",
-    "q_en": "The following line graph gives the sales (in ₹crore) of two companies M and N across five years. Study the graph and answer the question that follows.<br><img loading=\"lazy\" src=\"https://blogger.googleusercontent.com/img/a/AVvXsEgsrZrEi7EbZtGG8jwGCM3ZFsgjuEJnlL7Ipf5Y2oMe1XiW9u1WIqfqs1Vmv0hv0u1nK-nWPow_EjtWvrMUruVJlTtcX1ekWq4SMHrUnoc6gD4gFrpZzXme903iAnpKqzReFcmP6zvcugAGyjjZEl-6hpWyrXxPlA228epmf5WzQrZGLEVy8iGGbmVn4UU=rw\" style=\"height: auto; max-width: 100%;\"><br><br>What is the average sales of Company-M (in ₹crore) in the given period?",
-    "q_hi": "The following line graph gives the sales (in ₹crore) of two companies M and N across five years. Study the graph and answer the question that follows.<br><img loading=\"lazy\" src=\"https://blogger.googleusercontent.com/img/a/AVvXsEgsrZrEi7EbZtGG8jwGCM3ZFsgjuEJnlL7Ipf5Y2oMe1XiW9u1WIqfqs1Vmv0hv0u1nK-nWPow_EjtWvrMUruVJlTtcX1ekWq4SMHrUnoc6gD4gFrpZzXme903iAnpKqzReFcmP6zvcugAGyjjZEl-6hpWyrXxPlA228epmf5WzQrZGLEVy8iGGbmVn4UU=rw\" style=\"height: auto; max-width: 100%;\"><br><br>What is the average sales of Company-M (in ₹crore) in the given period?",
-    "op_en": [
-        "583",
-        "525",
-        "783",
-        "725"
-    ],
-    "op_hi": [
-        "583",
-        "525",
-        "783",
-        "725"
-    ],
-    "ans": "4",
-    "solution": ""
-},
-  {
-    "section": "Arithmetical and Numerical Ability",
-    "topic": "Interest",
-    "difficulty": "Easy",
-    "q_en": "In $2$ years, the difference between the simple interest and compound interest compounded annually on a certain sum is $1.44\\%$ of the sum. What is the rate of interest per annum?",
-    "q_hi": "दो वर्षों में, किसी निश्चित राशि पर वार्षिक रूप से संयोजित साधारण ब्याज और चक्रवृद्धि ब्याज के बीच का अंतर राशि का $1.44\\%$ है। प्रति वर्ष ब्याज दर क्या है?",
-    "op_en": [
-      "$583$",
-      "$525$",
-      "$783$",
-      "$725$"
-    ],
-    "op_hi": [
-      "$583$",
-      "$525$",
-      "$783$",
-      "$725$"
-    ],
-    "ans": "4",
-    "solution": "<b>Solution (EN):</b><br>Average sales = $\\dfrac{\\text{Total Sales of Company M across 5 years}}{5}$<br><br>Extracting the individual year's sales from the graph and adding them up gives a total of $3,625$ crores.<br>$\\Rightarrow \\text{Average} = \\dfrac{3625}{5} = 725$<br><br><b>Solution (HI):</b><br>औसत बिक्री = $\\dfrac{\\text{5 वर्षों में कंपनी M की कुल बिक्री}}{5}$<br><br>ग्राफ से प्रत्येक वर्ष की बिक्री निकालकर और उन्हें जोड़ने पर कुल $3,625$ करोड़ प्राप्त होता है।<br>$\\Rightarrow \\text{औसत} = \\dfrac{3625}{5} = 725$<br><br><b>Short Trick:</b><br>Average = $\\dfrac{\\text{Sum of all data points}}{5} = 725$.<br><br><b>Final Answer:</b> $4$"
-  },
+        "section": "Arithmetical and Numerical Ability",
+        "topic": "Interest",
+        "difficulty": "Easy",
+        "q_en": "In $2$ years, the difference between the simple interest and compound interest compounded annually on a certain sum is $1.44\\%$ of the sum. What is the rate of interest per annum?",
+        "q_hi": "दो वर्षों में, किसी निश्चित राशि पर वार्षिक रूप से संयोजित साधारण ब्याज और चक्रवृद्धि ब्याज के बीच का अंतर राशि का $1.44\\%$ है। प्रति वर्ष ब्याज दर क्या है?",
+        "op_en": [
+            "$10\\%$",
+            "$12\\%$",
+            "$15\\%$",
+            "$8\\%$"
+        ],
+        "op_hi": [
+            "$10\\%$",
+            "$12\\%$",
+            "$15\\%$",
+            "$8\\%$"
+        ],
+        "ans": 2,
+        "solution": "<b>Solution (EN):</b><br>The formula for the difference between CI and SI for $2$ years is:<br>$\\Rightarrow \\text{Difference} = P \\times \\left(\\dfrac{R}{100}\\right)^2$<br><br>According to the question, Difference = $1.44\\%$ of P.<br>$\\Rightarrow P \\times \\dfrac{1.44}{100} = P \\times \\dfrac{R^2}{10000}$<br><br>Canceling $P$ from both sides:<br>$\\Rightarrow \\dfrac{1.44}{100} = \\dfrac{R^2}{10000}$<br>$\\Rightarrow R^2 = \\dfrac{1.44 \\times 10000}{100} = 1.44 \\times 100$<br>$\\Rightarrow R^2 = 144$<br>$\\Rightarrow R = 12\\%$<br><br><b>Solution (HI):</b><br>$2$ वर्षों के लिए CI और SI के बीच अंतर का सूत्र है:<br>$\\Rightarrow \\text{अंतर} = P \\times \\left(\\dfrac{R}{100}\\right)^2$<br><br>प्रश्न के अनुसार, अंतर = P का $1.44\\%$<br>$\\Rightarrow P \\times \\dfrac{1.44}{100} = P \\times \\dfrac{R^2}{10000}$<br><br>दोनों पक्षों से $P$ रद्द करने पर:<br>$\\Rightarrow \\dfrac{1.44}{100} = \\dfrac{R^2}{10000}$<br>$\\Rightarrow R^2 = \\dfrac{1.44 \\times 10000}{100} = 1.44 \\times 100$<br>$\\Rightarrow R^2 = 144$<br>$\\Rightarrow R = 12\\%$<br><br><b>Short Trick:</b><br>Difference in percentage $= \\dfrac{R^2}{100}\\%$<br>$\\Rightarrow \\dfrac{R^2}{100} = 1.44$<br>$\\Rightarrow R^2 = 144 \\Rightarrow R = 12\\%$.<br><br><b>Note:</b> Raw data mein is question ke options aur solution kisi dusre question (Data Interpretation) ke the, isliye unhe is question ke mutabiq correct kiya gaya hai aur sahi options add kiye gaye hain.<br><br><b>Final Answer:</b> $2$"
+    },
     {
         "section": "Arithmetical and Numerical Ability",
         "topic": "Simple and Compound Interest",
         "difficulty": "Moderate",
         "q_en": "In two years, the difference between the simple interest and the compound interest, compounded annually on a certain sum is $1.44\\%$ of the sum. What is the rate of interest per annum?",
-        "q_hi": "$77$ लीटर मिश्रण में दूध और पानी का अनुपात $6 : 5$ है। अनुपात को $1 : 1$ बनाने के लिए मिश्रण में मिलाए जाने वाले पानी की मात्रा (लीटर में) ज्ञात कीजिए।",
+        "q_hi": "दो वर्षों में, किसी निश्चित राशि पर वार्षिक रूप से संयोजित साधारण ब्याज और चक्रवृद्धि ब्याज के बीच का अंतर राशि का $1.44\\%$ है। प्रति वर्ष ब्याज दर क्या है?",
         "op_en": [
             "$12\\%$",
             "$10\\%$",
@@ -1957,7 +1936,7 @@
         "topic": "Mixture and Alligation",
         "difficulty": "Easy",
         "q_en": "The ratio of milk and water in a $77$ litre mixture is $6 : 5$. Find the quantity (in litres) of water to be added to the mixture in order to make the ratio $1 : 1$.",
-        "q_hi": "",
+        "q_hi": "$77$ लीटर मिश्रण में दूध और पानी का अनुपात $6 : 5$ है। अनुपात को $1 : 1$ बनाने के लिए मिश्रण में मिलाए जाने वाले पानी की मात्रा (लीटर में) ज्ञात कीजिए।",
         "op_en": [
             "$4$",
             "$17$",
@@ -1991,7 +1970,7 @@
             "$4.04\\%$ की कमी",
             "$4\\%$ की कमी"
         ],
-        "ans": "4",
+        "ans": 4,
         "solution": "<b>Solution (EN):</b><br>Let the initial price of the commodity be $100$ and initial consumption be $100$.<br>Initial Expenditure $= 100 \\times 100 = 10000$<br><br>New Price $= 100 - 20\\% = 80$<br>New Consumption $= 100 + 20\\% = 120$<br>New Expenditure $= 80 \\times 120 = 9600$<br><br>Decrease in expenditure $= 10000 - 9600 = 400$<br><br>Percentage change $= \\left(\\dfrac{400}{10000}\\right) \\times 100$<br>$\\Rightarrow 4\\%$ decrease.<br><br><b>Solution (HI):</b><br>माना वस्तु की प्रारंभिक कीमत $100$ है और प्रारंभिक खपत $100$ है।<br>प्रारंभिक व्यय $= 100 \\times 100 = 10000$<br><br>नई कीमत $= 100 - 20\\% = 80$<br>नई खपत $= 100 + 20\\% = 120$<br>नया व्यय $= 80 \\times 120 = 9600$<br><br>व्यय में कमी $= 10000 - 9600 = 400$<br><br>प्रतिशत परिवर्तन $= \\left(\\dfrac{400}{10000}\\right) \\times 100$<br>$\\Rightarrow 4\\%$ की कमी।<br><br><b>Short Trick:</b><br>If a value is first increased by $x\\%$ and then decreased by $x\\%$ (or vice-versa), there is always a net decrease of $\\dfrac{x^2}{100} \\%$.<br>Net change $= - \\dfrac{20^2}{100} = - \\dfrac{400}{100} = -4\\%$ (Decrease).<br><br><b>Final Answer:</b> $4$"
     },
     {
@@ -2012,7 +1991,7 @@
             "₹$247.86$",
             "₹$245.98$"
         ],
-        "ans": "3",
+        "ans": 3,
         "solution": "<b>Solution (EN):</b><br>Principal ($P$) = ₹$2,700$<br>Rate ($R$) = $6\\%$ per annum<br>Time ($T$) = $1 \\dfrac{1}{2}$ years<br><br>For the first complete year, the interest is calculated at $6\\%$.<br>Interest for 1st year $= 6\\%$ of $2700$<br>$\\Rightarrow \\dfrac{6}{100} \\times 2700 = 162$<br><br>Amount after 1st year $= 2700 + 162 = 2862$<br><br>For the remaining half year, the rate of interest becomes half.<br>Rate for half year $= \\dfrac{6}{2} = 3\\%$<br>Interest for the next half year $= 3\\%$ of $2862$<br>$\\Rightarrow \\dfrac{3}{100} \\times 2862 = 85.86$<br><br>Total Compound Interest $= 162 + 85.86 = 247.86$<br><br><b>Solution (HI):</b><br>मूलधन ($P$) = ₹$2,700$<br>दर ($R$) = $6\\%$ प्रति वर्ष<br>समय ($T$) = $1 \\dfrac{1}{2}$ वर्ष<br><br>पहले पूरे वर्ष के लिए, ब्याज की गणना $6\\%$ पर की जाती है।<br>पहले वर्ष का ब्याज $= 2700 \\text{ का } 6\\%$<br>$\\Rightarrow \\dfrac{6}{100} \\times 2700 = 162$<br><br>पहले वर्ष के बाद मिश्रधन $= 2700 + 162 = 2862$<br><br>शेष आधे वर्ष के लिए, ब्याज दर आधी हो जाती है।<br>आधे वर्ष के लिए दर $= \\dfrac{6}{2} = 3\\%$<br>अगले आधे वर्ष का ब्याज $= 2862 \\text{ का } 3\\%$<br>$\\Rightarrow \\dfrac{3}{100} \\times 2862 = 85.86$<br><br>कुल चक्रवृद्धि ब्याज $= 162 + 85.86 = 247.86$<br><br><b>Short Trick:</b><br>Effective rate for $1$st year $= 6\\%$<br>Effective rate for next half year $= 3\\%$<br>Total effective rate $= 6 + 3 + \\dfrac{6 \\times 3}{100} = 9.18\\%$<br>Compound Interest $= 9.18\\% \\text{ of } 2700$<br>$\\Rightarrow \\dfrac{9.18}{100} \\times 2700 = 9.18 \\times 27 = 247.86$<br><br><b>Final Answer:</b> $3$"
     },
     {
@@ -2033,7 +2012,7 @@
             "$\\dfrac{43}{90}$",
             "$\\dfrac{47}{90}$"
         ],
-        "ans": "4",
+        "ans": 4,
         "solution": "<b>Solution (EN):</b><br>Let $x = 0.5222...$ <br>Multiply both sides by $10$ to shift the decimal before the repeating part:<br>$\\Rightarrow 10x = 5.222...$  — (Equation 1)<br><br>Multiply both sides of the original equation by $100$ to shift the decimal after the first repeating digit:<br>$\\Rightarrow 100x = 52.222...$  — (Equation 2)<br><br>Subtract Equation 1 from Equation 2:<br>$\\Rightarrow 100x - 10x = 52.222... - 5.222...$<br>$\\Rightarrow 90x = 47$<br>$\\Rightarrow x = \\dfrac{47}{90}$<br><br><b>Solution (HI):</b><br>माना $x = 0.5222...$<br>दशमलव को दोहराए जाने वाले भाग से पहले ले जाने के लिए दोनों पक्षों को $10$ से गुणा करें:<br>$\\Rightarrow 10x = 5.222...$ — (समीकरण 1)<br><br>दशमलव को पहले दोहराए जाने वाले अंक के बाद ले जाने के लिए मूल समीकरण के दोनों पक्षों को $100$ से गुणा करें:<br>$\\Rightarrow 100x = 52.222...$ — (समीकरण 2)<br><br>समीकरण 2 में से समीकरण 1 को घटाएं:<br>$\\Rightarrow 100x - 10x = 52.222... - 5.222...$<br>$\\Rightarrow 90x = 47$<br>$\\Rightarrow x = \\dfrac{47}{90}$<br><br><b>Short Trick:</b><br>Formula for mixed recurring decimal: <br>$0.p\\overline{q} = \\dfrac{pq - p}{90}$<br>$\\Rightarrow 0.5\\overline{2} = \\dfrac{52 - 5}{90} = \\dfrac{47}{90}$<br><br><b>Final Answer:</b> $4$"
     },
     {
@@ -2054,7 +2033,7 @@
             "$2$",
             "$3$"
         ],
-        "ans": "2",
+        "ans": 2,
         "solution": "<b>Solution (EN):</b><br>Given polynomials:<br>$P = x^3 - 6x^2 + 11x - 6$<br>$Q = x^3 - 7x^2 + 16x - 12$<br><br>Factorizing polynomial $P$:<br>By hit and trial, putting $x = 1$, we get $1 - 6 + 11 - 6 = 0$. So, $(x - 1)$ is a factor.<br>Dividing $P$ by $(x - 1)$ gives $(x^2 - 5x + 6)$.<br>$\\Rightarrow x^2 - 5x + 6 = (x - 2)(x - 3)$<br>Thus, $P = (x - 1)(x - 2)(x - 3)$<br><br>Factorizing polynomial $Q$:<br>By hit and trial, putting $x = 2$, we get $8 - 28 + 32 - 12 = 0$. So, $(x - 2)$ is a factor.<br>Dividing $Q$ by $(x - 2)$ gives $(x^2 - 5x + 6)$.<br>$\\Rightarrow x^2 - 5x + 6 = (x - 2)(x - 3)$<br>Thus, $Q = (x - 2)(x - 2)(x - 3) = (x - 2)^2(x - 3)$<br><br>The Highest Common Factor (HCF) of $P$ and $Q$ is the product of common factors with lowest power:<br>$\\text{HCF} = (x - 2)(x - 3)$<br><br>The roots of the HCF are obtained by putting $\\text{HCF} = 0$:<br>$\\Rightarrow (x - 2)(x - 3) = 0$<br>Roots are $2$ and $3$.<br><br>Sum of the roots $= 2 + 3 = 5$.<br><br><b>Solution (HI):</b><br>दिए गए बहुपद:<br>$P = x^3 - 6x^2 + 11x - 6$<br>$Q = x^3 - 7x^2 + 16x - 12$<br><br>बहुपद $P$ का गुणनखंडन:<br>अनुमान (hit and trial) द्वारा, $x = 1$ रखने पर, हमें $1 - 6 + 11 - 6 = 0$ प्राप्त होता है। अतः, $(x - 1)$ एक गुणनखंड है।<br>$P$ को $(x - 1)$ से भाग देने पर $(x^2 - 5x + 6)$ प्राप्त होता है।<br>$\\Rightarrow x^2 - 5x + 6 = (x - 2)(x - 3)$<br>इस प्रकार, $P = (x - 1)(x - 2)(x - 3)$<br><br>बहुपद $Q$ का गुणनखंडन:<br>अनुमान द्वारा, $x = 2$ रखने पर, हमें $8 - 28 + 32 - 12 = 0$ प्राप्त होता है। अतः, $(x - 2)$ एक गुणनखंड है।<br>$Q$ को $(x - 2)$ से भाग देने पर $(x^2 - 5x + 6)$ प्राप्त होता है।<br>$\\Rightarrow x^2 - 5x + 6 = (x - 2)(x - 3)$<br>इस प्रकार, $Q = (x - 2)^2(x - 3)$<br><br>$P$ और $Q$ का महत्तम समापवर्तक (HCF) सबसे कम घात वाले उभयनिष्ठ गुणनखंडों का गुणनफल है:<br>$\\text{HCF} = (x - 2)(x - 3)$<br><br>HCF के मूल $\\text{HCF} = 0$ रखकर प्राप्त किए जाते हैं:<br>$\\Rightarrow (x - 2)(x - 3) = 0$<br>मूल $2$ और $3$ हैं।<br><br>मूलों का योग $= 2 + 3 = 5$.<br><br><b>Short Trick:</b><br>Factorize mentally: $P$ has roots $1, 2, 3$. $Q$ has sum of roots $= 7$, product $= 12$. Trying $2, 2, 3$ works for $Q$. Common roots are $2$ and $3$. Their sum is $5$.<br><br><b>Final Answer:</b> $2$"
     },
     {
@@ -2075,8 +2054,29 @@
             "$\\dfrac{5}{4}$",
             "$\\dfrac{3}{2}$"
         ],
-        "ans": "1",
+        "ans": 1,
         "solution": "<b>Solution (EN):</b><br>Given expression:<br>$\\Rightarrow \\left(\\dfrac{4}{9}\\right)^{-2} \\times \\left(\\dfrac{2}{3}\\right)^4 \\div \\left(\\dfrac{1}{2}\\right)^{-3} + \\left(3 \\dfrac{1}{7}\\right)^0$<br><br>We know the exponent rules: $\\left(\\dfrac{a}{b}\\right)^{-m} = \\left(\\dfrac{b}{a}\\right)^m$ and $x^0 = 1$ (where $x \\neq 0$).<br><br>Applying the rules:<br>$\\Rightarrow \\left(\\dfrac{9}{4}\\right)^2 \\times \\left(\\dfrac{2}{3}\\right)^4 \\div (2)^3 + 1$<br><br>Expanding the terms:<br>$\\Rightarrow \\left(\\dfrac{81}{16}\\right) \\times \\left(\\dfrac{16}{81}\\right) \\div 8 + 1$<br><br>According to BODMAS, solve multiplication and division from left to right. Since multiplying $\\dfrac{81}{16}$ and $\\dfrac{16}{81}$ cancels each other out perfectly:<br>$\\Rightarrow 1 \\div 8 + 1$<br>$\\Rightarrow \\dfrac{1}{8} + 1$<br>$\\Rightarrow \\dfrac{1 + 8}{8} = \\dfrac{9}{8}$<br><br><b>Solution (HI):</b><br>दिया गया व्यंजक:<br>$\\Rightarrow \\left(\\dfrac{4}{9}\\right)^{-2} \\times \\left(\\dfrac{2}{3}\\right)^4 \\div \\left(\\dfrac{1}{2}\\right)^{-3} + \\left(3 \\dfrac{1}{7}\\right)^0$<br><br>हम घातांक नियम जानते हैं: $\\left(\\dfrac{a}{b}\\right)^{-m} = \\left(\\dfrac{b}{a}\\right)^m$ और $x^0 = 1$ (जहाँ $x \\neq 0$)।<br><br>नियम लागू करने पर:<br>$\\Rightarrow \\left(\\dfrac{9}{4}\\right)^2 \\times \\left(\\dfrac{2}{3}\\right)^4 \\div (2)^3 + 1$<br><br>पदों का विस्तार करने पर:<br>$\\Rightarrow \\left(\\dfrac{81}{16}\\right) \\times \\left(\\dfrac{16}{81}\\right) \\div 8 + 1$<br><br>BODMAS के अनुसार हल करने पर, $\\dfrac{81}{16}$ और $\\dfrac{16}{81}$ एक-दूसरे को पूरी तरह से काट देते हैं:<br>$\\Rightarrow 1 \\div 8 + 1$<br>$\\Rightarrow \\dfrac{1}{8} + 1$<br>$\\Rightarrow \\dfrac{1 + 8}{8} = \\dfrac{9}{8}$<br><br><b>Short Trick:</b><br>Observe that $\\left(\\dfrac{4}{9}\\right)^{-2} = \\left(\\left(\\dfrac{2}{3}\\right)^2\\right)^{-2} = \\left(\\dfrac{2}{3}\\right)^{-4}$.<br>First part becomes $\\left(\\dfrac{2}{3}\\right)^{-4} \\times \\left(\\dfrac{2}{3}\\right)^4 = 1$.<br>Expression simplifies to: $1 \\div 2^3 + 1 = \\dfrac{1}{8} + 1 = \\dfrac{9}{8}$.<br><br><b>Final Answer:</b> $1$"
+    },
+    {
+        "section": "Arithmetical and Numerical Ability",
+        "topic": "",
+        "level": "",
+        "q_en": "The following line graph gives the sales (in ₹crore) of two companies M and N across five years. Study the graph and answer the question that follows.<br><img loading=\"lazy\" src=\"https://blogger.googleusercontent.com/img/a/AVvXsEgsrZrEi7EbZtGG8jwGCM3ZFsgjuEJnlL7Ipf5Y2oMe1XiW9u1WIqfqs1Vmv0hv0u1nK-nWPow_EjtWvrMUruVJlTtcX1ekWq4SMHrUnoc6gD4gFrpZzXme903iAnpKqzReFcmP6zvcugAGyjjZEl-6hpWyrXxPlA228epmf5WzQrZGLEVy8iGGbmVn4UU=rw\" style=\"height: auto; max-width: 100%;\"><br><br>What is the average sales of Company-M (in ₹crore) in the given period?",
+        "q_hi": "The following line graph gives the sales (in ₹crore) of two companies M and N across five years. Study the graph and answer the question that follows.<br><img loading=\"lazy\" src=\"https://blogger.googleusercontent.com/img/a/AVvXsEgsrZrEi7EbZtGG8jwGCM3ZFsgjuEJnlL7Ipf5Y2oMe1XiW9u1WIqfqs1Vmv0hv0u1nK-nWPow_EjtWvrMUruVJlTtcX1ekWq4SMHrUnoc6gD4gFrpZzXme903iAnpKqzReFcmP6zvcugAGyjjZEl-6hpWyrXxPlA228epmf5WzQrZGLEVy8iGGbmVn4UU=rw\" style=\"height: auto; max-width: 100%;\"><br><br>What is the average sales of Company-M (in ₹crore) in the given period?",
+        "op_en": [
+            "583",
+            "525",
+            "783",
+            "725"
+        ],
+        "op_hi": [
+            "583",
+            "525",
+            "783",
+            "725"
+        ],
+        "ans": "4",
+        "solution": ""
     },
     {
         "section": "Arithmetical and Numerical Ability",
@@ -2117,8 +2117,8 @@
             "5",
             "10"
         ],
-        "ans": "1",
-        "solution": "<b>Solution (EN):</b><br>Let the side of the larger cube be $a = 10$ cm.<br>Volume of the larger cube = $a^3$ <br> $\\Rightarrow 10^3 = 1000$ cm$^3$<br>Let the side of the smaller cube be $b = 5$ cm.<br>Volume of the smaller cube = $b^3$ <br> $\\Rightarrow 5^3 = 125$ cm$^3$<br>Number of smaller cubes = $\\frac{\\text{Volume of larger cube}}{\\text{Volume of smaller cube}}$ <br> $\\Rightarrow \\frac{1000}{125} = 8$<br><br><b>Solution (HI):</b><br>माना बड़े घन की भुजा $a = 10$ cm है।<br>बड़े घन का आयतन = $a^3$ <br> $\\Rightarrow 10^3 = 1000$ cm$^3$<br>माना छोटे घन की भुजा $b = 5$ cm है।<br>छोटे घन का आयतन = $b^3$ <br> $\\Rightarrow 5^3 = 125$ cm$^3$<br>छोटे घनों की संख्या = $\\frac{\\text{बड़े घन का आयतन}}{\\text{छोटे घन का आयतन}}$ <br> $\\Rightarrow \\frac{1000}{125} = 8$<br><br><b>Short Trick:</b><br>Number of cubes = $\\left( \\frac{a}{b} \\right)^3$ <br> $\\Rightarrow \\left( \\frac{10}{5} \\right)^3$ <br> $\\Rightarrow 2^3 = 8$"
+        "ans": 1,
+        "solution": "<b>Solution (EN):</b><br>Let the side of the larger cube be $a = 10$ cm.<br>Volume of the larger cube = $a^3$ <br> $\\Rightarrow 10^3 = 1000$ cm$^3$<br>Let the side of the smaller cube be $b = 5$ cm.<br>Volume of the smaller cube = $b^3$ <br> $\\Rightarrow 5^3 = 125$ cm$^3$<br>Number of smaller cubes = $\\frac{\\text{Volume of larger cube}}{\\text{Volume of smaller cube}}$ <br> $\\Rightarrow \\frac{1000}{125} = 8$<br><br><b>Solution (HI):</b><br>माना बड़े घन की भुजा $a = 10$ cm है।<br>बड़े घन का आयतन = $a^3$ <br> $\\Rightarrow 10^3 = 1000$ cm$^3$<br>माना छोटे घन की भुजा $b = 5$ cm है।<br>छोटे घन का आयतन = $b^3$ <br> $\\Rightarrow 5^3 = 125$ cm$^3$<br>छोटे घनों की संख्या = $\\frac{\\text{बड़े घन का आयतन}}{\\text{छोटे घन का आयतन}}$ <br> $\\Rightarrow \\frac{1000}{125} = 8$<br><br><b>Short Trick:</b><br>Number of cubes = $\\left( \\frac{a}{b} \\right)^3$ <br> $\\Rightarrow \\left( \\frac{10}{5} \\right)^3$ <br> $\\Rightarrow 2^3 = 8$<br><br><b>Final Answer:</b> $8$"
     },
     {
         "section": "Arithmetical and Numerical Ability1",
@@ -2138,8 +2138,8 @@
             "440",
             "400"
         ],
-        "ans": "1",
-        "solution": "<b>Solution (EN):</b><br>Let the total distance be $2x$ km.<br>Time taken for the first half = $\\frac{x}{30}$ hours<br>Time taken for the second half = $\\frac{x}{40}$ hours<br>Total time = 14 hours<br> $\\Rightarrow \\frac{x}{30} + \\frac{x}{40} = 14$<br> $\\Rightarrow \\frac{4x + 3x}{120} = 14$<br> $\\Rightarrow \\frac{7x}{120} = 14$<br> $\\Rightarrow x = \\frac{14 \\times 120}{7} = 240$<br>Total distance = $2x = 2 \\times 240 = 480$ km.<br><br><b>Solution (HI):</b><br>माना कुल दूरी $2x$ किमी है।<br>पहले आधे भाग के लिए लिया गया समय = $\\frac{x}{30}$ घंटे<br>दूसरे आधे भाग के लिए लिया गया समय = $\\frac{x}{40}$ घंटे<br>कुल समय = 14 घंटे<br> $\\Rightarrow \\frac{x}{30} + \\frac{x}{40} = 14$<br> $\\Rightarrow \\frac{4x + 3x}{120} = 14$<br> $\\Rightarrow \\frac{7x}{120} = 14$<br> $\\Rightarrow x = \\frac{14 \\times 120}{7} = 240$<br>कुल दूरी = $2x = 2 \\times 240 = 480$ किमी।<br><br><b>Short Trick:</b><br>Average speed = $\\frac{2 \\times S_1 \\times S_2}{S_1 + S_2}$ <br> $\\Rightarrow \\frac{2 \\times 30 \\times 40}{30 + 40}$ <br> $\\Rightarrow \\frac{2400}{70} = \\frac{240}{7}$ km/hr<br>Total distance = Average speed $\\times$ Total time <br> $\\Rightarrow \\frac{240}{7} \\times 14 = 480$ km."
+        "ans": 1,
+        "solution": "<b>Solution (EN):</b><br>Let the total distance be $2x$ km.<br>Time taken for the first half = $\\frac{x}{30}$ hours<br>Time taken for the second half = $\\frac{x}{40}$ hours<br>Total time = 14 hours<br> $\\Rightarrow \\frac{x}{30} + \\frac{x}{40} = 14$<br> $\\Rightarrow \\frac{4x + 3x}{120} = 14$<br> $\\Rightarrow \\frac{7x}{120} = 14$<br> $\\Rightarrow x = \\frac{14 \\times 120}{7} = 240$<br>Total distance = $2x = 2 \\times 240 = 480$ km.<br><br><b>Solution (HI):</b><br>माना कुल दूरी $2x$ किमी है।<br>पहले आधे भाग के लिए लिया गया समय = $\\frac{x}{30}$ घंटे<br>दूसरे आधे भाग के लिए लिया गया समय = $\\frac{x}{40}$ घंटे<br>कुल समय = 14 घंटे<br> $\\Rightarrow \\frac{x}{30} + \\frac{x}{40} = 14$<br> $\\Rightarrow \\frac{4x + 3x}{120} = 14$<br> $\\Rightarrow \\frac{7x}{120} = 14$<br> $\\Rightarrow x = \\frac{14 \\times 120}{7} = 240$<br>कुल दूरी = $2x = 2 \\times 240 = 480$ किमी।<br><br><b>Short Trick:</b><br>Average speed = $\\frac{2 \\times S_1 \\times S_2}{S_1 + S_2}$ <br> $\\Rightarrow \\frac{2 \\times 30 \\times 40}{30 + 40}$ <br> $\\Rightarrow \\frac{2400}{70} = \\frac{240}{7}$ km/hr<br>Total distance = Average speed $\\times$ Total time <br> $\\Rightarrow \\frac{240}{7} \\times 14 = 480$ km.<br><br><b>Final Answer:</b> $480$"
     },
     {
         "section": "Arithmetical and Numerical Ability1",
@@ -2159,8 +2159,8 @@
             "2.5 घंटे",
             "1.5 घंटे"
         ],
-        "ans": "1",
-        "solution": "<b>Solution (EN):</b><br>Distance between P and Q = 240 km.<br>Speed of the first car = 60 km/hr.<br>Speed of the second car = 80 km/hr.<br>The first car travels alone for 30 minutes (0.5 hours).<br>Distance covered by the first car in 0.5 hours = $60 \\times 0.5 = 30$ km.<br>Remaining distance = $240 - 30 = 210$ km.<br>Since they are moving towards each other, relative speed = $60 + 80 = 140$ km/hr.<br>Time taken to cover the remaining distance = $\\frac{210}{140} = 1.5$ hours.<br>Total time after the start of the first car = $0.5 + 1.5 = 2$ hours.<br><br><b>Solution (HI):</b><br>P और Q के बीच की दूरी = 240 किमी।<br>पहली कार की गति = 60 किमी/घंटा।<br>दूसरी कार की गति = 80 किमी/घंटा।<br>पहली कार अकेले 30 मिनट (0.5 घंटे) तक चलती है।<br>0.5 घंटे में पहली कार द्वारा तय की गई दूरी = $60 \\times 0.5 = 30$ किमी।<br>शेष दूरी = $240 - 30 = 210$ किमी।<br>चूंकि वे एक-दूसरे की ओर बढ़ रहे हैं, सापेक्ष गति = $60 + 80 = 140$ किमी/घंटा।<br>शेष दूरी तय करने में लगा समय = $\\frac{210}{140} = 1.5$ घंटे।<br>पहली कार के शुरू होने के बाद कुल समय = $0.5 + 1.5 = 2$ घंटे।"
+        "ans": 1,
+        "solution": "<b>Solution (EN):</b><br>Distance between P and Q = 240 km.<br>Speed of the first car = 60 km/hr.<br>Speed of the second car = 80 km/hr.<br>The first car travels alone for 30 minutes (0.5 hours).<br>Distance covered by the first car in 0.5 hours = $60 \\times 0.5 = 30$ km.<br>Remaining distance = $240 - 30 = 210$ km.<br>Since they are moving towards each other, relative speed = $60 + 80 = 140$ km/hr.<br>Time taken to cover the remaining distance = $\\frac{210}{140} = 1.5$ hours.<br>Total time after the start of the first car = $0.5 + 1.5 = 2$ hours.<br><br><b>Solution (HI):</b><br>P और Q के बीच की दूरी = 240 किमी।<br>पहली कार की गति = 60 किमी/घंटा।<br>दूसरी कार की गति = 80 किमी/घंटा।<br>पहली कार अकेले 30 मिनट (0.5 घंटे) तक चलती है।<br>0.5 घंटे में पहली कार द्वारा तय की गई दूरी = $60 \\times 0.5 = 30$ किमी।<br>शेष दूरी = $240 - 30 = 210$ किमी।<br>चूंकि वे एक-दूसरे की ओर बढ़ रहे हैं, सापेक्ष गति = $60 + 80 = 140$ किमी/घंटा।<br>शेष दूरी तय करने में लगा समय = $\\frac{210}{140} = 1.5$ घंटे।<br>पहली कार के शुरू होने के बाद कुल समय = $0.5 + 1.5 = 2$ घंटे。<br><br><b>Final Answer:</b> 2 hours"
     },
     {
         "section": "Arithmetical and Numerical Ability1",
@@ -2180,8 +2180,8 @@
             "30 दिन",
             "45 दिन"
         ],
-        "ans": "3",
-        "solution": "<b>Solution (EN):</b><br>Work done by (A + B) in 1 day = $\\frac{1}{15}$<br>Work done by A in 1 day = $\\frac{1}{30}$<br>Work done by B in 1 day = Work done by (A + B) - Work done by A<br> $\\Rightarrow \\frac{1}{15} - \\frac{1}{30}$<br> $\\Rightarrow \\frac{2 - 1}{30} = \\frac{1}{30}$<br>Therefore, B alone will take 30 days to finish the task.<br><br><b>Solution (HI):</b><br>(A + B) द्वारा 1 दिन में किया गया कार्य = $\\frac{1}{15}$<br>A द्वारा 1 दिन में किया गया कार्य = $\\frac{1}{30}$<br>B द्वारा 1 दिन में किया गया कार्य = (A + B) का कार्य - A का कार्य<br> $\\Rightarrow \\frac{1}{15} - \\frac{1}{30}$<br> $\\Rightarrow \\frac{2 - 1}{30} = \\frac{1}{30}$<br>इसलिए, B अकेले इस कार्य को पूरा करने में 30 दिन का समय लेगा।<br><br><b>Short Trick:</b><br>Days taken by B = $\\frac{x \\times y}{x - y}$ <br> $\\Rightarrow \\frac{30 \\times 15}{30 - 15}$ <br> $\\Rightarrow \\frac{450}{15} = 30$ days."
+        "ans": 3,
+        "solution": "<b>Solution (EN):</b><br>Work done by (A + B) in 1 day = $\\frac{1}{15}$<br>Work done by A in 1 day = $\\frac{1}{30}$<br>Work done by B in 1 day = Work done by (A + B) - Work done by A<br> $\\Rightarrow \\frac{1}{15} - \\frac{1}{30}$<br> $\\Rightarrow \\frac{2 - 1}{30} = \\frac{1}{30}$<br>Therefore, B alone will take 30 days to finish the task.<br><br><b>Solution (HI):</b><br>(A + B) द्वारा 1 दिन में किया गया कार्य = $\\frac{1}{15}$<br>A द्वारा 1 दिन में किया गया कार्य = $\\frac{1}{30}$<br>B द्वारा 1 दिन में किया गया कार्य = (A + B) का कार्य - A का कार्य<br> $\\Rightarrow \\frac{1}{15} - \\frac{1}{30}$<br> $\\Rightarrow \\frac{2 - 1}{30} = \\frac{1}{30}$<br>इसलिए, B अकेले इस कार्य को पूरा करने में 30 दिन का समय लेगा।<br><br><b>Short Trick:</b><br>Days taken by B = $\\frac{x \\times y}{x - y}$ <br> $\\Rightarrow \\frac{30 \\times 15}{30 - 15}$ <br> $\\Rightarrow \\frac{450}{15} = 30$ days.<br><br><b>Final Answer:</b> 30 days"
     },
     {
         "section": "Arithmetical and Numerical Ability1",
@@ -2201,8 +2201,8 @@
             "41 cm",
             "45 cm"
         ],
-        "ans": "4",
-        "solution": "<b>Solution (EN):</b><br>Area of a parallelogram = Base $\\times$ Height<br>Given, length of longer side ($a$) = 14 cm and perpendicular distance between longer sides ($h_1$) = 17 cm.<br>Area = $14 \\times 17 = 238$ cm$^2$<br>Let the length of the shorter side be $b$ cm.<br>Perpendicular distance between shorter sides ($h_2$) = 28 cm.<br>Area = $b \\times 28$<br>Since the area remains the same:<br> $b \\times 28 = 238$<br> $\\Rightarrow b = \\frac{238}{28} = 8.5$ cm<br>Perimeter of the parallelogram = $2(a + b)$<br> $\\Rightarrow 2(14 + 8.5)$<br> $\\Rightarrow 2(22.5) = 45$ cm.<br><br><b>Solution (HI):</b><br>समांतर चतुर्भुज का क्षेत्रफल = आधार $\\times$ ऊंचाई<br>दिया गया है, लंबी भुजा की लंबाई ($a$) = 14 cm और लंबी भुजाओं के बीच की लंबवत दूरी ($h_1$) = 17 cm.<br>क्षेत्रफल = $14 \\times 17 = 238$ cm$^2$<br>माना छोटी भुजा की लंबाई $b$ cm है।<br>छोटी भुजाओं के बीच की लंबवत दूरी ($h_2$) = 28 cm.<br>क्षेत्रफल = $b \\times 28$<br>चूंकि क्षेत्रफल समान रहता है:<br> $b \\times 28 = 238$<br> $\\Rightarrow b = \\frac{238}{28} = 8.5$ cm<br>समांतर चतुर्भुज का परिमाप = $2(a + b)$<br> $\\Rightarrow 2(14 + 8.5)$<br> $\\Rightarrow 2(22.5) = 45$ cm."
+        "ans": 4,
+        "solution": "<b>Solution (EN):</b><br>Area of a parallelogram = Base $\\times$ Height<br>Given, length of longer side ($a$) = 14 cm and perpendicular distance between longer sides ($h_1$) = 17 cm.<br>Area = $14 \\times 17 = 238$ cm$^2$<br>Let the length of the shorter side be $b$ cm.<br>Perpendicular distance between shorter sides ($h_2$) = 28 cm.<br>Area = $b \\times 28$<br>Since the area remains the same:<br> $b \\times 28 = 238$<br> $\\Rightarrow b = \\frac{238}{28} = 8.5$ cm<br>Perimeter of the parallelogram = $2(a + b)$<br> $\\Rightarrow 2(14 + 8.5)$<br> $\\Rightarrow 2(22.5) = 45$ cm.<br><br><b>Solution (HI):</b><br>समांतर चतुर्भुज का क्षेत्रफल = आधार $\\times$ ऊंचाई<br>दिया गया है, लंबी भुजा की लंबाई ($a$) = 14 cm और लंबी भुजाओं के बीच की लंबवत दूरी ($h_1$) = 17 cm.<br>क्षेत्रफल = $14 \\times 17 = 238$ cm$^2$<br>माना छोटी भुजा की लंबाई $b$ cm है।<br>छोटी भुजाओं के बीच की लंबवत दूरी ($h_2$) = 28 cm.<br>क्षेत्रफल = $b \\times 28$<br>चूंकि क्षेत्रफल समान रहता है:<br> $b \\times 28 = 238$<br> $\\Rightarrow b = \\frac{238}{28} = 8.5$ cm<br>समांतर चतुर्भुज का परिमाप = $2(a + b)$<br> $\\Rightarrow 2(14 + 8.5)$<br> $\\Rightarrow 2(22.5) = 45$ cm.<br><br><b>Final Answer:</b> 45 cm"
     },
     {
         "section": "Arithmetical and Numerical Ability1",
@@ -2222,8 +2222,8 @@
             "6",
             "8"
         ],
-        "ans": "4",
-        "solution": "<b>Solution (EN):</b><br>Let Q invested his money for $x$ months.<br>P's investment = ₹$64,000$, Time = $12$ months<br>Q's investment = ₹$24,000$, Time = $x$ months<br>Ratio of profit = $\\frac{\\text{P's Investment} \\times \\text{Time}}{\\text{Q's Investment} \\times \\text{Time}}$<br> $\\Rightarrow \\frac{64000 \\times 12}{24000 \\times x} = \\frac{24}{3}$<br> $\\Rightarrow \\frac{64 \\times 12}{24 \\times x} = 8$<br> $\\Rightarrow \\frac{768}{24x} = 8$<br> $\\Rightarrow 24x = \\frac{768}{8} = 96$<br> $\\Rightarrow x = 4$<br>Q invested for $4$ months.<br>Therefore, Q joined after $12 - 4 = 8$ months.<br><br><b>Solution (HI):</b><br>माना Q ने $x$ महीनों के लिए अपना पैसा निवेश किया।<br>P का निवेश = ₹$64,000$, समय = $12$ महीने<br>Q का निवेश = ₹$24,000$, समय = $x$ महीने<br>लाभ का अनुपात = $\\frac{\\text{P का निवेश} \\times \\text{समय}}{\\text{Q का निवेश} \\times \\text{समय}}$<br> $\\Rightarrow \\frac{64000 \\times 12}{24000 \\times x} = \\frac{24}{3}$<br> $\\Rightarrow \\frac{64 \\times 12}{24 \\times x} = 8$<br> $\\Rightarrow \\frac{768}{24x} = 8$<br> $\\Rightarrow 24x = \\frac{768}{8} = 96$<br> $\\Rightarrow x = 4$<br>Q ने $4$ महीने के लिए निवेश किया।<br>इसलिए, Q व्यवसाय में $12 - 4 = 8$ महीने बाद शामिल हुआ।"
+        "ans": 4,
+        "solution": "<b>Solution (EN):</b><br>Let Q invested his money for $x$ months.<br>P's investment = ₹$64,000$, Time = $12$ months<br>Q's investment = ₹$24,000$, Time = $x$ months<br>Ratio of profit = $\\frac{\\text{P's Investment} \\times \\text{Time}}{\\text{Q's Investment} \\times \\text{Time}}$<br> $\\Rightarrow \\frac{64000 \\times 12}{24000 \\times x} = \\frac{24}{3}$<br> $\\Rightarrow \\frac{64 \\times 12}{24 \\times x} = 8$<br> $\\Rightarrow \\frac{768}{24x} = 8$<br> $\\Rightarrow 24x = \\frac{768}{8} = 96$<br> $\\Rightarrow x = 4$<br>Q invested for $4$ months.<br>Therefore, Q joined after $12 - 4 = 8$ months.<br><br><b>Solution (HI):</b><br>माना Q ने $x$ महीनों के लिए अपना पैसा निवेश किया।<br>P का निवेश = ₹$64,000$, समय = $12$ महीने<br>Q का निवेश = ₹$24,000$, समय = $x$ महीने<br>लाभ का अनुपात = $\\frac{\\text{P का निवेश} \\times \\text{समय}}{\\text{Q का निवेश} \\times \\text{समय}}$<br> $\\Rightarrow \\frac{64000 \\times 12}{24000 \\times x} = \\frac{24}{3}$<br> $\\Rightarrow \\frac{64 \\times 12}{24 \\times x} = 8$<br> $\\Rightarrow \\frac{768}{24x} = 8$<br> $\\Rightarrow 24x = \\frac{768}{8} = 96$<br> $\\Rightarrow x = 4$<br>Q ने $4$ महीने के लिए निवेश किया।<br>इसलिए, Q व्यवसाय में $12 - 4 = 8$ महीने बाद शामिल हुआ।<br><br><b>Final Answer:</b> 8"
     },
     {
         "section": "Arithmetical and Numerical Ability1",
@@ -2243,8 +2243,8 @@
             "41.55",
             "40.25"
         ],
-        "ans": "2",
-        "solution": "<b>Solution (EN):</b><br>Given, diagonals of the rhombus:<br> $d_1 = 18$ cm<br> $d_2 = 4.5$ cm<br>Area of a rhombus = $\\frac{1}{2} \\times d_1 \\times d_2$<br> $\\Rightarrow \\frac{1}{2} \\times 18 \\times 4.5$<br> $\\Rightarrow 9 \\times 4.5 = 40.5$ cm$^2$<br><br><b>Solution (HI):</b><br>दिया गया है, समचतुर्भुज के विकर्ण:<br> $d_1 = 18$ cm<br> $d_2 = 4.5$ cm<br>समचतुर्भुज का क्षेत्रफल = $\\frac{1}{2} \\times d_1 \\times d_2$<br> $\\Rightarrow \\frac{1}{2} \\times 18 \\times 4.5$<br> $\\Rightarrow 9 \\times 4.5 = 40.5$ cm$^2$"
+        "ans": 2,
+        "solution": "<b>Solution (EN):</b><br>Given, diagonals of the rhombus:<br> $d_1 = 18$ cm<br> $d_2 = 4.5$ cm<br>Area of a rhombus = $\\frac{1}{2} \\times d_1 \\times d_2$<br> $\\Rightarrow \\frac{1}{2} \\times 18 \\times 4.5$<br> $\\Rightarrow 9 \\times 4.5 = 40.5$ cm$^2$<br><br><b>Solution (HI):</b><br>दिया गया है, समचतुर्भुज के विकर्ण:<br> $d_1 = 18$ cm<br> $d_2 = 4.5$ cm<br>समचतुर्भुज का क्षेत्रफल = $\\frac{1}{2} \\times d_1 \\times d_2$<br> $\\Rightarrow \\frac{1}{2} \\times 18 \\times 4.5$<br> $\\Rightarrow 9 \\times 4.5 = 40.5$ cm$^2$<br><br><b>Final Answer:</b> 40.5"
     },
     {
         "section": "Arithmetical and Numerical Ability1",
@@ -2264,8 +2264,8 @@
             "30%",
             "25%"
         ],
-        "ans": "3",
-        "solution": "<b>Solution (EN):</b><br>Let the total number of students be $100$.<br>Number of girls = $40\\%$ of $100 = 40$<br>Number of boys = $60\\%$ of $100 = 60$<br>Girls studying English = $\\frac{3}{4} \\times 40 = 30$<br>Boys studying Hindi = $\\frac{2}{5} \\times 60 = 24$<br>Total students studying English and Hindi = $30 + 24 = 54$<br>Remaining students = $100 - 54 = 46$<br>Students studying Mathematics = $55\\%$ of $46$<br> $\\Rightarrow \\frac{55}{100} \\times 46 = 25.3$<br>Students studying Physics = $45\\%$ of $46$<br> $\\Rightarrow \\frac{45}{100} \\times 46 = 20.7$<br>Percentages of students studying different subjects (out of $100$):<br>English = $30\\%$<br>Hindi = $24\\%$<br>Mathematics = $25.3\\%$<br>Physics = $20.7\\%$<br>The maximum percentage is $30\\%$ (English).<br><br><b>Solution (HI):</b><br>माना छात्रों की कुल संख्या $100$ है।<br>लड़कियों की संख्या = $100$ का $40\\% = 40$<br>लड़कों की संख्या = $100$ का $60\\% = 60$<br>अंग्रेजी पढ़ने वाली लड़कियां = $\\frac{3}{4} \\times 40 = 30$<br>हिंदी पढ़ने वाले लड़के = $\\frac{2}{5} \\times 60 = 24$<br>अंग्रेजी और हिंदी पढ़ने वाले कुल छात्र = $30 + 24 = 54$<br>शेष छात्र = $100 - 54 = 46$<br>गणित पढ़ने वाले छात्र = $46$ का $55\\%$<br> $\\Rightarrow \\frac{55}{100} \\times 46 = 25.3$<br>भौतिकी पढ़ने वाले छात्र = $46$ का $45\\%$<br> $\\Rightarrow \\frac{45}{100} \\times 46 = 20.7$<br>विभिन्न विषयों का अध्ययन करने वाले छात्रों का प्रतिशत (कुल $100$ में से):<br>अंग्रेजी = $30\\%$<br>हिंदी = $24\\%$<br>गणित = $25.3\\%$<br>भौतिकी = $20.7\\%$<br>अधिकतम प्रतिशत $30\\%$ (अंग्रेजी) है।"
+        "ans": 3,
+        "solution": "<b>Solution (EN):</b><br>Let the total number of students be $100$.<br>Number of girls = $40\\%$ of $100 = 40$<br>Number of boys = $60\\%$ of $100 = 60$<br>Girls studying English = $\\frac{3}{4} \\times 40 = 30$<br>Boys studying Hindi = $\\frac{2}{5} \\times 60 = 24$<br>Total students studying English and Hindi = $30 + 24 = 54$<br>Remaining students = $100 - 54 = 46$<br>Students studying Mathematics = $55\\%$ of $46$<br> $\\Rightarrow \\frac{55}{100} \\times 46 = 25.3$<br>Students studying Physics = $45\\%$ of $46$<br> $\\Rightarrow \\frac{45}{100} \\times 46 = 20.7$<br>Percentages of students studying different subjects (out of $100$):<br>English = $30\\%$<br>Hindi = $24\\%$<br>Mathematics = $25.3\\%$<br>Physics = $20.7\\%$<br>The maximum percentage is $30\\%$ (English).<br><br><b>Solution (HI):</b><br>माना छात्रों की कुल संख्या $100$ है।<br>लड़कियों की संख्या = $100$ का $40\\% = 40$<br>लड़कों की संख्या = $100$ का $60\\% = 60$<br>अंग्रेजी पढ़ने वाली लड़कियां = $\\frac{3}{4} \\times 40 = 30$<br>हिंदी पढ़ने वाले लड़के = $\\frac{2}{5} \\times 60 = 24$<br>अंग्रेजी और हिंदी पढ़ने वाले कुल छात्र = $30 + 24 = 54$<br>शेष छात्र = $100 - 54 = 46$<br>गणित पढ़ने वाले छात्र = $46$ का $55\\%$<br> $\\Rightarrow \\frac{55}{100} \\times 46 = 25.3$<br>भौतिकी पढ़ने वाले छात्र = $46$ का $45\\%$<br> $\\Rightarrow \\frac{45}{100} \\times 46 = 20.7$<br>विभिन्न विषयों का अध्ययन करने वाले छात्रों का प्रतिशत (कुल $100$ में से):<br>अंग्रेजी = $30\\%$<br>हिंदी = $24\\%$<br>गणित = $25.3\\%$<br>भौतिकी = $20.7\\%$<br>अधिकतम प्रतिशत $30\\%$ (अंग्रेजी) है।<br><br><b>Final Answer:</b> 30%"
     },
     {
         "section": "Arithmetical and Numerical Ability1",
@@ -2285,8 +2285,8 @@
             "15%",
             "17%"
         ],
-        "ans": "4",
-        "solution": "<b>Solution (EN):</b><br>The original price of ₹$1,000$ for the dealer is extra information and not required to find the percentage profit of the retailer.<br>Let the cost price for the retailer be ₹$100$.<br>Marked price by the retailer ($30\\%$ markup) = $100 + 30 = 130$<br>Discount offered = $10\\%$ on marked price<br>Selling price = $130 - (10\\%$ of $130)$<br> $\\Rightarrow 130 - 13 = 117$<br>Profit = Selling Price $-$ Cost Price<br> $\\Rightarrow 117 - 100 = 17$<br>Profit percentage = $17\\%$<br><br><b>Solution (HI):</b><br>खुदरा विक्रेता का लाभ प्रतिशत ज्ञात करने के लिए डीलर के लिए ₹$1,000$ के मूल मूल्य की आवश्यकता नहीं है, यह केवल भ्रमित करने के लिए है।<br>माना खुदरा विक्रेता के लिए क्रय मूल्य ₹$100$ है।<br>खुदरा विक्रेता द्वारा अंकित मूल्य ($30\\%$ अधिक) = $100 + 30 = 130$<br>दी गई छूट = अंकित मूल्य पर $10\\%$<br>विक्रय मूल्य = $130 - (130$ का $10\\%)$<br> $\\Rightarrow 130 - 13 = 117$<br>लाभ = विक्रय मूल्य $-$ क्रय मूल्य<br> $\\Rightarrow 117 - 100 = 17$<br>लाभ प्रतिशत = $17\\%$<br><br><b>Short Trick:</b><br>Successive percentage formula: $a + b + \\frac{a \\times b}{100}$<br>Here $a = +30\\%$ (markup), $b = -10\\%$ (discount)<br>Profit % = $30 - 10 + \\frac{30 \\times (-10)}{100}$<br> $\\Rightarrow 20 - 3 = 17\\%$"
+        "ans": 4,
+        "solution": "<b>Solution (EN):</b><br>The original price of ₹$1,000$ for the dealer is extra information and not required to find the percentage profit of the retailer.<br>Let the cost price for the retailer be ₹$100$.<br>Marked price by the retailer ($30\\%$ markup) = $100 + 30 = 130$<br>Discount offered = $10\\%$ on marked price<br>Selling price = $130 - (10\\%$ of $130)$<br> $\\Rightarrow 130 - 13 = 117$<br>Profit = Selling Price $-$ Cost Price<br> $\\Rightarrow 117 - 100 = 17$<br>Profit percentage = $17\\%$<br><br><b>Solution (HI):</b><br>खुदरा विक्रेता का लाभ प्रतिशत ज्ञात करने के लिए डीलर के लिए ₹$1,000$ के मूल मूल्य की आवश्यकता नहीं है, यह केवल भ्रमित करने के लिए है।<br>माना खुदरा विक्रेता के लिए क्रय मूल्य ₹$100$ है।<br>खुदरा विक्रेता द्वारा अंकित मूल्य ($30\\%$ अधिक) = $100 + 30 = 130$<br>दी गई छूट = अंकित मूल्य पर $10\\%$<br>विक्रय मूल्य = $130 - (130$ का $10\\%)$<br> $\\Rightarrow 130 - 13 = 117$<br>लाभ = विक्रय मूल्य $-$ क्रय मूल्य<br> $\\Rightarrow 117 - 100 = 17$<br>लाभ प्रतिशत = $17\\%$<br><br><b>Short Trick:</b><br>Successive percentage formula: $a + b + \\frac{a \\times b}{100}$<br>Here $a = +30\\%$ (markup), $b = -10\\%$ (discount)<br>Profit % = $30 - 10 + \\frac{30 \\times (-10)}{100}$<br> $\\Rightarrow 20 - 3 = 17\\%$<br><br><b>Final Answer:</b> 17%"
     },
     {
         "section": "Arithmetical and Numerical Ability1",
@@ -2306,8 +2306,8 @@
             "40",
             "28"
         ],
-        "ans": "3",
-        "solution": "<b>Solution (EN):</b><br>Let total capacity of the tank = LCM($56, 70$) = $280$ units.<br>Efficiency of pipe A = $\\frac{280}{56} = 5$ units/min<br>Efficiency of pipe B = $\\frac{280}{70} = 4$ units/min<br>Let the efficiency of emptying pipe C be $-x$ units/min.<br>Work done by A and B in the first $14$ mins = $14 \\times (5 + 4) = 14 \\times 9 = 126$ units<br>Work done by A, B, and C in the next $10$ mins = $10 \\times (5 + 4 - x) = 10 \\times (9 - x) = 90 - 10x$ units<br>Work done by B and C in the remaining $42$ mins = $42 \\times (4 - x) = 168 - 42x$ units<br>Total work is equal to the capacity of the tank ($280$ units).<br> $\\Rightarrow 126 + 90 - 10x + 168 - 42x = 280$<br> $\\Rightarrow 384 - 52x = 280$<br> $\\Rightarrow 52x = 384 - 280 = 104$<br> $\\Rightarrow x = 2$ units/min<br>Efficiency of all three pipes together = $A + B + C$<br> $\\Rightarrow 5 + 4 - 2 = 7$ units/min<br>Time taken to fill the tank by all three pipes = $\\frac{\\text{Total Capacity}}{\\text{Combined Efficiency}}$<br> $\\Rightarrow \\frac{280}{7} = 40$ minutes.<br><br><b>Solution (HI):</b><br>माना टंकी की कुल क्षमता = LCM($56, 70$) = $280$ इकाइयाँ।<br>पाइप A की कार्यक्षमता = $\\frac{280}{56} = 5$ इकाइयाँ/मिनट<br>पाइप B की कार्यक्षमता = $\\frac{280}{70} = 4$ इकाइयाँ/मिनट<br>माना खाली करने वाले पाइप C की कार्यक्षमता $-x$ इकाइयाँ/मिनट है।<br>पहले $14$ मिनट में A और B द्वारा किया गया कार्य = $14 \\times (5 + 4) = 14 \\times 9 = 126$ इकाइयाँ<br>अगले $10$ मिनट में A, B और C द्वारा किया गया कार्य = $10 \\times (5 + 4 - x) = 10 \\times (9 - x) = 90 - 10x$ इकाइयाँ<br>शेष $42$ मिनट में B और C द्वारा किया गया कार्य = $42 \\times (4 - x) = 168 - 42x$ इकाइयाँ<br>कुल कार्य टंकी की क्षमता ($280$ इकाइयाँ) के बराबर है।<br> $\\Rightarrow 126 + 90 - 10x + 168 - 42x = 280$<br> $\\Rightarrow 384 - 52x = 280$<br> $\\Rightarrow 52x = 384 - 280 = 104$<br> $\\Rightarrow x = 2$ इकाइयाँ/मिनट<br>तीनों पाइपों की एक साथ कार्यक्षमता = $A + B + C$<br> $\\Rightarrow 5 + 4 - 2 = 7$ इकाइयाँ/मिनट<br>सभी तीनों पाइपों द्वारा टंकी को भरने में लिया गया समय = $\\frac{\\text{कुल क्षमता}}{\\text{कुल कार्यक्षमता}}$<br> $\\Rightarrow \\frac{280}{7} = 40$ मिनट।"
+        "ans": 3,
+        "solution": "<b>Solution (EN):</b><br>Let total capacity of the tank = LCM($56, 70$) = $280$ units.<br>Efficiency of pipe A = $\\frac{280}{56} = 5$ units/min<br>Efficiency of pipe B = $\\frac{280}{70} = 4$ units/min<br>Let the efficiency of emptying pipe C be $-x$ units/min.<br>Work done by A and B in the first $14$ mins = $14 \\times (5 + 4) = 14 \\times 9 = 126$ units<br>Work done by A, B, and C in the next $10$ mins = $10 \\times (5 + 4 - x) = 10 \\times (9 - x) = 90 - 10x$ units<br>Work done by B and C in the remaining $42$ mins = $42 \\times (4 - x) = 168 - 42x$ units<br>Total work is equal to the capacity of the tank ($280$ units).<br> $\\Rightarrow 126 + 90 - 10x + 168 - 42x = 280$<br> $\\Rightarrow 384 - 52x = 280$<br> $\\Rightarrow 52x = 384 - 280 = 104$<br> $\\Rightarrow x = 2$ units/min<br>Efficiency of all three pipes together = $A + B + C$<br> $\\Rightarrow 5 + 4 - 2 = 7$ units/min<br>Time taken to fill the tank by all three pipes = $\\frac{\\text{Total Capacity}}{\\text{Combined Efficiency}}$<br> $\\Rightarrow \\frac{280}{7} = 40$ minutes.<br><br><b>Solution (HI):</b><br>माना टंकी की कुल क्षमता = LCM($56, 70$) = $280$ इकाइयाँ।<br>पाइप A की कार्यक्षमता = $\\frac{280}{56} = 5$ इकाइयाँ/मिनट<br>पाइप B की कार्यक्षमता = $\\frac{280}{70} = 4$ इकाइयाँ/मिनट<br>माना खाली करने वाले पाइप C की कार्यक्षमता $-x$ इकाइयाँ/मिनट है।<br>पहले $14$ मिनट में A और B द्वारा किया गया कार्य = $14 \\times (5 + 4) = 14 \\times 9 = 126$ इकाइयाँ<br>अगले $10$ मिनट में A, B और C द्वारा किया गया कार्य = $10 \\times (5 + 4 - x) = 10 \\times (9 - x) = 90 - 10x$ इकाइयाँ<br>शेष $42$ मिनट में B और C द्वारा किया गया कार्य = $42 \\times (4 - x) = 168 - 42x$ इकाइयाँ<br>कुल कार्य टंकी की क्षमता ($280$ इकाइयाँ) के बराबर है।<br> $\\Rightarrow 126 + 90 - 10x + 168 - 42x = 280$<br> $\\Rightarrow 384 - 52x = 280$<br> $\\Rightarrow 52x = 384 - 280 = 104$<br> $\\Rightarrow x = 2$ इकाइयाँ/मिनट<br>तीनों पाइपों की एक साथ कार्यक्षमता = $A + B + C$<br> $\\Rightarrow 5 + 4 - 2 = 7$ इकाइयाँ/मिनट<br>सभी तीनों पाइपों द्वारा टंकी को भरने में लिया गया समय = $\\frac{\\text{कुल क्षमता}}{\\text{कुल कार्यक्षमता}}$<br> $\\Rightarrow \\frac{280}{7} = 40$ मिनट。<br><br><b>Final Answer:</b> 40"
     },
     {
         "section": "Arithmetical and Numerical Ability1",
@@ -2327,7 +2327,7 @@
             "$7.5$",
             "$8.5$"
         ],
-        "ans": "3",
+        "ans": 3,
         "solution": "<b>Solution (EN):</b><br>Let total work = LCM($12, 15, 10$) = $60$ units.<br>Efficiency of (A + B) = $\\dfrac{60}{12} = 5$ units/day.<br>Efficiency of (B + C) = $\\dfrac{60}{15} = 4$ units/day.<br>Efficiency of (A + C) = $\\dfrac{60}{10} = 6$ units/day.<br>Total efficiency of $2$(A + B + C) = $5 + 4 + 6 = 15$<br> $\\Rightarrow$ Efficiency of (A + B + C) = $\\dfrac{15}{2} = 7.5$ units/day.<br>They worked together for $3$ days.<br>Work done in $3$ days = $7.5 \\times 3 = 22.5$ units.<br>Remaining work = $60 - 22.5 = 37.5$ units.<br>Now, C leaves. A and B will complete the remaining work.<br>Time taken by A and B = Remaining Work / Efficiency of (A + B)<br> $\\Rightarrow \\dfrac{37.5}{5} = 7.5$ days.<br><br><b>Solution (HI):</b><br>माना कुल कार्य = LCM($12, 15, 10$) = $60$ इकाइयाँ।<br>(A + B) की कार्यक्षमता = $\\dfrac{60}{12} = 5$ इकाइयाँ/दिन।<br>(B + C) की कार्यक्षमता = $\\dfrac{60}{15} = 4$ इकाइयाँ/दिन।<br>(A + C) की कार्यक्षमता = $\\dfrac{60}{10} = 6$ इकाइयाँ/दिन।<br>$2$(A + B + C) की कुल कार्यक्षमता = $5 + 4 + 6 = 15$<br> $\\Rightarrow$ (A + B + C) की कार्यक्षमता = $\\dfrac{15}{2} = 7.5$ इकाइयाँ/दिन।<br>उन्होंने $3$ दिनों तक एक साथ काम किया।<br>$3$ दिनों में किया गया कार्य = $7.5 \\times 3 = 22.5$ इकाइयाँ।<br>शेष कार्य = $60 - 22.5 = 37.5$ इकाइयाँ।<br>अब, C छोड़ देता है। A और B शेष कार्य पूरा करेंगे।<br>A और B द्वारा लिया गया समय = शेष कार्य / (A + B) की कार्यक्षमता<br> $\\Rightarrow \\dfrac{37.5}{5} = 7.5$ दिन।<br><br><b>Final Answer:</b> $7.5$"
     },
     {
@@ -2348,7 +2348,7 @@
             "$30$",
             "$18$"
         ],
-        "ans": "4",
+        "ans": 4,
         "solution": "<b>Solution (EN):</b><br>Let the original quantities be $5x$ and $8x$.<br>According to the question,<br> $\\dfrac{5x + 12}{8x + 12} = \\dfrac{7}{10}$<br> $\\Rightarrow 10(5x + 12) = 7(8x + 12)$<br> $\\Rightarrow 50x + 120 = 56x + 84$<br> $\\Rightarrow 56x - 50x = 120 - 84$<br> $\\Rightarrow 6x = 36$<br> $\\Rightarrow x = 6$<br>Original quantities are $5(6) = 30$ and $8(6) = 48$.<br>Absolute difference = $48 - 30 = 18$.<br><br><b>Solution (HI):</b><br>माना मूल मात्राएँ $5x$ और $8x$ हैं।<br>प्रश्न के अनुसार,<br> $\\dfrac{5x + 12}{8x + 12} = \\dfrac{7}{10}$<br> $\\Rightarrow 10(5x + 12) = 7(8x + 12)$<br> $\\Rightarrow 50x + 120 = 56x + 84$<br> $\\Rightarrow 56x - 50x = 120 - 84$<br> $\\Rightarrow 6x = 36$<br> $\\Rightarrow x = 6$<br>मूल मात्राएँ $5(6) = 30$ और $8(6) = 48$ हैं।<br>पूर्ण अंतर = $48 - 30 = 18$।<br><br><b>Short Trick:</b><br>Original ratio = $5 : 8$ (Difference is $3$ units)<br>New ratio = $7 : 10$ (Difference is $3$ units)<br>Since the difference in parts is equal for both quantities ($7 - 5 = 2$ units and $10 - 8 = 2$ units).<br> $2$ units = $12$<br> $\\Rightarrow 1$ unit = $6$<br>Difference between original quantities = $(8 - 5)$ units = $3$ units.<br> $\\Rightarrow 3 \\times 6 = 18$<br><br><b>Final Answer:</b> $18$"
     },
     {
@@ -2369,7 +2369,7 @@
             "$10$ किमी/घंटा",
             "$12$ किमी/घंटा"
         ],
-        "ans": "4",
+        "ans": 4,
         "solution": "<b>Solution (EN):</b><br>Let the speed of the stream be $x$ km/hr.<br>Speed of the boat in still water = $24$ km/hr.<br>Downstream speed = $(24 + x)$ km/hr.<br>Upstream speed = $(24 - x)$ km/hr.<br>Total time = $8$ hours.<br> $\\dfrac{72}{24 + x} + \\dfrac{72}{24 - x} = 8$<br> $\\Rightarrow 72 \\left[ \\dfrac{24 - x + 24 + x}{(24 + x)(24 - x)} \\right] = 8$<br> $\\Rightarrow 9 \\left[ \\dfrac{48}{576 - x^2} \\right] = 1$<br> $\\Rightarrow 432 = 576 - x^2$<br> $\\Rightarrow x^2 = 576 - 432 = 144$<br> $\\Rightarrow x = 12$ km/hr.<br><br><b>Solution (HI):</b><br>माना धारा की गति $x$ किमी/घंटा है।<br>शांत जल में नाव की गति = $24$ किमी/घंटा।<br>धारा के अनुकूल गति = $(24 + x)$ किमी/घंटा।<br>धारा के प्रतिकूल गति = $(24 - x)$ किमी/घंटा।<br>कुल समय = $8$ घंटे।<br> $\\dfrac{72}{24 + x} + \\dfrac{72}{24 - x} = 8$<br> $\\Rightarrow 72 \\left[ \\dfrac{24 - x + 24 + x}{(24 + x)(24 - x)} \\right] = 8$<br> $\\Rightarrow 9 \\left[ \\dfrac{48}{576 - x^2} \\right] = 1$<br> $\\Rightarrow 432 = 576 - x^2$<br> $\\Rightarrow x^2 = 576 - 432 = 144$<br> $\\Rightarrow x = 12$ किमी/घंटा।<br><br><b>Final Answer:</b> $12$ km/hr"
     },
     {
@@ -2390,7 +2390,7 @@
             "$0.044$",
             "$0.06$"
         ],
-        "ans": "1",
+        "ans": 1,
         "solution": "<b>Solution (EN):</b><br>Mean proportional between two numbers $a$ and $b$ is given by $\\sqrt{a \\times b}$.<br>Here, $a = 0.02$ and $b = 0.08$.<br>Mean proportional = $\\sqrt{0.02 \\times 0.08}$<br> $\\Rightarrow \\sqrt{0.0016} = 0.04$<br><br><b>Solution (HI):</b><br>दो संख्याओं $a$ और $b$ के बीच मध्यानुपाती $\\sqrt{a \\times b}$ द्वारा दिया जाता है।<br>यहाँ, $a = 0.02$ और $b = 0.08$ है।<br>मध्यानुपाती = $\\sqrt{0.02 \\times 0.08}$<br> $\\Rightarrow \\sqrt{0.0016} = 0.04$<br><br><b>Final Answer:</b> $0.04$"
     },
     {
@@ -2411,7 +2411,7 @@
             "$35$ दिन",
             "$28$ दिन"
         ],
-        "ans": "4",
+        "ans": 4,
         "solution": "<b>Solution (EN):</b><br>Time taken by X to complete the whole task = $42$ days.<br>Work done by X in $1$ day = $\\dfrac{1}{42}$<br>Work done by X in $14$ days = $14 \\times \\dfrac{1}{42} = \\dfrac{1}{3}$<br>Remaining work = $1 - \\dfrac{1}{3} = \\dfrac{2}{3}$<br>Y completes $\\dfrac{2}{3}$ of the work in $56$ days.<br>Time taken by Y to complete the whole work = $56 \\times \\dfrac{3}{2} = 84$ days.<br>Now, we need to find the time taken if X and Y work together.<br>Work done by (X + Y) in $1$ day = $\\dfrac{1}{42} + \\dfrac{1}{84}$<br> $\\Rightarrow \\dfrac{2 + 1}{84} = \\dfrac{3}{84} = \\dfrac{1}{28}$<br>So, X and Y together will complete the whole task in $28$ days.<br><br><b>Solution (HI):</b><br>X द्वारा पूरे कार्य को पूरा करने में लिया गया समय = $42$ दिन।<br>X द्वारा $1$ दिन में किया गया कार्य = $\\dfrac{1}{42}$<br>X द्वारा $14$ दिनों में किया गया कार्य = $14 \\times \\dfrac{1}{42} = \\dfrac{1}{3}$<br>शेष कार्य = $1 - \\dfrac{1}{3} = \\dfrac{2}{3}$<br>Y कार्य का $\\dfrac{2}{3}$ भाग $56$ दिनों में पूरा करता है।<br>Y द्वारा पूरे कार्य को पूरा करने में लिया गया समय = $56 \\times \\dfrac{3}{2} = 84$ दिन।<br>अब, हमें X और Y के एक साथ कार्य करने पर लगने वाला समय ज्ञात करना है।<br>(X + Y) द्वारा $1$ दिन में किया गया कार्य = $\\dfrac{1}{42} + \\dfrac{1}{84}$<br> $\\Rightarrow \\dfrac{2 + 1}{84} = \\dfrac{3}{84} = \\dfrac{1}{28}$<br>अतः, X और Y मिलकर पूरे कार्य को $28$ दिनों में पूरा करेंगे।<br><br><b>Final Answer:</b> $28$"
     },
     {
@@ -2432,7 +2432,7 @@
             "₹ $7,002$",
             "₹ $7,020$"
         ],
-        "ans": "4",
+        "ans": 4,
         "solution": "<b>Solution (EN):</b><br>Let the Cost Price (CP) for A be $100x$.<br>A's profit = $20\\%$ of $100x = 20x$.<br>Selling Price (SP) for A = CP for B = $100x + 20x = 120x$.<br>B's profit = $30\\%$ of $120x = 36x$.<br>SP for B = CP for C = $120x + 36x = 156x$.<br>C's loss = $10\\%$ of $156x = 15.6x$.<br>SP for C = CP for D = $156x - 15.6x = 140.4x$.<br>According to the question, B's profit $-$ A's profit = ₹ $800$.<br> $\\Rightarrow 36x - 20x = 800$<br> $\\Rightarrow 16x = 800$<br> $\\Rightarrow x = 50$<br>CP for D = $140.4x$ <br> $\\Rightarrow 140.4 \\times 50 = 7020$<br>The cost price for D is ₹ $7,020$.<br><br><b>Solution (HI):</b><br>माना A के लिए क्रय मूल्य (CP) $100x$ है।<br>A का लाभ = $100x$ का $20\\% = 20x$.<br>A के लिए विक्रय मूल्य (SP) = B के लिए CP = $100x + 20x = 120x$.<br>B का लाभ = $120x$ का $30\\% = 36x$.<br>B के लिए SP = C के लिए CP = $120x + 36x = 156x$.<br>C की हानि = $156x$ का $10\\% = 15.6x$.<br>C के लिए SP = D के लिए CP = $156x - 15.6x = 140.4x$.<br>प्रश्नानुसार, B का लाभ $-$ A का लाभ = ₹ $800$.<br> $\\Rightarrow 36x - 20x = 800$<br> $\\Rightarrow 16x = 800$<br> $\\Rightarrow x = 50$<br>D के लिए CP = $140.4x$ <br> $\\Rightarrow 140.4 \\times 50 = 7020$<br>D के लिए क्रय मूल्य ₹ $7,020$ है।<br><br><b>Final Answer:</b> ₹ $7,020$"
     },
     {
@@ -2453,7 +2453,7 @@
             "₹ $2,000$",
             "₹ $1,800$"
         ],
-        "ans": "2",
+        "ans": 2,
         "solution": "<b>Solution (EN):</b><br>Given:<br>Curved Surface Area (CSA) of the cylinder = $440$ cm$^2$<br>Cost of material per cm$^2$ = ₹ $5$<br>Total cost for covering the curved surface = CSA $\\times$ Rate<br> $\\Rightarrow 440 \\times 5 = 2200$<br>Total cost is ₹ $2,200$.<br>Note: The height of the cylinder ($10$ cm) is extra information and not required for this calculation.<br><br><b>Solution (HI):</b><br>दिया गया है:<br>बेलन का वक्र पृष्ठीय क्षेत्रफल (CSA) = $440$ cm$^2$<br>प्रति cm$^2$ सामग्री की लागत = ₹ $5$<br>वक्र पृष्ठ को ढकने की कुल लागत = CSA $\\times$ दर<br> $\\Rightarrow 440 \\times 5 = 2200$<br>कुल लागत ₹ $2,200$ है।<br>नोट: बेलन की ऊँचाई ($10$ cm) अतिरिक्त जानकारी है और इस गणना के लिए इसकी आवश्यकता नहीं है।<br><br><b>Final Answer:</b> ₹ $2,200$"
     },
     {
@@ -2474,7 +2474,7 @@
             "$40$ किमी/घंटा",
             "$38.5$ किमी/घंटा"
         ],
-        "ans": "3",
+        "ans": 3,
         "solution": "<b>Solution (EN):</b><br>When a person covers a certain distance at a speed of $x$ and returns the same distance at a speed of $y$, the average speed for the whole journey is given by: $\\dfrac{2xy}{x + y}$<br>Here, $x = 36$ km/hr and $y = 45$ km/hr.<br>Average Speed = $\\dfrac{2 \\times 36 \\times 45}{36 + 45}$<br> $\\Rightarrow \\dfrac{3240}{81} = 40$ km/hr.<br>The distance of $15$ km is redundant information.<br><br><b>Solution (HI):</b><br>जब कोई व्यक्ति $x$ की गति से एक निश्चित दूरी तय करता है और $y$ की गति से समान दूरी वापस आता है, तो पूरी यात्रा के लिए औसत गति इस प्रकार दी जाती है: $\\dfrac{2xy}{x + y}$<br>यहाँ, $x = 36$ किमी/घंटा और $y = 45$ किमी/घंटा है।<br>औसत गति = $\\dfrac{2 \\times 36 \\times 45}{36 + 45}$<br> $\\Rightarrow \\dfrac{3240}{81} = 40$ किमी/घंटा।<br>$15$ किमी की दूरी अतिरिक्त जानकारी है।<br><br><b>Final Answer:</b> $40$ km/hr"
     },
     {
@@ -2495,7 +2495,7 @@
             "$10.5\\%$",
             "$15\\%$"
         ],
-        "ans": "1",
+        "ans": 1,
         "solution": "<b>Solution (EN):</b><br>Let the Cost Price (CP) of the shirt be $100$.<br>The shopkeeper marks it $25\\%$ above CP.<br>Marked Price (MP) = $100 + 25 = 125$.<br>To earn a profit of $10\\%$, the Selling Price (SP) must be:<br>SP = $100 + 10 = 110$.<br>Discount offered = MP $-$ SP <br> $\\Rightarrow 125 - 110 = 15$<br>Discount Percentage = $\\left( \\dfrac{\\text{Discount}}{\\text{MP}} \\right) \\times 100$<br> $\\Rightarrow \\left( \\dfrac{15}{125} \\right) \\times 100$<br> $\\Rightarrow \\dfrac{3}{25} \\times 100 = 3 \\times 4 = 12\\%$<br><br><b>Solution (HI):</b><br>माना शर्ट का क्रय मूल्य (CP) $100$ है।<br>दुकानदार इसे CP से $25\\%$ अधिक अंकित करता है।<br>अंकित मूल्य (MP) = $100 + 25 = 125$.<br>$10\\%$ का लाभ कमाने के लिए, विक्रय मूल्य (SP) होना चाहिए:<br>SP = $100 + 10 = 110$.<br>दी गई छूट = MP $-$ SP <br> $\\Rightarrow 125 - 110 = 15$<br>छूट प्रतिशत = $\\left( \\dfrac{\\text{छूट}}{\\text{MP}} \\right) \\times 100$<br> $\\Rightarrow \\left( \\dfrac{15}{125} \\right) \\times 100$<br> $\\Rightarrow \\dfrac{3}{25} \\times 100 = 3 \\times 4 = 12\\%$<br><br><b>Final Answer:</b> $12\\%$"
     },
     {
@@ -2516,7 +2516,7 @@
             "$30\\%$",
             "$25\\%$"
         ],
-        "ans": "1",
+        "ans": 1,
         "solution": "<b>Solution (EN):</b><br>Scheme: \"Buy 2 get 1 free\".<br>Number of items paid for = $2$<br>Number of free items = $1$<br>Total items received by the customer = $2 + 1 = 3$<br>Discount Percentage = $\\left( \\dfrac{\\text{Free Items}}{\\text{Total Items}} \\right) \\times 100$<br> $\\Rightarrow \\left( \\dfrac{1}{3} \\right) \\times 100 = 33.33\\%$<br>Rounding to the nearest integer, the effective discount is $33\\%$.<br>The price of ₹ $80$ is extra information and is not needed to calculate the discount percentage.<br><br><b>Solution (HI):</b><br>योजना: \"2 खरीदें 1 मुफ्त पाएं\"।<br>भुगतान की गई वस्तुओं की संख्या = $2$<br>मुफ्त वस्तुओं की संख्या = $1$<br>ग्राहक द्वारा प्राप्त कुल वस्तुएं = $2 + 1 = 3$<br>छूट प्रतिशत = $\\left( \\dfrac{\\text{मुफ्त वस्तुएं}}{\\text{कुल वस्तुएं}} \\right) \\times 100$<br> $\\Rightarrow \\left( \\dfrac{1}{3} \\right) \\times 100 = 33.33\\%$<br>निकटतम पूर्णांक तक पूर्णांकित करने पर, प्रभावी छूट $33\\%$ है।<br>₹ $80$ की कीमत अतिरिक्त जानकारी है और छूट प्रतिशत की गणना के लिए इसकी आवश्यकता नहीं है।<br><br><b>Final Answer:</b> $33\\%$"
     },
     {
