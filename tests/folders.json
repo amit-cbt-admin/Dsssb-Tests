@@ -228,6 +228,40 @@
       }
     ]
   },
+  "folder_DSSSB FOREST GUARD": {
+    "board": "DSSSB",
+    "colorClass": "f-blue",
+    "examKey": "DSSSB FOREST GUARD",
+    "icon": "👮‍♂️",
+    "name": "DSSSB FOREST GUARD 2026",
+    "order": 2,
+    "subCategories": [
+      {
+        "filterKey": "full_mock",
+        "name": "FULL MOCK"
+      },
+      {
+        "filterKey": "hindi",
+        "name": "HINDI"
+      },
+      {
+        "filterKey": "english",
+        "name": "ENGLISH"
+      },
+      {
+        "filterKey": "maths",
+        "name": "MATHS"
+      },
+      {
+        "filterKey": "reasoning",
+        "name": "REASONING"
+      },
+      {
+        "filterKey": "gk",
+        "name": "GK"
+      }
+    ]
+  },
   "folder_DSSSB MTS": {
     "board": "DSSSB",
     "colorClass": "f-green",
