@@ -296,6 +296,36 @@
       }
     ]
   },
+  "folder_FOREST GUARD 2026": {
+    "board": "DSSSB",
+    "colorClass": "f-blue",
+    "examKey": "FOREST GUARD 2026",
+    "icon": "👮‍♂️",
+    "name": "FOREST GUARD 2026",
+    "order": 2,
+    "subCategories": [
+      {
+        "filterKey": "hindi",
+        "name": "Hindi"
+      },
+      {
+        "filterKey": "english",
+        "name": "English"
+      },
+      {
+        "filterKey": "maths",
+        "name": "Maths"
+      },
+      {
+        "filterKey": "reasoning",
+        "name": "Reasoning"
+      },
+      {
+        "filterKey": "gk",
+        "name": "Gk"
+      }
+    ]
+  },
   "folder_HINDI": {
     "board": "DSSSB",
     "colorClass": "f-blue",
