@@ -1,0 +1,422 @@
+[
+  {
+    "section": "Test of English Language and Comprehension1",
+    "topic": "Spelling Correction",
+    "difficulty": "Easy",
+    "q_en": "Select the option that rectifies the INCORRECTLY spelt word in the given sentence.<br><br>He took great privilege in mentoring his colleague, whose dedication and discipline were evident in every recomendation he wrote.",
+    "q_hi": "Select the option that rectifies the INCORRECTLY spelt word in the given sentence.<br><br>He took great privilege in mentoring his colleague, whose dedication and discipline were evident in every recomendation he wrote.",
+    "op_en": [
+      "mantoring",
+      "descipline",
+      "recommendation",
+      "priviledge"
+    ],
+    "op_hi": [
+      "mantoring",
+      "descipline",
+      "recommendation",
+      "priviledge"
+    ],
+    "ans": "3",
+    "solution": "<b>Solution (EN):</b><br>The incorrectly spelt word in the sentence is 'recomendation'. Its correct spelling is 'recommendation'. The other words 'mentoring', 'discipline', and 'privilege' are spelt correctly in the original sentence. Option 3 rectifies the error.<br><br><b>Solution (HI):</b><br>वाक्य में गलत वर्तनी वाला शब्द 'recomendation' है। इसकी सही वर्तनी 'recommendation' (सिफारिश) है। अन्य शब्द 'mentoring' (मार्गदर्शन), 'discipline' (अनुशासन), और 'privilege' (विशेषाधिकार) वाक्य में सही ढंग से लिखे गए हैं। विकल्प 3 त्रुटि को सुधारता है।<br><br><b>Final Answer:</b> recommendation"
+  },
+  {
+    "section": "Test of English Language and Comprehension1",
+    "topic": "Synonyms and Antonyms",
+    "difficulty": "Medium",
+    "q_en": "Select the most appropriate synonym of the given word.<br>Magnanimous",
+    "q_hi": "Select the most appropriate synonym of the given word.<br>Magnanimous",
+    "op_en": [
+      "Competent",
+      "Efficient",
+      "Imminent",
+      "Beneficent"
+    ],
+    "op_hi": [
+      "Competent",
+      "Efficient",
+      "Imminent",
+      "Beneficent"
+    ],
+    "ans": "4",
+    "solution": "<b>Solution (EN):</b><br>The word 'Magnanimous' means generous or forgiving, especially towards a rival or less powerful person. Its closest synonym among the given options is 'Beneficent', which means generous or doing good.<br>Competent: having the necessary ability.<br>Efficient: achieving maximum productivity.<br>Imminent: about to happen.<br><br><b>Solution (HI):</b><br>'Magnanimous' शब्द का अर्थ है उदार या क्षमाशील (विशेषकर किसी प्रतिद्वंद्वी के प्रति)। दिए गए विकल्पों में इसका सबसे करीबी समानार्थी 'Beneficent' (परोपकारी/उदार) है।<br>Competent: सक्षम।<br>Efficient: कुशल।<br>Imminent: आसन्न (करीब आने वाला)।<br><br><b>Final Answer:</b> Beneficent"
+  },
+  {
+    "section": "Test of English Language and Comprehension1",
+    "topic": "Spelling Correction",
+    "difficulty": "Easy",
+    "q_en": "Rectify the sentence by selecting the correct spelling of the underlined word from the options.<br><u>Subssequent</u> to the meeting, he wrote a letter to the manager.",
+    "q_hi": "Rectify the sentence by selecting the correct spelling of the underlined word from the options.<br><u>Subssequent</u> to the meeting, he wrote a letter to the manager.",
+    "op_en": [
+      "Subseaquent",
+      "Subseequent",
+      "Subsequeant",
+      "Subsequent"
+    ],
+    "op_hi": [
+      "Subseaquent",
+      "Subseequent",
+      "Subsequeant",
+      "Subsequent"
+    ],
+    "ans": "4",
+    "solution": "<b>Solution (EN):</b><br>The incorrectly spelt word is 'Subssequent'. The correct spelling is 'Subsequent', which means occurring or coming later or after.<br><br><b>Solution (HI):</b><br>गलत वर्तनी वाला शब्द 'Subssequent' है। इसकी सही वर्तनी 'Subsequent' है, जिसका अर्थ है 'बाद का' या 'आगामी'।<br><br><b>Final Answer:</b> Subsequent"
+  },
+  {
+    "section": "Test of English Language and Comprehension1",
+    "topic": "Idioms and Phrases",
+    "difficulty": "Easy",
+    "q_en": "Select the option that provides the correct meaning of the given proverb.<br><br>Where there’s a will, there’s a way",
+    "q_hi": "Select the option that provides the correct meaning of the given proverb.<br><br>Where there’s a will, there’s a way",
+    "op_en": [
+      "If you are determined, you can overcome difficulties",
+      "Money can solve any problem",
+      "Only if you are strong can you be successful in life",
+      "Luck is the key to success"
+    ],
+    "op_hi": [
+      "If you are determined, you can overcome difficulties",
+      "Money can solve any problem",
+      "Only if you are strong can you be successful in life",
+      "Luck is the key to success"
+    ],
+    "ans": "1",
+    "solution": "<b>Solution (EN):</b><br>The proverb 'Where there’s a will, there’s a way' means that if someone is determined enough to do something, they will find a way to accomplish it, regardless of the obstacles. Therefore, 'If you are determined, you can overcome difficulties' is the correct meaning.<br><br><b>Solution (HI):</b><br>कहावत 'Where there’s a will, there’s a way' (जहाँ चाह, वहाँ राह) का अर्थ है कि यदि कोई व्यक्ति किसी काम को करने के लिए दृढ़ संकल्पित है, तो वह बाधाओं की परवाह किए बिना उसे पूरा करने का रास्ता खोज ही लेगा। इसलिए, 'यदि आप दृढ़ संकल्पित हैं, तो आप कठिनाइयों को दूर कर सकते हैं' इसका सही अर्थ है।<br><br><b>Final Answer:</b> If you are determined, you can overcome difficulties"
+  },
+  {
+    "section": "Test of English Language and Comprehension1",
+    "topic": "Synonyms and Antonyms",
+    "difficulty": "Medium",
+    "q_en": "Identify the word opposite in meaning to the underlined word in the given sentence.<br><br>It ends in a <u>menacing</u> snout.",
+    "q_hi": "Identify the word opposite in meaning to the underlined word in the given sentence.<br><br>It ends in a <u>menacing</u> snout.",
+    "op_en": [
+      "baleful",
+      "minatory",
+      "safe",
+      "intimidating"
+    ],
+    "op_hi": [
+      "baleful",
+      "minatory",
+      "safe",
+      "intimidating"
+    ],
+    "ans": "3",
+    "solution": "<b>Solution (EN):</b><br>The word 'menacing' means suggesting the presence of danger or threatening. The opposite of this would be 'safe' (protected from or not exposed to danger).<br>Baleful, minatory, and intimidating are synonyms of menacing.<br><br><b>Solution (HI):</b><br>'Menacing' शब्द का अर्थ है खतरनाक या डरावना। इसका विपरीत अर्थ 'safe' (सुरक्षित) होगा।<br>Baleful, minatory और intimidating, menacing के समानार्थी (synonyms) हैं।<br><br><b>Final Answer:</b> safe"
+  },
+  {
+    "section": "Test of English Language and Comprehension1",
+    "topic": "Sentence Rearrangement",
+    "difficulty": "Medium",
+    "q_en": "In the given question, a statement divided into different segments is given. Rearrange all the segments to form a coherent statement.<p>activities throughout the year(A)/ influences mood, shaping people’s emotions,(B)/ energy levels, and daily (C)/ season changes with the weather and significantly (D)</p>",
+    "q_hi": "In the given question, a statement divided into different segments is given. Rearrange all the segments to form a coherent statement.<p>activities throughout the year(A)/ influences mood, shaping people’s emotions,(B)/ energy levels, and daily (C)/ season changes with the weather and significantly (D)</p>",
+    "op_en": [
+      "DCAB",
+      "CADB",
+      "BCDA",
+      "DBCA"
+    ],
+    "op_hi": [
+      "DCAB",
+      "CADB",
+      "BCDA",
+      "DBCA"
+    ],
+    "ans": "4",
+    "solution": "<b>Solution (EN):</b><br>The correct logical order to form a meaningful sentence is DBCA. <br>(D) season changes with the weather and significantly <br>(B) influences mood, shaping people’s emotions, <br>(C) energy levels, and daily <br>(A) activities throughout the year.<br>The complete sentence is: \"Season changes with the weather and significantly influences mood, shaping people’s emotions, energy levels, and daily activities throughout the year.\"<br><br><b>Solution (HI):</b><br>एक अर्थपूर्ण वाक्य बनाने के लिए सही तार्किक क्रम DBCA है। <br>वाक्य इस प्रकार है: \"Season changes with the weather and significantly (D) influences mood, shaping people’s emotions, (B) energy levels, and daily (C) activities throughout the year (A).\"<br><br><b>Final Answer:</b> DBCA"
+  },
+  {
+    "section": "Test of English Language and Comprehension1",
+    "topic": "One Word Substitution",
+    "difficulty": "Easy",
+    "q_en": "Select the appropriate term (one word) for the given expression.<br><br>That which can not be effaced",
+    "q_hi": "Select the appropriate term (one word) for the given expression.<br><br>That which can not be effaced",
+    "op_en": [
+      "Indelible",
+      "Affable",
+      "Eligible",
+      "Illegible"
+    ],
+    "op_hi": [
+      "Indelible",
+      "Affable",
+      "Eligible",
+      "Illegible"
+    ],
+    "ans": "1",
+    "solution": "<b>Solution (EN):</b><br>The correct one-word substitution for \"That which can not be effaced\" (cannot be rubbed out or removed) is 'Indelible'.<br>Affable: friendly, good-natured.<br>Eligible: having the right to do or obtain something.<br>Illegible: not clear enough to be read.<br><br><b>Solution (HI):</b><br>\"That which can not be effaced\" (जिसे मिटाया या हटाया न जा सके) के लिए सही एक शब्द 'Indelible' (अमिट) है।<br>Affable: मिलनसार।<br>Eligible: योग्य।<br>Illegible: अपठनीय (जिसे पढ़ा न जा सके)।<br><br><b>Final Answer:</b> Indelible"
+  },
+  {
+    "section": "Test of English Language and Comprehension1",
+    "topic": "Synonyms and Antonyms",
+    "difficulty": "Medium",
+    "q_en": "Select the most appropriate antonym of 'enthralling'.",
+    "q_hi": "Select the most appropriate antonym of 'enthralling'.",
+    "op_en": [
+      "rejoice",
+      "spirited",
+      "calm",
+      "tedious"
+    ],
+    "op_hi": [
+      "rejoice",
+      "spirited",
+      "calm",
+      "tedious"
+    ],
+    "ans": "4",
+    "solution": "<b>Solution (EN):</b><br>The word 'enthralling' means capturing and holding one's attention or fascinating. Its opposite is 'tedious', which means too long, slow, or dull; tiresome or boring.<br>Rejoice: feel or show great joy.<br>Spirited: full of energy.<br>Calm: peaceful.<br><br><b>Solution (HI):</b><br>'Enthralling' शब्द का अर्थ है किसी का ध्यान खींचना या मोहक/दिलचस्प। इसका विलोम 'tedious' है, जिसका अर्थ है बहुत लंबा, धीमा या उबाऊ।<br>Rejoice: आनंद मनाना।<br>Spirited: ऊर्जावान।<br>Calm: शांत।<br><br><b>Final Answer:</b> tedious"
+  },
+  {
+    "section": "Test of English Language and Comprehension1",
+    "topic": "One Word Substitution",
+    "difficulty": "Medium",
+    "q_en": "Which of the following words is the correct substitute of the given word segment?<br>Intended to impress others",
+    "q_hi": "Which of the following words is the correct substitute of the given word segment?<br>Intended to impress others",
+    "op_en": [
+      "restraint",
+      "unassuming",
+      "ostentatious",
+      "unpretentious"
+    ],
+    "op_hi": [
+      "restraint",
+      "unassuming",
+      "ostentatious",
+      "unpretentious"
+    ],
+    "ans": "3",
+    "solution": "<b>Solution (EN):</b><br>The phrase 'Intended to impress others' refers to being showy or designed to attract notice. The correct substitute is 'ostentatious'.<br>Restraint: unemotional or moderate behavior.<br>Unassuming: not pretentious or arrogant.<br>Unpretentious: not attempting to impress others.<br><br><b>Solution (HI):</b><br>'Intended to impress others' (दूसरों को प्रभावित करने के इरादे से) का अर्थ है दिखावटी होना। इसके लिए सही शब्द 'ostentatious' (दिखावटी) है।<br>Restraint: संयम।<br>Unassuming: सरल या विनीत।<br>Unpretentious: जो दिखावा न करे।<br><br><b>Final Answer:</b> ostentatious"
+  },
+  {
+    "section": "Test of English Language and Comprehension1",
+    "topic": "Idioms and Phrases",
+    "difficulty": "Easy",
+    "q_en": "Choose the most appropriate meaning of the given proverb.<br><br>An empty vessel makes much noise.<br>",
+    "q_hi": "Choose the most appropriate meaning of the given proverb.<br><br>An empty vessel makes much noise.<br>",
+    "op_en": [
+      "Fools and persons with knowledge often talk a lot.",
+      "Fools and persons with knowledge often don’t talk.",
+      "Fools and persons with shallow knowledge often talk a lot.",
+      "Fools and persons with shallow knowledge often don’t talk."
+    ],
+    "op_hi": [
+      "Fools and persons with knowledge often talk a lot.",
+      "Fools and persons with knowledge often don’t talk.",
+      "Fools and persons with shallow knowledge often talk a lot.",
+      "Fools and persons with shallow knowledge often don’t talk."
+    ],
+    "ans": "3",
+    "solution": "<b>Solution (EN):</b><br>The proverb 'An empty vessel makes much noise' means that foolish or stupid people are the most talkative. Therefore, 'Fools and persons with shallow knowledge often talk a lot' is the correct meaning.<br><br><b>Solution (HI):</b><br>कहावत 'An empty vessel makes much noise' (थोथा चना बाजे घना) का अर्थ है कि मूर्ख या कम ज्ञान वाले लोग सबसे ज्यादा बात करते हैं या दिखावा करते हैं। इसलिए, 'मूर्ख और कम ज्ञान वाले लोग अक्सर बहुत बातें करते हैं' इसका सही अर्थ है।<br><br><b>Final Answer:</b> Fools and persons with shallow knowledge often talk a lot."
+  },
+  {
+    "section": "Test of English Language and Comprehension1",
+    "topic": "Vocabulary",
+    "difficulty": "Medium",
+    "q_en": "Choose the most appropriate option to substitute the underlined words in the given sentence.<br><br>With remarkable ability to/of <u>anticipate the future and plan actions based on that knowledge</u>, she invested in the technology that would later revolutionize the industry.",
+    "q_hi": "Choose the most appropriate option to substitute the underlined words in the given sentence.<br><br>With remarkable ability to/of <u>anticipate the future and plan actions based on that knowledge</u>, she invested in the technology that would later revolutionize the industry.",
+    "op_en": [
+      "oversight",
+      "backsight",
+      "hindsight",
+      "foresight"
+    ],
+    "op_hi": [
+      "oversight",
+      "backsight",
+      "hindsight",
+      "foresight"
+    ],
+    "ans": "4",
+    "solution": "<b>Solution (EN):</b><br>The phrase 'anticipate the future and plan actions based on that knowledge' perfectly defines 'foresight'. <br>'Oversight' means an unintentional failure to notice or do something (a mistake).<br>'Hindsight' means understanding a situation or event only after it has happened.<br><br><b>Solution (HI):</b><br>वाक्यांश 'anticipate the future and plan actions based on that knowledge' (भविष्य का अनुमान लगाना और उसके आधार पर योजना बनाना) 'foresight' (दूरदर्शिता) को पूर्ण रूप से परिभाषित करता है।<br>'Oversight' का अर्थ है कोई चूक या गलती।<br>'Hindsight' का अर्थ है किसी घटना के घटित होने के बाद उसे समझना।<br><br><b>Final Answer:</b> $foresight$"
+  },
+  {
+    "section": "Test of English Language and Comprehension1",
+    "topic": "Synonyms and Antonyms",
+    "difficulty": "Medium",
+    "q_en": "Select the most appropriate antonym of 'whimsical'.",
+    "q_hi": "Select the most appropriate antonym of 'whimsical'.",
+    "op_en": [
+      "ideal",
+      "real",
+      "dramatic",
+      "eccentric"
+    ],
+    "op_hi": [
+      "ideal",
+      "real",
+      "dramatic",
+      "eccentric"
+    ],
+    "ans": "2",
+    "solution": "<b>Solution (EN):</b><br>The word 'whimsical' means playfully quaint or fanciful, especially in an appealing and amusing way; not based on reason or reality. Its antonym is 'real' (practical or actual).<br>'Eccentric' is a synonym, meaning unconventional and slightly strange.<br><br><b>Solution (HI):</b><br>'Whimsical' शब्द का अर्थ है मनमौजी या काल्पनिक, जो वास्तविकता या तर्क पर आधारित न हो। इसका विलोम (antonym) 'real' (वास्तविक या व्यावहारिक) है।<br>'Eccentric' (सनकी) इसका समानार्थी है।<br><br><b>Final Answer:</b> $real$"
+  },
+  {
+    "section": "Test of English Language and Comprehension1",
+    "topic": "Idioms and Phrases",
+    "difficulty": "Easy",
+    "q_en": "Select the most appropriate meaning of the given proverb.<br>Too many cooks spoil the broth",
+    "q_hi": "Select the most appropriate meaning of the given proverb.<br>Too many cooks spoil the broth",
+    "op_en": [
+      "Too many people working on the same task can ruin it",
+      "Cooking is best done by a single person",
+      "Everyone should learn cooking",
+      "Broth tastes better with multiple ingredients"
+    ],
+    "op_hi": [
+      "Too many people working on the same task can ruin it",
+      "Cooking is best done by a single person",
+      "Everyone should learn cooking",
+      "Broth tastes better with multiple ingredients"
+    ],
+    "ans": "1",
+    "solution": "<b>Solution (EN):</b><br>The proverb 'Too many cooks spoil the broth' means that if too many people are involved in a task or activity, it will not be done well and might get ruined due to conflicting ideas.<br><br><b>Solution (HI):</b><br>कहावत 'Too many cooks spoil the broth' का अर्थ है कि यदि किसी कार्य में बहुत अधिक लोग शामिल होते हैं, तो वह काम ठीक से नहीं होता है या आपसी मतभेद के कारण बिगड़ जाता है। इसलिए, 'Too many people working on the same task can ruin it' सही अर्थ है।<br><br><b>Final Answer:</b> $Too many people working on the same task can ruin it$"
+  },
+  {
+    "section": "Test of English Language and Comprehension1",
+    "topic": "Idioms and Phrases",
+    "difficulty": "Medium",
+    "q_en": "Select the most appropriate meaning of the given proverb.<br><br>All roads lead to Rome",
+    "q_hi": "Select the most appropriate meaning of the given proverb.<br><br>All roads lead to Rome",
+    "op_en": [
+      "Appearances can be deceptive.",
+      "There are different ways to reach one objective.",
+      "Everything becomes easier with practice.",
+      "Patience is always rewarded."
+    ],
+    "op_hi": [
+      "Appearances can be deceptive.",
+      "There are different ways to reach one objective.",
+      "Everything becomes easier with practice.",
+      "Patience is always rewarded."
+    ],
+    "ans": "2",
+    "solution": "<b>Solution (EN):</b><br>The proverb 'All roads lead to Rome' means that there are many different methods, ways, or choices that will lead to the same result or goal.<br><br><b>Solution (HI):</b><br>कहावत 'All roads lead to Rome' का अर्थ है कि एक ही परिणाम या लक्ष्य तक पहुँचने के कई अलग-अलग तरीके या रास्ते होते हैं। अतः विकल्प 2 इसका सही अर्थ है।<br><br><b>Final Answer:</b> $There are different ways to reach one objective.$"
+  },
+  {
+    "section": "Test of English Language and Comprehension1",
+    "topic": "One Word Substitution",
+    "difficulty": "Medium",
+    "q_en": "In extreme old age, some men may exhibit foolish behaviour, often forgetting the wisdom they once possessed and succumbing to whims that surprise their loved ones.<br><br>What is the term for 'extreme old age, especially with some loss of mental ability'?",
+    "q_hi": "In extreme old age, some men may exhibit foolish behaviour, often forgetting the wisdom they once possessed and succumbing to whims that surprise their loved ones.<br><br>What is the term for 'extreme old age, especially with some loss of mental ability'?",
+    "op_en": [
+      "superannuation",
+      "dotage",
+      "imbecility",
+      "saliency"
+    ],
+    "op_hi": [
+      "superannuation",
+      "dotage",
+      "imbecility",
+      "saliency"
+    ],
+    "ans": "2",
+    "solution": "<b>Solution (EN):</b><br>The term for 'extreme old age, especially with some loss of mental ability' is 'dotage'.<br>'Superannuation' refers to regular pension or retirement.<br>'Imbecility' refers to stupidity or foolishness not necessarily linked to old age.<br>'Saliency' means being prominent or significant.<br><br><b>Solution (HI):</b><br>'Extreme old age, especially with some loss of mental ability' (अत्यधिक वृद्धावस्था, विशेषकर मानसिक क्षमता में कमी के साथ) के लिए सही शब्द 'dotage' (सठियाना) है।<br>'Superannuation' का अर्थ सेवानिवृत्ति या पेंशन है।<br>'Imbecility' का अर्थ मूर्खता है।<br>'Saliency' का अर्थ प्रमुखता है।<br><br><b>Final Answer:</b> $dotage$"
+  },
+  {
+    "section": "Test of English Language and Comprehension1",
+    "topic": "Reading Comprehension",
+    "difficulty": "Medium",
+    "q_en": "<b>Comprehension:</b><br>Read the following passage and answer the questions given below.<br><br>Homework plays a vital role in a child’s overall development, helping to build essential life skills that support academic and future career success. Regular homework improves discipline, time management, communication, and independent learning — all of which contribute to better grades and long-term achievements.<br>Repetition through homework deepens understanding and prepares students for practical, vocational tasks. It also builds time management, as students learn to meet deadlines, prioritize tasks, and solve problems on their own. Moreover, homework creates a bridge between teachers, students, and parents, offering insights into a child’s learning style and progress.<br>Completing assignments at home allows children to work in a familiar, stress-free environment, enhancing focus and retention. Homework also encourages the use of learning resources such as libraries and the internet, helping students build research and analytical skills.<br>Establishing a regular homework routine builds a revision habit, making exam preparation more effective and less stressful. For children who learn at a slower pace, homework offers extra time to grasp difficult concepts. This additional support at home can greatly boost understanding and performance in tests.<br>Ultimately, homework is not just a task — it’s an investment in a child’s academic journey and future success.<br>Identify the most suitable title for the passage.",
+    "q_hi": "<b>Comprehension:</b><br>Read the following passage and answer the questions given below.<br><br>Homework plays a vital role in a child’s overall development, helping to build essential life skills that support academic and future career success. Regular homework improves discipline, time management, communication, and independent learning — all of which contribute to better grades and long-term achievements.<br>Repetition through homework deepens understanding and prepares students for practical, vocational tasks. It also builds time management, as students learn to meet deadlines, prioritize tasks, and solve problems on their own. Moreover, homework creates a bridge between teachers, students, and parents, offering insights into a child’s learning style and progress.<br>Completing assignments at home allows children to work in a familiar, stress-free environment, enhancing focus and retention. Homework also encourages the use of learning resources such as libraries and the internet, helping students build research and analytical skills.<br>Establishing a regular homework routine builds a revision habit, making exam preparation more effective and less stressful. For children who learn at a slower pace, homework offers extra time to grasp difficult concepts. This additional support at home can greatly boost understanding and performance in tests.<br>Ultimately, homework is not just a task — it’s an investment in a child’s academic journey and future success.<br>Identify the most suitable title for the passage.",
+    "op_en": [
+      "How Parents Can Teach at Home",
+      "The Stress Caused by Homework on Children",
+      "Importance of Homework in a Child's Development",
+      "Why Classrooms Are Enough for Learning and Development"
+    ],
+    "op_hi": [
+      "How Parents Can Teach at Home",
+      "The Stress Caused by Homework on Children",
+      "Importance of Homework in a Child's Development",
+      "Why Classrooms Are Enough for Learning and Development"
+    ],
+    "ans": "3",
+    "solution": "<b>Solution (EN):</b><br>The passage clearly emphasizes how homework helps in building life skills, discipline, time management, and overall academic success. Thus, \"Importance of Homework in a Child's Development\" is the most apt title as it covers the central idea.<br><br><b>Solution (HI):</b><br>गद्यांश स्पष्ट रूप से इस बात पर जोर देता है कि होमवर्क कैसे जीवन कौशल, अनुशासन, समय प्रबंधन और शैक्षणिक सफलता के निर्माण में मदद करता है। इस प्रकार, \"Importance of Homework in a Child's Development\" (एक बच्चे के विकास में होमवर्क का महत्व) सबसे उपयुक्त शीर्षक है क्योंकि यह केंद्रीय विचार को शामिल करता है।<br><br><b>Final Answer:</b> $Importance of Homework in a Child's Development$"
+  },
+  {
+    "section": "Test of English Language and Comprehension1",
+    "topic": "Reading Comprehension",
+    "difficulty": "Medium",
+    "q_en": "<b>Comprehension:</b><br>Read the following passage and answer the questions given below.<br><br>Homework plays a vital role in a child’s overall development, helping to build essential life skills that support academic and future career success. Regular homework improves discipline, time management, communication, and independent learning — all of which contribute to better grades and long-term achievements.<br>Repetition through homework deepens understanding and prepares students for practical, vocational tasks. It also builds time management, as students learn to meet deadlines, prioritize tasks, and solve problems on their own. Moreover, homework creates a bridge between teachers, students, and parents, offering insights into a child’s learning style and progress.<br>Completing assignments at home allows children to work in a familiar, stress-free environment, enhancing focus and retention. Homework also encourages the use of learning resources such as libraries and the internet, helping students build research and analytical skills.<br>Establishing a regular homework routine builds a revision habit, making exam preparation more effective and less stressful. For children who learn at a slower pace, homework offers extra time to grasp difficult concepts. This additional support at home can greatly boost understanding and performance in tests.<br>Ultimately, homework is not just a task — it’s an investment in a child’s academic journey and future success.<br>Identify the central theme of the passage.",
+    "q_hi": "<b>Comprehension:</b><br>Read the following passage and answer the questions given below.<br><br>Homework plays a vital role in a child’s overall development, helping to build essential life skills that support academic and future career success. Regular homework improves discipline, time management, communication, and independent learning — all of which contribute to better grades and long-term achievements.<br>Repetition through homework deepens understanding and prepares students for practical, vocational tasks. It also builds time management, as students learn to meet deadlines, prioritize tasks, and solve problems on their own. Moreover, homework creates a bridge between teachers, students, and parents, offering insights into a child’s learning style and progress.<br>Completing assignments at home allows children to work in a familiar, stress-free environment, enhancing focus and retention. Homework also encourages the use of learning resources such as libraries and the internet, helping students build research and analytical skills.<br>Establishing a regular homework routine builds a revision habit, making exam preparation more effective and less stressful. For children who learn at a slower pace, homework offers extra time to grasp difficult concepts. This additional support at home can greatly boost understanding and performance in tests.<br>Ultimately, homework is not just a task — it’s an investment in a child’s academic journey and future success.<br>Identify the central theme of the passage.",
+    "op_en": [
+      "Children prefer studying in classrooms rather than at home.",
+      "Parents should do the homework with the children.",
+      "Homework is a burden for students as well as parents.",
+      "Homework supoorts academic and life skill development."
+    ],
+    "op_hi": [
+      "Children prefer studying in classrooms rather than at home.",
+      "Parents should do the homework with the children.",
+      "Homework is a burden for students as well as parents.",
+      "Homework supoorts academic and life skill development."
+    ],
+    "ans": "4",
+    "solution": "<b>Solution (EN):</b><br>The central theme of the passage revolves around the multifaceted benefits of homework. It highlights how homework builds time management, problem-solving abilities, and supports long-term academic achievements and life skills.<br><br><b>Solution (HI):</b><br>गद्यांश का केंद्रीय विषय होमवर्क के बहुआयामी लाभों के इर्द-गिर्द घूमता है। यह इस बात पर प्रकाश डालता है कि होमवर्क कैसे समय प्रबंधन, समस्या-समाधान क्षमताओं का निर्माण करता है और दीर्घकालिक शैक्षणिक उपलब्धियों और जीवन कौशल का समर्थन करता है।<br><br><b>Final Answer:</b> $Homework supoorts academic and life skill development.$"
+  },
+  {
+    "section": "Test of English Language and Comprehension1",
+    "topic": "Reading Comprehension",
+    "difficulty": "Medium",
+    "q_en": "<b>Comprehension:</b><br>Read the following passage and answer the questions given below.<br><br>Homework plays a vital role in a child’s overall development, helping to build essential life skills that support academic and future career success. Regular homework improves discipline, time management, communication, and independent learning — all of which contribute to better grades and long-term achievements.<br>Repetition through homework deepens understanding and prepares students for practical, vocational tasks. It also builds time management, as students learn to meet deadlines, prioritize tasks, and solve problems on their own. Moreover, homework creates a bridge between teachers, students, and parents, offering insights into a child’s learning style and progress.<br>Completing assignments at home allows children to work in a familiar, stress-free environment, enhancing focus and retention. Homework also encourages the use of learning resources such as libraries and the internet, helping students build research and analytical skills.<br>Establishing a regular homework routine builds a revision habit, making exam preparation more effective and less stressful. For children who learn at a slower pace, homework offers extra time to grasp difficult concepts. This additional support at home can greatly boost understanding and performance in tests.<br>Ultimately, homework is not just a task — it’s an investment in a child’s academic journey and future success.<br>Identify the inference drawn from the passage.",
+    "q_hi": "<b>Comprehension:</b><br>Read the following passage and answer the questions given below.<br><br>Homework plays a vital role in a child’s overall development, helping to build essential life skills that support academic and future career success. Regular homework improves discipline, time management, communication, and independent learning — all of which contribute to better grades and long-term achievements.<br>Repetition through homework deepens understanding and prepares students for practical, vocational tasks. It also builds time management, as students learn to meet deadlines, prioritize tasks, and solve problems on their own. Moreover, homework creates a bridge between teachers, students, and parents, offering insights into a child’s learning style and progress.<br>Completing assignments at home allows children to work in a familiar, stress-free environment, enhancing focus and retention. Homework also encourages the use of learning resources such as libraries and the internet, helping students build research and analytical skills.<br>Establishing a regular homework routine builds a revision habit, making exam preparation more effective and less stressful. For children who learn at a slower pace, homework offers extra time to grasp difficult concepts. This additional support at home can greatly boost understanding and performance in tests.<br>Ultimately, homework is not just a task — it’s an investment in a child’s academic journey and future success.<br>Identify the inference drawn from the passage.",
+    "op_en": [
+      "Classwork is more important than homework.",
+      "Homework is unnecessary and a burden for slow learners.",
+      "A strong homework routine can lead to better exam performance.",
+      "Only parents benefit from homework."
+    ],
+    "op_hi": [
+      "Classwork is more important than homework.",
+      "Homework is unnecessary and a burden for slow learners.",
+      "A strong homework routine can lead to better exam performance.",
+      "Only parents benefit from homework."
+    ],
+    "ans": "3",
+    "solution": "<b>Solution (EN):</b><br>The passage explicitly states, \"Establishing a regular homework routine builds a revision habit, making exam preparation more effective and less stressful.\" This directly supports the inference that a strong homework routine improves exam performance.<br><br><b>Solution (HI):</b><br>गद्यांश स्पष्ट रूप से बताता है, \"Establishing a regular homework routine builds a revision habit, making exam preparation more effective and less stressful.\" यह सीधे तौर पर इस निष्कर्ष का समर्थन करता है कि एक मजबूत होमवर्क रूटीन परीक्षा के प्रदर्शन को बेहतर बनाता है।<br><br><b>Final Answer:</b> $A strong homework routine can lead to better exam performance.$"
+  },
+  {
+    "section": "Test of English Language and Comprehension1",
+    "topic": "Reading Comprehension",
+    "difficulty": "Easy",
+    "q_en": "<b>Comprehension:</b><br>Read the following passage and answer the questions given below.<br><br>Homework plays a vital role in a child’s overall development, helping to build essential life skills that support academic and future career success. Regular homework improves discipline, time management, communication, and independent learning — all of which contribute to better grades and long-term achievements.<br>Repetition through homework deepens understanding and prepares students for practical, vocational tasks. It also builds time management, as students learn to meet deadlines, prioritize tasks, and solve problems on their own. Moreover, homework creates a bridge between teachers, students, and parents, offering insights into a child’s learning style and progress.<br>Completing assignments at home allows children to work in a familiar, stress-free environment, enhancing focus and retention. Homework also encourages the use of learning resources such as libraries and the internet, helping students build research and analytical skills.<br>Establishing a regular homework routine builds a revision habit, making exam preparation more effective and less stressful. For children who learn at a slower pace, homework offers extra time to grasp difficult concepts. This additional support at home can greatly boost understanding and performance in tests.<br>Ultimately, homework is not just a task — it’s an investment in a child’s academic journey and future success.<br>Identify the tone of the passage.",
+    "q_hi": "<b>Comprehension:</b><br>Read the following passage and answer the questions given below.<br><br>Homework plays a vital role in a child’s overall development, helping to build essential life skills that support academic and future career success. Regular homework improves discipline, time management, communication, and independent learning — all of which contribute to better grades and long-term achievements.<br>Repetition through homework deepens understanding and prepares students for practical, vocational tasks. It also builds time management, as students learn to meet deadlines, prioritize tasks, and solve problems on their own. Moreover, homework creates a bridge between teachers, students, and parents, offering insights into a child’s learning style and progress.<br>Completing assignments at home allows children to work in a familiar, stress-free environment, enhancing focus and retention. Homework also encourages the use of learning resources such as libraries and the internet, helping students build research and analytical skills.<br>Establishing a regular homework routine builds a revision habit, making exam preparation more effective and less stressful. For children who learn at a slower pace, homework offers extra time to grasp difficult concepts. This additional support at home can greatly boost understanding and performance in tests.<br>Ultimately, homework is not just a task — it’s an investment in a child’s academic journey and future success.<br>Identify the tone of the passage.",
+    "op_en": [
+      "Humorous and casual",
+      "Neutral and detached",
+      "Critical and sarcastic",
+      "Supportive and informative"
+    ],
+    "op_hi": [
+      "Humorous and casual",
+      "Neutral and detached",
+      "Critical and sarcastic",
+      "Supportive and informative"
+    ],
+    "ans": "4",
+    "solution": "<b>Solution (EN):</b><br>The author highlights the positive aspects of homework and explains its various benefits in detail, maintaining an encouraging, supportive, and informative tone throughout the passage.<br><br><b>Solution (HI):</b><br>लेखक होमवर्क के सकारात्मक पहलुओं पर प्रकाश डालता है और इसके विभिन्न लाभों को विस्तार से समझाता है, जिससे पूरे गद्यांश में एक उत्साहजनक, सहायक (supportive) और सूचनात्मक (informative) लहजा बना रहता है।<br><br><b>Final Answer:</b> $Supportive and informative$"
+  },
+  {
+    "section": "Test of English Language and Comprehension1",
+    "topic": "Reading Comprehension",
+    "difficulty": "Medium",
+    "q_en": "<b>Comprehension:</b><br>Read the following passage and answer the questions given below.<br><br>Homework plays a vital role in a child’s overall development, helping to build essential life skills that support academic and future career success. Regular homework improves discipline, time management, communication, and independent learning — all of which contribute to better grades and long-term achievements.<br>Repetition through homework deepens understanding and prepares students for practical, vocational tasks. It also builds time management, as students learn to meet deadlines, prioritize tasks, and solve problems on their own. Moreover, homework creates a bridge between teachers, students, and parents, offering insights into a child’s learning style and progress.<br>Completing assignments at home allows children to work in a familiar, stress-free environment, enhancing focus and retention. Homework also encourages the use of learning resources such as libraries and the internet, helping students build research and analytical skills.<br>Establishing a regular homework routine builds a revision habit, making exam preparation more effective and less stressful. For children who learn at a slower pace, homework offers extra time to grasp difficult concepts. This additional support at home can greatly boost understanding and performance in tests.<br>Ultimately, homework is not just a task — it’s an investment in a child’s academic journey and future success.<br>Identify the antonym of the word ‘prioritize’ (as used in the passage).",
+    "q_hi": "<b>Comprehension:</b><br>Read the following passage and answer the questions given below.<br><br>Homework plays a vital role in a child’s overall development, helping to build essential life skills that support academic and future career success. Regular homework improves discipline, time management, communication, and independent learning — all of which contribute to better grades and long-term achievements.<br>Repetition through homework deepens understanding and prepares students for practical, vocational tasks. It also builds time management, as students learn to meet deadlines, prioritize tasks, and solve problems on their own. Moreover, homework creates a bridge between teachers, students, and parents, offering insights into a child’s learning style and progress.<br>Completing assignments at home allows children to work in a familiar, stress-free environment, enhancing focus and retention. Homework also encourages the use of learning resources such as libraries and the internet, helping students build research and analytical skills.<br>Establishing a regular homework routine builds a revision habit, making exam preparation more effective and less stressful. For children who learn at a slower pace, homework offers extra time to grasp difficult concepts. This additional support at home can greatly boost understanding and performance in tests.<br>Ultimately, homework is not just a task — it’s an investment in a child’s academic journey and future success.<br>Identify the antonym of the word ‘prioritize’ (as used in the passage).",
+    "op_en": [
+      "Arrange",
+      "Neglect",
+      "Delay",
+      "Plan"
+    ],
+    "op_hi": [
+      "Arrange",
+      "Neglect",
+      "Delay",
+      "Plan"
+    ],
+    "ans": "2",
+    "solution": "<b>Solution (EN):</b><br>'Prioritize' means to treat something as being more important than other things and giving it special attention. 'Neglect' means to fail to care for properly or ignore, making it the correct antonym.<br><br><b>Solution (HI):</b><br>'Prioritize' (प्राथमिकता देना) का अर्थ है किसी चीज़ को अन्य चीज़ों की तुलना में अधिक महत्वपूर्ण मानना और उस पर विशेष ध्यान देना। 'Neglect' (उपेक्षा करना या अनदेखा करना) का अर्थ है ठीक से देखभाल करने में विफल रहना, जो कि इसका सही विलोम (antonym) है।<br><br><b>Final Answer:</b> $Neglect$"
+  }
+]
