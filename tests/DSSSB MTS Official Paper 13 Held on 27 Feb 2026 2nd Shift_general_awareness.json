@@ -1,0 +1,422 @@
+[
+  {
+    "section": "General Awareness",
+    "topic": "Modern Indian History",
+    "difficulty": "Moderate",
+    "q_en": "Who among the following established the Servants of India Society in 1905?",
+    "q_hi": "निम्नलिखित में से किसने 1905 में सर्वेंट्स ऑफ़ इंडिया सोसाइटी की स्थापना की थी?",
+    "op_en": [
+      "Bal Gangadhar Tilak",
+      "Gopal Krishna Gokhale",
+      "Dadabhai Naoroji",
+      "Bipin Chandra Pal"
+    ],
+    "op_hi": [
+      "बाल गंगाधर तिलक",
+      "गोपाल कृष्ण गोखले",
+      "दादाभाई नौरोजी",
+      "बिपिन चंद्र पाल"
+    ],
+    "ans": "2",
+    "solution": "<b>Solution (EN):</b><br>The Servants of India Society was founded by Gopal Krishna Gokhale in 1905 in Pune, Maharashtra. Its aim was to unite and train Indians of different ethnicities and religions in welfare work and to build a dedicated group of workers for the national cause.<br><br><b>Solution (HI):</b><br>सर्वेंट्स ऑफ़ इंडिया सोसाइटी की स्थापना गोपाल कृष्ण गोखले ने 1905 में पुणे, महाराष्ट्र में की थी। इसका उद्देश्य कल्याणकारी कार्यों में विभिन्न जातियों और धर्मों के भारतीयों को एकजुट करना और प्रशिक्षित करना तथा राष्ट्रीय हित के लिए समर्पित कार्यकर्ताओं का एक समूह तैयार करना था।<br><br><b>Short Trick:</b><br>Gokhale served India (Servants of India) in 1905.<br><br><b>Final Answer:</b> $2$"
+  },
+  {
+    "section": "General Awareness",
+    "topic": "Economics",
+    "difficulty": "Moderate",
+    "q_en": "Which of the following is included in GDP at market prices but excluded in GDP at factor cost?",
+    "q_hi": "निम्नलिखित में से किसे बाजार मूल्य पर जीडीपी (GDP) में शामिल किया जाता है लेकिन साधन लागत (factor cost) पर जीडीपी में शामिल नहीं किया जाता है?",
+    "op_en": [
+      "Wages to workers",
+      "Interest to banks",
+      "Indirect taxes",
+      "Rent on land"
+    ],
+    "op_hi": [
+      "श्रमिकों का वेतन",
+      "बैंकों को ब्याज",
+      "अप्रत्यक्ष कर",
+      "भूमि का लगान"
+    ],
+    "ans": "3",
+    "solution": "<b>Solution (EN):</b><br>GDP at market prices includes indirect taxes and excludes subsidies. GDP at factor cost is the sum of all factors of production (rent, wages, interest, profit) and excludes indirect taxes.<br><br><b>Solution (HI):</b><br>बाजार मूल्य पर जीडीपी में अप्रत्यक्ष कर शामिल होते हैं और सब्सिडी को छोड़ दिया जाता है। साधन लागत पर जीडीपी उत्पादन के सभी साधनों (लगान, मजदूरी, ब्याज, लाभ) का योग है और इसमें अप्रत्यक्ष कर शामिल नहीं होते हैं।<br><br><b>Short Trick:</b><br>Market Price = Factor Cost + Indirect Taxes - Subsidies. Therefore, Indirect Taxes are present in Market Price but not in Factor Cost.<br><br><b>Final Answer:</b> $3$"
+  },
+  {
+    "section": "General Awareness",
+    "topic": "Current Affairs - Sports",
+    "difficulty": "Moderate",
+    "q_en": "Which major international sporting event officially commenced in New Delhi in September 2025?",
+    "q_hi": "सितंबर 2025 में नई दिल्ली में आधिकारिक तौर पर कौन सा प्रमुख अंतरराष्ट्रीय खेल आयोजन शुरू हुआ?",
+    "op_en": [
+      "World Para Athletics Championships 2025",
+      "Asian Para Games 2025",
+      "Summer Universiade 2025",
+      "South Asian Games 2025"
+    ],
+    "op_hi": [
+      "विश्व पैरा एथलेटिक्स चैंपियनशिप 2025",
+      "एशियाई पैरा खेल 2025",
+      "समर यूनिवर्सियाड 2025",
+      "दक्षिण एशियाई खेल 2025"
+    ],
+    "ans": "1",
+    "solution": "<b>Solution (EN):</b><br>The World Para Athletics Championships 2025 officially commenced in New Delhi. It is a major international parasports event that brings together top para-athletes from across the globe.<br><br><b>Solution (HI):</b><br>विश्व पैरा एथलेटिक्स चैंपियनशिप 2025 आधिकारिक तौर पर नई दिल्ली में शुरू हुई। यह एक प्रमुख अंतरराष्ट्रीय पैरास्पोर्ट्स प्रतियोगिता है जो दुनिया भर के शीर्ष पैरा-एथलीटों को एक साथ लाती है।<br><br><b>Final Answer:</b> $1$"
+  },
+  {
+    "section": "General Awareness",
+    "topic": "Microeconomics",
+    "difficulty": "Easy",
+    "q_en": "The cost of producing one additional unit of output is called:",
+    "q_hi": "उत्पादन की एक अतिरिक्त इकाई के उत्पादन की लागत को क्या कहा जाता है?",
+    "op_en": [
+      "Fixed cost",
+      "Average cost",
+      "Marginal cost",
+      "Total cost"
+    ],
+    "op_hi": [
+      "निश्चित लागत",
+      "औसत लागत",
+      "सीमांत लागत",
+      "कुल लागत"
+    ],
+    "ans": "3",
+    "solution": "<b>Solution (EN):</b><br>Marginal cost is the addition to the total cost when one more unit of output is produced. Fixed costs do not change with output, and average cost is the total cost divided by the number of units.<br><br><b>Solution (HI):</b><br>सीमांत लागत कुल लागत में वह वृद्धि है जो उत्पादन की एक और इकाई का उत्पादन करने पर होती है। निश्चित लागत उत्पादन के साथ नहीं बदलती है, और औसत लागत कुल लागत को इकाइयों की संख्या से विभाजित करने पर प्राप्त होती है।<br><br><b>Final Answer:</b> $3$"
+  },
+  {
+    "section": "General Awareness",
+    "topic": "Current Affairs",
+    "difficulty": "Moderate",
+    "q_en": "Who inaugurated and addressed the participants at the Annual Sports Week 2026 at the Commonwealth Games Sports (CWG) complex in Delhi?",
+    "q_hi": "दिल्ली में राष्ट्रमंडल खेल (CWG) खेल परिसर में वार्षिक खेल सप्ताह 2026 के प्रतिभागियों का उद्घाटन और संबोधन किसने किया?",
+    "op_en": [
+      "Shri Rajiv Kumar",
+      "Shri Sushil Chandra",
+      "Shri Sunil Arora",
+      "Shri Gyanesh Kumar"
+    ],
+    "op_hi": [
+      "श्री राजीव कुमार",
+      "श्री सुशील चंद्रा",
+      "श्री सुनील अरोड़ा",
+      "श्री ज्ञानेश कुमार"
+    ],
+    "ans": "4",
+    "solution": "<b>Solution (EN):</b><br>Shri Gyanesh Kumar inaugurated and addressed the participants at the Annual Sports Week 2026 held at the Commonwealth Games Sports complex in New Delhi.<br><br><b>Solution (HI):</b><br>श्री ज्ञानेश कुमार ने नई दिल्ली में राष्ट्रमंडल खेल (CWG) खेल परिसर में आयोजित वार्षिक खेल सप्ताह 2026 के प्रतिभागियों का उद्घाटन और संबोधन किया।<br><br><b>Final Answer:</b> $4$"
+  },
+  {
+    "section": "General Awareness",
+    "topic": "Current Affairs - Economy",
+    "difficulty": "Moderate",
+    "q_en": "GST rationalization discussions in 2025 sought to merge slabs primarily to improve which of the following indicators?",
+    "q_hi": "2025 में जीएसटी (GST) युक्तिकरण चर्चाओं में मुख्य रूप से निम्नलिखित में से किस संकेतक को बेहतर बनाने के लिए स्लैब के विलय की मांग की गई?",
+    "op_en": [
+      "Literacy rate",
+      "Agricultural productivity",
+      "Defence exports",
+      "Ease of Doing Business"
+    ],
+    "op_hi": [
+      "साक्षरता दर",
+      "कृषि उत्पादकता",
+      "रक्षा निर्यात",
+      "व्यापार करने में आसानी (Ease of Doing Business)"
+    ],
+    "ans": "4",
+    "solution": "<b>Solution (EN):</b><br>GST rationalization, which involves merging tax slabs and simplifying the tax structure, primarily aims to improve the 'Ease of Doing Business' by reducing compliance burdens and operational complexities for companies.<br><br><b>Solution (HI):</b><br>जीएसटी युक्तिकरण, जिसमें कर स्लैब का विलय और कर संरचना को सरल बनाना शामिल है, का मुख्य उद्देश्य कंपनियों पर अनुपालन के बोझ और परिचालन जटिलताओं को कम करके 'व्यापार करने में आसानी' (Ease of Doing Business) में सुधार करना है।<br><br><b>Final Answer:</b> $4$"
+  },
+  {
+    "section": "General Awareness",
+    "topic": "Current Affairs - Sports",
+    "difficulty": "Moderate",
+    "q_en": "Who clinched the gold medal in the Men’s 10m Air Rifle final at the 68th National Shooting Championship in 2025?",
+    "q_hi": "2025 में 68वीं राष्ट्रीय शूटिंग चैंपियनशिप में पुरुषों की 10 मीटर एयर राइफल के फाइनल में किसने स्वर्ण पदक जीता?",
+    "op_en": [
+      "Kiran Ankush Jadhav",
+      "Abhishek Verma",
+      "Divyansh Singh Panwar",
+      "Saurabh Chaudhary"
+    ],
+    "op_hi": [
+      "किरण अंकुश जाधव",
+      "अभिषेक वर्मा",
+      "दिव्यांश सिंह पंवार",
+      "सौरभ चौधरी"
+    ],
+    "ans": "1",
+    "solution": "<b>Solution (EN):</b><br>Kiran Ankush Jadhav clinched the gold medal in the Men’s 10m Air Rifle event at the 68th National Shooting Championship held in 2025, outperforming top competitors.<br><br><b>Solution (HI):</b><br>किरण अंकुश जाधव ने 2025 में आयोजित 68वीं राष्ट्रीय शूटिंग चैंपियनशिप में पुरुषों की 10 मीटर एयर राइफल स्पर्धा में शीर्ष प्रतिस्पर्धियों को पछाड़ते हुए स्वर्ण पदक जीता।<br><br><b>Final Answer:</b> $1$"
+  },
+  {
+    "section": "General Awareness",
+    "topic": "Modern Indian History",
+    "difficulty": "Easy",
+    "q_en": "What was the immediate cause of the Revolt of 1857?",
+    "q_hi": "1857 के विद्रोह का तात्कालिक कारण क्या था?",
+    "op_en": [
+      "Use of greased cartridges in Enfield rifles",
+      "Land reforms by the British",
+      "High taxation policies",
+      "Introduction of English education"
+    ],
+    "op_hi": [
+      "एनफील्ड राइफलों में चर्बी वाले कारतूसों का उपयोग",
+      "अंग्रेजों द्वारा भूमि सुधार",
+      "उच्च कराधान नीतियां",
+      "अंग्रेजी शिक्षा की शुरुआत"
+    ],
+    "ans": "1",
+    "solution": "<b>Solution (EN):</b><br>The immediate cause of the Revolt of 1857 was the introduction of the new Enfield rifle. There was a widespread rumor that the cartridges for this rifle were greased with cow and pig fat, which deeply offended the religious sentiments of both Hindu and Muslim sepoys.<br><br><b>Solution (HI):</b><br>1857 के विद्रोह का तात्कालिक कारण नई एनफील्ड राइफल की शुरुआत थी। यह अफवाह फैल गई थी कि इस राइफल के कारतूसों में गाय और सुअर की चर्बी लगी हुई थी, जिससे हिंदू और मुस्लिम दोनों सिपाहियों की धार्मिक भावनाओं को गहरी ठेस पहुंची।<br><br><b>Final Answer:</b> $1$"
+  },
+  {
+    "section": "General Awareness",
+    "topic": "Government Schemes",
+    "difficulty": "Moderate",
+    "q_en": "When was the Jal Jeevan Mission launched to provide safe and ample drinking water to all rural households?",
+    "q_hi": "सभी ग्रामीण परिवारों को सुरक्षित और पर्याप्त पेयजल उपलब्ध कराने के लिए जल जीवन मिशन कब शुरू किया गया था?",
+    "op_en": [
+      "2021",
+      "2019",
+      "2022",
+      "2020"
+    ],
+    "op_hi": [
+      "2021",
+      "2019",
+      "2022",
+      "2020"
+    ],
+    "ans": "2",
+    "solution": "<b>Solution (EN):</b><br>The Jal Jeevan Mission (JJM) was launched by the Prime Minister on 15th August 2019, with the goal of providing functional household tap connections (FHTC) to every rural household by the year 2024.<br><br><b>Solution (HI):</b><br>जल जीवन मिशन (JJM) 15 अगस्त 2019 को प्रधान मंत्री द्वारा शुरू किया गया था, जिसका लक्ष्य वर्ष 2024 तक प्रत्येक ग्रामीण परिवार को चालू घरेलू नल कनेक्शन (FHTC) प्रदान करना था।<br><br><b>Final Answer:</b> $2$"
+  },
+  {
+    "section": "General Awareness",
+    "topic": "Art and Culture",
+    "difficulty": "Moderate",
+    "q_en": "How many total classical languages are there in India after the updation in 2024?",
+    "q_hi": "2024 के अद्यतनीकरण के बाद भारत में कुल कितनी शास्त्रीय भाषाएँ हैं?",
+    "op_en": [
+      "Eight",
+      "Thirteen",
+      "Four",
+      "Eleven"
+    ],
+    "op_hi": [
+      "आठ",
+      "तेरह",
+      "चार",
+      "ग्यारह"
+    ],
+    "ans": "4",
+    "solution": "<b>Solution (EN):</b><br>In October 2024, the Union Cabinet approved classical language status for five more languages: Marathi, Pali, Prakrit, Assamese, and Bengali. This addition brought the total number of classical languages in India from six to eleven.<br><br><b>Solution (HI):</b><br>अक्टूबर 2024 में, केंद्रीय मंत्रिमंडल ने पांच और भाषाओं: मराठी, पाली, प्राकृत, असमिया और बंगाली के लिए शास्त्रीय भाषा की स्थिति को मंजूरी दी। इस जुड़ाव से भारत में शास्त्रीय भाषाओं की कुल संख्या छह से बढ़कर ग्यारह हो गई।<br><br><b>Final Answer:</b> $4$"
+  },
+  {
+    "section": "General Awareness",
+    "topic": "Modern Indian History",
+    "difficulty": "Moderate",
+    "q_en": "Which of the following best reflects the ideological shift during the extremist phase (1905–1919) in India?",
+    "q_hi": "निम्नलिखित में से कौन भारत में उग्रवादी चरण (1905-1919) के दौरान वैचारिक बदलाव को सबसे अच्छी तरह से दर्शाता है?",
+    "op_en": [
+      "From Hindu nationalism to secular politics",
+      "From non-cooperation to violent rebellion",
+      "From Indian unity to religious polarization",
+      "From faith in British reforms to belief in people’s power"
+    ],
+    "op_hi": [
+      "हिंदू राष्ट्रवाद से धर्मनिरपेक्ष राजनीति की ओर",
+      "असहयोग से हिंसक विद्रोह की ओर",
+      "भारतीय एकता से धार्मिक ध्रुवीकरण की ओर",
+      "ब्रिटिश सुधारों में विश्वास से जनता की शक्ति में विश्वास की ओर"
+    ],
+    "ans": "4",
+    "solution": "<b>Solution (EN):</b><br>During the extremist phase (1905–1919), leaders like Lal-Bal-Pal and Aurobindo Ghosh rejected the moderate belief in the benevolence and justice of British rule. Instead, they believed in the capacity of the Indian masses and advocated for direct action and self-reliance (Swadeshi and Boycott). Thus, the ideological shift was from faith in British reforms to a strong belief in people's power.<br><br><b>Solution (HI):</b><br>उग्रवादी चरण (1905-1919) के दौरान, लाल-बाल-पाल और अरबिंदो घोष जैसे नेताओं ने ब्रिटिश शासन की भलाई और न्याय में उदारवादी विश्वास को खारिज कर दिया। इसके बजाय, वे भारतीय जनता की क्षमता में विश्वास करते थे और प्रत्यक्ष कार्रवाई और आत्मनिर्भरता (स्वदेशी और बहिष्कार) की वकालत करते थे। इस प्रकार, वैचारिक बदलाव ब्रिटिश सुधारों में विश्वास से हटकर जनता की शक्ति में दृढ़ विश्वास की ओर था।<br><br><b>Short Trick:</b><br>Extremists = Action and People's power. Moderates = Petitions and faith in British justice.<br><br><b>Final Answer:</b> $4$"
+  },
+  {
+    "section": "General Awareness",
+    "topic": "Economy / Agriculture",
+    "difficulty": "Moderate",
+    "q_en": "According to the Economic Survey of India 2024-2025, which of the following states of India is the largest producer of sunflower in India?",
+    "q_hi": "भारत के आर्थिक सर्वेक्षण 2024-2025 के अनुसार, भारत का निम्नलिखित में से कौन सा राज्य भारत में सूरजमुखी का सबसे बड़ा उत्पादक है?",
+    "op_en": [
+      "Haryana",
+      "Karnataka",
+      "Maharashtra",
+      "Punjab"
+    ],
+    "op_hi": [
+      "हरियाणा",
+      "कर्नाटक",
+      "महाराष्ट्र",
+      "पंजाब"
+    ],
+    "ans": "2",
+    "solution": "<b>Solution (EN):</b><br>According to the Economic Survey and recent agricultural data, Karnataka is consistently the largest producer of sunflower in India, accounting for a major share of the country's total production. It is followed by states like Odisha and Maharashtra.<br><br><b>Solution (HI):</b><br>आर्थिक सर्वेक्षण और हालिया कृषि आंकड़ों के अनुसार, कर्नाटक लगातार भारत में सूरजमुखी का सबसे बड़ा उत्पादक है, जो देश के कुल उत्पादन का एक बड़ा हिस्सा है। इसके बाद ओडिशा और महाराष्ट्र जैसे राज्यों का स्थान आता है।<br><br><b>Short Trick:</b><br>Karn (Sun's son in Mahabharata) $\\Rightarrow$ Karnataka is the largest producer of Sunflower.<br><br><b>Final Answer:</b> $2$"
+  },
+  {
+    "section": "General Awareness",
+    "topic": "Modern Indian History",
+    "difficulty": "Easy",
+    "q_en": "Who among the following was elected as the President of Indian National Congress in 1917?",
+    "q_hi": "निम्नलिखित में से किसे 1917 में भारतीय राष्ट्रीय कांग्रेस के अध्यक्ष के रूप में चुना गया था?",
+    "op_en": [
+      "Madam Bhikaji Cama",
+      "Vijaya Lakshmi Pandit",
+      "Annie Besant",
+      "Sarojini Naidu"
+    ],
+    "op_hi": [
+      "मैडम भीकाजी कामा",
+      "विजया लक्ष्मी पंडित",
+      "एनी बेसेंट",
+      "सरोजिनी नायडू"
+    ],
+    "ans": "3",
+    "solution": "<b>Solution (EN):</b><br>Annie Besant was elected as the President of the Indian National Congress in 1917 at the Calcutta session. She made history by becoming the first woman President of the Indian National Congress.<br><br><b>Solution (HI):</b><br>एनी बेसेंट को 1917 में कलकत्ता अधिवेशन में भारतीय राष्ट्रीय कांग्रेस के अध्यक्ष के रूप में चुना गया था। उन्होंने भारतीय राष्ट्रीय कांग्रेस की पहली महिला अध्यक्ष बनकर इतिहास रच दिया।<br><br><b>Short Trick:</b><br>1917 = First Woman President (Annie Besant). 1925 = First Indian Woman President (Sarojini Naidu).<br><br><b>Final Answer:</b> $3$"
+  },
+  {
+    "section": "General Awareness",
+    "topic": "Economy / Agriculture",
+    "difficulty": "Easy",
+    "q_en": "According to the Economic Survey of India 2024-2025, which of the following states of India is the largest producer of groundnuts in India?",
+    "q_hi": "भारत के आर्थिक सर्वेक्षण 2024-2025 के अनुसार, भारत का निम्नलिखित में से कौन सा राज्य भारत में मूंगफली का सबसे बड़ा उत्पादक है?",
+    "op_en": [
+      "Kerala",
+      "Tamil Nadu",
+      "Rajasthan",
+      "Gujarat"
+    ],
+    "op_hi": [
+      "केरल",
+      "तमिलनाडु",
+      "राजस्थान",
+      "गुजरात"
+    ],
+    "ans": "4",
+    "solution": "<b>Solution (EN):</b><br>Gujarat is consistently the largest producer of groundnuts in India. The state's sandy loam soil and favorable agro-climatic conditions in regions like Saurashtra make it highly suitable for groundnut cultivation.<br><br><b>Solution (HI):</b><br>गुजरात लगातार भारत में मूंगफली का सबसे बड़ा उत्पादक है। सौराष्ट्र जैसे क्षेत्रों में राज्य की रेतीली दोमट मिट्टी और अनुकूल कृषि-जलवायु परिस्थितियाँ इसे मूंगफली की खेती के लिए अत्यधिक उपयुक्त बनाती हैं।<br><br><b>Short Trick:</b><br>'G' for Groundnut = 'G' for Gujarat.<br><br><b>Final Answer:</b> $4$"
+  },
+  {
+    "section": "General Awareness",
+    "topic": "Current Affairs - Sports",
+    "difficulty": "Hard",
+    "q_en": "In May 2025, who won bronze medals for India in the individual recurve events at the Archery World Cup Stage 2 in Shanghai?",
+    "q_hi": "मई 2025 में, शंघाई में तीरंदाजी विश्व कप स्टेज 2 में व्यक्तिगत रिकर्व स्पर्धाओं में भारत के लिए कांस्य पदक किसने जीते?",
+    "op_en": [
+      "Atanu Das and Ankita Bhakat",
+      "Tarundeep Rai and Bhajan Kaur",
+      "Dhiraj Bommadevara and Simranjeet Kaur",
+      "Deepika Kumari and Parth Salunkhe"
+    ],
+    "op_hi": [
+      "अतानु दास और अंकिता भकत",
+      "तरुणदीप राय और भजन कौर",
+      "धीरज बोम्मादेवरा और सिमरनजीत कौर",
+      "दीपिका कुमारी और पार्थ सालुंखे"
+    ],
+    "ans": "4",
+    "solution": "<b>Solution (EN):</b><br>At the Archery World Cup Stage 2 held in Shanghai in May 2025, veteran Indian archer Deepika Kumari and youngster Parth Salunkhe performed brilliantly to win bronze medals in their respective individual recurve events.<br><br><b>Solution (HI):</b><br>मई 2025 में शंघाई में आयोजित तीरंदाजी विश्व कप स्टेज 2 में, अनुभवी भारतीय तीरंदाज दीपिका कुमारी और युवा पार्थ सालुंखे ने शानदार प्रदर्शन करते हुए अपनी-अपनी व्यक्तिगत रिकर्व स्पर्धाओं में कांस्य पदक जीते।<br><br><b>Short Trick:</b><br>Remember the duo: Deepika and Parth won Bronze in Shanghai 2025.<br><br><b>Final Answer:</b> $4$"
+  },
+  {
+    "section": "General Awareness",
+    "topic": "Current Affairs - Science & Technology",
+    "difficulty": "Hard",
+    "q_en": "In July 2025, researchers from the Indian Institute of Technology Guwahati (IIT-G) developed a sustainable alternative to plastics by fusing which bamboo species with biodegradable polymers?",
+    "q_hi": "जुलाई 2025 में, भारतीय प्रौद्योगिकी संस्थान गुवाहाटी (IIT-G) के शोधकर्ताओं ने किस बांस की प्रजाति को बायोडिग्रेडेबल पॉलिमर के साथ मिलाकर प्लास्टिक का एक स्थायी विकल्प विकसित किया?",
+    "op_en": [
+      "Bambusa vulgaris",
+      "Dendrocalamus giganteus",
+      "Bambusa tulda",
+      "Thyrsostachys siamensis"
+    ],
+    "op_hi": [
+      "बंबुसा वल्गेरिस",
+      "डेंड्रोकैलेमस गिगेंटियस",
+      "बंबुसा तुलदा",
+      "थायरोस्टैचिस सियामेंसिस"
+    ],
+    "ans": "3",
+    "solution": "<b>Solution (EN):</b><br>Researchers at IIT Guwahati successfully developed a sustainable and eco-friendly alternative to single-use plastics by fusing <i>Bambusa tulda</i> (a bamboo species widely found in Northeast India) with biodegradable polymers.<br><br><b>Solution (HI):</b><br>IIT गुवाहाटी के शोधकर्ताओं ने बायोडिग्रेडेबल पॉलिमर के साथ <i>बंबुसा तुलदा</i> (पूर्वोत्तर भारत में व्यापक रूप से पाई जाने वाली बांस की एक प्रजाति) को मिलाकर सिंगल-यूज़ प्लास्टिक का एक स्थायी और पर्यावरण के अनुकूल विकल्प सफलतापूर्वक विकसित किया।<br><br><b>Short Trick:</b><br>IIT Guwahati (Assam) utilized a native bamboo species: <i>Bambusa tulda</i>.<br><br><b>Final Answer:</b> $3$"
+  },
+  {
+    "section": "General Awareness",
+    "topic": "Current Affairs - Science & Technology",
+    "difficulty": "Hard",
+    "q_en": "India's first-ever indigenously manufactured Polar Research Vessel (PRV) is being developed through a strategic partnership between which entities?",
+    "q_hi": "भारत का पहला स्वदेशी रूप से निर्मित ध्रुवीय अनुसंधान पोत (PRV) किन संस्थाओं के बीच रणनीतिक साझेदारी के माध्यम से विकसित किया जा रहा है?",
+    "op_en": [
+      "Mazagon Dock Shipbuilders Limited and Fincantieri",
+      "Bharati Defense and Infrastructure Limited and Siemens",
+      "Cochin Shipyard Limited and Lockheed Martin",
+      "Garden Reach Shipbuilders and Engineers Ltd. (GRSE) and Norway’s Kongsberg"
+    ],
+    "op_hi": [
+      "मझगांव डॉक शिपबिल्डर्स लिमिटेड और फिनकैंटियरी",
+      "भारती डिफेंस एंड इंफ्रास्ट्रक्चर लिमिटेड और सीमेंस",
+      "कोचीन शिपयार्ड लिमिटेड और लॉकहीड मार्टिन",
+      "गार्डन रीच शिपबिल्डर्स एंड इंजीनियर्स लिमिटेड (GRSE) और नॉर्वे का कोंग्सबर्ग"
+    ],
+    "ans": "4",
+    "solution": "<b>Solution (EN):</b><br>India's first-ever indigenously built Polar Research Vessel (PRV) is being developed by Kolkata-based Garden Reach Shipbuilders and Engineers Ltd. (GRSE) in a strategic collaboration with Norway's Kongsberg, combining Indian shipbuilding capabilities with advanced polar maritime technology.<br><br><b>Solution (HI):</b><br>भारत का पहला स्वदेशी रूप से निर्मित ध्रुवीय अनुसंधान पोत (PRV) कोलकाता स्थित गार्डन रीच शिपबिल्डर्स एंड इंजीनियर्स लिमिटेड (GRSE) द्वारा नॉर्वे के कोंग्सबर्ग के साथ रणनीतिक सहयोग में विकसित किया जा रहा है, जो भारतीय जहाज निर्माण क्षमताओं को उन्नत ध्रुवीय समुद्री तकनीक के साथ जोड़ता है।<br><br><b>Short Trick:</b><br>Polar Research requires cold-weather expertise. Norway is an Arctic country. Hence, GRSE (India) + Kongsberg (Norway).<br><br><b>Final Answer:</b> $4$"
+  },
+  {
+    "section": "General Awareness",
+    "topic": "Current Affairs - Appointments",
+    "difficulty": "Moderate",
+    "q_en": "Who among the following was appointed as the Chairperson of the Securities and Exchange Board of India (SEBI) in March 2025?",
+    "q_hi": "निम्नलिखित में से किसे मार्च 2025 में भारतीय प्रतिभूति और विनिमय बोर्ड (SEBI) का अध्यक्ष नियुक्त किया गया था?",
+    "op_en": [
+      "Tuhin Kanta Pandey",
+      "U. K. Sinha",
+      "Ajay Tyagi",
+      "Madhabi Puri Buch"
+    ],
+    "op_hi": [
+      "तुहिन कांता पांडे",
+      "यू. के. सिन्हा",
+      "अजय त्यागी",
+      "माधबी पुरी बुच"
+    ],
+    "ans": "1",
+    "solution": "<b>Solution (EN):</b><br>In March 2025, senior IAS officer Tuhin Kanta Pandey was appointed as the Chairperson of the Securities and Exchange Board of India (SEBI). He succeeded Madhabi Puri Buch.<br><br><b>Solution (HI):</b><br>मार्च 2025 में, वरिष्ठ आईएएस अधिकारी तुहिन कांता पांडे को भारतीय प्रतिभूति और विनिमय बोर्ड (SEBI) का अध्यक्ष नियुक्त किया गया था। उन्होंने माधबी पुरी बुच का स्थान लिया।<br><br><b>Short Trick:</b><br>March 2025 SEBI Chief = Tuhin Kanta Pandey.<br><br><b>Final Answer:</b> $1$"
+  },
+  {
+    "section": "General Awareness",
+    "topic": "Modern Indian History",
+    "difficulty": "Moderate",
+    "q_en": "The Governor-General of India who earned the epithet of “Clemency” was:",
+    "q_hi": "भारत के वह गवर्नर-जनरल कौन थे जिन्हें \"क्लीमेंसी\" (क्षमाशील) की उपाधि मिली थी?",
+    "op_en": [
+      "William Bentinck",
+      "Lord Canning",
+      "Lord Dalhousie",
+      "Lord Cornwallis"
+    ],
+    "op_hi": [
+      "विलियम बेंटिक",
+      "लॉर्ड कैनिंग",
+      "लॉर्ड डलहौजी",
+      "लॉर्ड कॉर्नवॉलिस"
+    ],
+    "ans": "2",
+    "solution": "<b>Solution (EN):</b><br>Lord Canning earned the epithet \"Clemency Canning\" due to his relatively lenient and tolerant policy toward the sepoys after the Revolt of 1857. He opposed the demands for mass executions and indiscriminate revenge, advocating instead for a more just approach to pacify the country.<br><br><b>Solution (HI):</b><br>लॉर्ड कैनिंग को 1857 के विद्रोह के बाद सिपाहियों के प्रति अपनी अपेक्षाकृत उदार और सहिष्णु नीति के कारण \"क्लीमेंसी कैनिंग\" (Clemency Canning) की उपाधि मिली। उन्होंने सामूहिक फांसी और अंधाधुंध बदले की मांगों का विरोध किया और इसके बजाय देश को शांत करने के लिए अधिक न्यायसंगत दृष्टिकोण की वकालत की।<br><br><b>Short Trick:</b><br>Both start with 'C': <b>C</b>anning = <b>C</b>lemency.<br><br><b>Final Answer:</b> $2$"
+  },
+  {
+    "section": "General Awareness",
+    "topic": "Economy / Infrastructure",
+    "difficulty": "Easy",
+    "q_en": "Which of the following is NOT an intended outcome of Indian Railways’ electrification vision?",
+    "q_hi": "निम्नलिखित में से कौन भारतीय रेलवे के विद्युतीकरण दृष्टिकोण का इच्छित परिणाम नहीं है?",
+    "op_en": [
+      "Eco-friendly transportation",
+      "Increased diesel engine usage",
+      "Energy-efficient transportation",
+      "Faster transportation"
+    ],
+    "op_hi": [
+      "पर्यावरण के अनुकूल परिवहन",
+      "डीजल इंजन के उपयोग में वृद्धि",
+      "ऊर्जा-कुशल परिवहन",
+      "तेज परिवहन"
+    ],
+    "ans": "2",
+    "solution": "<b>Solution (EN):</b><br>The primary goal of the Indian Railways' electrification project is to phase out fossil fuels, thereby reducing the carbon footprint. Therefore, increased diesel engine usage contradicts the core objective of becoming a net-zero carbon emitter. It aims for eco-friendly, energy-efficient, and faster transportation.<br><br><b>Solution (HI):</b><br>भारतीय रेलवे की विद्युतीकरण परियोजना का प्राथमिक लक्ष्य जीवाश्म ईंधन को चरणबद्ध तरीके से समाप्त करना है, जिससे कार्बन पदचिह्न (carbon footprint) कम हो सके। इसलिए, डीजल इंजन के उपयोग में वृद्धि होना शून्य कार्बन उत्सर्जक बनने के मुख्य उद्देश्य के विपरीत है। इसका उद्देश्य पर्यावरण के अनुकूल, ऊर्जा-कुशल और तेज परिवहन सुनिश्चित करना है।<br><br><b>Short Trick:</b><br>Electrification directly means replacing diesel with electricity. Thus, diesel usage will decrease, not increase.<br><br><b>Final Answer:</b> $2$"
+  }
+]
