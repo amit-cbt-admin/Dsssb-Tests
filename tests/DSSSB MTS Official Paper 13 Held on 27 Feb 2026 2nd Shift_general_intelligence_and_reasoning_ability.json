@@ -1,0 +1,422 @@
+[
+  {
+    "section": "General intelligence and Reasoning Ability",
+    "topic": "Number Series",
+    "difficulty": "Moderate",
+    "q_en": "Refer to the following number series and answer the question that follows. All numbers are single digit numbers only. (Counting to be done from left to right only.)<br><br>(Left) 7 9 3 5 1 8 4 6 4 3 6 2 1 5 7 3 7 8 4 3 6 9 7 4 5 2 4 2 3 (Right)<br><br>How many such even digits are there, each of the which is immediately preceded by a perfect square and immediately followed by an odd digit? (NOTE: 1 is also a perfect square.)",
+    "q_hi": "निम्नलिखित संख्या श्रृंखला का संदर्भ लें और उसके बाद आने वाले प्रश्न का उत्तर दें। सभी संख्याएँ केवल एक अंक की संख्याएँ हैं। (गिनती केवल बाएँ से दाएँ की जानी है।)<br><br>(बाएँ) $7$ $9$ $3$ $5$ $1$ $8$ $4$ $6$ $4$ $3$ $6$ $2$ $1$ $5$ $7$ $3$ $7$ $8$ $4$ $3$ $6$ $9$ $7$ $4$ $5$ $2$ $4$ $2$ $3$ (दाएँ)<br><br>ऐसे कितने सम अंक हैं, जिनमें से प्रत्येक के ठीक पहले एक पूर्ण वर्ग है और ठीक बाद एक विषम अंक है? (नोट: $1$ भी एक पूर्ण वर्ग है।)",
+    "op_en": [
+      "Two",
+      "More than three",
+      "One",
+      "Three"
+    ],
+    "op_hi": [
+      "दो",
+      "तीन से अधिक",
+      "एक",
+      "तीन"
+    ],
+    "ans": "3",
+    "solution": "<b>Solution (EN):</b><br>The given series is $7\\ 9\\ 3\\ 5\\ 1\\ 8\\ 4\\ 6\\ 4\\ 3\\ 6\\ 2\\ 1\\ 5\\ 7\\ 3\\ 7\\ 8\\ 4\\ 3\\ 6\\ 9\\ 7\\ 4\\ 5\\ 2\\ 4\\ 2\\ 3$.<br><br>We need to find the pattern: Perfect Square $\\Rightarrow$ Even Digit $\\Rightarrow$ Odd Digit.<br>The perfect squares are $1$, $4$, and $9$. Checking the sequence, the only instance that satisfies this condition is $4\\ 2\\ 3$, where $4$ is a perfect square, $2$ is an even number, and $3$ is an odd number. Thus, there is only one such instance.<br><br><b>Solution (HI):</b><br>दी गई श्रृंखला $7\\ 9\\ 3\\ 5\\ 1\\ 8\\ 4\\ 6\\ 4\\ 3\\ 6\\ 2\\ 1\\ 5\\ 7\\ 3\\ 7\\ 8\\ 4\\ 3\\ 6\\ 9\\ 7\\ 4\\ 5\\ 2\\ 4\\ 2\\ 3$ है।<br><br>हमें यह स्वरूप खोजना है: पूर्ण वर्ग $\\Rightarrow$ सम अंक $\\Rightarrow$ विषम अंक।<br>पूर्ण वर्ग $1$, $4$, और $9$ हैं। श्रृंखला की जाँच करने पर, इस शर्त को पूरा करने वाला एकमात्र उदाहरण $4\\ 2\\ 3$ है, जहाँ $4$ एक पूर्ण वर्ग है, $2$ एक सम संख्या है, और $3$ एक विषम संख्या है। इस प्रकार, ऐसा केवल एक ही उदाहरण है।<br><br><b>Short Trick:</b><br>Scan directly for squares $1, 4, 9$ and check the next two numbers. Only the segment '$4\\ 2\\ 3$' matches the condition.<br><br><b>Final Answer:</b> $3$"
+  },
+  {
+    "section": "General intelligence and Reasoning Ability",
+    "topic": "Puzzle (Days)",
+    "difficulty": "Moderate",
+    "q_en": "Each of P, Q, R, S, T, U and V has an exam on a different day of a week, starting from Monday and ending on Sunday of the same week. T has the exam on Wednesday. Only three people have exams after U. Only two people have exams between R and T. P has the exam immediately after S. Q does not have the exam on Friday. How many people have exams between V and S?",
+    "q_hi": "P, Q, R, S, T, U और V में से प्रत्येक की एक ही सप्ताह के सोमवार से शुरू होकर रविवार को समाप्त होने वाले अलग-अलग दिन परीक्षा है। T की परीक्षा बुधवार को है। U के बाद केवल तीन लोगों की परीक्षा है। R और T के बीच केवल दो लोगों की परीक्षा है। P की परीक्षा S के ठीक बाद है। Q की परीक्षा शुक्रवार को नहीं है। V और S के बीच कितने लोगों की परीक्षा है?",
+    "op_en": [
+      "Four",
+      "Two",
+      "One",
+      "Three"
+    ],
+    "op_hi": [
+      "चार",
+      "दो",
+      "एक",
+      "तीन"
+    ],
+    "ans": "4",
+    "solution": "<b>Solution (EN):</b><br>Based on the given conditions:<br>1) T's exam is on Wednesday.<br>2) Only three people have exams after U, meaning U is on Thursday.<br>3) Only two people have exams between R and T. Since T is on Wednesday, R must be on Saturday.<br>4) P has the exam immediately after S. This means S and P must have exams on Monday and Tuesday respectively.<br>5) Q does not have the exam on Friday, so Q is on Sunday. Therefore, V is on Friday.<br><br>The final schedule is: Monday(S), Tuesday(P), Wednesday(T), Thursday(U), Friday(V), Saturday(R), Sunday(Q).<br>Between V (Friday) and S (Monday), there are three exams (P, T, U).<br><br><b>Solution (HI):</b><br>दी गई शर्तों के आधार पर:<br>1) T की परीक्षा बुधवार को है।<br>2) U के बाद केवल तीन लोगों की परीक्षा है, जिसका अर्थ है कि U गुरुवार को है।<br>3) R और T के बीच केवल दो लोगों की परीक्षा है। चूँकि T बुधवार को है, R शनिवार को होना चाहिए।<br>4) P की परीक्षा S के ठीक बाद है। इसका मतलब है कि S और P की परीक्षा क्रमशः सोमवार और मंगलवार को होनी चाहिए।<br>5) Q की परीक्षा शुक्रवार को नहीं है, इसलिए Q रविवार को है। इसलिए, V शुक्रवार को है।<br><br>अंतिम कार्यक्रम है: सोमवार(S), मंगलवार(P), बुधवार(T), गुरुवार(U), शुक्रवार(V), शनिवार(R), रविवार(Q)।<br>V (शुक्रवार) और S (सोमवार) के बीच, तीन परीक्षाएं (P, T, U) हैं।<br><br><b>Short Trick:</b><br>Map fixed positions: T = Wed, U = Thu. R = Sat. S, P must be Mon, Tue. V = Fri, Q = Sun. S(Mon) to V(Fri) has 3 days between them.<br><br><b>Final Answer:</b> $4$"
+  },
+  {
+    "section": "General intelligence and Reasoning Ability",
+    "topic": "Seating Arrangement",
+    "difficulty": "Moderate",
+    "q_en": "Seven people, J, R, U, H, C, I and K, are sitting in a row facing north. An equal number of people sit on both sides of C. I sits to the left of J. I also sits to the right of C. Only R sits between U and H. K sits to the immediate right of J. U sits to the immediate left of C. Who sits at the extreme left end of the row?",
+    "q_hi": "सात व्यक्ति, J, R, U, H, C, I और K, उत्तर की ओर मुख करके एक पंक्ति में बैठे हैं। C के दोनों ओर समान संख्या में लोग बैठे हैं। I, J के बाएँ बैठा है। I, C के दाएँ भी बैठा है। U और H के बीच केवल R बैठा है। K, J के ठीक दाएँ बैठा है। U, C के ठीक बाएँ बैठा है। पंक्ति के बाएँ छोर पर कौन बैठा है?",
+    "op_en": [
+      "R",
+      "U",
+      "J",
+      "H"
+    ],
+    "op_hi": [
+      "R",
+      "U",
+      "J",
+      "H"
+    ],
+    "ans": "4",
+    "solution": "<b>Solution (EN):</b><br>1) C sits exactly in the middle of the seven people, so C is at position $4$.<br>2) U sits to the immediate left of C (position $3$).<br>3) Only R sits between U and H, so R is at position $2$ and H is at position $1$.<br>4) I sits to the right of C and left of J. K sits to the immediate right of J. This means I, J, K occupy positions $5$, $6$, $7$ respectively.<br><br>The final arrangement from left to right is: H, R, U, C, I, J, K.<br>Therefore, H sits at the extreme left end.<br><br><b>Solution (HI):</b><br>1) C सात लोगों के बिल्कुल मध्य में बैठा है, इसलिए C स्थान $4$ पर है।<br>2) U, C के ठीक बाएँ बैठा है (स्थान $3$)।<br>3) U और H के बीच केवल R बैठा है, इसलिए R स्थान $2$ पर है और H स्थान $1$ पर है।<br>4) I, C के दाएँ और J के बाएँ बैठा है। K, J के ठीक दाएँ बैठा है। इसका मतलब है कि I, J, K क्रमशः $5$, $6$, $7$ स्थान घेरते हैं।<br><br>बाएँ से दाएँ अंतिम व्यवस्था है: H, R, U, C, I, J, K।<br>इसलिए, H बाएँ छोर पर बैठा है।<br><br><b>Short Trick:</b><br>C is exactly in the middle. Right side is I, J, K. Left side is H, R, U. The sequence is H-R-U-C-I-J-K. Extreme left is H.<br><br><b>Final Answer:</b> $4$"
+  },
+  {
+    "section": "General intelligence and Reasoning Ability",
+    "topic": "Puzzle (Days)",
+    "difficulty": "Moderate",
+    "q_en": "Each of L, M, N, R, S, T and U has exam on a different day of a week, starting from Monday and ending on Sunday of the same week. No one has exam after L. Only two people have exam between S and R. Only two people have exam between T and M. Only two people have exam between L and M. N has exam on one of the days before U. R has exam immediately after U. How many people have exam between R and N?",
+    "q_hi": "L, M, N, R, S, T और U में से प्रत्येक की एक ही सप्ताह के सोमवार से शुरू होकर रविवार को समाप्त होने वाले अलग-अलग दिन परीक्षा है। L के बाद किसी की परीक्षा नहीं है। S और R के बीच केवल दो लोगों की परीक्षा है। T और M के बीच केवल दो लोगों की परीक्षा है। L और M के बीच केवल दो लोगों की परीक्षा है। N की परीक्षा U से पहले किसी एक दिन है। R की परीक्षा U के ठीक बाद है। R और N के बीच कितने लोगों की परीक्षा है?",
+    "op_en": [
+      "One",
+      "Four",
+      "Three",
+      "Two"
+    ],
+    "op_hi": [
+      "एक",
+      "चार",
+      "तीन",
+      "दो"
+    ],
+    "ans": "3",
+    "solution": "<b>Solution (EN):</b><br>1) No one has an exam after L, so L is on Sunday (Day $7$).<br>2) Two people have an exam between L and M, so M is on Thursday (Day $4$).<br>3) Two people have an exam between T and M, so T is on Monday (Day $1$).<br>4) R has an exam immediately after U. Also, two people have an exam between S and R. The only possible positions for U and R that allow this are U on Friday (Day $5$) and R on Saturday (Day $6$). Consequently, S is on Wednesday (Day $3$).<br>5) N has an exam before U, so N is on Tuesday (Day $2$).<br><br>Final schedule: T(Mon), N(Tue), S(Wed), M(Thu), U(Fri), R(Sat), L(Sun).<br>There are three people (S, M, U) having exams between N and R.<br><br><b>Solution (HI):</b><br>1) L के बाद किसी की परीक्षा नहीं है, इसलिए L रविवार (दिन $7$) को है।<br>2) L और M के बीच दो लोगों की परीक्षा है, इसलिए M गुरुवार (दिन $4$) को है।<br>3) T और M के बीच दो लोगों की परीक्षा है, इसलिए T सोमवार (दिन $1$) को है।<br>4) R की परीक्षा U के ठीक बाद है। साथ ही, S और R के बीच दो लोगों की परीक्षा है। U और R के लिए एकमात्र संभव स्थान जो इसकी अनुमति देते हैं, वे हैं U शुक्रवार (दिन $5$) को और R शनिवार (दिन $6$) को। परिणामस्वरूप, S बुधवार (दिन $3$) को है।<br>5) N की परीक्षा U से पहले है, इसलिए N मंगलवार (दिन $2$) को है।<br><br>अंतिम कार्यक्रम: T(सोम), N(मंगल), S(बुध), M(गुरु), U(शुक्र), R(शनि), L(रवि)।<br>N और R के बीच तीन लोगों (S, M, U) की परीक्षा है।<br><br><b>Short Trick:</b><br>Direct placement based on 'L is last' simplifies M to Thursday. Following the gaps leads instantly to N(2) and R(6), providing $3$ people in between.<br><br><b>Final Answer:</b> $3$"
+  },
+  {
+    "section": "General intelligence and Reasoning Ability",
+    "topic": "Puzzle (Floor)",
+    "difficulty": "Moderate",
+    "q_en": "P, Q, R, S, T, and U live on six different floors of the same building. The lowermost floor in the building is numbered 1, the floor above it, number 2 and so on till the topmost floor is numbered 6.<br>R lives on an odd numbered floor but not on the lowermost floor. Only two people live between R and S. Only one person lives between S and P. Q is immediately above P. T is immediately above U but T does not live on the top floor. On which floor number does Q live?",
+    "q_hi": "P, Q, R, S, T, और U एक ही इमारत की छह अलग-अलग मंजिलों पर रहते हैं। इमारत में सबसे निचली मंजिल की संख्या $1$ है, उसके ऊपर वाली मंजिल की संख्या $2$ है और इसी तरह सबसे ऊपरी मंजिल की संख्या $6$ है।<br><br>R एक विषम संख्या वाली मंजिल पर रहता है लेकिन सबसे निचली मंजिल पर नहीं। R और S के बीच केवल दो व्यक्ति रहते हैं। S और P के बीच केवल एक व्यक्ति रहता है। Q, P के ठीक ऊपर है। T, U के ठीक ऊपर है लेकिन T सबसे ऊपरी मंजिल पर नहीं रहता है। Q किस मंजिल संख्या पर रहता है?",
+    "op_en": [
+      "Floor number 6",
+      "Floor number 2",
+      "Floor number 4",
+      "Floor number 5"
+    ],
+    "op_hi": [
+      "मंजिल संख्या 6",
+      "मंजिल संख्या 2",
+      "मंजिल संख्या 4",
+      "मंजिल संख्या 5"
+    ],
+    "ans": "4",
+    "solution": "<b>Solution (EN):</b><br>1) R lives on an odd-numbered floor but not on the lowermost floor, so R lives on either floor $3$ or $5$.<br>2) If R lives on floor $5$, S lives on floor $2$. There is one person between S and P, so P is on floor $4$. Q is immediately above P, so Q is on floor $5$. But R is already on floor $5$. This is a contradiction.<br>3) Therefore, R lives on floor $3$. S lives on floor $6$. P lives on floor $4$. Q lives on floor $5$.<br>4) T is immediately above U, so T lives on floor $2$ and U lives on floor $1$.<br><br>The arrangement from top to bottom is: S, Q, P, R, T, U. Q lives on floor number $5$.<br><br><b>Solution (HI):</b><br>1) R एक विषम संख्या वाली मंजिल पर रहता है लेकिन सबसे निचली मंजिल पर नहीं, इसलिए R मंजिल $3$ या $5$ पर रहता है।<br>2) यदि R मंजिल $5$ पर रहता है, तो S मंजिल $2$ पर रहता है। S और P के बीच एक व्यक्ति है, इसलिए P मंजिल $4$ पर है। Q, P के ठीक ऊपर है, इसलिए Q मंजिल $5$ पर है। लेकिन R पहले से ही मंजिल $5$ पर है। यह एक विरोधाभास है।<br>3) इसलिए, R मंजिल $3$ पर रहता है। S मंजिल $6$ पर रहता है। P मंजिल $4$ पर रहता है। Q मंजिल $5$ पर रहता है।<br>4) T, U के ठीक ऊपर है, इसलिए T मंजिल $2$ पर रहता है और U मंजिल $1$ पर रहता है।<br><br>ऊपर से नीचे तक की व्यवस्था है: S, Q, P, R, T, U। Q मंजिल संख्या $5$ पर रहता है।<br><br><b>Short Trick:</b><br>Assume R=3 to avoid conflict with Q immediately above P. This perfectly sets S=6, P=4, Q=5. T and U occupy 2 and 1 respectively.<br><br><b>Final Answer:</b> $4$"
+  },
+  {
+    "section": "General intelligence and Reasoning Ability",
+    "topic": "Blood Relation",
+    "difficulty": "Moderate",
+    "q_en": "In a certain code language,<br>A # B means ‘A is the daughter of B’<br>A ! B means ‘A is the father of B’<br>A & B means ‘A is the son of B’<br>A % B means ‘ A is the sister of B’<br>Based on the above, how is G related to Y if ‘G % U # N ! J & Y ’?",
+    "q_hi": "एक निश्चित कूट भाषा में,<br>A # B का अर्थ है ‘A, B की पुत्री है’<br>A ! B का अर्थ है ‘A, B का पिता है’<br>A & B का अर्थ है ‘A, B का पुत्र है’<br>A % B का अर्थ है ‘A, B की बहन है’<br>उपरोक्त के आधार पर, यदि ‘G % U # N ! J & Y’ है, तो G, Y से किस प्रकार संबंधित है?",
+    "op_en": [
+      "Sister",
+      "Mother",
+      "Wife",
+      "Daughter"
+    ],
+    "op_hi": [
+      "बहन",
+      "माँ",
+      "पत्नी",
+      "पुत्री"
+    ],
+    "ans": "4",
+    "solution": "<b>Solution (EN):</b><br>Decoding the expression 'G % U # N ! J & Y':<br>1) G % U $\\Rightarrow$ G is the sister of U (G is female).<br>2) U # N $\\Rightarrow$ U is the daughter of N.<br>3) N ! J $\\Rightarrow$ N is the father of J (N is male).<br>4) J & Y $\\Rightarrow$ J is the son of Y.<br><br>Since N is the father of J and J is the son of Y, N and Y are a married couple where Y is the mother. U and G are daughters of N and Y. Therefore, G is the daughter of Y.<br><br><b>Solution (HI):</b><br>व्यंजक 'G % U # N ! J & Y' को डिकोड करने पर:<br>1) G % U $\\Rightarrow$ G, U की बहन है (G महिला है)।<br>2) U # N $\\Rightarrow$ U, N की पुत्री है।<br>3) N ! J $\\Rightarrow$ N, J का पिता है (N पुरुष है)।<br>4) J & Y $\\Rightarrow$ J, Y का पुत्र है।<br><br>चूँकि N, J का पिता है और J, Y का पुत्र है, N और Y एक विवाहित जोड़े हैं जहाँ Y माँ है। U और G, N और Y की पुत्रियाँ हैं। इसलिए, G, Y की पुत्री है।<br><br><b>Short Trick:</b><br>N is father, Y is mother (since J is son of both). G is sister of U who is daughter of N. Hence G is directly the daughter of Y.<br><br><b>Final Answer:</b> $4$"
+  },
+  {
+    "section": "General intelligence and Reasoning Ability",
+    "topic": "Letter Series",
+    "difficulty": "Moderate",
+    "q_en": "Refer to the following letter series and answer the question that follows. Counting to be done from left to right only.<br><br><b>(Left) E Q I F T U C Z O W D X H G M R Y B K A S (Right)</b><br><br>How many such vowels are there, each of which is immediately preceded by a vowel and also immediately followed by a consonant?",
+    "q_hi": "निम्नलिखित अक्षर श्रृंखला का संदर्भ लें और उसके बाद आने वाले प्रश्न का उत्तर दें। गिनती केवल बाएँ से दाएँ की जानी है।<br><br><b>(बाएँ) E Q I F T U C Z O W D X H G M R Y B K A S (दाएँ)</b><br><br>ऐसे कितने स्वर हैं, जिनमें से प्रत्येक के ठीक पहले एक स्वर है और ठीक बाद एक व्यंजन है?",
+    "op_en": [
+      "1",
+      "3",
+      "0",
+      "2"
+    ],
+    "op_hi": [
+      "1",
+      "3",
+      "0",
+      "2"
+    ],
+    "ans": "3",
+    "solution": "<b>Solution (EN):</b><br>We need to find the sequence: Vowel $\\Rightarrow$ Vowel $\\Rightarrow$ Consonant.<br>Let's check the given series: E Q I F T U C Z O W D X H G M R Y B K A S.<br>The vowels are A, E, I, O, U. Observing the series, there are no two vowels placed immediately next to each other. Hence, the count of such a pattern is $0$.<br><br><b>Solution (HI):</b><br>हमें निम्नलिखित क्रम खोजना है: स्वर $\\Rightarrow$ स्वर $\\Rightarrow$ व्यंजन।<br>दी गई श्रृंखला की जाँच करते हैं: E Q I F T U C Z O W D X H G M R Y B K A S.<br>स्वर A, E, I, O, U हैं। श्रृंखला को देखने पर, कोई भी दो स्वर एक-दूसरे के ठीक बगल में नहीं हैं। इसलिए, ऐसे स्वरूप की संख्या $0$ है।<br><br><b>Short Trick:</b><br>Just scan the series for consecutive vowels. Since there are no consecutive vowels at all, the pattern frequency is simply $0$.<br><br><b>Final Answer:</b> $3$"
+  },
+  {
+    "section": "General intelligence and Reasoning Ability",
+    "topic": "Alphabet Series",
+    "difficulty": "Moderate",
+    "q_en": "Refer to the following letter series and answer the question.<br>(Left) L I K U B O P Q R W E Z V Y T C J A H G M (Right)<br>How many letters are there in the English alphabetical series between the letter that is fourth from the right end and the letter that is fourth from the left end of the series?",
+    "q_hi": "निम्नलिखित अक्षर श्रृंखला का संदर्भ लें और प्रश्न का उत्तर दें।<br>(बाएँ) L I K U B O P Q R W E Z V Y T C J A H G M (दाएँ)<br>श्रृंखला के दाएँ छोर से चौथे अक्षर और बाएँ छोर से चौथे अक्षर के बीच अंग्रेजी वर्णमाला श्रृंखला में कितने अक्षर हैं?",
+    "op_en": [
+      "Twelve",
+      "Nineteen",
+      "Five",
+      "Fifteen"
+    ],
+    "op_hi": [
+      "बारह",
+      "उन्नीस",
+      "पाँच",
+      "पंद्रह"
+    ],
+    "ans": "2",
+    "solution": "<b>Solution (EN):</b><br>The given series is: L I K U B O P Q R W E Z V Y T C J A H G M<br>The $4$th letter from the left end is U.<br>The $4$th letter from the right end is A.<br>According to the standard English alphabetical series (A to Z), the letters strictly between A (which is $1$st) and U (which is $21$st) are $21 - 1 - 1 = 19$ letters.<br><br><b>Solution (HI):</b><br>दी गई श्रृंखला है: L I K U B O P Q R W E Z V Y T C J A H G M<br>बाएँ छोर से $4$था अक्षर U है।<br>दाएँ छोर से $4$था अक्षर A है।<br>मानक अंग्रेजी वर्णमाला श्रृंखला (A से Z) के अनुसार, A (जो $1$ला है) और U (जो $21$वाँ है) के बीच अक्षरों की संख्या $21 - 1 - 1 = 19$ है।<br><br><b>Short Trick:</b><br>Find the numerical value of both letters: U = $21$, A = $1$. Number of letters exactly between them = $21 - 1 - 1 = 19$.<br><br><b>Final Answer:</b> $2$"
+  },
+  {
+    "section": "General intelligence and Reasoning Ability",
+    "topic": "Word Decoding",
+    "difficulty": "Moderate",
+    "q_en": "Each vowel in the word COIGNED is changed to the letter immediately following it in the English alphabetical order and each consonant is changed to the letter immediately preceding it in the English alphabetical order. How many letters will appear exactly twice in the group of letters thus formed?",
+    "q_hi": "शब्द COIGNED के प्रत्येक स्वर को अंग्रेजी वर्णमाला के क्रम में उसके ठीक बाद वाले अक्षर में बदल दिया जाता है और प्रत्येक व्यंजन को अंग्रेजी वर्णमाला के क्रम में उसके ठीक पहले वाले अक्षर में बदल दिया जाता है। इस प्रकार बने अक्षरों के समूह में कितने अक्षर ठीक दो बार आएंगे?",
+    "op_en": [
+      "Three",
+      "One",
+      "None",
+      "Two"
+    ],
+    "op_hi": [
+      "तीन",
+      "एक",
+      "कोई नहीं",
+      "दो"
+    ],
+    "ans": "2",
+    "solution": "<b>Solution (EN):</b><br>The given word is COIGNED.<br>Vowels (changed to next letter): O $\\Rightarrow$ P, I $\\Rightarrow$ J, E $\\Rightarrow$ F<br>Consonants (changed to previous letter): C $\\Rightarrow$ B, G $\\Rightarrow$ F, N $\\Rightarrow$ M, D $\\Rightarrow$ C<br>The new group of letters formed is: B P J F M F C.<br>Here, the letter F appears exactly twice. No other letter repeats. So, only one letter appears exactly twice.<br><br><b>Solution (HI):</b><br>दिया गया शब्द COIGNED है।<br>स्वर (अगले अक्षर में बदले गए): O $\\Rightarrow$ P, I $\\Rightarrow$ J, E $\\Rightarrow$ F<br>व्यंजन (पिछले अक्षर में बदले गए): C $\\Rightarrow$ B, G $\\Rightarrow$ F, N $\\Rightarrow$ M, D $\\Rightarrow$ C<br>इस प्रकार बने अक्षरों का नया समूह है: B P J F M F C.<br>यहाँ, अक्षर F ठीक दो बार आता है। कोई अन्य अक्षर नहीं दोहराता है। अतः केवल एक अक्षर ठीक दो बार आता है।<br><br><b>Short Trick:</b><br>Map changes mentally: E (+1) = F, G (-1) = F. Since F repeats twice and no other mapping collides, the final count is $1$ letter repeating.<br><br><b>Final Answer:</b> $2$"
+  },
+  {
+    "section": "General intelligence and Reasoning Ability",
+    "topic": "Coding Decoding",
+    "difficulty": "Moderate",
+    "q_en": "In a certain code language, ‘give his share’ is coded as ‘dg po ck’ and ‘time to give’ is coded as ‘po ty hv’. How is ‘give’ coded in the given language? (All codes are two-letter codes.)",
+    "q_hi": "एक निश्चित कूट भाषा में, 'give his share' को 'dg po ck' के रूप में कूटबद्ध किया जाता है और 'time to give' को 'po ty hv' के रूप में कूटबद्ध किया जाता है। दी गई भाषा में 'give' को किस प्रकार कूटबद्ध किया जाएगा? (सभी कूट दो-अक्षर वाले कूट हैं।)",
+    "op_en": [
+      "hv",
+      "po",
+      "ty",
+      "dg"
+    ],
+    "op_hi": [
+      "hv",
+      "po",
+      "ty",
+      "dg"
+    ],
+    "ans": "2",
+    "solution": "<b>Solution (EN):</b><br>From the given statements:<br>1) 'give his share' = 'dg po ck'<br>2) 'time to give' = 'po ty hv'<br><br>The only word common in both statements is 'give', and the only code common in both statements is 'po'. Therefore, 'give' is coded as 'po'.<br><br><b>Solution (HI):</b><br>दिए गए कथनों से:<br>1) 'give his share' = 'dg po ck'<br>2) 'time to give' = 'po ty hv'<br><br>दोनों कथनों में एकमात्र सामान्य शब्द 'give' है, और दोनों कथनों में एकमात्र सामान्य कूट 'po' है। इसलिए, 'give' को 'po' के रूप में कूटबद्ध किया गया है।<br><br><b>Short Trick:</b><br>Compare both strings to find commonalities. 'give' is the only common word, and 'po' is the only common code. Thus, 'give' = 'po'.<br><br><b>Final Answer:</b> $2$"
+  },
+  {
+    "section": "General intelligence and Reasoning Ability",
+    "topic": "Syllogism",
+    "difficulty": "Moderate",
+    "q_en": "Read the given statement(s) and conclusions carefully. Assuming that the information given in the statements is true, even if it appears to be at variance with commonly known facts, decide which of the given conclusions logically follow(s) from the statement(s).<br><br>Statements: All angles are windows. No windows are lines.<br><br>Conclusion (I) : Some angles are lines.<br>Conclusion (II) : No lines are angles.",
+    "q_hi": "दिए गए कथन(कथनों) और निष्कर्षों को ध्यानपूर्वक पढ़ें। यह मानते हुए कि कथनों में दी गई जानकारी सत्य है, भले ही यह सामान्य रूप से ज्ञात तथ्यों से भिन्न प्रतीत होती हो, यह निर्णय लें कि दिए गए निष्कर्षों में से कौन सा/से निष्कर्ष तार्किक रूप से कथन(कथनों) का अनुसरण करता है/करते हैं।<br><br>कथन: सभी कोण खिड़कियां हैं। कोई खिड़की रेखा नहीं है।<br><br>निष्कर्ष (I): कुछ कोण रेखाएं हैं।<br>निष्कर्ष (II): कोई रेखा कोण नहीं है।",
+    "op_en": [
+      "Neither conclusion (I) nor (II) follows",
+      "Only conclusion (II) follows",
+      "Both conclusions (I) and (II) follow",
+      "Only conclusion (I) follows"
+    ],
+    "op_hi": [
+      "न तो निष्कर्ष (I) और न ही (II) अनुसरण करता है",
+      "केवल निष्कर्ष (II) अनुसरण करता है",
+      "निष्कर्ष (I) और (II) दोनों अनुसरण करते हैं",
+      "केवल निष्कर्ष (I) अनुसरण करता है"
+    ],
+    "ans": "2",
+    "solution": "<b>Solution (EN):</b><br>Based on the statements:<br>1) All angles are windows (A $\\subset$ W).<br>2) No windows are lines (W $\\cap$ L = $\\emptyset$).<br><br>Since all angles are inside windows, and no windows can touch lines, it is definitely true that no angles are lines (and no lines are angles).<br>Checking conclusions:<br>I. Some angles are lines. (False)<br>II. No lines are angles. (True)<br>Therefore, only conclusion II follows.<br><br><b>Solution (HI):</b><br>कथनों के आधार पर:<br>1) सभी कोण खिड़कियां हैं (A $\\subset$ W)।<br>2) कोई खिड़की रेखा नहीं है (W $\\cap$ L = $\\emptyset$)।<br><br>चूंकि सभी कोण खिड़कियों के अंदर हैं, और कोई भी खिड़की रेखाओं को नहीं छू सकती है, यह निश्चित रूप से सत्य है कि कोई भी कोण रेखा नहीं है (और कोई भी रेखा कोण नहीं है)।<br>निष्कर्षों की जाँच करने पर:<br>I. कुछ कोण रेखाएं हैं। (असत्य)<br>II. कोई रेखा कोण नहीं है। (सत्य)<br>अतः केवल निष्कर्ष II अनुसरण करता है।<br><br><b>Short Trick:</b><br>All A are W + No W is L $\\Rightarrow$ No A is L. Thus, 'Some A are L' is false and 'No L is A' is true.<br><br><b>Final Answer:</b> $2$"
+  },
+  {
+    "section": "General intelligence and Reasoning Ability",
+    "topic": "Seating Arrangement",
+    "difficulty": "Moderate",
+    "q_en": "A, B, C, D, E, F and G are sitting around a circular table facing the centre. D sits to the immediate left of A. G is the immediate neighbour of B and D. C sits third to the left of G. E is not an immediate neighbour of B.<br>How many people sit between F and D, when counted from the left of F?",
+    "q_hi": "A, B, C, D, E, F और G एक वृत्ताकार मेज के चारों ओर केंद्र की ओर मुख करके बैठे हैं। D, A के ठीक बाएँ बैठा है। G, B और D का निकटतम पड़ोसी है। C, G के बाएँ से तीसरे स्थान पर बैठा है। E, B का निकटतम पड़ोसी नहीं है।<br>F के बाएँ से गिनने पर, F और D के बीच कितने व्यक्ति बैठे हैं?",
+    "op_en": [
+      "Four",
+      "Two",
+      "Three",
+      "One"
+    ],
+    "op_hi": [
+      "चार",
+      "दो",
+      "तीन",
+      "एक"
+    ],
+    "ans": "3",
+    "solution": "<b>Solution (EN):</b><br>Let's arrange the $7$ people around the circle (facing center, left is clockwise):<br>1) D sits immediate left of A: Sequence is (A $\\rightarrow$ D).<br>2) G is the neighbour of B and D: Since A is to the right of D, G must be to the left of D. So the sequence is (A $\\rightarrow$ D $\\rightarrow$ G $\\rightarrow$ B).<br>3) C sits third to the left of G: Left of G (clockwise) jumps over B and two more spots. Sequence from G is G, B, [Spot 1], [Spot 2 = C].<br>4) Now positions are: A, D, G, B, [Spot 1], C, [Spot 3].<br>5) E is not a neighbour of B. So E cannot be in [Spot 1]. E must be in [Spot 3], which is next to A. This leaves F for [Spot 1].<br>Final clockwise sequence: A, D, G, B, F, C, E.<br><br>Counting from the left of F (clockwise): C, E, A, D.<br>The people between F and D are C, E, and A. That is $3$ people.<br><br><b>Solution (HI):</b><br>आइए $7$ लोगों को वृत्त के चारों ओर व्यवस्थित करें (केंद्र की ओर मुख, बायाँ मतलब दक्षिणावर्त):<br>1) D, A के ठीक बाएँ बैठा है: क्रम (A $\\rightarrow$ D) है।<br>2) G, B और D का पड़ोसी है: चूँकि A, D के दाएँ है, G को D के बाएँ होना चाहिए। इसलिए क्रम (A $\\rightarrow$ D $\\rightarrow$ G $\\rightarrow$ B) है।<br>3) C, G के बाएँ से तीसरे स्थान पर है: G के बाएँ (दक्षिणावर्त) B और दो और स्थानों को पार करता है। G से क्रम G, B, [स्थान 1], [स्थान 2 = C] है।<br>4) अब स्थितियाँ हैं: A, D, G, B, [स्थान 1], C, [स्थान 3]।<br>5) E, B का पड़ोसी नहीं है। इसलिए E [स्थान 1] पर नहीं हो सकता। E को [स्थान 3] में होना चाहिए, जो A के बगल में है। यह [स्थान 1] के लिए F को छोड़ देता है।<br>अंतिम दक्षिणावर्त क्रम: A, D, G, B, F, C, E.<br><br>F के बाएँ से (दक्षिणावर्त) गिनने पर: C, E, A, D.<br>F और D के बीच C, E और A हैं। अर्थात $3$ लोग।<br><br><b>Short Trick:</b><br>Establish sequence: A-D-G-B. C is 3rd left of G $\\Rightarrow$ G-B-_-C. Merge: A-D-G-B-_ -C-_. E not near B $\\Rightarrow$ E is last. F is next to B. Circular string: A-D-G-B-F-C-E. Left of F to D goes through C, E, A ($3$ people).<br><br><b>Final Answer:</b> $3$"
+  },
+  {
+    "section": "General intelligence and Reasoning Ability",
+    "topic": "Coding Decoding",
+    "difficulty": "Moderate",
+    "q_en": "In a certain code language, ‘POLE’ is coded as ‘5109’ and ‘HELP’ is coded as ‘1085’. What is the code for ‘H’ in that language?",
+    "q_hi": "एक निश्चित कूट भाषा में, 'POLE' को '5109' और 'HELP' को '1085' के रूप में कूटबद्ध किया जाता है। उस भाषा में 'H' के लिए कूट क्या है?",
+    "op_en": [
+      "0",
+      "8",
+      "5",
+      "1"
+    ],
+    "op_hi": [
+      "0",
+      "8",
+      "5",
+      "1"
+    ],
+    "ans": "2",
+    "solution": "<b>Solution (EN):</b><br>Comparing the two words:<br>POLE = $5109$<br>HELP = $1085$<br><br>The common letters in both words are P, L, and E.<br>The common digits in their codes are $5$, $1$, and $0$.<br>Therefore, the codes for P, L, and E are $5$, $1$, and $0$ (in no specific order).<br>In 'HELP', the remaining letter is H, and the remaining digit is $8$.<br>Thus, the code for 'H' is $8$.<br><br><b>Solution (HI):</b><br>दोनों शब्दों की तुलना करने पर:<br>POLE = $5109$<br>HELP = $1085$<br><br>दोनों शब्दों में सामान्य अक्षर P, L और E हैं।<br>उनके कूट में सामान्य अंक $5$, $1$ और $0$ हैं।<br>इसलिए, P, L और E के कूट $5$, $1$ और $0$ हैं (किसी विशिष्ट क्रम में नहीं)।<br>'HELP' में, शेष अक्षर H है, और शेष अंक $8$ है।<br>अतः 'H' का कूट $8$ है।<br><br><b>Short Trick:</b><br>Common letters (P, E, L) match common digits ($1, 0, 5$). The only letter left in HELP is H, and the only digit left is $8$.<br><br><b>Final Answer:</b> $2$"
+  },
+  {
+    "section": "General intelligence and Reasoning Ability",
+    "topic": "Letter Series",
+    "difficulty": "Moderate",
+    "q_en": "Refer to the following letter series and answer the question. Counting to done from left to right.<br>(Left) Y V E T I C G E N X Y E Q Q G L A I I O C S (Right)<br>How many such vowel are there each of which is immediately preceded by a consonant and also immediately followed by a consonant?",
+    "q_hi": "निम्नलिखित अक्षर श्रृंखला का संदर्भ लें और प्रश्न का उत्तर दें। गिनती बाएँ से दाएँ की जानी है।<br>(बाएँ) Y V E T I C G E N X Y E Q Q G L A I I O C S (दाएँ)<br>ऐसे कितने स्वर हैं जिनमें से प्रत्येक के ठीक पहले एक व्यंजन और ठीक बाद भी एक व्यंजन है?",
+    "op_en": [
+      "5",
+      "3",
+      "4",
+      "2"
+    ],
+    "op_hi": [
+      "5",
+      "3",
+      "4",
+      "2"
+    ],
+    "ans": "3",
+    "solution": "<b>Solution (EN):</b><br>We need to find the pattern: Consonant $\\Rightarrow$ Vowel $\\Rightarrow$ Consonant.<br>Let's scan the given series: Y V E T I C G E N X Y E Q Q G L A I I O C S<br>Checking the vowels (A, E, I, O, U):<br>1) V <b>E</b> T : Preceded by V (Consonant), Followed by T (Consonant). $\\rightarrow$ Match $1$<br>2) T <b>I</b> C : Preceded by T (Consonant), Followed by C (Consonant). $\\rightarrow$ Match $2$<br>3) G <b>E</b> N : Preceded by G (Consonant), Followed by N (Consonant). $\\rightarrow$ Match $3$<br>4) Y <b>E</b> Q : Preceded by Y (Consonant), Followed by Q (Consonant). $\\rightarrow$ Match $4$<br>5) L <b>A</b> I : Followed by I (Vowel). $\\rightarrow$ No match<br>6) I <b>I</b> O : Preceded by I (Vowel), Followed by O (Vowel). $\\rightarrow$ No match<br>7) I <b>O</b> C : Preceded by I (Vowel). $\\rightarrow$ No match<br><br>Total such instances are $4$.<br><br><b>Solution (HI):</b><br>हमें यह स्वरूप खोजना है: व्यंजन $\\Rightarrow$ स्वर $\\Rightarrow$ व्यंजन।<br>दी गई श्रृंखला को देखने पर: Y V E T I C G E N X Y E Q Q G L A I I O C S<br>स्वरों (A, E, I, O, U) की जाँच करने पर:<br>1) V <b>E</b> T : पहले V (व्यंजन), बाद में T (व्यंजन)। $\\rightarrow$ मिलान $1$<br>2) T <b>I</b> C : पहले T (व्यंजन), बाद में C (व्यंजन)। $\\rightarrow$ मिलान $2$<br>3) G <b>E</b> N : पहले G (व्यंजन), बाद में N (व्यंजन)। $\\rightarrow$ मिलान $3$<br>4) Y <b>E</b> Q : पहले Y (व्यंजन), बाद में Q (व्यंजन)। $\\rightarrow$ मिलान $4$<br>5) L <b>A</b> I : बाद में I (स्वर)। $\\rightarrow$ कोई मिलान नहीं<br>6) I <b>I</b> O : पहले I (स्वर), बाद में O (स्वर)। $\\rightarrow$ कोई मिलान नहीं<br>7) I <b>O</b> C : पहले I (स्वर)। $\\rightarrow$ कोई मिलान नहीं<br><br>ऐसे कुल उदाहरण $4$ हैं।<br><br><b>Short Trick:</b><br>Highlight vowels and check neighbors: V-<b>E</b>-T, T-<b>I</b>-C, G-<b>E</b>-N, Y-<b>E</b>-Q. The cluster 'LAIIOCS' fails the consonant condition. Total matches = $4$.<br><br><b>Final Answer:</b> $3$"
+  },
+  {
+    "section": "General intelligence and Reasoning Ability",
+    "topic": "Seating Arrangement",
+    "difficulty": "Moderate",
+    "q_en": "Six people L, M, N, R, S and T are sitting around a circular table, facing the center of the table. Only two people sit between N and M when counted from the right of N. Only two people sit between L and T when counted from the right of T. M sits to the immediate right of T. S sits to the immediate right of M. How many people sit between R and S when counted from the right of R?",
+    "q_hi": "छह व्यक्ति L, M, N, R, S और T एक वृत्ताकार मेज के चारों ओर केंद्र की ओर मुख करके बैठे हैं। N के दाएँ से गिनने पर N और M के बीच केवल दो व्यक्ति बैठे हैं। T के दाएँ से गिनने पर L और T के बीच केवल दो व्यक्ति बैठे हैं। M, T के ठीक दाएँ बैठा है। S, M के ठीक दाएँ बैठा है। R के दाएँ से गिनने पर R और S के बीच कितने व्यक्ति बैठे हैं?",
+    "op_en": [
+      "Four",
+      "Two",
+      "Three",
+      "One"
+    ],
+    "op_hi": [
+      "चार",
+      "दो",
+      "तीन",
+      "एक"
+    ],
+    "ans": "2",
+    "solution": "<b>Solution (EN):</b><br>Let's map the positions ($1$ to $6$ counter-clockwise / rightwards):<br>1) M sits immediate right of T: (T $\\rightarrow$ M).<br>2) S sits immediate right of M: (T $\\rightarrow$ M $\\rightarrow$ S).<br>3) Two people sit between N and M from right of N. In a $6$-person circle, having $2$ people between means they are seated exactly opposite each other. So N is opposite to M.<br>Let's assign positions: T at $1$, M at $2$, S at $3$. Then N is at $5$ (opposite to M).<br>4) Two people sit between L and T from right of T. From T($1$), right is $2$ (M), $3$ (S). So L must be at $4$.<br>5) The only remaining person is R, who takes position $6$.<br>Complete rightward (CCW) sequence: T($1$), M($2$), S($3$), L($4$), N($5$), R($6$).<br><br>Question: How many people sit between R and S when counted from the right of R?<br>Right of R($6$) goes to T($1$) and M($2$), and then we hit S($3$).<br>The people between R and S are T and M. So, $2$ people.<br><br><b>Solution (HI):</b><br>आइए स्थानों को मैप करें (दामावर्त / दाएँ $1$ से $6$):<br>1) M, T के ठीक दाएँ बैठा है: (T $\\rightarrow$ M)।<br>2) S, M के ठीक दाएँ बैठा है: (T $\\rightarrow$ M $\\rightarrow$ S)।<br>3) N के दाएँ से गिनने पर N और M के बीच दो व्यक्ति बैठते हैं। $6$-व्यक्तियों के वृत्त में, बीच में $2$ व्यक्ति होने का अर्थ है कि वे ठीक एक-दूसरे के विपरीत बैठे हैं। अतः N, M के विपरीत है।<br>आइए स्थान निर्धारित करें: T $1$ पर, M $2$ पर, S $3$ पर। तब N $5$ पर (M के विपरीत) है।<br>4) T के दाएँ से गिनने पर L और T के बीच दो व्यक्ति बैठते हैं। T($1$) से, दायाँ $2$ (M), $3$ (S) है। इसलिए L $4$ पर होना चाहिए।<br>5) एकमात्र शेष व्यक्ति R है, जो स्थान $6$ लेता है।<br>पूर्ण दायाँ (वामावर्त) क्रम: T($1$), M($2$), S($3$), L($4$), N($5$), R($6$)।<br><br>प्रश्न: R के दाएँ से गिनने पर R और S के बीच कितने व्यक्ति बैठे हैं?<br>R($6$) के दाएँ T($1$) और M($2$) हैं, और फिर हम S($3$) पर पहुँचते हैं।<br>R और S के बीच के लोग T और M हैं। अतः, $2$ लोग।<br><br><b>Short Trick:</b><br>T $\\rightarrow$ M $\\rightarrow$ S (rightwards). N is opposite M, L is opposite T. Sequence: T-M-S-L-N-R. Right of R to S covers T and M ($2$ people).<br><br><b>Final Answer:</b> $2$"
+  },
+  {
+    "section": "General intelligence and Reasoning Ability",
+    "topic": "Inequalities",
+    "difficulty": "Moderate",
+    "q_en": "In this question, a statement is given followed by two conclusions numbered I and II. Identify which of the given conclusions is/are true based on the following statement.<br><br>$V = U < S < K = P$<br>(I) $P > V$<br>(II) $K > U$",
+    "q_hi": "इस प्रश्न में, एक कथन दिया गया है जिसके बाद I और II क्रमांकित दो निष्कर्ष दिए गए हैं। पहचानें कि निम्नलिखित कथन के आधार पर दिए गए निष्कर्षों में से कौन सा/से सत्य है/हैं।<br><br>$V = U < S < K = P$<br>(I) $P > V$<br>(II) $K > U$",
+    "op_en": [
+      "Only II is true.",
+      "Neither I nor II is true.",
+      "Only I is true.",
+      "Both I and II are true."
+    ],
+    "op_hi": [
+      "केवल II सत्य है।",
+      "न तो I और न ही II सत्य है।",
+      "केवल I सत्य है।",
+      "I और II दोनों सत्य हैं।"
+    ],
+    "ans": "4",
+    "solution": "<b>Solution (EN):</b><br>Given Statement: $V = U < S < K = P$<br><br>Checking the conclusions:<br>I) $P > V$: From the statement, $V < S < K = P$. This means $V < P$, which is the same as $P > V$. So, Conclusion I is true.<br>II) $K > U$: From the statement, $U < S < K$. This means $U < K$, which is the same as $K > U$. So, Conclusion II is true.<br><br>Both conclusions I and II are true.<br><br><b>Solution (HI):</b><br>दिया गया कथन: $V = U < S < K = P$<br><br>निष्कर्षों की जाँच करने पर:<br>I) $P > V$: कथन से, $V < S < K = P$। इसका मतलब है कि $V < P$, जो $P > V$ के समान है। अतः, निष्कर्ष I सत्य है।<br>II) $K > U$: कथन से, $U < S < K$। इसका मतलब है कि $U < K$, जो $K > U$ के समान है। अतः, निष्कर्ष II सत्य है।<br><br>निष्कर्ष I और II दोनों सत्य हैं।<br><br><b>Short Trick:</b><br>Just trace the path: $V \\rightarrow P$ has $<$ signs, so $V < P$ (True). $U \\rightarrow K$ has $<$ signs, so $U < K$ (True).<br><br><b>Final Answer:</b> $4$"
+  },
+  {
+    "section": "General intelligence and Reasoning Ability",
+    "topic": "Coding Decoding",
+    "difficulty": "Moderate",
+    "q_en": "In a certain code language, ‘stars shine bright’ is coded as ‘ad zx fg’ and ‘count stars tonight’ is coded as ‘zx jn vb’. How is ‘stars’ coded in the given language? (All codes are two letter codes only.)",
+    "q_hi": "एक निश्चित कूट भाषा में, 'stars shine bright' को 'ad zx fg' के रूप में कूटबद्ध किया जाता है और 'count stars tonight' को 'zx jn vb' के रूप में कूटबद्ध किया जाता है। दी गई भाषा में 'stars' को किस प्रकार कूटबद्ध किया गया है? (सभी कूट केवल दो अक्षर वाले कूट हैं।)",
+    "op_en": [
+      "ad",
+      "zx",
+      "jn",
+      "vb"
+    ],
+    "op_hi": [
+      "ad",
+      "zx",
+      "jn",
+      "vb"
+    ],
+    "ans": "2",
+    "solution": "<b>Solution (EN):</b><br>Let's analyze the given statements:<br>1) 'stars shine bright' = 'ad zx fg'<br>2) 'count stars tonight' = 'zx jn vb'<br><br>The word 'stars' is common in both sentences. The only common code in both coded strings is 'zx'.<br>Therefore, the code for 'stars' is 'zx'.<br><br><b>Solution (HI):</b><br>आइए दिए गए कथनों का विश्लेषण करें:<br>1) 'stars shine bright' = 'ad zx fg'<br>2) 'count stars tonight' = 'zx jn vb'<br><br>दोनों वाक्यों में 'stars' शब्द सामान्य है। दोनों कूटबद्ध स्ट्रिंग में एकमात्र सामान्य कूट 'zx' है।<br>इसलिए, 'stars' के लिए कूट 'zx' है।<br><br><b>Short Trick:</b><br>Match the common word ('stars') with the common code ('zx').<br><br><b>Final Answer:</b> $2$"
+  },
+  {
+    "section": "General intelligence and Reasoning Ability",
+    "topic": "Inequalities",
+    "difficulty": "Moderate",
+    "q_en": "In this question, a statement is given followed by two conclusions numbered I and II. Identify which of the given conclusions is/are true based on the following statement.<br><br>$L \\le T > E < N = P$<br>(I) $L \\ge N$<br>(II) $T = P$",
+    "q_hi": "इस प्रश्न में, एक कथन दिया गया है जिसके बाद I और II क्रमांकित दो निष्कर्ष दिए गए हैं। पहचानें कि निम्नलिखित कथन के आधार पर दिए गए निष्कर्षों में से कौन सा/से सत्य है/हैं।<br><br>$L \\le T > E < N = P$<br>(I) $L \\ge N$<br>(II) $T = P$",
+    "op_en": [
+      "Only I is true.",
+      "Both I and II are true.",
+      "Neither I nor II is true.",
+      "Only II is true."
+    ],
+    "op_hi": [
+      "केवल I सत्य है।",
+      "I और II दोनों सत्य हैं।",
+      "न तो I और न ही II सत्य है।",
+      "केवल II सत्य है।"
+    ],
+    "ans": "3",
+    "solution": "<b>Solution (EN):</b><br>Given Statement: $L \\le T > E < N = P$<br><br>Checking the conclusions:<br>I) $L \\ge N$: The path from L to N is $L \\le T > E < N$. Since there are opposite signs ($\\le$ and $>$), no definite relation can be established between L and N. Conclusion I is false.<br>II) $T = P$: The path from T to P is $T > E < P$. Since there are opposite signs ($>$ and $<$), no definite relation can be established between T and P. Conclusion II is false.<br><br>Neither I nor II is true.<br><br><b>Solution (HI):</b><br>दिया गया कथन: $L \\le T > E < N = P$<br><br>निष्कर्षों की जाँच करने पर:<br>I) $L \\ge N$: L से N तक का मार्ग $L \\le T > E < N$ है। चूँकि विपरीत चिह्न ($\\le$ और $>$) हैं, इसलिए L और N के बीच कोई निश्चित संबंध स्थापित नहीं किया जा सकता है। निष्कर्ष I असत्य है।<br>II) $T = P$: T से P तक का मार्ग $T > E < P$ है। चूँकि विपरीत चिह्न ($>$ और $<$) हैं, इसलिए T और P के बीच कोई निश्चित संबंध स्थापित नहीं किया जा सकता है। निष्कर्ष II असत्य है।<br><br>न तो I और न ही II सत्य है।<br><br><b>Short Trick:</b><br>Opposite signs between two elements break the relation chain. Both $L \\leftrightarrow N$ and $T \\leftrightarrow P$ contain opposing inequality signs. Hence, both fail.<br><br><b>Final Answer:</b> $3$"
+  },
+  {
+    "section": "General intelligence and Reasoning Ability",
+    "topic": "Blood Relation",
+    "difficulty": "Moderate",
+    "q_en": "In a certain code language,<br>A @ B means ‘A is the daughter of B’<br>A # B means ‘A is the brother of B’<br>A ! B means ‘A is the wife of B’<br>A % B means ‘A is the father of B’<br>Based on the above, how is M related to K if ‘M ! A # R @ S % K’?",
+    "q_hi": "एक निश्चित कूट भाषा में,<br>A @ B का अर्थ है 'A, B की पुत्री है'<br>A # B का अर्थ है 'A, B का भाई है'<br>A ! B का अर्थ है 'A, B की पत्नी है'<br>A % B का अर्थ है 'A, B का पिता है'<br>उपरोक्त के आधार पर, यदि 'M ! A # R @ S % K' है, तो M, K से किस प्रकार संबंधित है?",
+    "op_en": [
+      "Daughter",
+      "Sister's daughter",
+      "Brother's daughter",
+      "Brother's wife"
+    ],
+    "op_hi": [
+      "पुत्री",
+      "बहन की पुत्री",
+      "भाई की पुत्री",
+      "भाई की पत्नी"
+    ],
+    "ans": "4",
+    "solution": "<b>Solution (EN):</b><br>Let's decode 'M ! A # R @ S % K':<br>1) M ! A $\\Rightarrow$ M is the wife of A. (A is a male).<br>2) A # R $\\Rightarrow$ A is the brother of R.<br>3) R @ S $\\Rightarrow$ R is the daughter of S.<br>4) S % K $\\Rightarrow$ S is the father of K.<br><br>From the connections: S is the father of A, R, and K, which means A, R, and K are siblings. A is a male, so A is the brother of K. M is the wife of A. Therefore, M is the wife of K's brother (Brother's wife).<br><br><b>Solution (HI):</b><br>'M ! A # R @ S % K' को डिकोड करने पर:<br>1) M ! A $\\Rightarrow$ M, A की पत्नी है। (A पुरुष है)।<br>2) A # R $\\Rightarrow$ A, R का भाई है।<br>3) R @ S $\\Rightarrow$ R, S की पुत्री है।<br>4) S % K $\\Rightarrow$ S, K का पिता है।<br><br>संबंधों से: S, A, R और K का पिता है, जिसका अर्थ है कि A, R और K भाई-बहन हैं। A एक पुरुष है, इसलिए A, K का भाई है। M, A की पत्नी है। इसलिए, M, K के भाई की पत्नी है।<br><br><b>Short Trick:</b><br>A, R, and K are children of S. A is the brother. M is A's wife. Therefore, to K, M is the brother's wife.<br><br><b>Final Answer:</b> $4$"
+  },
+  {
+    "section": "General intelligence and Reasoning Ability",
+    "topic": "Number/Symbol Series",
+    "difficulty": "Moderate",
+    "q_en": "Refer to the following number, symbol series and answer the question that follows. Counting to be done from left to right only. (All numbers are single digit numbers only.)<br><br>(Left) $5$ ! $7$ £ £ $4$ $9$ © ! © & $8$ & ! $3$ $1$ $7$ © $4$ $7$ ! @ (Right)<br><br>How many such numbers are there, each of which is immediately preceded by a number and also immediately followed by a symbol?",
+    "q_hi": "निम्नलिखित संख्या, प्रतीक श्रृंखला का संदर्भ लें और उसके बाद आने वाले प्रश्न का उत्तर दें। गिनती केवल बाएँ से दाएँ की जानी है। (सभी संख्याएँ केवल एक अंक की संख्याएँ हैं।)<br><br>(बाएँ) $5$ ! $7$ £ £ $4$ $9$ © ! © & $8$ & ! $3$ $1$ $7$ © $4$ $7$ ! @ (दाएँ)<br><br>ऐसी कितनी संख्याएँ हैं, जिनमें से प्रत्येक के ठीक पहले एक संख्या है और ठीक बाद एक प्रतीक है?",
+    "op_en": [
+      "Three",
+      "Four",
+      "Five",
+      "Two"
+    ],
+    "op_hi": [
+      "तीन",
+      "चार",
+      "पाँच",
+      "दो"
+    ],
+    "ans": "1",
+    "solution": "<b>Solution (EN):</b><br>We need to find the specific pattern: Number $\\Rightarrow$ Number $\\Rightarrow$ Symbol.<br>Let's scan the series: $5$ ! $7$ £ £ $4$ $9$ © ! © & $8$ & ! $3$ $1$ $7$ © $4$ $7$ ! @<br>Checking adjacent numbers:<br>1) $4\\ 9$ © : $9$ is preceded by $4$ (Number) and followed by © (Symbol). $\\rightarrow$ Match $1$<br>2) $3\\ 1\\ 7$ : $1$ is preceded by $3$ (Number), but followed by $7$ (Number, not symbol). $\\rightarrow$ No match<br>3) $1\\ 7$ © : $7$ is preceded by $1$ (Number) and followed by © (Symbol). $\\rightarrow$ Match $2$<br>4) $4\\ 7$ ! : $7$ is preceded by $4$ (Number) and followed by ! (Symbol). $\\rightarrow$ Match $3$<br><br>There are exactly $3$ such instances.<br><br><b>Solution (HI):</b><br>हमें विशिष्ट स्वरूप खोजना है: संख्या $\\Rightarrow$ संख्या $\\Rightarrow$ प्रतीक।<br>श्रृंखला को देखने पर: $5$ ! $7$ £ £ $4$ $9$ © ! © & $8$ & ! $3$ $1$ $7$ © $4$ $7$ ! @<br>निकटवर्ती संख्याओं की जाँच करने पर:<br>1) $4\\ 9$ © : $9$ के पहले $4$ (संख्या) है और बाद में © (प्रतीक) है। $\\rightarrow$ मिलान $1$<br>2) $3\\ 1\\ 7$ : $1$ के पहले $3$ (संख्या) है, लेकिन बाद में $7$ (संख्या, प्रतीक नहीं) है। $\\rightarrow$ कोई मिलान नहीं<br>3) $1\\ 7$ © : $7$ के पहले $1$ (संख्या) है और बाद में © (प्रतीक) है। $\\rightarrow$ मिलान $2$<br>4) $4\\ 7$ ! : $7$ के पहले $4$ (संख्या) है और बाद में ! (प्रतीक) है। $\\rightarrow$ मिलान $3$<br><br>ऐसे ठीक $3$ उदाहरण हैं।<br><br><b>Short Trick:</b><br>Look for consecutive numbers first: $49$, $317$, $47$. Now check the element after them. $49$© (Yes), $17$© (Yes), $47$! (Yes). Total matches = $3$.<br><br><b>Final Answer:</b> $1$"
+  }
+]
