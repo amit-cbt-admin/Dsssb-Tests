@@ -1,0 +1,422 @@
+[
+  {
+    "section": "Test of English Language and Comprehension",
+    "topic": "Sentence Improvement",
+    "difficulty": "Medium",
+    "q_en": "A sentence with a grammatical error is given. Identify the error and then from the given options, select the sentence which is error-free and grammatically correct.<br>Joseph sailed from the Maldives on Friday and arriving here on Sunday.",
+    "q_hi": "A sentence with a grammatical error is given. Identify the error and then from the given options, select the sentence which is error-free and grammatically correct.<br>Joseph sailed from the Maldives on Friday and arriving here on Sunday.",
+    "op_en": [
+      "Joseph sail from the Maldives on Friday and had arrive here on Sunday.",
+      "Joseph sailed from the Maldives on Friday and arrive here on Sunday.",
+      "Joseph sailed from the Maldives on Friday and had been arriving here on Sunday.",
+      "Joseph sailed from the Maldives on Friday and arrived here on Sunday."
+    ],
+    "op_hi": [
+      "Joseph sail from the Maldives on Friday and had arrive here on Sunday.",
+      "Joseph sailed from the Maldives on Friday and arrive here on Sunday.",
+      "Joseph sailed from the Maldives on Friday and had been arriving here on Sunday.",
+      "Joseph sailed from the Maldives on Friday and arrived here on Sunday."
+    ],
+    "ans": "4",
+    "solution": "<b>Solution (EN):</b><br>The original sentence has a parallelism error. The verb \"sailed\" is in the simple past tense, so the conjunction \"and\" should connect it to another verb in the simple past tense. \"arriving\" is a present participle, which makes the sentence grammatically incorrect. Therefore, \"arrived\" is the correct verb form.<br><br><b>Solution (HI):</b><br>मूल वाक्य में parallelism (समानांतरता) की त्रुटि है। क्रिया \"sailed\" simple past tense (सामान्य भूतकाल) में है, इसलिए conjunction \"and\" को इसे simple past tense के एक अन्य क्रिया से जोड़ना चाहिए। \"arriving\" एक present participle है, जो वाक्य को व्याकरणिक रूप से गलत बनाता है। इसलिए, \"arrived\" सही क्रिया रूप है।<br><br><b>Final Answer:</b> Joseph sailed from the Maldives on Friday and arrived here on Sunday."
+  },
+  {
+    "section": "Test of English Language and Comprehension",
+    "topic": "Sentence Rearrangement",
+    "difficulty": "Medium",
+    "q_en": "A statement divided into different segments is given. Rearrange all the segments to form a coherent statement.<br><br>(O) an ordinary man<br>(P) in the life of<br>(Q) an ordinary day<br>(R) our own civilization is to examine <br>(S) the best way of understanding",
+    "q_hi": "A statement divided into different segments is given. Rearrange all the segments to form a coherent statement.<br><br>(O) an ordinary man<br>(P) in the life of<br>(Q) an ordinary day<br>(R) our own civilization is to examine <br>(S) the best way of understanding",
+    "op_en": [
+      "SQROP",
+      "ORSQP",
+      "SRQPO",
+      "SQPOR"
+    ],
+    "op_hi": [
+      "SQROP",
+      "ORSQP",
+      "SRQPO",
+      "SQPOR"
+    ],
+    "ans": "3",
+    "solution": "<b>Solution (EN):</b><br>The correct sequence forms a meaningful and grammatically correct sentence: \"The best way of understanding (S) our own civilization is to examine (R) an ordinary day (Q) in the life of (P) an ordinary man (O).\"<br><br><b>Solution (HI):</b><br>सही क्रम एक अर्थपूर्ण और व्याकरणिक रूप से सही वाक्य बनाता है: \"The best way of understanding (S) our own civilization is to examine (R) an ordinary day (Q) in the life of (P) an ordinary man (O).\"<br><br><b>Final Answer:</b> SRQPO"
+  },
+  {
+    "section": "Test of English Language and Comprehension",
+    "topic": "Sentence Improvement",
+    "difficulty": "Easy",
+    "q_en": "Identify the error in the sentence and select the best correction.<br><br>She worked hardly to complete her thesis before the deadline.",
+    "q_hi": "Identify the error in the sentence and select the best correction.<br><br>She worked hardly to complete her thesis before the deadline.",
+    "op_en": [
+      "She worked hard to complete her thesis before the deadline.",
+      "No correction required",
+      "She worked hardest to complete her thesis before the deadline.",
+      "She worked harder to complete her thesis before the deadline."
+    ],
+    "op_hi": [
+      "She worked hard to complete her thesis before the deadline.",
+      "No correction required",
+      "She worked hardest to complete her thesis before the deadline.",
+      "She worked harder to complete her thesis before the deadline."
+    ],
+    "ans": "1",
+    "solution": "<b>Solution (EN):</b><br>The word 'hardly' means 'barely' or 'scarcely', which gives a negative meaning to the sentence. The correct adverb to use here is 'hard', which means with a great deal of effort.<br><br><b>Solution (HI):</b><br>'Hardly' शब्द का अर्थ है 'मुश्किल से' (barely/scarcely), जो वाक्य को एक नकारात्मक अर्थ देता है। यहाँ उपयोग करने के लिए सही क्रियाविशेषण (adverb) 'hard' है, जिसका अर्थ है बहुत अधिक प्रयास या मेहनत के साथ।<br><br><b>Final Answer:</b> She worked hard to complete her thesis before the deadline."
+  },
+  {
+    "section": "Test of English Language and Comprehension",
+    "topic": "Sentence Improvement",
+    "difficulty": "Easy",
+    "q_en": "Identify the error in the sentence and select the best correction.<br><br>The committee have reviews the proposal thoroughly.",
+    "q_hi": "Identify the error in the sentence and select the best correction.<br><br>The committee have reviews the proposal thoroughly.",
+    "op_en": [
+      "The committee has review the proposal thoroughly.",
+      "The committee have review the proposal thoroughly.",
+      "The committee having reviewed the proposal thoroughly.",
+      "The committee has reviewed the proposal thoroughly."
+    ],
+    "op_hi": [
+      "The committee has review the proposal thoroughly.",
+      "The committee have review the proposal thoroughly.",
+      "The committee having reviewed the proposal thoroughly.",
+      "The committee has reviewed the proposal thoroughly."
+    ],
+    "ans": "4",
+    "solution": "<b>Solution (EN):</b><br>'Committee' is a collective noun and is generally treated as a singular noun when acting as a single unit, so it takes the singular helping verb 'has'. Also, the present perfect tense structure is 'has/have + V3 (past participle form of verb)', so 'reviews' should be replaced with 'reviewed'.<br><br><b>Solution (HI):</b><br>'Committee' एक collective noun (समूहवाचक संज्ञा) है और जब यह एक इकाई के रूप में कार्य करता है तो इसे एकवचन संज्ञा माना जाता है, इसलिए इसके साथ एकवचन सहायक क्रिया 'has' का उपयोग होता है। साथ ही, present perfect tense की संरचना 'has/have + V3 (past participle)' है, इसलिए 'reviews' को 'reviewed' से बदल दिया जाना चाहिए।<br><br><b>Final Answer:</b> The committee has reviewed the proposal thoroughly."
+  },
+  {
+    "section": "Test of English Language and Comprehension",
+    "topic": "Fill in the Blanks",
+    "difficulty": "Medium",
+    "q_en": "Complete the sentence with the most appropriate option.<br><br>Although the sculpture appeared simple at first glance, its design revealed a ____________ complexity upon closer examination.",
+    "q_hi": "Complete the sentence with the most appropriate option.<br><br>Although the sculpture appeared simple at first glance, its design revealed a ____________ complexity upon closer examination.",
+    "op_en": [
+      "confusing",
+      "surprising",
+      "puzzling",
+      "surprised"
+    ],
+    "op_hi": [
+      "confusing",
+      "surprising",
+      "puzzling",
+      "surprised"
+    ],
+    "ans": "2",
+    "solution": "<b>Solution (EN):</b><br>The conjunction \"Although\" indicates a contrast between the two clauses. Since the sculpture \"appeared simple at first glance\", its complexity upon closer examination must be unexpected or \"surprising\".<br><br><b>Solution (HI):</b><br>Conjunction \"Although\" दो उपवाक्यों के बीच विरोधाभास (contrast) को दर्शाता है। चूँकि मूर्तिकला \"पहली नज़र में सरल दिखाई देती थी\", करीब से देखने पर इसकी जटिलता अप्रत्याशित या \"surprising\" (आश्चर्यजनक) होनी चाहिए।<br><br><b>Final Answer:</b> surprising"
+  },
+  {
+    "section": "Test of English Language and Comprehension",
+    "topic": "Fill in the Blanks",
+    "difficulty": "Easy",
+    "q_en": "Select the most appropriate option to fill in the blanks.<br><br>She gave me ____ useful suggestion and ____ honest reply.",
+    "q_hi": "Select the most appropriate option to fill in the blanks.<br><br>She gave me ____ useful suggestion and ____ honest reply.",
+    "op_en": [
+      "an, a",
+      "a, an",
+      "an, no article required",
+      "the, a"
+    ],
+    "op_hi": [
+      "an, a",
+      "a, an",
+      "an, no article required",
+      "the, a"
+    ],
+    "ans": "2",
+    "solution": "<b>Solution (EN):</b><br>The word 'useful' starts with a consonant sound ('y' sound), so the indefinite article 'a' is used before it. The word 'honest' starts with a vowel sound ('o' sound, as the 'h' is silent), so the indefinite article 'an' is used before it.<br><br><b>Solution (HI):</b><br>'Useful' शब्द एक व्यंजन ध्वनि (consonant sound - 'y') से शुरू होता है, इसलिए इसके पहले article 'a' का उपयोग किया जाता है। 'Honest' शब्द एक स्वर ध्वनि (vowel sound - 'o') से शुरू होता है क्योंकि 'h' silent (मौन) है, इसलिए इसके पहले article 'an' का उपयोग किया जाता है।<br><br><b>Final Answer:</b> a, an"
+  },
+  {
+    "section": "Test of English Language and Comprehension",
+    "topic": "Fill in the Blanks",
+    "difficulty": "Easy",
+    "q_en": "Complete the following sentence with an appropriate adjective.<br><br>Danny is tall, but not ________ than his brother.",
+    "q_hi": "Complete the following sentence with an appropriate adjective.<br><br>Danny is tall, but not ________ than his brother.",
+    "op_en": [
+      "enough tall",
+      "tallest",
+      "more tall",
+      "taller"
+    ],
+    "op_hi": [
+      "enough tall",
+      "tallest",
+      "more tall",
+      "taller"
+    ],
+    "ans": "4",
+    "solution": "<b>Solution (EN):</b><br>The sentence compares two individuals (Danny and his brother), which requires the comparative degree of the adjective. The comparative form of \"tall\" is \"taller\". The presence of the word \"than\" also clearly indicates a comparison.<br><br><b>Solution (HI):</b><br>यह वाक्य दो व्यक्तियों (डैनी और उसके भाई) की तुलना करता है, जिसके लिए विशेषण (adjective) की comparative degree (तुलनात्मक डिग्री) की आवश्यकता होती है। \"tall\" का comparative रूप \"taller\" है। वाक्य में \"than\" शब्द की उपस्थिति भी स्पष्ट रूप से तुलना को दर्शाती है।<br><br><b>Final Answer:</b> taller"
+  },
+  {
+    "section": "Test of English Language and Comprehension",
+    "topic": "Sentence Improvement",
+    "difficulty": "Medium",
+    "q_en": "Rectify the given sentence by replacing the underlined word with the most appropriate option.<br><br>Close to the mountain, there was just an <u>eminent</u> expanse of grey mud.",
+    "q_hi": "Rectify the given sentence by replacing the underlined word with the most appropriate option.<br><br>Close to the mountain, there was just an <u>eminent</u> expanse of grey mud.",
+    "op_en": [
+      "inarticulate",
+      "immense",
+      "interesting",
+      "exclusive"
+    ],
+    "op_hi": [
+      "inarticulate",
+      "immense",
+      "interesting",
+      "exclusive"
+    ],
+    "ans": "2",
+    "solution": "<b>Solution (EN):</b><br>The word \"eminent\" means famous and respected within a particular sphere, which does not fit the context of an expanse of mud. The correct word is \"immense\", meaning extremely large in scale, proportion, or size, which perfectly describes the expanse of grey mud.<br><br><b>Solution (HI):</b><br>\"eminent\" शब्द का अर्थ प्रसिद्ध और सम्मानित होता है, जो मिट्टी के फैलाव के संदर्भ में उपयुक्त नहीं है। सही शब्द \"immense\" है, जिसका अर्थ है पैमाने, आकार या अनुपात में बहुत बड़ा (विशाल), जो भूरी मिट्टी के विशाल फैलाव का सही वर्णन करता है।<br><br><b>Final Answer:</b> immense"
+  },
+  {
+    "section": "Test of English Language and Comprehension",
+    "topic": "Fill in the Blanks",
+    "difficulty": "Easy",
+    "q_en": "Choose the most appropriate option that fits grammatically and contextually.<br><br>For _____ hour the hail rained on the house, the garden, the hillside, the cornfield, on the whole valley.",
+    "q_hi": "Choose the most appropriate option that fits grammatically and contextually.<br><br>For _____ hour the hail rained on the house, the garden, the hillside, the cornfield, on the whole valley.",
+    "op_en": [
+      "the",
+      "an",
+      "in",
+      "a"
+    ],
+    "op_hi": [
+      "the",
+      "an",
+      "in",
+      "a"
+    ],
+    "ans": "2",
+    "solution": "<b>Solution (EN):</b><br>The word \"hour\" begins with a silent 'h', producing a vowel sound ('aʊə'). According to grammatical rules, the correct indefinite article to use before a word starting with a vowel sound is \"an\".<br><br><b>Solution (HI):</b><br>\"Hour\" शब्द एक मौन (silent) 'h' से शुरू होता है, जिससे स्वर ध्वनि (vowel sound - 'aʊə') उत्पन्न होती है। व्याकरण के नियमों के अनुसार, स्वर ध्वनि से शुरू होने वाले शब्द के पहले उपयोग करने के लिए सही indefinite article \"an\" है।<br><br><b>Final Answer:</b> an"
+  },
+  {
+    "section": "Test of English Language and Comprehension",
+    "topic": "Sentence Improvement",
+    "difficulty": "Easy",
+    "q_en": "Select the correct option to replace the underlined word in the sentence.<br><br>The speaker <u>memorized</u> his point with strong evidence to convince the audience.",
+    "q_hi": "Select the correct option to replace the underlined word in the sentence.<br><br>The speaker <u>memorized</u> his point with strong evidence to convince the audience.",
+    "op_en": [
+      "supported",
+      "repeated",
+      "recited",
+      "dismissed"
+    ],
+    "op_hi": [
+      "supported",
+      "repeated",
+      "recited",
+      "dismissed"
+    ],
+    "ans": "1",
+    "solution": "<b>Solution (EN):</b><br>The word \"memorized\" (to learn by heart) is contextually incorrect because you do not memorize a point with evidence. The correct word is \"supported,\" which means to back up, justify, or prove a claim with strong evidence.<br><br><b>Solution (HI):</b><br>\"memorized\" (याद करना) शब्द संदर्भ के अनुसार गलत है क्योंकि आप साक्ष्य (evidence) के साथ किसी बिंदु को याद नहीं करते हैं। सही शब्द \"supported\" है, जिसका अर्थ है साक्ष्य के साथ किसी दावे का समर्थन करना या उसे साबित करना।<br><br><b>Final Answer:</b> supported"
+  },
+  {
+    "section": "Test of English Language and Comprehension",
+    "topic": "Fill in the Blanks",
+    "difficulty": "Easy",
+    "q_en": "Fill in the blank with the most appropriate option. <br><br>They completed the project __________ despite the tight deadline.",
+    "q_hi": "Fill in the blank with the most appropriate option. <br><br>They completed the project __________ despite the tight deadline.",
+    "op_en": [
+      "lazily",
+      "angrily",
+      "efficiently",
+      "seldom"
+    ],
+    "op_hi": [
+      "lazily",
+      "angrily",
+      "efficiently",
+      "seldom"
+    ],
+    "ans": "3",
+    "solution": "<b>Solution (EN):</b><br>The sentence talks about completing a project despite a tight deadline, which implies doing it well and fast. \"Efficiently\" is the only adverb that fits contextually.<br><br><b>Solution (HI):</b><br>वाक्य एक कड़े डेडलाइन के बावजूद प्रोजेक्ट को पूरा करने की बात कर रहा है, जिसका अर्थ है इसे अच्छी तरह और तेज़ी से करना। \"Efficiently\" (कुशलतापूर्वक) एकमात्र क्रियाविशेषण है जो संदर्भ के अनुकूल है।<br><br><b>Final Answer:</b> efficiently"
+  },
+  {
+    "section": "Test of English Language and Comprehension",
+    "topic": "Articles",
+    "difficulty": "Easy",
+    "q_en": "Choose the most appropriate option that fits grammatically and contextually.<br><br>In _________ north-east, huge mountains of clouds could be seen approaching.",
+    "q_hi": "Choose the most appropriate option that fits grammatically and contextually.<br><br>In _________ north-east, huge mountains of clouds could be seen approaching.",
+    "op_en": [
+      "an",
+      "a",
+      "as",
+      "the"
+    ],
+    "op_hi": [
+      "an",
+      "a",
+      "as",
+      "the"
+    ],
+    "ans": "4",
+    "solution": "<b>Solution (EN):</b><br>The definite article \"the\" is used before the names of geographical directions when they are used as nouns (e.g., the north-east).<br><br><b>Solution (HI):</b><br>निश्चित उपपद (definite article) \"the\" का प्रयोग भौगोलिक दिशाओं के नाम से पहले किया जाता है जब उनका उपयोग संज्ञा के रूप में किया जाता है (जैसे, the north-east)।<br><br><b>Final Answer:</b> the"
+  },
+  {
+    "section": "Test of English Language and Comprehension",
+    "topic": "Articles",
+    "difficulty": "Easy",
+    "q_en": "Fill in the blank with a Suitable Article from the given alternatives:<br><br>The cyclone was formed in ____ east.",
+    "q_hi": "Fill in the blank with a Suitable Article from the given alternatives:<br><br>The cyclone was formed in ____ east.",
+    "op_en": [
+      "No article",
+      "the",
+      "a",
+      "an"
+    ],
+    "op_hi": [
+      "No article",
+      "the",
+      "a",
+      "an"
+    ],
+    "ans": "2",
+    "solution": "<b>Solution (EN):</b><br>The definite article \"the\" is used before the names of specific directions like \"east\", \"west\", \"north\", and \"south\".<br><br><b>Solution (HI):</b><br>विशिष्ट दिशाओं जैसे \"east\" (पूर्व), \"west\", \"north\", और \"south\" के नाम से पहले निश्चित उपपद \"the\" का उपयोग किया जाता है।<br><br><b>Final Answer:</b> the"
+  },
+  {
+    "section": "Test of English Language and Comprehension",
+    "topic": "Fill in the Blanks",
+    "difficulty": "Medium",
+    "q_en": "Complete the sentence with the appropriate option.<br><br>She spoke _____ during the debate, persuading many of her well-reasoned points.",
+    "q_hi": "Complete the sentence with the appropriate option.<br><br>She spoke _____ during the debate, persuading many of her well-reasoned points.",
+    "op_en": [
+      "convincingly",
+      "hesitantly",
+      "timidly",
+      "nervously"
+    ],
+    "op_hi": [
+      "convincingly",
+      "hesitantly",
+      "timidly",
+      "nervously"
+    ],
+    "ans": "1",
+    "solution": "<b>Solution (EN):</b><br>The sentence mentions that she persuaded many with her well-reasoned points. This indicates she spoke in a convincing manner. \"Convincingly\" means in a way that causes someone to believe that something is true or real.<br><br><b>Solution (HI):</b><br>वाक्य में उल्लेख है कि उसने अपने तर्कसंगत बिंदुओं से कई लोगों को मना लिया (persuade)। यह इंगित करता है कि वह एक आश्वस्त करने वाले तरीके से बोली। \"Convincingly\" (विश्वासप्रद ढंग से) का अर्थ है इस तरह से बोलना कि कोई यह विश्वास करे कि कुछ सच या वास्तविक है।<br><br><b>Final Answer:</b> convincingly"
+  },
+  {
+    "section": "Test of English Language and Comprehension",
+    "topic": "Sentence Rearrangement",
+    "difficulty": "Easy",
+    "q_en": "Parts of a sentence are given below in jumbled order. Arrange the parts in the correct order to form a meaningful sentence.<br>were conducted (A) / in several phases (B) / to ensure accuracy (C) / the experiments (D)",
+    "q_hi": "Parts of a sentence are given below in jumbled order. Arrange the parts in the correct order to form a meaningful sentence.<br>were conducted (A) / in several phases (B) / to ensure accuracy (C) / the experiments (D)",
+    "op_en": [
+      "CABD",
+      "DCBA",
+      "ABDC",
+      "DABC"
+    ],
+    "op_hi": [
+      "CABD",
+      "DCBA",
+      "ABDC",
+      "DABC"
+    ],
+    "ans": "4",
+    "solution": "<b>Solution (EN):</b><br>The correct logical order is Subject + Verb + Adverbial phrase + Infinitive phrase. \"The experiments\" (Subject) + \"were conducted\" (Verb) + \"in several phases\" (How) + \"to ensure accuracy\" (Why). Thus, DABC is the correct sequence.<br><br><b>Solution (HI):</b><br>सही तार्किक क्रम है: कर्ता (Subject) + क्रिया (Verb) + क्रियाविशेषण वाक्यांश + अनन्त वाक्यांश। \"The experiments\" (प्रयोग) + \"were conducted\" (किए गए) + \"in several phases\" (कई चरणों में) + \"to ensure accuracy\" (सटीकता सुनिश्चित करने के लिए)। इस प्रकार, DABC सही क्रम है।<br><br><b>Final Answer:</b> DABC"
+  },
+  {
+    "section": "Test of English Language and Comprehension",
+    "topic": "Reading Comprehension",
+    "difficulty": "Medium",
+    "q_en": "<b>Comprehension:</b><br>Read the passage given below and answer the questions that follow.<br><br>These days, it’s common to see preteens and teens constantly on their phones, texting or browsing social media. While social media has benefits like connecting people across distances, it also poses risks for today’s youth. Many can’t imagine life without the internet, and by age ten, most kids already have cell phones; nearly 40% have social media accounts by eleven. Teens often crave likes and comments on their posts, comparing themselves to unrealistic standards online. This can lead to body image issues, risky behaviours, and a need for validation. Research shows excessive social media use can cause depression, anxiety, and low self-esteem, while also hindering social and communication skills. Kids spend more time online than interacting in person, missing opportunities to read body language and social cues. It can also affect sleep and academics if technology use goes unchecked. Parents can help by researching popular apps, setting technology-free zones and times, and collecting devices before bed. It’s important to remember that social media is often a highlight reel. Parents should check in with their children regularly and create a supportive environment where kids feel safe sharing their true feelings.<br>Identify the most suitable title for the passage.",
+    "q_hi": "<b>Comprehension:</b><br>Read the passage given below and answer the questions that follow.<br><br>These days, it’s common to see preteens and teens constantly on their phones, texting or browsing social media. While social media has benefits like connecting people across distances, it also poses risks for today’s youth. Many can’t imagine life without the internet, and by age ten, most kids already have cell phones; nearly 40% have social media accounts by eleven. Teens often crave likes and comments on their posts, comparing themselves to unrealistic standards online. This can lead to body image issues, risky behaviours, and a need for validation. Research shows excessive social media use can cause depression, anxiety, and low self-esteem, while also hindering social and communication skills. Kids spend more time online than interacting in person, missing opportunities to read body language and social cues. It can also affect sleep and academics if technology use goes unchecked. Parents can help by researching popular apps, setting technology-free zones and times, and collecting devices before bed. It’s important to remember that social media is often a highlight reel. Parents should check in with their children regularly and create a supportive environment where kids feel safe sharing their true feelings.<br>Identify the most suitable title for the passage.",
+    "op_en": [
+      "The Evolution of Mobile Technology",
+      "The Impact of Social Media on Today’s Youth",
+      "The Bright Future of Social Media",
+      "The Advantages of Online Learning"
+    ],
+    "op_hi": [
+      "The Evolution of Mobile Technology",
+      "The Impact of Social Media on Today’s Youth",
+      "The Bright Future of Social Media",
+      "The Advantages of Online Learning"
+    ],
+    "ans": "2",
+    "solution": "<b>Solution (EN):</b><br>The passage discusses how preteens and teens use social media, its negative impacts (body image issues, depression, anxiety), and how parents can manage it. Therefore, \"The Impact of Social Media on Today’s Youth\" is the most suitable title.<br><br><b>Solution (HI):</b><br>गद्यांश इस बात पर चर्चा करता है कि पूर्व-किशोर और किशोर सोशल मीडिया का उपयोग कैसे करते हैं, इसके नकारात्मक प्रभाव (शारीरिक छवि के मुद्दे, अवसाद, चिंता) क्या हैं, और माता-पिता इसे कैसे प्रबंधित कर सकते हैं। इसलिए, \"आज के युवाओं पर सोशल मीडिया का प्रभाव\" (The Impact of Social Media on Today’s Youth) सबसे उपयुक्त शीर्षक है।<br><br><b>Final Answer:</b> The Impact of Social Media on Today’s Youth"
+  },
+  {
+    "section": "Test of English Language and Comprehension",
+    "topic": "Reading Comprehension",
+    "difficulty": "Medium",
+    "q_en": "<b>Comprehension:</b><br>Read the passage given below and answer the questions that follow.<br><br>These days, it’s common to see preteens and teens constantly on their phones, texting or browsing social media. While social media has benefits like connecting people across distances, it also poses risks for today’s youth. Many can’t imagine life without the internet, and by age ten, most kids already have cell phones; nearly 40% have social media accounts by eleven. Teens often crave likes and comments on their posts, comparing themselves to unrealistic standards online. This can lead to body image issues, risky behaviours, and a need for validation. Research shows excessive social media use can cause depression, anxiety, and low self-esteem, while also hindering social and communication skills. Kids spend more time online than interacting in person, missing opportunities to read body language and social cues. It can also affect sleep and academics if technology use goes unchecked. Parents can help by researching popular apps, setting technology-free zones and times, and collecting devices before bed. It’s important to remember that social media is often a highlight reel. Parents should check in with their children regularly and create a supportive environment where kids feel safe sharing their true feelings.<br>Identify the central theme of the passage.",
+    "q_hi": "<b>Comprehension:</b><br>Read the passage given below and answer the questions that follow.<br><br>These days, it’s common to see preteens and teens constantly on their phones, texting or browsing social media. While social media has benefits like connecting people across distances, it also poses risks for today’s youth. Many can’t imagine life without the internet, and by age ten, most kids already have cell phones; nearly 40% have social media accounts by eleven. Teens often crave likes and comments on their posts, comparing themselves to unrealistic standards online. This can lead to body image issues, risky behaviours, and a need for validation. Research shows excessive social media use can cause depression, anxiety, and low self-esteem, while also hindering social and communication skills. Kids spend more time online than interacting in person, missing opportunities to read body language and social cues. It can also affect sleep and academics if technology use goes unchecked. Parents can help by researching popular apps, setting technology-free zones and times, and collecting devices before bed. It’s important to remember that social media is often a highlight reel. Parents should check in with their children regularly and create a supportive environment where kids feel safe sharing their true feelings.<br>Identify the central theme of the passage.",
+    "op_en": [
+      "Children today are more responsible with technology than before.",
+      "Social media improves communication and self-confidence.",
+      "Parents should ban technology entirely for their children.",
+      "Excessive social media use can harm kids’ well-being and development."
+    ],
+    "op_hi": [
+      "Children today are more responsible with technology than before.",
+      "Social media improves communication and self-confidence.",
+      "Parents should ban technology entirely for their children.",
+      "Excessive social media use can harm kids’ well-being and development."
+    ],
+    "ans": "4",
+    "solution": "<b>Solution (EN):</b><br>The entire passage revolves around the negative consequences of too much social media on children's mental and social health (depression, anxiety, lack of communication skills) and suggests ways to mitigate them. Thus, option 4 is the central theme.<br><br><b>Solution (HI):</b><br>पूरा गद्यांश बच्चों के मानसिक और सामाजिक स्वास्थ्य (अवसाद, चिंता, संचार कौशल की कमी) पर बहुत अधिक सोशल मीडिया के नकारात्मक परिणामों के इर्द-गिर्द घूमता है और उन्हें कम करने के तरीके सुझाता है। अतः, विकल्प 4 केंद्रीय विषय (central theme) है।<br><br><b>Final Answer:</b> Excessive social media use can harm kids’ well-being and development."
+  },
+  {
+    "section": "Test of English Language and Comprehension",
+    "topic": "Reading Comprehension",
+    "difficulty": "Medium",
+    "q_en": "<b>Comprehension:</b><br>Read the passage given below and answer the questions that follow.<br><br>These days, it’s common to see preteens and teens constantly on their phones, texting or browsing social media. While social media has benefits like connecting people across distances, it also poses risks for today’s youth. Many can’t imagine life without the internet, and by age ten, most kids already have cell phones; nearly 40% have social media accounts by eleven. Teens often crave likes and comments on their posts, comparing themselves to unrealistic standards online. This can lead to body image issues, risky behaviours, and a need for validation. Research shows excessive social media use can cause depression, anxiety, and low self-esteem, while also hindering social and communication skills. Kids spend more time online than interacting in person, missing opportunities to read body language and social cues. It can also affect sleep and academics if technology use goes unchecked. Parents can help by researching popular apps, setting technology-free zones and times, and collecting devices before bed. It’s important to remember that social media is often a highlight reel. Parents should check in with their children regularly and create a supportive environment where kids feel safe sharing their true feelings.<br>Identify the inference drawn from the passage.",
+    "q_hi": "<b>Comprehension:</b><br>Read the passage given below and answer the questions that follow.<br><br>These days, it’s common to see preteens and teens constantly on their phones, texting or browsing social media. While social media has benefits like connecting people across distances, it also poses risks for today’s youth. Many can’t imagine life without the internet, and by age ten, most kids already have cell phones; nearly 40% have social media accounts by eleven. Teens often crave likes and comments on their posts, comparing themselves to unrealistic standards online. This can lead to body image issues, risky behaviours, and a need for validation. Research shows excessive social media use can cause depression, anxiety, and low self-esteem, while also hindering social and communication skills. Kids spend more time online than interacting in person, missing opportunities to read body language and social cues. It can also affect sleep and academics if technology use goes unchecked. Parents can help by researching popular apps, setting technology-free zones and times, and collecting devices before bed. It’s important to remember that social media is often a highlight reel. Parents should check in with their children regularly and create a supportive environment where kids feel safe sharing their true feelings.<br>Identify the inference drawn from the passage.",
+    "op_en": [
+      "Kids who use social media perform better academically.",
+      "Teens no longer face any mental health issues.",
+      "Setting boundaries around technology use can help protect children.",
+      "Parents should avoid talking to their children about social media."
+    ],
+    "op_hi": [
+      "Kids who use social media perform better academically.",
+      "Teens no longer face any mental health issues.",
+      "Setting boundaries around technology use can help protect children.",
+      "Parents should avoid talking to their children about social media."
+    ],
+    "ans": "3",
+    "solution": "<b>Solution (EN):</b><br>The passage explicitly states that parents can help by \"setting technology-free zones and times, and collecting devices before bed.\" This implies that setting boundaries is a protective measure for children.<br><br><b>Solution (HI):</b><br>गद्यांश स्पष्ट रूप से बताता है कि माता-पिता \"प्रौद्योगिकी-मुक्त क्षेत्र और समय निर्धारित करके, और सोने से पहले उपकरणों को इकट्ठा करके\" मदद कर सकते हैं। इससे यह निष्कर्ष (inference) निकलता है कि सीमाएँ निर्धारित करना बच्चों के लिए एक सुरक्षात्मक उपाय है।<br><br><b>Final Answer:</b> Setting boundaries around technology use can help protect children."
+  },
+  {
+    "section": "Test of English Language and Comprehension",
+    "topic": "Reading Comprehension",
+    "difficulty": "Medium",
+    "q_en": "<b>Comprehension:</b><br>Read the passage given below and answer the questions that follow.<br><br>These days, it’s common to see preteens and teens constantly on their phones, texting or browsing social media. While social media has benefits like connecting people across distances, it also poses risks for today’s youth. Many can’t imagine life without the internet, and by age ten, most kids already have cell phones; nearly 40% have social media accounts by eleven. Teens often crave likes and comments on their posts, comparing themselves to unrealistic standards online. This can lead to body image issues, risky behaviours, and a need for validation. Research shows excessive social media use can cause depression, anxiety, and low self-esteem, while also hindering social and communication skills. Kids spend more time online than interacting in person, missing opportunities to read body language and social cues. It can also affect sleep and academics if technology use goes unchecked. Parents can help by researching popular apps, setting technology-free zones and times, and collecting devices before bed. It’s important to remember that social media is often a highlight reel. Parents should check in with their children regularly and create a supportive environment where kids feel safe sharing their true feelings.<br>Identify the tone of the passage.",
+    "q_hi": "<b>Comprehension:</b><br>Read the passage given below and answer the questions that follow.<br><br>These days, it’s common to see preteens and teens constantly on their phones, texting or browsing social media. While social media has benefits like connecting people across distances, it also poses risks for today’s youth. Many can’t imagine life without the internet, and by age ten, most kids already have cell phones; nearly 40% have social media accounts by eleven. Teens often crave likes and comments on their posts, comparing themselves to unrealistic standards online. This can lead to body image issues, risky behaviours, and a need for validation. Research shows excessive social media use can cause depression, anxiety, and low self-esteem, while also hindering social and communication skills. Kids spend more time online than interacting in person, missing opportunities to read body language and social cues. It can also affect sleep and academics if technology use goes unchecked. Parents can help by researching popular apps, setting technology-free zones and times, and collecting devices before bed. It’s important to remember that social media is often a highlight reel. Parents should check in with their children regularly and create a supportive environment where kids feel safe sharing their true feelings.<br>Identify the tone of the passage.",
+    "op_en": [
+      "Informative",
+      "Alarmist",
+      "Critical",
+      "Humorous"
+    ],
+    "op_hi": [
+      "Informative",
+      "Alarmist",
+      "Critical",
+      "Humorous"
+    ],
+    "ans": "1",
+    "solution": "<b>Solution (EN):</b><br>The tone of the passage is informative. It presents facts, research findings, and practical advice for parents in a balanced and objective manner without being overly dramatic (alarmist) or funny (humorous).<br><br><b>Solution (HI):</b><br>गद्यांश का लहजा सूचनात्मक (informative) है। यह तथ्यों, शोध के निष्कर्षों और माता-पिता के लिए व्यावहारिक सलाह को संतुलित और वस्तुनिष्ठ तरीके से प्रस्तुत करता है, बिना बहुत अधिक नाटकीय (alarmist) या मजाकिया (humorous) हुए।<br><br><b>Final Answer:</b> Informative"
+  },
+  {
+    "section": "Test of English Language and Comprehension",
+    "topic": "Reading Comprehension",
+    "difficulty": "Easy",
+    "q_en": "<b>Comprehension:</b><br>Read the passage given below and answer the questions that follow.<br><br>These days, it’s common to see preteens and teens constantly on their phones, texting or browsing social media. While social media has benefits like connecting people across distances, it also poses risks for today’s youth. Many can’t imagine life without the internet, and by age ten, most kids already have cell phones; nearly 40% have social media accounts by eleven. Teens often crave likes and comments on their posts, comparing themselves to unrealistic standards online. This can lead to body image issues, risky behaviours, and a need for validation. Research shows excessive social media use can cause depression, anxiety, and low self-esteem, while also hindering social and communication skills. Kids spend more time online than interacting in person, missing opportunities to read body language and social cues. It can also affect sleep and academics if technology use goes unchecked. Parents can help by researching popular apps, setting technology-free zones and times, and collecting devices before bed. It’s important to remember that social media is often a highlight reel. Parents should check in with their children regularly and create a supportive environment where kids feel safe sharing their true feelings.<br>Identify the antonym of the word 'excessive' (used in the passage).",
+    "q_hi": "<b>Comprehension:</b><br>Read the passage given below and answer the questions that follow.<br><br>These days, it’s common to see preteens and teens constantly on their phones, texting or browsing social media. While social media has benefits like connecting people across distances, it also poses risks for today’s youth. Many can’t imagine life without the internet, and by age ten, most kids already have cell phones; nearly 40% have social media accounts by eleven. Teens often crave likes and comments on their posts, comparing themselves to unrealistic standards online. This can lead to body image issues, risky behaviours, and a need for validation. Research shows excessive social media use can cause depression, anxiety, and low self-esteem, while also hindering social and communication skills. Kids spend more time online than interacting in person, missing opportunities to read body language and social cues. It can also affect sleep and academics if technology use goes unchecked. Parents can help by researching popular apps, setting technology-free zones and times, and collecting devices before bed. It’s important to remember that social media is often a highlight reel. Parents should check in with their children regularly and create a supportive environment where kids feel safe sharing their true feelings.<br>Identify the antonym of the word 'excessive' (used in the passage).",
+    "op_en": [
+      "Abundant",
+      "Moderate",
+      "Overwhelming",
+      "Extreme"
+    ],
+    "op_hi": [
+      "Abundant",
+      "Moderate",
+      "Overwhelming",
+      "Extreme"
+    ],
+    "ans": "2",
+    "solution": "<b>Solution (EN):</b><br>The word 'excessive' means more than is necessary, normal, or desirable. Its antonym is 'moderate', which means average in amount, intensity, quality, or degree. 'Abundant', 'Overwhelming', and 'Extreme' are closer to synonyms.<br><br><b>Solution (HI):</b><br>'Excessive' शब्द का अर्थ है आवश्यकता, सामान्य या वांछनीय से अधिक (अत्यधिक)। इसका विलोम (antonym) 'moderate' (मध्यम/सीमित) है, जिसका अर्थ है मात्रा, तीव्रता, गुणवत्ता या डिग्री में औसत। 'Abundant', 'Overwhelming', और 'Extreme' इसके समानार्थक शब्द के करीब हैं।<br><br><b>Final Answer:</b> Moderate"
+  }
+]
