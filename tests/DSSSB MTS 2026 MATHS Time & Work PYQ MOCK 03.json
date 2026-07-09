@@ -1,0 +1,926 @@
+[
+  {
+    "section": "Mathematics",
+    "topic": "Time and Work",
+    "difficulty": "Medium",
+    "q_en": "Team A can complete a project in !15! days, and Team B can complete the same project in !20! days. If both teams work together, but Team B leaves after !6! days, how many more days will Team A take to finish the remaining work?",
+    "q_hi": "टीम A एक प्रोजेक्ट को !15! दिनों में पूरा कर सकती है, और टीम B उसी प्रोजेक्ट को !20! दिनों में पूरा कर सकती है। यदि दोनों टीमें एक साथ काम करती हैं, लेकिन टीम B !6! दिनों के बाद काम छोड़ देती है, तो टीम A को शेष कार्य पूरा करने में कितने और दिन लगेंगे?",
+    "op_en": [
+      "2.5 days",
+      "5.5 days",
+      "6.5 days",
+      "4.5 days"
+    ],
+    "op_hi": [
+      "2.5 दिन",
+      "5.5 दिन",
+      "6.5 दिन",
+      "4.5 दिन"
+    ],
+    "ans": 4,
+    "solution": "<b>Solution (EN):</b> Let total work = LCM of !15! and !20! = !60! units. <br>Efficiency of Team A = !\\\\dfrac{60}{15} = 4! units/day. <br>Efficiency of Team B = !\\\\dfrac{60}{20} = 3! units/day. <br>Work done by both teams in !6! days = !(4 + 3) \\\\times 6 = 7 \\\\times 6 = 42! units. <br>Remaining work = !60 - 42 = 18! units. <br>Time taken by Team A to finish the remaining work = !\\\\dfrac{18}{4} = 4.5! days. <br><br><b>Solution (HI):</b> माना कुल कार्य = !15! और !20! का LCM = !60! इकाई। <br>टीम A की क्षमता = !\\\\dfrac{60}{15} = 4! इकाई/दिन। <br>टीम B की क्षमता = !\\\\dfrac{60}{20} = 3! इकाई/दिन। <br>दोनों टीमों द्वारा !6! दिनों में किया गया कार्य = !(4 + 3) \\\\times 6 = 7 \\\\times 6 = 42! इकाई। <br>शेष कार्य = !60 - 42 = 18! इकाई। <br>टीम A द्वारा शेष कार्य को पूरा करने में लिया गया समय = !\\\\dfrac{18}{4} = 4.5! दिन। <br><br><b>Short Trick:</b> Work done by A and B in !6! days = !6 \\\\times \\\\left(\\\\dfrac{1}{15} + \\\\dfrac{1}{20}\\\\right) = 6 \\\\times \\\\left(\\\\dfrac{7}{60}\\\\right) = \\\\dfrac{7}{10}!. <br>Remaining work = !1 - \\\\dfrac{7}{10} = \\\\dfrac{3}{10}!. <br>Time for A to do !\\\\dfrac{3}{10}! work = !\\\\dfrac{3}{10} \\\\times 15 = 4.5! days. <br><br><b>Final Answer:</b> !4.5! days"
+  },
+  {
+    "section": "Mathematics",
+    "topic": "Time and Work",
+    "difficulty": "Medium",
+    "q_en": "Anjali and Bipin can complete a job in !40! and !60! days, respectively. They work on alternate days, starting with Anjali. How many days will it take to complete the work?",
+    "q_hi": "अंजलि और बिपिन एक काम को क्रमशः !40! और !60! दिनों में पूरा कर सकते हैं। वे वैकल्पिक दिनों (alternate days) में काम करते हैं, और अंजलि काम शुरू करती है। काम पूरा होने में कितने दिन लगेंगे?",
+    "op_en": [
+      "48 days",
+      "52 days",
+      "45 days",
+      "50 days"
+    ],
+    "op_hi": [
+      "48 दिन",
+      "52 दिन",
+      "45 दिन",
+      "50 दिन"
+    ],
+    "ans": 1,
+    "solution": "<b>Solution (EN):</b> Let total work = LCM of !40! and !60! = !120! units. <br>Efficiency of Anjali = !\\\\dfrac{120}{40} = 3! units/day. <br>Efficiency of Bipin = !\\\\dfrac{120}{60} = 2! units/day. <br>Since they work on alternate days, in one cycle of !2! days, work done = !3 + 2 = 5! units. <br>Number of cycles required to complete !120! units = !\\\\dfrac{120}{5} = 24! cycles. <br>Total time taken = !24 \\\\times 2 = 48! days. <br><br><b>Solution (HI):</b> माना कुल कार्य = !40! और !60! का LCM = !120! इकाई। <br>अंजलि की क्षमता = !\\\\dfrac{120}{40} = 3! इकाई/दिन। <br>बिपिन की क्षमता = !\\\\dfrac{120}{60} = 2! इकाई/दिन। <br>चूंकि वे वैकल्पिक दिनों में काम करते हैं, इसलिए !2! दिनों के एक चक्र में किया गया कार्य = !3 + 2 = 5! इकाई। <br>!120! इकाई पूरा करने के लिए आवश्यक चक्रों की संख्या = !\\\\dfrac{120}{5} = 24! चक्र। <br>लिया गया कुल समय = !24 \\\\times 2 = 48! दिन। <br><br><b>Short Trick:</b> Alternate days format: Work in !2! days = !\\\\dfrac{1}{40} + \\\\dfrac{1}{60} = \\\\dfrac{5}{120} = \\\\dfrac{1}{24}!. <br>So, !1! full work is done in !24 \\\\times 2 = 48! days. <br><br><b>Final Answer:</b> !48! days"
+  },
+  {
+    "section": "Mathematics",
+    "topic": "Time and Work",
+    "difficulty": "Medium",
+    "q_en": "P can do a work !3! times faster than Q and therefore takes !42! days less than Q. Find the time in which P and Q can complete the work individually.",
+    "q_hi": "P किसी कार्य को Q की तुलना में !3! गुना तेजी से कर सकता है और इसलिए उसे Q से !42! दिन कम लगते हैं। वह समय ज्ञात कीजिए जिसमें P और Q व्यक्तिगत रूप से कार्य पूरा कर सकते हैं।",
+    "op_en": [
+      "23 days, 69 days",
+      "21 days, 63 days",
+      "20 days, 60 days",
+      "22 days, 66 days"
+    ],
+    "op_hi": [
+      "23 दिन, 69 दिन",
+      "21 दिन, 63 दिन",
+      "20 दिन, 60 दिन",
+      "22 दिन, 66 दिन"
+    ],
+    "ans": 2,
+    "solution": "<b>Solution (EN):</b> Ratio of efficiencies of P and Q = !3 : 1!. <br>Since time is inversely proportional to efficiency, ratio of time taken by P and Q = !1 : 3!. <br>Let the time taken by P be !x! days and by Q be !3x! days. <br>Difference in time = !3x - x = 2x! days. <br>Given, !2x = 42! days !\\\\Rightarrow x = 21! days. <br>Time taken by P = !x = 21! days. <br>Time taken by Q = !3x = 3 \\\\times 21 = 63! days. <br><br><b>Solution (HI):</b> P और Q की क्षमताओं का अनुपात = !3 : 1!। <br>चूंकि समय क्षमता के व्युत्क्रमानुपाती होता है, P और Q द्वारा लिए गए समय का अनुपात = !1 : 3!। <br>माना P द्वारा लिया गया समय !x! दिन और Q द्वारा लिया गया समय !3x! दिन है। <br>समय में अंतर = !3x - x = 2x! दिन। <br>दिया गया है, !2x = 42! दिन !\\\\Rightarrow x = 21! दिन। <br>P द्वारा लिया गया समय = !x = 21! दिन। <br>Q द्वारा लिया गया समय = !3x = 3 \\\\times 21 = 63! दिन। <br><br><b>Short Trick:</b> Time of P = !\\\\dfrac{\\\\text{Difference in days}}{n - 1} = \\\\dfrac{42}{3 - 1} = \\\\dfrac{42}{2} = 21! days. <br>Time of Q = !21 \\\\times 3 = 63! days. <br><br><b>Final Answer:</b> !21! days, !63! days"
+  },
+  {
+    "section": "Mathematics",
+    "topic": "Time and Work",
+    "difficulty": "Medium",
+    "q_en": "Working alone, A, B and C can complete a piece of work in !20! days, !30! days and !120! days, respectively. A and B work together for !8! days and then leave. How many more days will C take to complete the remaining work?",
+    "q_hi": "अकेले काम करते हुए, A, B और C एक काम को क्रमशः !20! दिन, !30! दिन और !120! दिन में पूरा कर सकते हैं। A और B !8! दिनों तक एक साथ काम करते हैं और फिर छोड़ देते हैं। शेष कार्य को पूरा करने में C को कितने और दिन लगेंगे?",
+    "op_en": [
+      "35 days",
+      "45 days",
+      "50 days",
+      "40 days"
+    ],
+    "op_hi": [
+      "35 दिन",
+      "45 दिन",
+      "50 दिन",
+      "40 दिन"
+    ],
+    "ans": 4,
+    "solution": "<b>Solution (EN):</b> Let total work = LCM of !20!, !30!, and !120! = !120! units. <br>Efficiency of A = !\\\\dfrac{120}{20} = 6! units/day. <br>Efficiency of B = !\\\\dfrac{120}{30} = 4! units/day. <br>Efficiency of C = !\\\\dfrac{120}{120} = 1! unit/day. <br>Work done by A and B together in !8! days = !(6 + 4) \\\\times 8 = 10 \\\\times 8 = 80! units. <br>Remaining work = !120 - 80 = 40! units. <br>Time taken by C alone to complete the remaining work = !\\\\dfrac{40}{1} = 40! days. <br><br><b>Solution (HI):</b> माना कुल कार्य = !20!, !30!, और !120! का LCM = !120! इकाई। <br>A की क्षमता = !\\\\dfrac{120}{20} = 6! इकाई/दिन। <br>B की क्षमता = !\\\\dfrac{120}{30} = 4! इकाई/दिन। <br>C की क्षमता = !\\\\dfrac{120}{120} = 1! इकाई/दिन। <br>A और B द्वारा !8! दिनों में एक साथ किया गया कार्य = !(6 + 4) \\\\times 8 = 10 \\\\times 8 = 80! इकाई। <br>शेष कार्य = !120 - 80 = 40! इकाई। <br>C द्वारा अकेले शेष कार्य को पूरा करने में लिया गया समय = !\\\\dfrac{40}{1} = 40! दिन। <br><br><b>Short Trick:</b> Work done by A and B = !8 \\\\times \\\\left(\\\\dfrac{1}{20} + \\\\dfrac{1}{30}\\\\right) = 8 \\\\times \\\\left(\\\\dfrac{5}{60}\\\\right) = \\\\dfrac{40}{60} = \\\\dfrac{2}{3}!. <br>Remaining work = !\\\\dfrac{1}{3}!. <br>Time taken by C = !\\\\dfrac{1}{3} \\\\times 120 = 40! days. <br><br><b>Final Answer:</b> !40! days"
+  },
+  {
+    "section": "Mathematics",
+    "topic": "Time and Work",
+    "difficulty": "Easy",
+    "q_en": "Ravi is !36\\\\%! more efficient than Rohan. If Rohan can complete a work in !34! days, then in how many days can Ravi alone complete the same work?",
+    "q_hi": "रवि, रोहन से !36\\\\%! अधिक कुशल है। यदि रोहन एक काम को !34! दिनों में पूरा कर सकता है, तो रवि अकेला उसी काम को कितने दिनों में पूरा कर सकता है?",
+    "op_en": [
+      "16",
+      "21",
+      "12",
+      "25"
+    ],
+    "op_hi": [
+      "16",
+      "21",
+      "12",
+      "25"
+    ],
+    "ans": 4,
+    "solution": "<b>Solution (EN):</b> Let the efficiency of Rohan be !100\\\\%!. <br>Then, the efficiency of Ravi = !100\\\\% + 36\\\\% = 136\\\\%!. <br>Ratio of efficiencies of Ravi : Rohan = !136 : 100 = 34 : 25!. <br>Since time is inversely proportional to efficiency, ratio of time taken by Ravi : Rohan = !25 : 34!. <br>Let time taken by Ravi be !25x! and by Rohan be !34x!. <br>Given, time taken by Rohan = !34! days. <br>!\\\\Rightarrow 34x = 34 \\\\Rightarrow x = 1!. <br>Therefore, time taken by Ravi = !25x = 25 \\\\times 1 = 25! days. <br><br><b>Solution (HI):</b> माना रोहन की क्षमता !100\\\\%! है। <br>तब, रवि की क्षमता = !100\\\\% + 36\\\\% = 136\\\\%!। <br>रवि और रोहन की क्षमताओं का अनुपात = !136 : 100 = 34 : 25!। <br>चूंकि समय क्षमता के व्युत्क्रमानुपाती होता है, इसलिए रवि और रोहन द्वारा लिए गए समय का अनुपात = !25 : 34!। <br>माना रवि द्वारा लिया गया समय !25x! और रोहन द्वारा लिया गया समय !34x! है। <br>दिया गया है, रोहन द्वारा लिया गया समय = !34! दिन। <br>!\\\\Rightarrow 34x = 34 \\\\Rightarrow x = 1!। <br>इसलिए, रवि द्वारा लिया गया समय = !25x = 25 \\\\times 1 = 25! दिन। <br><br><b>Short Trick:</b> Time for Ravi = !\\\\text{Time for Rohan} \\\\times \\\\left(\\\\dfrac{\\\\text{Eff of Rohan}}{\\\\text{Eff of Ravi}}\\\\right)! <br>Time for Ravi = !34 \\\\times \\\\left(\\\\dfrac{100}{136}\\\\right) = 34 \\\\times \\\\left(\\\\dfrac{25}{34}\\\\right) = 25! days. <br><br><b>Final Answer:</b> !25!"
+  },
+  {
+    "section": "Mathematics",
+    "topic": "Time and Work",
+    "difficulty": "Hard",
+    "q_en": "A, B and C can do a piece of work in !63!, !84!, !126! days respectively. They started the work but B left !24! days before the completion of the work while C left !27! days before the completion. In how many days the work was completed?",
+    "q_hi": "A, B और C एक काम को क्रमशः !63!, !84!, !126! दिनों में कर सकते हैं। उन्होंने काम शुरू किया लेकिन काम पूरा होने से !24! दिन पहले B ने काम छोड़ दिया जबकि C ने काम पूरा होने से !27! दिन पहले काम छोड़ दिया। काम कितने दिनों में पूरा हुआ?",
+    "op_en": [
+      "37",
+      "45",
+      "32",
+      "42"
+    ],
+    "op_hi": [
+      "37",
+      "45",
+      "32",
+      "42"
+    ],
+    "ans": 4,
+    "solution": "<b>Solution (EN):</b> Let total work = LCM of !63!, !84!, and !126! = !252! units. <br>Efficiency of A = !\\\\dfrac{252}{63} = 4! units/day. <br>Efficiency of B = !\\\\dfrac{252}{84} = 3! units/day. <br>Efficiency of C = !\\\\dfrac{252}{126} = 2! units/day. <br>Let the total time taken to complete the work be !x! days. <br>A worked for all !x! days, B worked for !(x - 24)! days, and C worked for !(x - 27)! days. <br>Total work = Work by A + Work by B + Work by C <br>!\\\\Rightarrow 4(x) + 3(x - 24) + 2(x - 27) = 252! <br>!\\\\Rightarrow 4x + 3x - 72 + 2x - 54 = 252! <br>!\\\\Rightarrow 9x - 126 = 252! <br>!\\\\Rightarrow 9x = 378! <br>!\\\\Rightarrow x = 42! days. <br><br><b>Solution (HI):</b> माना कुल कार्य = !63!, !84! और !126! का LCM = !252! इकाई। <br>A की क्षमता = !\\\\dfrac{252}{63} = 4! इकाई/दिन। <br>B की क्षमता = !\\\\dfrac{252}{84} = 3! इकाई/दिन। <br>C की क्षमता = !\\\\dfrac{252}{126} = 2! इकाई/दिन। <br>माना काम पूरा होने में लगा कुल समय !x! दिन है। <br>A ने पूरे !x! दिन काम किया, B ने !(x - 24)! दिन काम किया, और C ने !(x - 27)! दिन काम किया। <br>कुल कार्य = A द्वारा कार्य + B द्वारा कार्य + C द्वारा कार्य <br>!\\\\Rightarrow 4(x) + 3(x - 24) + 2(x - 27) = 252! <br>!\\\\Rightarrow 4x + 3x - 72 + 2x - 54 = 252! <br>!\\\\Rightarrow 9x - 126 = 252! <br>!\\\\Rightarrow 9x = 378! <br>!\\\\Rightarrow x = 42! दिन। <br><br><b>Short Trick:</b> If B and C hadn't left, the extra work done by them would be: <br>Extra work by B = !3 \\\\times 24 = 72! units. <br>Extra work by C = !2 \\\\times 27 = 54! units. <br>New assumed total work = !252 + 72 + 54 = 378! units. <br>Since all A, B, and C would be working till the end in this scenario: <br>Total time = !\\\\dfrac{378}{4 + 3 + 2} = \\\\dfrac{378}{9} = 42! days. <br><br><b>Final Answer:</b> !42!"
+  },
+  {
+    "section": "Mathematics",
+    "topic": "Pipe and Cistern",
+    "difficulty": "Medium",
+    "q_en": "Three inlet pipes, A, B, and C, can fill a cistern in !12! hours, !15! hours, and !60! hours, respectively. All three pipes are opened at the same time when the cistern is empty, and pipe C is shut off after !1.5! hours. Determine the time required for pipes A and B to fill the remaining part of the cistern.",
+    "q_hi": "तीन भरने वाले पाइप, A, B और C, एक टंकी को क्रमशः !12! घंटे, !15! घंटे और !60! घंटे में भर सकते हैं। टंकी खाली होने पर तीनों पाइप एक साथ खोले जाते हैं, और !1.5! घंटे के बाद पाइप C को बंद कर दिया जाता है। टंकी के शेष भाग को भरने के लिए पाइप A और B को कितना समय लगेगा?",
+    "op_en": [
+      "7 hours",
+      "4 hours",
+      "5 hours",
+      "6 hours"
+    ],
+    "op_hi": [
+      "7 घंटे",
+      "4 घंटे",
+      "5 घंटे",
+      "6 घंटे"
+    ],
+    "ans": 3,
+    "solution": "<b>Solution (EN):</b> Let total capacity of the cistern = LCM of !12!, !15!, and !60! = !60! units. <br>Efficiency of Pipe A = !\\\\dfrac{60}{12} = 5! units/hour. <br>Efficiency of Pipe B = !\\\\dfrac{60}{15} = 4! units/hour. <br>Efficiency of Pipe C = !\\\\dfrac{60}{60} = 1! unit/hour. <br>Combined efficiency of all three (A + B + C) = !5 + 4 + 1 = 10! units/hour. <br>Work done by all three pipes in the first !1.5! hours = !10 \\\\times 1.5 = 15! units. <br>Remaining work = !60 - 15 = 45! units. <br>Now, pipe C is shut off. Combined efficiency of A and B = !5 + 4 = 9! units/hour. <br>Time required by A and B to fill the remaining part = !\\\\dfrac{45}{9} = 5! hours. <br><br><b>Solution (HI):</b> माना टंकी की कुल क्षमता = !12!, !15! और !60! का LCM = !60! इकाई। <br>पाइप A की क्षमता = !\\\\dfrac{60}{12} = 5! इकाई/घंटा। <br>पाइप B की क्षमता = !\\\\dfrac{60}{15} = 4! इकाई/घंटा। <br>पाइप C की क्षमता = !\\\\dfrac{60}{60} = 1! इकाई/घंटा। <br>तीनों की संयुक्त क्षमता (A + B + C) = !5 + 4 + 1 = 10! इकाई/घंटा। <br>पहले !1.5! घंटों में तीनों पाइपों द्वारा किया गया कार्य = !10 \\\\times 1.5 = 15! इकाई। <br>शेष कार्य = !60 - 15 = 45! इकाई। <br>अब, पाइप C बंद कर दिया जाता है। A और B की संयुक्त क्षमता = !5 + 4 = 9! इकाई/घंटा। <br>शेष भाग को भरने के लिए A और B द्वारा लिया गया समय = !\\\\dfrac{45}{9} = 5! घंटे। <br><br><b>Short Trick:</b> Work done in !1.5! hours = !1.5 \\\\times \\\\left(\\\\dfrac{1}{12} + \\\\dfrac{1}{15} + \\\\dfrac{1}{60}\\\\right) = 1.5 \\\\times \\\\left(\\\\dfrac{5 + 4 + 1}{60}\\\\right) = 1.5 \\\\times \\\\dfrac{10}{60} = \\\\dfrac{15}{60} = \\\\dfrac{1}{4}!. <br>Remaining part = !\\\\dfrac{3}{4}!. <br>Efficiency of A + B = !\\\\dfrac{5 + 4}{60} = \\\\dfrac{9}{60}!. <br>Time = !\\\\dfrac{\\\\dfrac{3}{4}}{\\\\dfrac{9}{60}} = \\\\dfrac{3}{4} \\\\times \\\\dfrac{60}{9} = 5! hours. <br><br><b>Final Answer:</b> !5! hours"
+  },
+  {
+    "section": "Mathematics",
+    "topic": "Pipe and Cistern",
+    "difficulty": "Easy",
+    "q_en": "Pipe X can fill a tank in !15! hours and pipe Y can fill the same tank in !45! hours. In how many hours can both pipe X and pipe Y together fill one-third part of the tank?",
+    "q_hi": "पाइप X एक टंकी को !15! घंटे में भर सकता है और पाइप Y उसी टंकी को !45! घंटे में भर सकता है। पाइप X और पाइप Y दोनों मिलकर टंकी के एक-तिहाई भाग को कितने घंटों में भर सकते हैं?",
+    "op_en": [
+      "!3 \\\\dfrac{3}{4}! hours",
+      "!4 \\\\dfrac{1}{4}! hours",
+      "!3 \\\\dfrac{1}{2}! hours",
+      "!4! hours"
+    ],
+    "op_hi": [
+      "!3 \\\\dfrac{3}{4}! घंटे",
+      "!4 \\\\dfrac{1}{4}! घंटे",
+      "!3 \\\\dfrac{1}{2}! घंटे",
+      "!4! घंटे"
+    ],
+    "ans": 1,
+    "solution": "<b>Solution (EN):</b> <i>Note: The original options for this question were left blank. Correct options have been automatically generated and added.</i> <br>Let total capacity of the tank = LCM of !15! and !45! = !45! units. <br>Efficiency of pipe X = !\\\\dfrac{45}{15} = 3! units/hour. <br>Efficiency of pipe Y = !\\\\dfrac{45}{45} = 1! unit/hour. <br>Combined efficiency of X and Y = !3 + 1 = 4! units/hour. <br>We need to fill one-third (!\\\\dfrac{1}{3}!) of the tank. <br>Work to be done = !\\\\dfrac{1}{3} \\\\times 45 = 15! units. <br>Time taken to fill one-third of the tank = !\\\\dfrac{15}{4} = 3 \\\\dfrac{3}{4}! hours. <br><br><b>Solution (HI):</b> <i>नोट: इस प्रश्न के मूल विकल्प खाली छोड़ दिए गए थे। सही विकल्प स्वचालित रूप से जनरेट किए गए हैं और जोड़े गए हैं।</i> <br>माना टंकी की कुल क्षमता = !15! और !45! का LCM = !45! इकाई। <br>पाइप X की क्षमता = !\\\\dfrac{45}{15} = 3! इकाई/घंटा। <br>पाइप Y की क्षमता = !\\\\dfrac{45}{45} = 1! इकाई/घंटा। <br>X और Y की संयुक्त क्षमता = !3 + 1 = 4! इकाई/घंटा। <br>हमें टंकी का एक-तिहाई (!\\\\dfrac{1}{3}!) भाग भरना है। <br>किया जाने वाला कार्य = !\\\\dfrac{1}{3} \\\\times 45 = 15! इकाई। <br>टंकी का एक-तिहाई भाग भरने में लिया गया समय = !\\\\dfrac{15}{4} = 3 \\\\dfrac{3}{4}! घंटे। <br><br><b>Short Trick:</b> Time to fill full tank = !\\\\dfrac{x \\\\times y}{x + y} = \\\\dfrac{15 \\\\times 45}{15 + 45} = \\\\dfrac{675}{60} = \\\\dfrac{45}{4}! hours. <br>Time to fill !\\\\dfrac{1}{3}! tank = !\\\\dfrac{1}{3} \\\\times \\\\dfrac{45}{4} = \\\\dfrac{15}{4} = 3 \\\\dfrac{3}{4}! hours. <br><br><b>Final Answer:</b> !3 \\\\dfrac{3}{4}! hours"
+  },
+  {
+    "section": "Mathematics",
+    "topic": "Pipe and Cistern",
+    "difficulty": "Medium",
+    "q_en": "Two pipes can fill a tank in !20! hours and !30! hours, respectively, while a third pipe empties the full tank in !36! hours. If all the pipes are opened simultaneously when the tank is empty, in how much time will the tank be filled?",
+    "q_hi": "दो पाइप एक टंकी को क्रमशः !20! घंटे और !30! घंटे में भर सकते हैं, जबकि तीसरा पाइप पूरी टंकी को !36! घंटे में खाली कर देता है। यदि टंकी खाली होने पर सभी पाइप एक साथ खोल दिए जाते हैं, तो टंकी कितने समय में भर जाएगी?",
+    "op_en": [
+      "12 hours",
+      "21 hours",
+      "18 hours",
+      "24 hours"
+    ],
+    "op_hi": [
+      "12 घंटे",
+      "21 घंटे",
+      "18 घंटे",
+      "24 घंटे"
+    ],
+    "ans": 3,
+    "solution": "<b>Solution (EN):</b> Let total capacity of the tank = LCM of !20!, !30!, and !36! = !180! units. <br>Efficiency of Pipe 1 (filling) = !\\\\dfrac{180}{20} = +9! units/hour. <br>Efficiency of Pipe 2 (filling) = !\\\\dfrac{180}{30} = +6! units/hour. <br>Efficiency of Pipe 3 (emptying) = !\\\\dfrac{-180}{36} = -5! units/hour. <br>Combined net efficiency when all pipes are open = !9 + 6 - 5 = 10! units/hour. <br>Total time taken to fill the empty tank = !\\\\dfrac{180}{10} = 18! hours. <br><br><b>Solution (HI):</b> माना टंकी की कुल क्षमता = !20!, !30! और !36! का LCM = !180! इकाई। <br>पाइप 1 की क्षमता (भरने वाली) = !\\\\dfrac{180}{20} = +9! इकाई/घंटा। <br>पाइप 2 की क्षमता (भरने वाली) = !\\\\dfrac{180}{30} = +6! इकाई/घंटा। <br>पाइप 3 की क्षमता (खाली करने वाली) = !\\\\dfrac{-180}{36} = -5! इकाई/घंटा। <br>सभी पाइप खुले होने पर संयुक्त शुद्ध क्षमता = !9 + 6 - 5 = 10! इकाई/घंटा। <br>खाली टंकी को भरने में लगा कुल समय = !\\\\dfrac{180}{10} = 18! घंटे। <br><br><b>Short Trick:</b> Net part filled in !1! hour = !\\\\dfrac{1}{20} + \\\\dfrac{1}{30} - \\\\dfrac{1}{36} = \\\\dfrac{9 + 6 - 5}{180} = \\\\dfrac{10}{180} = \\\\dfrac{1}{18}!. <br>Time taken to fill the tank = !18! hours. <br><br><b>Final Answer:</b> !18! hours"
+  },
+  {
+    "section": "Mathematics",
+    "topic": "Pipe and Cistern",
+    "difficulty": "Medium",
+    "q_en": "Two pipes, A and B, can fill a tank in !15! hours and !30! hours, respectively. Pipe C can empty the full tank in !20! hours. All the three pipes are opened in the beginning. In how many hours will the empty tank be completely filled?",
+    "q_hi": "दो पाइप, A और B, एक टंकी को क्रमशः !15! घंटे और !30! घंटे में भर सकते हैं। पाइप C पूरी टंकी को !20! घंटे में खाली कर सकता है। शुरुआत में तीनों पाइप खोल दिए जाते हैं। खाली टंकी कितने घंटों में पूरी तरह भर जाएगी?",
+    "op_en": [
+      "20 hours",
+      "18 hours",
+      "25 hours",
+      "15 hours"
+    ],
+    "op_hi": [
+      "20 घंटे",
+      "18 घंटे",
+      "25 घंटे",
+      "15 घंटे"
+    ],
+    "ans": 1,
+    "solution": "<b>Solution (EN):</b> <i>Note: The original question text was cut-off and incomplete, and the options were blank. The question sentence has been logically completed and options have been added.</i> <br>Let total capacity of the tank = LCM of !15!, !30!, and !20! = !60! units. <br>Efficiency of Pipe A (filling) = !\\\\dfrac{60}{15} = +4! units/hour. <br>Efficiency of Pipe B (filling) = !\\\\dfrac{60}{30} = +2! units/hour. <br>Efficiency of Pipe C (emptying) = !\\\\dfrac{-60}{20} = -3! units/hour. <br>Combined net efficiency (A + B + C) = !4 + 2 - 3 = +3! units/hour. <br>Total time taken to fill the tank completely = !\\\\dfrac{60}{3} = 20! hours. <br><br><b>Solution (HI):</b> <i>नोट: मूल प्रश्न का पाठ अधूरा था, और विकल्प खाली थे। प्रश्न वाक्य को तार्किक रूप से पूरा किया गया है और विकल्प जोड़े गए हैं।</i> <br>माना टंकी की कुल क्षमता = !15!, !30! और !20! का LCM = !60! इकाई। <br>पाइप A की क्षमता (भरने वाली) = !\\\\dfrac{60}{15} = +4! इकाई/घंटा। <br>पाइप B की क्षमता (भरने वाली) = !\\\\dfrac{60}{30} = +2! इकाई/घंटा। <br>पाइप C की क्षमता (खाली करने वाली) = !\\\\dfrac{-60}{20} = -3! इकाई/घंटा। <br>संयुक्त शुद्ध क्षमता (A + B + C) = !4 + 2 - 3 = +3! इकाई/घंटा। <br>टंकी को पूरी तरह से भरने में लगा कुल समय = !\\\\dfrac{60}{3} = 20! घंटे। <br><br><b>Short Trick:</b> Part filled in !1! hour = !\\\\dfrac{1}{15} + \\\\dfrac{1}{30} - \\\\dfrac{1}{20} = \\\\dfrac{4 + 2 - 3}{60} = \\\\dfrac{3}{60} = \\\\dfrac{1}{20}!. <br>Time to fill = !20! hours. <br><br><b>Final Answer:</b> !20! hours"
+  },
+  {
+    "section": "Mathematics",
+    "topic": "Pipe and Cistern",
+    "difficulty": "Easy",
+    "q_en": "Two pipes, A and B, can fill a tank in !14! hours and !24! hours, respectively. If both the pipes are opened simultaneously, in how many hours will the tank be full (rounded off to two decimal places)?",
+    "q_hi": "दो पाइप, A और B, एक टंकी को क्रमशः !14! घंटे और !24! घंटे में भर सकते हैं। यदि दोनों पाइप एक साथ खोले जाते हैं, तो टंकी कितने घंटों में भर जाएगी (दो दशमलव स्थानों तक पूर्णांकित)?",
+    "op_en": [
+      "8.84 hours",
+      "8.48 hours",
+      "8.56 hours",
+      "8.24 hours"
+    ],
+    "op_hi": [
+      "8.84 घंटे",
+      "8.48 घंटे",
+      "8.56 घंटे",
+      "8.24 घंटे"
+    ],
+    "ans": 1,
+    "solution": "<b>Solution (EN):</b> Let total capacity of the tank = LCM of !14! and !24! = !168! units. <br>Efficiency of Pipe A = !\\\\dfrac{168}{14} = 12! units/hour. <br>Efficiency of Pipe B = !\\\\dfrac{168}{24} = 7! units/hour. <br>Combined efficiency of A and B = !12 + 7 = 19! units/hour. <br>Total time taken to fill the tank = !\\\\dfrac{168}{19}! hours. <br>!\\\\Rightarrow \\\\dfrac{168}{19} = 8.842...! hours. <br>Rounded off to two decimal places, it is !8.84! hours. <br><br><b>Solution (HI):</b> माना टंकी की कुल क्षमता = !14! और !24! का LCM = !168! इकाई। <br>पाइप A की क्षमता = !\\\\dfrac{168}{14} = 12! इकाई/घंटा। <br>पाइप B की क्षमता = !\\\\dfrac{168}{24} = 7! इकाई/घंटा। <br>A और B की संयुक्त क्षमता = !12 + 7 = 19! इकाई/घंटा। <br>टंकी को भरने में लगा कुल समय = !\\\\dfrac{168}{19}! घंटे। <br>!\\\\Rightarrow \\\\dfrac{168}{19} = 8.842...! घंटे। <br>दो दशमलव स्थानों तक पूर्णांकित करने पर, यह !8.84! घंटे है। <br><br><b>Short Trick:</b> Time = !\\\\dfrac{x \\\\times y}{x + y} = \\\\dfrac{14 \\\\times 24}{14 + 24} = \\\\dfrac{336}{38} = \\\\dfrac{168}{19} \\\\approx 8.84! hours. <br><br><b>Final Answer:</b> !8.84! hours"
+  },
+  {
+    "section": "Mathematics",
+    "topic": "Pipe and Cistern",
+    "difficulty": "Medium",
+    "q_en": "Two pipes A and B can fill a tank in !18! minutes and !14! minutes, respectively. Both the pipes are opened together but after !3! minutes, pipe A is turned off. What is the total time (in minutes) required to fill the tank?",
+    "q_hi": "दो पाइप A और B एक टंकी को क्रमशः !18! मिनट और !14! मिनट में भर सकते हैं। दोनों पाइप एक साथ खोले जाते हैं, लेकिन !3! मिनट बाद, पाइप A को बंद कर दिया जाता है। टंकी को भरने के लिए आवश्यक कुल समय (मिनटों में) क्या है?",
+    "op_en": [
+      "!11 \\\\dfrac{2}{3}! minutes",
+      "!10 \\\\dfrac{1}{3}! minutes",
+      "!12 \\\\dfrac{2}{3}! minutes",
+      "!11 \\\\dfrac{1}{3}! minutes"
+    ],
+    "op_hi": [
+      "!11 \\\\dfrac{2}{3}! मिनट",
+      "!10 \\\\dfrac{1}{3}! मिनट",
+      "!12 \\\\dfrac{2}{3}! मिनट",
+      "!11 \\\\dfrac{1}{3}! मिनट"
+    ],
+    "ans": 1,
+    "solution": "<b>Solution (EN):</b> <i>Note: The original options for this question were left blank. Correct options have been automatically generated based on the mathematical solution.</i> <br>Let total capacity of the tank = LCM of !18! and !14! = !126! units. <br>Efficiency of Pipe A = !\\\\dfrac{126}{18} = 7! units/minute. <br>Efficiency of Pipe B = !\\\\dfrac{126}{14} = 9! units/minute. <br>Both pipes work together for the first !3! minutes. <br>Work done by A and B in !3! minutes = !3 \\\\times (7 + 9) = 3 \\\\times 16 = 48! units. <br>Remaining work to be filled = !126 - 48 = 78! units. <br>Pipe A is turned off, so Pipe B fills the remaining part. <br>Time taken by Pipe B = !\\\\dfrac{78}{9} = \\\\dfrac{26}{3} = 8 \\\\dfrac{2}{3}! minutes. <br>Total time taken = Initial !3! minutes + !8 \\\\dfrac{2}{3}! minutes = !11 \\\\dfrac{2}{3}! minutes. <br><br><b>Solution (HI):</b> <i>नोट: इस प्रश्न के मूल विकल्प खाली छोड़ दिए गए थे। गणितीय हल के आधार पर सही विकल्प तैयार किए गए हैं।</i> <br>माना टंकी की कुल क्षमता = !18! और !14! का LCM = !126! इकाई। <br>पाइप A की क्षमता = !\\\\dfrac{126}{18} = 7! इकाई/मिनट। <br>पाइप B की क्षमता = !\\\\dfrac{126}{14} = 9! इकाई/मिनट। <br>दोनों पाइप पहले !3! मिनट तक एक साथ काम करते हैं। <br>A और B द्वारा !3! मिनट में किया गया कार्य = !3 \\\\times (7 + 9) = 3 \\\\times 16 = 48! इकाई। <br>भरने के लिए शेष कार्य = !126 - 48 = 78! इकाई। <br>पाइप A को बंद कर दिया जाता है, इसलिए पाइप B शेष भाग को भरता है। <br>पाइप B द्वारा लिया गया समय = !\\\\dfrac{78}{9} = \\\\dfrac{26}{3} = 8 \\\\dfrac{2}{3}! मिनट। <br>लिया गया कुल समय = शुरुआती !3! मिनट + !8 \\\\dfrac{2}{3}! मिनट = !11 \\\\dfrac{2}{3}! मिनट। <br><br><b>Short Trick:</b> Work completed in !3! mins = !3 \\\\times \\\\left(\\\\dfrac{1}{18} + \\\\dfrac{1}{14}\\\\right) = 3 \\\\times \\\\left(\\\\dfrac{16}{126}\\\\right) = \\\\dfrac{48}{126} = \\\\dfrac{8}{21}!. <br>Remaining part = !1 - \\\\dfrac{8}{21} = \\\\dfrac{13}{21}!. <br>Time by B for remaining = !\\\\dfrac{13}{21} \\\\times 14 = \\\\dfrac{26}{3} = 8 \\\\dfrac{2}{3}! mins. <br>Total time = !3 + 8 \\\\dfrac{2}{3} = 11 \\\\dfrac{2}{3}! minutes. <br><br><b>Final Answer:</b> !11 \\\\dfrac{2}{3}! minutes"
+  },
+  {
+    "section": "Mathematics",
+    "topic": "Time and Work",
+    "difficulty": "Medium",
+    "q_en": "!4! men and !9! women can complete a piece of work in !16! days, and !13! men and !19! women can complete the same work in !5! days. The work of how many women is equivalent to that of one man?",
+    "q_hi": "!4! पुरुष और !9! महिलाएँ एक काम को !16! दिनों में पूरा कर सकते हैं, और !13! पुरुष और !19! महिलाएँ उसी काम को !5! दिनों में पूरा कर सकते हैं। कितनी महिलाओं का काम एक पुरुष के काम के बराबर है?",
+    "op_en": [
+      "48",
+      "49",
+      "52",
+      "45"
+    ],
+    "op_hi": [
+      "48",
+      "49",
+      "52",
+      "45"
+    ],
+    "ans": 2,
+    "solution": "<b>Solution (EN):</b> Let the efficiency of !1! man be !m! and !1! woman be !w!. <br>Total work is the same in both cases. <br>Using !M_1 \\\\times D_1 = M_2 \\\\times D_2!: <br>!\\\\Rightarrow (4m + 9w) \\\\times 16 = (13m + 19w) \\\\times 5! <br>!\\\\Rightarrow 64m + 144w = 65m + 95w! <br>!\\\\Rightarrow 144w - 95w = 65m - 64m! <br>!\\\\Rightarrow 49w = 1m! <br>Thus, the work of !49! women is equivalent to the work of !1! man. <br><br><b>Solution (HI):</b> माना !1! पुरुष की क्षमता !m! है और !1! महिला की क्षमता !w! है। <br>दोनों मामलों में कुल कार्य समान है। <br>!M_1 \\\\times D_1 = M_2 \\\\times D_2! का उपयोग करने पर: <br>!\\\\Rightarrow (4m + 9w) \\\\times 16 = (13m + 19w) \\\\times 5! <br>!\\\\Rightarrow 64m + 144w = 65m + 95w! <br>!\\\\Rightarrow 144w - 95w = 65m - 64m! <br>!\\\\Rightarrow 49w = 1m! <br>अतः, !49! महिलाओं का काम !1! पुरुष के काम के बराबर है। <br><br><b>Short Trick:</b> Equate the total man-days directly: <br>!16 \\\\times 4m + 16 \\\\times 9w = 5 \\\\times 13m + 5 \\\\times 19w! <br>!64m + 144w = 65m + 95w \\\\Rightarrow 1m = 49w!. <br><br><b>Final Answer:</b> !49!"
+  },
+  {
+    "section": "Mathematics",
+    "topic": "Time and Work",
+    "difficulty": "Medium",
+    "q_en": "!11! men and !7! women can complete a piece of work in !15! days, and !12! men and !3! women can complete the same work in !18! days. The work of how many women is equivalent to that of one man?",
+    "q_hi": "!11! पुरुष और !7! महिलाएँ एक काम को !15! दिनों में पूरा कर सकते हैं, और !12! पुरुष और !3! महिलाएँ उसी काम को !18! दिनों में पूरा कर सकते हैं। कितनी महिलाओं का काम एक पुरुष के काम के बराबर है?",
+    "op_en": [
+      "3",
+      "1",
+      "4",
+      "5"
+    ],
+    "op_hi": [
+      "3",
+      "1",
+      "4",
+      "5"
+    ],
+    "ans": 2,
+    "solution": "<b>Solution (EN):</b> Let the efficiency of a man be !m! and a woman be !w!. <br>Equating total work using !M_1 \\\\times D_1 = M_2 \\\\times D_2!: <br>!\\\\Rightarrow (11m + 7w) \\\\times 15 = (12m + 3w) \\\\times 18! <br>Dividing both sides by !3! to simplify: <br>!\\\\Rightarrow 5 \\\\times (11m + 7w) = 6 \\\\times (12m + 3w)! <br>!\\\\Rightarrow 55m + 35w = 72m + 18w! <br>!\\\\Rightarrow 35w - 18w = 72m - 55m! <br>!\\\\Rightarrow 17w = 17m! <br>!\\\\Rightarrow 1w = 1m! <br>So, the work of !1! woman is equivalent to that of !1! man. <br><br><b>Solution (HI):</b> माना एक पुरुष की क्षमता !m! और एक महिला की क्षमता !w! है। <br>!M_1 \\\\times D_1 = M_2 \\\\times D_2! का उपयोग करके कुल कार्य को बराबर करने पर: <br>!\\\\Rightarrow (11m + 7w) \\\\times 15 = (12m + 3w) \\\\times 18! <br>सरल करने के लिए दोनों पक्षों को !3! से विभाजित करने पर: <br>!\\\\Rightarrow 5 \\\\times (11m + 7w) = 6 \\\\times (12m + 3w)! <br>!\\\\Rightarrow 55m + 35w = 72m + 18w! <br>!\\\\Rightarrow 35w - 18w = 72m - 55m! <br>!\\\\Rightarrow 17w = 17m! <br>!\\\\Rightarrow 1w = 1m! <br>अतः, !1! महिला का काम !1! पुरुष के काम के बराबर है। <br><br><b>Short Trick:</b> !(11 \\\\times 15)m - (12 \\\\times 18)m = (3 \\\\times 18)w - (7 \\\\times 15)w! <br>!\\\\Rightarrow 165m - 216m = 54w - 105w! <br>!\\\\Rightarrow -51m = -51w \\\\Rightarrow 1m = 1w!. <br><br><b>Final Answer:</b> !1!"
+  },
+  {
+    "section": "Mathematics",
+    "topic": "Time and Work",
+    "difficulty": "Easy",
+    "q_en": "Rani is able to finish a task in !13! days and Karan can complete the same task in !15! days. If they decide to work together on the task, how long will it take them to finish it?",
+    "q_hi": "रानी एक काम को !13! दिनों में पूरा कर सकती है और करण उसी काम को !15! दिनों में पूरा कर सकता है। यदि वे उस काम को एक साथ करने का निर्णय लेते हैं, तो उन्हें इसे पूरा करने में कितना समय लगेगा?",
+    "op_en": [
+      "!6 \\\\dfrac{27}{28}! days",
+      "!7 \\\\dfrac{25}{28}! days",
+      "!5 \\\\dfrac{27}{28}! days",
+      "!6 \\\\dfrac{15}{28}! days"
+    ],
+    "op_hi": [
+      "!6 \\\\dfrac{27}{28}! दिन",
+      "!7 \\\\dfrac{25}{28}! दिन",
+      "!5 \\\\dfrac{27}{28}! दिन",
+      "!6 \\\\dfrac{15}{28}! दिन"
+    ],
+    "ans": 1,
+    "solution": "<b>Solution (EN):</b> <i>Note: Options for this question were blank in the original prompt. Accurate mathematical options have been supplied.</i> <br>Let the total work = LCM of !13! and !15! = !195! units. <br>Efficiency of Rani = !\\\\dfrac{195}{13} = 15! units/day. <br>Efficiency of Karan = !\\\\dfrac{195}{15} = 13! units/day. <br>Combined efficiency = !15 + 13 = 28! units/day. <br>Time taken to finish the task together = !\\\\dfrac{195}{28}! days. <br>Converting to a mixed fraction: !\\\\dfrac{195}{28} = 6 \\\\dfrac{27}{28}! days. <br><br><b>Solution (HI):</b> <i>नोट: मूल प्रश्न में इस प्रश्न के विकल्प खाली थे। सटीक गणितीय विकल्प प्रदान किए गए हैं।</i> <br>माना कुल कार्य = !13! और !15! का LCM = !195! इकाई। <br>रानी की क्षमता = !\\\\dfrac{195}{13} = 15! इकाई/दिन। <br>करण की क्षमता = !\\\\dfrac{195}{15} = 13! इकाई/दिन। <br>संयुक्त क्षमता = !15 + 13 = 28! इकाई/दिन। <br>एक साथ काम खत्म करने में लिया गया समय = !\\\\dfrac{195}{28}! दिन। <br>मिश्रित भिन्न में बदलने पर: !\\\\dfrac{195}{28} = 6 \\\\dfrac{27}{28}! दिन। <br><br><b>Short Trick:</b> Required Time = !\\\\dfrac{x \\\\times y}{x + y} = \\\\dfrac{13 \\\\times 15}{13 + 15} = \\\\dfrac{195}{28} = 6 \\\\dfrac{27}{28}! days. <br><br><b>Final Answer:</b> !6 \\\\dfrac{27}{28}! days"
+  },
+  {
+    "section": "Mathematics",
+    "topic": "Pipe and Cistern",
+    "difficulty": "Easy",
+    "q_en": "A cistern has two inlet pipes that can fill it completely in !15! minutes and !20! minutes and an outlet pipe that can empty it in !30! minutes. If all the pipes are opened together, in how much time will the cistern be filled?",
+    "q_hi": "एक टंकी में दो भरने वाले पाइप हैं जो इसे पूरी तरह से क्रमशः !15! मिनट और !20! मिनट में भर सकते हैं और एक निकासी पाइप है जो इसे !30! मिनट में खाली कर सकता है। यदि सभी पाइप एक साथ खोल दिए जाएं, तो टंकी कितने समय में भर जाएगी?",
+    "op_en": [
+      "18 minutes",
+      "12 minutes",
+      "20 minutes",
+      "15 minutes"
+    ],
+    "op_hi": [
+      "18 मिनट",
+      "12 मिनट",
+      "20 मिनट",
+      "15 मिनट"
+    ],
+    "ans": 2,
+    "solution": "<b>Solution (EN):</b> Let total capacity of the cistern = LCM of !15!, !20!, and !30! = !60! units. <br>Efficiency of Inlet 1 = !\\\\dfrac{60}{15} = +4! units/min. <br>Efficiency of Inlet 2 = !\\\\dfrac{60}{20} = +3! units/min. <br>Efficiency of Outlet = !\\\\dfrac{-60}{30} = -2! units/min. <br>Combined efficiency of all pipes = !4 + 3 - 2 = 5! units/min. <br>Time taken to fill the cistern = !\\\\dfrac{60}{5} = 12! minutes. <br><br><b>Solution (HI):</b> माना टंकी की कुल क्षमता = !15!, !20!, और !30! का LCM = !60! इकाई। <br>इनलेट 1 की क्षमता = !\\\\dfrac{60}{15} = +4! इकाई/मिनट। <br>इनलेट 2 की क्षमता = !\\\\dfrac{60}{20} = +3! इकाई/मिनट। <br>आउटलेट (निकासी) की क्षमता = !\\\\dfrac{-60}{30} = -2! इकाई/मिनट। <br>सभी पाइपों की संयुक्त क्षमता = !4 + 3 - 2 = 5! इकाई/मिनट। <br>टंकी को भरने में लगा समय = !\\\\dfrac{60}{5} = 12! मिनट। <br><br><b>Short Trick:</b> Net part filled in !1! min = !\\\\dfrac{1}{15} + \\\\dfrac{1}{20} - \\\\dfrac{1}{30} = \\\\dfrac{4 + 3 - 2}{60} = \\\\dfrac{5}{60} = \\\\dfrac{1}{12}!. <br>Time to fill = !12! minutes. <br><br><b>Final Answer:</b> !12! minutes"
+  },
+  {
+    "section": "Mathematics",
+    "topic": "Time and Work",
+    "difficulty": "Medium",
+    "q_en": "!6! men can complete a piece of work in !10! days while !3! women can do it in !12! days. In how many days can !6! women and !5! men complete it?",
+    "q_hi": "!6! पुरुष एक काम को !10! दिनों में पूरा कर सकते हैं जबकि !3! महिलाएँ इसे !12! दिनों में कर सकती हैं। !6! महिलाएँ और !5! पुरुष इसे कितने दिनों में पूरा कर सकते हैं?",
+    "op_en": [
+      "2 days",
+      "5 days",
+      "7 days",
+      "4 days"
+    ],
+    "op_hi": [
+      "2 दिन",
+      "5 दिन",
+      "7 दिन",
+      "4 दिन"
+    ],
+    "ans": 4,
+    "solution": "<b>Solution (EN):</b> Let the efficiency of a man be !M! and a woman be !W!. <br>Total work = !6M \\\\times 10 = 3W \\\\times 12! <br>!\\\\Rightarrow 60M = 36W! <br>!\\\\Rightarrow 5M = 3W! <br>We need to find the time taken by !6W + 5M!. <br>Substitute !5M = 3W!: <br>Combined group = !6W + 3W = 9W!. <br>We know !3W! can do the work in !12! days. <br>Let !9W! do it in !D! days. <br>!\\\\Rightarrow 3W \\\\times 12 = 9W \\\\times D! <br>!\\\\Rightarrow 36 = 9D! <br>!\\\\Rightarrow D = 4! days. <br><br><b>Solution (HI):</b> माना एक पुरुष की क्षमता !M! और एक महिला की क्षमता !W! है। <br>कुल कार्य = !6M \\\\times 10 = 3W \\\\times 12! <br>!\\\\Rightarrow 60M = 36W! <br>!\\\\Rightarrow 5M = 3W! <br>हमें !6W + 5M! द्वारा लिया गया समय ज्ञात करना है। <br>!5M = 3W! रखने पर: <br>संयुक्त समूह = !6W + 3W = 9W!। <br>हम जानते हैं कि !3W! काम को !12! दिनों में कर सकती हैं। <br>माना !9W! इसे !D! दिनों में करती हैं। <br>!\\\\Rightarrow 3W \\\\times 12 = 9W \\\\times D! <br>!\\\\Rightarrow 36 = 9D! <br>!\\\\Rightarrow D = 4! दिन। <br><br><b>Short Trick:</b> Convert men to women: !5M = 3W!. <br>Group != 6W + 5M = 6W + 3W = 9W!. <br>Time != \\\\dfrac{3 \\\\times 12}{9} = \\\\dfrac{36}{9} = 4! days. <br><br><b>Final Answer:</b> !4! days"
+  },
+  {
+    "section": "Mathematics",
+    "topic": "Pipe and Cistern",
+    "difficulty": "Hard",
+    "q_en": "Two inlet pipes, P and Q, and one outlet pipe, R, are connected to a cistern. P and Q together fill the cistern in !6! hours. If only P and R are open, then the full cistern is emptied in !8! hours. If only Q and R are open, then the full cistern is emptied in !12! hours. How long will pipe P take to fill the empty cistern alone?",
+    "q_hi": "एक टंकी से दो भरने वाले पाइप, P और Q, और एक निकासी पाइप, R, जुड़े हुए हैं। P और Q मिलकर टंकी को !6! घंटे में भरते हैं। यदि केवल P और R खुले हों, तो पूरी टंकी !8! घंटे में खाली हो जाती है। यदि केवल Q और R खुले हों, तो पूरी टंकी !12! घंटे में खाली हो जाती है। अकेले पाइप P खाली टंकी को भरने में कितना समय लेगा?",
+    "op_en": [
+      "15 hours",
+      "20 hours",
+      "12 hours",
+      "16 hours"
+    ],
+    "op_hi": [
+      "15 घंटे",
+      "20 घंटे",
+      "12 घंटे",
+      "16 घंटे"
+    ],
+    "ans": 4,
+    "solution": "<b>Solution (EN):</b> Let the efficiencies of the pipes be !P!, !Q!, and !R!. (Note: !R! will be negative as it is an outlet). <br>Given: <br>1) !P + Q = \\\\dfrac{1}{6}! (Filling) <br>2) !P + R = -\\\\dfrac{1}{8}! (Emptying) <br>3) !Q + R = -\\\\dfrac{1}{12}! (Emptying) <br>Adding equations (2) and (3): <br>!\\\\Rightarrow P + Q + 2R = -\\\\dfrac{1}{8} - \\\\dfrac{1}{12} = \\\\dfrac{-3 - 2}{24} = -\\\\dfrac{5}{24}! <br>Substitute !P + Q = \\\\dfrac{1}{6}! into this equation: <br>!\\\\Rightarrow \\\\dfrac{1}{6} + 2R = -\\\\dfrac{5}{24}! <br>!\\\\Rightarrow 2R = -\\\\dfrac{5}{24} - \\\\dfrac{4}{24} = -\\\\dfrac{9}{24} = -\\\\dfrac{3}{8}! <br>!\\\\Rightarrow R = -\\\\dfrac{3}{16}! <br>Now, substitute !R! into equation (2) to find !P!: <br>!\\\\Rightarrow P - \\\\dfrac{3}{16} = -\\\\dfrac{1}{8}! <br>!\\\\Rightarrow P = \\\\dfrac{3}{16} - \\\\dfrac{2}{16} = \\\\dfrac{1}{16}! <br>Efficiency of P is !\\\\dfrac{1}{16}!, which means pipe P alone will take !16! hours to fill the cistern. <br><br><b>Solution (HI):</b> माना पाइपों की क्षमताएँ !P!, !Q!, और !R! हैं। (नोट: !R! ऋणात्मक होगा क्योंकि यह निकासी पाइप है)। <br>दिया गया है: <br>1) !P + Q = \\\\dfrac{1}{6}! (भरना) <br>2) !P + R = -\\\\dfrac{1}{8}! (खाली करना) <br>3) !Q + R = -\\\\dfrac{1}{12}! (खाली करना) <br>समीकरण (2) और (3) को जोड़ने पर: <br>!\\\\Rightarrow P + Q + 2R = -\\\\dfrac{1}{8} - \\\\dfrac{1}{12} = \\\\dfrac{-3 - 2}{24} = -\\\\dfrac{5}{24}! <br>इस समीकरण में !P + Q = \\\\dfrac{1}{6}! रखने पर: <br>!\\\\Rightarrow \\\\dfrac{1}{6} + 2R = -\\\\dfrac{5}{24}! <br>!\\\\Rightarrow 2R = -\\\\dfrac{5}{24} - \\\\dfrac{4}{24} = -\\\\dfrac{9}{24} = -\\\\dfrac{3}{8}! <br>!\\\\Rightarrow R = -\\\\dfrac{3}{16}! <br>अब, !P! ज्ञात करने के लिए समीकरण (2) में !R! का मान रखने पर: <br>!\\\\Rightarrow P - \\\\dfrac{3}{16} = -\\\\dfrac{1}{8}! <br>!\\\\Rightarrow P = \\\\dfrac{3}{16} - \\\\dfrac{2}{16} = \\\\dfrac{1}{16}! <br>P की क्षमता !\\\\dfrac{1}{16}! है, जिसका अर्थ है कि अकेले पाइप P को टंकी भरने में !16! घंटे लगेंगे। <br><br><b>Short Trick:</b> Let Total Work = LCM(!6!, !8!, !12!) = !24! units. <br>!P + Q = 4! <br>!P + R = -3! <br>!Q + R = -2! <br>!(P+R) + (Q+R) = (P+Q) + 2R = -5 \\\\Rightarrow 4 + 2R = -5 \\\\Rightarrow 2R = -9 \\\\Rightarrow R = -4.5!. <br>!P - 4.5 = -3 \\\\Rightarrow P = 1.5!. <br>Time for P = !\\\\dfrac{24}{1.5} = \\\\dfrac{240}{15} = 16! hours. <br><br><b>Final Answer:</b> !16! hours"
+  },
+  {
+    "section": "Mathematics",
+    "topic": "Time and Work",
+    "difficulty": "Easy",
+    "q_en": "Two machines can complete a task in !8! hours and !12! hours. If both machines work simultaneously, how long will it take to complete the task?",
+    "q_hi": "दो मशीनें किसी कार्य को !8! घंटे और !12! घंटे में पूरा कर सकती हैं। यदि दोनों मशीनें एक साथ काम करती हैं, तो कार्य को पूरा करने में कितना समय लगेगा?",
+    "op_en": [
+      "4.2 hours",
+      "3.6 hours",
+      "4.8 hours",
+      "5.2 hours"
+    ],
+    "op_hi": [
+      "4.2 घंटे",
+      "3.6 घंटे",
+      "4.8 घंटे",
+      "5.2 घंटे"
+    ],
+    "ans": 3,
+    "solution": "<b>Solution (EN):</b> Let total work = LCM of !8! and !12! = !24! units. <br>Efficiency of Machine 1 = !\\\\dfrac{24}{8} = 3! units/hour. <br>Efficiency of Machine 2 = !\\\\dfrac{24}{12} = 2! units/hour. <br>Combined efficiency = !3 + 2 = 5! units/hour. <br>Time taken to complete the task = !\\\\dfrac{24}{5} = 4.8! hours. <br><br><b>Solution (HI):</b> माना कुल कार्य = !8! और !12! का LCM = !24! इकाई। <br>मशीन 1 की क्षमता = !\\\\dfrac{24}{8} = 3! इकाई/घंटा। <br>मशीन 2 की क्षमता = !\\\\dfrac{24}{12} = 2! इकाई/घंटा। <br>संयुक्त क्षमता = !3 + 2 = 5! इकाई/घंटा। <br>कार्य को पूरा करने में लगा समय = !\\\\dfrac{24}{5} = 4.8! घंटे। <br><br><b>Short Trick:</b> Time = !\\\\dfrac{x \\\\times y}{x + y} = \\\\dfrac{8 \\\\times 12}{8 + 12} = \\\\dfrac{96}{20} = 4.8! hours. <br><br><b>Final Answer:</b> !4.8! hours"
+  },
+  {
+    "section": "Mathematics",
+    "topic": "Pipe and Cistern",
+    "difficulty": "Medium",
+    "q_en": "A pipe can fill a tank in !24! minutes, and another pipe can fill the same tank in !36! minutes. If both pipes are opened together, what percentage of the tank will be filled in nine minutes?",
+    "q_hi": "एक पाइप एक टंकी को !24! मिनट में भर सकता है, और दूसरा पाइप उसी टंकी को !36! मिनट में भर सकता है। यदि दोनों पाइपों को एक साथ खोल दिया जाए, तो नौ मिनट में टंकी का कितना प्रतिशत भर जाएगा?",
+    "op_en": [
+      "63.75%",
+      "59.2%",
+      "62.5%",
+      "60.25%"
+    ],
+    "op_hi": [
+      "63.75%",
+      "59.2%",
+      "62.5%",
+      "60.25%"
+    ],
+    "ans": 3,
+    "solution": "<b>Solution (EN):</b> Let total capacity of the tank = LCM of !24! and !36! = !72! units. <br>Efficiency of Pipe 1 = !\\\\dfrac{72}{24} = 3! units/min. <br>Efficiency of Pipe 2 = !\\\\dfrac{72}{36} = 2! units/min. <br>Combined efficiency of both pipes = !3 + 2 = 5! units/min. <br>Work done (tank filled) in !9! minutes = !9 \\\\times 5 = 45! units. <br>Percentage of the tank filled = !\\\\left(\\\\dfrac{45}{72}\\\\right) \\\\times 100\\\\%! <br>!\\\\Rightarrow \\\\left(\\\\dfrac{5}{8}\\\\right) \\\\times 100\\\\% = 62.5\\\\%!. <br><br><b>Solution (HI):</b> माना टंकी की कुल क्षमता = !24! और !36! का LCM = !72! इकाई। <br>पाइप 1 की क्षमता = !\\\\dfrac{72}{24} = 3! इकाई/मिनट। <br>पाइप 2 की क्षमता = !\\\\dfrac{72}{36} = 2! इकाई/मिनट। <br>दोनों पाइपों की संयुक्त क्षमता = !3 + 2 = 5! इकाई/मिनट। <br>!9! मिनट में किया गया कार्य (भरी गई टंकी) = !9 \\\\times 5 = 45! इकाई। <br>भरी गई टंकी का प्रतिशत = !\\\\left(\\\\dfrac{45}{72}\\\\right) \\\\times 100\\\\%! <br>!\\\\Rightarrow \\\\left(\\\\dfrac{5}{8}\\\\right) \\\\times 100\\\\% = 62.5\\\\%!। <br><br><b>Short Trick:</b> Part filled in !9! mins = !9 \\\\times \\\\left(\\\\dfrac{1}{24} + \\\\dfrac{1}{36}\\\\right) = 9 \\\\times \\\\left(\\\\dfrac{3 + 2}{72}\\\\right) = 9 \\\\times \\\\dfrac{5}{72} = \\\\dfrac{5}{8}!. <br>Percentage = !\\\\dfrac{5}{8} \\\\times 100 = 62.5\\\\%!. <br><br><b>Final Answer:</b> !62.5\\\\%!"
+  },
+  {
+    "section": "Mathematics",
+    "topic": "Pipe and Cistern",
+    "difficulty": "Medium",
+    "q_en": "Pipes P and Q can fill a cistern in !15! minutes and !20! minutes respectively, while Pipe R can empty it in !30! minutes. Initially, Pipes P and Q are opened together for !4! minutes. Then, Pipe P is closed and Pipe R is opened alongside Q. Find the total time taken to fill the cistern from the start.",
+    "q_hi": "पाइप P और Q एक टंकी को क्रमशः !15! मिनट और !20! मिनट में भर सकते हैं, जबकि पाइप R इसे !30! मिनट में खाली कर सकता है। प्रारंभ में, पाइप P और Q को !4! मिनट के लिए एक साथ खोला जाता है। फिर, पाइप P को बंद कर दिया जाता है और Q के साथ पाइप R को खोल दिया जाता है। प्रारंभ से टंकी को भरने में लगा कुल समय ज्ञात कीजिए।",
+    "op_en": [
+      "32 minutes",
+      "28 minutes",
+      "40 minutes",
+      "36 minutes"
+    ],
+    "op_hi": [
+      "32 मिनट",
+      "28 मिनट",
+      "40 मिनट",
+      "36 मिनट"
+    ],
+    "ans": 4,
+    "solution": "<b>Solution (EN):</b> Let total capacity of the cistern = LCM of !15!, !20!, and !30! = !60! units. <br>Efficiency of Pipe P = !\\\\dfrac{60}{15} = +4! units/min. <br>Efficiency of Pipe Q = !\\\\dfrac{60}{20} = +3! units/min. <br>Efficiency of Pipe R = !\\\\dfrac{-60}{30} = -2! units/min. <br>Initially, P and Q are opened for !4! minutes. <br>Work done by P and Q in !4! minutes = !4 \\\\times (4 + 3) = 4 \\\\times 7 = 28! units. <br>Remaining capacity to be filled = !60 - 28 = 32! units. <br>Now, Pipe P is closed, and R is opened with Q. <br>New combined efficiency (Q + R) = !3 - 2 = +1! unit/min. <br>Time taken to fill the remaining !32! units = !\\\\dfrac{32}{1} = 32! minutes. <br>Total time taken from the start = Initial !4! minutes + !32! minutes = !36! minutes. <br><br><b>Solution (HI):</b> माना टंकी की कुल क्षमता = !15!, !20!, और !30! का LCM = !60! इकाई। <br>पाइप P की क्षमता = !\\\\dfrac{60}{15} = +4! इकाई/मिनट। <br>पाइप Q की क्षमता = !\\\\dfrac{60}{20} = +3! इकाई/मिनट। <br>पाइप R की क्षमता = !\\\\dfrac{-60}{30} = -2! इकाई/मिनट। <br>प्रारंभ में, P और Q को !4! मिनट के लिए खोला जाता है। <br>!4! मिनट में P और Q द्वारा किया गया कार्य = !4 \\\\times (4 + 3) = 4 \\\\times 7 = 28! इकाई। <br>भरने के लिए शेष क्षमता = !60 - 28 = 32! इकाई। <br>अब, पाइप P को बंद कर दिया जाता है, और R को Q के साथ खोल दिया जाता है। <br>नई संयुक्त क्षमता (Q + R) = !3 - 2 = +1! इकाई/मिनट। <br>शेष !32! इकाइयों को भरने में लिया गया समय = !\\\\dfrac{32}{1} = 32! मिनट। <br>प्रारंभ से लिया गया कुल समय = प्रारंभिक !4! मिनट + !32! मिनट = !36! मिनट। <br><br><b>Short Trick:</b> Remaining work after !4! mins = !60 - 4(7) = 32!. <br>Time for remaining = !\\\\dfrac{32}{\\\\text{Eff of Q+R}} = \\\\dfrac{32}{3 - 2} = 32! mins. <br>Total = !4 + 32 = 36! minutes. <br><br><b>Final Answer:</b> !36! minutes"
+  },
+  {
+    "section": "Mathematics",
+    "topic": "Time and Work",
+    "difficulty": "Hard",
+    "q_en": "A piece of work can be completed by A, B, and C individually in !8! days, !12! days, and !16! days respectively. A starts the work and works for the first !2! days. After that, B continues the work and completes one-third of the remaining work. Finally, C completes the rest of the work. Find the total time taken to complete the work.",
+    "q_hi": "A, B, और C व्यक्तिगत रूप से एक काम को क्रमशः !8! दिन, !12! दिन और !16! दिन में पूरा कर सकते हैं। A काम शुरू करता है और पहले !2! दिनों तक काम करता है। उसके बाद, B काम जारी रखता है और शेष कार्य का एक-तिहाई भाग पूरा करता है। अंत में, C शेष काम पूरा करता है। काम पूरा करने में लगा कुल समय ज्ञात कीजिए।",
+    "op_en": [
+      "13 days",
+      "9 days",
+      "14 days",
+      "11 days"
+    ],
+    "op_hi": [
+      "13 दिन",
+      "9 दिन",
+      "14 दिन",
+      "11 दिन"
+    ],
+    "ans": 1,
+    "solution": "<b>Solution (EN):</b> Let total work = LCM of !8!, !12!, and !16! = !48! units. <br>Efficiency of A = !\\\\dfrac{48}{8} = 6! units/day. <br>Efficiency of B = !\\\\dfrac{48}{12} = 4! units/day. <br>Efficiency of C = !\\\\dfrac{48}{16} = 3! units/day. <br>A works for the first !2! days. Work done by A = !2 \\\\times 6 = 12! units. <br>Remaining work = !48 - 12 = 36! units. <br>B completes one-third of the remaining work = !\\\\dfrac{1}{3} \\\\times 36 = 12! units. <br>Time taken by B to do !12! units = !\\\\dfrac{12}{4} = 3! days. <br>Remaining work for C = !36 - 12 = 24! units. <br>Time taken by C to do !24! units = !\\\\dfrac{24}{3} = 8! days. <br>Total time taken = Time by A + Time by B + Time by C = !2 + 3 + 8 = 13! days. <br><br><b>Solution (HI):</b> माना कुल कार्य = !8!, !12!, और !16! का LCM = !48! इकाई। <br>A की क्षमता = !\\\\dfrac{48}{8} = 6! इकाई/दिन। <br>B की क्षमता = !\\\\dfrac{48}{12} = 4! इकाई/दिन। <br>C की क्षमता = !\\\\dfrac{48}{16} = 3! इकाई/दिन। <br>A पहले !2! दिनों तक काम करता है। A द्वारा किया गया कार्य = !2 \\\\times 6 = 12! इकाई। <br>शेष कार्य = !48 - 12 = 36! इकाई। <br>B शेष कार्य का एक-तिहाई पूरा करता है = !\\\\dfrac{1}{3} \\\\times 36 = 12! इकाई। <br>B द्वारा !12! इकाई करने में लिया गया समय = !\\\\dfrac{12}{4} = 3! दिन। <br>C के लिए शेष कार्य = !36 - 12 = 24! इकाई। <br>C द्वारा !24! इकाई करने में लिया गया समय = !\\\\dfrac{24}{3} = 8! दिन। <br>कुल लिया गया समय = A का समय + B का समय + C का समय = !2 + 3 + 8 = 13! दिन। <br><br><b>Short Trick:</b> Part of work by A = !\\\\dfrac{2}{8} = \\\\dfrac{1}{4}!. Remaining = !\\\\dfrac{3}{4}!. <br>Part of total work by B = !\\\\dfrac{1}{3} \\\\times \\\\dfrac{3}{4} = \\\\dfrac{1}{4}!. Time for B = !\\\\dfrac{1}{4} \\\\times 12 = 3! days. <br>Remaining for C = !1 - \\\\left(\\\\dfrac{1}{4} + \\\\dfrac{1}{4}\\\\right) = \\\\dfrac{1}{2}!. Time for C = !\\\\dfrac{1}{2} \\\\times 16 = 8! days. <br>Total time = !2 + 3 + 8 = 13! days. <br><br><b>Final Answer:</b> !13! days"
+  },
+  {
+    "section": "Mathematics",
+    "topic": "Pipe and Cistern",
+    "difficulty": "Medium",
+    "q_en": "A reservoir has two inlet pipes and one outlet pipe. Inlet pipe A can fill the tank in !8! hours, and Inlet pipe B can fill it in !12! hours, while Outlet pipe C can empty the full tank in !24! hours. If all three pipes are opened at the same time, how long will it take to fill the tank?",
+    "q_hi": "एक जलाशय में दो इनलेट पाइप और एक आउटलेट पाइप हैं। इनलेट पाइप A टंकी को !8! घंटे में भर सकता है, और इनलेट पाइप B इसे !12! घंटे में भर सकता है, जबकि आउटलेट पाइप C पूरी टंकी को !24! घंटे में खाली कर सकता है। यदि तीनों पाइपों को एक साथ खोल दिया जाए, तो टंकी को भरने में कितना समय लगेगा?",
+    "op_en": [
+      "6 hours",
+      "4 hours",
+      "8 hours",
+      "5 hours"
+    ],
+    "op_hi": [
+      "6 घंटे",
+      "4 घंटे",
+      "8 घंटे",
+      "5 घंटे"
+    ],
+    "ans": 1,
+    "solution": "<b>Solution (EN):</b> <i>Note: The original question text was cut-off and the options were blank. The question sentence has been logically completed and options have been added.</i> <br>Let total capacity of the reservoir = LCM of !8!, !12!, and !24! = !24! units. <br>Efficiency of Pipe A = !\\\\dfrac{24}{8} = +3! units/hour. <br>Efficiency of Pipe B = !\\\\dfrac{24}{12} = +2! units/hour. <br>Efficiency of Pipe C = !\\\\dfrac{-24}{24} = -1! unit/hour. <br>Combined efficiency (A + B + C) = !3 + 2 - 1 = +4! units/hour. <br>Total time taken to fill the tank = !\\\\dfrac{24}{4} = 6! hours. <br><br><b>Solution (HI):</b> <i>नोट: मूल प्रश्न का पाठ अधूरा था और विकल्प खाली थे। प्रश्न वाक्य को तार्किक रूप से पूरा किया गया है और विकल्प जोड़े गए हैं।</i> <br>माना जलाशय की कुल क्षमता = !8!, !12!, और !24! का LCM = !24! इकाई। <br>पाइप A की क्षमता = !\\\\dfrac{24}{8} = +3! इकाई/घंटा। <br>पाइप B की क्षमता = !\\\\dfrac{24}{12} = +2! इकाई/घंटा। <br>पाइप C की क्षमता = !\\\\dfrac{-24}{24} = -1! इकाई/घंटा। <br>संयुक्त क्षमता (A + B + C) = !3 + 2 - 1 = +4! इकाई/घंटा। <br>टंकी को भरने में लगा कुल समय = !\\\\dfrac{24}{4} = 6! घंटे। <br><br><b>Short Trick:</b> Part filled in !1! hour = !\\\\dfrac{1}{8} + \\\\dfrac{1}{12} - \\\\dfrac{1}{24} = \\\\dfrac{3 + 2 - 1}{24} = \\\\dfrac{4}{24} = \\\\dfrac{1}{6}!. <br>Time to fill = !6! hours. <br><br><b>Final Answer:</b> !6! hours"
+  },
+  {
+    "section": "Mathematics",
+    "topic": "Time and Work",
+    "difficulty": "Hard",
+    "q_en": "Machine A produces !20! widgets per hour, while Machine B works at three-fourths of that rate but runs !15\\\\%! slower due to downtime. Both machines start together on a batch of !859! widgets, but Machine A stops after !20! hours. How many additional hours will Machine B need to complete the remaining work?",
+    "q_hi": "मशीन A प्रति घंटे !20! विजेट बनाती है, जबकि मशीन B उस दर के तीन-चौथाई पर काम करती है लेकिन डाउनटाइम के कारण !15\\\\%! धीमी चलती है। दोनों मशीनें एक साथ !859! विजेट के बैच पर काम शुरू करती हैं, लेकिन मशीन A !20! घंटे बाद रुक जाती है। मशीन B को शेष कार्य पूरा करने के लिए कितने अतिरिक्त घंटों की आवश्यकता होगी?",
+    "op_en": [
+      "12 hours",
+      "25 hours",
+      "16 hours",
+      "20 hours"
+    ],
+    "op_hi": [
+      "12 घंटे",
+      "25 घंटे",
+      "16 घंटे",
+      "20 घंटे"
+    ],
+    "ans": 3,
+    "solution": "<b>Solution (EN):</b> Production rate of Machine A = !20! widgets/hour. <br>Base theoretical rate of Machine B = !\\\\dfrac{3}{4} \\\\times 20 = 15! widgets/hour. <br>Actual rate of Machine B due to !15\\\\%! slower downtime = !15 \\\\times (1 - 0.15) = 15 \\\\times 0.85 = 12.75! widgets/hour. <br>Both machines work together for the first !20! hours. <br>Widgets produced by A in !20! hours = !20 \\\\times 20 = 400! widgets. <br>Widgets produced by B in !20! hours = !20 \\\\times 12.75 = 255! widgets. <br>Total widgets produced in !20! hours = !400 + 255 = 655! widgets. <br>Remaining widgets to be produced = !859 - 655 = 204! widgets. <br>Machine A stops, so Machine B must produce the remaining !204! widgets. <br>Additional time required by Machine B = !\\\\dfrac{204}{12.75} = \\\\dfrac{204}{\\\\dfrac{51}{4}} = \\\\dfrac{204 \\\\times 4}{51} = 4 \\\\times 4 = 16! hours. <br><br><b>Solution (HI):</b> मशीन A की उत्पादन दर = !20! विजेट/घंटा। <br>मशीन B की आधार सैद्धांतिक दर = !\\\\dfrac{3}{4} \\\\times 20 = 15! विजेट/घंटा। <br>!15\\\\%! धीमे डाउनटाइम के कारण मशीन B की वास्तविक दर = !15 \\\\times (1 - 0.15) = 15 \\\\times 0.85 = 12.75! विजेट/घंटा। <br>दोनों मशीनें पहले !20! घंटों तक एक साथ काम करती हैं। <br>मशीन A द्वारा !20! घंटों में बनाए गए विजेट = !20 \\\\times 20 = 400! विजेट। <br>मशीन B द्वारा !20! घंटों में बनाए गए विजेट = !20 \\\\times 12.75 = 255! विजेट। <br>!20! घंटों में बनाए गए कुल विजेट = !400 + 255 = 655! विजेट। <br>बनाए जाने वाले शेष विजेट = !859 - 655 = 204! विजेट। <br>मशीन A रुक जाती है, इसलिए मशीन B को शेष !204! विजेट बनाने होंगे। <br>मशीन B द्वारा आवश्यक अतिरिक्त समय = !\\\\dfrac{204}{12.75} = \\\\dfrac{204}{\\\\dfrac{51}{4}} = \\\\dfrac{204 \\\\times 4}{51} = 4 \\\\times 4 = 16! घंटे। <br><br><b>Short Trick:</b> Combined hourly rate = !20 + (15 \\\\times 0.85) = 32.75!. <br>Total in !20! hours = !20 \\\\times 32.75 = 655!. <br>Remaining = !859 - 655 = 204!. <br>Extra time for B = !\\\\dfrac{204}{12.75} = 16! hours. <br><br><b>Final Answer:</b> !16! hours"
+  },
+  {
+    "section": "Mathematics",
+    "topic": "Pipe and Cistern",
+    "difficulty": "Easy",
+    "q_en": "A cistern can be filled by a pipe in !8! hours, but due to a leak at the bottom, it takes !10! hours to fill. How long will the leak alone take to empty the full cistern?",
+    "q_hi": "एक टंकी को एक पाइप द्वारा !8! घंटे में भरा जा सकता है, लेकिन तल में एक रिसाव (leak) के कारण, इसे भरने में !10! घंटे लगते हैं। रिसाव अकेले पूरी टंकी को खाली करने में कितना समय लेगा?",
+    "op_en": [
+      "20 hours",
+      "32 hours",
+      "40 hours",
+      "16 hours"
+    ],
+    "op_hi": [
+      "20 घंटे",
+      "32 घंटे",
+      "40 घंटे",
+      "16 घंटे"
+    ],
+    "ans": 3,
+    "solution": "<b>Solution (EN):</b> Let the total capacity of the cistern = LCM of !8! and !10! = !40! units. <br>Efficiency of the filling pipe = !\\\\dfrac{40}{8} = +5! units/hour. <br>Net efficiency with the leak (Pipe + Leak) = !\\\\dfrac{40}{10} = +4! units/hour. <br>Efficiency of the leak = Net efficiency - Filling pipe efficiency <br>!\\\\Rightarrow! Efficiency of leak = !4 - 5 = -1! unit/hour. <br>Time taken by the leak alone to empty the cistern = !\\\\dfrac{40}{1} = 40! hours. <br><br><b>Solution (HI):</b> माना टंकी की कुल क्षमता = !8! और !10! का LCM = !40! इकाई। <br>भरने वाले पाइप की क्षमता = !\\\\dfrac{40}{8} = +5! इकाई/घंटा। <br>रिसाव के साथ शुद्ध क्षमता (पाइप + रिसाव) = !\\\\dfrac{40}{10} = +4! इकाई/घंटा। <br>रिसाव की क्षमता = शुद्ध क्षमता - भरने वाले पाइप की क्षमता <br>!\\\\Rightarrow! रिसाव की क्षमता = !4 - 5 = -1! इकाई/घंटा। <br>अकेले रिसाव द्वारा टंकी को खाली करने में लिया गया समय = !\\\\dfrac{40}{1} = 40! घंटे। <br><br><b>Short Trick:</b> Time taken by leak = !\\\\dfrac{x \\\\times y}{y - x} = \\\\dfrac{8 \\\\times 10}{10 - 8} = \\\\dfrac{80}{2} = 40! hours. <br><br><b>Final Answer:</b> !40! hours"
+  },
+  {
+    "section": "Mathematics",
+    "topic": "Time and Work",
+    "difficulty": "Hard",
+    "q_en": "A, B, and C can complete a piece of work in !24!, !30!, and !40! days, respectively. They begin working together, but A leaves !4! days before the work is completed and B leaves !1! day before the work is completed. Find the total number of days taken to finish the work.",
+    "q_hi": "A, B, और C एक काम को क्रमशः !24!, !30!, और !40! दिनों में पूरा कर सकते हैं। वे एक साथ काम करना शुरू करते हैं, लेकिन A काम पूरा होने से !4! दिन पहले काम छोड़ देता है और B काम पूरा होने से !1! दिन पहले काम छोड़ देता है। काम खत्म करने में लगे कुल दिनों की संख्या ज्ञात कीजिए।",
+    "op_en": [
+      "14 days",
+      "12 days",
+      "10 days",
+      "15 days"
+    ],
+    "op_hi": [
+      "14 दिन",
+      "12 दिन",
+      "10 दिन",
+      "15 दिन"
+    ],
+    "ans": 2,
+    "solution": "<b>Solution (EN):</b> Let total work = LCM of !24!, !30!, and !40! = !120! units. <br>Efficiency of A = !\\\\dfrac{120}{24} = 5! units/day. <br>Efficiency of B = !\\\\dfrac{120}{30} = 4! units/day. <br>Efficiency of C = !\\\\dfrac{120}{40} = 3! units/day. <br>Let the total time taken to finish the work be !x! days. <br>C works for all !x! days, A works for !(x - 4)! days, and B works for !(x - 1)! days. <br>Total work = Work by A + Work by B + Work by C <br>!\\\\Rightarrow 5(x - 4) + 4(x - 1) + 3(x) = 120! <br>!\\\\Rightarrow 5x - 20 + 4x - 4 + 3x = 120! <br>!\\\\Rightarrow 12x - 24 = 120! <br>!\\\\Rightarrow 12x = 144! <br>!\\\\Rightarrow x = 12! days. <br><br><b>Solution (HI):</b> माना कुल कार्य = !24!, !30!, और !40! का LCM = !120! इकाई। <br>A की क्षमता = !\\\\dfrac{120}{24} = 5! इकाई/दिन। <br>B की क्षमता = !\\\\dfrac{120}{30} = 4! इकाई/दिन। <br>C की क्षमता = !\\\\dfrac{120}{40} = 3! इकाई/दिन। <br>माना काम पूरा करने में लगा कुल समय !x! दिन है। <br>C पूरे !x! दिन काम करता है, A !(x - 4)! दिन काम करता है, और B !(x - 1)! दिन काम करता है। <br>कुल कार्य = A का कार्य + B का कार्य + C का कार्य <br>!\\\\Rightarrow 5(x - 4) + 4(x - 1) + 3(x) = 120! <br>!\\\\Rightarrow 5x - 20 + 4x - 4 + 3x = 120! <br>!\\\\Rightarrow 12x - 24 = 120! <br>!\\\\Rightarrow 12x = 144! <br>!\\\\Rightarrow x = 12! दिन। <br><br><b>Short Trick:</b> If A and B had not left, they would have done extra work: <br>A's extra work for !4! days = !5 \\\\times 4 = 20! units. <br>B's extra work for !1! day = !4 \\\\times 1 = 4! units. <br>Total assumed work = !120 + 20 + 4 = 144! units. <br>If all worked together till the end, time = !\\\\dfrac{144}{5 + 4 + 3} = \\\\dfrac{144}{12} = 12! days. <br><br><b>Final Answer:</b> !12! days"
+  },
+  {
+    "section": "Mathematics",
+    "topic": "Pipe and Cistern",
+    "difficulty": "Medium",
+    "q_en": "Pipe A fills a tank in !12! hours and Pipe B fills it in !16! hours. Both pipes are opened together. After how many hours should Pipe B be closed so that the entire tank is completely filled in exactly !9! hours?",
+    "q_hi": "पाइप A एक टंकी को !12! घंटे में भरता है और पाइप B इसे !16! घंटे में भरता है। दोनों पाइप एक साथ खोले जाते हैं। पाइप B को कितने घंटे बाद बंद कर देना चाहिए ताकि पूरी टंकी ठीक !9! घंटे में भर जाए?",
+    "op_en": [
+      "5 hours",
+      "3 hours",
+      "4 hours",
+      "6 hours"
+    ],
+    "op_hi": [
+      "5 घंटे",
+      "3 घंटे",
+      "4 घंटे",
+      "6 घंटे"
+    ],
+    "ans": 3,
+    "solution": "<b>Solution (EN):</b> Let total capacity of the tank = LCM of !12! and !16! = !48! units. <br>Efficiency of Pipe A = !\\\\dfrac{48}{12} = 4! units/hour. <br>Efficiency of Pipe B = !\\\\dfrac{48}{16} = 3! units/hour. <br>The entire tank is filled in exactly !9! hours, which means Pipe A worked for the full !9! hours. <br>Work done by Pipe A in !9! hours = !9 \\\\times 4 = 36! units. <br>Remaining capacity to be filled = !48 - 36 = 12! units. <br>This remaining !12! units must have been filled by Pipe B before it was closed. <br>Time Pipe B was open = !\\\\dfrac{12}{3} = 4! hours. <br>So, Pipe B should be closed after !4! hours. <br><br><b>Solution (HI):</b> माना टंकी की कुल क्षमता = !12! और !16! का LCM = !48! इकाई। <br>पाइप A की क्षमता = !\\\\dfrac{48}{12} = 4! इकाई/घंटा। <br>पाइप B की क्षमता = !\\\\dfrac{48}{16} = 3! इकाई/घंटा। <br>पूरी टंकी ठीक !9! घंटे में भर जाती है, जिसका अर्थ है कि पाइप A ने पूरे !9! घंटे काम किया। <br>पाइप A द्वारा !9! घंटे में किया गया कार्य = !9 \\\\times 4 = 36! इकाई। <br>भरने के लिए शेष क्षमता = !48 - 36 = 12! इकाई। <br>यह शेष !12! इकाई पाइप B द्वारा बंद होने से पहले भरा गया होगा। <br>पाइप B जितने समय तक खुला था = !\\\\dfrac{12}{3} = 4! घंटे। <br>अतः, पाइप B को !4! घंटे बाद बंद कर देना चाहिए। <br><br><b>Short Trick:</b> Pipe A fills !\\\\dfrac{9}{12} = \\\\dfrac{3}{4}! of the tank in !9! hours. <br>Remaining part != 1 - \\\\dfrac{3}{4} = \\\\dfrac{1}{4}! of the tank. <br>Time taken by Pipe B to fill !\\\\dfrac{1}{4}! of the tank != \\\\dfrac{1}{4} \\\\times 16 = 4! hours. <br><br><b>Final Answer:</b> !4! hours"
+  },
+  {
+    "section": "Mathematics",
+    "topic": "Time and Work",
+    "difficulty": "Medium",
+    "q_en": "A company assigns a project to !8! workers with a planned completion time of !16! days. After working for !8! days, only half of the work has been completed due to technical issues. If !4! additional workers are added to the team, how many more days will be needed to complete the remaining work?",
+    "q_hi": "एक कंपनी !8! कर्मचारियों को एक प्रोजेक्ट सौंपती है, जिसे पूरा करने का नियोजित समय !16! दिन है। !8! दिनों तक काम करने के बाद, तकनीकी समस्याओं के कारण केवल आधा काम ही पूरा हो पाया है। यदि टीम में !4! अतिरिक्त कर्मचारी जोड़ दिए जाएं, तो शेष कार्य को पूरा करने में कितने और दिन लगेंगे?",
+    "op_en": [
+      "!5 \\\\dfrac{1}{3}! days",
+      "6 days",
+      "5 days",
+      "!6 \\\\dfrac{1}{3}! days"
+    ],
+    "op_hi": [
+      "!5 \\\\dfrac{1}{3}! दिन",
+      "6 दिन",
+      "5 दिन",
+      "!6 \\\\dfrac{1}{3}! दिन"
+    ],
+    "ans": 1,
+    "solution": "<b>Solution (EN):</b> <i>Note: The original options for this question were blank. Correct mathematical options have been generated.</i> <br>Let the work done in the first phase be !W_1 = \\\\dfrac{1}{2}! of the total work. <br>The remaining work !W_2 = \\\\dfrac{1}{2}!. <br>In the first phase: !M_1 = 8! workers, !D_1 = 8! days. <br>In the second phase: !M_2 = 8 + 4 = 12! workers, !D_2 = ?! days. <br>Using the MDH formula: !\\\\dfrac{M_1 \\\\times D_1}{W_1} = \\\\dfrac{M_2 \\\\times D_2}{W_2}! <br>Since !W_1 = W_2!, we have: <br>!\\\\Rightarrow 8 \\\\times 8 = 12 \\\\times D_2! <br>!\\\\Rightarrow 64 = 12 \\\\times D_2! <br>!\\\\Rightarrow D_2 = \\\\dfrac{64}{12} = \\\\dfrac{16}{3} = 5 \\\\dfrac{1}{3}! days. <br><br><b>Solution (HI):</b> <i>नोट: इस प्रश्न के मूल विकल्प खाली थे। सही गणितीय विकल्प तैयार किए गए हैं।</i> <br>माना पहले चरण में किया गया कार्य !W_1 = \\\\dfrac{1}{2}! (कुल कार्य का) है। <br>शेष कार्य !W_2 = \\\\dfrac{1}{2}! है। <br>पहले चरण में: !M_1 = 8! कर्मचारी, !D_1 = 8! दिन। <br>दूसरे चरण में: !M_2 = 8 + 4 = 12! कर्मचारी, !D_2 = ?! दिन। <br>MDH सूत्र का उपयोग करने पर: !\\\\dfrac{M_1 \\\\times D_1}{W_1} = \\\\dfrac{M_2 \\\\times D_2}{W_2}! <br>चूंकि !W_1 = W_2! है, हमारे पास है: <br>!\\\\Rightarrow 8 \\\\times 8 = 12 \\\\times D_2! <br>!\\\\Rightarrow 64 = 12 \\\\times D_2! <br>!\\\\Rightarrow D_2 = \\\\dfrac{64}{12} = \\\\dfrac{16}{3} = 5 \\\\dfrac{1}{3}! दिन। <br><br><b>Short Trick:</b> Remaining work is same as work done. <br>Work equivalent = !8 \\\\times 8 = 64! man-days. <br>New workforce = !12! men. <br>Required days = !\\\\dfrac{64}{12} = 5 \\\\dfrac{1}{3}! days. <br><br><b>Final Answer:</b> !5 \\\\dfrac{1}{3}! days"
+  },
+  {
+    "section": "Mathematics",
+    "topic": "Time and Work",
+    "difficulty": "Medium",
+    "q_en": "A, B and C can do a piece of work in !16!, !24! and !48! days, respectively. In how many days can A do the work if he is assisted by both B and C on every third day?",
+    "q_hi": "A, B और C एक काम को क्रमशः !16!, !24! और !48! दिनों में कर सकते हैं। यदि A को हर तीसरे दिन B और C दोनों की सहायता मिलती है, तो A कितने दिनों में काम पूरा कर सकता है?",
+    "op_en": [
+      "15",
+      "14",
+      "12",
+      "10"
+    ],
+    "op_hi": [
+      "15",
+      "14",
+      "12",
+      "10"
+    ],
+    "ans": 3,
+    "solution": "<b>Solution (EN):</b> Let total work = LCM of !16!, !24!, and !48! = !48! units. <br>Efficiency of A = !\\\\dfrac{48}{16} = 3! units/day. <br>Efficiency of B = !\\\\dfrac{48}{24} = 2! units/day. <br>Efficiency of C = !\\\\dfrac{48}{48} = 1! unit/day. <br>The work pattern repeats every !3! days (one cycle): <br>Day 1: A works alone = !3! units. <br>Day 2: A works alone = !3! units. <br>Day 3: A, B, and C work together = !3 + 2 + 1 = 6! units. <br>Work done in one !3!-day cycle = !3 + 3 + 6 = 12! units. <br>Number of cycles required to complete !48! units = !\\\\dfrac{48}{12} = 4! cycles. <br>Total number of days = !4 \\\\times 3 = 12! days. <br><br><b>Solution (HI):</b> माना कुल कार्य = !16!, !24!, और !48! का LCM = !48! इकाई। <br>A की क्षमता = !\\\\dfrac{48}{16} = 3! इकाई/दिन। <br>B की क्षमता = !\\\\dfrac{48}{24} = 2! इकाई/दिन। <br>C की क्षमता = !\\\\dfrac{48}{48} = 1! इकाई/दिन। <br>काम का पैटर्न हर !3! दिनों (एक चक्र) में दोहराया जाता है: <br>पहला दिन: A अकेले काम करता है = !3! इकाई। <br>दूसरा दिन: A अकेले काम करता है = !3! इकाई। <br>तीसरा दिन: A, B, और C एक साथ काम करते हैं = !3 + 2 + 1 = 6! इकाई। <br>एक !3!-दिवसीय चक्र में किया गया कार्य = !3 + 3 + 6 = 12! इकाई। <br>!48! इकाई पूरा करने के लिए आवश्यक चक्रों की संख्या = !\\\\dfrac{48}{12} = 4! चक्र। <br>कुल दिनों की संख्या = !4 \\\\times 3 = 12! दिन। <br><br><b>Short Trick:</b> Work in !3! days = !3 \\\\times (A) + 1 \\\\times (B + C) = 3(3) + 1(2 + 1) = 9 + 3 = 12! units. <br>Cycles = !\\\\dfrac{48}{12} = 4!. <br>Total days = !4 \\\\times 3 = 12! days. <br><br><b>Final Answer:</b> !12!"
+  },
+  {
+    "section": "Mathematics",
+    "topic": "Time and Work",
+    "difficulty": "Medium",
+    "q_en": "!4! women and !5! men can complete a certain work in !15! days, whereas !2! men and !3! women can do it in !30! days. In how many days can !10! women complete the same work?",
+    "q_hi": "!4! महिलाएँ और !5! पुरुष एक निश्चित कार्य को !15! दिनों में पूरा कर सकते हैं, जबकि !2! पुरुष और !3! महिलाएँ इसे !30! दिनों में कर सकते हैं। !10! महिलाएँ उसी कार्य को कितने दिनों में पूरा कर सकती हैं?",
+    "op_en": [
+      "21",
+      "18",
+      "24",
+      "14"
+    ],
+    "op_hi": [
+      "21",
+      "18",
+      "24",
+      "14"
+    ],
+    "ans": 1,
+    "solution": "<b>Solution (EN):</b> Let the efficiency of !1! woman be !w! and !1! man be !m!. <br>Using the formula !M_1 \\\\times D_1 = M_2 \\\\times D_2!: <br>!\\\\Rightarrow (4w + 5m) \\\\times 15 = (3w + 2m) \\\\times 30! <br>Divide both sides by !15!: <br>!\\\\Rightarrow 4w + 5m = 2(3w + 2m)! <br>!\\\\Rightarrow 4w + 5m = 6w + 4m! <br>!\\\\Rightarrow 5m - 4m = 6w - 4w! <br>!\\\\Rightarrow 1m = 2w! (So, !1! man is equal to !2! women). <br>Now, find total work in terms of women. Substitute !m = 2w! into the first group: <br>Total work = !(4w + 5(2w)) \\\\times 15 = (4w + 10w) \\\\times 15 = 14w \\\\times 15 = 210w! units. <br>Time taken by !10! women (!10w!) to complete the work = !\\\\dfrac{210w}{10w} = 21! days. <br><br><b>Solution (HI):</b> माना !1! महिला की क्षमता !w! और !1! पुरुष की क्षमता !m! है। <br>सूत्र !M_1 \\\\times D_1 = M_2 \\\\times D_2! का उपयोग करने पर: <br>!\\\\Rightarrow (4w + 5m) \\\\times 15 = (3w + 2m) \\\\times 30! <br>दोनों पक्षों को !15! से विभाजित करने पर: <br>!\\\\Rightarrow 4w + 5m = 2(3w + 2m)! <br>!\\\\Rightarrow 4w + 5m = 6w + 4m! <br>!\\\\Rightarrow 5m - 4m = 6w - 4w! <br>!\\\\Rightarrow 1m = 2w! (अतः, !1! पुरुष, !2! महिलाओं के बराबर है)। <br>अब, महिलाओं के संदर्भ में कुल कार्य ज्ञात करें। पहले समूह में !m = 2w! रखने पर: <br>कुल कार्य = !(4w + 5(2w)) \\\\times 15 = (4w + 10w) \\\\times 15 = 14w \\\\times 15 = 210w! इकाई। <br>!10! महिलाओं (!10w!) द्वारा कार्य पूरा करने में लिया गया समय = !\\\\dfrac{210w}{10w} = 21! दिन। <br><br><b>Short Trick:</b> !(4W + 5M) \\\\times 1 = (3W + 2M) \\\\times 2! (Since days ratio is !15:30 = 1:2!) <br>!\\\\Rightarrow 4W + 5M = 6W + 4M \\\\Rightarrow 1M = 2W!. <br>Group 1 = !4W + 5(2W) = 14W!. <br>Using !M_1 D_1 = M_2 D_2 \\\\Rightarrow 14W \\\\times 15 = 10W \\\\times D_2 \\\\Rightarrow D_2 = \\\\dfrac{210}{10} = 21!. <br><br><b>Final Answer:</b> !21!"
+  },
+  {
+    "section": "Mathematics",
+    "topic": "Pipe and Cistern",
+    "difficulty": "Medium",
+    "q_en": "Two pipes can fill a cistern, individually, in !24! min and !30! min, respectively. There is a pipe located at the bottom of the cistern to empty it. If all the three pipes are opened simultaneously, then the empty cistern gets filled in !15! min. How long will the pipe at the bottom of the tank take to empty the completely filled cistern if no other pipe is then open?",
+    "q_hi": "दो पाइप व्यक्तिगत रूप से एक टंकी को क्रमशः !24! मिनट और !30! मिनट में भर सकते हैं। टंकी को खाली करने के लिए इसके तल पर एक पाइप स्थित है। यदि तीनों पाइपों को एक साथ खोल दिया जाए, तो खाली टंकी !15! मिनट में भर जाती है। यदि कोई अन्य पाइप खुला न हो, तो टंकी के तल पर स्थित पाइप को पूरी तरह से भरी हुई टंकी को खाली करने में कितना समय लगेगा?",
+    "op_en": [
+      "139 min",
+      "126 min",
+      "110 min",
+      "120 min"
+    ],
+    "op_hi": [
+      "139 मिनट",
+      "126 मिनट",
+      "110 मिनट",
+      "120 मिनट"
+    ],
+    "ans": 4,
+    "solution": "<b>Solution (EN):</b> Let the two filling pipes be A and B, and the emptying pipe be C. <br>Total capacity of the cistern = LCM of !24!, !30!, and !15! = !120! units. <br>Efficiency of Pipe A = !\\\\dfrac{120}{24} = +5! units/min. <br>Efficiency of Pipe B = !\\\\dfrac{120}{30} = +4! units/min. <br>Combined efficiency of (A + B + C) = !\\\\dfrac{120}{15} = +8! units/min. <br>Let the efficiency of Pipe C be !x!. <br>!\\\\Rightarrow 5 + 4 + x = 8! <br>!\\\\Rightarrow 9 + x = 8! <br>!\\\\Rightarrow x = -1! unit/min. <br>The negative sign indicates that C empties !1! unit per minute. <br>Time taken by Pipe C alone to empty the full cistern = !\\\\dfrac{120}{1} = 120! minutes. <br><br><b>Solution (HI):</b> माना दो भरने वाले पाइप A और B हैं, और खाली करने वाला पाइप C है। <br>टंकी की कुल क्षमता = !24!, !30!, और !15! का LCM = !120! इकाई। <br>पाइप A की क्षमता = !\\\\dfrac{120}{24} = +5! इकाई/मिनट। <br>पाइप B की क्षमता = !\\\\dfrac{120}{30} = +4! इकाई/मिनट। <br>(A + B + C) की संयुक्त क्षमता = !\\\\dfrac{120}{15} = +8! इकाई/मिनट। <br>माना पाइप C की क्षमता !x! है। <br>!\\\\Rightarrow 5 + 4 + x = 8! <br>!\\\\Rightarrow 9 + x = 8! <br>!\\\\Rightarrow x = -1! इकाई/मिनट। <br>ऋणात्मक चिह्न यह दर्शाता है कि C प्रति मिनट !1! इकाई खाली करता है। <br>अकेले पाइप C द्वारा पूरी टंकी को खाली करने में लिया गया समय = !\\\\dfrac{120}{1} = 120! मिनट। <br><br><b>Short Trick:</b> Net efficiency = !8!. A + B efficiency = !9!. <br>C's efficiency = !8 - 9 = -1!. <br>Time taken by C = !\\\\dfrac{120}{1} = 120! mins. <br><br><b>Final Answer:</b> !120! min"
+  },
+  {
+    "section": "Mathematics",
+    "topic": "Pipe and Cistern",
+    "difficulty": "Medium",
+    "q_en": "Two taps can fill a cistern in !10! hours and !14! hours, respectively. A third tap can empty it in !13! hours. How long will it take to fill the empty cistern, if all of them are opened together?",
+    "q_hi": "दो नल एक टंकी को क्रमशः !10! घंटे और !14! घंटे में भर सकते हैं। एक तीसरा नल इसे !13! घंटे में खाली कर सकता है। यदि उन सभी को एक साथ खोल दिया जाए, तो खाली टंकी को भरने में कितना समय लगेगा?",
+    "op_en": [
+      "!10 \\\\dfrac{25}{43}! hours",
+      "!11 \\\\dfrac{12}{43}! hours",
+      "!10 \\\\dfrac{15}{43}! hours",
+      "!12 \\\\dfrac{5}{43}! hours"
+    ],
+    "op_hi": [
+      "!10 \\\\dfrac{25}{43}! घंटे",
+      "!11 \\\\dfrac{12}{43}! घंटे",
+      "!10 \\\\dfrac{15}{43}! घंटे",
+      "!12 \\\\dfrac{5}{43}! घंटे"
+    ],
+    "ans": 1,
+    "solution": "<b>Solution (EN):</b> <i>Note: The options for this question were initially blank. Correct mathematical options have been generated.</i> <br>Let total capacity of the cistern = LCM of !10!, !14!, and !13! = !910! units. <br>Efficiency of Tap 1 (filling) = !\\\\dfrac{910}{10} = +91! units/hour. <br>Efficiency of Tap 2 (filling) = !\\\\dfrac{910}{14} = +65! units/hour. <br>Efficiency of Tap 3 (emptying) = !\\\\dfrac{-910}{13} = -70! units/hour. <br>Combined efficiency of all three taps = !91 + 65 - 70 = 86! units/hour. <br>Time taken to fill the cistern completely = !\\\\dfrac{910}{86}! hours. <br>Simplifying the fraction: !\\\\dfrac{910}{86} = \\\\dfrac{455}{43} = 10 \\\\dfrac{25}{43}! hours. <br><br><b>Solution (HI):</b> <i>नोट: इस प्रश्न के विकल्प शुरू में खाली थे। सही गणितीय विकल्प तैयार किए गए हैं।</i> <br>माना टंकी की कुल क्षमता = !10!, !14!, और !13! का LCM = !910! इकाई। <br>नल 1 की क्षमता (भरने वाला) = !\\\\dfrac{910}{10} = +91! इकाई/घंटा। <br>नल 2 की क्षमता (भरने वाला) = !\\\\dfrac{910}{14} = +65! इकाई/घंटा। <br>नल 3 की क्षमता (खाली करने वाला) = !\\\\dfrac{-910}{13} = -70! इकाई/घंटा। <br>तीनों नलों की संयुक्त क्षमता = !91 + 65 - 70 = 86! इकाई/घंटा। <br>टंकी को पूरी तरह से भरने में लगा समय = !\\\\dfrac{910}{86}! घंटे। <br>भिन्न को सरल करने पर: !\\\\dfrac{910}{86} = \\\\dfrac{455}{43} = 10 \\\\dfrac{25}{43}! घंटे। <br><br><b>Short Trick:</b> Net part filled in !1! hour = !\\\\dfrac{1}{10} + \\\\dfrac{1}{14} - \\\\dfrac{1}{13} = \\\\dfrac{91 + 65 - 70}{910} = \\\\dfrac{86}{910} = \\\\dfrac{43}{455}!. <br>Time required = !\\\\dfrac{455}{43} = 10 \\\\dfrac{25}{43}! hours. <br><br><b>Final Answer:</b> !10 \\\\dfrac{25}{43}! hours"
+  },
+  {
+    "section": "Mathematics",
+    "topic": "Time and Work",
+    "difficulty": "Easy",
+    "q_en": "Three friends decide to paint a perimeter fence together. Working independently, A can complete the task in !10! hours, B in !20! hours, and C in !30! hours. If all three friends work together, how many hours will it take to finish the job?",
+    "q_hi": "तीन दोस्त एक साथ परिधि की बाड़ को पेंट करने का फैसला करते हैं। स्वतंत्र रूप से काम करते हुए, A काम को !10! घंटे में, B !20! घंटे में, और C !30! घंटे में पूरा कर सकता है। यदि तीनों दोस्त एक साथ काम करते हैं, तो काम खत्म करने में कितने घंटे लगेंगे?",
+    "op_en": [
+      "!5 \\\\dfrac{5}{11}! hours",
+      "!6 \\\\dfrac{2}{11}! hours",
+      "!5 \\\\dfrac{2}{11}! hours",
+      "!4 \\\\dfrac{5}{11}! hours"
+    ],
+    "op_hi": [
+      "!5 \\\\dfrac{5}{11}! घंटे",
+      "!6 \\\\dfrac{2}{11}! घंटे",
+      "!5 \\\\dfrac{2}{11}! घंटे",
+      "!4 \\\\dfrac{5}{11}! घंटे"
+    ],
+    "ans": 1,
+    "solution": "<b>Solution (EN):</b> <i>Note: The original options were blank. Mathematically correct options have been provided.</i> <br>Let total work = LCM of !10!, !20!, and !30! = !60! units. <br>Efficiency of A = !\\\\dfrac{60}{10} = 6! units/hour. <br>Efficiency of B = !\\\\dfrac{60}{20} = 3! units/hour. <br>Efficiency of C = !\\\\dfrac{60}{30} = 2! units/hour. <br>Combined efficiency of A, B, and C = !6 + 3 + 2 = 11! units/hour. <br>Time taken to complete the job together = !\\\\dfrac{\\\\text{Total Work}}{\\\\text{Combined Efficiency}} = \\\\dfrac{60}{11}! hours. <br>!\\\\Rightarrow 5 \\\\dfrac{5}{11}! hours. <br><br><b>Solution (HI):</b> <i>नोट: मूल विकल्प खाली थे। गणितीय रूप से सही विकल्प प्रदान किए गए हैं।</i> <br>माना कुल कार्य = !10!, !20!, और !30! का LCM = !60! इकाई। <br>A की क्षमता = !\\\\dfrac{60}{10} = 6! इकाई/घंटा। <br>B की क्षमता = !\\\\dfrac{60}{20} = 3! इकाई/घंटा। <br>C की क्षमता = !\\\\dfrac{60}{30} = 2! इकाई/घंटा। <br>A, B, और C की संयुक्त क्षमता = !6 + 3 + 2 = 11! इकाई/घंटा। <br>एक साथ काम पूरा करने में लिया गया समय = !\\\\dfrac{\\\\text{कुल कार्य}}{\\\\text{संयुक्त क्षमता}} = \\\\dfrac{60}{11}! घंटे। <br>!\\\\Rightarrow 5 \\\\dfrac{5}{11}! घंटे। <br><br><b>Short Trick:</b> Part of work done in !1! hour = !\\\\dfrac{1}{10} + \\\\dfrac{1}{20} + \\\\dfrac{1}{30} = \\\\dfrac{6 + 3 + 2}{60} = \\\\dfrac{11}{60}!. <br>Time taken = !\\\\dfrac{60}{11} = 5 \\\\dfrac{5}{11}! hours. <br><br><b>Final Answer:</b> !5 \\\\dfrac{5}{11}! hours"
+  },
+  {
+    "section": "Mathematics",
+    "topic": "Pipe and Cistern",
+    "difficulty": "Easy",
+    "q_en": "Pipe A can fill a cistern in !8! hours, Pipe B in !12! hours, and Pipe C can empty it in !24! hours. If all three pipes are opened together, how long will it take to fill the cistern completely?",
+    "q_hi": "पाइप A एक टंकी को !8! घंटे में भर सकता है, पाइप B !12! घंटे में भर सकता है, और पाइप C इसे !24! घंटे में खाली कर सकता है। यदि तीनों पाइप एक साथ खोल दिए जाएं, तो टंकी को पूरी तरह से भरने में कितना समय लगेगा?",
+    "op_en": [
+      "5 hours",
+      "6 hours",
+      "4 hours",
+      "8 hours"
+    ],
+    "op_hi": [
+      "5 घंटे",
+      "6 घंटे",
+      "4 घंटे",
+      "8 घंटे"
+    ],
+    "ans": 2,
+    "solution": "<b>Solution (EN):</b> <i>Note: The original options were incomplete/blank. Correct options have been added.</i> <br>Let total capacity of the cistern = LCM of !8!, !12!, and !24! = !24! units. <br>Efficiency of Pipe A = !\\\\dfrac{24}{8} = +3! units/hour. <br>Efficiency of Pipe B = !\\\\dfrac{24}{12} = +2! units/hour. <br>Efficiency of Pipe C = !\\\\dfrac{-24}{24} = -1! unit/hour. <br>Combined net efficiency (A + B + C) = !3 + 2 - 1 = +4! units/hour. <br>Time taken to fill the cistern = !\\\\dfrac{24}{4} = 6! hours. <br><br><b>Solution (HI):</b> <i>नोट: मूल विकल्प अधूरे/खाली थे। सही विकल्प जोड़े गए हैं।</i> <br>माना टंकी की कुल क्षमता = !8!, !12!, और !24! का LCM = !24! इकाई। <br>पाइप A की क्षमता = !\\\\dfrac{24}{8} = +3! इकाई/घंटा। <br>पाइप B की क्षमता = !\\\\dfrac{24}{12} = +2! इकाई/घंटा। <br>पाइप C की क्षमता = !\\\\dfrac{-24}{24} = -1! इकाई/घंटा। <br>संयुक्त शुद्ध क्षमता (A + B + C) = !3 + 2 - 1 = +4! इकाई/घंटा। <br>टंकी को भरने में लगा समय = !\\\\dfrac{24}{4} = 6! घंटे। <br><br><b>Short Trick:</b> Net part filled per hour = !\\\\dfrac{1}{8} + \\\\dfrac{1}{12} - \\\\dfrac{1}{24} = \\\\dfrac{3 + 2 - 1}{24} = \\\\dfrac{4}{24} = \\\\dfrac{1}{6}!. <br>Time to fill = !6! hours. <br><br><b>Final Answer:</b> !6! hours"
+  },
+  {
+    "section": "Mathematics",
+    "topic": "Pipe and Cistern",
+    "difficulty": "Medium",
+    "q_en": "A cistern is !30\\\\%! full. Tap X can fill the empty cistern in !28! minutes, while tap Y can empty the full cistern in !20! minutes. If both the taps are opened together, then in how much time will it be empty?",
+    "q_hi": "एक टंकी !30\\\\%! भरी हुई है। नल X खाली टंकी को !28! मिनट में भर सकता है, जबकि नल Y पूरी टंकी को !20! मिनट में खाली कर सकता है। यदि दोनों नल एक साथ खोल दिए जाएं, तो यह कितने समय में खाली हो जाएगी?",
+    "op_en": [
+      "18 minutes",
+      "21 minutes",
+      "15 minutes",
+      "20 minutes"
+    ],
+    "op_hi": [
+      "18 मिनट",
+      "21 मिनट",
+      "15 मिनट",
+      "20 मिनट"
+    ],
+    "ans": 2,
+    "solution": "<b>Solution (EN):</b> Let the total capacity of the cistern = LCM of !28! and !20! = !140! units. <br>Efficiency of Tap X (filling) = !\\\\dfrac{140}{28} = +5! units/min. <br>Efficiency of Tap Y (emptying) = !\\\\dfrac{-140}{20} = -7! units/min. <br>Net combined efficiency = !5 - 7 = -2! units/min. <br>Since the net efficiency is negative, the tank will be emptied. <br>The cistern is initially !30\\\\%! full. <br>Water already present in the cistern = !30\\\\%! of !140 = \\\\dfrac{30}{100} \\\\times 140 = 42! units. <br>Time taken to empty this !42! units = !\\\\dfrac{42}{2} = 21! minutes. <br><br><b>Solution (HI):</b> माना टंकी की कुल क्षमता = !28! और !20! का LCM = !140! इकाई। <br>नल X की क्षमता (भरने वाला) = !\\\\dfrac{140}{28} = +5! इकाई/मिनट। <br>नल Y की क्षमता (खाली करने वाला) = !\\\\dfrac{-140}{20} = -7! इकाई/मिनट। <br>शुद्ध संयुक्त क्षमता = !5 - 7 = -2! इकाई/मिनट। <br>चूंकि शुद्ध क्षमता ऋणात्मक है, इसलिए टंकी खाली हो जाएगी। <br>टंकी शुरू में !30\\\\%! भरी हुई है। <br>टंकी में पहले से मौजूद पानी = !140! का !30\\\\% = \\\\dfrac{30}{100} \\\\times 140 = 42! इकाई। <br>इन !42! इकाइयों को खाली करने में लिया गया समय = !\\\\dfrac{42}{2} = 21! मिनट। <br><br><b>Short Trick:</b> Net emptying rate = !\\\\dfrac{1}{20} - \\\\dfrac{1}{28} = \\\\dfrac{7 - 5}{140} = \\\\dfrac{2}{140} = \\\\dfrac{1}{70}! per minute. <br>The tank is !\\\\dfrac{30}{100} = \\\\dfrac{3}{10}! full. <br>Time = !\\\\dfrac{\\\\text{Volume}}{\\\\text{Rate}} = \\\\dfrac{\\\\dfrac{3}{10}}{\\\\dfrac{1}{70}} = \\\\dfrac{3}{10} \\\\times 70 = 21! minutes. <br><br><b>Final Answer:</b> !21! minutes"
+  },
+  {
+    "section": "Mathematics",
+    "topic": "Time and Work",
+    "difficulty": "Medium",
+    "q_en": "A and B can do a piece of work in !18! days, B and C in !24! days and C and A in !54! days. In how many days will they finish the work together?",
+    "q_hi": "A और B एक काम को !18! दिनों में, B और C !24! दिनों में और C और A !54! दिनों में कर सकते हैं। वे एक साथ काम को कितने दिनों में पूरा करेंगे?",
+    "op_en": [
+      "!17 \\\\dfrac{7}{25}! days",
+      "!18 \\\\dfrac{7}{25}! days",
+      "!16 \\\\dfrac{7}{25}! days",
+      "!15 \\\\dfrac{7}{25}! days"
+    ],
+    "op_hi": [
+      "!17 \\\\dfrac{7}{25}! दिन",
+      "!18 \\\\dfrac{7}{25}! दिन",
+      "!16 \\\\dfrac{7}{25}! दिन",
+      "!15 \\\\dfrac{7}{25}! दिन"
+    ],
+    "ans": 1,
+    "solution": "<b>Solution (EN):</b> <i>Note: The original options were left blank. Correct mathematical options have been generated.</i> <br>Let total work = LCM of !18!, !24!, and !54! = !216! units. <br>Efficiency of (A + B) = !\\\\dfrac{216}{18} = 12! units/day. <br>Efficiency of (B + C) = !\\\\dfrac{216}{24} = 9! units/day. <br>Efficiency of (C + A) = !\\\\dfrac{216}{54} = 4! units/day. <br>Adding all three: !2(A + B + C) = 12 + 9 + 4 = 25!. <br>!\\\\Rightarrow! Efficiency of (A + B + C) = !\\\\dfrac{25}{2} = 12.5! units/day. <br>Total time taken by A, B, and C working together = !\\\\dfrac{216}{12.5} = \\\\dfrac{432}{25} = 17 \\\\dfrac{7}{25}! days. <br><br><b>Solution (HI):</b> <i>नोट: मूल विकल्प खाली थे। सही गणितीय विकल्प तैयार किए गए हैं।</i> <br>माना कुल कार्य = !18!, !24!, और !54! का LCM = !216! इकाई। <br>(A + B) की क्षमता = !\\\\dfrac{216}{18} = 12! इकाई/दिन। <br>(B + C) की क्षमता = !\\\\dfrac{216}{24} = 9! इकाई/दिन। <br>(C + A) की क्षमता = !\\\\dfrac{216}{54} = 4! इकाई/दिन। <br>तीनों को जोड़ने पर: !2(A + B + C) = 12 + 9 + 4 = 25!। <br>!\\\\Rightarrow! (A + B + C) की क्षमता = !\\\\dfrac{25}{2} = 12.5! इकाई/दिन। <br>A, B, और C द्वारा एक साथ काम पूरा करने में लिया गया कुल समय = !\\\\dfrac{216}{12.5} = \\\\dfrac{432}{25} = 17 \\\\dfrac{7}{25}! दिन। <br><br><b>Short Trick:</b> Time = !\\\\dfrac{2 \\\\times \\\\text{LCM}}{\\\\text{Sum of combined efficiencies}} = \\\\dfrac{2 \\\\times 216}{12 + 9 + 4} = \\\\dfrac{432}{25} = 17 \\\\dfrac{7}{25}! days. <br><br><b>Final Answer:</b> !17 \\\\dfrac{7}{25}! days"
+  },
+  {
+    "section": "Mathematics",
+    "topic": "Time and Work",
+    "difficulty": "Easy",
+    "q_en": "In a company, a woman works for !14! hours to complete !7! applications, while a man works for !10! hours to complete !5! applications. How many applications can !11! men and !14! women complete after working for !6! hours?",
+    "q_hi": "एक कंपनी में, एक महिला !7! आवेदनों को पूरा करने के लिए !14! घंटे काम करती है, जबकि एक पुरुष !5! आवेदनों को पूरा करने के लिए !10! घंटे काम करता है। !11! पुरुष और !14! महिलाएँ !6! घंटे काम करने के बाद कितने आवेदन पूरे कर सकते हैं?",
+    "op_en": [
+      "83",
+      "65",
+      "72",
+      "75"
+    ],
+    "op_hi": [
+      "83",
+      "65",
+      "72",
+      "75"
+    ],
+    "ans": 4,
+    "solution": "<b>Solution (EN):</b> Work rate of !1! woman = !\\\\dfrac{7}{14} = 0.5! applications/hour. <br>Work rate of !1! man = !\\\\dfrac{5}{10} = 0.5! applications/hour. <br>Since both have the same work rate, !11! men and !14! women equal !25! people working at !0.5! applications/hour. <br>Combined work rate = !25 \\\\times 0.5 = 12.5! applications/hour. <br>Total applications completed in !6! hours = !12.5 \\\\times 6 = 75! applications. <br><br><b>Solution (HI):</b> !1! महिला की कार्य दर = !\\\\dfrac{7}{14} = 0.5! आवेदन/घंटा। <br>!1! पुरुष की कार्य दर = !\\\\dfrac{5}{10} = 0.5! आवेदन/घंटा। <br>चूँकि दोनों की कार्य दर समान है, इसलिए !11! पुरुष और !14! महिलाएँ !0.5! आवेदन/घंटे की दर से काम करने वाले !25! लोगों के बराबर हैं। <br>संयुक्त कार्य दर = !25 \\\\times 0.5 = 12.5! आवेदन/घंटा। <br>!6! घंटे में पूरे किए गए कुल आवेदन = !12.5 \\\\times 6 = 75! आवेदन। <br><br><b>Short Trick:</b> Rate per person = !\\\\dfrac{1}{2}! app/hr. <br>Total people = !11 + 14 = 25!. <br>Total apps = !25 \\\\times \\\\dfrac{1}{2} \\\\times 6 = 25 \\\\times 3 = 75!. <br><br><b>Final Answer:</b> !75!"
+  },
+  {
+    "section": "Mathematics",
+    "topic": "Pipe and Cistern",
+    "difficulty": "Hard",
+    "q_en": "Two pipes, when each is opened alone, can fill a cistern in !7! hours and !8! hours, respectively. The pipes are opened simultaneously, and it is found that due to a leakage in the bottom of the cistern, it takes !16! minutes more than otherwise for it to be filled up. When the cistern is full, in how much time will the leak empty it, if no other inlet or outlet channel is then open?",
+    "q_hi": "दो पाइप, जब प्रत्येक को अकेले खोला जाता है, एक टंकी को क्रमशः !7! घंटे और !8! घंटे में भर सकते हैं। पाइपों को एक साथ खोला जाता है, और यह पाया जाता है कि टंकी के तल में रिसाव के कारण, इसे भरने में सामान्य से !16! मिनट अधिक लगते हैं। जब टंकी भर जाती है, तो रिसाव इसे कितने समय में खाली कर देगा, यदि तब कोई अन्य इनलेट या आउटलेट चैनल खुला न हो?",
+    "op_en": [
+      "42 hours",
+      "56 hours",
+      "58 hours",
+      "60 hours"
+    ],
+    "op_hi": [
+      "42 घंटे",
+      "56 घंटे",
+      "58 घंटे",
+      "60 घंटे"
+    ],
+    "ans": 2,
+    "solution": "<b>Solution (EN):</b> Time taken to fill the cistern without leak = !\\\\dfrac{7 \\\\times 8}{7 + 8} = \\\\dfrac{56}{15}! hours. <br>Now, extra time taken due to leak = !16! minutes = !\\\\dfrac{16}{60}! hours = !\\\\dfrac{4}{15}! hours. <br>Total time taken to fill with the leak active = !\\\\dfrac{56}{15} + \\\\dfrac{4}{15} = \\\\dfrac{60}{15} = 4! hours. <br>Let the leak empty the full cistern in !x! hours. <br>Net filling part in !1! hour = !\\\\dfrac{1}{\\\\text{filling time}}! - !\\\\dfrac{1}{\\\\text{emptying time}}!. <br>!\\\\Rightarrow \\\\dfrac{15}{56} - \\\\dfrac{1}{x} = \\\\dfrac{1}{4}! <br>!\\\\Rightarrow \\\\dfrac{1}{x} = \\\\dfrac{15}{56} - \\\\dfrac{1}{4} = \\\\dfrac{15 - 14}{56} = \\\\dfrac{1}{56}! <br>!\\\\Rightarrow x = 56! hours. <br>The leak will empty the full cistern in !56! hours. <br><br><b>Solution (HI):</b> बिना रिसाव के टंकी को भरने में लगा समय = !\\\\dfrac{7 \\\\times 8}{7 + 8} = \\\\dfrac{56}{15}! घंटे। <br>अब, रिसाव के कारण लगा अतिरिक्त समय = !16! मिनट = !\\\\dfrac{16}{60}! घंटे = !\\\\dfrac{4}{15}! घंटे। <br>सक्रिय रिसाव के साथ भरने में लगा कुल समय = !\\\\dfrac{56}{15} + \\\\dfrac{4}{15} = \\\\dfrac{60}{15} = 4! घंटे। <br>माना रिसाव पूरी टंकी को !x! घंटे में खाली कर सकता है। <br>!1! घंटे में शुद्ध भरने वाला भाग = !\\\\dfrac{1}{\\\\text{भरने का समय}}! - !\\\\dfrac{1}{\\\\text{खाली करने का समय}}!। <br>!\\\\Rightarrow \\\\dfrac{15}{56} - \\\\dfrac{1}{x} = \\\\dfrac{1}{4}! <br>!\\\\Rightarrow \\\\dfrac{1}{x} = \\\\dfrac{15}{56} - \\\\dfrac{1}{4} = \\\\dfrac{15 - 14}{56} = \\\\dfrac{1}{56}! <br>!\\\\Rightarrow x = 56! घंटे। <br>रिसाव पूरी टंकी को !56! घंटे में खाली कर देगा। <br><br><b>Short Trick:</b> Normal Time !T_1 = \\\\dfrac{56}{15}! hours. Time with leak !T_2 = 4! hours. <br>Time to empty by leak = !\\\\dfrac{T_1 \\\\times T_2}{T_2 - T_1} = \\\\dfrac{\\\\dfrac{56}{15} \\\\times 4}{4 - \\\\dfrac{56}{15}} = \\\\dfrac{\\\\dfrac{224}{15}}{\\\\dfrac{4}{15}} = 56! hours. <br><br><b>Final Answer:</b> !56! hours"
+  },
+  {
+    "section": "Mathematics",
+    "topic": "Pipe and Cistern",
+    "difficulty": "Easy",
+    "q_en": "Two pipes A and B can fill a tank in !11! hours and !17! hours, respectively. If both the pipes are opened simultaneously, in how much time will the tank be full (rounded off to two decimal places)?",
+    "q_hi": "दो पाइप A और B एक टंकी को क्रमशः !11! घंटे और !17! घंटे में भर सकते हैं। यदि दोनों पाइप एक साथ खोले जाते हैं, तो टंकी कितने समय में भर जाएगी (दो दशमलव स्थानों तक पूर्णांकित)?",
+    "op_en": [
+      "6.87 hours",
+      "6.53 hours",
+      "6.68 hours",
+      "6.78 hours"
+    ],
+    "op_hi": [
+      "6.87 घंटे",
+      "6.53 घंटे",
+      "6.68 घंटे",
+      "6.78 घंटे"
+    ],
+    "ans": 3,
+    "solution": "<b>Solution (EN):</b> Let total capacity of the tank = LCM of !11! and !17! = !187! units. <br>Efficiency of Pipe A = !\\\\dfrac{187}{11} = 17! units/hour. <br>Efficiency of Pipe B = !\\\\dfrac{187}{17} = 11! units/hour. <br>Combined efficiency of A and B = !17 + 11 = 28! units/hour. <br>Total time taken to fill the tank = !\\\\dfrac{187}{28}! hours. <br>!\\\\dfrac{187}{28} = 6.67857...! hours. <br>Rounding off to two decimal places, we get !6.68! hours. <br><br><b>Solution (HI):</b> माना टंकी की कुल क्षमता = !11! और !17! का LCM = !187! इकाई। <br>पाइप A की क्षमता = !\\\\dfrac{187}{11} = 17! इकाई/घंटा। <br>पाइप B की क्षमता = !\\\\dfrac{187}{17} = 11! इकाई/घंटा। <br>A और B की संयुक्त क्षमता = !17 + 11 = 28! इकाई/घंटा। <br>टंकी को भरने में लगा कुल समय = !\\\\dfrac{187}{28}! घंटे। <br>!\\\\dfrac{187}{28} = 6.67857...! घंटे। <br>दो दशमलव स्थानों तक पूर्णांकित करने पर, हमें !6.68! घंटे मिलते हैं। <br><br><b>Short Trick:</b> Time taken = !\\\\dfrac{x \\\\times y}{x + y} = \\\\dfrac{11 \\\\times 17}{11 + 17} = \\\\dfrac{187}{28} \\\\approx 6.68! hours. <br><br><b>Final Answer:</b> !6.68! hours"
+  },
+  {
+    "section": "Mathematics",
+    "topic": "Work and Wages",
+    "difficulty": "Medium",
+    "q_en": "A can do a piece of work alone in !63! days, while B can do it alone in !81! days. With the help of C, they completed the work in !27! days. Out of the total payment of ₹!66,150!, how much should C get?",
+    "q_hi": "A अकेले किसी काम को !63! दिनों में कर सकता है, जबकि B अकेले इसे !81! दिनों में कर सकता है। C की मदद से, उन्होंने !27! दिनों में काम पूरा कर लिया। ₹!66,150! के कुल भुगतान में से, C को कितना मिलना चाहिए?",
+    "op_en": [
+      "₹17,550",
+      "₹15,560",
+      "₹15,570",
+      "₹15,750"
+    ],
+    "op_hi": [
+      "₹17,550",
+      "₹15,560",
+      "₹15,570",
+      "₹15,750"
+    ],
+    "ans": 4,
+    "solution": "<b>Solution (EN):</b> Let total work = LCM of !63!, !81!, and !27! = !567! units. <br>Efficiency of A = !\\\\dfrac{567}{63} = 9! units/day. <br>Efficiency of B = !\\\\dfrac{567}{81} = 7! units/day. <br>Combined efficiency of (A + B + C) = !\\\\dfrac{567}{27} = 21! units/day. <br>Efficiency of C = Combined - (A + B) = !21 - (9 + 7) = 5! units/day. <br>Since they all worked for the same number of days (!27! days), their wages will be divided in the ratio of their daily efficiencies. <br>Ratio of wages = A : B : C = !9 : 7 : 5!. <br>Total parts = !9 + 7 + 5 = 21! parts. <br>Value of !21! parts = ₹!66,150!. <br>Value of !1! part = !\\\\dfrac{66150}{21} =! ₹!3,150!. <br>C's share = !5 \\\\times 3,150 =! ₹!15,750!. <br><br><b>Solution (HI):</b> माना कुल कार्य = !63!, !81!, और !27! का LCM = !567! इकाई। <br>A की क्षमता = !\\\\dfrac{567}{63} = 9! इकाई/दिन। <br>B की क्षमता = !\\\\dfrac{567}{81} = 7! इकाई/दिन। <br>(A + B + C) की संयुक्त क्षमता = !\\\\dfrac{567}{27} = 21! इकाई/दिन। <br>C की क्षमता = संयुक्त - (A + B) = !21 - (9 + 7) = 5! इकाई/दिन। <br>चूंकि उन सभी ने समान दिनों (!27! दिन) तक काम किया, इसलिए उनका वेतन उनकी दैनिक क्षमताओं के अनुपात में बांटा जाएगा। <br>मजदूरी का अनुपात = A : B : C = !9 : 7 : 5!। <br>कुल भाग = !9 + 7 + 5 = 21! भाग। <br>!21! भागों का मान = ₹!66,150!। <br>!1! भाग का मान = !\\\\dfrac{66150}{21} =! ₹!3,150!। <br>C का हिस्सा = !5 \\\\times 3,150 =! ₹!15,750!। <br><br><b>Short Trick:</b> Since all worked for !27! days, C's share in total work = !1 - \\\\left(\\\\dfrac{27}{63} + \\\\dfrac{27}{81}\\\\right) = 1 - \\\\left(\\\\dfrac{3}{7} + \\\\dfrac{1}{3}\\\\right) = 1 - \\\\dfrac{16}{21} = \\\\dfrac{5}{21}!. <br>C's payment = !\\\\dfrac{5}{21} \\\\times 66,150 = 5 \\\\times 3,150 =! ₹!15,750!. <br><br><b>Final Answer:</b> ₹!15,750!"
+  },
+  {
+    "section": "Mathematics",
+    "topic": "Time and Work",
+    "difficulty": "Medium",
+    "q_en": "Rahul can do !44\\\\%! of a work in !11! days, while Raj can do !65\\\\%! of the same work in !13! days. In how many days will !72\\\\%! of the same work be done if they work together?",
+    "q_hi": "राहुल एक काम का !44\\\\%! भाग !11! दिनों में कर सकता है, जबकि राज उसी काम का !65\\\\%! भाग !13! दिनों में कर सकता है। यदि वे एक साथ काम करते हैं तो उसी काम का !72\\\\%! भाग कितने दिनों में पूरा होगा?",
+    "op_en": [
+      "12 days",
+      "6 days",
+      "10 days",
+      "8 days"
+    ],
+    "op_hi": [
+      "12 दिन",
+      "6 दिन",
+      "10 दिन",
+      "8 दिन"
+    ],
+    "ans": 4,
+    "solution": "<b>Solution (EN):</b> Time taken by Rahul to complete !44\\\\%! work = !11! days. <br>Time taken by Rahul to complete !100\\\\%! work = !11 \\\\times \\\\dfrac{100}{44} = 25! days. <br>Time taken by Raj to complete !65\\\\%! work = !13! days. <br>Time taken by Raj to complete !100\\\\%! work = !13 \\\\times \\\\dfrac{100}{65} = 20! days. <br>Let the total work = LCM of !25! and !20! = !100! units. <br>Efficiency of Rahul = !\\\\dfrac{100}{25} = 4! units/day. <br>Efficiency of Raj = !\\\\dfrac{100}{20} = 5! units/day. <br>Combined efficiency = !4 + 5 = 9! units/day. <br>We need to find the time to complete !72\\\\%! of the work. <br>Target work = !72\\\\%! of !100 = 72! units. <br>Time taken = !\\\\dfrac{72}{9} = 8! days. <br><br><b>Solution (HI):</b> राहुल द्वारा !44\\\\%! काम पूरा करने में लगा समय = !11! दिन। <br>राहुल द्वारा !100\\\\%! काम पूरा करने में लगा समय = !11 \\\\times \\\\dfrac{100}{44} = 25! दिन। <br>राज द्वारा !65\\\\%! काम पूरा करने में लगा समय = !13! दिन। <br>राज द्वारा !100\\\\%! काम पूरा करने में लगा समय = !13 \\\\times \\\\dfrac{100}{65} = 20! दिन। <br>माना कुल कार्य = !25! और !20! का LCM = !100! इकाई। <br>राहुल की क्षमता = !\\\\dfrac{100}{25} = 4! इकाई/दिन। <br>राज की क्षमता = !\\\\dfrac{100}{20} = 5! इकाई/दिन। <br>संयुक्त क्षमता = !4 + 5 = 9! इकाई/दिन। <br>हमें काम का !72\\\\%! पूरा करने का समय ज्ञात करना है। <br>लक्ष्य कार्य = !100! का !72\\\\% = 72! इकाई। <br>लिया गया समय = !\\\\dfrac{72}{9} = 8! दिन। <br><br><b>Short Trick:</b> Rahul's total time = !25! days, Raj's total time = !20! days. <br>Time to complete full work together = !\\\\dfrac{25 \\\\times 20}{25 + 20} = \\\\dfrac{500}{45} = \\\\dfrac{100}{9}! days. <br>Time to complete !72\\\\%! work = !\\\\dfrac{72}{100} \\\\times \\\\dfrac{100}{9} = \\\\dfrac{72}{9} = 8! days. <br><br><b>Final Answer:</b> !8! days"
+  },
+  {
+    "section": "Mathematics",
+    "topic": "Pipe and Cistern",
+    "difficulty": "Easy",
+    "q_en": "Two pipes, A and B, can fill a tank in !34! hours and !18! hours, respectively. If both the pipes are opened simultaneously, then the time taken to fill the tank is:",
+    "q_hi": "दो पाइप, A और B, एक टंकी को क्रमशः !34! घंटे और !18! घंटे में भर सकते हैं। यदि दोनों पाइप एक साथ खोले जाते हैं, तो टंकी को भरने में लगने वाला समय है:",
+    "op_en": [
+      "!11 \\\\dfrac{10}{13}! hours",
+      "!12 \\\\dfrac{5}{13}! hours",
+      "!11 \\\\dfrac{8}{13}! hours",
+      "!10 \\\\dfrac{10}{13}! hours"
+    ],
+    "op_hi": [
+      "!11 \\\\dfrac{10}{13}! घंटे",
+      "!12 \\\\dfrac{5}{13}! घंटे",
+      "!11 \\\\dfrac{8}{13}! घंटे",
+      "!10 \\\\dfrac{10}{13}! घंटे"
+    ],
+    "ans": 1,
+    "solution": "<b>Solution (EN):</b> <i>Note: The original options for this question were blank. Correct mathematical options have been generated.</i> <br>Let total capacity of the tank = LCM of !34! and !18! = !306! units. <br>Efficiency of Pipe A = !\\\\dfrac{306}{34} = 9! units/hour. <br>Efficiency of Pipe B = !\\\\dfrac{306}{18} = 17! units/hour. <br>Combined efficiency of A and B = !9 + 17 = 26! units/hour. <br>Total time taken to fill the tank = !\\\\dfrac{306}{26}! hours. <br>!\\\\Rightarrow \\\\dfrac{306}{26} = \\\\dfrac{153}{13} = 11 \\\\dfrac{10}{13}! hours. <br><br><b>Solution (HI):</b> <i>नोट: इस प्रश्न के मूल विकल्प खाली थे। सही गणितीय विकल्प तैयार किए गए हैं।</i> <br>माना टंकी की कुल क्षमता = !34! और !18! का LCM = !306! इकाई। <br>पाइप A की क्षमता = !\\\\dfrac{306}{34} = 9! इकाई/घंटा। <br>पाइप B की क्षमता = !\\\\dfrac{306}{18} = 17! इकाई/घंटा। <br>A और B की संयुक्त क्षमता = !9 + 17 = 26! इकाई/घंटा। <br>टंकी को भरने में लगा कुल समय = !\\\\dfrac{306}{26}! घंटे। <br>!\\\\Rightarrow \\\\dfrac{306}{26} = \\\\dfrac{153}{13} = 11 \\\\dfrac{10}{13}! घंटे। <br><br><b>Short Trick:</b> Time = !\\\\dfrac{x \\\\times y}{x + y} = \\\\dfrac{34 \\\\times 18}{34 + 18} = \\\\dfrac{612}{52} = \\\\dfrac{153}{13} = 11 \\\\dfrac{10}{13}! hours. <br><br><b>Final Answer:</b> !11 \\\\dfrac{10}{13}! hours"
+  },
+  {
+    "section": "Mathematics",
+    "topic": "Pipe and Cistern",
+    "difficulty": "Medium",
+    "q_en": "Two pipes can fill a tank in !30! and !35! minutes, respectively. Another pipe can empty !5! litres per minute. All three pipes together can fill the tank in !30! minutes. Find the capacity of the tank.",
+    "q_hi": "दो पाइप एक टंकी को क्रमशः !30! और !35! मिनट में भर सकते हैं। एक अन्य पाइप !5! लीटर प्रति मिनट की दर से खाली कर सकता है। तीनों पाइप मिलकर टंकी को !30! मिनट में भर सकते हैं। टंकी की क्षमता ज्ञात कीजिए।",
+    "op_en": [
+      "125 litres",
+      "145 litres",
+      "175 litres",
+      "168 litres"
+    ],
+    "op_hi": [
+      "125 लीटर",
+      "145 लीटर",
+      "175 लीटर",
+      "168 लीटर"
+    ],
+    "ans": 3,
+    "solution": "<b>Solution (EN):</b> Let the two filling pipes be A and B, and the emptying pipe be C. <br>Time taken by A to fill = !30! mins. <br>Time taken by B to fill = !35! mins. <br>Time taken by (A + B + C) to fill = !30! mins. <br>Since A alone takes !30! mins and (A + B + C) also takes !30! mins, the net work of B and C combined must be zero. <br>This means the filling rate of B is exactly equal to the emptying rate of C. <br>So, time taken by C to empty the full tank alone = Time taken by B to fill = !35! minutes. <br>Rate of emptying by C = !5! litres/min. <br>Capacity of the tank = Rate !\\\\times! Time = !5 \\\\times 35 = 175! litres. <br><br><b>Solution (HI):</b> माना दो भरने वाले पाइप A और B हैं, और खाली करने वाला पाइप C है। <br>A द्वारा भरने में लिया गया समय = !30! मिनट। <br>B द्वारा भरने में लिया गया समय = !35! मिनट। <br>(A + B + C) द्वारा भरने में लिया गया समय = !30! मिनट। <br>चूंकि A अकेले !30! मिनट लेता है और (A + B + C) भी !30! मिनट लेते हैं, B और C का शुद्ध संयुक्त कार्य शून्य होना चाहिए। <br>इसका मतलब है कि B की भरने की दर C की खाली करने की दर के ठीक बराबर है। <br>अतः, C द्वारा अकेले पूरी टंकी को खाली करने में लिया गया समय = B द्वारा भरने में लिया गया समय = !35! मिनट। <br>C द्वारा खाली करने की दर = !5! लीटर/मिनट। <br>टंकी की क्षमता = दर !\\\\times! समय = !5 \\\\times 35 = 175! लीटर। <br><br><b>Short Trick:</b> !\\\\dfrac{1}{30} + \\\\dfrac{1}{35} - \\\\dfrac{1}{C} = \\\\dfrac{1}{30} \\\\Rightarrow \\\\dfrac{1}{C} = \\\\dfrac{1}{35}!. <br>So, C empties the tank in !35! minutes. <br>Capacity = !35 \\\\text{ min} \\\\times 5 \\\\text{ L/min} = 175! litres. <br><br><b>Final Answer:</b> !175! litres"
+  },
+  {
+    "section": "Mathematics",
+    "topic": "Work and Wages",
+    "difficulty": "Easy",
+    "q_en": "Two plumbers, X and Y, are paid a total of ₹!770! per day by their employer. If X is paid !120\\\\%! of the sum paid to Y, then how much is Y paid (in ₹) per day?",
+    "q_hi": "दो प्लंबर, X और Y, को उनके नियोक्ता द्वारा प्रति दिन कुल ₹!770! का भुगतान किया जाता है। यदि X को Y को दी गई राशि का !120\\\\%! भुगतान किया जाता है, तो Y को प्रति दिन कितना (₹ में) भुगतान किया जाता है?",
+    "op_en": [
+      "300",
+      "350",
+      "400",
+      "250"
+    ],
+    "op_hi": [
+      "300",
+      "350",
+      "400",
+      "250"
+    ],
+    "ans": 2,
+    "solution": "<b>Solution (EN):</b> Let the amount paid to Y be ₹!a!. <br>Then, the amount paid to X = !120\\\\%! of !a = 1.2a!. <br>Total amount paid to X and Y together = ₹!770!. <br>!\\\\Rightarrow X + Y = 770! <br>!\\\\Rightarrow 1.2a + a = 770! <br>!\\\\Rightarrow 2.2a = 770! <br>!\\\\Rightarrow a = \\\\dfrac{770}{2.2} = \\\\dfrac{7700}{22}! <br>!\\\\Rightarrow a = 350!. <br>So, Y is paid ₹!350! per day. <br><br><b>Solution (HI):</b> माना Y को दी गई राशि ₹!a! है। <br>तब, X को दी गई राशि = !a! का !120\\\\% = 1.2a!। <br>X और Y को मिलाकर दी गई कुल राशि = ₹!770!। <br>!\\\\Rightarrow X + Y = 770! <br>!\\\\Rightarrow 1.2a + a = 770! <br>!\\\\Rightarrow 2.2a = 770! <br>!\\\\Rightarrow a = \\\\dfrac{770}{2.2} = \\\\dfrac{7700}{22}! <br>!\\\\Rightarrow a = 350!। <br>अतः, Y को प्रति दिन ₹!350! का भुगतान किया जाता है। <br><br><b>Short Trick:</b> Ratio of X's pay to Y's pay = !120 : 100 = 6 : 5!. <br>Total parts = !6 + 5 = 11! parts. <br>Value of !11! parts = ₹!770 \\\\Rightarrow 1! part = ₹!70!. <br>Y's pay = !5! parts = !5 \\\\times 70 =! ₹!350!. <br><br><b>Final Answer:</b> !350!"
+  }
+]
