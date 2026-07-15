@@ -1,0 +1,695 @@
+[
+  {
+    "section": "Quantitative Aptitude",
+    "topic": "Trains",
+    "difficulty": "Medium",
+    "q_en": "Two trains of length 250 meters and 150 meters run on parallel tracks. When they run in opposite directions, they completely cross each other in 12 seconds. When they run in the same direction (the faster one overtakes the slower one), they completely cross each other in 30 seconds. What is the speed (in km/hr) of the faster train?",
+    "q_hi": "दो ट्रेनें जिनकी लंबाई 250 मीटर और 150 मीटर है, समानांतर पटरियों पर चलती हैं। जब वे विपरीत दिशाओं में चलती हैं तो वे एक-दूसरे को 12 सेकंड में पूरी तरह से पार कर जाती हैं। जब वे समान दिशा में चलती हैं (तेज़ वाली धीमी वाली को ओवरटेक करती है), तो वे एक-दूसरे को 30 सेकंड में पूरी तरह से पार कर जाती हैं। तेज़ ट्रेन की गति (किमी/घंटा में) क्या है?",
+    "op_en": [
+      "72",
+      "84",
+      "90",
+      "96"
+    ],
+    "op_hi": [
+      "72",
+      "84",
+      "90",
+      "96"
+    ],
+    "ans": 2,
+    "solution": "<b>Solution (EN):</b><br>Let the speeds of the two trains be !V_1! and !V_2! m/s.<br>Total distance to cross != 250 + 150 = 400! m.<br>When moving in opposite directions, relative speed is !V_1 + V_2!.<br>!\\\\Rightarrow V_1 + V_2 = \\\\dfrac{400}{12} = \\\\dfrac{100}{3}! m/s.<br>When moving in the same direction, relative speed is !V_1 - V_2!.<br>!\\\\Rightarrow V_1 - V_2 = \\\\dfrac{400}{30} = \\\\dfrac{40}{3}! m/s.<br>Adding both equations:<br>!2V_1 = \\\\dfrac{100}{3} + \\\\dfrac{40}{3} = \\\\dfrac{140}{3}!<br>!\\\\Rightarrow V_1 = \\\\dfrac{70}{3}! m/s.<br>To convert to km/hr, multiply by !\\\\dfrac{18}{5}!.<br>!V_1 = \\\\dfrac{70}{3} \\\\times \\\\dfrac{18}{5} = 14 \\\\times 6 = 84! km/hr.<br><br><b>Solution (HI):</b><br>माना दोनों ट्रेनों की गति !V_1! और !V_2! m/s है।<br>पार करने के लिए कुल दूरी != 250 + 150 = 400! m.<br>जब विपरीत दिशा में चलती हैं, तो सापेक्ष गति !V_1 + V_2! होती है।<br>!\\\\Rightarrow V_1 + V_2 = \\\\dfrac{400}{12} = \\\\dfrac{100}{3}! m/s.<br>जब समान दिशा में चलती हैं, तो सापेक्ष गति !V_1 - V_2! होती है।<br>!\\\\Rightarrow V_1 - V_2 = \\\\dfrac{400}{30} = \\\\dfrac{40}{3}! m/s.<br>दोनों समीकरणों को जोड़ने पर:<br>!2V_1 = \\\\dfrac{100}{3} + \\\\dfrac{40}{3} = \\\\dfrac{140}{3}!<br>!\\\\Rightarrow V_1 = \\\\dfrac{70}{3}! m/s.<br>km/hr में बदलने के लिए !\\\\dfrac{18}{5}! से गुणा करें।<br>!V_1 = \\\\dfrac{70}{3} \\\\times \\\\dfrac{18}{5} = 14 \\\\times 6 = 84! km/hr.<br><br><b>Short Trick:</b><br>तेज़ ट्रेन की गति !V_1 = \\\\dfrac{D}{2} \\\\times ( \\\\dfrac{1}{t_1} + \\\\dfrac{1}{t_2} )!<br>!V_1 = \\\\dfrac{400}{2} \\\\times ( \\\\dfrac{1}{12} + \\\\dfrac{1}{30} )!<br>!\\\\Rightarrow V_1 = 200 \\\\times ( \\\\dfrac{5 + 2}{60} ) = 200 \\\\times \\\\dfrac{7}{60} = \\\\dfrac{70}{3}! m/s.<br>किमी/घंटा में बदलने पर: !\\\\dfrac{70}{3} \\\\times \\\\dfrac{18}{5} = 84! km/hr.<br><br><b>Final Answer:</b> !84! km/hr"
+  },
+  {
+    "section": "Quantitative Aptitude",
+    "topic": "Time, Speed and Distance",
+    "difficulty": "Easy",
+    "q_en": "The distance between two trains coming towards each other at speeds of 60 km/hr and 40 km/hr is 200 km. After how much time will they meet?",
+    "q_hi": "60 किमी/घंटा और 40 किमी/घंटा की गति से एक-दूसरे की ओर आ रही दो ट्रेनों के बीच की दूरी 200 किमी है। कितने समय बाद वे मिलेंगी?",
+    "op_en": [
+      "1 hour",
+      "1.5 hours",
+      "2 hours",
+      "2.5 hours"
+    ],
+    "op_hi": [
+      "1 घंटा",
+      "1.5 घंटे",
+      "2 घंटे",
+      "2.5 घंटे"
+    ],
+    "ans": 3,
+    "solution": "<b>Solution (EN):</b><br>Speed of the first train != 60! km/hr.<br>Speed of the second train != 40! km/hr.<br>Since they are moving towards each other (opposite directions), their relative speed will be added.<br>Relative Speed != 60 + 40 = 100! km/hr.<br>Distance between them != 200! km.<br>Time taken to meet != \\\\dfrac{\\\\text{Distance}}{\\\\text{Relative Speed}}!<br>!\\\\Rightarrow \\\\text{Time} = \\\\dfrac{200}{100} = 2! hours.<br><br><b>Solution (HI):</b><br>पहली ट्रेन की गति != 60! km/hr.<br>दूसरी ट्रेन की गति != 40! km/hr.<br>चूंकि वे एक-दूसरे की ओर (विपरीत दिशाओं में) आ रही हैं, इसलिए उनकी सापेक्ष गति जुड़ जाएगी।<br>सापेक्ष गति != 60 + 40 = 100! km/hr.<br>उनके बीच की कुल दूरी != 200! km.<br>मिलने में लगा समय != \\\\dfrac{\\\\text{कुल दूरी}}{\\\\text{सापेक्ष गति}}!<br>!\\\\Rightarrow \\\\text{समय} = \\\\dfrac{200}{100} = 2! घंटे।<br><br><b>Short Trick:</b><br>!\\\\text{Time} = \\\\dfrac{D}{S_1 + S_2}!<br>!\\\\Rightarrow \\\\text{Time} = \\\\dfrac{200}{60 + 40} = \\\\dfrac{200}{100} = 2! hours.<br><br><b>Final Answer:</b> !2! hours"
+  },
+  {
+    "section": "Quantitative Aptitude",
+    "topic": "Trains",
+    "difficulty": "Easy",
+    "q_en": "A 120 meters long train running at a speed of 60 km/hr crosses a 180 meters long platform. How much time does it take to cross the platform?",
+    "q_hi": "60 किमी/घंटा की गति से चलने वाली 120 मीटर लंबी एक ट्रेन 180 मीटर लंबे प्लेटफॉर्म को पार करती है। प्लेटफॉर्म को पार करने में इसे कितना समय लगता है?",
+    "op_en": [
+      "12 seconds",
+      "15 seconds",
+      "18 seconds",
+      "20 seconds"
+    ],
+    "op_hi": [
+      "12 सेकंड",
+      "15 सेकंड",
+      "18 सेकंड",
+      "20 सेकंड"
+    ],
+    "ans": 3,
+    "solution": "<b>Solution (EN):</b><br>Length of the train != 120! m.<br>Length of the platform != 180! m.<br>Total distance to be covered by the train != 120 + 180 = 300! m.<br>Speed of the train != 60! km/hr.<br>Convert speed into m/s:<br>Speed != 60 \\\\times \\\\dfrac{5}{18} = \\\\dfrac{50}{3}! m/s.<br>Time taken to cross != \\\\dfrac{\\\\text{Total Distance}}{\\\\text{Speed}}!<br>!\\\\Rightarrow \\\\text{Time} = \\\\dfrac{300}{\\\\dfrac{50}{3}}!<br>!\\\\Rightarrow \\\\text{Time} = 300 \\\\times \\\\dfrac{3}{50} = 18! seconds.<br><br><b>Solution (HI):</b><br>ट्रेन की लंबाई != 120! m.<br>प्लेटफॉर्म की लंबाई != 180! m.<br>ट्रेन द्वारा तय की जाने वाली कुल दूरी != 120 + 180 = 300! m.<br>ट्रेन की गति != 60! km/hr.<br>गति को m/s में बदलें:<br>गति != 60 \\\\times \\\\dfrac{5}{18} = \\\\dfrac{50}{3}! m/s.<br>पार करने में लगा समय != \\\\dfrac{\\\\text{कुल दूरी}}{\\\\text{गति}}!<br>!\\\\Rightarrow \\\\text{समय} = \\\\dfrac{300}{\\\\dfrac{50}{3}}!<br>!\\\\Rightarrow \\\\text{समय} = 300 \\\\times \\\\dfrac{3}{50} = 18! सेकंड।<br><br><b>Short Trick:</b><br>!\\\\text{Time} = \\\\dfrac{L_T + L_P}{\\\\text{Speed}}!<br>!\\\\Rightarrow \\\\text{Time} = \\\\dfrac{120 + 180}{60 \\\\times \\\\dfrac{5}{18}}!<br>!\\\\Rightarrow \\\\text{Time} = \\\\dfrac{300}{\\\\dfrac{50}{3}} = 18! seconds.<br><br><b>Final Answer:</b> !18! seconds"
+  },
+  {
+    "section": "Quantitative Aptitude",
+    "topic": "Trains",
+    "difficulty": "Medium",
+    "q_en": "Two trains, 215 meters and 190 meters long, are running in opposite directions at speeds of 72 km/hr and 90 km/hr respectively. How much time will they take to cross each other?",
+    "q_hi": "215 मीटर और 190 मीटर लंबी दो ट्रेनें विपरीत दिशाओं में क्रमशः 72 किमी/घंटा और 90 किमी/घंटा की गति से चल रही हैं। उन्हें एक-दूसरे को पार करने में कितना समय लगेगा?",
+    "op_en": [
+      "8 seconds",
+      "9 seconds",
+      "10 seconds",
+      "12 seconds"
+    ],
+    "op_hi": [
+      "8 सेकंड",
+      "9 सेकंड",
+      "10 सेकंड",
+      "12 सेकंड"
+    ],
+    "ans": 2,
+    "solution": "<b>Solution (EN):</b><br>Length of first train != 215! m.<br>Length of second train != 190! m.<br>Total distance to cover != 215 + 190 = 405! m.<br>Speeds of the trains are !72! km/hr and !90! km/hr.<br>Since they are moving in opposite directions, relative speed is the sum of their speeds.<br>Relative speed != 72 + 90 = 162! km/hr.<br>Convert relative speed to m/s:<br>Relative speed != 162 \\\\times \\\\dfrac{5}{18} = 9 \\\\times 5 = 45! m/s.<br>Time taken to cross each other != \\\\dfrac{\\\\text{Total Distance}}{\\\\text{Relative Speed}}!<br>!\\\\Rightarrow \\\\text{Time} = \\\\dfrac{405}{45} = 9! seconds.<br><br><b>Solution (HI):</b><br>पहली ट्रेन की लंबाई != 215! m.<br>दूसरी ट्रेन की लंबाई != 190! m.<br>तय की जाने वाली कुल दूरी != 215 + 190 = 405! m.<br>ट्रेनों की गति !72! km/hr और !90! km/hr है।<br>चूंकि वे विपरीत दिशाओं में चल रही हैं, सापेक्ष गति उनकी गति का योग होगी।<br>सापेक्ष गति != 72 + 90 = 162! km/hr.<br>सापेक्ष गति को m/s में बदलें:<br>सापेक्ष गति != 162 \\\\times \\\\dfrac{5}{18} = 9 \\\\times 5 = 45! m/s.<br>एक-दूसरे को पार करने में लगा समय != \\\\dfrac{\\\\text{कुल दूरी}}{\\\\text{सापेक्ष गति}}!<br>!\\\\Rightarrow \\\\text{समय} = \\\\dfrac{405}{45} = 9! सेकंड।<br><br><b>Short Trick:</b><br>!\\\\text{Time} = \\\\dfrac{D_1 + D_2}{S_1 + S_2}!<br>!\\\\Rightarrow \\\\text{Time} = \\\\dfrac{215 + 190}{(72 + 90) \\\\times \\\\dfrac{5}{18}}!<br>!\\\\Rightarrow \\\\text{Time} = \\\\dfrac{405}{162 \\\\times \\\\dfrac{5}{18}} = \\\\dfrac{405}{45} = 9! seconds.<br><br><b>Final Answer:</b> !9! seconds"
+  },
+  {
+    "section": "Quantitative Aptitude",
+    "topic": "Average Speed",
+    "difficulty": "Medium",
+    "q_en": "A train travels from station P to station Q at a speed of 98 km/hr and then returns to station P at a speed of 70 km/hr. What is the average speed (rounded to two decimal places) of the train during the whole journey?",
+    "q_hi": "एक ट्रेन स्टेशन P से स्टेशन Q तक 98 किमी/घंटा की गति से जाती है और फिर 70 किमी/घंटा की गति से स्टेशन P पर वापस आती है। पूरी यात्रा के दौरान ट्रेन की औसत गति (दो दशमलव स्थानों तक पूर्णांकित) क्या है?",
+    "op_en": [
+      "80.50",
+      "81.67",
+      "82.33",
+      "84.00"
+    ],
+    "op_hi": [
+      "80.50",
+      "81.67",
+      "82.33",
+      "84.00"
+    ],
+    "ans": 2,
+    "solution": "<b>Solution (EN):</b><br>Speed from station P to Q (!x!) != 98! km/hr.<br>Speed from station Q to P (!y!) != 70! km/hr.<br>Since the distance is constant for both trips, the average speed is given by the formula:<br>!\\\\text{Average Speed} = \\\\dfrac{2xy}{x + y}!<br>Substituting the values:<br>!\\\\text{Average Speed} = \\\\dfrac{2 \\\\times 98 \\\\times 70}{98 + 70}!<br>!\\\\Rightarrow \\\\text{Average Speed} = \\\\dfrac{13,720}{168}!<br>!\\\\Rightarrow \\\\text{Average Speed} = \\\\dfrac{245}{3} \\\\approx 81.666...!<br>Rounding to two decimal places, we get !81.67! km/hr.<br><br><b>Solution (HI):</b><br>स्टेशन P से Q तक की गति (!x!) != 98! km/hr.<br>स्टेशन Q से P तक की गति (!y!) != 70! km/hr.<br>चूंकि दोनों यात्राओं के लिए दूरी समान है, औसत गति का सूत्र होगा:<br>!\\\\text{औसत गति} = \\\\dfrac{2xy}{x + y}!<br>मानों को रखने पर:<br>!\\\\text{औसत गति} = \\\\dfrac{2 \\\\times 98 \\\\times 70}{98 + 70}!<br>!\\\\Rightarrow \\\\text{औसत गति} = \\\\dfrac{13,720}{168}!<br>!\\\\Rightarrow \\\\text{औसत गति} = \\\\dfrac{245}{3} \\\\approx 81.666...!<br>दो दशमलव स्थानों तक पूर्णांकित करने पर, हमें !81.67! km/hr प्राप्त होता है।<br><br><b>Short Trick:</b><br>!\\\\text{Avg Speed} = \\\\dfrac{2 \\\\times 98 \\\\times 70}{168} = \\\\dfrac{98 \\\\times 70}{84} = \\\\dfrac{7 \\\\times 70}{6} = \\\\dfrac{490}{6} = 81.66...!<br>!\\\\Rightarrow 81.67! km/hr.<br><br><b>Final Answer:</b> !81.67! km/hr"
+  },
+  {
+    "section": "Quantitative Aptitude",
+    "topic": "Average Speed",
+    "difficulty": "Easy",
+    "q_en": "A train travels from A to B at a speed of 72 km/hr and returns from B to A along the same route at a speed of 24 km/hr. What is the average speed (in km/hr) of the train during the two-way journey?",
+    "q_hi": "एक ट्रेन 72 किमी/घंटा की गति से A से B तक जाती है और उसी रास्ते से 24 किमी/घंटा की गति से B से A तक वापस आती है। दोतरफा यात्रा के दौरान ट्रेन की औसत गति (किमी/घंटा में) क्या है?",
+    "op_en": [
+      "32",
+      "36",
+      "40",
+      "48"
+    ],
+    "op_hi": [
+      "32",
+      "36",
+      "40",
+      "48"
+    ],
+    "ans": 2,
+    "solution": "<b>Solution (EN):</b><br>Speed from A to B (!x!) != 72! km/hr.<br>Speed from B to A (!y!) != 24! km/hr.<br>When the distance is the same for both parts of the journey, the formula for average speed is:<br>!\\\\text{Average Speed} = \\\\dfrac{2xy}{x + y}!<br>!\\\\Rightarrow \\\\text{Average Speed} = \\\\dfrac{2 \\\\times 72 \\\\times 24}{72 + 24}!<br>!\\\\Rightarrow \\\\text{Average Speed} = \\\\dfrac{3456}{96} = 36! km/hr.<br><br><b>Solution (HI):</b><br>A से B तक की गति (!x!) != 72! km/hr.<br>B से A तक की गति (!y!) != 24! km/hr.<br>जब यात्रा के दोनों भागों के लिए दूरी समान हो, तो औसत गति का सूत्र होता है:<br>!\\\\text{औसत गति} = \\\\dfrac{2xy}{x + y}!<br>!\\\\Rightarrow \\\\text{औसत गति} = \\\\dfrac{2 \\\\times 72 \\\\times 24}{72 + 24}!<br>!\\\\Rightarrow \\\\text{औसत गति} = \\\\dfrac{3456}{96} = 36! km/hr.<br><br><b>Short Trick:</b><br>!\\\\text{Avg Speed} = \\\\dfrac{2 \\\\times 72 \\\\times 24}{96} = \\\\dfrac{2 \\\\times 72}{4} = 36! km/hr.<br><br><b>Final Answer:</b> !36! km/hr"
+  },
+  {
+    "section": "Quantitative Aptitude",
+    "topic": "Time, Speed and Distance",
+    "difficulty": "Easy",
+    "q_en": "A train travels at a speed of 82.6 km/hr. How many meters of distance will it cover in 15 minutes?",
+    "q_hi": "एक ट्रेन 82.6 किमी/घंटा की गति से यात्रा करती है। यह 15 मिनट में कितने मीटर की दूरी तय करेगी?",
+    "op_en": [
+      "20,500",
+      "20,650",
+      "20,750",
+      "20,800"
+    ],
+    "op_hi": [
+      "20,500",
+      "20,650",
+      "20,750",
+      "20,800"
+    ],
+    "ans": 2,
+    "solution": "<b>Solution (EN):</b><br>Speed of the train != 82.6! km/hr.<br>Time != 15! minutes.<br>Convert time into hours: !\\\\dfrac{15}{60} = \\\\dfrac{1}{4}! hours.<br>Distance != \\\\text{Speed} \\\\times \\\\text{Time}!<br>!\\\\Rightarrow \\\\text{Distance} = 82.6 \\\\times \\\\dfrac{1}{4} = 20.65! km.<br>Since !1! km != 1000! meters,<br>Distance in meters != 20.65 \\\\times 1000 = 20,650! meters.<br><br><b>Solution (HI):</b><br>ट्रेन की गति != 82.6! km/hr.<br>समय != 15! मिनट।<br>समय को घंटों में बदलें: !\\\\dfrac{15}{60} = \\\\dfrac{1}{4}! घंटे।<br>दूरी != \\\\text{गति} \\\\times \\\\text{समय}!<br>!\\\\Rightarrow \\\\text{दूरी} = 82.6 \\\\times \\\\dfrac{1}{4} = 20.65! km.<br>चूंकि !1! km != 1000! मीटर,<br>मीटर में दूरी != 20.65 \\\\times 1000 = 20,650! मीटर।<br><br><b>Short Trick:</b><br>Distance in meters != \\\\text{Speed in m/s} \\\\times \\\\text{Time in seconds}!<br>!\\\\Rightarrow \\\\text{Distance} = \\\\left( 82.6 \\\\times \\\\dfrac{5}{18} \\\\right) \\\\times (15 \\\\times 60) = 82.6 \\\\times 250 = 20,650! meters.<br><br><b>Final Answer:</b> !20,650! meters"
+  },
+  {
+    "section": "Quantitative Aptitude",
+    "topic": "Trains",
+    "difficulty": "Medium",
+    "q_en": "A 100 meters long train overtakes another 140 meters long train moving in the same direction in 0.5 minutes. If the second train is moving at a speed of 50 km/hr, at what speed is the first train moving?",
+    "q_hi": "100 मीटर लंबी एक ट्रेन उसी दिशा में जा रही 140 मीटर लंबी दूसरी ट्रेन को 0.5 मिनट में ओवरटेक करती है। यदि दूसरी ट्रेन 50 किमी/घंटा की गति से चल रही है, तो पहली ट्रेन किस गति से चल रही है?",
+    "op_en": [
+      "70.2 km/hr",
+      "75.6 km/hr",
+      "78.8 km/hr",
+      "82.4 km/hr"
+    ],
+    "op_hi": [
+      "70.2 किमी/घंटा",
+      "75.6 किमी/घंटा",
+      "78.8 किमी/घंटा",
+      "82.4 किमी/घंटा"
+    ],
+    "ans": 3,
+    "solution": "<b>Solution (EN):</b><br>Length of the first train != 100! m.<br>Length of the second train != 140! m.<br>Total distance to cover to overtake != 100 + 140 = 240! m.<br>Time taken != 0.5! minutes != 0.5 \\\\times 60 = 30! seconds.<br>Let the speed of the first train be !V_1! km/hr and the second train be !V_2 = 50! km/hr.<br>Since they are moving in the same direction, relative speed != (V_1 - 50)! km/hr.<br>Convert relative speed to m/s: !(V_1 - 50) \\\\times \\\\dfrac{5}{18}! m/s.<br>!\\\\text{Relative Speed} = \\\\dfrac{\\\\text{Total Distance}}{\\\\text{Time}}!<br>!\\\\Rightarrow (V_1 - 50) \\\\times \\\\dfrac{5}{18} = \\\\dfrac{240}{30}!<br>!\\\\Rightarrow (V_1 - 50) \\\\times \\\\dfrac{5}{18} = 8!<br>!\\\\Rightarrow V_1 - 50 = 8 \\\\times \\\\dfrac{18}{5} = \\\\dfrac{144}{5} = 28.8!<br>!\\\\Rightarrow V_1 = 50 + 28.8 = 78.8! km/hr.<br><br><b>Solution (HI):</b><br>पहली ट्रेन की लंबाई != 100! m.<br>दूसरी ट्रेन की लंबाई != 140! m.<br>ओवरटेक करने के लिए तय की जाने वाली कुल दूरी != 100 + 140 = 240! m.<br>लगा समय != 0.5! मिनट != 0.5 \\\\times 60 = 30! सेकंड।<br>माना पहली ट्रेन की गति !V_1! km/hr और दूसरी ट्रेन की गति !V_2 = 50! km/hr है।<br>चूंकि वे एक ही दिशा में चल रही हैं, सापेक्ष गति != (V_1 - 50)! km/hr.<br>सापेक्ष गति को m/s में बदलें: !(V_1 - 50) \\\\times \\\\dfrac{5}{18}! m/s.<br>!\\\\text{सापेक्ष गति} = \\\\dfrac{\\\\text{कुल दूरी}}{\\\\text{समय}}!<br>!\\\\Rightarrow (V_1 - 50) \\\\times \\\\dfrac{5}{18} = \\\\dfrac{240}{30}!<br>!\\\\Rightarrow (V_1 - 50) \\\\times \\\\dfrac{5}{18} = 8!<br>!\\\\Rightarrow V_1 - 50 = 8 \\\\times \\\\dfrac{18}{5} = \\\\dfrac{144}{5} = 28.8!<br>!\\\\Rightarrow V_1 = 50 + 28.8 = 78.8! km/hr.<br><br><b>Short Trick:</b><br>Relative Speed != \\\\dfrac{240}{30} \\\\times \\\\dfrac{18}{5} = 28.8! km/hr.<br>!V_1 - 50 = 28.8 \\\\Rightarrow V_1 = 78.8! km/hr.<br><br><b>Final Answer:</b> !78.8! km/hr"
+  },
+  {
+    "section": "Quantitative Aptitude",
+    "topic": "Trains",
+    "difficulty": "Easy",
+    "q_en": "A 220 meters long train is moving at a speed of 72 km/hr. How much time will it take to cross a person standing near the tracks?",
+    "q_hi": "220 मीटर लंबी एक ट्रेन 72 किमी/घंटा की गति से चल रही है। पटरियों के पास खड़े एक व्यक्ति को पार करने में इसे कितना समय लगेगा?",
+    "op_en": [
+      "10 seconds",
+      "11 seconds",
+      "12 seconds",
+      "14 seconds"
+    ],
+    "op_hi": [
+      "10 सेकंड",
+      "11 सेकंड",
+      "12 सेकंड",
+      "14 सेकंड"
+    ],
+    "ans": 2,
+    "solution": "<b>Solution (EN):</b><br>Length of the train != 220! m.<br>Speed of the train != 72! km/hr.<br>Convert speed into m/s:<br>Speed != 72 \\\\times \\\\dfrac{5}{18} = 20! m/s.<br>Time taken to cross a stationary person != \\\\dfrac{\\\\text{Length of the train}}{\\\\text{Speed}}!<br>!\\\\Rightarrow \\\\text{Time} = \\\\dfrac{220}{20} = 11! seconds.<br><br><b>Solution (HI):</b><br>ट्रेन की लंबाई != 220! m.<br>ट्रेन की गति != 72! km/hr.<br>गति को m/s में बदलें:<br>गति != 72 \\\\times \\\\dfrac{5}{18} = 20! m/s.<br>खड़े व्यक्ति को पार करने में लगा समय != \\\\dfrac{\\\\text{ट्रेन की लंबाई}}{\\\\text{गति}}!<br>!\\\\Rightarrow \\\\text{समय} = \\\\dfrac{220}{20} = 11! सेकंड।<br><br><b>Short Trick:</b><br>!\\\\text{Time} = \\\\dfrac{220}{72 \\\\times \\\\dfrac{5}{18}} = \\\\dfrac{220}{20} = 11! seconds.<br><br><b>Final Answer:</b> !11! seconds"
+  },
+  {
+    "section": "Quantitative Aptitude",
+    "topic": "Time, Speed and Distance",
+    "difficulty": "Easy",
+    "q_en": "A train travels 180 km in 3 hours. How far (in km) will it go in 4.5 hours at the same speed?",
+    "q_hi": "एक ट्रेन 3 घंटे में 180 किमी की यात्रा करती है। समान गति से वह 4.5 घंटे में कितनी दूर (किमी में) जाएगी?",
+    "op_en": [
+      "240",
+      "250",
+      "270",
+      "300"
+    ],
+    "op_hi": [
+      "240",
+      "250",
+      "270",
+      "300"
+    ],
+    "ans": 3,
+    "solution": "<b>Solution (EN):</b><br>Distance covered != 180! km.<br>Time taken != 3! hours.<br>Speed != \\\\dfrac{\\\\text{Distance}}{\\\\text{Time}} = \\\\dfrac{180}{3} = 60! km/hr.<br>Now, we need to find the distance covered in !4.5! hours at the same speed.<br>Distance != \\\\text{Speed} \\\\times \\\\text{Time}!<br>!\\\\Rightarrow \\\\text{Distance} = 60 \\\\times 4.5 = 270! km.<br><br><b>Solution (HI):</b><br>तय की गई दूरी != 180! km.<br>लगा समय != 3! घंटे।<br>गति != \\\\dfrac{\\\\text{दूरी}}{\\\\text{समय}} = \\\\dfrac{180}{3} = 60! km/hr.<br>अब, हमें समान गति से !4.5! घंटे में तय की गई दूरी ज्ञात करनी है।<br>दूरी != \\\\text{गति} \\\\times \\\\text{समय}!<br>!\\\\Rightarrow \\\\text{दूरी} = 60 \\\\times 4.5 = 270! km.<br><br><b>Short Trick:</b><br>!\\\\dfrac{D_1}{T_1} = \\\\dfrac{D_2}{T_2}!<br>!\\\\Rightarrow \\\\dfrac{180}{3} = \\\\dfrac{D_2}{4.5}!<br>!\\\\Rightarrow D_2 = 60 \\\\times 4.5 = 270! km.<br><br><b>Final Answer:</b> !270! km"
+  },
+  {
+    "section": "Quantitative Aptitude",
+    "topic": "Trains",
+    "difficulty": "Easy",
+    "q_en": "A 150 meters long train is running at a speed of 54 km/hr. How much time will it take to cross a person standing near the tracks?",
+    "q_hi": "150 मीटर लंबी एक ट्रेन 54 किमी/घंटा की गति से चल रही है। पटरियों के पास खड़े एक व्यक्ति को पार करने में इसे कितना समय लगेगा?",
+    "op_en": [
+      "8 seconds",
+      "10 seconds",
+      "12 seconds",
+      "15 seconds"
+    ],
+    "op_hi": [
+      "8 सेकंड",
+      "10 सेकंड",
+      "12 सेकंड",
+      "15 सेकंड"
+    ],
+    "ans": 2,
+    "solution": "<b>Solution (EN):</b><br>Length of the train != 150! m.<br>Speed of the train != 54! km/hr.<br>Convert speed into m/s:<br>Speed != 54 \\\\times \\\\dfrac{5}{18} = 15! m/s.<br>Time taken to cross a stationary person != \\\\dfrac{\\\\text{Length of the train}}{\\\\text{Speed}}!<br>!\\\\Rightarrow \\\\text{Time} = \\\\dfrac{150}{15} = 10! seconds.<br><br><b>Solution (HI):</b><br>ट्रेन की लंबाई != 150! m.<br>ट्रेन की गति != 54! km/hr.<br>गति को m/s में बदलें:<br>गति != 54 \\\\times \\\\dfrac{5}{18} = 15! m/s.<br>खड़े व्यक्ति को पार करने में लगा समय != \\\\dfrac{\\\\text{ट्रेन की लंबाई}}{\\\\text{गति}}!<br>!\\\\Rightarrow \\\\text{समय} = \\\\dfrac{150}{15} = 10! सेकंड।<br><br><b>Short Trick:</b><br>!\\\\text{Time} = \\\\dfrac{150}{54 \\\\times \\\\dfrac{5}{18}} = \\\\dfrac{150}{15} = 10! seconds.<br><br><b>Final Answer:</b> !10! seconds"
+  },
+  {
+    "section": "Quantitative Aptitude",
+    "topic": "Trains",
+    "difficulty": "Medium",
+    "q_en": "A 180 meters long train crosses a person standing on a platform in 9 seconds. What is the speed (in km/hr) of the train and how much time will it take to cross a 270 meters long platform?",
+    "q_hi": "180 मीटर लंबी एक ट्रेन प्लेटफॉर्म पर खड़े एक व्यक्ति को 9 सेकंड में पार करती है। ट्रेन की गति (किमी/घंटा में) क्या है और 270 मीटर लंबे प्लेटफॉर्म को पार करने में इसे कितना समय लगेगा?",
+    "op_en": [
+      "72 km/hr, 20.5 seconds",
+      "64 km/hr, 22.5 seconds",
+      "72 km/hr, 22.5 seconds",
+      "80 km/hr, 25 seconds"
+    ],
+    "op_hi": [
+      "72 किमी/घंटा, 20.5 सेकंड",
+      "64 किमी/घंटा, 22.5 सेकंड",
+      "72 किमी/घंटा, 22.5 सेकंड",
+      "80 किमी/घंटा, 25 सेकंड"
+    ],
+    "ans": 3,
+    "solution": "<b>Solution (EN):</b><br>Length of the train != 180! m.<br>Time taken to cross a person != 9! seconds.<br>Speed of the train != \\\\dfrac{\\\\text{Length of the train}}{\\\\text{Time}} = \\\\dfrac{180}{9} = 20! m/s.<br>Convert speed to km/hr:<br>Speed != 20 \\\\times \\\\dfrac{18}{5} = 72! km/hr.<br>Now, to cross a !270! m long platform, the total distance to be covered != \\\\text{Length of train} + \\\\text{Length of platform}!<br>!\\\\Rightarrow \\\\text{Total Distance} = 180 + 270 = 450! m.<br>Time taken to cross the platform != \\\\dfrac{\\\\text{Total Distance}}{\\\\text{Speed in m/s}}!<br>!\\\\Rightarrow \\\\text{Time} = \\\\dfrac{450}{20} = 22.5! seconds.<br><br><b>Solution (HI):</b><br>ट्रेन की लंबाई != 180! m.<br>व्यक्ति को पार करने में लगा समय != 9! सेकंड।<br>ट्रेन की गति != \\\\dfrac{\\\\text{ट्रेन की लंबाई}}{\\\\text{समय}} = \\\\dfrac{180}{9} = 20! m/s.<br>गति को km/hr में बदलें:<br>गति != 20 \\\\times \\\\dfrac{18}{5} = 72! km/hr.<br>अब, !270! m लंबे प्लेटफॉर्म को पार करने के लिए, तय की जाने वाली कुल दूरी != \\\\text{ट्रेन की लंबाई} + \\\\text{प्लेटफॉर्म की लंबाई}!<br>!\\\\Rightarrow \\\\text{कुल दूरी} = 180 + 270 = 450! m.<br>प्लेटफॉर्म को पार करने में लगा समय != \\\\dfrac{\\\\text{कुल दूरी}}{\\\\text{m/s में गति}}!<br>!\\\\Rightarrow \\\\text{समय} = \\\\dfrac{450}{20} = 22.5! सेकंड।<br><br><b>Short Trick:</b><br>Speed != \\\\dfrac{180}{9} \\\\times \\\\dfrac{18}{5} = 72! km/hr.<br>Time for platform != \\\\dfrac{180 + 270}{20} = \\\\dfrac{450}{20} = 22.5! seconds.<br><br><b>Final Answer:</b> !72! km/hr, !22.5! seconds"
+  },
+  {
+    "section": "Quantitative Aptitude",
+    "topic": "Trains",
+    "difficulty": "Medium",
+    "q_en": "A train, whose length is !(x+40)! meters, crosses a pole in 10 seconds and crosses a bridge, whose length is !(x-10)! meters, in 15 seconds. Find the value of !x!.",
+    "q_hi": "एक ट्रेन, जिसकी लंबाई !(x+40)! मीटर है, एक खंभे को 10 सेकंड में पार करती है और एक पुल, जिसकी लंबाई !(x-10)! मीटर है, को 15 सेकंड में पार करती है। !x! का मान ज्ञात कीजिए।",
+    "op_en": [
+      "50",
+      "60",
+      "70",
+      "80"
+    ],
+    "op_hi": [
+      "50",
+      "60",
+      "70",
+      "80"
+    ],
+    "ans": 2,
+    "solution": "<b>Solution (EN):</b><br>Length of the train = !(x + 40)! m.<br>Time taken to cross a pole = !10! seconds.<br>Speed of the train = !\\\\dfrac{\\\\text{Length of train}}{\\\\text{Time}}! = !\\\\dfrac{x + 40}{10}! m/s.<br><br>Length of the bridge = !(x - 10)! m.<br>Total distance covered when crossing the bridge = !(x + 40) + (x - 10) = (2x + 30)! m.<br>Time taken to cross the bridge = !15! seconds.<br>Speed of the train = !\\\\dfrac{2x + 30}{15}! m/s.<br><br>Since the speed is constant, we can equate the two speeds:<br>!\\\\dfrac{x + 40}{10} = \\\\dfrac{2x + 30}{15}!<br>!\\\\Rightarrow 15(x + 40) = 10(2x + 30)!<br>!\\\\Rightarrow 3(x + 40) = 2(2x + 30)!<br>!\\\\Rightarrow 3x + 120 = 4x + 60!<br>!\\\\Rightarrow 4x - 3x = 120 - 60!<br>!\\\\Rightarrow x = 60!<br><br><b>Solution (HI):</b><br>ट्रेन की लंबाई = !(x + 40)! m.<br>खंभे को पार करने में लगा समय = !10! सेकंड।<br>ट्रेन की गति = !\\\\dfrac{\\\\text{ट्रेन की लंबाई}}{\\\\text{समय}}! = !\\\\dfrac{x + 40}{10}! m/s.<br><br>पुल की लंबाई = !(x - 10)! m.<br>पुल को पार करते समय तय की गई कुल दूरी = !(x + 40) + (x - 10) = (2x + 30)! m.<br>पुल को पार करने में लगा समय = !15! सेकंड।<br>ट्रेन की गति = !\\\\dfrac{2x + 30}{15}! m/s.<br><br>चूंकि गति समान है, हम दोनों गतियों को बराबर कर सकते हैं:<br>!\\\\dfrac{x + 40}{10} = \\\\dfrac{2x + 30}{15}!<br>!\\\\Rightarrow 15(x + 40) = 10(2x + 30)!<br>!\\\\Rightarrow 3(x + 40) = 2(2x + 30)!<br>!\\\\Rightarrow 3x + 120 = 4x + 60!<br>!\\\\Rightarrow 4x - 3x = 120 - 60!<br>!\\\\Rightarrow x = 60!<br><br><b>Short Trick:</b><br>पुल को पार करने में ट्रेन को !5! सेकंड का अतिरिक्त समय !(15 - 10)! केवल पुल की लंबाई को पार करने में लगता है।<br>गति = !\\\\dfrac{x - 10}{5}! m/s.<br>!\\\\dfrac{x + 40}{10} = \\\\dfrac{x - 10}{5}!<br>!\\\\Rightarrow x + 40 = 2x - 20!<br>!\\\\Rightarrow x = 60!.<br><br><b>Final Answer:</b> !60!"
+  },
+  {
+    "section": "Quantitative Aptitude",
+    "topic": "Trains",
+    "difficulty": "Medium",
+    "q_en": "Two trains are running in the same direction at speeds of 15 km/hr and 100 km/hr. Their lengths are 400 meters and 300 meters respectively. How much time does the faster train coming from behind take to completely cross the slower train? (Give your answer correct to two decimal places in seconds.)",
+    "q_hi": "दो ट्रेनें समान दिशा में 15 किमी/घंटा और 100 किमी/घंटा की गति से चल रही हैं। उनकी लंबाई क्रमशः 400 मीटर और 300 मीटर है। पीछे से आ रही तेज़ ट्रेन धीमी ट्रेन को पूरी तरह से पार करने में कितना समय लेती है? (अपना उत्तर दशमलव के बाद दो स्थानों तक सही सेकंड में दें।)",
+    "op_en": [
+      "28.45",
+      "29.65",
+      "30.15",
+      "31.25"
+    ],
+    "op_hi": [
+      "28.45",
+      "29.65",
+      "30.15",
+      "31.25"
+    ],
+    "ans": 2,
+    "solution": "<b>Solution (EN):</b><br>Speed of the faster train = !100! km/hr.<br>Speed of the slower train = !15! km/hr.<br>Since both are running in the same direction, relative speed = !100 - 15 = 85! km/hr.<br>Convert relative speed into m/s = !85 \\\\times \\\\dfrac{5}{18} = \\\\dfrac{425}{18}! m/s.<br><br>Length of faster train = !300! m (as per data). Wait, lengths are given as !400! m and !300! m, total distance to cross will be the sum regardless.<br>Total distance = !400 + 300 = 700! m.<br>Time taken to cross = !\\\\dfrac{\\\\text{Total Distance}}{\\\\text{Relative Speed}}!<br>!\\\\Rightarrow \\\\text{Time} = \\\\dfrac{700}{\\\\dfrac{425}{18}}!<br>!\\\\Rightarrow \\\\text{Time} = 700 \\\\times \\\\dfrac{18}{425}!<br>!\\\\Rightarrow \\\\text{Time} = \\\\dfrac{12,600}{425} = \\\\dfrac{504}{17}!<br>!\\\\Rightarrow \\\\text{Time} \\\\approx 29.647! seconds.<br>Rounding to two decimal places, we get !29.65! seconds.<br><br><b>Solution (HI):</b><br>तेज़ ट्रेन की गति = !100! km/hr.<br>धीमी ट्रेन की गति = !15! km/hr.<br>चूंकि दोनों एक ही दिशा में चल रही हैं, सापेक्ष गति = !100 - 15 = 85! km/hr.<br>सापेक्ष गति को m/s में बदलें = !85 \\\\times \\\\dfrac{5}{18} = \\\\dfrac{425}{18}! m/s.<br><br>तय की जाने वाली कुल दूरी = !400 + 300 = 700! m.<br>पार करने में लगा समय = !\\\\dfrac{\\\\text{कुल दूरी}}{\\\\text{सापेक्ष गति}}!<br>!\\\\Rightarrow \\\\text{समय} = \\\\dfrac{700}{\\\\dfrac{425}{18}}!<br>!\\\\Rightarrow \\\\text{समय} = 700 \\\\times \\\\dfrac{18}{425}!<br>!\\\\Rightarrow \\\\text{समय} = \\\\dfrac{12,600}{425} = \\\\dfrac{504}{17}!<br>!\\\\Rightarrow \\\\text{समय} \\\\approx 29.647! सेकंड।<br>दो दशमलव स्थानों तक पूर्णांकित करने पर, हमें !29.65! सेकंड प्राप्त होता है।<br><br><b>Short Trick:</b><br>!\\\\text{Time} = \\\\dfrac{700}{(100 - 15) \\\\times \\\\dfrac{5}{18}} = \\\\dfrac{700 \\\\times 18}{85 \\\\times 5} = \\\\dfrac{504}{17} \\\\approx 29.65! seconds.<br><br><b>Final Answer:</b> !29.65! seconds"
+  },
+  {
+    "section": "Quantitative Aptitude",
+    "topic": "Trains",
+    "difficulty": "Hard",
+    "q_en": "A train traveling at a speed of 60 km/hr crosses a 2 km long platform in 2 minutes 24 seconds. Another train, 500 meters long, is traveling on a parallel track in the same direction at a speed of 75 km/hr. If they start from the same point, find the time taken (in minutes) by the faster train to cross the slower train.",
+    "q_hi": "60 किमी/घंटा की गति से यात्रा करने वाली एक ट्रेन 2 किमी लंबे प्लेटफॉर्म को 2 मिनट 24 सेकंड में पार करती है। 500 मीटर लंबी एक अन्य ट्रेन समानांतर पटरी पर समान दिशा में 75 किमी/घंटा की गति से यात्रा कर रही है। यदि वे एक ही बिंदु से शुरू होती हैं, तो तेज़ ट्रेन द्वारा धीमी ट्रेन को पार करने में लिया गया समय (मिनटों में) ज्ञात कीजिए।",
+    "op_en": [
+      "3.2 minutes",
+      "3.6 minutes",
+      "4.0 minutes",
+      "4.2 minutes"
+    ],
+    "op_hi": [
+      "3.2 मिनट",
+      "3.6 मिनट",
+      "4.0 मिनट",
+      "4.2 मिनट"
+    ],
+    "ans": 2,
+    "solution": "<b>Solution (EN):</b><br>Speed of first train = !60! km/hr = !60 \\\\times \\\\dfrac{5}{18} = \\\\dfrac{50}{3}! m/s.<br>Length of platform = !2! km = !2,000! m.<br>Time taken to cross platform = !2! minutes !24! seconds = !144! seconds.<br>Let the length of the first train be !L_1!.<br>Total distance = !L_1 + 2,000!<br>Distance = !\\\\text{Speed} \\\\times \\\\text{Time}!<br>!\\\\Rightarrow L_1 + 2,000 = \\\\dfrac{50}{3} \\\\times 144!<br>!\\\\Rightarrow L_1 + 2,000 = 50 \\\\times 48 = 2,400!<br>!\\\\Rightarrow L_1 = 400! m.<br><br>Now, second train of length !L_2 = 500! m has a speed of !75! km/hr.<br>Since both are moving in the same direction, relative speed = !75 - 60 = 15! km/hr.<br>Convert relative speed to m/s = !15 \\\\times \\\\dfrac{5}{18} = \\\\dfrac{25}{6}! m/s.<br>Total distance to cross each other = !L_1 + L_2 = 400 + 500 = 900! m.<br>Time taken = !\\\\dfrac{\\\\text{Total Distance}}{\\\\text{Relative Speed}} = \\\\dfrac{900}{\\\\dfrac{25}{6}}!<br>!\\\\Rightarrow \\\\text{Time} = 900 \\\\times \\\\dfrac{6}{25} = 36 \\\\times 6 = 216! seconds.<br>Time in minutes = !\\\\dfrac{216}{60} = 3.6! minutes.<br><br><b>Solution (HI):</b><br>पहली ट्रेन की गति = !60! km/hr = !60 \\\\times \\\\dfrac{5}{18} = \\\\dfrac{50}{3}! m/s.<br>प्लेटफॉर्म की लंबाई = !2! km = !2,000! m.<br>प्लेटफॉर्म को पार करने में लगा समय = !2! मिनट !24! सेकंड = !144! सेकंड।<br>माना पहली ट्रेन की लंबाई !L_1! है।<br>कुल दूरी = !L_1 + 2,000!<br>दूरी = !\\\\text{गति} \\\\times \\\\text{समय}!<br>!\\\\Rightarrow L_1 + 2,000 = \\\\dfrac{50}{3} \\\\times 144!<br>!\\\\Rightarrow L_1 + 2,000 = 50 \\\\times 48 = 2,400!<br>!\\\\Rightarrow L_1 = 400! m.<br><br>अब, !500! m लंबी दूसरी ट्रेन की गति !75! km/hr है।<br>चूंकि दोनों एक ही दिशा में चल रही हैं, सापेक्ष गति = !75 - 60 = 15! km/hr.<br>सापेक्ष गति को m/s में बदलें = !15 \\\\times \\\\dfrac{5}{18} = \\\\dfrac{25}{6}! m/s.<br>एक-दूसरे को पार करने के लिए कुल दूरी = !L_1 + L_2 = 400 + 500 = 900! m.<br>लगा समय = !\\\\dfrac{\\\\text{कुल दूरी}}{\\\\text{सापेक्ष गति}} = \\\\dfrac{900}{\\\\dfrac{25}{6}}!<br>!\\\\Rightarrow \\\\text{समय} = 900 \\\\times \\\\dfrac{6}{25} = 36 \\\\times 6 = 216! सेकंड।<br>मिनटों में समय = !\\\\dfrac{216}{60} = 3.6! मिनट।<br><br><b>Short Trick:</b><br>!L_1 = \\\\left( 60 \\\\times \\\\dfrac{5}{18} \\\\times 144 \\\\right) - 2000 = 2400 - 2000 = 400! m.<br>Time to cross = !\\\\dfrac{400 + 500}{(75 - 60) \\\\times \\\\dfrac{5}{18}} = \\\\dfrac{900}{15 \\\\times \\\\dfrac{5}{18}} = 216! seconds.<br>!216! seconds = !3.6! minutes.<br><br><b>Final Answer:</b> !3.6! minutes"
+  },
+  {
+    "section": "Quantitative Aptitude",
+    "topic": "Trains",
+    "difficulty": "Easy",
+    "q_en": "Two trains are 155.5 meters and 159.5 meters long. They move in opposite directions and cross each other in 10.5 seconds. What is their combined speed in km/hr?",
+    "q_hi": "दो ट्रेनें 155.5 मीटर और 159.5 मीटर लंबी हैं। वे विपरीत दिशाओं में चलती हैं और 10.5 सेकंड में एक-दूसरे को पार करती हैं। उनकी संयुक्त गति किमी/घंटा में क्या है?",
+    "op_en": [
+      "96",
+      "102",
+      "108",
+      "112"
+    ],
+    "op_hi": [
+      "96",
+      "102",
+      "108",
+      "112"
+    ],
+    "ans": 3,
+    "solution": "<b>Solution (EN):</b><br>Length of first train = !155.5! m.<br>Length of second train = !159.5! m.<br>Total distance to be covered to cross each other = !155.5 + 159.5 = 315! m.<br>Time taken = !10.5! seconds.<br>Combined speed (Relative speed in opposite directions) = !\\\\dfrac{\\\\text{Total Distance}}{\\\\text{Time}}!<br>!\\\\Rightarrow \\\\text{Combined Speed} = \\\\dfrac{315}{10.5} = 30! m/s.<br>To convert m/s into km/hr, multiply by !\\\\dfrac{18}{5}! :<br>!\\\\Rightarrow \\\\text{Combined Speed} = 30 \\\\times \\\\dfrac{18}{5} = 6 \\\\times 18 = 108! km/hr.<br><br><b>Solution (HI):</b><br>पहली ट्रेन की लंबाई = !155.5! m.<br>दूसरी ट्रेन की लंबाई = !159.5! m.<br>एक-दूसरे को पार करने के लिए तय की जाने वाली कुल दूरी = !155.5 + 159.5 = 315! m.<br>लगा समय = !10.5! सेकंड।<br>संयुक्त गति (विपरीत दिशाओं में सापेक्ष गति) = !\\\\dfrac{\\\\text{कुल दूरी}}{\\\\text{समय}}!<br>!\\\\Rightarrow \\\\text{संयुक्त गति} = \\\\dfrac{315}{10.5} = 30! m/s.<br>m/s को km/hr में बदलने के लिए !\\\\dfrac{18}{5}! से गुणा करें :<br>!\\\\Rightarrow \\\\text{संयुक्त गति} = 30 \\\\times \\\\dfrac{18}{5} = 6 \\\\times 18 = 108! km/hr.<br><br><b>Short Trick:</b><br>!\\\\text{Combined Speed} = \\\\dfrac{155.5 + 159.5}{10.5} \\\\times \\\\dfrac{18}{5} = \\\\dfrac{315}{10.5} \\\\times \\\\dfrac{18}{5} = 30 \\\\times \\\\dfrac{18}{5} = 108! km/hr.<br><br><b>Final Answer:</b> !108! km/hr"
+  },
+  {
+    "section": "Quantitative Aptitude",
+    "topic": "Trains",
+    "difficulty": "Easy",
+    "q_en": "Two trains, 190 meters and 160 meters long, are moving towards each other at speeds of 18 km/hr and 45 km/hr respectively. How much time (in seconds) will they take to cross each other?",
+    "q_hi": "190 मीटर और 160 मीटर लंबी दो ट्रेनें क्रमशः 18 किमी/घंटा और 45 किमी/घंटा की गति से एक-दूसरे की ओर चल रही हैं। वे एक-दूसरे को पार करने में कितना समय लेंगी (सेकंड में)?",
+    "op_en": [
+      "15",
+      "18",
+      "20",
+      "25"
+    ],
+    "op_hi": [
+      "15",
+      "18",
+      "20",
+      "25"
+    ],
+    "ans": 3,
+    "solution": "<b>Solution (EN):</b><br>Total distance to be covered = !190 + 160 = 350! m.<br>Since the trains are moving towards each other, their relative speed will be the sum of their individual speeds.<br>Relative Speed = !18 + 45 = 63! km/hr.<br>Convert relative speed to m/s:<br>Speed in m/s = !63 \\\\times \\\\dfrac{5}{18} = \\\\dfrac{35}{2} = 17.5! m/s.<br>Time taken to cross each other = !\\\\dfrac{\\\\text{Total Distance}}{\\\\text{Relative Speed}}!<br>!\\\\Rightarrow \\\\text{Time} = \\\\dfrac{350}{17.5} = 20! seconds.<br><br><b>Solution (HI):</b><br>तय की जाने वाली कुल दूरी = !190 + 160 = 350! m.<br>चूंकि ट्रेनें एक-दूसरे की ओर चल रही हैं, उनकी सापेक्ष गति उनकी व्यक्तिगत गति का योग होगी।<br>सापेक्ष गति = !18 + 45 = 63! km/hr.<br>सापेक्ष गति को m/s में बदलें:<br>m/s में गति = !63 \\\\times \\\\dfrac{5}{18} = \\\\dfrac{35}{2} = 17.5! m/s.<br>एक-दूसरे को पार करने में लगा समय = !\\\\dfrac{\\\\text{कुल दूरी}}{\\\\text{सापेक्ष गति}}!<br>!\\\\Rightarrow \\\\text{समय} = \\\\dfrac{350}{17.5} = 20! सेकंड।<br><br><b>Short Trick:</b><br>!\\\\text{Time} = \\\\dfrac{190 + 160}{(18 + 45) \\\\times \\\\dfrac{5}{18}} = \\\\dfrac{350}{63 \\\\times \\\\dfrac{5}{18}} = \\\\dfrac{350}{17.5} = 20! seconds.<br><br><b>Final Answer:</b> !20! seconds"
+  },
+  {
+    "section": "Quantitative Aptitude",
+    "topic": "Trains",
+    "difficulty": "Medium",
+    "q_en": "How much time will a 500 meters long train running at a speed of 50 km/hr take to cross another 200 meters long train running at a speed of 60 km/hr in the opposite direction? (Give your answer in seconds to the nearest integer value.)",
+    "q_hi": "50 किमी/घंटा की गति से चलने वाली 500 मीटर लंबी ट्रेन को विपरीत दिशा में 60 किमी/घंटा की गति से चलने वाली 200 मीटर लंबी दूसरी ट्रेन को पार करने में कितना समय लगेगा? (अपना उत्तर सेकंड में निकटतम पूर्णांक मान तक दें।)",
+    "op_en": [
+      "21",
+      "22",
+      "23",
+      "24"
+    ],
+    "op_hi": [
+      "21",
+      "22",
+      "23",
+      "24"
+    ],
+    "ans": 3,
+    "solution": "<b>Solution (EN):</b><br>Length of the first train = !500! m.<br>Length of the second train = !200! m.<br>Total distance = !500 + 200 = 700! m.<br>Speed of the first train = !50! km/hr.<br>Speed of the second train = !60! km/hr.<br>Since they are moving in opposite directions, relative speed = !50 + 60 = 110! km/hr.<br>Convert relative speed into m/s = !110 \\\\times \\\\dfrac{5}{18} = \\\\dfrac{275}{9}! m/s.<br>Time taken = !\\\\dfrac{\\\\text{Total Distance}}{\\\\text{Relative Speed}}!<br>!\\\\Rightarrow \\\\text{Time} = \\\\dfrac{700}{\\\\dfrac{275}{9}} = 700 \\\\times \\\\dfrac{9}{275}!<br>!\\\\Rightarrow \\\\text{Time} = \\\\dfrac{6,300}{275} = \\\\dfrac{252}{11} \\\\approx 22.9! seconds.<br>Rounding to the nearest integer, we get !23! seconds.<br><br><b>Solution (HI):</b><br>पहली ट्रेन की लंबाई = !500! m.<br>दूसरी ट्रेन की लंबाई = !200! m.<br>कुल दूरी = !500 + 200 = 700! m.<br>पहली ट्रेन की गति = !50! km/hr.<br>दूसरी ट्रेन की गति = !60! km/hr.<br>चूंकि वे विपरीत दिशाओं में चल रही हैं, सापेक्ष गति = !50 + 60 = 110! km/hr.<br>सापेक्ष गति को m/s में बदलें = !110 \\\\times \\\\dfrac{5}{18} = \\\\dfrac{275}{9}! m/s.<br>लगा समय = !\\\\dfrac{\\\\text{कुल दूरी}}{\\\\text{सापेक्ष गति}}!<br>!\\\\Rightarrow \\\\text{समय} = \\\\dfrac{700}{\\\\dfrac{275}{9}} = 700 \\\\times \\\\dfrac{9}{275}!<br>!\\\\Rightarrow \\\\text{समय} = \\\\dfrac{6,300}{275} = \\\\dfrac{252}{11} \\\\approx 22.9! सेकंड।<br>निकटतम पूर्णांक तक पूर्णांकित करने पर, हमें !23! सेकंड प्राप्त होता है।<br><br><b>Short Trick:</b><br>!\\\\text{Time} = \\\\dfrac{700}{(50 + 60) \\\\times \\\\dfrac{5}{18}} = \\\\dfrac{700 \\\\times 18}{110 \\\\times 5} = \\\\dfrac{12,600}{550} = \\\\dfrac{252}{11} \\\\approx 23! seconds.<br><br><b>Final Answer:</b> !23! seconds"
+  },
+  {
+    "section": "Quantitative Aptitude",
+    "topic": "Time, Speed and Distance",
+    "difficulty": "Medium",
+    "q_en": "Two stations A and B are 1,440 km apart. A train starts from station A at 7:00 a.m. and moves towards station B at a speed of 100 km/hr. At 1:00 p.m., another train starts from station B towards A at a speed of 110 km/hr. When will they meet?",
+    "q_hi": "दो स्टेशन A और B एक-दूसरे से 1,440 किमी दूर हैं। एक ट्रेन सुबह 7 बजे स्टेशन A से शुरू होती है और 100 किमी/घंटा की गति से स्टेशन B की ओर बढ़ती है। दोपहर 1 बजे, एक अन्य ट्रेन स्टेशन B से A की ओर 110 किमी/घंटा की गति से चलना शुरू करती है। वे कब मिलेंगी?",
+    "op_en": [
+      "3:00 p.m.",
+      "4:00 p.m.",
+      "5:00 p.m.",
+      "6:00 p.m."
+    ],
+    "op_hi": [
+      "3:00 p.m.",
+      "4:00 p.m.",
+      "5:00 p.m.",
+      "6:00 p.m."
+    ],
+    "ans": 3,
+    "solution": "<b>Solution (EN):</b><br>Total distance between station A and B = !1,440! km.<br>The first train starts at 7:00 a.m. and travels until 1:00 p.m. alone (for !6! hours).<br>Distance covered by the first train in !6! hours = !\\\\text{Speed} \\\\times \\\\text{Time} = 100 \\\\times 6 = 600! km.<br>Remaining distance at 1:00 p.m. = !1,440 - 600 = 840! km.<br>At 1:00 p.m., both trains are moving towards each other.<br>Relative speed = !100 + 110 = 210! km/hr.<br>Time taken to meet = !\\\\dfrac{\\\\text{Remaining Distance}}{\\\\text{Relative Speed}} = \\\\dfrac{840}{210} = 4! hours.<br>So, they will meet !4! hours after 1:00 p.m.<br>Meeting time = 1:00 p.m. + !4! hours = 5:00 p.m.<br><br><b>Solution (HI):</b><br>स्टेशन A और B के बीच की कुल दूरी = !1,440! km.<br>पहली ट्रेन सुबह 7:00 बजे शुरू होती है और दोपहर 1:00 बजे तक (कुल !6! घंटे) अकेले यात्रा करती है।<br>पहली ट्रेन द्वारा !6! घंटों में तय की गई दूरी = !\\\\text{गति} \\\\times \\\\text{समय} = 100 \\\\times 6 = 600! km.<br>दोपहर 1:00 बजे शेष दूरी = !1,440 - 600 = 840! km.<br>दोपहर 1:00 बजे, दोनों ट्रेनें एक-दूसरे की ओर चल रही हैं।<br>सापेक्ष गति = !100 + 110 = 210! km/hr.<br>मिलने में लगा समय = !\\\\dfrac{\\\\text{शेष दूरी}}{\\\\text{सापेक्ष गति}} = \\\\dfrac{840}{210} = 4! घंटे।<br>इसलिए, वे दोपहर 1:00 बजे के !4! घंटे बाद मिलेंगी।<br>मिलने का समय = 1:00 p.m. + !4! घंटे = 5:00 p.m.<br><br><b>Short Trick:</b><br>Remaining Distance at 1:00 p.m. = !1440 - (100 \\\\times 6) = 840! km.<br>Time to meet = !\\\\dfrac{840}{100 + 110} = \\\\dfrac{840}{210} = 4! hours.<br>Time = 1:00 p.m. + !4! hours = 5:00 p.m.<br><br><b>Final Answer:</b> 5:00 p.m."
+  },
+  {
+    "section": "Quantitative Aptitude",
+    "topic": "Time, Speed and Distance",
+    "difficulty": "Medium",
+    "q_en": "A train travels at a speed of 60 km/hr and takes 30 minutes less to cover the same distance compared to 50 km/hr. Find the distance.",
+    "q_hi": "एक ट्रेन 60 किमी/घंटा की गति से यात्रा करती है और समान दूरी को तय करने में 50 किमी/घंटा की तुलना में 30 मिनट कम समय लेती है। दूरी ज्ञात कीजिए।",
+    "op_en": [
+      "120 km",
+      "150 km",
+      "180 km",
+      "200 km"
+    ],
+    "op_hi": [
+      "120 किमी",
+      "150 किमी",
+      "180 किमी",
+      "200 किमी"
+    ],
+    "ans": 2,
+    "solution": "<b>Solution (EN):</b><br>Let the total distance be !D! km.<br>Time taken at !50! km/hr = !\\\\dfrac{D}{50}! hours.<br>Time taken at !60! km/hr = !\\\\dfrac{D}{60}! hours.<br>According to the question, the difference in time is !30! minutes.<br>Convert !30! minutes to hours: !\\\\dfrac{30}{60} = \\\\dfrac{1}{2}! hours.<br>!\\\\Rightarrow \\\\dfrac{D}{50} - \\\\dfrac{D}{60} = \\\\dfrac{1}{2}!<br>!\\\\Rightarrow \\\\dfrac{6D - 5D}{300} = \\\\dfrac{1}{2}!<br>!\\\\Rightarrow \\\\dfrac{D}{300} = \\\\dfrac{1}{2}!<br>!\\\\Rightarrow D = \\\\dfrac{300}{2} = 150! km.<br><br><b>Solution (HI):</b><br>माना कुल दूरी !D! km है।<br>!50! km/hr की गति से लिया गया समय = !\\\\dfrac{D}{50}! घंटे।<br>!60! km/hr की गति से लिया गया समय = !\\\\dfrac{D}{60}! घंटे।<br>प्रश्न के अनुसार, समय का अंतर !30! मिनट है।<br>!30! मिनट को घंटों में बदलें: !\\\\dfrac{30}{60} = \\\\dfrac{1}{2}! घंटे।<br>!\\\\Rightarrow \\\\dfrac{D}{50} - \\\\dfrac{D}{60} = \\\\dfrac{1}{2}!<br>!\\\\Rightarrow \\\\dfrac{6D - 5D}{300} = \\\\dfrac{1}{2}!<br>!\\\\Rightarrow \\\\dfrac{D}{300} = \\\\dfrac{1}{2}!<br>!\\\\Rightarrow D = \\\\dfrac{300}{2} = 150! km.<br><br><b>Short Trick:</b><br>Distance != \\\\dfrac{S_1 \\\\times S_2}{S_1 - S_2} \\\\times \\\\Delta T!<br>!\\\\Rightarrow \\\\text{Distance} = \\\\dfrac{60 \\\\times 50}{60 - 50} \\\\times \\\\dfrac{1}{2}!<br>!\\\\Rightarrow \\\\text{Distance} = \\\\dfrac{3,000}{10} \\\\times \\\\dfrac{1}{2} = 300 \\\\times \\\\dfrac{1}{2} = 150! km.<br><br><b>Final Answer:</b> !150! km"
+  },
+  {
+    "section": "Quantitative Aptitude",
+    "topic": "Trains",
+    "difficulty": "Medium",
+    "q_en": "Train A and Train B are running on parallel tracks in opposite directions. Train A is 240 meters long and moves at a speed of 72 km/hr, while Train B is 180 meters long and travels at a speed of 90 km/hr. A person is sitting near the window in Train A. How much time will Train B take to completely cross that person?",
+    "q_hi": "ट्रेन A और ट्रेन B विपरीत दिशाओं में समानांतर पटरियों पर चल रही हैं। ट्रेन A 240 मीटर लंबी है और 72 किमी/घंटा की गति से चलती है, जबकि ट्रेन B 180 मीटर लंबी है और 90 किमी/घंटा की गति से यात्रा करती है। एक व्यक्ति ट्रेन A में खिड़की के पास बैठा है। ट्रेन B उस व्यक्ति को पूरी तरह से पार करने में कितना समय लेगी?",
+    "op_en": [
+      "4 seconds",
+      "5 seconds",
+      "6 seconds",
+      "8 seconds"
+    ],
+    "op_hi": [
+      "4 सेकंड",
+      "5 सेकंड",
+      "6 सेकंड",
+      "8 सेकंड"
+    ],
+    "ans": 1,
+    "solution": "<b>Solution (EN):</b><br>Since Train B has to cross a person sitting in Train A, the distance to be covered is only the length of Train B, not the combined length of both trains.<br>Distance to be covered = !180! m.<br>Speed of Train A = !72! km/hr.<br>Speed of Train B = !90! km/hr.<br>Since they are moving in opposite directions, relative speed = !72 + 90 = 162! km/hr.<br>Convert relative speed into m/s:<br>Speed = !162 \\\\times \\\\dfrac{5}{18} = 9 \\\\times 5 = 45! m/s.<br>Time taken to cross the person = !\\\\dfrac{\\\\text{Length of Train B}}{\\\\text{Relative Speed}}!<br>!\\\\Rightarrow \\\\text{Time} = \\\\dfrac{180}{45} = 4! seconds.<br><br><b>Solution (HI):</b><br>चूंकि ट्रेन B को ट्रेन A में बैठे व्यक्ति को पार करना है, इसलिए तय की जाने वाली दूरी केवल ट्रेन B की लंबाई होगी, दोनों ट्रेनों की संयुक्त लंबाई नहीं।<br>तय की जाने वाली दूरी = !180! m.<br>ट्रेन A की गति = !72! km/hr.<br>ट्रेन B की गति = !90! km/hr.<br>चूंकि वे विपरीत दिशाओं में चल रही हैं, सापेक्ष गति = !72 + 90 = 162! km/hr.<br>सापेक्ष गति को m/s में बदलें:<br>गति = !162 \\\\times \\\\dfrac{5}{18} = 9 \\\\times 5 = 45! m/s.<br>व्यक्ति को पार करने में लगा समय = !\\\\dfrac{\\\\text{ट्रेन B की लंबाई}}{\\\\text{सापेक्ष गति}}!<br>!\\\\Rightarrow \\\\text{समय} = \\\\dfrac{180}{45} = 4! सेकंड।<br><br><b>Short Trick:</b><br>!\\\\text{Time} = \\\\dfrac{180}{(72 + 90) \\\\times \\\\dfrac{5}{18}} = \\\\dfrac{180}{162 \\\\times \\\\dfrac{5}{18}} = \\\\dfrac{180}{45} = 4! seconds.<br><br><b>Final Answer:</b> !4! seconds"
+  },
+  {
+    "section": "Quantitative Aptitude",
+    "topic": "Trains",
+    "difficulty": "Easy",
+    "q_en": "A 120 meters long train crosses a 280 meters long platform in 20 seconds. Find the speed of the train (in km/hr).",
+    "q_hi": "120 मीटर लंबी एक ट्रेन 280 मीटर लंबे प्लेटफॉर्म को 20 सेकंड में पार करती है। ट्रेन की गति (किमी/घंटा में) ज्ञात कीजिए।",
+    "op_en": [
+      "60",
+      "64",
+      "72",
+      "80"
+    ],
+    "op_hi": [
+      "60",
+      "64",
+      "72",
+      "80"
+    ],
+    "ans": 3,
+    "solution": "<b>Solution (EN):</b><br>Length of the train = !120! m.<br>Length of the platform = !280! m.<br>Total distance to be covered = !120 + 280 = 400! m.<br>Time taken = !20! seconds.<br>Speed of the train = !\\\\dfrac{\\\\text{Total Distance}}{\\\\text{Time}}!<br>!\\\\Rightarrow \\\\text{Speed} = \\\\dfrac{400}{20} = 20! m/s.<br>Convert m/s to km/hr by multiplying with !\\\\dfrac{18}{5}!:<br>!\\\\Rightarrow \\\\text{Speed} = 20 \\\\times \\\\dfrac{18}{5} = 4 \\\\times 18 = 72! km/hr.<br><br><b>Solution (HI):</b><br>ट्रेन की लंबाई = !120! m.<br>प्लेटफॉर्म की लंबाई = !280! m.<br>तय की जाने वाली कुल दूरी = !120 + 280 = 400! m.<br>लगा समय = !20! सेकंड।<br>ट्रेन की गति = !\\\\dfrac{\\\\text{कुल दूरी}}{\\\\text{समय}}!<br>!\\\\Rightarrow \\\\text{गति} = \\\\dfrac{400}{20} = 20! m/s.<br>m/s को km/hr में बदलने के लिए !\\\\dfrac{18}{5}! से गुणा करें:<br>!\\\\Rightarrow \\\\text{गति} = 20 \\\\times \\\\dfrac{18}{5} = 4 \\\\times 18 = 72! km/hr.<br><br><b>Short Trick:</b><br>!\\\\text{Speed} = \\\\dfrac{120 + 280}{20} \\\\times \\\\dfrac{18}{5} = \\\\dfrac{400}{20} \\\\times \\\\dfrac{18}{5} = 20 \\\\times \\\\dfrac{18}{5} = 72! km/hr.<br><br><b>Final Answer:</b> !72! km/hr"
+  },
+  {
+    "section": "Quantitative Aptitude",
+    "topic": "Time, Speed and Distance",
+    "difficulty": "Hard",
+    "q_en": "The distance between two stations M and N is 600 km. A train starts from station M towards N at 5:00 a.m. at a speed of 50 km/hr. Another train starts an hour later, at 6:00 a.m., from station N towards M at a speed of 90 km/hr. At what distance from M will the two trains meet?",
+    "q_hi": "दो स्टेशनों M और N के बीच की दूरी 600 किमी है। एक ट्रेन स्टेशन M से N की ओर सुबह 5:00 बजे 50 किमी/घंटा की गति से चलना शुरू करती है। दूसरी ट्रेन एक घंटे बाद, सुबह 6:00 बजे, स्टेशन N से M की ओर 90 किमी/घंटा की गति से चलना शुरू करती है। M से कितनी दूरी पर दोनों ट्रेनें मिलेंगी?",
+    "op_en": [
+      "240.50 km",
+      "246.43 km",
+      "250.00 km",
+      "260.43 km"
+    ],
+    "op_hi": [
+      "240.50 किमी",
+      "246.43 किमी",
+      "250.00 किमी",
+      "260.43 किमी"
+    ],
+    "ans": 2,
+    "solution": "<b>Solution (EN):</b><br>Total distance between M and N = !600! km.<br>First train starts at 5:00 a.m. with a speed of !50! km/hr.<br>Second train starts at 6:00 a.m. with a speed of !90! km/hr.<br>By 6:00 a.m., the first train has traveled for !1! hour.<br>Distance covered by the first train in !1! hour = !50 \\\\times 1 = 50! km.<br>Remaining distance between the two trains at 6:00 a.m. = !600 - 50 = 550! km.<br>Relative speed of the trains (moving towards each other) = !50 + 90 = 140! km/hr.<br>Time taken to meet after 6:00 a.m. = !\\\\dfrac{\\\\text{Remaining Distance}}{\\\\text{Relative Speed}} = \\\\dfrac{550}{140} = \\\\dfrac{55}{14}! hours.<br>Distance traveled by the first train in !\\\\dfrac{55}{14}! hours = !\\\\text{Speed} \\\\times \\\\text{Time} = 50 \\\\times \\\\dfrac{55}{14} = \\\\dfrac{2,750}{14} = \\\\dfrac{1,375}{7}! km.<br>Total distance from M where they meet = Distance traveled before 6:00 a.m. + Distance traveled after 6:00 a.m.<br>!\\\\Rightarrow \\\\text{Total Distance} = 50 + \\\\dfrac{1,375}{7} = \\\\dfrac{350 + 1,375}{7} = \\\\dfrac{1,725}{7}! km.<br>!\\\\Rightarrow \\\\dfrac{1,725}{7} \\\\approx 246.428...! km.<br>Rounding to two decimal places, we get !246.43! km.<br><br><b>Solution (HI):</b><br>M और N के बीच की कुल दूरी = !600! km.<br>पहली ट्रेन सुबह 5:00 बजे !50! km/hr की गति से शुरू होती है।<br>दूसरी ट्रेन सुबह 6:00 बजे !90! km/hr की गति से शुरू होती है।<br>सुबह 6:00 बजे तक, पहली ट्रेन !1! घंटे की यात्रा कर चुकी है।<br>पहली ट्रेन द्वारा !1! घंटे में तय की गई दूरी = !50 \\\\times 1 = 50! km.<br>सुबह 6:00 बजे दोनों ट्रेनों के बीच शेष दूरी = !600 - 50 = 550! km.<br>ट्रेनों की सापेक्ष गति (एक-दूसरे की ओर) = !50 + 90 = 140! km/hr.<br>सुबह 6:00 बजे के बाद मिलने में लगा समय = !\\\\dfrac{\\\\text{शेष दूरी}}{\\\\text{सापेक्ष गति}} = \\\\dfrac{550}{140} = \\\\dfrac{55}{14}! घंटे।<br>पहली ट्रेन द्वारा !\\\\dfrac{55}{14}! घंटों में तय की गई दूरी = !\\\\text{गति} \\\\times \\\\text{समय} = 50 \\\\times \\\\dfrac{55}{14} = \\\\dfrac{2,750}{14} = \\\\dfrac{1,375}{7}! km.<br>M से कुल दूरी जहां वे मिलती हैं = 6:00 बजे से पहले तय की गई दूरी + 6:00 बजे के बाद तय की गई दूरी<br>!\\\\Rightarrow \\\\text{कुल दूरी} = 50 + \\\\dfrac{1,375}{7} = \\\\dfrac{350 + 1,375}{7} = \\\\dfrac{1,725}{7}! km.<br>!\\\\Rightarrow \\\\dfrac{1,725}{7} \\\\approx 246.428...! km.<br>दो दशमलव स्थानों तक पूर्णांकित करने पर, हमें !246.43! km प्राप्त होता है।<br><br><b>Short Trick:</b><br>Distance from M = !50 + 50 \\\\times \\\\left(\\\\dfrac{600 - 50}{50 + 90}\\\\right) = 50 + 50 \\\\times \\\\left(\\\\dfrac{550}{140}\\\\right) = 50 + \\\\dfrac{1,375}{7} = 246.43! km.<br><br><b>Final Answer:</b> !246.43! km"
+  },
+  {
+    "section": "Quantitative Aptitude",
+    "topic": "Time, Speed and Distance",
+    "difficulty": "Easy",
+    "q_en": "Two trains are moving in opposite directions at speeds of 30 km/hr and 20 km/hr. The distance between them is 1,000 km. Find the time taken for the trains to meet.",
+    "q_hi": "दो ट्रेनें विपरीत दिशाओं में 30 किमी/घंटा और 20 किमी/घंटा की गति से चल रही हैं। उनके बीच की दूरी 1000 किमी है। ट्रेनों को मिलने में लगने वाला समय ज्ञात कीजिए।",
+    "op_en": [
+      "15 hours",
+      "18 hours",
+      "20 hours",
+      "25 hours"
+    ],
+    "op_hi": [
+      "15 घंटे",
+      "18 घंटे",
+      "20 घंटे",
+      "25 घंटे"
+    ],
+    "ans": 3,
+    "solution": "<b>Solution (EN):</b><br>Speed of the first train = !30! km/hr.<br>Speed of the second train = !20! km/hr.<br>Since the trains are moving in opposite directions (towards each other), their relative speed is the sum of their individual speeds.<br>Relative Speed = !30 + 20 = 50! km/hr.<br>Total distance between the trains = !1,000! km.<br>Time taken to meet = !\\\\dfrac{\\\\text{Distance}}{\\\\text{Relative Speed}}!<br>!\\\\Rightarrow \\\\text{Time} = \\\\dfrac{1,000}{50} = 20! hours.<br><br><b>Solution (HI):</b><br>पहली ट्रेन की गति = !30! km/hr.<br>दूसरी ट्रेन की गति = !20! km/hr.<br>चूंकि ट्रेनें विपरीत दिशाओं में (एक-दूसरे की ओर) चल रही हैं, उनकी सापेक्ष गति उनकी व्यक्तिगत गति का योग होगी।<br>सापेक्ष गति = !30 + 20 = 50! km/hr.<br>ट्रेनों के बीच की कुल दूरी = !1,000! km.<br>मिलने में लगा समय = !\\\\dfrac{\\\\text{दूरी}}{\\\\text{सापेक्ष गति}}!<br>!\\\\Rightarrow \\\\text{समय} = \\\\dfrac{1,000}{50} = 20! घंटे।<br><br><b>Short Trick:</b><br>!\\\\text{Time} = \\\\dfrac{D}{S_1 + S_2} = \\\\dfrac{1,000}{30 + 20} = \\\\dfrac{1,000}{50} = 20! hours.<br><br><b>Final Answer:</b> !20! hours"
+  },
+  {
+    "section": "Quantitative Aptitude",
+    "topic": "Trains",
+    "difficulty": "Medium",
+    "q_en": "A 360 meters long train crosses a 240 meters long platform in 30 seconds. Then it crosses a person walking in the same direction in 20 seconds. What is the speed of the person?",
+    "q_hi": "360 मीटर लंबी एक ट्रेन 240 मीटर लंबे प्लेटफॉर्म को 30 सेकंड में पार करती है। फिर यह उसी दिशा में चल रहे एक व्यक्ति को 20 सेकंड में पार करती है। व्यक्ति की गति क्या है?",
+    "op_en": [
+      "1.5 m/s",
+      "2 m/s",
+      "2.5 m/s",
+      "3 m/s"
+    ],
+    "op_hi": [
+      "1.5 m/s",
+      "2 m/s",
+      "2.5 m/s",
+      "3 m/s"
+    ],
+    "ans": 2,
+    "solution": "<b>Solution (EN):</b><br>Length of the train = !360! m.<br>Length of the platform = !240! m.<br>Total distance to cross the platform = !360 + 240 = 600! m.<br>Time taken to cross the platform = !30! seconds.<br>Speed of the train (!V_T!) = !\\\\dfrac{600}{30} = 20! m/s.<br>Now, the train crosses a person walking in the same direction in !20! seconds.<br>When crossing a person, the distance covered is the length of the train itself = !360! m.<br>Let the speed of the person be !V_P! m/s.<br>Since they are moving in the same direction, relative speed = !(V_T - V_P)! = !(20 - V_P)! m/s.<br>Time taken = !\\\\dfrac{\\\\text{Distance}}{\\\\text{Relative Speed}}!<br>!\\\\Rightarrow 20 = \\\\dfrac{360}{20 - V_P}!<br>!\\\\Rightarrow 20(20 - V_P) = 360!<br>!\\\\Rightarrow 20 - V_P = \\\\dfrac{360}{20} = 18!<br>!\\\\Rightarrow V_P = 20 - 18 = 2! m/s.<br><br><b>Solution (HI):</b><br>ट्रेन की लंबाई = !360! m.<br>प्लेटफॉर्म की लंबाई = !240! m.<br>प्लेटफॉर्म को पार करने के लिए कुल दूरी = !360 + 240 = 600! m.<br>प्लेटफॉर्म को पार करने में लगा समय = !30! सेकंड।<br>ट्रेन की गति (!V_T!) = !\\\\dfrac{600}{30} = 20! m/s.<br>अब, ट्रेन उसी दिशा में चलते हुए एक व्यक्ति को !20! सेकंड में पार करती है।<br>व्यक्ति को पार करते समय, तय की गई दूरी ट्रेन की लंबाई के बराबर होती है = !360! m.<br>माना व्यक्ति की गति !V_P! m/s है।<br>चूंकि वे एक ही दिशा में चल रहे हैं, सापेक्ष गति = !(V_T - V_P)! = !(20 - V_P)! m/s.<br>लगा समय = !\\\\dfrac{\\\\text{दूरी}}{\\\\text{सापेक्ष गति}}!<br>!\\\\Rightarrow 20 = \\\\dfrac{360}{20 - V_P}!<br>!\\\\Rightarrow 20(20 - V_P) = 360!<br>!\\\\Rightarrow 20 - V_P = \\\\dfrac{360}{20} = 18!<br>!\\\\Rightarrow V_P = 20 - 18 = 2! m/s.<br><br><b>Short Trick:</b><br>Speed of train = !\\\\dfrac{600}{30} = 20! m/s.<br>Relative Speed = !\\\\dfrac{360}{20} = 18! m/s.<br>Person's speed = !20 - 18 = 2! m/s.<br><br><b>Final Answer:</b> !2! m/s"
+  },
+  {
+    "section": "Quantitative Aptitude",
+    "topic": "Time, Speed and Distance",
+    "difficulty": "Medium",
+    "q_en": "Two trains, A and B, start at the same time. Train A travels from station M to station N at a speed of 54 km/hr, and Train B travels from station N to station M at a speed of 72 km/hr. They meet each other after 100 minutes. What is the distance (in km) between the two stations?",
+    "q_hi": "दो ट्रेनें, A और B, एक ही समय पर चलना शुरू करती हैं। ट्रेन A स्टेशन M से स्टेशन N तक 54 किमी/घंटा की गति से यात्रा करती है और ट्रेन B स्टेशन N से स्टेशन M तक 72 किमी/घंटा की गति से यात्रा करती है। वे 100 मिनट बाद एक-दूसरे से मिलती हैं। दोनों स्टेशनों के बीच की दूरी (किमी में) क्या है?",
+    "op_en": [
+      "180",
+      "200",
+      "210",
+      "240"
+    ],
+    "op_hi": [
+      "180",
+      "200",
+      "210",
+      "240"
+    ],
+    "ans": 3,
+    "solution": "<b>Solution (EN):</b><br>Speed of Train A = !54! km/hr.<br>Speed of Train B = !72! km/hr.<br>Since they are traveling towards each other (from M to N and N to M), their relative speed is the sum of their speeds.<br>Relative Speed = !54 + 72 = 126! km/hr.<br>Time taken to meet = !100! minutes.<br>Convert time into hours: !\\\\dfrac{100}{60} = \\\\dfrac{5}{3}! hours.<br>Distance between the two stations = !\\\\text{Relative Speed} \\\\times \\\\text{Time}!<br>!\\\\Rightarrow \\\\text{Distance} = 126 \\\\times \\\\dfrac{5}{3}!<br>!\\\\Rightarrow \\\\text{Distance} = 42 \\\\times 5 = 210! km.<br><br><b>Solution (HI):</b><br>ट्रेन A की गति = !54! km/hr.<br>ट्रेन B की गति = !72! km/hr.<br>चूंकि वे एक-दूसरे की ओर (M से N और N से M तक) यात्रा कर रही हैं, उनकी सापेक्ष गति उनकी गति का योग होगी।<br>सापेक्ष गति = !54 + 72 = 126! km/hr.<br>मिलने में लगा समय = !100! मिनट।<br>समय को घंटों में बदलें: !\\\\dfrac{100}{60} = \\\\dfrac{5}{3}! घंटे।<br>दोनों स्टेशनों के बीच की दूरी = !\\\\text{सापेक्ष गति} \\\\times \\\\text{समय}!<br>!\\\\Rightarrow \\\\text{दूरी} = 126 \\\\times \\\\dfrac{5}{3}!<br>!\\\\Rightarrow \\\\text{दूरी} = 42 \\\\times 5 = 210! km.<br><br><b>Short Trick:</b><br>!\\\\text{Distance} = (S_1 + S_2) \\\\times T!<br>!\\\\text{Distance} = (54 + 72) \\\\times \\\\left(\\\\dfrac{100}{60}\\\\right) = 126 \\\\times \\\\dfrac{5}{3} = 210! km.<br><br><b>Final Answer:</b> !210! km"
+  },
+  {
+    "section": "Quantitative Aptitude",
+    "topic": "Trains",
+    "difficulty": "Easy",
+    "q_en": "Two trains, 125 meters and 175 meters long, moving in opposite directions at speeds of 54 km/hr and 36 km/hr respectively, cross each other. Find the time taken.",
+    "q_hi": "125 मीटर और 175 मीटर लंबी दो ट्रेनें विपरीत दिशाओं में क्रमशः 54 किमी/घंटा और 36 किमी/घंटा की गति से चलते हुए एक-दूसरे को पार करती हैं। लिया गया समय ज्ञात कीजिए।",
+    "op_en": [
+      "10 seconds",
+      "12 seconds",
+      "14 seconds",
+      "15 seconds"
+    ],
+    "op_hi": [
+      "10 सेकंड",
+      "12 सेकंड",
+      "14 सेकंड",
+      "15 सेकंड"
+    ],
+    "ans": 2,
+    "solution": "<b>Solution (EN):</b><br>Length of the first train = !125! m.<br>Length of the second train = !175! m.<br>Total distance to be covered = !125 + 175 = 300! m.<br>Since the trains are moving in opposite directions, their relative speed is the sum of their individual speeds.<br>Relative Speed = !54 + 36 = 90! km/hr.<br>Convert relative speed into m/s:<br>Speed = !90 \\\\times \\\\dfrac{5}{18} = 25! m/s.<br>Time taken to cross each other = !\\\\dfrac{\\\\text{Total Distance}}{\\\\text{Relative Speed}}!<br>!\\\\Rightarrow \\\\text{Time} = \\\\dfrac{300}{25} = 12! seconds.<br><br><b>Solution (HI):</b><br>पहली ट्रेन की लंबाई = !125! m.<br>दूसरी ट्रेन की लंबाई = !175! m.<br>तय की जाने वाली कुल दूरी = !125 + 175 = 300! m.<br>चूंकि ट्रेनें विपरीत दिशाओं में चल रही हैं, उनकी सापेक्ष गति उनकी व्यक्तिगत गति का योग होगी।<br>सापेक्ष गति = !54 + 36 = 90! km/hr.<br>सापेक्ष गति को m/s में बदलें:<br>गति = !90 \\\\times \\\\dfrac{5}{18} = 25! m/s.<br>एक-दूसरे को पार करने में लगा समय = !\\\\dfrac{\\\\text{कुल दूरी}}{\\\\text{सापेक्ष गति}}!<br>!\\\\Rightarrow \\\\text{समय} = \\\\dfrac{300}{25} = 12! सेकंड।<br><br><b>Short Trick:</b><br>!\\\\text{Time} = \\\\dfrac{125 + 175}{(54 + 36) \\\\times \\\\dfrac{5}{18}} = \\\\dfrac{300}{90 \\\\times \\\\dfrac{5}{18}} = \\\\dfrac{300}{25} = 12! seconds.<br><br><b>Final Answer:</b> !12! seconds"
+  },
+  {
+    "section": "Quantitative Aptitude",
+    "topic": "Trains",
+    "difficulty": "Medium",
+    "q_en": "Two trains P and Q are running on parallel tracks in the same direction. Train P is 280 meters long and its speed is 72 km/hr. Train Q is 220 meters long and its speed is 63 km/hr. How much time (in seconds) will Train P take to completely cross Train Q?",
+    "q_hi": "दो ट्रेनें P और Q समान दिशा में समानांतर पटरियों पर चल रही हैं। ट्रेन P 280 मीटर लंबी है और इसकी गति 72 किमी/घंटा है। ट्रेन Q 220 मीटर लंबी है और इसकी गति 63 किमी/घंटा है। ट्रेन P ट्रेन Q को पूरी तरह से पार करने में कितना समय (सेकंड में) लेगी?",
+    "op_en": [
+      "180",
+      "200",
+      "220",
+      "240"
+    ],
+    "op_hi": [
+      "180",
+      "200",
+      "220",
+      "240"
+    ],
+    "ans": 2,
+    "solution": "<b>Solution (EN):</b><br>Length of Train P = !280! m.<br>Length of Train Q = !220! m.<br>Total distance to cross = !280 + 220 = 500! m.<br>Speed of Train P = !72! km/hr.<br>Speed of Train Q = !63! km/hr.<br>Since both are running in the same direction, relative speed = !72 - 63 = 9! km/hr.<br>Convert relative speed into m/s = !9 \\\\times \\\\dfrac{5}{18} = \\\\dfrac{5}{2} = 2.5! m/s.<br>Time taken by Train P to cross Train Q = !\\\\dfrac{\\\\text{Total Distance}}{\\\\text{Relative Speed}}!<br>!\\\\Rightarrow \\\\text{Time} = \\\\dfrac{500}{2.5} = 200! seconds.<br><br><b>Solution (HI):</b><br>ट्रेन P की लंबाई = !280! m.<br>ट्रेन Q की लंबाई = !220! m.<br>पार करने के लिए कुल दूरी = !280 + 220 = 500! m.<br>ट्रेन P की गति = !72! km/hr.<br>ट्रेन Q की गति = !63! km/hr.<br>चूंकि दोनों एक ही दिशा में चल रही हैं, सापेक्ष गति = !72 - 63 = 9! km/hr.<br>सापेक्ष गति को m/s में बदलें = !9 \\\\times \\\\dfrac{5}{18} = \\\\dfrac{5}{2} = 2.5! m/s.<br>ट्रेन P द्वारा ट्रेन Q को पार करने में लगा समय = !\\\\dfrac{\\\\text{कुल दूरी}}{\\\\text{सापेक्ष गति}}!<br>!\\\\Rightarrow \\\\text{समय} = \\\\dfrac{500}{2.5} = 200! सेकंड।<br><br><b>Short Trick:</b><br>!\\\\text{Time} = \\\\dfrac{280 + 220}{(72 - 63) \\\\times \\\\dfrac{5}{18}} = \\\\dfrac{500}{9 \\\\times \\\\dfrac{5}{18}} = \\\\dfrac{500}{2.5} = 200! seconds.<br><br><b>Final Answer:</b> !200! seconds"
+  },
+  {
+    "section": "Quantitative Aptitude",
+    "topic": "Relative Speed",
+    "difficulty": "Easy",
+    "q_en": "Two trains are running in the same direction at speeds of 88 km/hr and 73 km/hr. What is the relative speed between the two trains?",
+    "q_hi": "दो ट्रेनें समान दिशा में 88 किमी/घंटा और 73 किमी/घंटा की गति से चल रही हैं। दोनों ट्रेनों के बीच सापेक्ष गति क्या है?",
+    "op_en": [
+      "12 km/hr",
+      "15 km/hr",
+      "18 km/hr",
+      "20 km/hr"
+    ],
+    "op_hi": [
+      "12 किमी/घंटा",
+      "15 किमी/घंटा",
+      "18 किमी/घंटा",
+      "20 किमी/घंटा"
+    ],
+    "ans": 2,
+    "solution": "<b>Solution (EN):</b><br>Speed of the first train = !88! km/hr.<br>Speed of the second train = !73! km/hr.<br>When two objects are moving in the same direction, their relative speed is the difference between their individual speeds.<br>Relative Speed = !88 - 73 = 15! km/hr.<br><br><b>Solution (HI):</b><br>पहली ट्रेन की गति = !88! km/hr.<br>दूसरी ट्रेन की गति = !73! km/hr.<br>जब दो वस्तुएं एक ही दिशा में चल रही होती हैं, तो उनकी सापेक्ष गति उनकी व्यक्तिगत गति का अंतर होती है।<br>सापेक्ष गति = !88 - 73 = 15! km/hr.<br><br><b>Short Trick:</b><br>!\\\\text{Relative Speed} = S_1 - S_2 = 88 - 73 = 15! km/hr.<br><br><b>Final Answer:</b> !15! km/hr"
+  },
+  {
+    "section": "Quantitative Aptitude",
+    "topic": "Time, Speed and Distance",
+    "difficulty": "Medium",
+    "q_en": "Excluding stoppages, the speed of a train is 72 km/hr and including stoppages, it is 63 km/hr. For how many minutes does the train stop per hour?",
+    "q_hi": "ठहराव को छोड़कर एक ट्रेन की गति 72 किमी/घंटा है और ठहराव सहित, यह 63 किमी/घंटा है। प्रति घंटे ट्रेन कितने मिनट के लिए रुकती है?",
+    "op_en": [
+      "6 minutes",
+      "7.5 minutes",
+      "8 minutes",
+      "9 minutes"
+    ],
+    "op_hi": [
+      "6 मिनट",
+      "7.5 मिनट",
+      "8 मिनट",
+      "9 मिनट"
+    ],
+    "ans": 2,
+    "solution": "<b>Solution (EN):</b><br>Speed of the train without stoppages = !72! km/hr.<br>Speed of the train with stoppages = !63! km/hr.<br>Loss in distance per hour due to stoppages = !72 - 63 = 9! km.<br>This means the train covers !9! km less in one hour because it stops.<br>Time taken to cover this !9! km at original speed = !\\\\dfrac{\\\\text{Distance}}{\\\\text{Speed without stoppage}}!<br>!\\\\Rightarrow \\\\text{Time} = \\\\dfrac{9}{72}! hours.<br>Convert hours to minutes = !\\\\dfrac{9}{72} \\\\times 60 = \\\\dfrac{1}{8} \\\\times 60 = 7.5! minutes.<br>So, the train stops for !7.5! minutes per hour.<br><br><b>Solution (HI):</b><br>ठहराव के बिना ट्रेन की गति = !72! km/hr.<br>ठहराव के साथ ट्रेन की गति = !63! km/hr.<br>ठहराव के कारण प्रति घंटे दूरी में कमी = !72 - 63 = 9! km.<br>इसका मतलब है कि ट्रेन रुकने के कारण एक घंटे में !9! किमी कम चलती है।<br>इस !9! किमी को मूल गति से तय करने में लगा समय = !\\\\dfrac{\\\\text{दूरी}}{\\\\text{ठहराव के बिना गति}}!<br>!\\\\Rightarrow \\\\text{समय} = \\\\dfrac{9}{72}! घंटे।<br>घंटों को मिनटों में बदलें = !\\\\dfrac{9}{72} \\\\times 60 = \\\\dfrac{1}{8} \\\\times 60 = 7.5! मिनट।<br>अतः, ट्रेन प्रति घंटे !7.5! मिनट के लिए रुकती है।<br><br><b>Short Trick:</b><br>!\\\\text{Stop time (in min)} = \\\\dfrac{\\\\text{Difference in speed}}{\\\\text{Speed without stoppage}} \\\\times 60!<br>!\\\\Rightarrow \\\\dfrac{72 - 63}{72} \\\\times 60 = \\\\dfrac{9}{72} \\\\times 60 = \\\\dfrac{60}{8} = 7.5! minutes.<br><br><b>Final Answer:</b> !7.5! minutes"
+  },
+  {
+    "section": "Quantitative Aptitude",
+    "topic": "Average Speed",
+    "difficulty": "Medium",
+    "q_en": "A train travels 90 km at a speed of 45 km/hr and another 90 km at a speed of 75 km/hr. What is the average speed of the train for the entire journey?",
+    "q_hi": "एक ट्रेन 90 किलोमीटर की यात्रा 45 किमी/घंटा की गति से और अन्य 90 किलोमीटर की यात्रा 75 किमी/घंटा की गति से करती है। पूरी यात्रा के लिए ट्रेन की औसत गति क्या है?",
+    "op_en": [
+      "55.50 km/hr",
+      "56.25 km/hr",
+      "60.00 km/hr",
+      "62.50 km/hr"
+    ],
+    "op_hi": [
+      "55.50 किमी/घंटा",
+      "56.25 किमी/घंटा",
+      "60.00 किमी/घंटा",
+      "62.50 किमी/घंटा"
+    ],
+    "ans": 2,
+    "solution": "<b>Solution (EN):</b><br>Since the distance covered in both parts of the journey is the same (!90! km), we can use the direct formula for average speed.<br>Let speed !x = 45! km/hr and speed !y = 75! km/hr.<br>!\\\\text{Average Speed} = \\\\dfrac{2xy}{x + y}!<br>!\\\\Rightarrow \\\\text{Average Speed} = \\\\dfrac{2 \\\\times 45 \\\\times 75}{45 + 75}!<br>!\\\\Rightarrow \\\\text{Average Speed} = \\\\dfrac{6,750}{120}!<br>!\\\\Rightarrow \\\\text{Average Speed} = \\\\dfrac{675}{12} = 56.25! km/hr.<br><br><b>Solution (HI):</b><br>चूंकि यात्रा के दोनों भागों में तय की गई दूरी समान (!90! km) है, हम औसत गति के लिए सीधे सूत्र का उपयोग कर सकते हैं।<br>माना गति !x = 45! km/hr और गति !y = 75! km/hr.<br>!\\\\text{औसत गति} = \\\\dfrac{2xy}{x + y}!<br>!\\\\Rightarrow \\\\text{औसत गति} = \\\\dfrac{2 \\\\times 45 \\\\times 75}{45 + 75}!<br>!\\\\Rightarrow \\\\text{औसत गति} = \\\\dfrac{6,750}{120}!<br>!\\\\Rightarrow \\\\text{औसत गति} = \\\\dfrac{675}{12} = 56.25! km/hr.<br><br><b>Short Trick:</b><br>!\\\\text{Avg Speed} = \\\\dfrac{2 \\\\times 45 \\\\times 75}{120} = \\\\dfrac{45 \\\\times 75}{60} = \\\\dfrac{3 \\\\times 75}{4} = \\\\dfrac{225}{4} = 56.25! km/hr.<br><br><b>Final Answer:</b> !56.25! km/hr"
+  },
+  {
+    "section": "Quantitative Aptitude",
+    "topic": "Trains",
+    "difficulty": "Medium",
+    "q_en": "Two trains X and Y are traveling towards each other on parallel tracks at speeds of 78 km/hr and 48 km/hr respectively. The guard of train Y observed that train X took exactly 8 seconds to cross him. Find the length of train X.",
+    "q_hi": "दो ट्रेनें X और Y समानांतर पटरियों पर एक-दूसरे की ओर क्रमशः 78 किमी/घंटा और 48 किमी/घंटा की गति से यात्रा कर रही हैं। ट्रेन Y के गार्ड ने देखा कि ट्रेन X को उसे पार करने में ठीक 8 सेकंड का समय लगा। ट्रेन X की लंबाई ज्ञात कीजिए।",
+    "op_en": [
+      "240 meters",
+      "260 meters",
+      "280 meters",
+      "300 meters"
+    ],
+    "op_hi": [
+      "240 मीटर",
+      "260 मीटर",
+      "280 मीटर",
+      "300 मीटर"
+    ],
+    "ans": 3,
+    "solution": "<b>Solution (EN):</b><br>The guard is sitting in train Y. Train X crosses the guard, which means the distance to be covered is only the length of Train X.<br>Speed of Train X = !78! km/hr.<br>Speed of Train Y = !48! km/hr.<br>Since they are moving towards each other, relative speed = !78 + 48 = 126! km/hr.<br>Convert relative speed into m/s = !126 \\\\times \\\\dfrac{5}{18} = 7 \\\\times 5 = 35! m/s.<br>Time taken to cross the guard = !8! seconds.<br>Length of Train X = !\\\\text{Relative Speed} \\\\times \\\\text{Time}!<br>!\\\\Rightarrow \\\\text{Length} = 35 \\\\times 8 = 280! meters.<br><br><b>Solution (HI):</b><br>गार्ड ट्रेन Y में बैठा है। ट्रेन X गार्ड को पार करती है, जिसका अर्थ है कि तय की जाने वाली दूरी केवल ट्रेन X की लंबाई है।<br>ट्रेन X की गति = !78! km/hr.<br>ट्रेन Y की गति = !48! km/hr.<br>चूंकि वे एक-दूसरे की ओर बढ़ रही हैं, सापेक्ष गति = !78 + 48 = 126! km/hr.<br>सापेक्ष गति को m/s में बदलें = !126 \\\\times \\\\dfrac{5}{18} = 7 \\\\times 5 = 35! m/s.<br>गार्ड को पार करने में लगा समय = !8! सेकंड।<br>ट्रेन X की लंबाई = !\\\\text{सापेक्ष गति} \\\\times \\\\text{समय}!<br>!\\\\Rightarrow \\\\text{लंबाई} = 35 \\\\times 8 = 280! मीटर।<br><br><b>Short Trick:</b><br>!\\\\text{Length} = (78 + 48) \\\\times \\\\dfrac{5}{18} \\\\times 8 = 126 \\\\times \\\\dfrac{5}{18} \\\\times 8 = 35 \\\\times 8 = 280! meters.<br><br><b>Final Answer:</b> !280! meters"
+  },
+  {
+    "section": "Quantitative Aptitude",
+    "topic": "Trains",
+    "difficulty": "Easy",
+    "q_en": "Two trains 240 meters and 300 meters long are running in opposite directions at speeds of 63 km/hr and 81 km/hr respectively. Find the time taken (in seconds) for them to cross each other.",
+    "q_hi": "240 मीटर और 300 मीटर लंबी दो ट्रेनें विपरीत दिशाओं में क्रमशः 63 किमी/घंटा और 81 किमी/घंटा की गति से चल रही हैं। उन्हें एक-दूसरे को पार करने में लगने वाला समय (सेकंड में) ज्ञात कीजिए।",
+    "op_en": [
+      "12.5",
+      "13.5",
+      "14.5",
+      "15.0"
+    ],
+    "op_hi": [
+      "12.5",
+      "13.5",
+      "14.5",
+      "15.0"
+    ],
+    "ans": 2,
+    "solution": "<b>Solution (EN):</b><br>Length of first train = !240! m.<br>Length of second train = !300! m.<br>Total distance to be covered = !240 + 300 = 540! m.<br>Speed of first train = !63! km/hr.<br>Speed of second train = !81! km/hr.<br>Since they are moving in opposite directions, relative speed = !63 + 81 = 144! km/hr.<br>Convert relative speed into m/s = !144 \\\\times \\\\dfrac{5}{18} = 8 \\\\times 5 = 40! m/s.<br>Time taken to cross each other = !\\\\dfrac{\\\\text{Total Distance}}{\\\\text{Relative Speed}}!<br>!\\\\Rightarrow \\\\text{Time} = \\\\dfrac{540}{40} = 13.5! seconds.<br><br><b>Solution (HI):</b><br>पहली ट्रेन की लंबाई = !240! m.<br>दूसरी ट्रेन की लंबाई = !300! m.<br>तय की जाने वाली कुल दूरी = !240 + 300 = 540! m.<br>पहली ट्रेन की गति = !63! km/hr.<br>दूसरी ट्रेन की गति = !81! km/hr.<br>चूंकि वे विपरीत दिशाओं में चल रही हैं, सापेक्ष गति = !63 + 81 = 144! km/hr.<br>सापेक्ष गति को m/s में बदलें = !144 \\\\times \\\\dfrac{5}{18} = 8 \\\\times 5 = 40! m/s.<br>एक-दूसरे को पार करने में लगा समय = !\\\\dfrac{\\\\text{कुल दूरी}}{\\\\text{सापेक्ष गति}}!<br>!\\\\Rightarrow \\\\text{समय} = \\\\dfrac{540}{40} = 13.5! सेकंड।<br><br><b>Short Trick:</b><br>!\\\\text{Time} = \\\\dfrac{240 + 300}{(63 + 81) \\\\times \\\\dfrac{5}{18}} = \\\\dfrac{540}{144 \\\\times \\\\dfrac{5}{18}} = \\\\dfrac{540}{40} = 13.5! seconds.<br><br><b>Final Answer:</b> !13.5! seconds"
+  }
+]
