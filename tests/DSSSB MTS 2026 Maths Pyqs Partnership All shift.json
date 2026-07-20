@@ -1,0 +1,548 @@
+[
+  {
+    "section": "Maths",
+    "topic": "Partnership",
+    "difficulty": "Medium",
+    "q_en": "Three friends A, B, and C invest in a business. A invests ₹ 60,000 for 10 months, B invests ₹ 75,000 for 8 months, and C joins later with ₹ 90,000 for a certain number of months. At the end of the venture, A's portion of the profit amounts to one-fourth of the total earnings. For what duration did C invest?",
+    "q_hi": "तीन मित्र A, B, और C एक व्यवसाय में निवेश करते हैं। A, 10 महीने के लिए ₹ 60,000 का निवेश करता है, B, 8 महीने के लिए ₹ 75,000 का निवेश करता है, और C कुछ महीनों के लिए ₹ 90,000 के साथ बाद में जुड़ता है। उद्यम के अंत में, लाभ का A का हिस्सा कुल कमाई का एक-चौथाई है। C ने कितनी अवधि के लिए निवेश किया?",
+    "op_en": [
+      "!10! months",
+      "!12! months",
+      "!\\\\dfrac{40}{3}! months",
+      "!15! months"
+    ],
+    "op_hi": [
+      "!10! महीने",
+      "!12! महीने",
+      "!\\\\dfrac{40}{3}! महीने",
+      "!15! महीने"
+    ],
+    "ans": 3,
+    "solution": "<b>Solution (EN):</b><br>Let the duration for which C invested be !x! months.<br>Investment equivalent of A = !60,000 \\\\times 10 = 6,00,000!<br>Investment equivalent of B = !75,000 \\\\times 8 = 6,00,000!<br>Investment equivalent of C = !90,000 \\\\times x = 90,000x!<br>Total investment equivalent = !6,00,000 + 6,00,000 + 90,000x = 12,00,000 + 90,000x!<br>We are given that A's share is !\\\\dfrac{1}{4}! of the total profit.<br>Therefore, !\\\\dfrac{6,00,000}{12,00,000 + 90,000x} = \\\\dfrac{1}{4}!<br>!\\\\Rightarrow 24,00,000 = 12,00,000 + 90,000x!<br>!\\\\Rightarrow 12,00,000 = 90,000x!<br>!\\\\Rightarrow x = \\\\dfrac{120}{9} = \\\\dfrac{40}{3}! months.<br><br><b>Solution (HI):</b><br>मान लीजिए कि C ने !x! महीने के लिए निवेश किया।<br>A का निवेश समतुल्य = !60,000 \\\\times 10 = 6,00,000!<br>B का निवेश समतुल्य = !75,000 \\\\times 8 = 6,00,000!<br>C का निवेश समतुल्य = !90,000 \\\\times x = 90,000x!<br>कुल निवेश समतुल्य = !6,00,000 + 6,00,000 + 90,000x = 12,00,000 + 90,000x!<br>प्रश्न के अनुसार, A का लाभ कुल लाभ का !\\\\dfrac{1}{4}! है।<br>इसलिए, !\\\\dfrac{6,00,000}{12,00,000 + 90,000x} = \\\\dfrac{1}{4}!<br>!\\\\Rightarrow 24,00,000 = 12,00,000 + 90,000x!<br>!\\\\Rightarrow 12,00,000 = 90,000x!<br>!\\\\Rightarrow x = \\\\dfrac{120}{9} = \\\\dfrac{40}{3}! महीने।<br><br><b>Short Trick:</b><br>Ratio of A, B, C = !(60 \\\\times 10) : (75 \\\\times 8) : (90 \\\\times x) = 600 : 600 : 90x = 20 : 20 : 3x!<br>A's share = !\\\\dfrac{1}{4}! means Total = !4 \\\\times A!<br>Total ratio = !4 \\\\times 20 = 80!<br>So, !20 + 20 + 3x = 80 \\\\Rightarrow 3x = 40 \\\\Rightarrow x = \\\\dfrac{40}{3}! months.<br><br><b>Final Answer:</b> !\\\\dfrac{40}{3}!"
+  },
+  {
+    "section": "Maths",
+    "topic": "Partnership",
+    "difficulty": "Easy",
+    "q_en": "Aman and Babu are partners in a business. At the beginning of the year, Aman invested ₹ 80,000 and Babu invested ₹ 40,000. During the year, Aman withdrew 20,000 from his capital after 6 months. The total profit for the year is ₹ 66,000. What will be the profit share of Aman at the end of the year?",
+    "q_hi": "अमन और बाबू एक व्यवसाय में भागीदार हैं। वर्ष की शुरुआत में, अमन ने ₹ 80,000 का निवेश किया और बाबू ने ₹ 40,000 का निवेश किया। वर्ष के दौरान, अमन ने 6 महीने बाद अपनी पूंजी से ₹ 20,000 निकाल लिए। वर्ष के लिए कुल लाभ ₹ 66,000 है। वर्ष के अंत में अमन के लाभ का हिस्सा क्या होगा?",
+    "op_en": [
+      "₹ !38,000!",
+      "₹ !40,000!",
+      "₹ !42,000!",
+      "₹ !45,000!"
+    ],
+    "op_hi": [
+      "₹ !38,000!",
+      "₹ !40,000!",
+      "₹ !42,000!",
+      "₹ !45,000!"
+    ],
+    "ans": 3,
+    "solution": "<b>Solution (EN):</b><br>Aman's investment equivalent for the year = !(80,000 \\\\times 6) + ((80,000 - 20,000) \\\\times 6)!<br>!= 4,80,000 + (60,000 \\\\times 6) = 4,80,000 + 3,60,000 = 8,40,000!<br>Babu's investment equivalent for the year = !40,000 \\\\times 12 = 4,80,000!<br>Ratio of profits of Aman and Babu = !8,40,000 : 4,80,000!<br>!\\\\Rightarrow 84 : 48 = 7 : 4!<br>Total profit = ₹ !66,000!<br>Aman's share = !\\\\dfrac{7}{7 + 4} \\\\times 66,000!<br>!\\\\Rightarrow \\\\dfrac{7}{11} \\\\times 66,000 = 7 \\\\times 6,000 = 42,000!<br><br><b>Solution (HI):</b><br>अमन का वर्ष भर का निवेश समतुल्य = !(80,000 \\\\times 6) + ((80,000 - 20,000) \\\\times 6)!<br>!= 4,80,000 + (60,000 \\\\times 6) = 4,80,000 + 3,60,000 = 8,40,000!<br>बाबू का वर्ष भर का निवेश समतुल्य = !40,000 \\\\times 12 = 4,80,000!<br>अमन और बाबू के लाभ का अनुपात = !8,40,000 : 4,80,000!<br>!\\\\Rightarrow 84 : 48 = 7 : 4!<br>कुल लाभ = ₹ !66,000!<br>अमन का हिस्सा = !\\\\dfrac{7}{7 + 4} \\\\times 66,000!<br>!\\\\Rightarrow \\\\dfrac{7}{11} \\\\times 66,000 = 7 \\\\times 6,000 = 42,000!<br><br><b>Short Trick:</b><br>Effective Ratio = !(8 \\\\times 6 + 6 \\\\times 6) : (4 \\\\times 12)!<br>!= (48 + 36) : 48 = 84 : 48 = 7 : 4!<br>Aman's Share = !\\\\dfrac{7}{11} \\\\times 66,000 = 42,000!<br><br><b>Final Answer:</b> !42,000!"
+  },
+  {
+    "section": "Maths",
+    "topic": "Partnership",
+    "difficulty": "Hard",
+    "q_en": "Leena and Kareena entered into a partnership with investment in the ratio 4:5. Meena also joined the partnership with some investment at the same time. After 3 months, Leena withdrew one-fourth and Kareena withdrew one-fifth of their respective investments. If the gain at the end of 10 months is 7,480, find Meena's share (in ₹) in the profit if Leena's share is 1,815.",
+    "q_hi": "लीना और करीना ने 4:5 के अनुपात में निवेश के साथ एक साझेदारी में प्रवेश किया। मीना भी उसी समय कुछ निवेश के साथ साझेदारी में शामिल हुई। 3 महीने बाद, लीना ने अपने निवेश का एक-चौथाई और करीना ने अपने निवेश का एक-पांचवां हिस्सा निकाल लिया। यदि 10 महीने के अंत में लाभ ₹ 7,480 है, तो लाभ में मीना का हिस्सा (₹ में) ज्ञात कीजिए यदि लीना का हिस्सा ₹ 1,815 है।",
+    "op_en": [
+      "₹ !3,000!",
+      "₹ !3,200!",
+      "₹ !3,300!",
+      "₹ !3,500!"
+    ],
+    "op_hi": [
+      "₹ !3,000!",
+      "₹ !3,200!",
+      "₹ !3,300!",
+      "₹ !3,500!"
+    ],
+    "ans": 3,
+    "solution": "<b>Solution (EN):</b><br>Let the initial investments of Leena and Kareena be !4x! and !5x! respectively, and Meena's investment be !y!.<br>Total duration = !10! months.<br>Leena's equivalent investment = !4x \\\\times 3 + (4x - 1x) \\\\times 7 = 12x + 21x = 33x!<br>Kareena's equivalent investment = !5x \\\\times 3 + (5x - 1x) \\\\times 7 = 15x + 28x = 43x!<br>Meena's equivalent investment = !y \\\\times 10 = 10y!<br>Total profit = ₹ !7,480!, Leena's share = ₹ !1,815!.<br>Leena's share / Total profit = !\\\\dfrac{33x}{33x + 43x + 10y} = \\\\dfrac{1815}{7480}!<br>!\\\\Rightarrow \\\\dfrac{33x}{76x + 10y} = \\\\dfrac{363}{1496} = \\\\dfrac{33}{136}!<br>!\\\\Rightarrow \\\\dfrac{x}{76x + 10y} = \\\\dfrac{1}{136}!<br>!\\\\Rightarrow 136x = 76x + 10y \\\\Rightarrow 60x = 10y \\\\Rightarrow y = 6x!<br>So, Meena's equivalent investment = !10y = 10(6x) = 60x!.<br>Total profit ratio = !33x : 43x : 60x!.<br>Total units = !33 + 43 + 60 = 136! units.<br>!136 \\\\text{ units} = 7,480!<br>!\\\\Rightarrow 1 \\\\text{ unit} = \\\\dfrac{7480}{136} = 55!<br>Meena's share = !60 \\\\text{ units} = 60 \\\\times 55 = 3,300!.<br><br><b>Solution (HI):</b><br>मान लीजिए कि लीना और करीना का प्रारंभिक निवेश क्रमशः !4x! और !5x! है, तथा मीना का निवेश !y! है।<br>कुल समय = !10! महीने।<br>लीना का समतुल्य निवेश = !4x \\\\times 3 + (4x - 1x) \\\\times 7 = 12x + 21x = 33x!<br>करीना का समतुल्य निवेश = !5x \\\\times 3 + (5x - 1x) \\\\times 7 = 15x + 28x = 43x!<br>मीना का समतुल्य निवेश = !y \\\\times 10 = 10y!<br>कुल लाभ = ₹ !7,480!, लीना का हिस्सा = ₹ !1,815!।<br>लीना का हिस्सा / कुल लाभ = !\\\\dfrac{33x}{33x + 43x + 10y} = \\\\dfrac{1815}{7480}!<br>!\\\\Rightarrow \\\\dfrac{33x}{76x + 10y} = \\\\dfrac{33}{136}!<br>!\\\\Rightarrow 136x = 76x + 10y \\\\Rightarrow 60x = 10y \\\\Rightarrow y = 6x!<br>मीना का समतुल्य निवेश = !10y = 10(6x) = 60x!।<br>कुल लाभ अनुपात = !33x : 43x : 60x!।<br>कुल इकाई = !33 + 43 + 60 = 136! इकाई।<br>!136 \\\\text{ इकाई} = 7,480 \\\\Rightarrow 1 \\\\text{ इकाई} = 55!<br>मीना का लाभ = !60 \\\\times 55 = 3,300!।<br><br><b>Short Trick:</b><br>Leena's ratio units = !33!, Value = !1,815!<br>!\\\\Rightarrow 1 \\\\text{ unit} = \\\\dfrac{1815}{33} = 55!<br>Total units = !\\\\dfrac{7480}{55} = 136!<br>Meena's units = !136 - 33 (Leena) - 43 (Kareena) = 60!<br>Meena's profit = !60 \\\\times 55 = 3,300!<br><br><b>Final Answer:</b> !3,300!"
+  },
+  {
+    "section": "Maths",
+    "topic": "Partnership",
+    "difficulty": "Easy",
+    "q_en": "A and B invest in a business in the ratio 3:2. If 5% of the total profit goes to charity and A's share is 684, then the total profit is:",
+    "q_hi": "A और B एक व्यवसाय में 3:2 के अनुपात में निवेश करते हैं। यदि कुल लाभ का 5% दान में जाता है और A का हिस्सा ₹ 684 है, तो कुल लाभ क्या है?",
+    "op_en": [
+      "₹ !1,000!",
+      "₹ !1,200!",
+      "₹ !1,400!",
+      "₹ !1,500!"
+    ],
+    "op_hi": [
+      "₹ !1,000!",
+      "₹ !1,200!",
+      "₹ !1,400!",
+      "₹ !1,500!"
+    ],
+    "ans": 2,
+    "solution": "<b>Solution (EN):</b><br>Let the total profit be !P!.<br>Since !5\\\\%! goes to charity, the remaining profit to be distributed is !95\\\\%! of !P! = !0.95P!.<br>The ratio of investments of A and B is !3:2!. So, the profit will be shared in this ratio.<br>A's share = !\\\\dfrac{3}{5}! of the distributed profit.<br>!\\\\Rightarrow \\\\dfrac{3}{5} \\\\times 0.95P = 684!<br>!\\\\Rightarrow 0.6 \\\\times 0.95P = 684!<br>!\\\\Rightarrow 0.57P = 684!<br>!\\\\Rightarrow P = \\\\dfrac{684}{0.57} = \\\\dfrac{68400}{57} = 1,200!<br>Therefore, the total profit is ₹ !1,200!.<br><br><b>Solution (HI):</b><br>मान लीजिए कि कुल लाभ !P! है।<br>चूंकि !5\\\\%! दान में जाता है, वितरित किया जाने वाला शेष लाभ !P! का !95\\\\%! = !0.95P! है।<br>A और B के निवेश का अनुपात !3:2! है। इसलिए, लाभ इसी अनुपात में बांटा जाएगा।<br>A का हिस्सा = वितरित लाभ का !\\\\dfrac{3}{5}!।<br>!\\\\Rightarrow \\\\dfrac{3}{5} \\\\times 0.95P = 684!<br>!\\\\Rightarrow 0.6 \\\\times 0.95P = 684!<br>!\\\\Rightarrow 0.57P = 684!<br>!\\\\Rightarrow P = \\\\dfrac{684}{0.57} = \\\\dfrac{68400}{57} = 1,200!<br>अतः, कुल लाभ ₹ !1,200! है।<br><br><b>Short Trick:</b><br>A's share out of !95\\\\%! = !\\\\dfrac{3}{5} \\\\times 95\\\\% = 57\\\\%! of total.<br>!57\\\\% = 684 \\\\Rightarrow 1\\\\% = 12 \\\\Rightarrow 100\\\\% = 1,200!<br><br><b>Final Answer:</b> !1,200!"
+  },
+  {
+    "section": "Maths",
+    "topic": "Partnership",
+    "difficulty": "Medium",
+    "q_en": "Three friends M, N, and O shared the profit in a business in the ratio 8:10:11. They had invested their money for 18 months, 10 months, and 9 months, respectively. If the total investment in the business was ₹ 9,60,000, what was M's investment?",
+    "q_hi": "तीन दोस्तों M, N और O ने एक व्यवसाय में लाभ को 8:10:11 के अनुपात में साझा किया। उन्होंने क्रमशः 18 महीने, 10 महीने और 9 महीने के लिए अपना पैसा निवेश किया था। यदि व्यवसाय में कुल निवेश ₹ 9,60,000 था, तो M का निवेश कितना था?",
+    "op_en": [
+      "₹ !1,20,000!",
+      "₹ !1,50,000!",
+      "₹ !1,60,000!",
+      "₹ !1,80,000!"
+    ],
+    "op_hi": [
+      "₹ !1,20,000!",
+      "₹ !1,50,000!",
+      "₹ !1,60,000!",
+      "₹ !1,80,000!"
+    ],
+    "ans": 3,
+    "solution": "<b>Solution (EN):</b><br>We know that Profit = Investment !\\\\times! Time.<br>Therefore, Investment !\\\\propto \\\\dfrac{\\\\text{Profit}}{\\\\text{Time}}!<br>Ratio of Profits of M, N, O = !8 : 10 : 11!<br>Ratio of Time periods = !18 : 10 : 9!<br>Ratio of Investments of M, N, O = !\\\\dfrac{8}{18} : \\\\dfrac{10}{10} : \\\\dfrac{11}{9}!<br>!\\\\Rightarrow \\\\dfrac{4}{9} : 1 : \\\\dfrac{11}{9}!<br>To simplify, multiply by !9!:<br>!\\\\Rightarrow 4 : 9 : 11!<br>Sum of the investment ratio = !4 + 9 + 11 = 24!<br>Total investment = ₹ !9,60,000!<br>M's investment = !\\\\dfrac{4}{24} \\\\times 9,60,000 = \\\\dfrac{1}{6} \\\\times 9,60,000!<br>!\\\\Rightarrow 1,60,000!<br><br><b>Solution (HI):</b><br>हम जानते हैं कि लाभ = निवेश !\\\\times! समय।<br>इसलिए, निवेश !\\\\propto \\\\dfrac{\\\\text{लाभ}}{\\\\text{समय}}!<br>M, N, O के लाभ का अनुपात = !8 : 10 : 11!<br>समय का अनुपात = !18 : 10 : 9!<br>M, N, O के निवेश का अनुपात = !\\\\dfrac{8}{18} : \\\\dfrac{10}{10} : \\\\dfrac{11}{9}!<br>!\\\\Rightarrow \\\\dfrac{4}{9} : 1 : \\\\dfrac{11}{9}!<br>सरल करने के लिए, !9! से गुणा करें:<br>!\\\\Rightarrow 4 : 9 : 11!<br>निवेश अनुपात का योग = !4 + 9 + 11 = 24!<br>कुल निवेश = ₹ !9,60,000!<br>M का निवेश = !\\\\dfrac{4}{24} \\\\times 9,60,000 = \\\\dfrac{1}{6} \\\\times 9,60,000!<br>!\\\\Rightarrow 1,60,000!<br><br><b>Short Trick:</b><br>Investment Ratio = !\\\\dfrac{8}{18} : \\\\dfrac{10}{10} : \\\\dfrac{11}{9} = 4 : 9 : 11!<br>Total units = !24 \\\\equiv 9,60,000!<br>M (!4 \\\\text{ units}!) = !\\\\dfrac{9,60,000}{6} = 1,60,000!<br><br><b>Final Answer:</b> !1,60,000!"
+  },
+  {
+    "section": "Maths",
+    "topic": "Partnership",
+    "difficulty": "Hard",
+    "q_en": "A, B and C started a business and each invested ₹ 8,800. After 2 months, A and C both invested ₹ 740 and ₹ 570 more, respectively, and B withdrew ₹ 4,500. At the end of the year, a total profit of ₹ 9,768 was earned. What is C's share (in ₹)?",
+    "q_hi": "A, B और C ने एक व्यवसाय शुरू किया और प्रत्येक ने ₹ 8,800 का निवेश किया। 2 महीने बाद, A और C ने क्रमशः ₹ 740 और ₹ 570 अधिक निवेश किए, और B ने ₹ 4,500 निकाल लिए। वर्ष के अंत में, कुल ₹ 9,768 का लाभ अर्जित किया गया। C का हिस्सा (₹ में) क्या है?",
+    "op_en": [
+      "₹ !3,600!",
+      "₹ !3,750!",
+      "₹ !3,816!",
+      "₹ !4,000!"
+    ],
+    "op_hi": [
+      "₹ !3,600!",
+      "₹ !3,750!",
+      "₹ !3,816!",
+      "₹ !4,000!"
+    ],
+    "ans": 3,
+    "solution": "<b>Solution (EN):</b><br>To find the profit share, we multiply the investment by the time period (in months).<br>A's effective investment = !(8,800 \\\\times 2) + ((8,800 + 740) \\\\times 10)!<br>!\\\\Rightarrow 17,600 + (9,540 \\\\times 10) = 17,600 + 95,400 = 1,13,000!<br>B's effective investment = !(8,800 \\\\times 2) + ((8,800 - 4,500) \\\\times 10)!<br>!\\\\Rightarrow 17,600 + (4,300 \\\\times 10) = 17,600 + 43,000 = 60,600!<br>C's effective investment = !(8,800 \\\\times 2) + ((8,800 + 570) \\\\times 10)!<br>!\\\\Rightarrow 17,600 + (9,370 \\\\times 10) = 17,600 + 93,700 = 1,11,300!<br>Ratio of their profits (A : B : C) = !1,13,000 : 60,600 : 1,11,300!<br>!\\\\Rightarrow 1130 : 606 : 1113!<br>Total units of profit = !1130 + 606 + 1113 = 2849! units.<br>Total profit = ₹ !9,768!<br>Value of !1! unit = !\\\\dfrac{9768}{2849} = \\\\dfrac{24}{7}!<br>C's share = !1113 \\\\times \\\\dfrac{24}{7} = 159 \\\\times 24 = 3,816!<br>Therefore, C's share is ₹ !3,816!.<br><br><b>Solution (HI):</b><br>लाभ का हिस्सा ज्ञात करने के लिए, हम निवेश को समय अवधि (महीनों में) से गुणा करते हैं।<br>A का प्रभावी निवेश = !(8,800 \\\\times 2) + ((8,800 + 740) \\\\times 10)!<br>!\\\\Rightarrow 17,600 + (9,540 \\\\times 10) = 17,600 + 95,400 = 1,13,000!<br>B का प्रभावी निवेश = !(8,800 \\\\times 2) + ((8,800 - 4,500) \\\\times 10)!<br>!\\\\Rightarrow 17,600 + (4,300 \\\\times 10) = 17,600 + 43,000 = 60,600!<br>C का प्रभावी निवेश = !(8,800 \\\\times 2) + ((8,800 + 570) \\\\times 10)!<br>!\\\\Rightarrow 17,600 + (9,370 \\\\times 10) = 17,600 + 93,700 = 1,11,300!<br>उनके लाभ का अनुपात (A : B : C) = !1,13,000 : 60,600 : 1,11,300!<br>!\\\\Rightarrow 1130 : 606 : 1113!<br>लाभ की कुल इकाइयाँ = !1130 + 606 + 1113 = 2849! इकाइयाँ।<br>कुल लाभ = ₹ !9,768!<br>!1! इकाई का मान = !\\\\dfrac{9768}{2849} = \\\\dfrac{24}{7}!<br>C का हिस्सा = !1113 \\\\times \\\\dfrac{24}{7} = 159 \\\\times 24 = 3,816!<br>अतः, C का हिस्सा ₹ !3,816! है।<br><br><b>Short Trick:</b><br>Profit Ratio = ![(88 \\\\times 2) + (95.4 \\\\times 10)] : [(88 \\\\times 2) + (43 \\\\times 10)] : [(88 \\\\times 2) + (93.7 \\\\times 10)]!<br>!\\\\Rightarrow 1130 : 606 : 1113!<br>Total = !2849! units !\\\\equiv 9,768!<br>C's Share = !\\\\dfrac{9768}{2849} \\\\times 1113 = 3,816!<br><br><b>Final Answer:</b> !3,816!"
+  },
+  {
+    "section": "Maths",
+    "topic": "Partnership",
+    "difficulty": "Medium",
+    "q_en": "A starts a cement trading business by investing 7 lakh. After 3 months, B joins the business by investing 12 lakh, and after another 3 months, C joins them by investing 22 lakh. After one year, they make ₹ 4,18,500 in profit. What is B's share in the profit (in ₹)?",
+    "q_hi": "A, 7 लाख रुपये का निवेश करके एक सीमेंट व्यापार व्यवसाय शुरू करता है। 3 महीने बाद, B, 12 लाख रुपये का निवेश करके व्यवसाय में शामिल हो जाता है, और अगले 3 महीने बाद, C, 22 लाख रुपये का निवेश करके उनके साथ जुड़ जाता है। एक वर्ष के बाद, वे ₹ 4,18,500 का लाभ कमाते हैं। लाभ में B का हिस्सा (₹ में) क्या है?",
+    "op_en": [
+      "₹ !1,20,500!",
+      "₹ !1,35,000!",
+      "₹ !1,39,500!",
+      "₹ !1,45,000!"
+    ],
+    "op_hi": [
+      "₹ !1,20,500!",
+      "₹ !1,35,000!",
+      "₹ !1,39,500!",
+      "₹ !1,45,000!"
+    ],
+    "ans": 3,
+    "solution": "<b>Solution (EN):</b><br>Investment of A = ₹ !7! Lakhs for !12! months.<br>Investment of B = ₹ !12! Lakhs for !(12 - 3) = 9! months.<br>Investment of C = ₹ !22! Lakhs for !(12 - 6) = 6! months.<br>Ratio of their profit shares = !(7 \\\\times 12) : (12 \\\\times 9) : (22 \\\\times 6)!<br>!\\\\Rightarrow 84 : 108 : 132!<br>Dividing by !12!:<br>!\\\\Rightarrow 7 : 9 : 11!<br>Sum of the profit ratios = !7 + 9 + 11 = 27! units.<br>Total Profit = ₹ !4,18,500!<br>!1! unit of profit = !\\\\dfrac{418500}{27} = 15,500!<br>B's share = !9! units = !9 \\\\times 15,500 = 1,39,500!<br><br><b>Solution (HI):</b><br>A का निवेश = ₹ !7! लाख, !12! महीने के लिए।<br>B का निवेश = ₹ !12! लाख, !(12 - 3) = 9! महीने के लिए।<br>C का निवेश = ₹ !22! लाख, !(12 - 6) = 6! महीने के लिए।<br>उनके लाभ के हिस्से का अनुपात = !(7 \\\\times 12) : (12 \\\\times 9) : (22 \\\\times 6)!<br>!\\\\Rightarrow 84 : 108 : 132!<br>!12! से विभाजित करने पर:<br>!\\\\Rightarrow 7 : 9 : 11!<br>लाभ के अनुपात का योग = !7 + 9 + 11 = 27! इकाइयाँ।<br>कुल लाभ = ₹ !4,18,500!<br>लाभ की !1! इकाई = !\\\\dfrac{418500}{27} = 15,500!<br>B का हिस्सा = !9! इकाइयाँ = !9 \\\\times 15,500 = 1,39,500!<br><br><b>Short Trick:</b><br>Profit Ratio = !7(12) : 12(9) : 22(6) = 84 : 108 : 132 = 7 : 9 : 11!<br>Total units = !27!<br>B's share = !\\\\dfrac{9}{27} \\\\times 4,18,500 = \\\\dfrac{1}{3} \\\\times 4,18,500 = 1,39,500!<br><br><b>Final Answer:</b> !1,39,500!"
+  },
+  {
+    "section": "Maths",
+    "topic": "Partnership",
+    "difficulty": "Medium",
+    "q_en": "A and B invest in a partnership business in the ratio 3:4. After 6 months, A withdraws 50% of his investment. If the profit at the end of one year is 5600, how much profit does A receive?",
+    "q_hi": "A और B एक साझेदारी व्यवसाय में 3:4 के अनुपात में निवेश करते हैं। 6 महीने बाद, A अपना 50% निवेश निकाल लेता है। यदि एक वर्ष के अंत में लाभ ₹ 5,600 है, तो A को कितना लाभ मिलता है?",
+    "op_en": [
+      "₹ !2,016!",
+      "₹ !2,116!",
+      "₹ !2,240!",
+      "₹ !2,400!"
+    ],
+    "op_hi": [
+      "₹ !2,016!",
+      "₹ !2,116!",
+      "₹ !2,240!",
+      "₹ !2,400!"
+    ],
+    "ans": 1,
+    "solution": "<b>Solution (EN):</b><br>Let the initial investment of A be !3x! and B be !4x!.<br>A's investment for the first !6! months = !3x \\\\times 6!<br>After !6! months, A withdraws !50\\\\%! of his investment, so the remaining investment is !1.5x!.<br>A's investment for the next !6! months = !1.5x \\\\times 6!<br>A's total equivalent investment = !(3x \\\\times 6) + (1.5x \\\\times 6) = 18x + 9x = 27x!<br>B's investment is constant for the whole year.<br>B's total equivalent investment = !4x \\\\times 12 = 48x!<br>Ratio of profit of A and B = !27x : 48x = 9 : 16!<br>Sum of ratios = !9 + 16 = 25! units.<br>Total profit = ₹ !5,600!<br>!25! units = !5,600!<br>!\\\\Rightarrow 1! unit = !\\\\dfrac{5600}{25} = 224!<br>A's profit share = !9! units = !9 \\\\times 224 = 2,016!<br><br><b>Solution (HI):</b><br>मान लीजिए कि A का प्रारंभिक निवेश !3x! और B का !4x! है।<br>पहले !6! महीनों के लिए A का निवेश = !3x \\\\times 6!<br>!6! महीने बाद, A अपना !50\\\\%! निवेश निकाल लेता है, इसलिए शेष निवेश !1.5x! है।<br>अगले !6! महीनों के लिए A का निवेश = !1.5x \\\\times 6!<br>A का कुल समतुल्य निवेश = !(3x \\\\times 6) + (1.5x \\\\times 6) = 18x + 9x = 27x!<br>B का निवेश पूरे वर्ष के लिए स्थिर है।<br>B का कुल समतुल्य निवेश = !4x \\\\times 12 = 48x!<br>A और B के लाभ का अनुपात = !27x : 48x = 9 : 16!<br>अनुपातों का योग = !9 + 16 = 25! इकाइयाँ।<br>कुल लाभ = ₹ !5,600!<br>!25! इकाइयाँ = !5,600!<br>!\\\\Rightarrow 1! इकाई = !\\\\dfrac{5600}{25} = 224!<br>A का लाभ = !9! इकाइयाँ = !9 \\\\times 224 = 2,016!<br><br><b>Short Trick:</b><br>Investment !\\\\times! Time ratio:<br>A : B = ![(3 \\\\times 6) + (1.5 \\\\times 6)] : (4 \\\\times 12)!<br>!\\\\Rightarrow 27 : 48 = 9 : 16!<br>A's Profit = !\\\\dfrac{9}{25} \\\\times 5,600 = 9 \\\\times 224 = 2,016!<br><br><b>Final Answer:</b> !2,016!"
+  },
+  {
+    "section": "Maths",
+    "topic": "Partnership",
+    "difficulty": "Medium",
+    "q_en": "A, B, and C are partners in a business. The partnership agreement states that profits and losses will be shared in the ratio 5:3:2. After a year of business, the partnership agreement is amended, and the new profit-sharing ratio is determined to be 2:2:1 for A, B, and C, respectively. At the end of the year, the total profit of the business is ₹ 18,00,000. A new partner, D, is admitted with an agreed share of one-fifth of the total profit. To ensure fairness, A, B, and C agree to re-adjust their respective shares based on the new ratio. After D is admitted, how much will C receive as their share of the total profit?",
+    "q_hi": "A, B और C एक व्यवसाय में भागीदार हैं। साझेदारी समझौते में कहा गया है कि लाभ और हानि 5:3:2 के अनुपात में साझा किए जाएंगे। व्यापार के एक वर्ष के बाद, साझेदारी समझौते में संशोधन किया जाता है, और A, B और C के लिए नया लाभ-साझाकरण अनुपात क्रमशः 2:2:1 निर्धारित किया जाता है। वर्ष के अंत में, व्यवसाय का कुल लाभ ₹ 18,00,000 है। एक नए भागीदार, D को कुल लाभ के एक-पांचवें हिस्से के साथ शामिल किया जाता है। निष्पक्षता सुनिश्चित करने के लिए, A, B और C नए अनुपात के आधार पर अपने संबंधित शेयरों को फिर से समायोजित करने के लिए सहमत होते हैं। D के शामिल होने के बाद, C को कुल लाभ के अपने हिस्से के रूप में कितना मिलेगा?",
+    "op_en": [
+      "₹ !2,50,000!",
+      "₹ !2,88,000!",
+      "₹ !3,00,000!",
+      "₹ !3,60,000!"
+    ],
+    "op_hi": [
+      "₹ !2,50,000!",
+      "₹ !2,88,000!",
+      "₹ !3,00,000!",
+      "₹ !3,60,000!"
+    ],
+    "ans": 2,
+    "solution": "<b>Solution (EN):</b><br>Total profit of the business at the end of the year = ₹ !18,00,000!<br>A new partner D is admitted with a share of !\\\\dfrac{1}{5}! of the total profit.<br>D's share = !\\\\dfrac{1}{5} \\\\times 18,00,000 = 3,60,000!<br>Remaining profit to be distributed among A, B, and C = !18,00,000 - 3,60,000 = 14,40,000!<br>According to the amended agreement, this remaining profit will be shared in the new ratio !2 : 2 : 1! among A, B, and C.<br>Sum of the new ratio = !2 + 2 + 1 = 5! units.<br>C's new share corresponds to !1! unit out of !5! units.<br>C's share in the profit = !\\\\dfrac{1}{5} \\\\times 14,40,000 = 2,88,000!<br>Note: The old ratio (!5:3:2!) is just extra information and is not required for the final calculation since the adjustment is based strictly on the newly agreed ratio.<br><br><b>Solution (HI):</b><br>वर्ष के अंत में व्यवसाय का कुल लाभ = ₹ !18,00,000!<br>एक नए भागीदार D को कुल लाभ के !\\\\dfrac{1}{5}! हिस्से के साथ शामिल किया जाता है।<br>D का हिस्सा = !\\\\dfrac{1}{5} \\\\times 18,00,000 = 3,60,000!<br>A, B और C के बीच वितरित किया जाने वाला शेष लाभ = !18,00,000 - 3,60,000 = 14,40,000!<br>संशोधित समझौते के अनुसार, इस शेष लाभ को A, B और C के बीच नए अनुपात !2 : 2 : 1! में साझा किया जाएगा।<br>नए अनुपात का योग = !2 + 2 + 1 = 5! इकाइयाँ।<br>C का नया हिस्सा !5! में से !1! इकाई से मेल खाता है।<br>लाभ में C का हिस्सा = !\\\\dfrac{1}{5} \\\\times 14,40,000 = 2,88,000!<br>नोट: पुराना अनुपात (!5:3:2!) केवल अतिरिक्त जानकारी है और अंतिम गणना के लिए इसकी आवश्यकता नहीं है क्योंकि समायोजन पूरी तरह से नए स्वीकृत अनुपात पर आधारित है।<br><br><b>Short Trick:</b><br>Remaining Profit after D's share = !18,00,000 \\\\times \\\\left(1 - \\\\dfrac{1}{5}\\\\right) = 14,40,000!<br>C's share in remaining profit = !\\\\dfrac{1}{2 + 2 + 1} = \\\\dfrac{1}{5}!<br>C's share = !\\\\dfrac{1}{5} \\\\times 14,40,000 = 2,88,000!<br><br><b>Final Answer:</b> !2,88,000!"
+  },
+  {
+    "section": "Maths",
+    "topic": "Partnership",
+    "difficulty": "Medium",
+    "q_en": "Yuvi, Tanisha, and Paarth started a business by investing ₹ 1,20,000, ₹ 2,00,000, and ₹ 1,80,000. Yuvi is working as manager and taking 10% of profit as salary. From the remaining profit, they all decided to share the profit in invested capital ratio. If the total profit earned is ₹ 1,75,000, then the profit share of Paarth is:",
+    "q_hi": "युवी, तनीषा और पार्थ ने क्रमशः ₹ 1,20,000, ₹ 2,00,000 और ₹ 1,80,000 का निवेश करके एक व्यवसाय शुरू किया। युवी प्रबंधक के रूप में काम कर रहा है और वेतन के रूप में लाभ का 10% ले रहा है। शेष लाभ में से, उन सभी ने निवेशित पूंजी के अनुपात में लाभ साझा करने का निर्णय लिया। यदि अर्जित कुल लाभ ₹ 1,75,000 है, तो पार्थ का लाभ का हिस्सा क्या है?",
+    "op_en": [
+      "₹ !50,000!",
+      "₹ !56,700!",
+      "₹ !60,000!",
+      "₹ !63,000!"
+    ],
+    "op_hi": [
+      "₹ !50,000!",
+      "₹ !56,700!",
+      "₹ !60,000!",
+      "₹ !63,000!"
+    ],
+    "ans": 2,
+    "solution": "<b>Solution (EN):</b><br>Total profit earned = ₹ !1,75,000!.<br>Yuvi's salary as a manager = !10\\\\%! of !1,75,000!<br>!\\\\Rightarrow \\\\dfrac{10}{100} \\\\times 1,75,000 = 17,500!<br>Remaining profit to be shared = !1,75,000 - 17,500 = 1,57,500!<br>Ratio of their investments = !1,20,000 : 2,00,000 : 1,80,000!<br>Dividing by !20,000!:<br>!\\\\Rightarrow 6 : 10 : 9!<br>Total units of investment = !6 + 10 + 9 = 25! units.<br>Paarth's share in the remaining profit = !\\\\dfrac{9}{25} \\\\times 1,57,500!<br>!\\\\Rightarrow 9 \\\\times 6,300 = 56,700!<br>Therefore, the profit share of Paarth is ₹ !56,700!.<br><br><b>Solution (HI):</b><br>अर्जित कुल लाभ = ₹ !1,75,000!।<br>प्रबंधक के रूप में युवी का वेतन = !1,75,000! का !10\\\\%!<br>!\\\\Rightarrow \\\\dfrac{10}{100} \\\\times 1,75,000 = 17,500!<br>साझा किया जाने वाला शेष लाभ = !1,75,000 - 17,500 = 1,57,500!<br>उनके निवेश का अनुपात = !1,20,000 : 2,00,000 : 1,80,000!<br>!20,000! से विभाजित करने पर:<br>!\\\\Rightarrow 6 : 10 : 9!<br>निवेश की कुल इकाइयाँ = !6 + 10 + 9 = 25! इकाइयाँ।<br>शेष लाभ में पार्थ का हिस्सा = !\\\\dfrac{9}{25} \\\\times 1,57,500!<br>!\\\\Rightarrow 9 \\\\times 6,300 = 56,700!<br>अतः, पार्थ का लाभ का हिस्सा ₹ !56,700! है।<br><br><b>Short Trick:</b><br>Remaining profit = !90\\\\%! of !1,75,000 = 1,57,500!<br>Investment ratio = !12 : 20 : 18 = 6 : 10 : 9!<br>Paarth's share = !\\\\dfrac{9}{25} \\\\times 1,57,500 = 56,700!<br><br><b>Final Answer:</b> !56,700!"
+  },
+  {
+    "section": "Maths",
+    "topic": "Partnership",
+    "difficulty": "Hard",
+    "q_en": "A and B's ratio of investment in a business is 6:4 and that of A and C is 4:3. A and B invested for a year and C withdrew his investment after 8 months. Find the share of B (in ₹) in the profit of 12,443 at the end of one year. (Round off your answer to nearest rupee.)",
+    "q_hi": "एक व्यवसाय में A और B के निवेश का अनुपात 6:4 है और A और C का अनुपात 4:3 है। A और B ने एक वर्ष के लिए निवेश किया और C ने 8 महीने बाद अपना निवेश निकाल लिया। एक वर्ष के अंत में ₹ 12,443 के लाभ में से B का हिस्सा (₹ में) ज्ञात कीजिए। (अपने उत्तर को निकटतम रुपये तक पूर्णांकित करें।)",
+    "op_en": [
+      "₹ !3,820!",
+      "₹ !3,829!",
+      "₹ !3,845!",
+      "₹ !3,900!"
+    ],
+    "op_hi": [
+      "₹ !3,820!",
+      "₹ !3,829!",
+      "₹ !3,845!",
+      "₹ !3,900!"
+    ],
+    "ans": 2,
+    "solution": "<b>Solution (EN):</b><br>Given Investment ratios:<br>A : B = !6 : 4 = 3 : 2!<br>A : C = !4 : 3!<br>To combine them, make the value of A same in both ratios. LCM of !3! and !4! is !12!.<br>A : B = !(3 \\\\times 4) : (2 \\\\times 4) = 12 : 8!<br>A : C = !(4 \\\\times 3) : (3 \\\\times 3) = 12 : 9!<br>So, Ratio of initial investments (A : B : C) = !12 : 8 : 9!.<br>Time period of investment:<br>A = !12! months, B = !12! months, C = !8! months.<br>Ratio of profit = (Investment !\\\\times! Time)<br>A : B : C = !(12 \\\\times 12) : (8 \\\\times 12) : (9 \\\\times 8)!<br>!\\\\Rightarrow 144 : 96 : 72!<br>Dividing by !24!:<br>!\\\\Rightarrow 6 : 4 : 3!<br>Sum of profit ratios = !6 + 4 + 3 = 13! units.<br>Total profit = ₹ !12,443!<br>B's share = !\\\\dfrac{4}{13} \\\\times 12,443!<br>!\\\\Rightarrow 4 \\\\times 957.1538... = 3,828.615...!<br>Rounding off to the nearest rupee, B's share is ₹ !3,829!.<br><br><b>Solution (HI):</b><br>दिए गए निवेश के अनुपात:<br>A : B = !6 : 4 = 3 : 2!<br>A : C = !4 : 3!<br>इन्हें संयोजित करने के लिए, दोनों अनुपातों में A का मान समान करें। !3! और !4! का LCM !12! है।<br>A : B = !(3 \\\\times 4) : (2 \\\\times 4) = 12 : 8!<br>A : C = !(4 \\\\times 3) : (3 \\\\times 3) = 12 : 9!<br>इसलिए, प्रारंभिक निवेश का अनुपात (A : B : C) = !12 : 8 : 9!।<br>निवेश की समय अवधि:<br>A = !12! महीने, B = !12! महीने, C = !8! महीने।<br>लाभ का अनुपात = (निवेश !\\\\times! समय)<br>A : B : C = !(12 \\\\times 12) : (8 \\\\times 12) : (9 \\\\times 8)!<br>!\\\\Rightarrow 144 : 96 : 72!<br>!24! से विभाजित करने पर:<br>!\\\\Rightarrow 6 : 4 : 3!<br>लाभ के अनुपातों का योग = !6 + 4 + 3 = 13! इकाइयाँ।<br>कुल लाभ = ₹ !12,443!<br>B का हिस्सा = !\\\\dfrac{4}{13} \\\\times 12,443!<br>!\\\\Rightarrow 4 \\\\times 957.1538... = 3,828.615...!<br>निकटतम रुपये में पूर्णांकित करने पर, B का हिस्सा ₹ !3,829! है।<br><br><b>Short Trick:</b><br>Inv Ratio = A:B = !12:8!, A:C = !12:9! !\\\\Rightarrow A:B:C = 12:8:9!<br>Profit Ratio = !12(12) : 8(12) : 9(8) = 144:96:72 = 6:4:3!<br>B's share = !\\\\dfrac{4}{13} \\\\times 12,443 \\\\approx 3,829!<br><br><b>Final Answer:</b> !3,829!"
+  },
+  {
+    "section": "Maths",
+    "topic": "Partnership",
+    "difficulty": "Medium",
+    "q_en": "Three partners A, B and C shared the profit in a business in the ratio 5:7:8. They had partnered for 14 months, 8 months and 7 months, respectively. If the total investment was ₹ 9,31,000, then A's investment (in ₹) was:",
+    "q_hi": "तीन भागीदारों A, B और C ने एक व्यवसाय में 5:7:8 के अनुपात में लाभ साझा किया। उन्होंने क्रमशः 14 महीने, 8 महीने और 7 महीने के लिए साझेदारी की थी। यदि कुल निवेश ₹ 9,31,000 था, तो A का निवेश (₹ में) कितना था?",
+    "op_en": [
+      "₹ !1,40,000!",
+      "₹ !1,50,000!",
+      "₹ !1,80,000!",
+      "₹ !2,00,000!"
+    ],
+    "op_hi": [
+      "₹ !1,40,000!",
+      "₹ !1,50,000!",
+      "₹ !1,80,000!",
+      "₹ !2,00,000!"
+    ],
+    "ans": 1,
+    "solution": "<b>Solution (EN):</b><br>We know that, Profit = Investment !\\\\times! Time.<br>Therefore, Investment !\\\\propto \\\\dfrac{\\\\text{Profit}}{\\\\text{Time}}!<br>Ratio of profits of A, B, and C = !5 : 7 : 8!<br>Ratio of their time periods = !14 : 8 : 7!<br>Ratio of investments of A, B, and C:<br>!\\\\Rightarrow \\\\dfrac{5}{14} : \\\\dfrac{7}{8} : \\\\dfrac{8}{7}!<br>To simplify the ratio, take the LCM of denominators (!14!, !8!, !7!) which is !56!. Multiply each term by !56!:<br>A's ratio = !\\\\dfrac{5}{14} \\\\times 56 = 20!<br>B's ratio = !\\\\dfrac{7}{8} \\\\times 56 = 49!<br>C's ratio = !\\\\dfrac{8}{7} \\\\times 56 = 64!<br>Investment ratio A : B : C = !20 : 49 : 64!<br>Sum of ratios = !20 + 49 + 64 = 133! units.<br>Total investment = ₹ !9,31,000!<br>!133! units = !9,31,000!<br>!\\\\Rightarrow 1! unit = !\\\\dfrac{931000}{133} = 7,000!<br>A's investment = !20! units = !20 \\\\times 7,000 = 1,40,000!.<br><br><b>Solution (HI):</b><br>हम जानते हैं कि, लाभ = निवेश !\\\\times! समय।<br>इसलिए, निवेश !\\\\propto \\\\dfrac{\\\\text{लाभ}}{\\\\text{समय}}!<br>A, B और C के लाभ का अनुपात = !5 : 7 : 8!<br>उनके समय की अवधि का अनुपात = !14 : 8 : 7!<br>A, B और C के निवेश का अनुपात:<br>!\\\\Rightarrow \\\\dfrac{5}{14} : \\\\dfrac{7}{8} : \\\\dfrac{8}{7}!<br>अनुपात को सरल करने के लिए, हर (!14!, !8!, !7!) का LCM लें जो !56! है। प्रत्येक पद को !56! से गुणा करें:<br>A का अनुपात = !\\\\dfrac{5}{14} \\\\times 56 = 20!<br>B का अनुपात = !\\\\dfrac{7}{8} \\\\times 56 = 49!<br>C का अनुपात = !\\\\dfrac{8}{7} \\\\times 56 = 64!<br>निवेश का अनुपात A : B : C = !20 : 49 : 64!<br>अनुपातों का योग = !20 + 49 + 64 = 133! इकाइयाँ।<br>कुल निवेश = ₹ !9,31,000!<br>!133! इकाइयाँ = !9,31,000!<br>!\\\\Rightarrow 1! इकाई = !\\\\dfrac{931000}{133} = 7,000!<br>A का निवेश = !20! इकाइयाँ = !20 \\\\times 7,000 = 1,40,000!।<br><br><b>Short Trick:</b><br>Investment Ratio = !\\\\dfrac{5}{14} : \\\\dfrac{7}{8} : \\\\dfrac{8}{7}!<br>Multiply by !56 \\\\Rightarrow 20 : 49 : 64!<br>Total = !133! units = !9,31,000 \\\\Rightarrow 1! unit = !7,000!<br>A's Investment = !20 \\\\times 7,000 = 1,40,000!<br><br><b>Final Answer:</b> !1,40,000!"
+  },
+  {
+    "section": "Maths",
+    "topic": "Partnership",
+    "difficulty": "Hard",
+    "q_en": "S and R entered into a partnership business by investing ₹ 3,00,000 and ₹ 4,00,000, respectively. After few months, R left the business, and at the same time, P joined the business with an investment of ₹ 2,00,000. At the end of the year of starting the business, S took 20% of the profit as his charges for being an active partner in addition to his share in the profit. The money S received is 1.5 times the combined share of R and P. After how many months, did R leave the business?",
+    "q_hi": "S और R ने क्रमशः ₹ 3,00,000 और ₹ 4,00,000 का निवेश करके एक साझेदारी व्यवसाय में प्रवेश किया। कुछ महीनों के बाद, R ने व्यवसाय छोड़ दिया, और उसी समय, P ₹ 2,00,000 के निवेश के साथ व्यवसाय में शामिल हो गया। व्यवसाय शुरू करने के वर्ष के अंत में, S ने लाभ में अपने हिस्से के अलावा एक सक्रिय भागीदार होने के लिए अपने शुल्क के रूप में लाभ का 20% लिया। S को प्राप्त धन R और P के संयुक्त हिस्से का 1.5 गुना है। R ने कितने महीनों के बाद व्यवसाय छोड़ दिया?",
+    "op_en": [
+      "!4! months",
+      "!5! months",
+      "!6! months",
+      "!8! months"
+    ],
+    "op_hi": [
+      "!4! महीने",
+      "!5! महीने",
+      "!6! महीने",
+      "!8! महीने"
+    ],
+    "ans": 3,
+    "solution": "<b>Solution (EN):</b><br>Let total profit be !P!.<br>S receives !20\\\\%! of !P! as an active partner. Remaining profit = !80\\\\%! of !P = 0.8P!.<br>This remaining profit is distributed among S, R, and P in the ratio of their effective investments.<br>Let S's share from the remaining profit be !S_{inv}!, and combined share of R and P be !(R_{inv} + P_{inv})!.<br>We know: !S_{inv} + R_{inv} + P_{inv} = 0.8P!<br>Given that total money S received is !1.5! times the combined share of R and P:<br>Total S = !0.2P + S_{inv}!<br>!0.2P + S_{inv} = 1.5 \\\\times (R_{inv} + P_{inv})!<br>Substitute !(R_{inv} + P_{inv}) = 0.8P - S_{inv}!:<br>!0.2P + S_{inv} = 1.5 \\\\times (0.8P - S_{inv})!<br>!\\\\Rightarrow 0.2P + S_{inv} = 1.2P - 1.5S_{inv}!<br>!\\\\Rightarrow 2.5S_{inv} = 1.0P \\\\Rightarrow S_{inv} = 0.4P!<br>Since !S_{inv} = 0.4P!, the remaining portion for R and P is !0.8P - 0.4P = 0.4P!.<br>This implies S's share in the investment profit is exactly equal to the combined share of R and P.<br>Therefore, Effective Investment of S = Effective Investment of R + Effective Investment of P.<br>Let R be in the business for !x! months. Then P was in the business for !(12 - x)! months.<br>S's effective investment = !3,00,000 \\\\times 12 = 36,00,000!<br>R's effective investment = !4,00,000 \\\\times x!<br>P's effective investment = !2,00,000 \\\\times (12 - x)!<br>Equation: !36,00,000 = 4,00,000x + 2,00,000(12 - x)!<br>Divide by !1,00,000! to simplify:<br>!\\\\Rightarrow 36 = 4x + 2(12 - x)!<br>!\\\\Rightarrow 36 = 4x + 24 - 2x!<br>!\\\\Rightarrow 12 = 2x \\\\Rightarrow x = 6!<br>Thus, R left the business after !6! months.<br><br><b>Solution (HI):</b><br>मान लीजिए कुल लाभ !P! है।<br>सक्रिय भागीदार के रूप में S को !P! का !20\\\\%! प्राप्त होता है। शेष लाभ = !P! का !80\\\\% = 0.8P!।<br>यह शेष लाभ S, R और P के बीच उनके प्रभावी निवेश के अनुपात में वितरित किया जाता है।<br>मान लीजिए कि शेष लाभ से S का हिस्सा !S_{inv}! है, और R तथा P का संयुक्त हिस्सा !(R_{inv} + P_{inv})! है।<br>हम जानते हैं: !S_{inv} + R_{inv} + P_{inv} = 0.8P!<br>दिया गया है कि S को प्राप्त कुल धन R और P के संयुक्त हिस्से का !1.5! गुना है:<br>S का कुल धन = !0.2P + S_{inv}!<br>!0.2P + S_{inv} = 1.5 \\\\times (R_{inv} + P_{inv})!<br>!(R_{inv} + P_{inv}) = 0.8P - S_{inv}! रखने पर:<br>!0.2P + S_{inv} = 1.5 \\\\times (0.8P - S_{inv})!<br>!\\\\Rightarrow 0.2P + S_{inv} = 1.2P - 1.5S_{inv}!<br>!\\\\Rightarrow 2.5S_{inv} = 1.0P \\\\Rightarrow S_{inv} = 0.4P!<br>चूँकि !S_{inv} = 0.4P!, R और P के लिए शेष भाग !0.8P - 0.4P = 0.4P! है।<br>इसका अर्थ है कि निवेश लाभ में S का हिस्सा R और P के संयुक्त हिस्से के बिल्कुल बराबर है।<br>इसलिए, S का प्रभावी निवेश = R का प्रभावी निवेश + P का प्रभावी निवेश।<br>मान लीजिए कि R ने !x! महीनों के लिए व्यवसाय किया। फिर P ने !(12 - x)! महीनों के लिए व्यवसाय किया।<br>S का प्रभावी निवेश = !3,00,000 \\\\times 12 = 36,00,000!<br>R का प्रभावी निवेश = !4,00,000 \\\\times x!<br>P का प्रभावी निवेश = !2,00,000 \\\\times (12 - x)!<br>समीकरण: !36,00,000 = 4,00,000x + 2,00,000(12 - x)!<br>सरल करने के लिए !1,00,000! से विभाजित करें:<br>!\\\\Rightarrow 36 = 4x + 2(12 - x)!<br>!\\\\Rightarrow 36 = 4x + 24 - 2x!<br>!\\\\Rightarrow 12 = 2x \\\\Rightarrow x = 6!<br>इस प्रकार, R ने !6! महीने बाद व्यवसाय छोड़ दिया।<br><br><b>Short Trick:</b><br>!20\\\\% + S_{share} = 1.5(80\\\\% - S_{share})!<br>!20 + S = 120 - 1.5S \\\\Rightarrow 2.5S = 100 \\\\Rightarrow S = 40\\\\%!<br>So S's investment is !50\\\\%! of the total (!40! out of !80!).<br>Investment of S = Investment of R + P<br>!3(12) = 4(x) + 2(12 - x)!<br>!36 = 4x + 24 - 2x \\\\Rightarrow 2x = 12 \\\\Rightarrow x = 6! months.<br><br><b>Final Answer:</b> !6!"
+  },
+  {
+    "section": "Maths",
+    "topic": "Partnership",
+    "difficulty": "Medium",
+    "q_en": "A, B, and C invested ₹ 70,000, ₹ 50,000, and ₹ 80,000 respectively in a business. After 4 months, B withdrew all his money and A added ₹ 30,000 more. If the annual profit is ₹ 2,10,000, what is C's share of the profit?",
+    "q_hi": "A, B और C ने एक व्यवसाय में क्रमशः ₹ 70,000, ₹ 50,000 और ₹ 80,000 का निवेश किया। 4 महीने बाद, B ने अपना सारा पैसा निकाल लिया और A ने ₹ 30,000 और निवेश कर दिए। यदि वार्षिक लाभ ₹ 2,10,000 है, तो लाभ में C का हिस्सा क्या है?",
+    "op_en": [
+      "₹ !80,000!",
+      "₹ !90,000!",
+      "₹ !95,000!",
+      "₹ !1,00,000!"
+    ],
+    "op_hi": [
+      "₹ !80,000!",
+      "₹ !90,000!",
+      "₹ !95,000!",
+      "₹ !1,00,000!"
+    ],
+    "ans": 2,
+    "solution": "<b>Solution (EN):</b><br>To find the profit share, we calculate the effective investment (Investment !\\\\times! Time) for each partner over the year (!12! months).<br>A's effective investment = !(70,000 \\\\times 4) + ((70,000 + 30,000) \\\\times 8)!<br>!= 2,80,000 + (1,00,000 \\\\times 8) = 2,80,000 + 8,00,000 = 10,80,000!<br>B's effective investment = !50,000 \\\\times 4 = 2,00,000! (as he withdrew his money after 4 months)<br>C's effective investment = !80,000 \\\\times 12 = 9,60,000!<br>Ratio of their profit shares (A : B : C) = !10,80,000 : 2,00,000 : 9,60,000!<br>Dividing by !40,000!:<br>!\\\\Rightarrow 27 : 5 : 24!<br>Total units of profit = !27 + 5 + 24 = 56! units.<br>Total profit = ₹ !2,10,000!<br>Value of !1! unit = !\\\\dfrac{210000}{56} = 3,750!<br>C's share in profit = !24! units = !24 \\\\times 3,750 = 90,000!<br><br><b>Solution (HI):</b><br>लाभ का हिस्सा ज्ञात करने के लिए, हम पूरे वर्ष (!12! महीने) के लिए प्रत्येक भागीदार के प्रभावी निवेश (निवेश !\\\\times! समय) की गणना करते हैं।<br>A का प्रभावी निवेश = !(70,000 \\\\times 4) + ((70,000 + 30,000) \\\\times 8)!<br>!= 2,80,000 + (1,00,000 \\\\times 8) = 2,80,000 + 8,00,000 = 10,80,000!<br>B का प्रभावी निवेश = !50,000 \\\\times 4 = 2,00,000! (चूंकि उसने 4 महीने बाद अपना पैसा निकाल लिया)<br>C का प्रभावी निवेश = !80,000 \\\\times 12 = 9,60,000!<br>उनके लाभ के हिस्सों का अनुपात (A : B : C) = !10,80,000 : 2,00,000 : 9,60,000!<br>!40,000! से विभाजित करने पर:<br>!\\\\Rightarrow 27 : 5 : 24!<br>लाभ की कुल इकाइयाँ = !27 + 5 + 24 = 56! इकाइयाँ।<br>कुल लाभ = ₹ !2,10,000!<br>!1! इकाई का मान = !\\\\dfrac{210000}{56} = 3,750!<br>लाभ में C का हिस्सा = !24! इकाइयाँ = !24 \\\\times 3,750 = 90,000!<br><br><b>Short Trick:</b><br>Profit Ratio = ![(70 \\\\times 4) + (100 \\\\times 8)] : [50 \\\\times 4] : [80 \\\\times 12]!<br>!\\\\Rightarrow (280 + 800) : 200 : 960!<br>!\\\\Rightarrow 1080 : 200 : 960 = 27 : 5 : 24!<br>C's share = !\\\\dfrac{24}{56} \\\\times 2,10,000 = \\\\dfrac{3}{7} \\\\times 2,10,000 = 90,000!<br><br><b>Final Answer:</b> !90,000!"
+  },
+  {
+    "section": "Maths",
+    "topic": "Partnership",
+    "difficulty": "Medium",
+    "q_en": "A invests ₹ 50,000 at the beginning of a venture. B joins the venture after 6 months and invests ₹ 40,000. This venture runs for 12 months and earns a profit of ₹ 18,000. Find B's share in profit (rounded off up to next whole number).",
+    "q_hi": "A किसी उद्यम की शुरुआत में ₹ 50,000 का निवेश करता है। 6 महीने बाद B उद्यम में शामिल होता है और ₹ 40,000 का निवेश करता है। यह उद्यम 12 महीने तक चलता है और ₹ 18,000 का लाभ कमाता है। लाभ में B का हिस्सा ज्ञात कीजिए (अगली पूर्ण संख्या तक पूर्णांकित करें)।",
+    "op_en": [
+      "₹ !5,140!",
+      "₹ !5,142!",
+      "₹ !5,143!",
+      "₹ !5,145!"
+    ],
+    "op_hi": [
+      "₹ !5,140!",
+      "₹ !5,142!",
+      "₹ !5,143!",
+      "₹ !5,145!"
+    ],
+    "ans": 3,
+    "solution": "<b>Solution (EN):</b><br>A's investment is for !12! months, and B joins after !6! months, so B's investment is for the remaining !6! months.<br>A's effective investment = !50,000 \\\\times 12 = 6,00,000!<br>B's effective investment = !40,000 \\\\times 6 = 2,40,000!<br>Ratio of their profit shares (A : B) = !6,00,000 : 2,40,000!<br>!\\\\Rightarrow 60 : 24 = 5 : 2!<br>Total units of profit = !5 + 2 = 7! units.<br>Total profit = ₹ !18,000!<br>B's share = !\\\\dfrac{2}{7} \\\\times 18,000 = \\\\dfrac{36000}{7} = 5142.857...!<br>Rounding off to the next whole number, B's share is ₹ !5,143!.<br><br><b>Solution (HI):</b><br>A का निवेश !12! महीनों के लिए है, और B !6! महीने बाद जुड़ता है, इसलिए B का निवेश शेष !6! महीनों के लिए है।<br>A का प्रभावी निवेश = !50,000 \\\\times 12 = 6,00,000!<br>B का प्रभावी निवेश = !40,000 \\\\times 6 = 2,40,000!<br>उनके लाभ के हिस्सों का अनुपात (A : B) = !6,00,000 : 2,40,000!<br>!\\\\Rightarrow 60 : 24 = 5 : 2!<br>लाभ की कुल इकाइयाँ = !5 + 2 = 7! इकाइयाँ।<br>कुल लाभ = ₹ !18,000!<br>B का हिस्सा = !\\\\dfrac{2}{7} \\\\times 18,000 = \\\\dfrac{36000}{7} = 5142.857...!<br>अगली पूर्ण संख्या में पूर्णांकित करने पर, B का हिस्सा ₹ !5,143! है।<br><br><b>Short Trick:</b><br>Investment Ratio A:B = !(50 \\\\times 12) : (40 \\\\times 6) = 600 : 240 = 5 : 2!<br>B's Share = !\\\\dfrac{2}{7} \\\\times 18,000 \\\\approx 5,143!<br><br><b>Final Answer:</b> !5,143!"
+  },
+  {
+    "section": "Maths",
+    "topic": "Partnership",
+    "difficulty": "Easy",
+    "q_en": "X, Y, and Z are partners in a business. X and Y invested ₹ 50,000 and ₹ 40,000, respectively, at the beginning of the year. Z joined the partnership after 6 months with an investment of ₹ 60,000. The total profit for the year is ₹ 1,20,000. How much profit will Z receive at the end of the year?",
+    "q_hi": "X, Y और Z एक व्यवसाय में भागीदार हैं। X और Y ने वर्ष की शुरुआत में क्रमशः ₹ 50,000 और ₹ 40,000 का निवेश किया। Z 6 महीने बाद ₹ 60,000 के निवेश के साथ साझेदारी में शामिल हुआ। वर्ष का कुल लाभ ₹ 1,20,000 है। वर्ष के अंत में Z को कितना लाभ प्राप्त होगा?",
+    "op_en": [
+      "₹ !25,000!",
+      "₹ !30,000!",
+      "₹ !35,000!",
+      "₹ !40,000!"
+    ],
+    "op_hi": [
+      "₹ !25,000!",
+      "₹ !30,000!",
+      "₹ !35,000!",
+      "₹ !40,000!"
+    ],
+    "ans": 2,
+    "solution": "<b>Solution (EN):</b><br>Profits are distributed in the ratio of the product of investment and the time period.<br>X invested for !12! months. Effective investment = !50,000 \\\\times 12!<br>Y invested for !12! months. Effective investment = !40,000 \\\\times 12!<br>Z invested for !6! months (joined after 6 months). Effective investment = !60,000 \\\\times 6!<br>Ratio of profits (X : Y : Z) = !(50 \\\\times 12) : (40 \\\\times 12) : (60 \\\\times 6)!<br>!\\\\Rightarrow 600 : 480 : 360!<br>Dividing by !120!:<br>!\\\\Rightarrow 5 : 4 : 3!<br>Total units of profit = !5 + 4 + 3 = 12! units.<br>Total profit = ₹ !1,20,000!<br>Value of !1! unit = !\\\\dfrac{120000}{12} = 10,000!<br>Z's profit = !3! units = !3 \\\\times 10,000 = 30,000!<br><br><b>Solution (HI):</b><br>लाभ को निवेश और समय अवधि के गुणनफल के अनुपात में वितरित किया जाता है।<br>X ने !12! महीने के लिए निवेश किया। प्रभावी निवेश = !50,000 \\\\times 12!<br>Y ने !12! महीने के लिए निवेश किया। प्रभावी निवेश = !40,000 \\\\times 12!<br>Z ने !6! महीने के लिए निवेश किया (6 महीने बाद शामिल हुआ)। प्रभावी निवेश = !60,000 \\\\times 6!<br>लाभ का अनुपात (X : Y : Z) = !(50 \\\\times 12) : (40 \\\\times 12) : (60 \\\\times 6)!<br>!\\\\Rightarrow 600 : 480 : 360!<br>!120! से विभाजित करने पर:<br>!\\\\Rightarrow 5 : 4 : 3!<br>लाभ की कुल इकाइयाँ = !5 + 4 + 3 = 12! इकाइयाँ।<br>कुल लाभ = ₹ !1,20,000!<br>!1! इकाई का मान = !\\\\dfrac{120000}{12} = 10,000!<br>Z का लाभ = !3! इकाइयाँ = !3 \\\\times 10,000 = 30,000!<br><br><b>Short Trick:</b><br>Ratio = !5(12) : 4(12) : 6(6) = 60 : 48 : 36 = 5 : 4 : 3!<br>Total units = !12!<br>Z's Share = !\\\\dfrac{3}{12} \\\\times 1,20,000 = 30,000!<br><br><b>Final Answer:</b> !30,000!"
+  },
+  {
+    "section": "Maths",
+    "topic": "Partnership",
+    "difficulty": "Easy",
+    "q_en": "Anjali invests ₹ 20,000 for 15 months, Bikas invests ₹ 30,000 for 12 months, and Chintamani invests ₹ 40,000 for 9 months. If the total profit is ₹ 85,000, find the share of Bikas in the total profit.",
+    "q_hi": "अंजलि 15 महीने के लिए ₹ 20,000 का निवेश करती है, विकास 12 महीने के लिए ₹ 30,000 का निवेश करता है, और चिंतामणि 9 महीने के लिए ₹ 40,000 का निवेश करता है। यदि कुल लाभ ₹ 85,000 है, तो कुल लाभ में विकास का हिस्सा ज्ञात कीजिए।",
+    "op_en": [
+      "₹ !25,000!",
+      "₹ !28,000!",
+      "₹ !30,000!",
+      "₹ !35,000!"
+    ],
+    "op_hi": [
+      "₹ !25,000!",
+      "₹ !28,000!",
+      "₹ !30,000!",
+      "₹ !35,000!"
+    ],
+    "ans": 3,
+    "solution": "<b>Solution (EN):</b><br>The ratio of profit sharing is determined by the product of the investment amount and the time duration.<br>Anjali's effective investment = !20,000 \\\\times 15 = 3,00,000!<br>Bikas's effective investment = !30,000 \\\\times 12 = 3,60,000!<br>Chintamani's effective investment = !40,000 \\\\times 9 = 3,60,000!<br>Ratio of their profits (Anjali : Bikas : Chintamani) = !3,00,000 : 3,60,000 : 3,60,000!<br>Dividing by !60,000!:<br>!\\\\Rightarrow 5 : 6 : 6!<br>Total units of profit = !5 + 6 + 6 = 17! units.<br>Total profit = ₹ !85,000!<br>Value of !1! unit = !\\\\dfrac{85000}{17} = 5,000!<br>Share of Bikas = !6! units = !6 \\\\times 5,000 = 30,000!<br><br><b>Solution (HI):</b><br>लाभ साझा करने का अनुपात निवेश राशि और समय अवधि के गुणनफल द्वारा निर्धारित किया जाता है।<br>अंजलि का प्रभावी निवेश = !20,000 \\\\times 15 = 3,00,000!<br>विकास का प्रभावी निवेश = !30,000 \\\\times 12 = 3,60,000!<br>चिंतामणि का प्रभावी निवेश = !40,000 \\\\times 9 = 3,60,000!<br>उनके लाभ का अनुपात (अंजलि : विकास : चिंतामणि) = !3,00,000 : 3,60,000 : 3,60,000!<br>!60,000! से विभाजित करने पर:<br>!\\\\Rightarrow 5 : 6 : 6!<br>लाभ की कुल इकाइयाँ = !5 + 6 + 6 = 17! इकाइयाँ।<br>कुल लाभ = ₹ !85,000!<br>!1! इकाई का मान = !\\\\dfrac{85000}{17} = 5,000!<br>विकास का हिस्सा = !6! इकाइयाँ = !6 \\\\times 5,000 = 30,000!<br><br><b>Short Trick:</b><br>Profit Ratio = !20(15) : 30(12) : 40(9) = 300 : 360 : 360 = 5 : 6 : 6!<br>Bikas Share = !\\\\dfrac{6}{17} \\\\times 85,000 = 30,000!<br><br><b>Final Answer:</b> !30,000!"
+  },
+  {
+    "section": "Maths",
+    "topic": "Partnership",
+    "difficulty": "Easy",
+    "q_en": "A started a business at the beginning of a year with ₹ 36,000, and after 4 months, B joined him with ₹ 48,000. At the end of the year, in what ratio should they share the profit?",
+    "q_hi": "A ने वर्ष की शुरुआत में ₹ 36,000 के साथ एक व्यवसाय शुरू किया, और 4 महीने बाद, B ₹ 48,000 के साथ उसके साथ जुड़ गया। वर्ष के अंत में, उन्हें लाभ को किस अनुपात में साझा करना चाहिए?",
+    "op_en": [
+      "!9:8!",
+      "!8:9!",
+      "!3:4!",
+      "!4:3!"
+    ],
+    "op_hi": [
+      "!9:8!",
+      "!8:9!",
+      "!3:4!",
+      "!4:3!"
+    ],
+    "ans": 1,
+    "solution": "<b>Solution (EN):</b><br>The ratio in which the profit is shared is directly proportional to the product of the investment and the time period.<br>A invests ₹ !36,000! for !12! months.<br>A's effective investment = !36,000 \\\\times 12!<br>B joins after !4! months, which means B invests ₹ !48,000! for the remaining !8! months (!12 - 4!).<br>B's effective investment = !48,000 \\\\times 8!<br>Ratio of A's profit to B's profit = !(36,000 \\\\times 12) : (48,000 \\\\times 8)!<br>!\\\\Rightarrow (36 \\\\times 12) : (48 \\\\times 8)!<br>!\\\\Rightarrow 432 : 384!<br>Dividing both by !48!:<br>!\\\\Rightarrow \\\\dfrac{432}{48} : \\\\dfrac{384}{48}!<br>!\\\\Rightarrow 9 : 8!<br>Thus, they should share the profit in the ratio !9:8!.<br><br><b>Solution (HI):</b><br>वह अनुपात जिसमें लाभ साझा किया जाता है, निवेश और समय अवधि के गुणनफल के सीधे आनुपातिक होता है।<br>A, !12! महीनों के लिए ₹ !36,000! का निवेश करता है।<br>A का प्रभावी निवेश = !36,000 \\\\times 12!<br>B !4! महीने बाद जुड़ता है, जिसका अर्थ है कि B शेष !8! महीनों (!12 - 4!) के लिए ₹ !48,000! का निवेश करता है।<br>B का प्रभावी निवेश = !48,000 \\\\times 8!<br>A के लाभ और B के लाभ का अनुपात = !(36,000 \\\\times 12) : (48,000 \\\\times 8)!<br>!\\\\Rightarrow (36 \\\\times 12) : (48 \\\\times 8)!<br>!\\\\Rightarrow 432 : 384!<br>दोनों को !48! से विभाजित करने पर:<br>!\\\\Rightarrow \\\\dfrac{432}{48} : \\\\dfrac{384}{48}!<br>!\\\\Rightarrow 9 : 8!<br>इस प्रकार, उन्हें लाभ को !9:8! के अनुपात में साझा करना चाहिए।<br><br><b>Short Trick:</b><br>Profit Ratio A : B = !36 \\\\times 12 : 48 \\\\times 8!<br>!= 3 \\\\times 12 : 4 \\\\times 8 = 36 : 32 = 9 : 8!<br><br><b>Final Answer:</b> !9:8!"
+  },
+  {
+    "section": "Maths",
+    "topic": "Partnership",
+    "difficulty": "Medium",
+    "q_en": "A and B enter into a partnership by investing ₹ 12,000 and ₹ 18,000, respectively. After 6 months, C joins the partnership with an investment of ₹ 24,000. At the end of the year, the total profit is ₹ 54,000. What is C’s share in the profit? (Correct to two decimal places.)",
+    "q_hi": "A और B ने क्रमशः ₹ 12,000 और ₹ 18,000 का निवेश करके एक साझेदारी में प्रवेश किया। 6 महीने बाद, C ₹ 24,000 के निवेश के साथ साझेदारी में शामिल होता है। वर्ष के अंत में, कुल लाभ ₹ 54,000 है। लाभ में C का हिस्सा क्या है? (दो दशमलव स्थानों तक सही।)",
+    "op_en": [
+      "₹ !15,428.57!",
+      "₹ !16,500.00!",
+      "₹ !14,250.50!",
+      "₹ !15,200.00!"
+    ],
+    "op_hi": [
+      "₹ !15,428.57!",
+      "₹ !16,500.00!",
+      "₹ !14,250.50!",
+      "₹ !15,200.00!"
+    ],
+    "ans": 1,
+    "solution": "<b>Solution (EN):</b><br>To find the profit share ratio, we multiply the investment by the time period (in months).<br>A's effective investment = !12,000 \\\\times 12 = 1,44,000!<br>B's effective investment = !18,000 \\\\times 12 = 2,16,000!<br>C's effective investment = !24,000 \\\\times 6 = 1,44,000! (since he joined after 6 months)<br>Ratio of their profit shares (A : B : C) = !1,44,000 : 2,16,000 : 1,44,000!<br>Dividing by !72,000!:<br>!\\\\Rightarrow 2 : 3 : 2!<br>Total units of profit = !2 + 3 + 2 = 7! units.<br>Total profit = ₹ !54,000!<br>C's share in profit = !\\\\dfrac{2}{7} \\\\times 54,000 = \\\\dfrac{108000}{7}!<br>!\\\\Rightarrow 15428.5714...!<br>Correct to two decimal places, C's share is ₹ !15,428.57!.<br><br><b>Solution (HI):</b><br>लाभ के हिस्से का अनुपात ज्ञात करने के लिए, हम निवेश को समय अवधि (महीनों में) से गुणा करते हैं।<br>A का प्रभावी निवेश = !12,000 \\\\times 12 = 1,44,000!<br>B का प्रभावी निवेश = !18,000 \\\\times 12 = 2,16,000!<br>C का प्रभावी निवेश = !24,000 \\\\times 6 = 1,44,000! (चूंकि वह 6 महीने बाद जुड़ा)<br>उनके लाभ के हिस्सों का अनुपात (A : B : C) = !1,44,000 : 2,16,000 : 1,44,000!<br>!72,000! से विभाजित करने पर:<br>!\\\\Rightarrow 2 : 3 : 2!<br>लाभ की कुल इकाइयाँ = !2 + 3 + 2 = 7! इकाइयाँ।<br>कुल लाभ = ₹ !54,000!<br>लाभ में C का हिस्सा = !\\\\dfrac{2}{7} \\\\times 54,000 = \\\\dfrac{108000}{7}!<br>!\\\\Rightarrow 15428.5714...!<br>दो दशमलव स्थानों तक सही, C का हिस्सा ₹ !15,428.57! है।<br><br><b>Short Trick:</b><br>Profit Ratio = !12(12) : 18(12) : 24(6)!<br>!\\\\Rightarrow 144 : 216 : 144 = 2 : 3 : 2!<br>C's Share = !\\\\dfrac{2}{7} \\\\times 54,000 \\\\approx 15,428.57!<br><br><b>Final Answer:</b> !15,428.57!"
+  },
+  {
+    "section": "Maths",
+    "topic": "Partnership",
+    "difficulty": "Medium",
+    "q_en": "A, B, and C invested ₹ 12,000, ₹ 18,000 and ₹ 24,000, respectively in a business. After 6 months, A withdrew half of his capital while B and C left their investments unchanged. If the total profit at the end of the year is ₹ 8,415, what is C's share of the profit?",
+    "q_hi": "A, B और C ने एक व्यवसाय में क्रमशः ₹ 12,000, ₹ 18,000 और ₹ 24,000 का निवेश किया। 6 महीने बाद, A ने अपनी आधी पूंजी निकाल ली जबकि B और C ने अपना निवेश अपरिवर्तित रखा। यदि वर्ष के अंत में कुल लाभ ₹ 8,415 है, तो लाभ में C का हिस्सा क्या है?",
+    "op_en": [
+      "₹ !3,960!",
+      "₹ !3,600!",
+      "₹ !4,200!",
+      "₹ !4,500!"
+    ],
+    "op_hi": [
+      "₹ !3,960!",
+      "₹ !3,600!",
+      "₹ !4,200!",
+      "₹ !4,500!"
+    ],
+    "ans": 1,
+    "solution": "<b>Solution (EN):</b><br>A's effective investment for the year = !(12,000 \\\\times 6) + (12,000 \\\\div 2 \\\\times 6)!<br>!\\\\Rightarrow 72,000 + (6,000 \\\\times 6) = 72,000 + 36,000 = 1,08,000!<br>B's effective investment = !18,000 \\\\times 12 = 2,16,000!<br>C's effective investment = !24,000 \\\\times 12 = 2,88,000!<br>Ratio of profits (A : B : C) = !1,08,000 : 2,16,000 : 2,88,000!<br>Dividing by !36,000!:<br>!\\\\Rightarrow 3 : 6 : 8!<br>Sum of the profit ratios = !3 + 6 + 8 = 17! units.<br>Total profit = ₹ !8,415!<br>Value of !1! unit = !\\\\dfrac{8415}{17} = 495!<br>C's share of the profit = !8! units = !8 \\\\times 495 = 3,960!<br>Therefore, C's share is ₹ !3,960!.<br><br><b>Solution (HI):</b><br>A का वर्ष भर का प्रभावी निवेश = !(12,000 \\\\times 6) + (12,000 \\\\div 2 \\\\times 6)!<br>!\\\\Rightarrow 72,000 + (6,000 \\\\times 6) = 72,000 + 36,000 = 1,08,000!<br>B का प्रभावी निवेश = !18,000 \\\\times 12 = 2,16,000!<br>C का प्रभावी निवेश = !24,000 \\\\times 12 = 2,88,000!<br>लाभ का अनुपात (A : B : C) = !1,08,000 : 2,16,000 : 2,88,000!<br>!36,000! से विभाजित करने पर:<br>!\\\\Rightarrow 3 : 6 : 8!<br>लाभ के अनुपातों का योग = !3 + 6 + 8 = 17! इकाइयाँ।<br>कुल लाभ = ₹ !8,415!<br>!1! इकाई का मान = !\\\\dfrac{8415}{17} = 495!<br>लाभ में C का हिस्सा = !8! इकाइयाँ = !8 \\\\times 495 = 3,960!<br>अतः, C का हिस्सा ₹ !3,960! है।<br><br><b>Short Trick:</b><br>Profit Ratio = ![(12 \\\\times 6) + (6 \\\\times 6)] : [18 \\\\times 12] : [24 \\\\times 12]!<br>!\\\\Rightarrow (72 + 36) : 216 : 288!<br>!\\\\Rightarrow 108 : 216 : 288 = 3 : 6 : 8!<br>C's Share = !\\\\dfrac{8}{17} \\\\times 8,415 = 8 \\\\times 495 = 3,960!<br><br><b>Final Answer:</b> !3,960!"
+  },
+  {
+    "section": "Maths",
+    "topic": "Partnership",
+    "difficulty": "Easy",
+    "q_en": "P and Q started a business by investing ₹ 2,26,000 and ₹ 3,68,000 respectively. If P's share in the profit earned at the end of year is ₹ 4,520, then what will be the total profit (in ₹) earned by them together?",
+    "q_hi": "P और Q ने क्रमशः ₹ 2,26,000 और ₹ 3,68,000 का निवेश करके एक व्यवसाय शुरू किया। यदि वर्ष के अंत में अर्जित लाभ में P का हिस्सा ₹ 4,520 है, तो उनके द्वारा एक साथ अर्जित कुल लाभ (₹ में) क्या होगा?",
+    "op_en": [
+      "₹ !11,500!",
+      "₹ !11,880!",
+      "₹ !12,000!",
+      "₹ !12,240!"
+    ],
+    "op_hi": [
+      "₹ !11,500!",
+      "₹ !11,880!",
+      "₹ !12,000!",
+      "₹ !12,240!"
+    ],
+    "ans": 2,
+    "solution": "<b>Solution (EN):</b><br>Since the time period of investment is the same (!1! year) for both, the profit will be distributed in the ratio of their investments.<br>Ratio of investments of P and Q = !2,26,000 : 3,68,000!<br>Dividing by !2,000!:<br>!\\\\Rightarrow 113 : 184!<br>So, ratio of their profit shares = !113 : 184!<br>Let the profit of P be !113! units and the profit of Q be !184! units.<br>We are given that P's share is ₹ !4,520!.<br>!113! units = !4,520!<br>!\\\\Rightarrow 1! unit = !\\\\dfrac{4520}{113} = 40!<br>Total profit earned by them together = !113! units + !184! units = !297! units.<br>Total profit = !297 \\\\times 40 = 11,880!<br>Therefore, the total profit is ₹ !11,880!.<br><br><b>Solution (HI):</b><br>चूंकि दोनों के लिए निवेश की समय अवधि समान (!1! वर्ष) है, इसलिए लाभ उनके निवेश के अनुपात में वितरित किया जाएगा।<br>P और Q के निवेश का अनुपात = !2,26,000 : 3,68,000!<br>!2,000! से विभाजित करने पर:<br>!\\\\Rightarrow 113 : 184!<br>इसलिए, उनके लाभ के हिस्सों का अनुपात = !113 : 184!<br>मान लीजिए कि P का लाभ !113! इकाइयाँ और Q का लाभ !184! इकाइयाँ है।<br>हमें दिया गया है कि P का हिस्सा ₹ !4,520! है।<br>!113! इकाइयाँ = !4,520!<br>!\\\\Rightarrow 1! इकाई = !\\\\dfrac{4520}{113} = 40!<br>उनके द्वारा एक साथ अर्जित कुल लाभ = !113! इकाइयाँ + !184! इकाइयाँ = !297! इकाइयाँ।<br>कुल लाभ = !297 \\\\times 40 = 11,880!<br>अतः, कुल लाभ ₹ !11,880! है।<br><br><b>Short Trick:</b><br>Profit Ratio P:Q = !226 : 368 = 113 : 184!<br>P's Share = !113 \\\\text{ units} = 4,520 \\\\Rightarrow 1 \\\\text{ unit} = 40!<br>Total Profit = !(113 + 184) \\\\times 40 = 297 \\\\times 40 = 11,880!<br><br><b>Final Answer:</b> !11,880!"
+  },
+  {
+    "section": "Maths",
+    "topic": "Partnership",
+    "difficulty": "Hard",
+    "q_en": "Two partners X and Y started a business by investing in the ratio of 9:8. Z joined them after 8 months, investing an amount equal to half that Y invested in the beginning. At the end of the year, 40% of the profit earned was equal to ₹ 53,900. Find the profit (in ₹) earned by Z.",
+    "q_hi": "दो भागीदारों X और Y ने 9:8 के अनुपात में निवेश करके एक व्यवसाय शुरू किया। 8 महीने बाद, Z उनके साथ जुड़ गया, और उसने Y द्वारा शुरुआत में निवेश की गई राशि का आधा निवेश किया। वर्ष के अंत में, अर्जित लाभ का 40% ₹ 53,900 के बराबर था। Z द्वारा अर्जित लाभ (₹ में) ज्ञात कीजिए।",
+    "op_en": [
+      "₹ !9,500!",
+      "₹ !9,800!",
+      "₹ !10,200!",
+      "₹ !10,500!"
+    ],
+    "op_hi": [
+      "₹ !9,500!",
+      "₹ !9,800!",
+      "₹ !10,200!",
+      "₹ !10,500!"
+    ],
+    "ans": 2,
+    "solution": "<b>Solution (EN):</b><br>Let the initial investments of X and Y be !9a! and !8a! respectively.<br>Z joins after !8! months. So, Z's investment remains in the business for !(12 - 8) = 4! months.<br>Amount invested by Z = Half of Y's initial investment = !\\\\dfrac{8a}{2} = 4a!.<br>Effective investment of X = !9a \\\\times 12 = 108a!<br>Effective investment of Y = !8a \\\\times 12 = 96a!<br>Effective investment of Z = !4a \\\\times 4 = 16a!<br>Ratio of their profit shares (X : Y : Z) = !108a : 96a : 16a!<br>Dividing by !4a!:<br>!\\\\Rightarrow 27 : 24 : 4!<br>Sum of the ratio units = !27 + 24 + 4 = 55! units.<br>It is given that !40\\\\%! of the total profit !P = 53,900!<br>!\\\\Rightarrow \\\\dfrac{40}{100} \\\\times P = 53,900!<br>!\\\\Rightarrow P = \\\\dfrac{53900 \\\\times 100}{40} = 1,34,750!<br>Total profit = ₹ !1,34,750!<br>Z's profit share = !\\\\dfrac{4}{55} \\\\times 1,34,750!<br>!\\\\Rightarrow 4 \\\\times 2,450 = 9,800!<br>Thus, the profit earned by Z is ₹ !9,800!.<br><br><b>Solution (HI):</b><br>मान लीजिए कि X और Y का प्रारंभिक निवेश क्रमशः !9a! और !8a! है।<br>Z !8! महीने बाद जुड़ता है। इसलिए, Z का निवेश !(12 - 8) = 4! महीनों के लिए व्यवसाय में रहता है।<br>Z द्वारा निवेश की गई राशि = Y के प्रारंभिक निवेश का आधा = !\\\\dfrac{8a}{2} = 4a!।<br>X का प्रभावी निवेश = !9a \\\\times 12 = 108a!<br>Y का प्रभावी निवेश = !8a \\\\times 12 = 96a!<br>Z का प्रभावी निवेश = !4a \\\\times 4 = 16a!<br>उनके लाभ के हिस्सों का अनुपात (X : Y : Z) = !108a : 96a : 16a!<br>!4a! से विभाजित करने पर:<br>!\\\\Rightarrow 27 : 24 : 4!<br>अनुपात की इकाइयों का योग = !27 + 24 + 4 = 55! इकाइयाँ।<br>यह दिया गया है कि कुल लाभ !P! का !40\\\\% = 53,900!<br>!\\\\Rightarrow \\\\dfrac{40}{100} \\\\times P = 53,900!<br>!\\\\Rightarrow P = \\\\dfrac{53900 \\\\times 100}{40} = 1,34,750!<br>कुल लाभ = ₹ !1,34,750!<br>Z का लाभ का हिस्सा = !\\\\dfrac{4}{55} \\\\times 1,34,750!<br>!\\\\Rightarrow 4 \\\\times 2,450 = 9,800!<br>इस प्रकार, Z द्वारा अर्जित लाभ ₹ !9,800! है।<br><br><b>Short Trick:</b><br>Total Profit = !\\\\dfrac{53900}{0.4} = 1,34,750!<br>Profit Ratio = !9(12) : 8(12) : 4(4) = 108 : 96 : 16 = 27 : 24 : 4!<br>Z's Share = !\\\\dfrac{4}{55} \\\\times 1,34,750 = 4 \\\\times 2450 = 9,800!<br><br><b>Final Answer:</b> !9,800!"
+  },
+  {
+    "section": "Maths",
+    "topic": "Partnership",
+    "difficulty": "Medium",
+    "q_en": "A, B and C started a business together. The respective ratio of investments of A and B was 3:5 and the respective ratio of investments of B and C was 10:13. If at the end of the year, C received ₹ 8,814 as his share of annual profit, what was the total annual profit earned by all of them together?",
+    "q_hi": "A, B और C ने एक साथ एक व्यवसाय शुरू किया। A और B के निवेश का क्रमशः अनुपात 3:5 था और B और C के निवेश का क्रमशः अनुपात 10:13 था। यदि वर्ष के अंत में, C को वार्षिक लाभ के अपने हिस्से के रूप में ₹ 8,814 प्राप्त हुए, तो उन सभी द्वारा एक साथ अर्जित कुल वार्षिक लाभ क्या था?",
+    "op_en": [
+      "₹ !19,662!",
+      "₹ !18,500!",
+      "₹ !20,400!",
+      "₹ !21,000!"
+    ],
+    "op_hi": [
+      "₹ !19,662!",
+      "₹ !18,500!",
+      "₹ !20,400!",
+      "₹ !21,000!"
+    ],
+    "ans": 1,
+    "solution": "<b>Solution (EN):</b><br>We are given the individual investment ratios:<br>A : B = !3 : 5!<br>B : C = !10 : 13!<br>To combine these ratios, make the value of B equal in both ratios. We can multiply the A : B ratio by !2!.<br>A : B = !(3 \\\\times 2) : (5 \\\\times 2) = 6 : 10!<br>Now we can combine them directly:<br>A : B : C = !6 : 10 : 13!<br>Since the time period of investment is the same for all (1 year), the profit will be shared in the ratio of their investments.<br>Profit ratio A : B : C = !6 : 10 : 13!<br>Sum of the profit ratios = !6 + 10 + 13 = 29! units.<br>We are given that C's share is ₹ !8,814!.<br>!13! units = !8,814!<br>!\\\\Rightarrow 1! unit = !\\\\dfrac{8814}{13} = 678!<br>Total annual profit = !29! units.<br>Total profit = !29 \\\\times 678 = 19,662!<br>Therefore, the total annual profit earned by all of them together is ₹ !19,662!.<br><br><b>Solution (HI):</b><br>हमें अलग-अलग निवेश अनुपात दिए गए हैं:<br>A : B = !3 : 5!<br>B : C = !10 : 13!<br>इन अनुपातों को संयोजित करने के लिए, दोनों अनुपातों में B का मान समान करें। हम A : B अनुपात को !2! से गुणा कर सकते हैं।<br>A : B = !(3 \\\\times 2) : (5 \\\\times 2) = 6 : 10!<br>अब हम उन्हें सीधे जोड़ सकते हैं:<br>A : B : C = !6 : 10 : 13!<br>चूंकि निवेश की समय अवधि सभी के लिए समान (1 वर्ष) है, इसलिए लाभ उनके निवेश के अनुपात में साझा किया जाएगा।<br>लाभ का अनुपात A : B : C = !6 : 10 : 13!<br>लाभ के अनुपातों का योग = !6 + 10 + 13 = 29! इकाइयाँ।<br>हमें दिया गया है कि C का हिस्सा ₹ !8,814! है।<br>!13! इकाइयाँ = !8,814!<br>!\\\\Rightarrow 1! इकाई = !\\\\dfrac{8814}{13} = 678!<br>कुल वार्षिक लाभ = !29! इकाइयाँ।<br>कुल लाभ = !29 \\\\times 678 = 19,662!<br>अतः, उन सभी द्वारा एक साथ अर्जित कुल वार्षिक लाभ ₹ !19,662! है।<br><br><b>Short Trick:</b><br>Combined Ratio A : B : C = !6 : 10 : 13!<br>!13! units = !8,814 \\\\Rightarrow 1! unit = !678!<br>Total Profit = !(6 + 10 + 13) \\\\times 678 = 29 \\\\times 678 = 19,662!<br><br><b>Final Answer:</b> !19,662!"
+  },
+  {
+    "section": "Maths",
+    "topic": "Partnership",
+    "difficulty": "Easy",
+    "q_en": "A invests ₹ 50,000 at the beginning of a venture. 6 months later, B also joins this venture and invests ₹ 40,000. This venture runs for 12 months and earns a profit of ₹ 18,000. Find B's share in the profit. (Round off to the next whole number)",
+    "q_hi": "A एक उद्यम की शुरुआत में ₹ 50,000 का निवेश करता है। 6 महीने बाद B भी इस उद्यम में सम्मिलित हो जाता है और ₹ 40,000 का निवेश करता है। यह उद्यम 12 महीने तक चलता है और ₹ 18,000 का लाभ अर्जित करता है। लाभ में B का हिस्सा ज्ञात कीजिए। (अगली पूर्ण संख्या तक पूर्णांकित कीजिए)",
+    "op_en": [
+      "₹ !7,582!",
+      "₹ !8,257!",
+      "₹ !6,314!",
+      "₹ !5,143!"
+    ],
+    "op_hi": [
+      "₹ !7,582!",
+      "₹ !8,257!",
+      "₹ !6,314!",
+      "₹ !5,143!"
+    ],
+    "ans": 4,
+    "solution": "<b>Solution (EN):</b><br>A's investment is for !12! months, and B joins after !6! months, so B's investment is for the remaining !6! months.<br>A's effective investment = !50,000 \\\\times 12 = 6,00,000!<br>B's effective investment = !40,000 \\\\times 6 = 2,40,000!<br>Ratio of their profit shares (A : B) = !6,00,000 : 2,40,000!<br>!\\\\Rightarrow 60 : 24 = 5 : 2!<br>Total units of profit = !5 + 2 = 7! units.<br>Total profit = ₹ !18,000!<br>B's share = !\\\\dfrac{2}{7} \\\\times 18,000 = \\\\dfrac{36000}{7} = 5142.857...!<br>Rounding off to the next whole number, B's share is ₹ !5,143!.<br><br><b>Solution (HI):</b><br>A का निवेश !12! महीनों के लिए है, और B !6! महीने बाद जुड़ता है, इसलिए B का निवेश शेष !6! महीनों के लिए है।<br>A का प्रभावी निवेश = !50,000 \\\\times 12 = 6,00,000!<br>B का प्रभावी निवेश = !40,000 \\\\times 6 = 2,40,000!<br>उनके लाभ के हिस्सों का अनुपात (A : B) = !6,00,000 : 2,40,000!<br>!\\\\Rightarrow 60 : 24 = 5 : 2!<br>लाभ की कुल इकाइयाँ = !5 + 2 = 7! इकाइयाँ।<br>कुल लाभ = ₹ !18,000!<br>B का हिस्सा = !\\\\dfrac{2}{7} \\\\times 18,000 = \\\\dfrac{36000}{7} = 5142.857...!<br>अगली पूर्ण संख्या में पूर्णांकित करने पर, B का हिस्सा ₹ !5,143! है।<br><br><b>Short Trick:</b><br>Investment Ratio A:B = !(50 \\\\times 12) : (40 \\\\times 6) = 600 : 240 = 5 : 2!<br>Total parts = !7!<br>B's Share = !\\\\dfrac{2}{7} \\\\times 18,000 \\\\approx 5,143!<br><br><b>Final Answer:</b> !5,143!"
+  },
+  {
+    "section": "Maths",
+    "topic": "Partnership",
+    "difficulty": "Easy",
+    "q_en": "X, Y, and Z are partners in a business. X and Y invested ₹ 50,000 and ₹ 40,000, respectively, at the beginning of the year. Z joined the partnership after six months with an investment of ₹ 60,000. The total profit for the year is ₹ 1,20,000. How much profit will Z receive at the end of the year?",
+    "q_hi": "X, Y और Z एक व्यवसाय में साझेदार हैं। X और Y ने वर्ष के आरंभ में क्रमशः ₹ 50,000 और ₹ 40,000 का निवेश किया। Z छह महीने बाद ₹ 60,000 के निवेश के साथ साझेदारी में शामिल हो गया। वर्ष का कुल लाभ ₹ 1,20,000 है। वर्ष के अंत में Z को कितना लाभ प्राप्त होगा?",
+    "op_en": [
+      "₹ !18,000!",
+      "₹ !20,000!",
+      "₹ !30,000!",
+      "₹ !24,000!"
+    ],
+    "op_hi": [
+      "₹ !18,000!",
+      "₹ !20,000!",
+      "₹ !30,000!",
+      "₹ !24,000!"
+    ],
+    "ans": 3,
+    "solution": "<b>Solution (EN):</b><br>Profits are distributed in the ratio of the product of investment and the time period.<br>X invested for !12! months. Effective investment = !50,000 \\\\times 12!<br>Y invested for !12! months. Effective investment = !40,000 \\\\times 12!<br>Z invested for !6! months (joined after 6 months). Effective investment = !60,000 \\\\times 6!<br>Ratio of profits (X : Y : Z) = !(50 \\\\times 12) : (40 \\\\times 12) : (60 \\\\times 6)!<br>!\\\\Rightarrow 600 : 480 : 360!<br>Dividing by !120!:<br>!\\\\Rightarrow 5 : 4 : 3!<br>Total units of profit = !5 + 4 + 3 = 12! units.<br>Total profit = ₹ !1,20,000!<br>Value of !1! unit = !\\\\dfrac{120000}{12} = 10,000!<br>Z's profit = !3! units = !3 \\\\times 10,000 = 30,000!<br><br><b>Solution (HI):</b><br>लाभ को निवेश और समय अवधि के गुणनफल के अनुपात में वितरित किया जाता है।<br>X ने !12! महीने के लिए निवेश किया। प्रभावी निवेश = !50,000 \\\\times 12!<br>Y ने !12! महीने के लिए निवेश किया। प्रभावी निवेश = !40,000 \\\\times 12!<br>Z ने !6! महीने के लिए निवेश किया (6 महीने बाद शामिल हुआ)। प्रभावी निवेश = !60,000 \\\\times 6!<br>लाभ का अनुपात (X : Y : Z) = !(50 \\\\times 12) : (40 \\\\times 12) : (60 \\\\times 6)!<br>!\\\\Rightarrow 600 : 480 : 360!<br>!120! से विभाजित करने पर:<br>!\\\\Rightarrow 5 : 4 : 3!<br>लाभ की कुल इकाइयाँ = !5 + 4 + 3 = 12! इकाइयाँ।<br>कुल लाभ = ₹ !1,20,000!<br>!1! इकाई का मान = !\\\\dfrac{120000}{12} = 10,000!<br>Z का लाभ = !3! इकाइयाँ = !3 \\\\times 10,000 = 30,000!<br><br><b>Short Trick:</b><br>Profit Ratio = !5(12) : 4(12) : 6(6) = 60 : 48 : 36 = 5 : 4 : 3!<br>Total units = !12!<br>Z's Share = !\\\\dfrac{3}{12} \\\\times 1,20,000 = 30,000!<br><br><b>Final Answer:</b> !30,000!"
+  },
+  {
+    "section": "Maths",
+    "topic": "Partnership",
+    "difficulty": "Medium",
+    "q_en": "A and B enter into a partnership with ₹ 50,000 and ₹ 60,000 respectively. C joins the partnership after x months contributing ₹ 70,000, and B leaves the partnership x months before the end of the year. If they share the profit in the ratio 20 : 18 : 21, find the value of x.",
+    "q_hi": "A और B क्रमशः ₹ 50,000 और ₹ 60,000 के साथ एक साझेदारी में सम्मिलित होते हैं। C, x महीने बाद ₹ 70,000 का योगदान देकर साझेदारी में सम्मिलित होता है और B वर्ष के अंत से x महीने पहले साझेदारी से बाहर हो जाता है। यदि वे लाभ को 20 : 18 : 21 के अनुपात में साझा करते हैं, तो x का मान ज्ञात कीजिए।",
+    "op_en": [
+      "!8!",
+      "!6!",
+      "!3!",
+      "!9!"
+    ],
+    "op_hi": [
+      "!8!",
+      "!6!",
+      "!3!",
+      "!9!"
+    ],
+    "ans": 3,
+    "solution": "<b>Solution (EN):</b><br>Let the total duration of the partnership be !12! months.<br>A invested ₹ !50,000! for the entire year (!12! months).<br>B invested ₹ !60,000! and left !x! months before the end of the year, so B's investment was for !(12 - x)! months.<br>C joined after !x! months with ₹ !70,000!, so C's investment was for !(12 - x)! months.<br>Ratio of their effective investments (A : B : C):<br>!\\\\Rightarrow (50,000 \\\\times 12) : (60,000 \\\\times (12 - x)) : (70,000 \\\\times (12 - x))!<br>Divide the ratio by !10,000! to simplify:<br>!\\\\Rightarrow (5 \\\\times 12) : (6 \\\\times (12 - x)) : (7 \\\\times (12 - x))!<br>!\\\\Rightarrow 60 : 6(12 - x) : 7(12 - x)!<br>We are given that the profit sharing ratio is !20 : 18 : 21!.<br>Equating A's share ratio to !20! units:<br>!20 \\\\text{ units} = 60 \\\\Rightarrow 1 \\\\text{ unit} = 3!<br>Now, equate B's share ratio to !18! units:<br>!18 \\\\text{ units} = 18 \\\\times 3 = 54!<br>So, !6(12 - x) = 54!<br>!\\\\Rightarrow 12 - x = 9!<br>!\\\\Rightarrow x = 3!<br>Checking with C's share: !21 \\\\text{ units} = 21 \\\\times 3 = 63!.<br>!7(12 - x) = 7(12 - 3) = 7 \\\\times 9 = 63!. This matches perfectly.<br>Therefore, the value of !x! is !3!.<br><br><b>Solution (HI):</b><br>मान लीजिए कि साझेदारी की कुल अवधि !12! महीने है।<br>A ने पूरे वर्ष (!12! महीने) के लिए ₹ !50,000! का निवेश किया।<br>B ने ₹ !60,000! का निवेश किया और वर्ष के अंत से !x! महीने पहले छोड़ दिया, इसलिए B का निवेश !(12 - x)! महीनों के लिए था।<br>C !x! महीने बाद ₹ !70,000! के साथ शामिल हुआ, इसलिए C का निवेश !(12 - x)! महीनों के लिए था।<br>उनके प्रभावी निवेश का अनुपात (A : B : C):<br>!\\\\Rightarrow (50,000 \\\\times 12) : (60,000 \\\\times (12 - x)) : (70,000 \\\\times (12 - x))!<br>सरल करने के लिए अनुपात को !10,000! से विभाजित करें:<br>!\\\\Rightarrow (5 \\\\times 12) : (6 \\\\times (12 - x)) : (7 \\\\times (12 - x))!<br>!\\\\Rightarrow 60 : 6(12 - x) : 7(12 - x)!<br>हमें दिया गया है कि लाभ साझा करने का अनुपात !20 : 18 : 21! है।<br>A के हिस्से के अनुपात को !20! इकाइयों के बराबर करने पर:<br>!20 \\\\text{ इकाइयाँ} = 60 \\\\Rightarrow 1 \\\\text{ इकाई} = 3!<br>अब, B के हिस्से के अनुपात को !18! इकाइयों के बराबर करें:<br>!18 \\\\text{ इकाइयाँ} = 18 \\\\times 3 = 54!<br>इसलिए, !6(12 - x) = 54!<br>!\\\\Rightarrow 12 - x = 9!<br>!\\\\Rightarrow x = 3!<br>C के हिस्से से जाँच करने पर: !21 \\\\text{ इकाइयाँ} = 21 \\\\times 3 = 63!।<br>!7(12 - x) = 7(12 - 3) = 7 \\\\times 9 = 63!। यह पूरी तरह से मेल खाता है।<br>अतः, !x! का मान !3! है।<br><br><b>Short Trick:</b><br>Ratio A:B = !5(12) : 6(12 - x) = 20 : 18!<br>!\\\\Rightarrow \\\\dfrac{60}{6(12 - x)} = \\\\dfrac{20}{18}!<br>!\\\\Rightarrow \\\\dfrac{10}{12 - x} = \\\\dfrac{10}{9}!<br>!\\\\Rightarrow 12 - x = 9 \\\\Rightarrow x = 3!<br><br><b>Final Answer:</b> !3!"
+  }
+]
