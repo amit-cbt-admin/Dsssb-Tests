@@ -1,0 +1,2102 @@
+[
+  {
+    "section": "Hindi",
+    "topic": "General",
+    "difficulty": "Medium",
+    "q_en": "पूर्णतः शुद्ध वाक्य के विकल्प की पहचान कीजिए-",
+    "q_hi": "पूर्णतः शुद्ध वाक्य के विकल्प की पहचान कीजिए-",
+    "op_en": [
+      "मेरे मित्र ने यह पुस्तक आपको समर्पित की है।",
+      "छात्रों का लक्ष्य ज्ञान-प्राप्ति होनी चाहिए।",
+      "बीस रुपया में यह चादर बेच देना चाहिए।",
+      "मनुष्य़ का मन सदा गतिशील रहती है।"
+    ],
+    "op_hi": [
+      "मेरे मित्र ने यह पुस्तक आपको समर्पित की है।",
+      "छात्रों का लक्ष्य ज्ञान-प्राप्ति होनी चाहिए।",
+      "बीस रुपया में यह चादर बेच देना चाहिए।",
+      "मनुष्य़ का मन सदा गतिशील रहती है।"
+    ],
+    "ans": 1,
+    "solution": "<b>Solution:</b><br><br><b>Final Answer:</b> !1!"
+  },
+  {
+    "section": "Hindi",
+    "topic": "General",
+    "difficulty": "Medium",
+    "q_en": "दिए गए वाक्य में परिमाणवाचक क्रिया-विशेषण का चयन करके रिक्त स्थान की पूर्ति करें-<br><br>वर्तमान में आधुनिक तकनीक के कारण सूचना ------- तेज़ी से फैलती है।",
+    "q_hi": "दिए गए वाक्य में परिमाणवाचक क्रिया-विशेषण का चयन करके रिक्त स्थान की पूर्ति करें-<br><br>वर्तमान में आधुनिक तकनीक के कारण सूचना ------- तेज़ी से फैलती है।",
+    "op_en": [
+      "अचानक&nbsp;",
+      "अत्यंत",
+      "सचमुच&nbsp;",
+      "हमेशा"
+    ],
+    "op_hi": [
+      "अचानक&nbsp;",
+      "अत्यंत",
+      "सचमुच&nbsp;",
+      "हमेशा"
+    ],
+    "ans": 2,
+    "solution": "<b>Solution:</b><br><br><b>Final Answer:</b> !2!"
+  },
+  {
+    "section": "Hindi",
+    "topic": "General",
+    "difficulty": "Medium",
+    "q_en": "निम्नलिखित वाक्य के रिक्त स्थान की पूर्ति उचित विशेषण शब्द से कीजिए। <br>वसंत ऋतु में खिले फूलों की ____ छटा ने पूरे उपवन को जीवंत बना दिया।",
+    "q_hi": "निम्नलिखित वाक्य के रिक्त स्थान की पूर्ति उचित विशेषण शब्द से कीजिए। <br>वसंत ऋतु में खिले फूलों की ____ छटा ने पूरे उपवन को जीवंत बना दिया।",
+    "op_en": [
+      "रंगीन",
+      "हरी",
+      "रंगत",
+      "काली"
+    ],
+    "op_hi": [
+      "रंगीन",
+      "हरी",
+      "रंगत",
+      "काली"
+    ],
+    "ans": 1,
+    "solution": "<b>Solution:</b><br><br><b>Final Answer:</b> !1!"
+  },
+  {
+    "section": "Hindi",
+    "topic": "General",
+    "difficulty": "Medium",
+    "q_en": "नीचे दिए गए वाक्यों को क्रम में व्यवस्थित करें।<br>अ. सुबह 7 बजे पूजा विद्यालय जाती है।<br>ब. पगडंडी से होकर मुख्य सड़क पर जाती है।<br>स. घर से निकलते ही पगडंडी रास्ता है।<br>द. निर्धारित समय से पहले ही विद्यालय में प्रवेश कर जाती है।",
+    "q_hi": "नीचे दिए गए वाक्यों को क्रम में व्यवस्थित करें।<br>अ. सुबह 7 बजे पूजा विद्यालय जाती है।<br>ब. पगडंडी से होकर मुख्य सड़क पर जाती है।<br>स. घर से निकलते ही पगडंडी रास्ता है।<br>द. निर्धारित समय से पहले ही विद्यालय में प्रवेश कर जाती है।",
+    "op_en": [
+      "स, ब, द, अ",
+      "अ, ब, स, द",
+      "अ, द, स, ब",
+      "अ, स, ब, द"
+    ],
+    "op_hi": [
+      "स, ब, द, अ",
+      "अ, ब, स, द",
+      "अ, द, स, ब",
+      "अ, स, ब, द"
+    ],
+    "ans": 4,
+    "solution": "<b>Solution:</b><br><br><b>Final Answer:</b> !4!"
+  },
+  {
+    "section": "Hindi",
+    "topic": "General",
+    "difficulty": "Medium",
+    "q_en": "निम्नलिखित वाक्य के दोनों रिक्त स्थानों की पूर्ति एक ही उपयुक्त कारक परसर्ग से कीजिए।<br>मेनका ______  पुत्री शकुन्तला भरत _____ माँ थी",
+    "q_hi": "निम्नलिखित वाक्य के दोनों रिक्त स्थानों की पूर्ति एक ही उपयुक्त कारक परसर्ग से कीजिए।<br>मेनका ______  पुत्री शकुन्तला भरत _____ माँ थी",
+    "op_en": [
+      "तुम्हारी",
+      "की",
+      "मेरी",
+      "उसकी"
+    ],
+    "op_hi": [
+      "तुम्हारी",
+      "की",
+      "मेरी",
+      "उसकी"
+    ],
+    "ans": 2,
+    "solution": "<b>Solution:</b><br><br><b>Final Answer:</b> !2!"
+  },
+  {
+    "section": "Hindi",
+    "topic": "General",
+    "difficulty": "Medium",
+    "q_en": "निम्नलिखित में से कौन-सा विकल्प तत्सम शब्द है?",
+    "q_hi": "निम्नलिखित में से कौन-सा विकल्प तत्सम शब्द है?",
+    "op_en": [
+      "आग",
+      "पानी",
+      "दधि",
+      "आँसू"
+    ],
+    "op_hi": [
+      "आग",
+      "पानी",
+      "दधि",
+      "आँसू"
+    ],
+    "ans": 3,
+    "solution": "<b>Solution:</b><br><br><b>Final Answer:</b> !3!"
+  },
+  {
+    "section": "Hindi",
+    "topic": "General",
+    "difficulty": "Medium",
+    "q_en": "उपयुक्त विशेषण का चयन कर दिए गए वाक्य को पूर्ण कीजिए ।<br>' किसानों की पगड़ी का रंग   .............................. है।'",
+    "q_hi": "उपयुक्त विशेषण का चयन कर दिए गए वाक्य को पूर्ण कीजिए ।<br>' किसानों की पगड़ी का रंग   .............................. है।'",
+    "op_en": [
+      "तिरक्षा",
+      "पीला",
+      "भीतरी",
+      "सुडौल"
+    ],
+    "op_hi": [
+      "तिरक्षा",
+      "पीला",
+      "भीतरी",
+      "सुडौल"
+    ],
+    "ans": 2,
+    "solution": "<b>Solution:</b><br><br><b>Final Answer:</b> !2!"
+  },
+  {
+    "section": "Hindi",
+    "topic": "General",
+    "difficulty": "Medium",
+    "q_en": "‘अचम्भे ---बात सुनने योग्य ही होती है’ उपर्युक्त रिक्त स्थान  में उचित कारक का प्रयोग कीजिए-",
+    "q_hi": "‘अचम्भे ---बात सुनने योग्य ही होती है’ उपर्युक्त रिक्त स्थान  में उचित कारक का प्रयोग कीजिए-",
+    "op_en": [
+      "ने",
+      "की",
+      "के द्वारा",
+      "पर"
+    ],
+    "op_hi": [
+      "ने",
+      "की",
+      "के द्वारा",
+      "पर"
+    ],
+    "ans": 2,
+    "solution": "<b>Solution:</b><br><br><b>Final Answer:</b> !2!"
+  },
+  {
+    "section": "Hindi",
+    "topic": "General",
+    "difficulty": "Medium",
+    "q_en": "अनेकार्थी शब्द ‘सार’ का सही शब्द-युग्म क्या है?",
+    "q_hi": "अनेकार्थी शब्द ‘सार’ का सही शब्द-युग्म क्या है?",
+    "op_en": [
+      "चाल, काँटा",
+      "भ्रम,वायु",
+      "आलसी, क्रोध",
+      "तत्व, निष्कर्ष"
+    ],
+    "op_hi": [
+      "चाल, काँटा",
+      "भ्रम,वायु",
+      "आलसी, क्रोध",
+      "तत्व, निष्कर्ष"
+    ],
+    "ans": 4,
+    "solution": "<b>Solution:</b><br><br><b>Final Answer:</b> !4!"
+  },
+  {
+    "section": "Hindi",
+    "topic": "General",
+    "difficulty": "Medium",
+    "q_en": "दिए गए विकल्प में से विशेषण के उचित भेद को चुन कर वाक्य पूर्ण करें -उसने आठ दिनों तक अभ्यास किया। वाक्य में ……… विशेषण है।",
+    "q_hi": "दिए गए विकल्प में से विशेषण के उचित भेद को चुन कर वाक्य पूर्ण करें -उसने आठ दिनों तक अभ्यास किया। वाक्य में ……… विशेषण है।",
+    "op_en": [
+      "संख्यावाचक",
+      "गुणवाचक",
+      "परिमाणवाचक",
+      "सार्वनामिक"
+    ],
+    "op_hi": [
+      "संख्यावाचक",
+      "गुणवाचक",
+      "परिमाणवाचक",
+      "सार्वनामिक"
+    ],
+    "ans": 1,
+    "solution": "<b>Solution:</b><br><br><b>Final Answer:</b> !1!"
+  },
+  {
+    "section": "Hindi",
+    "topic": "General",
+    "difficulty": "Medium",
+    "q_en": "निम्नलिखित में से अशुद्ध वाक्य कौन-सा है?",
+    "q_hi": "निम्नलिखित में से अशुद्ध वाक्य कौन-सा है?",
+    "op_en": [
+      "उसे हानि उठानी पड़ी थी।",
+      "सोमवार से परीक्षा सुरु है।",
+      "वह अब नीरोग है।",
+      "तुम आजकल कहाँ रहते हो?"
+    ],
+    "op_hi": [
+      "उसे हानि उठानी पड़ी थी।",
+      "सोमवार से परीक्षा सुरु है।",
+      "वह अब नीरोग है।",
+      "तुम आजकल कहाँ रहते हो?"
+    ],
+    "ans": 2,
+    "solution": "<b>Solution:</b><br><br><b>Final Answer:</b> !2!"
+  },
+  {
+    "section": "Hindi",
+    "topic": "General",
+    "difficulty": "Medium",
+    "q_en": "निम्नलिखित लोकोक्ति का अर्थ बताइए।<br>‘कहीं की ईंट कहीं का रोड़ा, भानुमती ने कुनबा जोड़ा।’",
+    "q_hi": "निम्नलिखित लोकोक्ति का अर्थ बताइए।<br>‘कहीं की ईंट कहीं का रोड़ा, भानुमती ने कुनबा जोड़ा।’",
+    "op_en": [
+      "चीज थोड़ी और चाहने वाले बहुत।",
+      "किसी अन्य के बल पर शक्ति का प्रदर्शन।",
+      "इधर-उधर  की सामग्री से बेडौल रचना करना।",
+      "दोनों ओर से विपत्ति में फंस जाना।"
+    ],
+    "op_hi": [
+      "चीज थोड़ी और चाहने वाले बहुत।",
+      "किसी अन्य के बल पर शक्ति का प्रदर्शन।",
+      "इधर-उधर  की सामग्री से बेडौल रचना करना।",
+      "दोनों ओर से विपत्ति में फंस जाना।"
+    ],
+    "ans": 3,
+    "solution": "<b>Solution:</b><br><br><b>Final Answer:</b> !3!"
+  },
+  {
+    "section": "Hindi",
+    "topic": "General",
+    "difficulty": "Medium",
+    "q_en": "उपयुक्त क्रिया-विशेषण का चयन कर दिए गए वाक्य को पूर्ण कीजिए ।<br>' नकुल .................... चल रहा है।'",
+    "q_hi": "उपयुक्त क्रिया-विशेषण का चयन कर दिए गए वाक्य को पूर्ण कीजिए ।<br>' नकुल .................... चल रहा है।'",
+    "op_en": [
+      "पटपट",
+      "आजन्म",
+      "धीरे -धीरे",
+      "बीच-बीच"
+    ],
+    "op_hi": [
+      "पटपट",
+      "आजन्म",
+      "धीरे -धीरे",
+      "बीच-बीच"
+    ],
+    "ans": 3,
+    "solution": "<b>Solution:</b><br><br><b>Final Answer:</b> !3!"
+  },
+  {
+    "section": "Hindi",
+    "topic": "General",
+    "difficulty": "Medium",
+    "q_en": "नीचे दिए गए वाक्य खंडों को सही क्रम में व्यवस्थित कीजिए -<br>1. लाठी में <br>2. सिर खुल गया<br>3. बेचारे का <br>4. एक ही",
+    "q_hi": "नीचे दिए गए वाक्य खंडों को सही क्रम में व्यवस्थित कीजिए -<br>1. लाठी में <br>2. सिर खुल गया<br>3. बेचारे का <br>4. एक ही",
+    "op_en": [
+      "2134",
+      "4132",
+      "3142",
+      "1432"
+    ],
+    "op_hi": [
+      "2134",
+      "4132",
+      "3142",
+      "1432"
+    ],
+    "ans": 2,
+    "solution": "<b>Solution:</b><br><br><b>Final Answer:</b> !2!"
+  },
+  {
+    "section": "Hindi",
+    "topic": "General",
+    "difficulty": "Medium",
+    "q_en": "निम्नलिखित वाक्यांश के लिए सार्थक शब्द लिखें।<br>‘गुरु के समीप रहने वाला विद्यार्थी।’",
+    "q_hi": "निम्नलिखित वाक्यांश के लिए सार्थक शब्द लिखें।<br>‘गुरु के समीप रहने वाला विद्यार्थी।’",
+    "op_en": [
+      "अंतेवासी &nbsp;&nbsp;&nbsp;&nbsp;",
+      "उपासनार्थी",
+      "अध्यवासी&nbsp;&nbsp;&nbsp;&nbsp;",
+      "अनुगामी&nbsp;&nbsp;&nbsp;&nbsp;"
+    ],
+    "op_hi": [
+      "अंतेवासी &nbsp;&nbsp;&nbsp;&nbsp;",
+      "उपासनार्थी",
+      "अध्यवासी&nbsp;&nbsp;&nbsp;&nbsp;",
+      "अनुगामी&nbsp;&nbsp;&nbsp;&nbsp;"
+    ],
+    "ans": 1,
+    "solution": "<b>Solution:</b><br><br><b>Final Answer:</b> !1!"
+  },
+  {
+    "section": "Hindi1",
+    "topic": "General",
+    "difficulty": "Medium",
+    "q_en": "नीचे दिए गए शब्दों में से एक अनेकार्थी शब्द है -",
+    "q_hi": "नीचे दिए गए शब्दों में से एक अनेकार्थी शब्द है -",
+    "op_en": [
+      "बेजान",
+      "आचार्य",
+      "महिमा",
+      "वैज्ञानिक"
+    ],
+    "op_hi": [
+      "बेजान",
+      "आचार्य",
+      "महिमा",
+      "वैज्ञानिक"
+    ],
+    "ans": 2,
+    "solution": "<b>Solution:</b><br><br><b>Final Answer:</b> !2!"
+  },
+  {
+    "section": "Hindi1",
+    "topic": "General",
+    "difficulty": "Medium",
+    "q_en": "‘मक्षिका’ का तद्भव शब्द होगा –",
+    "q_hi": "‘मक्षिका’ का तद्भव शब्द होगा –",
+    "op_en": [
+      "मक्खी",
+      "मछली",
+      "मत्स्य",
+      "मत्सर"
+    ],
+    "op_hi": [
+      "मक्खी",
+      "मछली",
+      "मत्स्य",
+      "मत्सर"
+    ],
+    "ans": 1,
+    "solution": "<b>Solution:</b><br><br><b>Final Answer:</b> !1!"
+  },
+  {
+    "section": "Hindi1",
+    "topic": "General",
+    "difficulty": "Medium",
+    "q_en": "वाक्य में त्रुटि की पहचान करें।<br>वहाँ दिल्ली अवश्य आएगा।",
+    "q_hi": "वाक्य में त्रुटि की पहचान करें।<br>वहाँ दिल्ली अवश्य आएगा।",
+    "op_en": [
+      "आएगा",
+      "वहाँ",
+      "अवश्य",
+      "दिल्ली"
+    ],
+    "op_hi": [
+      "आएगा",
+      "वहाँ",
+      "अवश्य",
+      "दिल्ली"
+    ],
+    "ans": 2,
+    "solution": "<b>Solution:</b><br><br><b>Final Answer:</b> !2!"
+  },
+  {
+    "section": "Hindi1",
+    "topic": "General",
+    "difficulty": "Medium",
+    "q_en": "निम्न में से कौन -सा शब्द अनेकार्थी शब्द नहीं है?",
+    "q_hi": "निम्न में से कौन -सा शब्द अनेकार्थी शब्द नहीं है?",
+    "op_en": [
+      "क्षुद्र",
+      "गद्दी",
+      "खर",
+      "नभ"
+    ],
+    "op_hi": [
+      "क्षुद्र",
+      "गद्दी",
+      "खर",
+      "नभ"
+    ],
+    "ans": 4,
+    "solution": "<b>Solution:</b><br><br><b>Final Answer:</b> !4!"
+  },
+  {
+    "section": "Hindi1",
+    "topic": "General",
+    "difficulty": "Medium",
+    "q_en": "निम्न मुहावरा का सही अर्थ अंकित कीजिए।<br>आँखों का पानी सूख जाना-",
+    "q_hi": "निम्न मुहावरा का सही अर्थ अंकित कीजिए।<br>आँखों का पानी सूख जाना-",
+    "op_en": [
+      "उसने बिना किसी प्रभाव के अपनी राह चुनी।",
+      "बेशर्म होना।",
+      "उसने खुद के विचारों से बदलाव किया।",
+      "वे बिना दूसरों की परवाह किए वैसे ही बने रहे।"
+    ],
+    "op_hi": [
+      "उसने बिना किसी प्रभाव के अपनी राह चुनी।",
+      "बेशर्म होना।",
+      "उसने खुद के विचारों से बदलाव किया।",
+      "वे बिना दूसरों की परवाह किए वैसे ही बने रहे।"
+    ],
+    "ans": 2,
+    "solution": "<b>Solution:</b><br><br><b>Final Answer:</b> !2!"
+  },
+  {
+    "section": "Hindi1",
+    "topic": "General",
+    "difficulty": "Medium",
+    "q_en": "<div style=\"background:#f9f9f9; padding:12px; margin-bottom:15px; border:1px solid #ddd; border-radius:5px;\"><b>Comprehension / गद्यांश:</b><br><br>दिए गए गद्यांश को ध्यानपूर्वक पढ़कर पूछे गए प्रश्नों के सर्वाधिक उपयुक्त उत्तर वाले विकल्प का चुनाव कीजिए– <br>भारत के हिंदुओं की स्वतंत्रता खो गई, संपत्ति लुट गई, उनके विपुल ऐश्वर्य के गौरव मंडित स्मारक भी लुप्त हो गए; पर उन्होंने अपने साहित्य का बहुलांश बचा लिया । उसे भ्रष्ट न होने दिया । जब ग्रंथों पर आपत्ति देखी कि वे फाड़े और जलाए जा रहे हैं, तब मस्तिष्क और कंठ में धारण कर उन्हें वाणी का अमृत पिलाया । भला, अपने पूर्वजों के उस ज्ञान-भंडार को हम भी क्यों न बचाएँ? हमारा यही धर्म और कर्तव्य है । हमारा वह साहित्य विश्व साहित्य का मेरुदंड है । उसकी प्रखर किरणें भूमंडल में फैली हुई हैं । उसके ख़जाने की भी खुले-ख़जाने लूट-खंसोट हुई है । फिर भी, उसकी रीढ़ नहीं टूटी । उसमें आज भी जो कुछ है- अनोखा है, अनूठा है, अमूल्य है, अनिवर्चनीय है । हमारी हिंदी का साहित्य अभी शायद आधे से अधिक अप्रकाशित ही है । अनेक प्राचीन ग्रंथ कहीं बेठनों में लिपटे पड़े हैं, कहीं कूप-मंडूकों के घर में दीमकों को दावत दे रहे हैं ।<br><br><b> SubQuestion No : 6</b><br><br></div><b>Question:</b><br>'वाणी का अमृत पिलाया' से क्या आशय है?",
+    "q_hi": "<div style=\"background:#f9f9f9; padding:12px; margin-bottom:15px; border:1px solid #ddd; border-radius:5px;\"><b>Comprehension / गद्यांश:</b><br><br>दिए गए गद्यांश को ध्यानपूर्वक पढ़कर पूछे गए प्रश्नों के सर्वाधिक उपयुक्त उत्तर वाले विकल्प का चुनाव कीजिए– <br>भारत के हिंदुओं की स्वतंत्रता खो गई, संपत्ति लुट गई, उनके विपुल ऐश्वर्य के गौरव मंडित स्मारक भी लुप्त हो गए; पर उन्होंने अपने साहित्य का बहुलांश बचा लिया । उसे भ्रष्ट न होने दिया । जब ग्रंथों पर आपत्ति देखी कि वे फाड़े और जलाए जा रहे हैं, तब मस्तिष्क और कंठ में धारण कर उन्हें वाणी का अमृत पिलाया । भला, अपने पूर्वजों के उस ज्ञान-भंडार को हम भी क्यों न बचाएँ? हमारा यही धर्म और कर्तव्य है । हमारा वह साहित्य विश्व साहित्य का मेरुदंड है । उसकी प्रखर किरणें भूमंडल में फैली हुई हैं । उसके ख़जाने की भी खुले-ख़जाने लूट-खंसोट हुई है । फिर भी, उसकी रीढ़ नहीं टूटी । उसमें आज भी जो कुछ है- अनोखा है, अनूठा है, अमूल्य है, अनिवर्चनीय है । हमारी हिंदी का साहित्य अभी शायद आधे से अधिक अप्रकाशित ही है । अनेक प्राचीन ग्रंथ कहीं बेठनों में लिपटे पड़े हैं, कहीं कूप-मंडूकों के घर में दीमकों को दावत दे रहे हैं ।<br><br><b> SubQuestion No : 6</b><br><br></div><b>Question:</b><br>'वाणी का अमृत पिलाया' से क्या आशय है?",
+    "op_en": [
+      "साहित्य को बढ़ावा दिया",
+      "प्रत्यक्ष साधना पर बल दिया",
+      "ग्रंथों का मौखिक परंपरा से संरक्षण किया",
+      "ग्रंथों का अध्ययन किया"
+    ],
+    "op_hi": [
+      "साहित्य को बढ़ावा दिया",
+      "प्रत्यक्ष साधना पर बल दिया",
+      "ग्रंथों का मौखिक परंपरा से संरक्षण किया",
+      "ग्रंथों का अध्ययन किया"
+    ],
+    "ans": 3,
+    "solution": "<b>Solution:</b><br><br><b>Final Answer:</b> !3!"
+  },
+  {
+    "section": "Hindi1",
+    "topic": "General",
+    "difficulty": "Medium",
+    "q_en": "<div style=\"background:#f9f9f9; padding:12px; margin-bottom:15px; border:1px solid #ddd; border-radius:5px;\"><b>Comprehension / गद्यांश:</b><br><br>दिए गए गद्यांश को ध्यानपूर्वक पढ़कर पूछे गए प्रश्नों के सर्वाधिक उपयुक्त उत्तर वाले विकल्प का चुनाव कीजिए– <br>भारत के हिंदुओं की स्वतंत्रता खो गई, संपत्ति लुट गई, उनके विपुल ऐश्वर्य के गौरव मंडित स्मारक भी लुप्त हो गए; पर उन्होंने अपने साहित्य का बहुलांश बचा लिया । उसे भ्रष्ट न होने दिया । जब ग्रंथों पर आपत्ति देखी कि वे फाड़े और जलाए जा रहे हैं, तब मस्तिष्क और कंठ में धारण कर उन्हें वाणी का अमृत पिलाया । भला, अपने पूर्वजों के उस ज्ञान-भंडार को हम भी क्यों न बचाएँ? हमारा यही धर्म और कर्तव्य है । हमारा वह साहित्य विश्व साहित्य का मेरुदंड है । उसकी प्रखर किरणें भूमंडल में फैली हुई हैं । उसके ख़जाने की भी खुले-ख़जाने लूट-खंसोट हुई है । फिर भी, उसकी रीढ़ नहीं टूटी । उसमें आज भी जो कुछ है- अनोखा है, अनूठा है, अमूल्य है, अनिवर्चनीय है । हमारी हिंदी का साहित्य अभी शायद आधे से अधिक अप्रकाशित ही है । अनेक प्राचीन ग्रंथ कहीं बेठनों में लिपटे पड़े हैं, कहीं कूप-मंडूकों के घर में दीमकों को दावत दे रहे हैं ।<br><br><b> SubQuestion No : 7</b><br><br></div><b>Question:</b><br>गद्यांश में भारतीय साहित्य को 'विश्व साहित्य का मेरुदंड' क्यों कहा गया है?",
+    "q_hi": "<div style=\"background:#f9f9f9; padding:12px; margin-bottom:15px; border:1px solid #ddd; border-radius:5px;\"><b>Comprehension / गद्यांश:</b><br><br>दिए गए गद्यांश को ध्यानपूर्वक पढ़कर पूछे गए प्रश्नों के सर्वाधिक उपयुक्त उत्तर वाले विकल्प का चुनाव कीजिए– <br>भारत के हिंदुओं की स्वतंत्रता खो गई, संपत्ति लुट गई, उनके विपुल ऐश्वर्य के गौरव मंडित स्मारक भी लुप्त हो गए; पर उन्होंने अपने साहित्य का बहुलांश बचा लिया । उसे भ्रष्ट न होने दिया । जब ग्रंथों पर आपत्ति देखी कि वे फाड़े और जलाए जा रहे हैं, तब मस्तिष्क और कंठ में धारण कर उन्हें वाणी का अमृत पिलाया । भला, अपने पूर्वजों के उस ज्ञान-भंडार को हम भी क्यों न बचाएँ? हमारा यही धर्म और कर्तव्य है । हमारा वह साहित्य विश्व साहित्य का मेरुदंड है । उसकी प्रखर किरणें भूमंडल में फैली हुई हैं । उसके ख़जाने की भी खुले-ख़जाने लूट-खंसोट हुई है । फिर भी, उसकी रीढ़ नहीं टूटी । उसमें आज भी जो कुछ है- अनोखा है, अनूठा है, अमूल्य है, अनिवर्चनीय है । हमारी हिंदी का साहित्य अभी शायद आधे से अधिक अप्रकाशित ही है । अनेक प्राचीन ग्रंथ कहीं बेठनों में लिपटे पड़े हैं, कहीं कूप-मंडूकों के घर में दीमकों को दावत दे रहे हैं ।<br><br><b> SubQuestion No : 7</b><br><br></div><b>Question:</b><br>गद्यांश में भारतीय साहित्य को 'विश्व साहित्य का मेरुदंड' क्यों कहा गया है?",
+    "op_en": [
+      "उसका वैश्विक महत्व और प्रभाव है",
+      "उसका विकास अच्छा हुआ है",
+      "धर्म का आलंबन है",
+      "वह अधिक लिखा गया है"
+    ],
+    "op_hi": [
+      "उसका वैश्विक महत्व और प्रभाव है",
+      "उसका विकास अच्छा हुआ है",
+      "धर्म का आलंबन है",
+      "वह अधिक लिखा गया है"
+    ],
+    "ans": 1,
+    "solution": "<b>Solution:</b><br><br><b>Final Answer:</b> !1!"
+  },
+  {
+    "section": "Hindi1",
+    "topic": "General",
+    "difficulty": "Medium",
+    "q_en": "<div style=\"background:#f9f9f9; padding:12px; margin-bottom:15px; border:1px solid #ddd; border-radius:5px;\"><b>Comprehension / गद्यांश:</b><br><br>दिए गए गद्यांश को ध्यानपूर्वक पढ़कर पूछे गए प्रश्नों के सर्वाधिक उपयुक्त उत्तर वाले विकल्प का चुनाव कीजिए– <br>भारत के हिंदुओं की स्वतंत्रता खो गई, संपत्ति लुट गई, उनके विपुल ऐश्वर्य के गौरव मंडित स्मारक भी लुप्त हो गए; पर उन्होंने अपने साहित्य का बहुलांश बचा लिया । उसे भ्रष्ट न होने दिया । जब ग्रंथों पर आपत्ति देखी कि वे फाड़े और जलाए जा रहे हैं, तब मस्तिष्क और कंठ में धारण कर उन्हें वाणी का अमृत पिलाया । भला, अपने पूर्वजों के उस ज्ञान-भंडार को हम भी क्यों न बचाएँ? हमारा यही धर्म और कर्तव्य है । हमारा वह साहित्य विश्व साहित्य का मेरुदंड है । उसकी प्रखर किरणें भूमंडल में फैली हुई हैं । उसके ख़जाने की भी खुले-ख़जाने लूट-खंसोट हुई है । फिर भी, उसकी रीढ़ नहीं टूटी । उसमें आज भी जो कुछ है- अनोखा है, अनूठा है, अमूल्य है, अनिवर्चनीय है । हमारी हिंदी का साहित्य अभी शायद आधे से अधिक अप्रकाशित ही है । अनेक प्राचीन ग्रंथ कहीं बेठनों में लिपटे पड़े हैं, कहीं कूप-मंडूकों के घर में दीमकों को दावत दे रहे हैं ।<br><br><b> SubQuestion No : 8</b><br><br></div><b>Question:</b><br>अनेक हिंदी के प्राचीन ग्रंथों की वर्तमान स्थिति क्या बताई गई है?",
+    "q_hi": "<div style=\"background:#f9f9f9; padding:12px; margin-bottom:15px; border:1px solid #ddd; border-radius:5px;\"><b>Comprehension / गद्यांश:</b><br><br>दिए गए गद्यांश को ध्यानपूर्वक पढ़कर पूछे गए प्रश्नों के सर्वाधिक उपयुक्त उत्तर वाले विकल्प का चुनाव कीजिए– <br>भारत के हिंदुओं की स्वतंत्रता खो गई, संपत्ति लुट गई, उनके विपुल ऐश्वर्य के गौरव मंडित स्मारक भी लुप्त हो गए; पर उन्होंने अपने साहित्य का बहुलांश बचा लिया । उसे भ्रष्ट न होने दिया । जब ग्रंथों पर आपत्ति देखी कि वे फाड़े और जलाए जा रहे हैं, तब मस्तिष्क और कंठ में धारण कर उन्हें वाणी का अमृत पिलाया । भला, अपने पूर्वजों के उस ज्ञान-भंडार को हम भी क्यों न बचाएँ? हमारा यही धर्म और कर्तव्य है । हमारा वह साहित्य विश्व साहित्य का मेरुदंड है । उसकी प्रखर किरणें भूमंडल में फैली हुई हैं । उसके ख़जाने की भी खुले-ख़जाने लूट-खंसोट हुई है । फिर भी, उसकी रीढ़ नहीं टूटी । उसमें आज भी जो कुछ है- अनोखा है, अनूठा है, अमूल्य है, अनिवर्चनीय है । हमारी हिंदी का साहित्य अभी शायद आधे से अधिक अप्रकाशित ही है । अनेक प्राचीन ग्रंथ कहीं बेठनों में लिपटे पड़े हैं, कहीं कूप-मंडूकों के घर में दीमकों को दावत दे रहे हैं ।<br><br><b> SubQuestion No : 8</b><br><br></div><b>Question:</b><br>अनेक हिंदी के प्राचीन ग्रंथों की वर्तमान स्थिति क्या बताई गई है?",
+    "op_en": [
+      "वे नष्ट हो चुके हैं",
+      "वे संग्रहालयों में सुरक्षित हैं",
+      "वे प्रकाशित हो चुके हैं",
+      "वे अप्रकाशित और उपेक्षित पड़े हैं"
+    ],
+    "op_hi": [
+      "वे नष्ट हो चुके हैं",
+      "वे संग्रहालयों में सुरक्षित हैं",
+      "वे प्रकाशित हो चुके हैं",
+      "वे अप्रकाशित और उपेक्षित पड़े हैं"
+    ],
+    "ans": 4,
+    "solution": "<b>Solution:</b><br><br><b>Final Answer:</b> !4!"
+  },
+  {
+    "section": "Hindi1",
+    "topic": "General",
+    "difficulty": "Medium",
+    "q_en": "<div style=\"background:#f9f9f9; padding:12px; margin-bottom:15px; border:1px solid #ddd; border-radius:5px;\"><b>Comprehension / गद्यांश:</b><br><br>दिए गए गद्यांश को ध्यानपूर्वक पढ़कर पूछे गए प्रश्नों के सर्वाधिक उपयुक्त उत्तर वाले विकल्प का चुनाव कीजिए– <br>भारत के हिंदुओं की स्वतंत्रता खो गई, संपत्ति लुट गई, उनके विपुल ऐश्वर्य के गौरव मंडित स्मारक भी लुप्त हो गए; पर उन्होंने अपने साहित्य का बहुलांश बचा लिया । उसे भ्रष्ट न होने दिया । जब ग्रंथों पर आपत्ति देखी कि वे फाड़े और जलाए जा रहे हैं, तब मस्तिष्क और कंठ में धारण कर उन्हें वाणी का अमृत पिलाया । भला, अपने पूर्वजों के उस ज्ञान-भंडार को हम भी क्यों न बचाएँ? हमारा यही धर्म और कर्तव्य है । हमारा वह साहित्य विश्व साहित्य का मेरुदंड है । उसकी प्रखर किरणें भूमंडल में फैली हुई हैं । उसके ख़जाने की भी खुले-ख़जाने लूट-खंसोट हुई है । फिर भी, उसकी रीढ़ नहीं टूटी । उसमें आज भी जो कुछ है- अनोखा है, अनूठा है, अमूल्य है, अनिवर्चनीय है । हमारी हिंदी का साहित्य अभी शायद आधे से अधिक अप्रकाशित ही है । अनेक प्राचीन ग्रंथ कहीं बेठनों में लिपटे पड़े हैं, कहीं कूप-मंडूकों के घर में दीमकों को दावत दे रहे हैं ।<br><br><b> SubQuestion No : 9</b><br><br></div><b>Question:</b><br>'कूप-मंडूक’ शब्द का प्रयोग किनके लिए हुआ है?",
+    "q_hi": "<div style=\"background:#f9f9f9; padding:12px; margin-bottom:15px; border:1px solid #ddd; border-radius:5px;\"><b>Comprehension / गद्यांश:</b><br><br>दिए गए गद्यांश को ध्यानपूर्वक पढ़कर पूछे गए प्रश्नों के सर्वाधिक उपयुक्त उत्तर वाले विकल्प का चुनाव कीजिए– <br>भारत के हिंदुओं की स्वतंत्रता खो गई, संपत्ति लुट गई, उनके विपुल ऐश्वर्य के गौरव मंडित स्मारक भी लुप्त हो गए; पर उन्होंने अपने साहित्य का बहुलांश बचा लिया । उसे भ्रष्ट न होने दिया । जब ग्रंथों पर आपत्ति देखी कि वे फाड़े और जलाए जा रहे हैं, तब मस्तिष्क और कंठ में धारण कर उन्हें वाणी का अमृत पिलाया । भला, अपने पूर्वजों के उस ज्ञान-भंडार को हम भी क्यों न बचाएँ? हमारा यही धर्म और कर्तव्य है । हमारा वह साहित्य विश्व साहित्य का मेरुदंड है । उसकी प्रखर किरणें भूमंडल में फैली हुई हैं । उसके ख़जाने की भी खुले-ख़जाने लूट-खंसोट हुई है । फिर भी, उसकी रीढ़ नहीं टूटी । उसमें आज भी जो कुछ है- अनोखा है, अनूठा है, अमूल्य है, अनिवर्चनीय है । हमारी हिंदी का साहित्य अभी शायद आधे से अधिक अप्रकाशित ही है । अनेक प्राचीन ग्रंथ कहीं बेठनों में लिपटे पड़े हैं, कहीं कूप-मंडूकों के घर में दीमकों को दावत दे रहे हैं ।<br><br><b> SubQuestion No : 9</b><br><br></div><b>Question:</b><br>'कूप-मंडूक’ शब्द का प्रयोग किनके लिए हुआ है?",
+    "op_en": [
+      "विद्वानों के लिए",
+      "जागरूक लोगों के लिए",
+      "कवियों के लिए",
+      "संकीर्ण दृष्टि वाले लोगों के लिए"
+    ],
+    "op_hi": [
+      "विद्वानों के लिए",
+      "जागरूक लोगों के लिए",
+      "कवियों के लिए",
+      "संकीर्ण दृष्टि वाले लोगों के लिए"
+    ],
+    "ans": 4,
+    "solution": "<b>Solution:</b><br><br><b>Final Answer:</b> !4!"
+  },
+  {
+    "section": "Hindi1",
+    "topic": "General",
+    "difficulty": "Medium",
+    "q_en": "<div style=\"background:#f9f9f9; padding:12px; margin-bottom:15px; border:1px solid #ddd; border-radius:5px;\"><b>Comprehension / गद्यांश:</b><br><br>दिए गए गद्यांश को ध्यानपूर्वक पढ़कर पूछे गए प्रश्नों के सर्वाधिक उपयुक्त उत्तर वाले विकल्प का चुनाव कीजिए– <br>भारत के हिंदुओं की स्वतंत्रता खो गई, संपत्ति लुट गई, उनके विपुल ऐश्वर्य के गौरव मंडित स्मारक भी लुप्त हो गए; पर उन्होंने अपने साहित्य का बहुलांश बचा लिया । उसे भ्रष्ट न होने दिया । जब ग्रंथों पर आपत्ति देखी कि वे फाड़े और जलाए जा रहे हैं, तब मस्तिष्क और कंठ में धारण कर उन्हें वाणी का अमृत पिलाया । भला, अपने पूर्वजों के उस ज्ञान-भंडार को हम भी क्यों न बचाएँ? हमारा यही धर्म और कर्तव्य है । हमारा वह साहित्य विश्व साहित्य का मेरुदंड है । उसकी प्रखर किरणें भूमंडल में फैली हुई हैं । उसके ख़जाने की भी खुले-ख़जाने लूट-खंसोट हुई है । फिर भी, उसकी रीढ़ नहीं टूटी । उसमें आज भी जो कुछ है- अनोखा है, अनूठा है, अमूल्य है, अनिवर्चनीय है । हमारी हिंदी का साहित्य अभी शायद आधे से अधिक अप्रकाशित ही है । अनेक प्राचीन ग्रंथ कहीं बेठनों में लिपटे पड़े हैं, कहीं कूप-मंडूकों के घर में दीमकों को दावत दे रहे हैं ।<br><br><b> SubQuestion No : 10</b><br><br></div><b>Question:</b><br>गद्यांश का मुख्य उद्देश्य क्या है?",
+    "q_hi": "<div style=\"background:#f9f9f9; padding:12px; margin-bottom:15px; border:1px solid #ddd; border-radius:5px;\"><b>Comprehension / गद्यांश:</b><br><br>दिए गए गद्यांश को ध्यानपूर्वक पढ़कर पूछे गए प्रश्नों के सर्वाधिक उपयुक्त उत्तर वाले विकल्प का चुनाव कीजिए– <br>भारत के हिंदुओं की स्वतंत्रता खो गई, संपत्ति लुट गई, उनके विपुल ऐश्वर्य के गौरव मंडित स्मारक भी लुप्त हो गए; पर उन्होंने अपने साहित्य का बहुलांश बचा लिया । उसे भ्रष्ट न होने दिया । जब ग्रंथों पर आपत्ति देखी कि वे फाड़े और जलाए जा रहे हैं, तब मस्तिष्क और कंठ में धारण कर उन्हें वाणी का अमृत पिलाया । भला, अपने पूर्वजों के उस ज्ञान-भंडार को हम भी क्यों न बचाएँ? हमारा यही धर्म और कर्तव्य है । हमारा वह साहित्य विश्व साहित्य का मेरुदंड है । उसकी प्रखर किरणें भूमंडल में फैली हुई हैं । उसके ख़जाने की भी खुले-ख़जाने लूट-खंसोट हुई है । फिर भी, उसकी रीढ़ नहीं टूटी । उसमें आज भी जो कुछ है- अनोखा है, अनूठा है, अमूल्य है, अनिवर्चनीय है । हमारी हिंदी का साहित्य अभी शायद आधे से अधिक अप्रकाशित ही है । अनेक प्राचीन ग्रंथ कहीं बेठनों में लिपटे पड़े हैं, कहीं कूप-मंडूकों के घर में दीमकों को दावत दे रहे हैं ।<br><br><b> SubQuestion No : 10</b><br><br></div><b>Question:</b><br>गद्यांश का मुख्य उद्देश्य क्या है?",
+    "op_en": [
+      "हिन्दी साहित्य का आलोचना करना",
+      "भारतीय साहित्य के संरक्षण के प्रति जागरूक करना",
+      "इतिहास का वर्णन करना",
+      "विदेशी साहित्य की प्रशंसा करना"
+    ],
+    "op_hi": [
+      "हिन्दी साहित्य का आलोचना करना",
+      "भारतीय साहित्य के संरक्षण के प्रति जागरूक करना",
+      "इतिहास का वर्णन करना",
+      "विदेशी साहित्य की प्रशंसा करना"
+    ],
+    "ans": 2,
+    "solution": "<b>Solution:</b><br><br><b>Final Answer:</b> !2!"
+  },
+  {
+    "section": "English",
+    "topic": "General",
+    "difficulty": "Medium",
+    "q_en": "Rectify the sentence by selecting the correct spelling from the options.<br><br>Everything is possible for an indestrious man.",
+    "q_hi": "Rectify the sentence by selecting the correct spelling from the options.<br><br>Everything is possible for an indestrious man.",
+    "op_en": [
+      "industriouss",
+      "industreous",
+      "industreious",
+      "industrious"
+    ],
+    "op_hi": [
+      "industriouss",
+      "industreous",
+      "industreious",
+      "industrious"
+    ],
+    "ans": 4,
+    "solution": "<b>Solution:</b><br><br><b>Final Answer:</b> !4!"
+  },
+  {
+    "section": "English",
+    "topic": "General",
+    "difficulty": "Medium",
+    "q_en": "Choose the most suitable option to substitute the underlined words in the given sentence.<br><br>Her <u>conviction that outcomes were already decided</u> influenced her decisions in nearly every sphere of life.",
+    "q_hi": "Choose the most suitable option to substitute the underlined words in the given sentence.<br><br>Her <u>conviction that outcomes were already decided</u> influenced her decisions in nearly every sphere of life.",
+    "op_en": [
+      "fatalism",
+      "optimism",
+      "ambition",
+      "curiosity"
+    ],
+    "op_hi": [
+      "fatalism",
+      "optimism",
+      "ambition",
+      "curiosity"
+    ],
+    "ans": 1,
+    "solution": "<b>Solution:</b><br><br><b>Final Answer:</b> !1!"
+  },
+  {
+    "section": "English",
+    "topic": "General",
+    "difficulty": "Medium",
+    "q_en": "Choose the words that best complete the sentence.<br>___ honesty is a virtue, but even ___ honest person may struggle to speak the truth under pressure.",
+    "q_hi": "Choose the words that best complete the sentence.<br>___ honesty is a virtue, but even ___ honest person may struggle to speak the truth under pressure.",
+    "op_en": [
+      "the, an",
+      "no article, an",
+      "no articles required",
+      "an, an"
+    ],
+    "op_hi": [
+      "the, an",
+      "no article, an",
+      "no articles required",
+      "an, an"
+    ],
+    "ans": 2,
+    "solution": "<b>Solution:</b><br><br><b>Final Answer:</b> !2!"
+  },
+  {
+    "section": "English",
+    "topic": "General",
+    "difficulty": "Medium",
+    "q_en": "Select the correct sentence from the following options that transforms the given sentence to Direct Speech.<br><br>She said that she was going to the library.",
+    "q_hi": "Select the correct sentence from the following options that transforms the given sentence to Direct Speech.<br><br>She said that she was going to the library.",
+    "op_en": [
+      "She said that, 'I am going to the library.'",
+      "She said, 'I am going to the library.'",
+      "She said that 'She is going to the library.'",
+      "She said, 'She was going to the library.'"
+    ],
+    "op_hi": [
+      "She said that, 'I am going to the library.'",
+      "She said, 'I am going to the library.'",
+      "She said that 'She is going to the library.'",
+      "She said, 'She was going to the library.'"
+    ],
+    "ans": 2,
+    "solution": "<b>Solution:</b><br><br><b>Final Answer:</b> !2!"
+  },
+  {
+    "section": "English",
+    "topic": "General",
+    "difficulty": "Medium",
+    "q_en": "Select the sentence that is NOT in the passive voice.",
+    "q_hi": "Select the sentence that is NOT in the passive voice.",
+    "op_en": [
+      "The meeting was attended by all members.",
+      "The documents were submitted by the interns.",
+      "The committee approved the proposal.",
+      "The presentation was prepared by the marketing team."
+    ],
+    "op_hi": [
+      "The meeting was attended by all members.",
+      "The documents were submitted by the interns.",
+      "The committee approved the proposal.",
+      "The presentation was prepared by the marketing team."
+    ],
+    "ans": 3,
+    "solution": "<b>Solution:</b><br><br><b>Final Answer:</b> !3!"
+  },
+  {
+    "section": "English",
+    "topic": "General",
+    "difficulty": "Medium",
+    "q_en": "Choose the most appropriate option to complete the sentence.<br><br>He ________ the report before the deadline, avoiding any inconvenience.",
+    "q_hi": "Choose the most appropriate option to complete the sentence.<br><br>He ________ the report before the deadline, avoiding any inconvenience.",
+    "op_en": [
+      "will have finished",
+      "has finished",
+      "is finishing",
+      "will finishing"
+    ],
+    "op_hi": [
+      "will have finished",
+      "has finished",
+      "is finishing",
+      "will finishing"
+    ],
+    "ans": 1,
+    "solution": "<b>Solution:</b><br><br><b>Final Answer:</b> !1!"
+  },
+  {
+    "section": "English",
+    "topic": "General",
+    "difficulty": "Medium",
+    "q_en": "Complete the sentence by selecting the correct option.<br>Mount Everest is ___ highest mountain in the world.",
+    "q_hi": "Complete the sentence by selecting the correct option.<br>Mount Everest is ___ highest mountain in the world.",
+    "op_en": [
+      "the",
+      "a",
+      "no article",
+      "an"
+    ],
+    "op_hi": [
+      "the",
+      "a",
+      "no article",
+      "an"
+    ],
+    "ans": 1,
+    "solution": "<b>Solution:</b><br><br><b>Final Answer:</b> !1!"
+  },
+  {
+    "section": "English",
+    "topic": "General",
+    "difficulty": "Medium",
+    "q_en": "Arrange the segments to form a meaningful sentence. The anchor segment must remain in the first position.<br><br>Anchor segment: Postcolonial scholars<br>A. frequently reinterpret established<br>B. engagement with colonial discourse to<br>C. reveal concealed ideological hierarchies<br>D. literary narratives through critical",
+    "q_hi": "Arrange the segments to form a meaningful sentence. The anchor segment must remain in the first position.<br><br>Anchor segment: Postcolonial scholars<br>A. frequently reinterpret established<br>B. engagement with colonial discourse to<br>C. reveal concealed ideological hierarchies<br>D. literary narratives through critical",
+    "op_en": [
+      "A  B  C  D",
+      "A  B  D  C",
+      "A  C  B  D",
+      "A  D  B  C"
+    ],
+    "op_hi": [
+      "A  B  C  D",
+      "A  B  D  C",
+      "A  C  B  D",
+      "A  D  B  C"
+    ],
+    "ans": 4,
+    "solution": "<b>Solution:</b><br><br><b>Final Answer:</b> !4!"
+  },
+  {
+    "section": "English",
+    "topic": "General",
+    "difficulty": "Medium",
+    "q_en": "Which sentence correctly uses the Present Perfect Tense?",
+    "q_hi": "Which sentence correctly uses the Present Perfect Tense?",
+    "op_en": [
+      "They finished the task already.",
+      "They have finished the task already.",
+      "They are finishing the task already.",
+      "They had finished the task already."
+    ],
+    "op_hi": [
+      "They finished the task already.",
+      "They have finished the task already.",
+      "They are finishing the task already.",
+      "They had finished the task already."
+    ],
+    "ans": 2,
+    "solution": "<b>Solution:</b><br><br><b>Final Answer:</b> !2!"
+  },
+  {
+    "section": "English",
+    "topic": "General",
+    "difficulty": "Medium",
+    "q_en": "What is the correct passive voice form of the given sentence?<br><br>The panel will announce the shortlisted candidates tomorrow.",
+    "q_hi": "What is the correct passive voice form of the given sentence?<br><br>The panel will announce the shortlisted candidates tomorrow.",
+    "op_en": [
+      "The shortlisted candidates will be announced by the panel tomorrow.",
+      "The shortlisted candidates are announced by the panel tomorrow.",
+      "The shortlisted candidates will be announcing tomorrow.",
+      "The panel will be announced the shortlisted candidates tomorrow."
+    ],
+    "op_hi": [
+      "The shortlisted candidates will be announced by the panel tomorrow.",
+      "The shortlisted candidates are announced by the panel tomorrow.",
+      "The shortlisted candidates will be announcing tomorrow.",
+      "The panel will be announced the shortlisted candidates tomorrow."
+    ],
+    "ans": 1,
+    "solution": "<b>Solution:</b><br><br><b>Final Answer:</b> !1!"
+  },
+  {
+    "section": "English",
+    "topic": "General",
+    "difficulty": "Medium",
+    "q_en": "Select the most appropriate option that rectifies the underlined incorrectly spelt word in the given sentence. <br><br>The company is known for its strong <u>ethicks</u> and transparent policies.",
+    "q_hi": "Select the most appropriate option that rectifies the underlined incorrectly spelt word in the given sentence. <br><br>The company is known for its strong <u>ethicks</u> and transparent policies.",
+    "op_en": [
+      "ethics",
+      "ethix",
+      "ethecs",
+      "ethiicks"
+    ],
+    "op_hi": [
+      "ethics",
+      "ethix",
+      "ethecs",
+      "ethiicks"
+    ],
+    "ans": 1,
+    "solution": "<b>Solution:</b><br><br><b>Final Answer:</b> !1!"
+  },
+  {
+    "section": "English",
+    "topic": "General",
+    "difficulty": "Medium",
+    "q_en": "Substitute the highlighted phrase in the given sentence with the most suitable word from the options.<br><br>The company has a strict rule against <strong>giving jobs to friends or relatives</strong>.",
+    "q_hi": "Substitute the highlighted phrase in the given sentence with the most suitable word from the options.<br><br>The company has a strict rule against <strong>giving jobs to friends or relatives</strong>.",
+    "op_en": [
+      "pluralism",
+      "nepotism",
+      "meritocracy",
+      "seniority"
+    ],
+    "op_hi": [
+      "pluralism",
+      "nepotism",
+      "meritocracy",
+      "seniority"
+    ],
+    "ans": 2,
+    "solution": "<b>Solution:</b><br><br><b>Final Answer:</b> !2!"
+  },
+  {
+    "section": "English",
+    "topic": "General",
+    "difficulty": "Medium",
+    "q_en": "Arrange the segments to form a meaningful sentence. The anchor segment “Literary critics often explore” must remain in the first position.<br> Literary critics often explore<br>A. the relationship<br>B. between narrative form and ideology while<br>C. within broader cultural contexts<br>D. interpreting complex fictional texts",
+    "q_hi": "Arrange the segments to form a meaningful sentence. The anchor segment “Literary critics often explore” must remain in the first position.<br> Literary critics often explore<br>A. the relationship<br>B. between narrative form and ideology while<br>C. within broader cultural contexts<br>D. interpreting complex fictional texts",
+    "op_en": [
+      "A  B  C  D",
+      "A  C  B  D",
+      "A  B  D  C",
+      "A  D  C  B"
+    ],
+    "op_hi": [
+      "A  B  C  D",
+      "A  C  B  D",
+      "A  B  D  C",
+      "A  D  C  B"
+    ],
+    "ans": 3,
+    "solution": "<b>Solution:</b><br><br><b>Final Answer:</b> !3!"
+  },
+  {
+    "section": "English",
+    "topic": "General",
+    "difficulty": "Medium",
+    "q_en": "Select the most appropriate verb to fill in the blank.<br><br>The dolphin beautifully ___________ across the river.",
+    "q_hi": "Select the most appropriate verb to fill in the blank.<br><br>The dolphin beautifully ___________ across the river.",
+    "op_en": [
+      "skipped",
+      "flew",
+      "swam",
+      "drove"
+    ],
+    "op_hi": [
+      "skipped",
+      "flew",
+      "swam",
+      "drove"
+    ],
+    "ans": 3,
+    "solution": "<b>Solution:</b><br><br><b>Final Answer:</b> !3!"
+  },
+  {
+    "section": "English",
+    "topic": "General",
+    "difficulty": "Medium",
+    "q_en": "Fill in the blank with the suitable option.<br>The news, though tragic, was delivered _______ by the seasoned diplomat.",
+    "q_hi": "Fill in the blank with the suitable option.<br>The news, though tragic, was delivered _______ by the seasoned diplomat.",
+    "op_en": [
+      "carelessly",
+      "tactfully",
+      "rashly",
+      "clumsily"
+    ],
+    "op_hi": [
+      "carelessly",
+      "tactfully",
+      "rashly",
+      "clumsily"
+    ],
+    "ans": 2,
+    "solution": "<b>Solution:</b><br><br><b>Final Answer:</b> !2!"
+  },
+  {
+    "section": "English1",
+    "topic": "General",
+    "difficulty": "Medium",
+    "q_en": "Select the most appropriate meaning of the highlighted segment in the given sentence.<br><br>Their new invention <strong>caught on</strong> quickly.",
+    "q_hi": "Select the most appropriate meaning of the highlighted segment in the given sentence.<br><br>Their new invention <strong>caught on</strong> quickly.",
+    "op_en": [
+      "Was disliked",
+      "Started burning",
+      "Was broken",
+      "Became popular"
+    ],
+    "op_hi": [
+      "Was disliked",
+      "Started burning",
+      "Was broken",
+      "Became popular"
+    ],
+    "ans": 4,
+    "solution": "<b>Solution:</b><br><br><b>Final Answer:</b> !4!"
+  },
+  {
+    "section": "English1",
+    "topic": "General",
+    "difficulty": "Medium",
+    "q_en": "Choose the correct idiom to replace the highlighted part of the following sentence.<br>The final decision of the principal made the students <b>accept the punishment bravely</b>.<br>",
+    "q_hi": "Choose the correct idiom to replace the highlighted part of the following sentence.<br>The final decision of the principal made the students <b>accept the punishment bravely</b>.<br>",
+    "op_en": [
+      "steal the show",
+      "bark up the wrong tree",
+      "go the extra mile",
+      "face the music"
+    ],
+    "op_hi": [
+      "steal the show",
+      "bark up the wrong tree",
+      "go the extra mile",
+      "face the music"
+    ],
+    "ans": 4,
+    "solution": "<b>Solution:</b><br><br><b>Final Answer:</b> !4!"
+  },
+  {
+    "section": "English1",
+    "topic": "General",
+    "difficulty": "Medium",
+    "q_en": "Choose the most appropriate antonym of the underlined word from the options given below. <br>The minister adopted a <u>conciliatory </u>tone during the negotiations to avoid further escalation.",
+    "q_hi": "Choose the most appropriate antonym of the underlined word from the options given below. <br>The minister adopted a <u>conciliatory </u>tone during the negotiations to avoid further escalation.",
+    "op_en": [
+      "tedious",
+      "deceptive",
+      "stubborn",
+      "appeasing"
+    ],
+    "op_hi": [
+      "tedious",
+      "deceptive",
+      "stubborn",
+      "appeasing"
+    ],
+    "ans": 3,
+    "solution": "<b>Solution:</b><br><br><b>Final Answer:</b> !3!"
+  },
+  {
+    "section": "English1",
+    "topic": "General",
+    "difficulty": "Medium",
+    "q_en": "Select the antonym of 'lauded' in the given sentence.<br><br>The theory was <u><strong>lauded</strong></u> for its ingenuity.",
+    "q_hi": "Select the antonym of 'lauded' in the given sentence.<br><br>The theory was <u><strong>lauded</strong></u> for its ingenuity.",
+    "op_en": [
+      "Formulated",
+      "Published",
+      "Admired",
+      "Criticized"
+    ],
+    "op_hi": [
+      "Formulated",
+      "Published",
+      "Admired",
+      "Criticized"
+    ],
+    "ans": 4,
+    "solution": "<b>Solution:</b><br><br><b>Final Answer:</b> !4!"
+  },
+  {
+    "section": "English1",
+    "topic": "General",
+    "difficulty": "Medium",
+    "q_en": "The child was obedient, responding quietly to guidance. Which word is most opposite in meaning to 'obedient'?",
+    "q_hi": "The child was obedient, responding quietly to guidance. Which word is most opposite in meaning to 'obedient'?",
+    "op_en": [
+      "rebellious",
+      "careful",
+      "attentive",
+      "respectful"
+    ],
+    "op_hi": [
+      "rebellious",
+      "careful",
+      "attentive",
+      "respectful"
+    ],
+    "ans": 1,
+    "solution": "<b>Solution:</b><br><br><b>Final Answer:</b> !1!"
+  },
+  {
+    "section": "English1",
+    "topic": "General",
+    "difficulty": "Medium",
+    "q_en": "<div style=\"background:#f9f9f9; padding:12px; margin-bottom:15px; border:1px solid #ddd; border-radius:5px;\"><b>Comprehension / गद्यांश:</b><br><br>Read the passage carefully and answer the questions that follow.<br><br>Reading is one of the most useful habits that students can develop at an early age. It helps improve vocabulary, strengthens language skills, and increases knowledge about different subjects. When students read regularly, they become more confident in expressing their ideas clearly. Reading also improves concentration and develops imagination, allowing learners to think creatively. Many schools encourage students to read storybooks, newspapers, and magazines to build interest in learning. However, some students do not read regularly due to lack of time or interest. This can affect their academic performance and communication skills. Teachers and parents play an important role in motivating children to read daily. Simple steps such as setting aside reading time and choosing interesting books can help develop this habit. Reading not only supports academic success but also helps individuals gain knowledge, improve thinking ability, and develop a better understanding of the world around them.<br><br><b> SubQuestion No : 6</b><br><br></div><b>Question:</b><br>Identify the suitable title for the passage.",
+    "q_hi": "<div style=\"background:#f9f9f9; padding:12px; margin-bottom:15px; border:1px solid #ddd; border-radius:5px;\"><b>Comprehension / गद्यांश:</b><br><br>Read the passage carefully and answer the questions that follow.<br><br>Reading is one of the most useful habits that students can develop at an early age. It helps improve vocabulary, strengthens language skills, and increases knowledge about different subjects. When students read regularly, they become more confident in expressing their ideas clearly. Reading also improves concentration and develops imagination, allowing learners to think creatively. Many schools encourage students to read storybooks, newspapers, and magazines to build interest in learning. However, some students do not read regularly due to lack of time or interest. This can affect their academic performance and communication skills. Teachers and parents play an important role in motivating children to read daily. Simple steps such as setting aside reading time and choosing interesting books can help develop this habit. Reading not only supports academic success but also helps individuals gain knowledge, improve thinking ability, and develop a better understanding of the world around them.<br><br><b> SubQuestion No : 6</b><br><br></div><b>Question:</b><br>Identify the suitable title for the passage.",
+    "op_en": [
+      "Reading habits improve learning and overall student development.",
+      "Books and magazines increase knowledge about different subjects.",
+      "Regular reading helps students improve language and vocabulary skills.",
+      "Schools encourage children to develop interest in reading habits."
+    ],
+    "op_hi": [
+      "Reading habits improve learning and overall student development.",
+      "Books and magazines increase knowledge about different subjects.",
+      "Regular reading helps students improve language and vocabulary skills.",
+      "Schools encourage children to develop interest in reading habits."
+    ],
+    "ans": 1,
+    "solution": "<b>Solution:</b><br><br><b>Final Answer:</b> !1!"
+  },
+  {
+    "section": "English1",
+    "topic": "General",
+    "difficulty": "Medium",
+    "q_en": "<div style=\"background:#f9f9f9; padding:12px; margin-bottom:15px; border:1px solid #ddd; border-radius:5px;\"><b>Comprehension / गद्यांश:</b><br><br>Read the passage carefully and answer the questions that follow.<br><br>Reading is one of the most useful habits that students can develop at an early age. It helps improve vocabulary, strengthens language skills, and increases knowledge about different subjects. When students read regularly, they become more confident in expressing their ideas clearly. Reading also improves concentration and develops imagination, allowing learners to think creatively. Many schools encourage students to read storybooks, newspapers, and magazines to build interest in learning. However, some students do not read regularly due to lack of time or interest. This can affect their academic performance and communication skills. Teachers and parents play an important role in motivating children to read daily. Simple steps such as setting aside reading time and choosing interesting books can help develop this habit. Reading not only supports academic success but also helps individuals gain knowledge, improve thinking ability, and develop a better understanding of the world around them.<br><br><b> SubQuestion No : 7</b><br><br></div><b>Question:</b><br>Identify the main theme of the passage.",
+    "q_hi": "<div style=\"background:#f9f9f9; padding:12px; margin-bottom:15px; border:1px solid #ddd; border-radius:5px;\"><b>Comprehension / गद्यांश:</b><br><br>Read the passage carefully and answer the questions that follow.<br><br>Reading is one of the most useful habits that students can develop at an early age. It helps improve vocabulary, strengthens language skills, and increases knowledge about different subjects. When students read regularly, they become more confident in expressing their ideas clearly. Reading also improves concentration and develops imagination, allowing learners to think creatively. Many schools encourage students to read storybooks, newspapers, and magazines to build interest in learning. However, some students do not read regularly due to lack of time or interest. This can affect their academic performance and communication skills. Teachers and parents play an important role in motivating children to read daily. Simple steps such as setting aside reading time and choosing interesting books can help develop this habit. Reading not only supports academic success but also helps individuals gain knowledge, improve thinking ability, and develop a better understanding of the world around them.<br><br><b> SubQuestion No : 7</b><br><br></div><b>Question:</b><br>Identify the main theme of the passage.",
+    "op_en": [
+      "Regular practice helps students gain knowledge and thinking abilities.",
+      "Teachers and parents motivate children towards building strong reading habits.",
+      "Storybooks and newspapers help students increase interest towards learning.",
+      "Lack of reading affects academic performance and language development negatively."
+    ],
+    "op_hi": [
+      "Regular practice helps students gain knowledge and thinking abilities.",
+      "Teachers and parents motivate children towards building strong reading habits.",
+      "Storybooks and newspapers help students increase interest towards learning.",
+      "Lack of reading affects academic performance and language development negatively."
+    ],
+    "ans": 1,
+    "solution": "<b>Solution:</b><br><br><b>Final Answer:</b> !1!"
+  },
+  {
+    "section": "English1",
+    "topic": "General",
+    "difficulty": "Medium",
+    "q_en": "<div style=\"background:#f9f9f9; padding:12px; margin-bottom:15px; border:1px solid #ddd; border-radius:5px;\"><b>Comprehension / गद्यांश:</b><br><br>Read the passage carefully and answer the questions that follow.<br><br>Reading is one of the most useful habits that students can develop at an early age. It helps improve vocabulary, strengthens language skills, and increases knowledge about different subjects. When students read regularly, they become more confident in expressing their ideas clearly. Reading also improves concentration and develops imagination, allowing learners to think creatively. Many schools encourage students to read storybooks, newspapers, and magazines to build interest in learning. However, some students do not read regularly due to lack of time or interest. This can affect their academic performance and communication skills. Teachers and parents play an important role in motivating children to read daily. Simple steps such as setting aside reading time and choosing interesting books can help develop this habit. Reading not only supports academic success but also helps individuals gain knowledge, improve thinking ability, and develop a better understanding of the world around them.<br><br><b> SubQuestion No : 8</b><br><br></div><b>Question:</b><br>Mention the facts given in the passage.",
+    "q_hi": "<div style=\"background:#f9f9f9; padding:12px; margin-bottom:15px; border:1px solid #ddd; border-radius:5px;\"><b>Comprehension / गद्यांश:</b><br><br>Read the passage carefully and answer the questions that follow.<br><br>Reading is one of the most useful habits that students can develop at an early age. It helps improve vocabulary, strengthens language skills, and increases knowledge about different subjects. When students read regularly, they become more confident in expressing their ideas clearly. Reading also improves concentration and develops imagination, allowing learners to think creatively. Many schools encourage students to read storybooks, newspapers, and magazines to build interest in learning. However, some students do not read regularly due to lack of time or interest. This can affect their academic performance and communication skills. Teachers and parents play an important role in motivating children to read daily. Simple steps such as setting aside reading time and choosing interesting books can help develop this habit. Reading not only supports academic success but also helps individuals gain knowledge, improve thinking ability, and develop a better understanding of the world around them.<br><br><b> SubQuestion No : 8</b><br><br></div><b>Question:</b><br>Mention the facts given in the passage.",
+    "op_en": [
+      "Reading habit improves four important skills in students.",
+      "Reading habit improves two important skills in students.",
+      "Reading habit improves five important skills in students.",
+      "Reading habit improves three important skills in students."
+    ],
+    "op_hi": [
+      "Reading habit improves four important skills in students.",
+      "Reading habit improves two important skills in students.",
+      "Reading habit improves five important skills in students.",
+      "Reading habit improves three important skills in students."
+    ],
+    "ans": 4,
+    "solution": "<b>Solution:</b><br><br><b>Final Answer:</b> !4!"
+  },
+  {
+    "section": "English1",
+    "topic": "General",
+    "difficulty": "Medium",
+    "q_en": "<div style=\"background:#f9f9f9; padding:12px; margin-bottom:15px; border:1px solid #ddd; border-radius:5px;\"><b>Comprehension / गद्यांश:</b><br><br>Read the passage carefully and answer the questions that follow.<br><br>Reading is one of the most useful habits that students can develop at an early age. It helps improve vocabulary, strengthens language skills, and increases knowledge about different subjects. When students read regularly, they become more confident in expressing their ideas clearly. Reading also improves concentration and develops imagination, allowing learners to think creatively. Many schools encourage students to read storybooks, newspapers, and magazines to build interest in learning. However, some students do not read regularly due to lack of time or interest. This can affect their academic performance and communication skills. Teachers and parents play an important role in motivating children to read daily. Simple steps such as setting aside reading time and choosing interesting books can help develop this habit. Reading not only supports academic success but also helps individuals gain knowledge, improve thinking ability, and develop a better understanding of the world around them.<br><br><b> SubQuestion No : 9</b><br><br></div><b>Question:</b><br>Identify the structure of the passage.",
+    "q_hi": "<div style=\"background:#f9f9f9; padding:12px; margin-bottom:15px; border:1px solid #ddd; border-radius:5px;\"><b>Comprehension / गद्यांश:</b><br><br>Read the passage carefully and answer the questions that follow.<br><br>Reading is one of the most useful habits that students can develop at an early age. It helps improve vocabulary, strengthens language skills, and increases knowledge about different subjects. When students read regularly, they become more confident in expressing their ideas clearly. Reading also improves concentration and develops imagination, allowing learners to think creatively. Many schools encourage students to read storybooks, newspapers, and magazines to build interest in learning. However, some students do not read regularly due to lack of time or interest. This can affect their academic performance and communication skills. Teachers and parents play an important role in motivating children to read daily. Simple steps such as setting aside reading time and choosing interesting books can help develop this habit. Reading not only supports academic success but also helps individuals gain knowledge, improve thinking ability, and develop a better understanding of the world around them.<br><br><b> SubQuestion No : 9</b><br><br></div><b>Question:</b><br>Identify the structure of the passage.",
+    "op_en": [
+      "Introduction of concept with causes and related effects",
+      "Description of reading with examples and resulting benefits",
+      "Explanation of idea followed by problems and simple solutions",
+      "Presentation of topic with comparison and final conclusion"
+    ],
+    "op_hi": [
+      "Introduction of concept with causes and related effects",
+      "Description of reading with examples and resulting benefits",
+      "Explanation of idea followed by problems and simple solutions",
+      "Presentation of topic with comparison and final conclusion"
+    ],
+    "ans": 3,
+    "solution": "<b>Solution:</b><br><br><b>Final Answer:</b> !3!"
+  },
+  {
+    "section": "English1",
+    "topic": "General",
+    "difficulty": "Medium",
+    "q_en": "<div style=\"background:#f9f9f9; padding:12px; margin-bottom:15px; border:1px solid #ddd; border-radius:5px;\"><b>Comprehension / गद्यांश:</b><br><br>Read the passage carefully and answer the questions that follow.<br><br>Reading is one of the most useful habits that students can develop at an early age. It helps improve vocabulary, strengthens language skills, and increases knowledge about different subjects. When students read regularly, they become more confident in expressing their ideas clearly. Reading also improves concentration and develops imagination, allowing learners to think creatively. Many schools encourage students to read storybooks, newspapers, and magazines to build interest in learning. However, some students do not read regularly due to lack of time or interest. This can affect their academic performance and communication skills. Teachers and parents play an important role in motivating children to read daily. Simple steps such as setting aside reading time and choosing interesting books can help develop this habit. Reading not only supports academic success but also helps individuals gain knowledge, improve thinking ability, and develop a better understanding of the world around them.<br><br><b> SubQuestion No : 10</b><br><br></div><b>Question:</b><br>Identify the tone of the passage.",
+    "q_hi": "<div style=\"background:#f9f9f9; padding:12px; margin-bottom:15px; border:1px solid #ddd; border-radius:5px;\"><b>Comprehension / गद्यांश:</b><br><br>Read the passage carefully and answer the questions that follow.<br><br>Reading is one of the most useful habits that students can develop at an early age. It helps improve vocabulary, strengthens language skills, and increases knowledge about different subjects. When students read regularly, they become more confident in expressing their ideas clearly. Reading also improves concentration and develops imagination, allowing learners to think creatively. Many schools encourage students to read storybooks, newspapers, and magazines to build interest in learning. However, some students do not read regularly due to lack of time or interest. This can affect their academic performance and communication skills. Teachers and parents play an important role in motivating children to read daily. Simple steps such as setting aside reading time and choosing interesting books can help develop this habit. Reading not only supports academic success but also helps individuals gain knowledge, improve thinking ability, and develop a better understanding of the world around them.<br><br><b> SubQuestion No : 10</b><br><br></div><b>Question:</b><br>Identify the tone of the passage.",
+    "op_en": [
+      "Informative and encouraging about developing reading habits",
+      "Simple and descriptive about daily student reading activities",
+      "Neutral and factual about reading and learning",
+      "Serious and cautionary about lack of reading habits"
+    ],
+    "op_hi": [
+      "Informative and encouraging about developing reading habits",
+      "Simple and descriptive about daily student reading activities",
+      "Neutral and factual about reading and learning",
+      "Serious and cautionary about lack of reading habits"
+    ],
+    "ans": 1,
+    "solution": "<b>Solution:</b><br><br><b>Final Answer:</b> !1!"
+  },
+  {
+    "section": "General Knowledge",
+    "topic": "General",
+    "difficulty": "Medium",
+    "q_en": "भारत में सत्र न्यायालय द्वारा दी गई मृत्युदंड की पुष्टि करने के लिए निम्नलिखित में से किस न्यायालय की आवश्यकता होती है?",
+    "q_hi": "भारत में सत्र न्यायालय द्वारा दी गई मृत्युदंड की पुष्टि करने के लिए निम्नलिखित में से किस न्यायालय की आवश्यकता होती है?",
+    "op_en": [
+      "जिला न्यायालय",
+      "मजिस्ट्रेट न्यायालय",
+      "लोक अदालत",
+      "उच्च न्यायालय"
+    ],
+    "op_hi": [
+      "जिला न्यायालय",
+      "मजिस्ट्रेट न्यायालय",
+      "लोक अदालत",
+      "उच्च न्यायालय"
+    ],
+    "ans": 4,
+    "solution": "<b>Solution:</b><br><br><b>Final Answer:</b> !4!"
+  },
+  {
+    "section": "General Knowledge",
+    "topic": "General",
+    "difficulty": "Medium",
+    "q_en": "1830 के दशक से 1860 के दशक तक वहाबी आंदोलन का प्रारंभिक स्वरूप क्या था?",
+    "q_hi": "1830 के दशक से 1860 के दशक तक वहाबी आंदोलन का प्रारंभिक स्वरूप क्या था?",
+    "op_en": [
+      "<div>एक राजनीतिक विद्रोह</div>",
+      "कृषक आर्थिक आंदोलन",
+      "<div>एक धार्मिक आंदोलन</div>",
+      "<div>एक जनजातीय विद्रोह</div>"
+    ],
+    "op_hi": [
+      "<div>एक राजनीतिक विद्रोह</div>",
+      "कृषक आर्थिक आंदोलन",
+      "<div>एक धार्मिक आंदोलन</div>",
+      "<div>एक जनजातीय विद्रोह</div>"
+    ],
+    "ans": 3,
+    "solution": "<b>Solution:</b><br><br><b>Final Answer:</b> !3!"
+  },
+  {
+    "section": "General Knowledge",
+    "topic": "General",
+    "difficulty": "Medium",
+    "q_en": "किस फ्रांसीसी बस्ती को 1674 में एक व्यापारिक केंद्र के रूप में स्थापित किया गया था और बाद में 1701 में भारत में फ्रांसीसी बस्तियों की राजधानी बन गई थी?",
+    "q_hi": "किस फ्रांसीसी बस्ती को 1674 में एक व्यापारिक केंद्र के रूप में स्थापित किया गया था और बाद में 1701 में भारत में फ्रांसीसी बस्तियों की राजधानी बन गई थी?",
+    "op_en": [
+      "चंदननगर",
+      "<div>पांडिचेरी (पुडुचेरी)</div>",
+      "माहे",
+      "सूरत"
+    ],
+    "op_hi": [
+      "चंदननगर",
+      "<div>पांडिचेरी (पुडुचेरी)</div>",
+      "माहे",
+      "सूरत"
+    ],
+    "ans": 2,
+    "solution": "<b>Solution:</b><br><br><b>Final Answer:</b> !2!"
+  },
+  {
+    "section": "General Knowledge",
+    "topic": "General",
+    "difficulty": "Medium",
+    "q_en": "कौन-सा पशु, केवल गुजरात के गिर वन में पाया जाता है?",
+    "q_hi": "कौन-सा पशु, केवल गुजरात के गिर वन में पाया जाता है?",
+    "op_en": [
+      "गैंडा",
+      "एशियाई शेर",
+      "हाथी",
+      "बाघ"
+    ],
+    "op_hi": [
+      "गैंडा",
+      "एशियाई शेर",
+      "हाथी",
+      "बाघ"
+    ],
+    "ans": 2,
+    "solution": "<b>Solution:</b><br><br><b>Final Answer:</b> !2!"
+  },
+  {
+    "section": "General Knowledge",
+    "topic": "General",
+    "difficulty": "Medium",
+    "q_en": "किसी राज्य सरकार की सभी कार्यकारी कार्रवाई __________ के नाम पर की जाती हैं।",
+    "q_hi": "किसी राज्य सरकार की सभी कार्यकारी कार्रवाई __________ के नाम पर की जाती हैं।",
+    "op_en": [
+      "भारत के राष्ट्रपति",
+      "भारत के प्रधानमंत्री",
+      "राज्यपाल",
+      "मुख्यमंत्री"
+    ],
+    "op_hi": [
+      "भारत के राष्ट्रपति",
+      "भारत के प्रधानमंत्री",
+      "राज्यपाल",
+      "मुख्यमंत्री"
+    ],
+    "ans": 3,
+    "solution": "<b>Solution:</b><br><br><b>Final Answer:</b> !3!"
+  },
+  {
+    "section": "General Knowledge",
+    "topic": "General",
+    "difficulty": "Medium",
+    "q_en": "In normal physiological conditions, the human ear is generally capable of detecting sound waves within which frequency range?",
+    "q_hi": "In normal physiological conditions, the human ear is generally capable of detecting sound waves within which frequency range?",
+    "op_en": [
+      "Above 200 kHz only",
+      "Below 20 Hz only",
+      "20 kHz to 200 kHz",
+      "20 Hz to 20 kHz"
+    ],
+    "op_hi": [
+      "Above 200 kHz only",
+      "Below 20 Hz only",
+      "20 kHz to 200 kHz",
+      "20 Hz to 20 kHz"
+    ],
+    "ans": 4,
+    "solution": "<b>Solution:</b><br><br><b>Final Answer:</b> !4!"
+  },
+  {
+    "section": "General Knowledge",
+    "topic": "General",
+    "difficulty": "Medium",
+    "q_en": "भारतीय संविधान का निम्नलिखित में से कौन-सा अनुच्छेद, राज्य को पर्यावरण की रक्षा और उसमें सुधार करने तथा वनों एवं वन्यजीवों की सुरक्षा करने का निर्देश देता है?",
+    "q_hi": "भारतीय संविधान का निम्नलिखित में से कौन-सा अनुच्छेद, राज्य को पर्यावरण की रक्षा और उसमें सुधार करने तथा वनों एवं वन्यजीवों की सुरक्षा करने का निर्देश देता है?",
+    "op_en": [
+      "अनुच्छेद 49",
+      "अनुच्छेद 43A",
+      "अनुच्छेद 48A",
+      "अनुच्छेद 46"
+    ],
+    "op_hi": [
+      "अनुच्छेद 49",
+      "अनुच्छेद 43A",
+      "अनुच्छेद 48A",
+      "अनुच्छेद 46"
+    ],
+    "ans": 3,
+    "solution": "<b>Solution:</b><br><br><b>Final Answer:</b> !3!"
+  },
+  {
+    "section": "General Knowledge",
+    "topic": "General",
+    "difficulty": "Medium",
+    "q_en": "The Attorney General of India is appointed by the:",
+    "q_hi": "The Attorney General of India is appointed by the:",
+    "op_en": [
+      "Prime Minister of India",
+      "President of India",
+      "Speaker of Lok Sabha",
+      "Chief Justice of India"
+    ],
+    "op_hi": [
+      "Prime Minister of India",
+      "President of India",
+      "Speaker of Lok Sabha",
+      "Chief Justice of India"
+    ],
+    "ans": 2,
+    "solution": "<b>Solution:</b><br><br><b>Final Answer:</b> !2!"
+  },
+  {
+    "section": "General Knowledge",
+    "topic": "General",
+    "difficulty": "Medium",
+    "q_en": "If an individual inherits two different alleles for eye colour, one for brown eyes and one for blue eyes, and the brown eye trait is expressed in the phenotype while the other remains unexpressed, which genetic principle explains this pattern of inheritance?<br>",
+    "q_hi": "If an individual inherits two different alleles for eye colour, one for brown eyes and one for blue eyes, and the brown eye trait is expressed in the phenotype while the other remains unexpressed, which genetic principle explains this pattern of inheritance?<br>",
+    "op_en": [
+      "Mutation",
+      "Law of Independent Assortment",
+      "Law of Dominance",
+      "Law of Segregation"
+    ],
+    "op_hi": [
+      "Mutation",
+      "Law of Independent Assortment",
+      "Law of Dominance",
+      "Law of Segregation"
+    ],
+    "ans": 3,
+    "solution": "<b>Solution:</b><br><br><b>Final Answer:</b> !3!"
+  },
+  {
+    "section": "General Knowledge",
+    "topic": "General",
+    "difficulty": "Medium",
+    "q_en": "Who is the head of the State and is the highest formal authority in India?<br>",
+    "q_hi": "Who is the head of the State and is the highest formal authority in India?<br>",
+    "op_en": [
+      "Governor",
+      "President of India",
+      "Chief Justice",
+      "Prime Minister"
+    ],
+    "op_hi": [
+      "Governor",
+      "President of India",
+      "Chief Justice",
+      "Prime Minister"
+    ],
+    "ans": 2,
+    "solution": "<b>Solution:</b><br><br><b>Final Answer:</b> !2!"
+  },
+  {
+    "section": "General Knowledge",
+    "topic": "General",
+    "difficulty": "Medium",
+    "q_en": "भारत में निम्नलिखित में से किस क्षेत्र में सर्वाधिक उष्णकटिबंधीय चक्रवात आते हैं?",
+    "q_hi": "भारत में निम्नलिखित में से किस क्षेत्र में सर्वाधिक उष्णकटिबंधीय चक्रवात आते हैं?",
+    "op_en": [
+      "पश्चिमी तट",
+      "मध्य भारत",
+      "पूर्वी तट",
+      "उत्तर पश्चिमी भारत"
+    ],
+    "op_hi": [
+      "पश्चिमी तट",
+      "मध्य भारत",
+      "पूर्वी तट",
+      "उत्तर पश्चिमी भारत"
+    ],
+    "ans": 3,
+    "solution": "<b>Solution:</b><br><br><b>Final Answer:</b> !3!"
+  },
+  {
+    "section": "General Knowledge",
+    "topic": "General",
+    "difficulty": "Medium",
+    "q_en": "भारत के संविधान का कौन-सा अनुच्छेद, भारत के नियंत्रक एवं महालेखा परीक्षक (CAG) के सृजन और नियुक्ति का प्रावधान करता है?",
+    "q_hi": "भारत के संविधान का कौन-सा अनुच्छेद, भारत के नियंत्रक एवं महालेखा परीक्षक (CAG) के सृजन और नियुक्ति का प्रावधान करता है?",
+    "op_en": [
+      "अनुच्छेद 76",
+      "अनुच्छेद 148",
+      "अनुच्छेद 165",
+      "अनुच्छेद 350-B"
+    ],
+    "op_hi": [
+      "अनुच्छेद 76",
+      "अनुच्छेद 148",
+      "अनुच्छेद 165",
+      "अनुच्छेद 350-B"
+    ],
+    "ans": 2,
+    "solution": "<b>Solution:</b><br><br><b>Final Answer:</b> !2!"
+  },
+  {
+    "section": "General Knowledge",
+    "topic": "General",
+    "difficulty": "Medium",
+    "q_en": "निम्नलिखित में से कौन-सा उत्सव, विश्व के सबसे बड़े पशुधन मेलों में से एक का आयोजन करता है?",
+    "q_hi": "निम्नलिखित में से कौन-सा उत्सव, विश्व के सबसे बड़े पशुधन मेलों में से एक का आयोजन करता है?",
+    "op_en": [
+      "गोवा कार्निवल",
+      "केरल ग्राम मेला",
+      "पुष्कर ऊँट मेला",
+      "बीकानेर ऊंट महोत्सव"
+    ],
+    "op_hi": [
+      "गोवा कार्निवल",
+      "केरल ग्राम मेला",
+      "पुष्कर ऊँट मेला",
+      "बीकानेर ऊंट महोत्सव"
+    ],
+    "ans": 3,
+    "solution": "<b>Solution:</b><br><br><b>Final Answer:</b> !3!"
+  },
+  {
+    "section": "General Knowledge",
+    "topic": "General",
+    "difficulty": "Medium",
+    "q_en": "रामकृष्ण मिशन का मुख्य उद्देश्य क्या था?",
+    "q_hi": "रामकृष्ण मिशन का मुख्य उद्देश्य क्या था?",
+    "op_en": [
+      "आध्यात्मिक संवृद्धि",
+      "केवल पश्चिमी शिक्षा",
+      "वैदिक अनुष्ठान",
+      "सशस्त्र प्रतिरोध"
+    ],
+    "op_hi": [
+      "आध्यात्मिक संवृद्धि",
+      "केवल पश्चिमी शिक्षा",
+      "वैदिक अनुष्ठान",
+      "सशस्त्र प्रतिरोध"
+    ],
+    "ans": 1,
+    "solution": "<b>Solution:</b><br><br><b>Final Answer:</b> !1!"
+  },
+  {
+    "section": "General Knowledge",
+    "topic": "General",
+    "difficulty": "Medium",
+    "q_en": "भारत की संथाल जनजाति द्वारा कौन-सा नृत्य रूप प्रस्तुत किया जाता है?",
+    "q_hi": "भारत की संथाल जनजाति द्वारा कौन-सा नृत्य रूप प्रस्तुत किया जाता है?",
+    "op_en": [
+      "डांडिया",
+      "संथाली नृत्य",
+      "राउफ",
+      "किन्नौरी नाटी"
+    ],
+    "op_hi": [
+      "डांडिया",
+      "संथाली नृत्य",
+      "राउफ",
+      "किन्नौरी नाटी"
+    ],
+    "ans": 2,
+    "solution": "<b>Solution:</b><br><br><b>Final Answer:</b> !2!"
+  },
+  {
+    "section": "General Knowledge1",
+    "topic": "General",
+    "difficulty": "Medium",
+    "q_en": "Who wrote the 'Modi's Mission' book?",
+    "q_hi": "Who wrote the 'Modi's Mission' book?",
+    "op_en": [
+      "Shikhar Dhawan",
+      "Berjis Desai",
+      "Virat Kohli",
+      "Lt. Gen K. J. S. Dhillon"
+    ],
+    "op_hi": [
+      "Shikhar Dhawan",
+      "Berjis Desai",
+      "Virat Kohli",
+      "Lt. Gen K. J. S. Dhillon"
+    ],
+    "ans": 2,
+    "solution": "<b>Solution:</b><br><br><b>Final Answer:</b> !2!"
+  },
+  {
+    "section": "General Knowledge1",
+    "topic": "General",
+    "difficulty": "Medium",
+    "q_en": "Which defence Public Sector Undertaking received Miniratna Category-I status in February 2026?",
+    "q_hi": "Which defence Public Sector Undertaking received Miniratna Category-I status in February 2026?",
+    "op_en": [
+      "Yantra India Limited",
+      "Hindustan Aeronautics Limited",
+      "Bharat Electronics Limited",
+      "India Optel Limited"
+    ],
+    "op_hi": [
+      "Yantra India Limited",
+      "Hindustan Aeronautics Limited",
+      "Bharat Electronics Limited",
+      "India Optel Limited"
+    ],
+    "ans": 1,
+    "solution": "<b>Solution:</b><br><br><b>Final Answer:</b> !1!"
+  },
+  {
+    "section": "General Knowledge1",
+    "topic": "General",
+    "difficulty": "Medium",
+    "q_en": "एक विद्यार्थी ऊटी और कोडाइकनाल जैसे हिल स्टेशनों का पता लगाना चाहता है। ये हिल स्टेशन पश्चिमी घाट की किन पर्वत श्रृंखलाओं में स्थित हैं?",
+    "q_hi": "एक विद्यार्थी ऊटी और कोडाइकनाल जैसे हिल स्टेशनों का पता लगाना चाहता है। ये हिल स्टेशन पश्चिमी घाट की किन पर्वत श्रृंखलाओं में स्थित हैं?",
+    "op_en": [
+      "क्रमशः सतपुड़ा पहाड़ियाँ और मैकाल पहाड़ियाँ",
+      "क्रमशः नीलगिरि पहाड़ियाँ और पलानी पहाड़ियाँ",
+      "क्रमशः गारो पहाड़ियाँ और खासी पहाड़ियाँ",
+      "<div>क्रमशः विंध्य पहाड़ियाँ और अरावली पहाड़ियाँ</div>"
+    ],
+    "op_hi": [
+      "क्रमशः सतपुड़ा पहाड़ियाँ और मैकाल पहाड़ियाँ",
+      "क्रमशः नीलगिरि पहाड़ियाँ और पलानी पहाड़ियाँ",
+      "क्रमशः गारो पहाड़ियाँ और खासी पहाड़ियाँ",
+      "<div>क्रमशः विंध्य पहाड़ियाँ और अरावली पहाड़ियाँ</div>"
+    ],
+    "ans": 2,
+    "solution": "<b>Solution:</b><br><br><b>Final Answer:</b> !2!"
+  },
+  {
+    "section": "General Knowledge1",
+    "topic": "General",
+    "difficulty": "Medium",
+    "q_en": "पंजाब के किस हॉकी खिलाड़ी को 2026 में पद्म श्री पुरस्कार से सम्मानित किया गया?",
+    "q_hi": "पंजाब के किस हॉकी खिलाड़ी को 2026 में पद्म श्री पुरस्कार से सम्मानित किया गया?",
+    "op_en": [
+      "भगवानदास रैकवार",
+      "प्रवीण कुमार",
+      "रोहित शर्मा",
+      "बलदेव सिंह"
+    ],
+    "op_hi": [
+      "भगवानदास रैकवार",
+      "प्रवीण कुमार",
+      "रोहित शर्मा",
+      "बलदेव सिंह"
+    ],
+    "ans": 4,
+    "solution": "<b>Solution:</b><br><br><b>Final Answer:</b> !4!"
+  },
+  {
+    "section": "General Knowledge1",
+    "topic": "General",
+    "difficulty": "Medium",
+    "q_en": "अक्टूबर, 2025 में 22वें आसियान-भारत शिखर सम्मेलन की मेजबानी निम्नलिखित में से किस देश ने की?",
+    "q_hi": "अक्टूबर, 2025 में 22वें आसियान-भारत शिखर सम्मेलन की मेजबानी निम्नलिखित में से किस देश ने की?",
+    "op_en": [
+      "फिलीपींस",
+      "वियतनाम",
+      "मलेशिया",
+      "सिंगापुर"
+    ],
+    "op_hi": [
+      "फिलीपींस",
+      "वियतनाम",
+      "मलेशिया",
+      "सिंगापुर"
+    ],
+    "ans": 3,
+    "solution": "<b>Solution:</b><br><br><b>Final Answer:</b> !3!"
+  },
+  {
+    "section": "General Knowledge1",
+    "topic": "General",
+    "difficulty": "Medium",
+    "q_en": "भारत के कृषि क्षेत्र के लिए 'हरित क्रांति II' की आवश्यकता का सुझाव किसने दिया?",
+    "q_hi": "भारत के कृषि क्षेत्र के लिए 'हरित क्रांति II' की आवश्यकता का सुझाव किसने दिया?",
+    "op_en": [
+      "राजीव गांधी",
+      "अटल बिहारी वाजपेयी",
+      "मनमोहन सिंह",
+      "नरेंद्र मोदी"
+    ],
+    "op_hi": [
+      "राजीव गांधी",
+      "अटल बिहारी वाजपेयी",
+      "मनमोहन सिंह",
+      "नरेंद्र मोदी"
+    ],
+    "ans": 3,
+    "solution": "<b>Solution:</b><br><br><b>Final Answer:</b> !3!"
+  },
+  {
+    "section": "General Knowledge1",
+    "topic": "General",
+    "difficulty": "Medium",
+    "q_en": "जनवरी 2026 में भारत के 97वें रामसर स्थल के रूप में नामित, पटना पक्षी अभयारण्य किस भारतीय राज्य में स्थित है?",
+    "q_hi": "जनवरी 2026 में भारत के 97वें रामसर स्थल के रूप में नामित, पटना पक्षी अभयारण्य किस भारतीय राज्य में स्थित है?",
+    "op_en": [
+      "उत्तर प्रदेश",
+      "राजस्थान",
+      "मध्य प्रदेश",
+      "बिहार"
+    ],
+    "op_hi": [
+      "उत्तर प्रदेश",
+      "राजस्थान",
+      "मध्य प्रदेश",
+      "बिहार"
+    ],
+    "ans": 1,
+    "solution": "<b>Solution:</b><br><br><b>Final Answer:</b> !1!"
+  },
+  {
+    "section": "General Knowledge1",
+    "topic": "General",
+    "difficulty": "Medium",
+    "q_en": "1991 के बाद औद्योगिक क्षेत्र में विदेशी निवेश का प्रत्यक्ष परिणाम क्या था?",
+    "q_hi": "1991 के बाद औद्योगिक क्षेत्र में विदेशी निवेश का प्रत्यक्ष परिणाम क्या था?",
+    "op_en": [
+      "सरकारी सब्सिडी में वृद्धि",
+      "प्रौद्योगिकी हस्तांतरण",
+      "उत्पाद की गुणवत्ता में गिरावट",
+      "उत्पादन में कमी"
+    ],
+    "op_hi": [
+      "सरकारी सब्सिडी में वृद्धि",
+      "प्रौद्योगिकी हस्तांतरण",
+      "उत्पाद की गुणवत्ता में गिरावट",
+      "उत्पादन में कमी"
+    ],
+    "ans": 2,
+    "solution": "<b>Solution:</b><br><br><b>Final Answer:</b> !2!"
+  },
+  {
+    "section": "General Knowledge1",
+    "topic": "General",
+    "difficulty": "Medium",
+    "q_en": "मई 2025 में, भारत ने ऑपरेशन अभ्यास (<strong data-end=\"393\" data-start=\"372\">Operation Abhyaas</strong>) नामक एक राष्ट्रव्यापी अभ्यास किया। इसमें लोगों को मुख्य रूप से किस स्थिति को नियंत्रित करने के लिए प्रशिक्षित किया गया था?",
+    "q_hi": "मई 2025 में, भारत ने ऑपरेशन अभ्यास (<strong data-end=\"393\" data-start=\"372\">Operation Abhyaas</strong>) नामक एक राष्ट्रव्यापी अभ्यास किया। इसमें लोगों को मुख्य रूप से किस स्थिति को नियंत्रित करने के लिए प्रशिक्षित किया गया था?",
+    "op_en": [
+      "सूखे के दौरान भोजन की कमी",
+      "शहरी क्षेत्रों में अचानक बाढ़ आना",
+      "उच्च जोखिम वाले क्षेत्रों में भूकंप",
+      "दुश्मन के हवाई हमले और शहरव्यापी ब्लैकआउट"
+    ],
+    "op_hi": [
+      "सूखे के दौरान भोजन की कमी",
+      "शहरी क्षेत्रों में अचानक बाढ़ आना",
+      "उच्च जोखिम वाले क्षेत्रों में भूकंप",
+      "दुश्मन के हवाई हमले और शहरव्यापी ब्लैकआउट"
+    ],
+    "ans": 4,
+    "solution": "<b>Solution:</b><br><br><b>Final Answer:</b> !4!"
+  },
+  {
+    "section": "General Knowledge1",
+    "topic": "General",
+    "difficulty": "Medium",
+    "q_en": "PSU के शेयरों को जनता को बेचने की प्रक्रिया को ________ कहा जाता है।",
+    "q_hi": "PSU के शेयरों को जनता को बेचने की प्रक्रिया को ________ कहा जाता है।",
+    "op_en": [
+      "अविनियमन",
+      "अवमूल्यन",
+      "विनिवेश",
+      "बहिःस्रोतन"
+    ],
+    "op_hi": [
+      "अविनियमन",
+      "अवमूल्यन",
+      "विनिवेश",
+      "बहिःस्रोतन"
+    ],
+    "ans": 3,
+    "solution": "<b>Solution:</b><br><br><b>Final Answer:</b> !3!"
+  },
+  {
+    "section": "Arithmetic",
+    "topic": "General",
+    "difficulty": "Medium",
+    "q_en": "नीचे दिए गए ग्राफ का अध्ययन कीजिए तथा निम्नलिखित प्रश्न का उत्तर दीजिए।<br>\n<img height=\"277\" name=\"32923_441009_0_27566923_q9q10linegraph.jpg\" src=\"https://cdn.digialm.com/per/g01/pub/1258/touchstone/TempQPImagesStoreMode1/adcimages/1784284896155/4410095303463///32923_441009_0_27566923_q9q10linegraph.jpg?0.261092554216816\" width=\"781\"><br>\n<em><strong>संदर्भ: Course Enrollment Counts - पाठ्यक्रम नामांकन संख्या</strong></em><br>\n<br>\n2022 से 2024 तक AI पाठ्यक्रम में नामांकित विद्यार्थियों की कुल संख्या ज्ञात कीजिए।",
+    "q_hi": "नीचे दिए गए ग्राफ का अध्ययन कीजिए तथा निम्नलिखित प्रश्न का उत्तर दीजिए।<br>\n<img height=\"277\" name=\"32923_441009_0_27566923_q9q10linegraph.jpg\" src=\"https://cdn.digialm.com/per/g01/pub/1258/touchstone/TempQPImagesStoreMode1/adcimages/1784284896155/4410095303463///32923_441009_0_27566923_q9q10linegraph.jpg?0.261092554216816\" width=\"781\"><br>\n<em><strong>संदर्भ: Course Enrollment Counts - पाठ्यक्रम नामांकन संख्या</strong></em><br>\n<br>\n2022 से 2024 तक AI पाठ्यक्रम में नामांकित विद्यार्थियों की कुल संख्या ज्ञात कीजिए।",
+    "op_en": [
+      "560",
+      "880",
+      "1440",
+      "1104"
+    ],
+    "op_hi": [
+      "560",
+      "880",
+      "1440",
+      "1104"
+    ],
+    "ans": 4,
+    "solution": "<b>Solution:</b><br><br><b>Final Answer:</b> !4!"
+  },
+  {
+    "section": "Arithmetic",
+    "topic": "General",
+    "difficulty": "Medium",
+    "q_en": "वह अवधि (वर्षों में) ज्ञात कीजिए, जिसमें ₹1,500 की राशि 9% वार्षिक की साधारण ब्याज दर पर ₹2,580 हो जाएगी।",
+    "q_hi": "वह अवधि (वर्षों में) ज्ञात कीजिए, जिसमें ₹1,500 की राशि 9% वार्षिक की साधारण ब्याज दर पर ₹2,580 हो जाएगी।",
+    "op_en": [
+      "10",
+      "8",
+      "9",
+      "7"
+    ],
+    "op_hi": [
+      "10",
+      "8",
+      "9",
+      "7"
+    ],
+    "ans": 2,
+    "solution": "<b>Solution:</b><br><br><b>Final Answer:</b> !2!"
+  },
+  {
+    "section": "Arithmetic",
+    "topic": "General",
+    "difficulty": "Medium",
+    "q_en": "निम्‍न को m के लिए हल करें: <br>\n<img name=\"32923_441009_0_28159491_gqa_m_4_oct_q22.png\" src=\"https://cdn.digialm.com/per/g01/pub/1258/touchstone/TempQPImagesStoreMode1/adcimages/1784284896155/4410095303463///32923_441009_0_28159491_gqa_m_4_oct_q22.png\">",
+    "q_hi": "निम्‍न को m के लिए हल करें: <br>\n<img name=\"32923_441009_0_28159491_gqa_m_4_oct_q22.png\" src=\"https://cdn.digialm.com/per/g01/pub/1258/touchstone/TempQPImagesStoreMode1/adcimages/1784284896155/4410095303463///32923_441009_0_28159491_gqa_m_4_oct_q22.png\">",
+    "op_en": [
+      "<img name=\"32923_441009_0_28159491_gqa_m_4_oct_q22_ob.png\" src=\"https://cdn.digialm.com/per/g01/pub/1258/touchstone/TempQPImagesStoreMode1/adcimages/1784284896155/4410095303463///32923_441009_0_28159491_gqa_m_4_oct_q22_ob.png\">",
+      "<img name=\"32923_441009_0_28159491_gqa_m_4_oct_q22_od.png\" src=\"https://cdn.digialm.com/per/g01/pub/1258/touchstone/TempQPImagesStoreMode1/adcimages/1784284896155/4410095303463///32923_441009_0_28159491_gqa_m_4_oct_q22_od.png\">",
+      "<img name=\"32923_441009_0_28159491_gqa_m_4_oct_q22_oa.png\" src=\"https://cdn.digialm.com/per/g01/pub/1258/touchstone/TempQPImagesStoreMode1/adcimages/1784284896155/4410095303463///32923_441009_0_28159491_gqa_m_4_oct_q22_oa.png\">",
+      "<img name=\"32923_441009_0_28159491_gqa_m_4_oct_q22_oc.png\" src=\"https://cdn.digialm.com/per/g01/pub/1258/touchstone/TempQPImagesStoreMode1/adcimages/1784284896155/4410095303463///32923_441009_0_28159491_gqa_m_4_oct_q22_oc.png\">"
+    ],
+    "op_hi": [
+      "<img name=\"32923_441009_0_28159491_gqa_m_4_oct_q22_ob.png\" src=\"https://cdn.digialm.com/per/g01/pub/1258/touchstone/TempQPImagesStoreMode1/adcimages/1784284896155/4410095303463///32923_441009_0_28159491_gqa_m_4_oct_q22_ob.png\">",
+      "<img name=\"32923_441009_0_28159491_gqa_m_4_oct_q22_od.png\" src=\"https://cdn.digialm.com/per/g01/pub/1258/touchstone/TempQPImagesStoreMode1/adcimages/1784284896155/4410095303463///32923_441009_0_28159491_gqa_m_4_oct_q22_od.png\">",
+      "<img name=\"32923_441009_0_28159491_gqa_m_4_oct_q22_oa.png\" src=\"https://cdn.digialm.com/per/g01/pub/1258/touchstone/TempQPImagesStoreMode1/adcimages/1784284896155/4410095303463///32923_441009_0_28159491_gqa_m_4_oct_q22_oa.png\">",
+      "<img name=\"32923_441009_0_28159491_gqa_m_4_oct_q22_oc.png\" src=\"https://cdn.digialm.com/per/g01/pub/1258/touchstone/TempQPImagesStoreMode1/adcimages/1784284896155/4410095303463///32923_441009_0_28159491_gqa_m_4_oct_q22_oc.png\">"
+    ],
+    "ans": 3,
+    "solution": "<b>Solution:</b><br><br><b>Final Answer:</b> !3!"
+  },
+  {
+    "section": "Arithmetic",
+    "topic": "General",
+    "difficulty": "Medium",
+    "q_en": "<img align=\"middle\" alt=\"begin mathsize 12px style fraction numerator left parenthesis 3.21 right parenthesis squared minus left parenthesis 2.24 right parenthesis squared over denominator 3.21 minus 2.24 end fraction end style\" class=\"Wirisformula\" data-mathml=\"«math style=¨font-family:Arial¨ xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mstyle mathsize=¨12px¨»«mfrac»«mrow»«mo»(«/mo»«mn»3«/mn»«mo».«/mo»«mn»21«/mn»«msup»«mo»)«/mo»«mn»2«/mn»«/msup»«mo»-«/mo»«mo»(«/mo»«mn»2«/mn»«mo».«/mo»«mn»24«/mn»«msup»«mo»)«/mo»«mn»2«/mn»«/msup»«/mrow»«mrow»«mn»3«/mn»«mo».«/mo»«mn»21«/mn»«mo»-«/mo»«mn»2«/mn»«mo».«/mo»«mn»24«/mn»«/mrow»«/mfrac»«/mstyle»«/math»\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHkAAAAjCAYAAACw76XYAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAY00gKyAAAAuxJREFUeNrtmj9oFUEQxo9HeFhImkcQkbSSIoQHIsFCgr1Y2KSUkCZIkBQBsbASIYiVSLpg9bA5JEUKIVgFSROCpdiJhBCEFCGkkMA5A1Mcx97+u9mbvWN/8BWPt7t3883e7t4xWVbPc9BWJs8W3UuVgvQPdAS6H+j6vfVhAXSYxcN3uicVA9BT0O8A1+21DzjYuPT7Cc0SnC3noAnojsU4j0EH1A/Neg+6oWh3F/Qa9KNmnHs0Th045kUgU8ce8fj6UGaZntAgPowpuDK7oEWaLciqoo2KPdBSqd8m6IOi3YSWokIz1gEFqQLHfMacYJUPtvFkDfvN0kNVhPLhHWjd0GZAs9IVnGmXmv91SX6h2BtxvG2a9dzY+GCKx6ffgBK5UOMHiw9fQQ8NbXCmHXsENwW68kzyA9C30u+boBw0H2j/s/HBFI9PvzegDY0fLD7gmj7UzLJHoC+e5q6BPnkmeVjZb3LNssWBzgfbeFz7LdHSrvODxYdrTQJQf0C3PU+quMeNPJOcVbaIQiHdfevk4oNLPC79ZmgfHln44eODdXADWi5yOojZskiHtxlDO5ckh+aaIR6XfruK7aEI5cMpaNrQBm/yl+V4OCl2aB/KGiQZ956zFpNc54NLPC79bFcaFh9yeq8zna5tTpWztH/bUhjeNfMWk6zywTWepv2KUD6sKt7h9krL8zS9XlTb/CWV2QfNMSX5I2ilxSSrfLCJh8MHnR8sPgxpKR5VZs8R7VMnoLeKZUe1tNgedExtboF+Wpx2OVH5YBNPEx9MSWb1AT9jfs7iYUL31Da99+EVSRr8pv1S8PrJh0QikUi0TZHUOyUSiUQikUgk+oB0dScH0pWZ0RNDdWdTYqjM7BQS1Z3cSFRmdgqJ6k5uJCozO/MES1V3ciNRmRk9MVR3lu+jyec/ycrMTjzJktWdHEhXZnYGiepODqQrMzv3RLdd3clxWJSuzIyaGKo7mxJDZWbUSFd3ch4cpSoz2fgPlp3V3/CeQCEAAAGJdEVYdE1hdGhNTAA8bWF0aCB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMTk5OC9NYXRoL01hdGhNTCIgc3R5bGU9ImZvbnQtZmFtaWx5OkFyaWFsIj48bXN0eWxlIG1hdGhzaXplPSIxMnB4Ij48bWZyYWM+PG1yb3c+PG1vPig8L21vPjxtbj4zPC9tbj48bW8+LjwvbW8+PG1uPjIxPC9tbj48bXN1cD48bW8+KTwvbW8+PG1uPjI8L21uPjwvbXN1cD48bW8+LTwvbW8+PG1vPig8L21vPjxtbj4yPC9tbj48bW8+LjwvbW8+PG1uPjI0PC9tbj48bXN1cD48bW8+KTwvbW8+PG1uPjI8L21uPjwvbXN1cD48L21yb3c+PG1yb3c+PG1uPjM8L21uPjxtbz4uPC9tbz48bW4+MjE8L21uPjxtbz4tPC9tbz48bW4+MjwvbW4+PG1vPi48L21vPjxtbj4yNDwvbW4+PC9tcm93PjwvbWZyYWM+PC9tc3R5bGU+PC9tYXRoPnbpwhkAAAAASUVORK5CYII=\" style=\"max-width: none;\"> का मान ज्ञात कीजिए।",
+    "q_hi": "<img align=\"middle\" alt=\"begin mathsize 12px style fraction numerator left parenthesis 3.21 right parenthesis squared minus left parenthesis 2.24 right parenthesis squared over denominator 3.21 minus 2.24 end fraction end style\" class=\"Wirisformula\" data-mathml=\"«math style=¨font-family:Arial¨ xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mstyle mathsize=¨12px¨»«mfrac»«mrow»«mo»(«/mo»«mn»3«/mn»«mo».«/mo»«mn»21«/mn»«msup»«mo»)«/mo»«mn»2«/mn»«/msup»«mo»-«/mo»«mo»(«/mo»«mn»2«/mn»«mo».«/mo»«mn»24«/mn»«msup»«mo»)«/mo»«mn»2«/mn»«/msup»«/mrow»«mrow»«mn»3«/mn»«mo».«/mo»«mn»21«/mn»«mo»-«/mo»«mn»2«/mn»«mo».«/mo»«mn»24«/mn»«/mrow»«/mfrac»«/mstyle»«/math»\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHkAAAAjCAYAAACw76XYAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAY00gKyAAAAuxJREFUeNrtmj9oFUEQxo9HeFhImkcQkbSSIoQHIsFCgr1Y2KSUkCZIkBQBsbASIYiVSLpg9bA5JEUKIVgFSROCpdiJhBCEFCGkkMA5A1Mcx97+u9mbvWN/8BWPt7t3883e7t4xWVbPc9BWJs8W3UuVgvQPdAS6H+j6vfVhAXSYxcN3uicVA9BT0O8A1+21DzjYuPT7Cc0SnC3noAnojsU4j0EH1A/Neg+6oWh3F/Qa9KNmnHs0Th045kUgU8ce8fj6UGaZntAgPowpuDK7oEWaLciqoo2KPdBSqd8m6IOi3YSWokIz1gEFqQLHfMacYJUPtvFkDfvN0kNVhPLhHWjd0GZAs9IVnGmXmv91SX6h2BtxvG2a9dzY+GCKx6ffgBK5UOMHiw9fQQ8NbXCmHXsENwW68kzyA9C30u+boBw0H2j/s/HBFI9PvzegDY0fLD7gmj7UzLJHoC+e5q6BPnkmeVjZb3LNssWBzgfbeFz7LdHSrvODxYdrTQJQf0C3PU+quMeNPJOcVbaIQiHdfevk4oNLPC79ZmgfHln44eODdXADWi5yOojZskiHtxlDO5ckh+aaIR6XfruK7aEI5cMpaNrQBm/yl+V4OCl2aB/KGiQZ956zFpNc54NLPC79bFcaFh9yeq8zna5tTpWztH/bUhjeNfMWk6zywTWepv2KUD6sKt7h9krL8zS9XlTb/CWV2QfNMSX5I2ilxSSrfLCJh8MHnR8sPgxpKR5VZs8R7VMnoLeKZUe1tNgedExtboF+Wpx2OVH5YBNPEx9MSWb1AT9jfs7iYUL31Da99+EVSRr8pv1S8PrJh0QikUi0TZHUOyUSiUQikUgk+oB0dScH0pWZ0RNDdWdTYqjM7BQS1Z3cSFRmdgqJ6k5uJCozO/MES1V3ciNRmRk9MVR3lu+jyec/ycrMTjzJktWdHEhXZnYGiepODqQrMzv3RLdd3clxWJSuzIyaGKo7mxJDZWbUSFd3ch4cpSoz2fgPlp3V3/CeQCEAAAGJdEVYdE1hdGhNTAA8bWF0aCB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMTk5OC9NYXRoL01hdGhNTCIgc3R5bGU9ImZvbnQtZmFtaWx5OkFyaWFsIj48bXN0eWxlIG1hdGhzaXplPSIxMnB4Ij48bWZyYWM+PG1yb3c+PG1vPig8L21vPjxtbj4zPC9tbj48bW8+LjwvbW8+PG1uPjIxPC9tbj48bXN1cD48bW8+KTwvbW8+PG1uPjI8L21uPjwvbXN1cD48bW8+LTwvbW8+PG1vPig8L21vPjxtbj4yPC9tbj48bW8+LjwvbW8+PG1uPjI0PC9tbj48bXN1cD48bW8+KTwvbW8+PG1uPjI8L21uPjwvbXN1cD48L21yb3c+PG1yb3c+PG1uPjM8L21uPjxtbz4uPC9tbz48bW4+MjE8L21uPjxtbz4tPC9tbz48bW4+MjwvbW4+PG1vPi48L21vPjxtbj4yNDwvbW4+PC9tcm93PjwvbWZyYWM+PC9tc3R5bGU+PC9tYXRoPnbpwhkAAAAASUVORK5CYII=\" style=\"max-width: none;\"> का मान ज्ञात कीजिए।",
+    "op_en": [
+      "5.45",
+      "7.45",
+      "6.45",
+      "4.45"
+    ],
+    "op_hi": [
+      "5.45",
+      "7.45",
+      "6.45",
+      "4.45"
+    ],
+    "ans": 1,
+    "solution": "<b>Solution:</b><br><br><b>Final Answer:</b> !1!"
+  },
+  {
+    "section": "Arithmetic",
+    "topic": "General",
+    "difficulty": "Medium",
+    "q_en": "एक व्यक्ति ने ₹10 प्रति पेन की दर से 120 पेन खरीदे। उसने 60 पेन को ₹12 प्रति पेन और शेष को ₹9 प्रति पेन की कीमत पर बेचा। उसका समग्र लाभ या हानि प्रतिशत ज्ञात कीजिए।",
+    "q_hi": "एक व्यक्ति ने ₹10 प्रति पेन की दर से 120 पेन खरीदे। उसने 60 पेन को ₹12 प्रति पेन और शेष को ₹9 प्रति पेन की कीमत पर बेचा। उसका समग्र लाभ या हानि प्रतिशत ज्ञात कीजिए।",
+    "op_en": [
+      "10% लाभ",
+      "5% हानि",
+      "10% हानि",
+      "5% लाभ"
+    ],
+    "op_hi": [
+      "10% लाभ",
+      "5% हानि",
+      "10% हानि",
+      "5% लाभ"
+    ],
+    "ans": 4,
+    "solution": "<b>Solution:</b><br><br><b>Final Answer:</b> !4!"
+  },
+  {
+    "section": "Arithmetic",
+    "topic": "General",
+    "difficulty": "Medium",
+    "q_en": "एक पात्र में 45 लीटर रसायन A है। 9 लीटर रसायन A को रसायन B से बदल दिया जाता है। यह प्रक्रिया एक बार और दोहराई जाती है। पात्र में शेष रसायन A की मात्रा ज्ञात कीजिए।",
+    "q_hi": "एक पात्र में 45 लीटर रसायन A है। 9 लीटर रसायन A को रसायन B से बदल दिया जाता है। यह प्रक्रिया एक बार और दोहराई जाती है। पात्र में शेष रसायन A की मात्रा ज्ञात कीजिए।",
+    "op_en": [
+      "26.8 लीटर",
+      "27.5 लीटर",
+      "28.8 लीटर",
+      "25.2 लीटर"
+    ],
+    "op_hi": [
+      "26.8 लीटर",
+      "27.5 लीटर",
+      "28.8 लीटर",
+      "25.2 लीटर"
+    ],
+    "ans": 3,
+    "solution": "<b>Solution:</b><br><br><b>Final Answer:</b> !3!"
+  },
+  {
+    "section": "Arithmetic",
+    "topic": "General",
+    "difficulty": "Medium",
+    "q_en": "एक विक्रेता ₹1 में 36 की दर से नींबू खरीदता है। 20% का लाभ अर्जित करने के लिए उसे ₹1 में कितने नींबू बेचने होंगे?",
+    "q_hi": "एक विक्रेता ₹1 में 36 की दर से नींबू खरीदता है। 20% का लाभ अर्जित करने के लिए उसे ₹1 में कितने नींबू बेचने होंगे?",
+    "op_en": [
+      "34",
+      "31",
+      "30",
+      "32"
+    ],
+    "op_hi": [
+      "34",
+      "31",
+      "30",
+      "32"
+    ],
+    "ans": 3,
+    "solution": "<b>Solution:</b><br><br><b>Final Answer:</b> !3!"
+  },
+  {
+    "section": "Arithmetic",
+    "topic": "General",
+    "difficulty": "Medium",
+    "q_en": "एक दुकानदार ₹3,600 अंकित मूल्य वाली वस्तु पर दो छूट स्कीम प्रदान करता है। एक स्कीम में 15% और 15% की दो क्रमिक छूट दी जाती हैं, जबकि दूसरी स्कीम में 28% की एकल छूट दी जाती है। अंतिम विक्रय मूल्यों में अंतर ज्ञात कीजिए।",
+    "q_hi": "एक दुकानदार ₹3,600 अंकित मूल्य वाली वस्तु पर दो छूट स्कीम प्रदान करता है। एक स्कीम में 15% और 15% की दो क्रमिक छूट दी जाती हैं, जबकि दूसरी स्कीम में 28% की एकल छूट दी जाती है। अंतिम विक्रय मूल्यों में अंतर ज्ञात कीजिए।",
+    "op_en": [
+      "₹100",
+      "₹130",
+      "₹20",
+      "₹9"
+    ],
+    "op_hi": [
+      "₹100",
+      "₹130",
+      "₹20",
+      "₹9"
+    ],
+    "ans": 4,
+    "solution": "<b>Solution:</b><br><br><b>Final Answer:</b> !4!"
+  },
+  {
+    "section": "Arithmetic",
+    "topic": "General",
+    "difficulty": "Medium",
+    "q_en": "एक किराना व्यापारी को ₹61 प्रति kg और ₹118 प्रति kg वाली गेहूं की दो किस्मों को किस अनुपात में मिलाना चाहिए, ताकि यदि वह इस मिश्रण को ₹124 प्रति kg की दर से बेचे, तो उसे 55% का लाभ प्राप्‍त हो?",
+    "q_hi": "एक किराना व्यापारी को ₹61 प्रति kg और ₹118 प्रति kg वाली गेहूं की दो किस्मों को किस अनुपात में मिलाना चाहिए, ताकि यदि वह इस मिश्रण को ₹124 प्रति kg की दर से बेचे, तो उसे 55% का लाभ प्राप्‍त हो?",
+    "op_en": [
+      "3 : 2",
+      "4 : 3",
+      "2 : 1",
+      "5 : 2"
+    ],
+    "op_hi": [
+      "3 : 2",
+      "4 : 3",
+      "2 : 1",
+      "5 : 2"
+    ],
+    "ans": 3,
+    "solution": "<b>Solution:</b><br><br><b>Final Answer:</b> !3!"
+  },
+  {
+    "section": "Arithmetic",
+    "topic": "General",
+    "difficulty": "Medium",
+    "q_en": "लक्ष्मीनारायण ने वार्षिक रूप से संयोजित होने वाले 20% वार्षिक चक्रवृद्धि ब्याज की दर पर एक निश्चित राशि जमा की। 2 वर्षों के अंत में, लक्ष्मीनारायण को कुल ₹91,332 प्राप्त हुए। लक्ष्मीनारायण द्वारा जमा की गई राशि कितनी थी?",
+    "q_hi": "लक्ष्मीनारायण ने वार्षिक रूप से संयोजित होने वाले 20% वार्षिक चक्रवृद्धि ब्याज की दर पर एक निश्चित राशि जमा की। 2 वर्षों के अंत में, लक्ष्मीनारायण को कुल ₹91,332 प्राप्त हुए। लक्ष्मीनारायण द्वारा जमा की गई राशि कितनी थी?",
+    "op_en": [
+      "₹63,425",
+      "₹63,824",
+      "₹63,247",
+      "₹63,157"
+    ],
+    "op_hi": [
+      "₹63,425",
+      "₹63,824",
+      "₹63,247",
+      "₹63,157"
+    ],
+    "ans": 1,
+    "solution": "<b>Solution:</b><br><br><b>Final Answer:</b> !1!"
+  },
+  {
+    "section": "Arithmetic",
+    "topic": "General",
+    "difficulty": "Medium",
+    "q_en": "किसी संख्या का 5%, उसी संख्या के 9% का लगभग कितना प्रतिशत है?",
+    "q_hi": "किसी संख्या का 5%, उसी संख्या के 9% का लगभग कितना प्रतिशत है?",
+    "op_en": [
+      "35.71%",
+      "180%",
+      "55.56%",
+      "17.86%"
+    ],
+    "op_hi": [
+      "35.71%",
+      "180%",
+      "55.56%",
+      "17.86%"
+    ],
+    "ans": 3,
+    "solution": "<b>Solution:</b><br><br><b>Final Answer:</b> !3!"
+  },
+  {
+    "section": "Arithmetic",
+    "topic": "General",
+    "difficulty": "Medium",
+    "q_en": "एक बल्लेबाज़ अपनी 16वीं पारी में 85 रन बनाता है, जिससे उसका औसत 3 रन बढ़ जाता है। 16 पारियों के बाद उसका औसत स्कोर (रनों में) कितना है?",
+    "q_hi": "एक बल्लेबाज़ अपनी 16वीं पारी में 85 रन बनाता है, जिससे उसका औसत 3 रन बढ़ जाता है। 16 पारियों के बाद उसका औसत स्कोर (रनों में) कितना है?",
+    "op_en": [
+      "40",
+      "45",
+      "37",
+      "50"
+    ],
+    "op_hi": [
+      "40",
+      "45",
+      "37",
+      "50"
+    ],
+    "ans": 1,
+    "solution": "<b>Solution:</b><br><br><b>Final Answer:</b> !1!"
+  },
+  {
+    "section": "Arithmetic",
+    "topic": "General",
+    "difficulty": "Medium",
+    "q_en": "एक वस्तु की लागत ₹720 है और उसका अंकित मूल्य ₹900 है। यदि विक्रेता अंकित मूल्य पर 8% की छूट देकर उसे बेचता है, तो उसका लाभ प्रतिशत कितना होगा?",
+    "q_hi": "एक वस्तु की लागत ₹720 है और उसका अंकित मूल्य ₹900 है। यदि विक्रेता अंकित मूल्य पर 8% की छूट देकर उसे बेचता है, तो उसका लाभ प्रतिशत कितना होगा?",
+    "op_en": [
+      "15%",
+      "17%",
+      "12%",
+      "18%"
+    ],
+    "op_hi": [
+      "15%",
+      "17%",
+      "12%",
+      "18%"
+    ],
+    "ans": 1,
+    "solution": "<b>Solution:</b><br><br><b>Final Answer:</b> !1!"
+  },
+  {
+    "section": "Arithmetic",
+    "topic": "General",
+    "difficulty": "Medium",
+    "q_en": "Two students appeared in an examination. One of them secured 4 marks more than the other and his marks were 58% of the sum of their marks. The sum of the marks obtained by them was:<span style=\"color:#ffffff;\">4546</span>",
+    "q_hi": "Two students appeared in an examination. One of them secured 4 marks more than the other and his marks were 58% of the sum of their marks. The sum of the marks obtained by them was:<span style=\"color:#ffffff;\">4546</span>",
+    "op_en": [
+      "29",
+      "21",
+      "25",
+      "26"
+    ],
+    "op_hi": [
+      "29",
+      "21",
+      "25",
+      "26"
+    ],
+    "ans": 3,
+    "solution": "<b>Solution:</b><br><br><b>Final Answer:</b> !3!"
+  },
+  {
+    "section": "Arithmetic",
+    "topic": "General",
+    "difficulty": "Medium",
+    "q_en": "<img height=\"65\" name=\"32923_441009_0_28919273_aha.png\" src=\"https://cdn.digialm.com/per/g01/pub/1258/touchstone/TempQPImagesStoreMode1/adcimages/1784284896155/4410095303463///32923_441009_0_28919273_aha.png?0.5344305364752955\" width=\"161\">भिन्नों में से सबसे छोटे भिन्न और सबसे बड़े भिन्न के बीच अंतर ज्ञात कीजिए।",
+    "q_hi": "<img height=\"65\" name=\"32923_441009_0_28919273_aha.png\" src=\"https://cdn.digialm.com/per/g01/pub/1258/touchstone/TempQPImagesStoreMode1/adcimages/1784284896155/4410095303463///32923_441009_0_28919273_aha.png?0.5344305364752955\" width=\"161\">भिन्नों में से सबसे छोटे भिन्न और सबसे बड़े भिन्न के बीच अंतर ज्ञात कीजिए।",
+    "op_en": [
+      "<img name=\"32923_441009_0_28159491_gqa_m_13_july_q4_oa.png\" src=\"https://cdn.digialm.com/per/g01/pub/1258/touchstone/TempQPImagesStoreMode1/adcimages/1784284896155/4410095303463///32923_441009_0_28159491_gqa_m_13_july_q4_oa.png\">",
+      "<img name=\"32923_441009_0_28159491_gqa_m_13_july_q4_od.png\" src=\"https://cdn.digialm.com/per/g01/pub/1258/touchstone/TempQPImagesStoreMode1/adcimages/1784284896155/4410095303463///32923_441009_0_28159491_gqa_m_13_july_q4_od.png\">",
+      "<img name=\"32923_441009_0_28159491_gqa_m_13_july_q4_ob.png\" src=\"https://cdn.digialm.com/per/g01/pub/1258/touchstone/TempQPImagesStoreMode1/adcimages/1784284896155/4410095303463///32923_441009_0_28159491_gqa_m_13_july_q4_ob.png\">",
+      "<img name=\"32923_441009_0_28159491_gqa_m_13_july_q4_oc.png\" src=\"https://cdn.digialm.com/per/g01/pub/1258/touchstone/TempQPImagesStoreMode1/adcimages/1784284896155/4410095303463///32923_441009_0_28159491_gqa_m_13_july_q4_oc.png\">"
+    ],
+    "op_hi": [
+      "<img name=\"32923_441009_0_28159491_gqa_m_13_july_q4_oa.png\" src=\"https://cdn.digialm.com/per/g01/pub/1258/touchstone/TempQPImagesStoreMode1/adcimages/1784284896155/4410095303463///32923_441009_0_28159491_gqa_m_13_july_q4_oa.png\">",
+      "<img name=\"32923_441009_0_28159491_gqa_m_13_july_q4_od.png\" src=\"https://cdn.digialm.com/per/g01/pub/1258/touchstone/TempQPImagesStoreMode1/adcimages/1784284896155/4410095303463///32923_441009_0_28159491_gqa_m_13_july_q4_od.png\">",
+      "<img name=\"32923_441009_0_28159491_gqa_m_13_july_q4_ob.png\" src=\"https://cdn.digialm.com/per/g01/pub/1258/touchstone/TempQPImagesStoreMode1/adcimages/1784284896155/4410095303463///32923_441009_0_28159491_gqa_m_13_july_q4_ob.png\">",
+      "<img name=\"32923_441009_0_28159491_gqa_m_13_july_q4_oc.png\" src=\"https://cdn.digialm.com/per/g01/pub/1258/touchstone/TempQPImagesStoreMode1/adcimages/1784284896155/4410095303463///32923_441009_0_28159491_gqa_m_13_july_q4_oc.png\">"
+    ],
+    "ans": 1,
+    "solution": "<b>Solution:</b><br><br><b>Final Answer:</b> !1!"
+  },
+  {
+    "section": "Arithmetic1",
+    "topic": "General",
+    "difficulty": "Medium",
+    "q_en": "एक नाव धारा के विपरीत दिशा में 10 km/h और धारा की दिशा में 20 km/h की चाल से चलती है। यदि धारा की चाल 5 km/h है, तो स्थिर जल में नाव की चाल ज्ञात कीजिए।",
+    "q_hi": "एक नाव धारा के विपरीत दिशा में 10 km/h और धारा की दिशा में 20 km/h की चाल से चलती है। यदि धारा की चाल 5 km/h है, तो स्थिर जल में नाव की चाल ज्ञात कीजिए।",
+    "op_en": [
+      "20 km/h",
+      "12 km/h",
+      "18 km/h",
+      "15 km/h"
+    ],
+    "op_hi": [
+      "20 km/h",
+      "12 km/h",
+      "18 km/h",
+      "15 km/h"
+    ],
+    "ans": 4,
+    "solution": "<b>Solution:</b><br><br><b>Final Answer:</b> !4!"
+  },
+  {
+    "section": "Arithmetic1",
+    "topic": "General",
+    "difficulty": "Medium",
+    "q_en": "P और Q मिलकर किसी कार्य को 36 दिनों में कर सकते हैं। Q और R मिलकर उस कार्य को 48 दिनों में कर सकते हैं। P और R मिलकर उस कार्य को 72 दिनों में कर सकते हैं। R अकेला उस कार्य को कितने दिनों में पूरा करेगा?",
+    "q_hi": "P और Q मिलकर किसी कार्य को 36 दिनों में कर सकते हैं। Q और R मिलकर उस कार्य को 48 दिनों में कर सकते हैं। P और R मिलकर उस कार्य को 72 दिनों में कर सकते हैं। R अकेला उस कार्य को कितने दिनों में पूरा करेगा?",
+    "op_en": [
+      "57.6 दिन",
+      "288 दिन",
+      "96 दिन",
+      "142 दिन"
+    ],
+    "op_hi": [
+      "57.6 दिन",
+      "288 दिन",
+      "96 दिन",
+      "142 दिन"
+    ],
+    "ans": 2,
+    "solution": "<b>Solution:</b><br><br><b>Final Answer:</b> !2!"
+  },
+  {
+    "section": "Arithmetic1",
+    "topic": "General",
+    "difficulty": "Medium",
+    "q_en": "A, दो स्टेशनों के बीच रेलवे ट्रैक 7 दिनों में बिछा सकता है और B वही काम 42 दिनों में कर सकता है। C की मदद से, वे यह काम 3 दिनों में पूरा कर लेते हैं। ज्ञात कीजिए कि C अकेले यह पूरा काम कितने दिनों में करेगा।",
+    "q_hi": "A, दो स्टेशनों के बीच रेलवे ट्रैक 7 दिनों में बिछा सकता है और B वही काम 42 दिनों में कर सकता है। C की मदद से, वे यह काम 3 दिनों में पूरा कर लेते हैं। ज्ञात कीजिए कि C अकेले यह पूरा काम कितने दिनों में करेगा।",
+    "op_en": [
+      "7",
+      "8",
+      "9",
+      "6"
+    ],
+    "op_hi": [
+      "7",
+      "8",
+      "9",
+      "6"
+    ],
+    "ans": 4,
+    "solution": "<b>Solution:</b><br><br><b>Final Answer:</b> !4!"
+  },
+  {
+    "section": "Arithmetic1",
+    "topic": "General",
+    "difficulty": "Medium",
+    "q_en": "Find the total surface area of a closed cylinder with radius 3 cm and height 7 cm.<br>(Use π = 22/7)",
+    "q_hi": "Find the total surface area of a closed cylinder with radius 3 cm and height 7 cm.<br>(Use π = 22/7)",
+    "op_en": [
+      "186.8 cm²",
+      "180 cm²",
+      "188.4 cm²",
+      "188.6 cm²"
+    ],
+    "op_hi": [
+      "186.8 cm²",
+      "180 cm²",
+      "188.4 cm²",
+      "188.6 cm²"
+    ],
+    "ans": 4,
+    "solution": "<b>Solution:</b><br><br><b>Final Answer:</b> !4!"
+  },
+  {
+    "section": "Arithmetic1",
+    "topic": "General",
+    "difficulty": "Medium",
+    "q_en": "The lengths of the two diagonals of a rhombus are 24 cm and 32 cm, respectively. Find its area in cm<sup>2</sup>.",
+    "q_hi": "The lengths of the two diagonals of a rhombus are 24 cm and 32 cm, respectively. Find its area in cm<sup>2</sup>.",
+    "op_en": [
+      "364",
+      "384",
+      "424",
+      "324"
+    ],
+    "op_hi": [
+      "364",
+      "384",
+      "424",
+      "324"
+    ],
+    "ans": 2,
+    "solution": "<b>Solution:</b><br><br><b>Final Answer:</b> !2!"
+  },
+  {
+    "section": "Arithmetic1",
+    "topic": "General",
+    "difficulty": "Medium",
+    "q_en": "Three numbers a, b, c are in the ratio of 5:7:9. If the fourth proportional to a,b,c exceeds a by 64, find the value of a+b+c.",
+    "q_hi": "Three numbers a, b, c are in the ratio of 5:7:9. If the fourth proportional to a,b,c exceeds a by 64, find the value of a+b+c.",
+    "op_en": [
+      "<img align=\"middle\" alt=\"3660 over 19\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mfrac»«mn»3660«/mn»«mn»19«/mn»«/mfrac»«/math»\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAlCAYAAAA5iwvJAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAZpE86XgAAAlhJREFUeNrtWdFHQ1EYP2Ymk8hccyWxp+w10//QQzLSQ5JE0sPe00N6TbKnSNLDpJdJkkTSUyZ6yGQmJklmIklmMm7fp9/lOM6de2/N7sP98aPz7bdzvn3nnO+c8yWEHuPEG+I38ZO4T0wIZ0wSi9C2fWgM4inGuyKawgPSxDVilDhA3CVaxGuNlge6hBPrxDFixIemBPYRz4n3Go0jVpR2BA43FTtH4Yl4Sxxy6MuNZgb9Z9GeQnvRrcPqLxtFB5uaqLAzgx36cqMpov802gm0i8IHMsQKMa/YZ6UfwVPYIr4Scx41AjYLS1Ce0Q+vzk7gi/b6NaTPLmBfxkApRFKeSjcagY1mKWNbsHvGMPEOHRQke1MziB3RigeNQMbQOdwSPpHRbDpdVGLKQG40jHfY7L0TRbvh12FdlqjCZmoi0/CgkTedKc2q700nkI64g0PJtgGbnAJTsG170DDmlLSWRXvBrYPPxD2kFwObh3dyUtLEiQ+IFKe9fuIZ8UU6Ed1o7Bks44SLYYOXvRwceawxXoM14paSIeQTrAAt80hzOLjR2AfMNcY8UYITIkSIED5hBZwhQoQI0WXwRXsJN7Cmg2YEF3H+/AsFGaNXDpdR8HDKk3xFrOO6GMeduI73XH+vnI50cHgH9pRSpLHwGun5CaniTWM3YXsMosNtpUDy55pDtx2uwD6t0TeD6LC9XmtYx1G8hC08OAPnMCOHF7f9uFyFdj6oDqvgInkpKPfoTuDlcICah9lLZ5OSw0mHk45PwyoKMkYQIuv0MuC/+d8Ex+K3dPsv+AGL5AgIdbohZgAAAGZ0RVh0TWF0aE1MADxtYXRoIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8xOTk4L01hdGgvTWF0aE1MIj48bWZyYWM+PG1uPjM2NjA8L21uPjxtbj4xOTwvbW4+PC9tZnJhYz48L21hdGg+egWOzQAAAABJRU5ErkJggg==\" style=\"max-width: none;\">",
+      "<img align=\"middle\" alt=\"3330 over 19\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mfrac»«mn»3330«/mn»«mn»19«/mn»«/mfrac»«/math»\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAlCAYAAAA5iwvJAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAZpE86XgAAAd9JREFUeNrtWTFLw0AUDiGIiLiUEIKI4CTdi//BSQriJCKCg4O7OLmKQydBRBxEXIqIg7iIk3RxkAxFhA4OUkQQESlSCvE9/A7CkYQk7ZEb7oMP+l6+pl+Se7m7V8uKxwLxgdgnfhNPiBVFGoZLvIbujuhbOVAl7hId4hTxiBgS7xVoBFrgOPGG+ES0sxrekmIbP9RToGGsIF9HvIR4I6th+crmcYJ9BRpGE/kq4griplUANWKb2FCoeYNBR3oSX3nNLuKLYty5ijR9HIsiRD43ZoiPOMGZIs0gwfCvVRC1hGIZleYTeTHmHcTvRQ3bGcwMoxFF50eeRuGiY0zjBOeKNKvSa62OeD2rwVfiMV4vXCC3qGRPgUbc+QAz3BgKM8gzcTQw4LlKO8SDmMoelUbAh1HWXsVclIGBgUEBhJrTwMDAQDF4ob1JvEhZuM9iIc7Hf9BIccsyHKDhkfSe5CViF8vFCWzzu9g9T5Zl2k4xfIj8nNRc4dyeDjOkjI+YvI/ci46GB1KDZOieg2rDbeSXY/Q9HQ2L8drBOHawEw6x4dTOMGMbO2WxudyBdk1XwzK4ud3SZR2dBh4Op+hV+GWa9SKGvYSZjmfDZzRSXB3ubNLOgD/z/xqX1n/LdST4A9F09HODQ7WHAAAAZnRFWHRNYXRoTUwAPG1hdGggeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzE5OTgvTWF0aC9NYXRoTUwiPjxtZnJhYz48bW4+MzMzMDwvbW4+PG1uPjE5PC9tbj48L21mcmFjPjwvbWF0aD4htkgcAAAAAElFTkSuQmCC\" style=\"max-width: none;\">",
+      "<img align=\"middle\" alt=\"3360 over 19\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mfrac»«mn»3360«/mn»«mn»19«/mn»«/mfrac»«/math»\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAlCAYAAAA5iwvJAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAZpE86XgAAAkpJREFUeNrtWd9HQ1Ecv2YmmUiuuZLYU/aa9D/0kIz0kCSR9LD39JBek+wpkvQw6WWSJJH0lIkeMpmJSTIzkSSTjNv3q8/lOM5ZO7ey+3A/fNj57nPPPvf8Pt9ZlhqjxCviJ/GNuEvs86ERMU7MQ9uUvrOJx6jrguhYBkgRV4hRYg9xm+gSLw01oplzGF0lDhMjkqYAdhFPibcKjRZLUjkCMw1DjYWWeiBeE/s1vzeFZ9MoT6A8365h+c2GUMG6ocZrOTbc2+L38ng2hXIfynnLB0aIJWLWh2ZaeAnu5g9ilZiRdFXoolJvvZqaHcOD3ti0DTVniC/CTBKtLXf3J2IiXMSNMUC8QQU5Q01DYcRr9ZIQa2oMf1g+MaKZUD9pVC0XU5h5QcybF1GU634NR9owrNKUEXMUrVdXTDpH6DHfk87CcsQV7Btq1hATl8AkYptCbEZa1tIoz7Vr8JG4g+XFxuThmZww1HQT79CavOzFiSfEJ2lH5N4pYoeLYfIWTTaOLMYYj8EKcUOxQrSj8Xa5HLTMA80G4sAo13ckvXiIECFC+IQbcIYIESLEP4MP2gs4gekO94M4iPP370i22J0yXETCQ7dO8hGxhuNiN87ENdzn4p0yHWlheAvxpJSAcXEb6fgOKeNZEXcQuw+i4aaUIPl1zuG/DZcQn1ToG0E07I3XCsZxFDdhFxfOwBlmZHCb9i6Xy9DOBtWwDE6AF4Jyjm4FHg57yGc4nTSbEAwnNDsd74ZlJFvsILSs7mbAn/lvgkPrOy37J/gC/uf+NvCxtGYAAABmdEVYdE1hdGhNTAA8bWF0aCB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMTk5OC9NYXRoL01hdGhNTCI+PG1mcmFjPjxtbj4zMzYwPC9tbj48bW4+MTk8L21uPjwvbWZyYWM+PC9tYXRoPsyOmyMAAAAASUVORK5CYII=\" style=\"max-width: none;\">",
+      "<img align=\"middle\" alt=\"3690 over 19\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mfrac»«mn»3690«/mn»«mn»19«/mn»«/mfrac»«/math»\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAlCAYAAAA5iwvJAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAZpE86XgAAAlZJREFUeNrtWNFHQ1EYP2YmSWTmmiT2NHvN9D/0kIz0kGQi6WHv6SF7TbKnSNLDZC+TJBmZnibRQyaTSJJJIklmrrG+w+9yHOfenXvTdh/uj9/D9+vc73znfOecb32MqTFNrBFN4jfxkBhl9pglljG2I+iT0FvEH/iJKb7n2hnmqxLjzAVSxE1imDhK3Cd2iVc2E10i0C3iFDGEvxnEN+IpcZiYhN0gjkh+rsEh4gXxTvDTE+uSHULALUnnu/BMvCGOK/zs4buE5JtreUFbgJaBPQd7RTdgeWVJONhW7AoPeMzGzwe+kxfJtUdBK0NLwY7CLjMPSCOFBUlfFBbBU9gmNok5YUwHY8LSt12cVQtNaZyV0S+3wc7gQ+v8ipelAn0NEyWw22IqG7DnFQGLx8tUZEJelDYmiLdwUBT0lmISa9cb0nl9woL4wrLQqopMyAG3mUekNXclopgoh5SbeC02MGZZGPMJzbo7YdjvXgNWvRIP0OKKnXGaqIbLyhSXLi5k1fOlY3iyuINjQctDE5/ABLRdhQ++a0fEF8Uil6RnLQM7qxsgd3qA5yWGC9ZEIbDAC8E9djOJQnBOfJUqIq90q8hIxabK8QzWca4juOB1N4WjgHNo4sLsOJTTIsZylqQC0kUFPMGL44Q4ArXOusECBAgQ4M/o+pwBAgQI8M+YwE/HkqIF4LaR0hfU0fCweyfdNFL6hpBDwLqNlIFVSK+NFN8ErNtI8U3Auo0U3wSs20jxTcC6jRRfBazTSPFlwE6NlL7CEAI2bCpdr0bKwP9D8dJI0cYv0JkHTh4QQo4AAABmdEVYdE1hdGhNTAA8bWF0aCB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMTk5OC9NYXRoL01hdGhNTCI+PG1mcmFjPjxtbj4zNjkwPC9tbj48bW4+MTk8L21uPjwvbWZyYWM+PC9tYXRoPpY9/c0AAAAASUVORK5CYII=\" style=\"max-width: none;\">"
+    ],
+    "op_hi": [
+      "<img align=\"middle\" alt=\"3660 over 19\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mfrac»«mn»3660«/mn»«mn»19«/mn»«/mfrac»«/math»\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAlCAYAAAA5iwvJAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAZpE86XgAAAlhJREFUeNrtWdFHQ1EYP2Ymk8hccyWxp+w10//QQzLSQ5JE0sPe00N6TbKnSNLDpJdJkkTSUyZ6yGQmJklmIklmMm7fp9/lOM6de2/N7sP98aPz7bdzvn3nnO+c8yWEHuPEG+I38ZO4T0wIZ0wSi9C2fWgM4inGuyKawgPSxDVilDhA3CVaxGuNlge6hBPrxDFixIemBPYRz4n3Go0jVpR2BA43FTtH4Yl4Sxxy6MuNZgb9Z9GeQnvRrcPqLxtFB5uaqLAzgx36cqMpov802gm0i8IHMsQKMa/YZ6UfwVPYIr4Scx41AjYLS1Ce0Q+vzk7gi/b6NaTPLmBfxkApRFKeSjcagY1mKWNbsHvGMPEOHRQke1MziB3RigeNQMbQOdwSPpHRbDpdVGLKQG40jHfY7L0TRbvh12FdlqjCZmoi0/CgkTedKc2q700nkI64g0PJtgGbnAJTsG170DDmlLSWRXvBrYPPxD2kFwObh3dyUtLEiQ+IFKe9fuIZ8UU6Ed1o7Bks44SLYYOXvRwceawxXoM14paSIeQTrAAt80hzOLjR2AfMNcY8UYITIkSIED5hBZwhQoQI0WXwRXsJN7Cmg2YEF3H+/AsFGaNXDpdR8HDKk3xFrOO6GMeduI73XH+vnI50cHgH9pRSpLHwGun5CaniTWM3YXsMosNtpUDy55pDtx2uwD6t0TeD6LC9XmtYx1G8hC08OAPnMCOHF7f9uFyFdj6oDqvgInkpKPfoTuDlcICah9lLZ5OSw0mHk45PwyoKMkYQIuv0MuC/+d8Ex+K3dPsv+AGL5AgIdbohZgAAAGZ0RVh0TWF0aE1MADxtYXRoIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8xOTk4L01hdGgvTWF0aE1MIj48bWZyYWM+PG1uPjM2NjA8L21uPjxtbj4xOTwvbW4+PC9tZnJhYz48L21hdGg+egWOzQAAAABJRU5ErkJggg==\" style=\"max-width: none;\">",
+      "<img align=\"middle\" alt=\"3330 over 19\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mfrac»«mn»3330«/mn»«mn»19«/mn»«/mfrac»«/math»\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAlCAYAAAA5iwvJAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAZpE86XgAAAd9JREFUeNrtWTFLw0AUDiGIiLiUEIKI4CTdi//BSQriJCKCg4O7OLmKQydBRBxEXIqIg7iIk3RxkAxFhA4OUkQQESlSCvE9/A7CkYQk7ZEb7oMP+l6+pl+Se7m7V8uKxwLxgdgnfhNPiBVFGoZLvIbujuhbOVAl7hId4hTxiBgS7xVoBFrgOPGG+ES0sxrekmIbP9RToGGsIF9HvIR4I6th+crmcYJ9BRpGE/kq4griplUANWKb2FCoeYNBR3oSX3nNLuKLYty5ijR9HIsiRD43ZoiPOMGZIs0gwfCvVRC1hGIZleYTeTHmHcTvRQ3bGcwMoxFF50eeRuGiY0zjBOeKNKvSa62OeD2rwVfiMV4vXCC3qGRPgUbc+QAz3BgKM8gzcTQw4LlKO8SDmMoelUbAh1HWXsVclIGBgUEBhJrTwMDAQDF4ob1JvEhZuM9iIc7Hf9BIccsyHKDhkfSe5CViF8vFCWzzu9g9T5Zl2k4xfIj8nNRc4dyeDjOkjI+YvI/ci46GB1KDZOieg2rDbeSXY/Q9HQ2L8drBOHawEw6x4dTOMGMbO2WxudyBdk1XwzK4ud3SZR2dBh4Op+hV+GWa9SKGvYSZjmfDZzRSXB3ubNLOgD/z/xqX1n/LdST4A9F09HODQ7WHAAAAZnRFWHRNYXRoTUwAPG1hdGggeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzE5OTgvTWF0aC9NYXRoTUwiPjxtZnJhYz48bW4+MzMzMDwvbW4+PG1uPjE5PC9tbj48L21mcmFjPjwvbWF0aD4htkgcAAAAAElFTkSuQmCC\" style=\"max-width: none;\">",
+      "<img align=\"middle\" alt=\"3360 over 19\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mfrac»«mn»3360«/mn»«mn»19«/mn»«/mfrac»«/math»\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAlCAYAAAA5iwvJAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAZpE86XgAAAkpJREFUeNrtWd9HQ1Ecv2YmmUiuuZLYU/aa9D/0kIz0kCSR9LD39JBek+wpkvQw6WWSJJH0lIkeMpmJSTIzkSSTjNv3q8/lOM5ZO7ey+3A/fNj57nPPPvf8Pt9ZlhqjxCviJ/GNuEvs86ERMU7MQ9uUvrOJx6jrguhYBkgRV4hRYg9xm+gSLw01oplzGF0lDhMjkqYAdhFPibcKjRZLUjkCMw1DjYWWeiBeE/s1vzeFZ9MoT6A8365h+c2GUMG6ocZrOTbc2+L38ng2hXIfynnLB0aIJWLWh2ZaeAnu5g9ilZiRdFXoolJvvZqaHcOD3ti0DTVniC/CTBKtLXf3J2IiXMSNMUC8QQU5Q01DYcRr9ZIQa2oMf1g+MaKZUD9pVC0XU5h5QcybF1GU634NR9owrNKUEXMUrVdXTDpH6DHfk87CcsQV7Btq1hATl8AkYptCbEZa1tIoz7Vr8JG4g+XFxuThmZww1HQT79CavOzFiSfEJ2lH5N4pYoeLYfIWTTaOLMYYj8EKcUOxQrSj8Xa5HLTMA80G4sAo13ckvXiIECFC+IQbcIYIESLEP4MP2gs4gekO94M4iPP370i22J0yXETCQ7dO8hGxhuNiN87ENdzn4p0yHWlheAvxpJSAcXEb6fgOKeNZEXcQuw+i4aaUIPl1zuG/DZcQn1ToG0E07I3XCsZxFDdhFxfOwBlmZHCb9i6Xy9DOBtWwDE6AF4Jyjm4FHg57yGc4nTSbEAwnNDsd74ZlJFvsILSs7mbAn/lvgkPrOy37J/gC/uf+NvCxtGYAAABmdEVYdE1hdGhNTAA8bWF0aCB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMTk5OC9NYXRoL01hdGhNTCI+PG1mcmFjPjxtbj4zMzYwPC9tbj48bW4+MTk8L21uPjwvbWZyYWM+PC9tYXRoPsyOmyMAAAAASUVORK5CYII=\" style=\"max-width: none;\">",
+      "<img align=\"middle\" alt=\"3690 over 19\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mfrac»«mn»3690«/mn»«mn»19«/mn»«/mfrac»«/math»\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAlCAYAAAA5iwvJAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAZpE86XgAAAlZJREFUeNrtWNFHQ1EYP2YmSWTmmiT2NHvN9D/0kIz0kGQi6WHv6SF7TbKnSNLDZC+TJBmZnibRQyaTSJJJIklmrrG+w+9yHOfenXvTdh/uj9/D9+vc73znfOecb32MqTFNrBFN4jfxkBhl9pglljG2I+iT0FvEH/iJKb7n2hnmqxLjzAVSxE1imDhK3Cd2iVc2E10i0C3iFDGEvxnEN+IpcZiYhN0gjkh+rsEh4gXxTvDTE+uSHULALUnnu/BMvCGOK/zs4buE5JtreUFbgJaBPQd7RTdgeWVJONhW7AoPeMzGzwe+kxfJtUdBK0NLwY7CLjMPSCOFBUlfFBbBU9gmNok5YUwHY8LSt12cVQtNaZyV0S+3wc7gQ+v8ipelAn0NEyWw22IqG7DnFQGLx8tUZEJelDYmiLdwUBT0lmISa9cb0nl9woL4wrLQqopMyAG3mUekNXclopgoh5SbeC02MGZZGPMJzbo7YdjvXgNWvRIP0OKKnXGaqIbLyhSXLi5k1fOlY3iyuINjQctDE5/ABLRdhQ++a0fEF8Uil6RnLQM7qxsgd3qA5yWGC9ZEIbDAC8E9djOJQnBOfJUqIq90q8hIxabK8QzWca4juOB1N4WjgHNo4sLsOJTTIsZylqQC0kUFPMGL44Q4ArXOusECBAgQ4M/o+pwBAgQI8M+YwE/HkqIF4LaR0hfU0fCweyfdNFL6hpBDwLqNlIFVSK+NFN8ErNtI8U3Auo0U3wSs20jxTcC6jRRfBazTSPFlwE6NlL7CEAI2bCpdr0bKwP9D8dJI0cYv0JkHTh4QQo4AAABmdEVYdE1hdGhNTAA8bWF0aCB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMTk5OC9NYXRoL01hdGhNTCI+PG1mcmFjPjxtbj4zNjkwPC9tbj48bW4+MTk8L21uPjwvbWZyYWM+PC9tYXRoPpY9/c0AAAAASUVORK5CYII=\" style=\"max-width: none;\">"
+    ],
+    "ans": 3,
+    "solution": "<b>Solution:</b><br><br><b>Final Answer:</b> !3!"
+  },
+  {
+    "section": "Arithmetic1",
+    "topic": "General",
+    "difficulty": "Medium",
+    "q_en": "A spherical balloon that has a diameter of 28 cm is painted on its outside. If 1 litre of paint can cover 1,408 cm², find the quantity of paint (in litres) required. (take <img align=\"middle\" alt=\"pi equals 22 over 7\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mi»§#960;«/mi»«mo»=«/mo»«mfrac»«mn»22«/mn»«mn»7«/mn»«/mfrac»«/math»\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADsAAAAlCAYAAAD8+ZFYAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAZpE86XgAAAV5JREFUeNpjYBi8wBKIrwHxLyB+DsQdQMxChppBDwSRHK4E9dB/IO4hUc2QAIloMWQJ9cgXEtUMWQDyyDcqqBn0gA3qkU0UqhkSIBzqEXMK1QwJcA6IZ1JBzaAHBUB8Bog5KFQz6IE11BPCFKoZ9EAeiHejeSIaWp+SombQA0kgfgwtcNDxJBLUDAlwC4cnQNiLBDWjYEQBUSC+gidZDKtkUk2CR3F5lhT9A15xNwMxEw4Hgfg/iGiEDwnPYnM0qZ4dsl2pgfLsfxphkj37ayQl4//D1bPosfhnsDmSGoAFx9DGQ6i49HDyrDHUU5fQxPug4kuB2G+od6dgoBbqqWQ0cdCw5Tpocl432uCkD1DCU+h1DTfPZuHxrNZw8+xMaLmCDPSA+PhwTMYqWMRAoxKJIyEPgwbGn0PpYQ+SGYbYeBMlAJRXdUaCR4dtwcSAo2BKHikF08vRgmm0YIIAAAMv2b52Bb9mAAAAfXRFWHRNYXRoTUwAPG1hdGggeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzE5OTgvTWF0aC9NYXRoTUwiPjxtaT4mI3gzQzA7PC9taT48bW8+PTwvbW8+PG1mcmFjPjxtbj4yMjwvbW4+PG1uPjc8L21uPjwvbWZyYWM+PC9tYXRoPoGti/oAAAAASUVORK5CYII=\" style=\"max-width: none;\">)",
+    "q_hi": "A spherical balloon that has a diameter of 28 cm is painted on its outside. If 1 litre of paint can cover 1,408 cm², find the quantity of paint (in litres) required. (take <img align=\"middle\" alt=\"pi equals 22 over 7\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mi»§#960;«/mi»«mo»=«/mo»«mfrac»«mn»22«/mn»«mn»7«/mn»«/mfrac»«/math»\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADsAAAAlCAYAAAD8+ZFYAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAZpE86XgAAAV5JREFUeNpjYBi8wBKIrwHxLyB+DsQdQMxChppBDwSRHK4E9dB/IO4hUc2QAIloMWQJ9cgXEtUMWQDyyDcqqBn0gA3qkU0UqhkSIBzqEXMK1QwJcA6IZ1JBzaAHBUB8Bog5KFQz6IE11BPCFKoZ9EAeiHejeSIaWp+SombQA0kgfgwtcNDxJBLUDAlwC4cnQNiLBDWjYEQBUSC+gidZDKtkUk2CR3F5lhT9A15xNwMxEw4Hgfg/iGiEDwnPYnM0qZ4dsl2pgfLsfxphkj37ayQl4//D1bPosfhnsDmSGoAFx9DGQ6i49HDyrDHUU5fQxPug4kuB2G+od6dgoBbqqWQ0cdCw5Tpocl432uCkD1DCU+h1DTfPZuHxrNZw8+xMaLmCDPSA+PhwTMYqWMRAoxKJIyEPgwbGn0PpYQ+SGYbYeBMlAJRXdUaCR4dtwcSAo2BKHikF08vRgmm0YIIAAAMv2b52Bb9mAAAAfXRFWHRNYXRoTUwAPG1hdGggeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzE5OTgvTWF0aC9NYXRoTUwiPjxtaT4mI3gzQzA7PC9taT48bW8+PTwvbW8+PG1mcmFjPjxtbj4yMjwvbW4+PG1uPjc8L21uPjwvbWZyYWM+PC9tYXRoPoGti/oAAAAASUVORK5CYII=\" style=\"max-width: none;\">)",
+    "op_en": [
+      "2.5",
+      "2",
+      "1.5",
+      "1.75"
+    ],
+    "op_hi": [
+      "2.5",
+      "2",
+      "1.5",
+      "1.75"
+    ],
+    "ans": 4,
+    "solution": "<b>Solution:</b><br><br><b>Final Answer:</b> !4!"
+  },
+  {
+    "section": "Arithmetic1",
+    "topic": "General",
+    "difficulty": "Medium",
+    "q_en": "<strong></strong>पूजा, हर्ष और मधुर एक व्यवसाय शुरू करने के लिए क्रमशः ₹1,530, ₹1,890 और ₹1,780 का निवेश करते हैं। यदि वर्ष के अंत में अर्जित लाभ ₹1,560 है, तो लाभ में मधुर का हिस्सा ज्ञात कीजिए।",
+    "q_hi": "<strong></strong>पूजा, हर्ष और मधुर एक व्यवसाय शुरू करने के लिए क्रमशः ₹1,530, ₹1,890 और ₹1,780 का निवेश करते हैं। यदि वर्ष के अंत में अर्जित लाभ ₹1,560 है, तो लाभ में मधुर का हिस्सा ज्ञात कीजिए।",
+    "op_en": [
+      "₹532",
+      "₹536",
+      "₹534",
+      "₹537"
+    ],
+    "op_hi": [
+      "₹532",
+      "₹536",
+      "₹534",
+      "₹537"
+    ],
+    "ans": 3,
+    "solution": "<b>Solution:</b><br><br><b>Final Answer:</b> !3!"
+  },
+  {
+    "section": "Arithmetic1",
+    "topic": "General",
+    "difficulty": "Medium",
+    "q_en": "एक व्यक्ति 12 km/hr की रफ्तार से 1.5 घंटे तक दौड़ता है। वह कितनी दूरी तय करता है?",
+    "q_hi": "एक व्यक्ति 12 km/hr की रफ्तार से 1.5 घंटे तक दौड़ता है। वह कितनी दूरी तय करता है?",
+    "op_en": [
+      "15 km",
+      "16 km",
+      "18 km",
+      "14 km"
+    ],
+    "op_hi": [
+      "15 km",
+      "16 km",
+      "18 km",
+      "14 km"
+    ],
+    "ans": 3,
+    "solution": "<b>Solution:</b><br><br><b>Final Answer:</b> !3!"
+  },
+  {
+    "section": "Arithmetic1",
+    "topic": "General",
+    "difficulty": "Medium",
+    "q_en": "A और B किसी व्यवसाय में क्रमशः ₹25,000 और ₹35,000 का निवेश करते हैं। यदि कुल लाभ ₹18,000 है, तो उसमें A का हिस्सा ज्ञात कीजिए।",
+    "q_hi": "A और B किसी व्यवसाय में क्रमशः ₹25,000 और ₹35,000 का निवेश करते हैं। यदि कुल लाभ ₹18,000 है, तो उसमें A का हिस्सा ज्ञात कीजिए।",
+    "op_en": [
+      "₹7,500",
+      "₹8,000",
+      "₹7,200",
+      "₹7,000"
+    ],
+    "op_hi": [
+      "₹7,500",
+      "₹8,000",
+      "₹7,200",
+      "₹7,000"
+    ],
+    "ans": 1,
+    "solution": "<b>Solution:</b><br><br><b>Final Answer:</b> !1!"
+  }
+]
