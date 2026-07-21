@@ -1,0 +1,2102 @@
+[
+  {
+    "section": "English",
+    "topic": "Reported Speech",
+    "difficulty": "Medium",
+    "q_en": "Select the option that expresses the given sentence in reported speech.<br><br>\"Where did you go yesterday?\" she asked.",
+    "q_hi": "Select the option that expresses the given sentence in reported speech.<br><br>\"Where did you go yesterday?\" she asked.",
+    "op_en": [
+      "She asked where I went yesterday.",
+      "She asked that where I had gone yesterday.",
+      "She asked where had I gone the previous day.",
+      "She asked where I had gone the previous day."
+    ],
+    "op_hi": [
+      "She asked where I went yesterday.",
+      "She asked that where I had gone yesterday.",
+      "She asked where had I gone the previous day.",
+      "She asked where I had gone the previous day."
+    ],
+    "ans": 4,
+    "solution": "<b>Solution (EN):</b><br>The given sentence is in the simple past tense (\"did you go\") and is an interrogative sentence. In reported speech, simple past changes to past perfect (\"had gone\"). \"Yesterday\" changes to \"the previous day\". The correct structure is subject + verb without question word inversion.<br><br><b>Solution (HI):</b><br>दिया गया वाक्य simple past tense (\"did you go\") में है और एक प्रश्नवाचक वाक्य है। Reported speech में, simple past, past perfect (\"had gone\") में बदल जाता है। \"Yesterday\", \"the previous day\" में बदल जाता है। सही संरचना subject + verb होती है।<br><br><b>Final Answer:</b> !4!"
+  },
+  {
+    "section": "English",
+    "topic": "Articles",
+    "difficulty": "Medium",
+    "q_en": "Select the most appropriate option to fill in the blanks. If no article is required, select the option with ‘No article required’.<br><br>_____ Mississippi River flows into _____ Gulf of Mexico at _____ New Orleans.",
+    "q_hi": "Select the most appropriate option to fill in the blanks. If no article is required, select the option with ‘No article required’.<br><br>_____ Mississippi River flows into _____ Gulf of Mexico at _____ New Orleans.",
+    "op_en": [
+      "The; the; the",
+      "The; a; No article required",
+      "The; the; No article required",
+      "No article required; the; the"
+    ],
+    "op_hi": [
+      "The; the; the",
+      "The; a; No article required",
+      "The; the; No article required",
+      "No article required; the; the"
+    ],
+    "ans": 3,
+    "solution": "<b>Solution (EN):</b><br>The definite article \"The\" is used before the names of rivers (The Mississippi River) and gulfs/oceans (The Gulf of Mexico). No article is used before the names of cities (New Orleans).<br><br><b>Solution (HI):</b><br>नदियों (The Mississippi River) और खाड़ियों/महासागरों (The Gulf of Mexico) के नाम से पहले निश्चित उपपद \"The\" का प्रयोग किया जाता है। शहरों के नाम (New Orleans) से पहले किसी article का प्रयोग नहीं किया जाता है।<br><br><b>Final Answer:</b> !3!"
+  },
+  {
+    "section": "English",
+    "topic": "Articles",
+    "difficulty": "Medium",
+    "q_en": "Select the most appropriate option to fill in the blanks.<br><br>The investigation focused on ______ underlying causes of the crisis and ______ long-term consequences that were initially underestimated.",
+    "q_hi": "Select the most appropriate option to fill in the blanks.<br><br>The investigation focused on ______ underlying causes of the crisis and ______ long-term consequences that were initially underestimated.",
+    "op_en": [
+      "a, a",
+      "the, the",
+      "the, a",
+      "a, the"
+    ],
+    "op_hi": [
+      "a, a",
+      "the, the",
+      "the, a",
+      "a, the"
+    ],
+    "ans": 2,
+    "solution": "<b>Solution (EN):</b><br>Specific causes and consequences are being talked about in a definite context, so the definite article \"the\" will be used in both blanks. Thus, \"the underlying causes\" and \"the long-term consequences\".<br><br><b>Solution (HI):</b><br>यहाँ एक निश्चित संदर्भ में विशिष्ट कारणों और परिणामों की बात की जा रही है, इसलिए दोनों रिक्त स्थानों में निश्चित उपपद \"the\" का प्रयोग किया जाएगा। अतः, \"the underlying causes\" और \"the long-term consequences\" सही है।<br><br><b>Final Answer:</b> !2!"
+  },
+  {
+    "section": "English",
+    "topic": "Verbs",
+    "difficulty": "Medium",
+    "q_en": "Select the most appropriate option to fill in the blank.<br><br>The manager had the documents ______ before the meeting began.",
+    "q_hi": "Select the most appropriate option to fill in the blank.<br><br>The manager had the documents ______ before the meeting began.",
+    "op_en": [
+      "prepare",
+      "to prepare",
+      "prepared",
+      "preparing"
+    ],
+    "op_hi": [
+      "prepare",
+      "to prepare",
+      "prepared",
+      "preparing"
+    ],
+    "ans": 3,
+    "solution": "<b>Solution (EN):</b><br>The sentence uses the causative verb \"had\" in a passive sense. The grammatical structure is \"have/had + object + past participle (V3)\". Therefore, the past participle \"prepared\" is the correct choice.<br><br><b>Solution (HI):</b><br>यह वाक्य passive sense में causative verb \"had\" का उपयोग करता है। इसकी व्याकरणिक संरचना \"have/had + object + past participle (V3)\" होती है। इसलिए, past participle \"prepared\" सही विकल्प है।<br><br><b>Final Answer:</b> !3!"
+  },
+  {
+    "section": "English",
+    "topic": "Spelling",
+    "difficulty": "Medium",
+    "q_en": "Select the option that rectifies the INCORRECTLY spelt word in the given sentence.<br>She handled the mischevious students calmly, noting each occurrence in her report with discipline, patience, and accuracy.",
+    "q_hi": "Select the option that rectifies the INCORRECTLY spelt word in the given sentence.<br>She handled the mischevious students calmly, noting each occurrence in her report with discipline, patience, and accuracy.",
+    "op_en": [
+      "occurrance",
+      "accurasy",
+      "mischievous",
+      "patiense"
+    ],
+    "op_hi": [
+      "occurrance",
+      "accurasy",
+      "mischievous",
+      "patiense"
+    ],
+    "ans": 3,
+    "solution": "<b>Solution (EN):</b><br>The incorrectly spelt word in the sentence is \"mischevious\". The correct spelling is \"mischievous\", which means causing or showing a fondness for causing trouble in a playful way.<br><br><b>Solution (HI):</b><br>वाक्य में गलत वर्तनी वाला शब्द \"mischevious\" है। सही वर्तनी \"mischievous\" है, जिसका अर्थ है चंचल या शरारती। अन्य सभी विकल्प गलत वर्तनी दर्शाते हैं।<br><br><b>Final Answer:</b> !3!"
+  },
+  {
+    "section": "English",
+    "topic": "Active and Passive Voice",
+    "difficulty": "Medium",
+    "q_en": "Choose the correct passive form of the sentence.<br>The committee approved the revised policy after extensive deliberation.",
+    "q_hi": "Choose the correct passive form of the sentence.<br>The committee approved the revised policy after extensive deliberation.",
+    "op_en": [
+      "The revised policy was approved by the committee after extensive deliberation.",
+      "The revised policy is being approved by the committee after extensive deliberation.",
+      "The revised policy is approved by the committee after extensive deliberation.",
+      "The revised policy has been approved by the committee after extensive deliberation."
+    ],
+    "op_hi": [
+      "The revised policy was approved by the committee after extensive deliberation.",
+      "The revised policy is being approved by the committee after extensive deliberation.",
+      "The revised policy is approved by the committee after extensive deliberation.",
+      "The revised policy has been approved by the committee after extensive deliberation."
+    ],
+    "ans": 1,
+    "solution": "<b>Solution (EN):</b><br>The given active sentence is in the simple past tense (\"approved\"). The passive voice structure for simple past is \"Object + was/were + V3 (past participle) + by + Subject\". Thus, \"The revised policy was approved by the committee...\" is correct.<br><br><b>Solution (HI):</b><br>दिया गया active वाक्य simple past tense (\"approved\") में है। Simple past के लिए passive voice की संरचना \"Object + was/were + V3 (past participle) + by + Subject\" होती है। अतः, \"The revised policy was approved by the committee...\" सही है।<br><br><b>Final Answer:</b> !1!"
+  },
+  {
+    "section": "English",
+    "topic": "Fill in the Blanks",
+    "difficulty": "Medium",
+    "q_en": "Select the most appropriate option to complete the sentence.<br><br>The author’s ______ style captivated readers and kept them engaged throughout the novel.",
+    "q_hi": "Select the most appropriate option to complete the sentence.<br><br>The author’s ______ style captivated readers and kept them engaged throughout the novel.",
+    "op_en": [
+      "eloquent",
+      "awkward",
+      "uninspired",
+      "rigid"
+    ],
+    "op_hi": [
+      "eloquent",
+      "awkward",
+      "uninspired",
+      "rigid"
+    ],
+    "ans": 1,
+    "solution": "<b>Solution (EN):</b><br>The sentence describes a style that \"captivated readers\" and \"kept them engaged,\" requiring a positive adjective. The word \"eloquent\" means fluent or persuasive in speaking or writing, which fits perfectly here.<br><br><b>Solution (HI):</b><br>वाक्य एक ऐसी शैली का वर्णन करता है जिसने \"पाठकों को मंत्रमुग्ध कर दिया (captivated)\" और उन्हें \"जोड़े रखा (engaged),\" जिसके लिए एक सकारात्मक विशेषण (positive adjective) की आवश्यकता है। \"Eloquent\" शब्द का अर्थ है धाराप्रवाह या सुवक्ता, जो यहाँ बिल्कुल फिट बैठता है।<br><br><b>Final Answer:</b> !1!"
+  },
+  {
+    "section": "English",
+    "topic": "Spelling",
+    "difficulty": "Medium",
+    "q_en": "Read the following sentence and identify the wrongly spelt word.<br><br>The scientist carefuly observed the peculiar behaviour of the chemical.",
+    "q_hi": "Read the following sentence and identify the wrongly spelt word.<br><br>The scientist carefuly observed the peculiar behaviour of the chemical.",
+    "op_en": [
+      "scientist",
+      "observed",
+      "peculiar",
+      "carefuly"
+    ],
+    "op_hi": [
+      "scientist",
+      "observed",
+      "peculiar",
+      "carefuly"
+    ],
+    "ans": 4,
+    "solution": "<b>Solution (EN):</b><br>The wrongly spelt word is \"carefuly\". The correct spelling is \"carefully\" (careful + suffix ly).<br><br><b>Solution (HI):</b><br>वाक्य में गलत वर्तनी वाला शब्द \"carefuly\" है। सही वर्तनी \"carefully\" (careful + ly) होती है, जिसका अर्थ है ध्यानपूर्वक।<br><br><b>Final Answer:</b> !4!"
+  },
+  {
+    "section": "English",
+    "topic": "One Word Substitution",
+    "difficulty": "Medium",
+    "q_en": "In the following sentence, a part has been underlined. Choose the word that best substitutes the underlined segment.<br>After years of rigorous study and clinical training, she decided to specialize in <u>the branch of medical science that studies the nerves and the nervous system</u>, contributing significantly to research on brain disorders.",
+    "q_hi": "In the following sentence, a part has been underlined. Choose the word that best substitutes the underlined segment.<br>After years of rigorous study and clinical training, she decided to specialize in <u>the branch of medical science that studies the nerves and the nervous system</u>, contributing significantly to research on brain disorders.",
+    "op_en": [
+      "neurology",
+      "anatomy",
+      "chemistry",
+      "biology"
+    ],
+    "op_hi": [
+      "neurology",
+      "anatomy",
+      "chemistry",
+      "biology"
+    ],
+    "ans": 1,
+    "solution": "<b>Solution (EN):</b><br>\"Neurology\" is the branch of medicine dealing with disorders and the study of the nervous system. Anatomy is the study of bodily structure, and biology is the study of living organisms.<br><br><b>Solution (HI):</b><br>\"Neurology\" (तंत्रिका विज्ञान) चिकित्सा की वह शाखा है जो तंत्रिका तंत्र (nervous system) के अध्ययन और विकारों से संबंधित है। Anatomy शरीर रचना विज्ञान है, और Biology जीव विज्ञान है।<br><br><b>Final Answer:</b> !1!"
+  },
+  {
+    "section": "English",
+    "topic": "Sentence Rearrangement",
+    "difficulty": "Medium",
+    "q_en": "Arrange the segments (PQRST) to make a logical sentence: The first segment remains fixed.<br><br>Fixed Segment: Whenever I visit my grandparents,<br>P: the fascinating stories<br>Q: about their childhood<br>R: I listen intently to<br>S: and learn valuable lessons<br>T: while sitting by the fireplace,",
+    "q_hi": "Arrange the segments (PQRST) to make a logical sentence: The first segment remains fixed.<br><br>Fixed Segment: Whenever I visit my grandparents,<br>P: the fascinating stories<br>Q: about their childhood<br>R: I listen intently to<br>S: and learn valuable lessons<br>T: while sitting by the fireplace,",
+    "op_en": [
+      "Q P R T S",
+      "R P Q T S",
+      "P Q R S T",
+      "T P R Q S"
+    ],
+    "op_hi": [
+      "Q P R T S",
+      "R P Q T S",
+      "P Q R S T",
+      "T P R Q S"
+    ],
+    "ans": 2,
+    "solution": "<b>Solution (EN):</b><br>The correct logical sequence is R P Q T S.<br>1. \"I listen intently to\" (R) connects naturally as the main clause subject and verb.<br>2. \"the fascinating stories\" (P) is the object of listen to.<br>3. \"about their childhood\" (Q) describes the stories.<br>4. \"while sitting by the fireplace,\" (T) sets the scene.<br>5. \"and learn valuable lessons\" (S) completes the sentence by adding another action.<br><br><b>Solution (HI):</b><br>सही तार्किक क्रम R P Q T S है।<br>वाक्य की शुरुआत: Whenever I visit my grandparents,<br>(R) I listen intently to - (मैं ध्यान से सुनता हूँ)<br>(P) the fascinating stories - (उन आकर्षक कहानियों को)<br>(Q) about their childhood - (उनके बचपन के बारे में)<br>(T) while sitting by the fireplace - (चिमनी के पास बैठे हुए)<br>(S) and learn valuable lessons - (और मूल्यवान सबक सीखता हूँ)।<br><br><b>Final Answer:</b> !2!"
+  },
+  {
+    "section": "English",
+    "topic": "Tense",
+    "difficulty": "Medium",
+    "q_en": "Choose the correct form of the sentence:",
+    "q_hi": "Choose the correct form of the sentence:",
+    "op_en": [
+      "I  call my friend every day; she lives in Bangalore.",
+      "I am calling my friend everyday, She lives in  Bangalore",
+      "I am calling my friend everyday, She lived in  Bangalore.",
+      "I called my friend everyday, She lives in  Bangalore."
+    ],
+    "op_hi": [
+      "I  call my friend every day; she lives in Bangalore.",
+      "I am calling my friend everyday, She lives in  Bangalore",
+      "I am calling my friend everyday, She lived in  Bangalore.",
+      "I called my friend everyday, She lives in  Bangalore."
+    ],
+    "ans": 1,
+    "solution": "<b>Solution (EN):</b><br>The sentence expresses a routine or habitual action (\"every day\") and a permanent state (\"lives in Bangalore\"). Therefore, the simple present tense (\"call\" and \"lives\") is grammatically correct. Also, \"every day\" (two words) is appropriate here, not \"everyday\".<br><br><b>Solution (HI):</b><br>यह वाक्य एक नियमित या आदतन क्रिया (\"every day\") और एक स्थायी स्थिति (\"lives in Bangalore\") को व्यक्त करता है। आदतन कार्यों के लिए simple present tense का प्रयोग किया जाता है। इसलिए, \"call\" और \"lives\" व्याकरणिक रूप से सही हैं।<br><br><b>Final Answer:</b> !1!"
+  },
+  {
+    "section": "English",
+    "topic": "Active and Passive Voice",
+    "difficulty": "Medium",
+    "q_en": "Select the option that expresses the given sentence in active voice.<br><br>The mail is delivered at 9 a.m. every day.",
+    "q_hi": "Select the option that expresses the given sentence in active voice.<br><br>The mail is delivered at 9 a.m. every day.",
+    "op_en": [
+      "Someone delivers the mail at 9 a.m. every day.",
+      "Someone delivered the mail at 9 a.m. every day.",
+      "The mail delivers itself at 9 a.m. every day.",
+      "Someone has delivered the mail at 9 a.m. every day."
+    ],
+    "op_hi": [
+      "Someone delivers the mail at 9 a.m. every day.",
+      "Someone delivered the mail at 9 a.m. every day.",
+      "The mail delivers itself at 9 a.m. every day.",
+      "Someone has delivered the mail at 9 a.m. every day."
+    ],
+    "ans": 1,
+    "solution": "<b>Solution (EN):</b><br>The given sentence is in the simple present tense passive voice (\"is delivered\"). To convert it to active voice, we need a general subject (like \"Someone\") and the simple present active verb (\"delivers\"). Thus, \"Someone delivers the mail at 9 a.m. every day\" is the correct active transformation.<br><br><b>Solution (HI):</b><br>दिया गया वाक्य simple present tense के passive voice (\"is delivered\") में है। इसे active voice में बदलने के लिए, हमें एक अज्ञात कर्ता (जैसे \"Someone\") और simple present tense की active verb (\"delivers\") का उपयोग करना होगा। अतः \"Someone delivers the mail at 9 a.m. every day\" सही है।<br><br><b>Final Answer:</b> !1!"
+  },
+  {
+    "section": "English",
+    "topic": "Sentence Rearrangement",
+    "difficulty": "Medium",
+    "q_en": "Arrange the sentence in a logical order.<br><br>A- so the teachers organized additional remedial and revision classes<br>B- to help them prepare thoroughly and perform with confidence<br>C- the final examination was rapidly drawing near<br>D- causing a growing sense of anxiety among many students",
+    "q_hi": "Arrange the sentence in a logical order.<br><br>A- so the teachers organized additional remedial and revision classes<br>B- to help them prepare thoroughly and perform with confidence<br>C- the final examination was rapidly drawing near<br>D- causing a growing sense of anxiety among many students",
+    "op_en": [
+      "B C D A",
+      "C D A B",
+      "A B C D",
+      "D A B C"
+    ],
+    "op_hi": [
+      "B C D A",
+      "C D A B",
+      "A B C D",
+      "D A B C"
+    ],
+    "ans": 2,
+    "solution": "<b>Solution (EN):</b><br>The correct logical sequence is C D A B.<br>The passage starts with the main situation/cause: \"the final examination was rapidly drawing near\" (C). This led to an effect: \"causing a growing sense of anxiety among many students\" (D). To counter this, an action was taken: \"so the teachers organized additional remedial and revision classes\" (A). Finally, the purpose of the action is stated: \"to help them prepare thoroughly and perform with confidence\" (B).<br><br><b>Solution (HI):</b><br>सही तार्किक क्रम C D A B है।<br>कथन मुख्य कारण से शुरू होता है: \"the final examination was rapidly drawing near\" (C)। इसका छात्रों पर प्रभाव पड़ा: \"causing a growing sense of anxiety among many students\" (D)। इसके समाधान के रूप में कार्रवाई की गई: \"so the teachers organized additional remedial and revision classes\" (A)। अंत में इस कार्रवाई का उद्देश्य बताया गया है: \"to help them prepare thoroughly and perform with confidence\" (B)।<br><br><b>Final Answer:</b> !2!"
+  },
+  {
+    "section": "English",
+    "topic": "One Word Substitution",
+    "difficulty": "Medium",
+    "q_en": "Choose the most suitable option to substitute the underlined words in the sentence.<br>Her mastery in <u>the study of the mind and behavior</u> has enabled her to build a distinguished professional career.",
+    "q_hi": "Choose the most suitable option to substitute the underlined words in the sentence.<br>Her mastery in <u>the study of the mind and behavior</u> has enabled her to build a distinguished professional career.",
+    "op_en": [
+      "Sociology",
+      "Psychology",
+      "Philosophy",
+      "Anthropology"
+    ],
+    "op_hi": [
+      "Sociology",
+      "Psychology",
+      "Philosophy",
+      "Anthropology"
+    ],
+    "ans": 2,
+    "solution": "<b>Solution (EN):</b><br>\"Psychology\" is the scientific study of the human mind and its functions, especially those affecting behavior in a given context. Sociology is the study of society, and Anthropology is the study of human societies and cultures and their development.<br><br><b>Solution (HI):</b><br>\"Psychology\" (मनोविज्ञान) मानव मन और उसके कार्यों का वैज्ञानिक अध्ययन है, विशेष रूप से जो व्यवहार (behavior) को प्रभावित करते हैं। Sociology समाजशास्त्र है, और Anthropology मानव विज्ञान है।<br><br><b>Final Answer:</b> !2!"
+  },
+  {
+    "section": "English",
+    "topic": "Subject-Verb Agreement",
+    "difficulty": "Medium",
+    "q_en": "Select the most appropriate option to fill in the blank.<br>The committee members consistently _______ the progress of the new policy implementation.",
+    "q_hi": "Select the most appropriate option to fill in the blank.<br>The committee members consistently _______ the progress of the new policy implementation.",
+    "op_en": [
+      "monitor",
+      "monitors",
+      "will have monitored",
+      "was monitored"
+    ],
+    "op_hi": [
+      "monitor",
+      "monitors",
+      "will have monitored",
+      "was monitored"
+    ],
+    "ans": 1,
+    "solution": "<b>Solution (EN):</b><br>The subject \"The committee members\" is plural. According to subject-verb agreement rules, a plural subject takes a plural verb. Therefore, \"monitor\" must be used. The adverb \"consistently\" indicates a regular action or habit, making the simple present tense appropriate.<br><br><b>Solution (HI):</b><br>वाक्य का Subject \"The committee members\" बहुवचन (plural) है। Subject-verb agreement के नियमों के अनुसार, बहुवचन कर्ता के साथ बहुवचन क्रिया का उपयोग किया जाता है। इसलिए, \"monitor\" का उपयोग किया जाएगा। Adverb \"consistently\" एक नियमित कार्य को इंगित करता है, जिससे simple present tense उपयुक्त हो जाता है।<br><br><b>Final Answer:</b> !1!"
+  },
+  {
+    "section": "English",
+    "topic": "Synonyms",
+    "difficulty": "Medium",
+    "q_en": "Choose the synonym for the underlined word in the sentence:<br><br>The committee will <u><strong>scrutinize</strong></u> every application carefully.",
+    "q_hi": "Choose the synonym for the underlined word in the sentence:<br><br>The committee will <u><strong>scrutinize</strong></u> every application carefully.",
+    "op_en": [
+      "reject",
+      "ignore",
+      "approve",
+      "examine"
+    ],
+    "op_hi": [
+      "reject",
+      "ignore",
+      "approve",
+      "examine"
+    ],
+    "ans": 4,
+    "solution": "<b>Solution (EN):</b><br>The word \"scrutinize\" means to examine or inspect something closely and thoroughly. Therefore, \"examine\" is the correct synonym.<br><br><b>Solution (HI):</b><br>\"Scrutinize\" का अर्थ है किसी चीज़ की बारीकी से जांच करना या परीक्षण करना (examine)। इसलिए \"examine\" सही पर्यायवाची है। अन्य विकल्पों के अर्थ: reject (अस्वीकार करना), ignore (अनदेखा करना), approve (मंजूरी देना)।<br><br><b>Final Answer:</b> !4!"
+  },
+  {
+    "section": "English",
+    "topic": "Antonyms",
+    "difficulty": "Medium",
+    "q_en": "Find the antonym of the highlighted word in the sentence.<br><br>The politician's response was <strong>ambiguous</strong>, causing confusion.",
+    "q_hi": "Find the antonym of the highlighted word in the sentence.<br><br>The politician's response was <strong>ambiguous</strong>, causing confusion.",
+    "op_en": [
+      "clear",
+      "humorous",
+      "vague",
+      "casual"
+    ],
+    "op_hi": [
+      "clear",
+      "humorous",
+      "vague",
+      "casual"
+    ],
+    "ans": 1,
+    "solution": "<b>Solution (EN):</b><br>\"Ambiguous\" means open to more than one interpretation or not having one obvious meaning (unclear). Its exact opposite is \"clear\".<br><br><b>Solution (HI):</b><br>\"Ambiguous\" का अर्थ है अस्पष्ट या जिसके एक से अधिक अर्थ निकलें, जिससे भ्रम पैदा हो। इसका सटीक विलोम \"clear\" (स्पष्ट) होगा। अन्य शब्दों के अर्थ: humorous (हास्यपूर्ण), vague (अस्पष्ट - यह synonym है), casual (अनौपचारिक)।<br><br><b>Final Answer:</b> !1!"
+  },
+  {
+    "section": "English",
+    "topic": "Idioms & Phrases",
+    "difficulty": "Medium",
+    "q_en": "Substitute the highlighted word segment with the suitable option.<br><br>The department was successful because they started working on the project before anyone else, showing that <strong>being prepared and proactive provides a decisive edge</strong>.",
+    "q_hi": "Substitute the highlighted word segment with the suitable option.<br><br>The department was successful because they started working on the project before anyone else, showing that <strong>being prepared and proactive provides a decisive edge</strong>.",
+    "op_en": [
+      "slow and steady wins the race",
+      "actions speak louder than words",
+      "fortune favours the bold",
+      "the early bird catches the worm"
+    ],
+    "op_hi": [
+      "slow and steady wins the race",
+      "actions speak louder than words",
+      "fortune favours the bold",
+      "the early bird catches the worm"
+    ],
+    "ans": 4,
+    "solution": "<b>Solution (EN):</b><br>The phrase \"being prepared and proactive provides a decisive edge\" perfectly matches the meaning of the idiom \"the early bird catches the worm\", which implies that whoever arrives first or acts promptly has the best chance of success.<br><br><b>Solution (HI):</b><br>मुहावरा \"the early bird catches the worm\" का अर्थ है कि जो व्यक्ति समय से पहले या दूसरों से पहले काम शुरू करता है, उसे सफलता या लाभ मिलता है। यह दिए गए वाक्य \"being prepared and proactive provides a decisive edge\" का सटीक अर्थ है।<br><br><b>Final Answer:</b> !4!"
+  },
+  {
+    "section": "English",
+    "topic": "Idioms & Phrases",
+    "difficulty": "Medium",
+    "q_en": "Choose the correct option to substitute the underlined words in the sentence.<br><br>The young boy did not think logically about the consequences of the situation and invested without proper consideration, proving that <u>reckless people often take risks that wise people avoid</u>.",
+    "q_hi": "Choose the correct option to substitute the underlined words in the sentence.<br><br>The young boy did not think logically about the consequences of the situation and invested without proper consideration, proving that <u>reckless people often take risks that wise people avoid</u>.",
+    "op_en": [
+      "Rome was not built in a day",
+      "fools rush in where angels fear to tread",
+      "actions speak louder than words",
+      "it is always darkest before the dawn"
+    ],
+    "op_hi": [
+      "Rome was not built in a day",
+      "fools rush in where angels fear to tread",
+      "actions speak louder than words",
+      "it is always darkest before the dawn"
+    ],
+    "ans": 2,
+    "solution": "<b>Solution (EN):</b><br>The phrase \"reckless people often take risks that wise people avoid\" corresponds exactly to the idiom \"fools rush in where angels fear to tread\". It means inexperienced or rash people attempt things that wiser, more cautious people would avoid.<br><br><b>Solution (HI):</b><br>\"Fools rush in where angels fear to tread\" का अर्थ है कि मूर्ख या जल्दबाज़ लोग अक्सर ऐसे जोखिम उठाते हैं या ऐसे काम करते हैं जिन्हें बुद्धिमान और समझदार लोग करने से बचते हैं। यह रेखांकित वाक्य को सही ढंग से प्रतिस्थापित करता है।<br><br><b>Final Answer:</b> !2!"
+  },
+  {
+    "section": "English",
+    "topic": "Antonyms",
+    "difficulty": "Medium",
+    "q_en": "In the following sentence, identify the word that is opposite in meaning to the underlined word.<br>The critic described the narrative as <u>conventional</u>, relying on familiar literary patterns.",
+    "q_hi": "In the following sentence, identify the word that is opposite in meaning to the underlined word.<br>The critic described the narrative as <u>conventional</u>, relying on familiar literary patterns.",
+    "op_en": [
+      "customary",
+      "orthodox",
+      "traditional",
+      "innovative"
+    ],
+    "op_hi": [
+      "customary",
+      "orthodox",
+      "traditional",
+      "innovative"
+    ],
+    "ans": 4,
+    "solution": "<b>Solution (EN):</b><br>\"Conventional\" means based on or in accordance with what is generally done or believed (traditional, ordinary). The opposite is \"innovative\", which means featuring new methods or advanced and original ideas.<br><br><b>Solution (HI):</b><br>\"Conventional\" का अर्थ है पारंपरिक या जो आमतौर पर किया या माना जाता है। इसका विलोम \"innovative\" (नवोन्मेषी / नया / रचनात्मक) होगा, जिसका अर्थ है नए विचारों या तरीकों पर आधारित। अन्य विकल्प (customary, orthodox, traditional) इसके पर्यायवाची (synonyms) हैं।<br><br><b>Final Answer:</b> !4!"
+  },
+  {
+    "section": "English",
+    "topic": "Reading Comprehension",
+    "difficulty": "Medium",
+    "q_en": "<div style=\"background:#f9f9f9; padding:12px; margin-bottom:15px; border:1px solid #ddd; border-radius:5px;\"><b>Comprehension / गद्यांश:</b><br><br>Read the passage carefully and answer the questions that follow.<br><br>Public libraries play an important role in providing access to knowledge and learning resources for people of all ages. They offer a wide range of books, newspapers, magazines, and digital materials that support education and personal growth. Libraries create a quiet and organized space where individuals can read, study, and explore new ideas. Students often use libraries to complete assignments and prepare for examinations. However, the use of public libraries has declined in some areas due to increasing dependence on digital devices and online information. This change has reduced interest in traditional reading habits. Governments and organizations are working to improve library facilities and promote their use among communities. Activities such as reading programs, workshops, and book clubs help attract visitors. Libraries also provide equal opportunities for learning to people from different backgrounds. Maintaining and supporting public libraries is essential for encouraging reading culture and ensuring access to knowledge for everyone.<br><br><b> SubQuestion No : 6</b><br><br></div><b>Question:</b><br>Identify the suitable title for the passage.",
+    "q_hi": "<div style=\"background:#f9f9f9; padding:12px; margin-bottom:15px; border:1px solid #ddd; border-radius:5px;\"><b>Comprehension / गद्यांश:</b><br><br>Read the passage carefully and answer the questions that follow.<br><br>Public libraries play an important role in providing access to knowledge and learning resources for people of all ages. They offer a wide range of books, newspapers, magazines, and digital materials that support education and personal growth. Libraries create a quiet and organized space where individuals can read, study, and explore new ideas. Students often use libraries to complete assignments and prepare for examinations. However, the use of public libraries has declined in some areas due to increasing dependence on digital devices and online information. This change has reduced interest in traditional reading habits. Governments and organizations are working to improve library facilities and promote their use among communities. Activities such as reading programs, workshops, and book clubs help attract visitors. Libraries also provide equal opportunities for learning to people from different backgrounds. Maintaining and supporting public libraries is essential for encouraging reading culture and ensuring access to knowledge for everyone.<br><br><b> SubQuestion No : 6</b><br><br></div><b>Question:</b><br>Identify the suitable title for the passage.",
+    "op_en": [
+      "Organized Facilities Help Individuals Explore Ideas Through Reading Materials",
+      "Reading Spaces Support Education and Encourage Personal Development",
+      "Community Centers Offer Opportunities for Study and Information Access",
+      "Public Libraries Provide Access to Knowledge and Learning Resources"
+    ],
+    "op_hi": [
+      "Organized Facilities Help Individuals Explore Ideas Through Reading Materials",
+      "Reading Spaces Support Education and Encourage Personal Development",
+      "Community Centers Offer Opportunities for Study and Information Access",
+      "Public Libraries Provide Access to Knowledge and Learning Resources"
+    ],
+    "ans": 4,
+    "solution": "<b>Solution (EN):</b><br>The passage primarily discusses the role, resources, decline, and promotion of public libraries. The opening and concluding sentences emphasize access to knowledge. Thus, \"Public Libraries Provide Access to Knowledge and Learning Resources\" is the most encompassing and suitable title.<br><br><b>Solution (HI):</b><br>गद्यांश मुख्य रूप से सार्वजनिक पुस्तकालयों (public libraries) की भूमिका, उनके संसाधनों और ज्ञान तक पहुंच प्रदान करने में उनके महत्व पर चर्चा करता है। पूरा पैसेज इसी केंद्रीय विचार के इर्द-गिर्द घूमता है। अतः विकल्प 4 सबसे उपयुक्त शीर्षक है।<br><br><b>Final Answer:</b> !4!"
+  },
+  {
+    "section": "English",
+    "topic": "Reading Comprehension",
+    "difficulty": "Medium",
+    "q_en": "<div style=\"background:#f9f9f9; padding:12px; margin-bottom:15px; border:1px solid #ddd; border-radius:5px;\"><b>Comprehension / गद्यांश:</b><br><br>Read the passage carefully and answer the questions that follow.<br><br>Public libraries play an important role in providing access to knowledge and learning resources for people of all ages. They offer a wide range of books, newspapers, magazines, and digital materials that support education and personal growth. Libraries create a quiet and organized space where individuals can read, study, and explore new ideas. Students often use libraries to complete assignments and prepare for examinations. However, the use of public libraries has declined in some areas due to increasing dependence on digital devices and online information. This change has reduced interest in traditional reading habits. Governments and organizations are working to improve library facilities and promote their use among communities. Activities such as reading programs, workshops, and book clubs help attract visitors. Libraries also provide equal opportunities for learning to people from different backgrounds. Maintaining and supporting public libraries is essential for encouraging reading culture and ensuring access to knowledge for everyone.<br><br><b> SubQuestion No : 7</b><br><br></div><b>Question:</b><br>Identify the main theme of the passage.",
+    "q_hi": "<div style=\"background:#f9f9f9; padding:12px; margin-bottom:15px; border:1px solid #ddd; border-radius:5px;\"><b>Comprehension / गद्यांश:</b><br><br>Read the passage carefully and answer the questions that follow.<br><br>Public libraries play an important role in providing access to knowledge and learning resources for people of all ages. They offer a wide range of books, newspapers, magazines, and digital materials that support education and personal growth. Libraries create a quiet and organized space where individuals can read, study, and explore new ideas. Students often use libraries to complete assignments and prepare for examinations. However, the use of public libraries has declined in some areas due to increasing dependence on digital devices and online information. This change has reduced interest in traditional reading habits. Governments and organizations are working to improve library facilities and promote their use among communities. Activities such as reading programs, workshops, and book clubs help attract visitors. Libraries also provide equal opportunities for learning to people from different backgrounds. Maintaining and supporting public libraries is essential for encouraging reading culture and ensuring access to knowledge for everyone.<br><br><b> SubQuestion No : 7</b><br><br></div><b>Question:</b><br>Identify the main theme of the passage.",
+    "op_en": [
+      "Digital devices reduce interest in traditional reading among individuals",
+      "Libraries support education and provide equal access to learning resources",
+      "Reading programs encourage participation and increase community involvement",
+      "Government efforts help improve facilities and attract library visitors"
+    ],
+    "op_hi": [
+      "Digital devices reduce interest in traditional reading among individuals",
+      "Libraries support education and provide equal access to learning resources",
+      "Reading programs encourage participation and increase community involvement",
+      "Government efforts help improve facilities and attract library visitors"
+    ],
+    "ans": 2,
+    "solution": "<b>Solution (EN):</b><br>While the passage mentions digital devices, reading programs, and government efforts, the central theme that ties all these points together is how libraries support education, personal growth, and provide equal access to learning resources for everyone.<br><br><b>Solution (HI):</b><br>गद्यांश का मुख्य विषय (theme) यह है कि पुस्तकालय शिक्षा का समर्थन करते हैं और सभी पृष्ठभूमि के लोगों के लिए सीखने के संसाधनों तक समान पहुंच (equal access) प्रदान करते हैं। बाकी बिंदु (जैसे डिजिटल उपकरणों का प्रभाव या सरकारी प्रयास) इसी मुख्य विचार का समर्थन करते हैं।<br><br><b>Final Answer:</b> !2!"
+  },
+  {
+    "section": "English",
+    "topic": "Reading Comprehension",
+    "difficulty": "Medium",
+    "q_en": "<div style=\"background:#f9f9f9; padding:12px; margin-bottom:15px; border:1px solid #ddd; border-radius:5px;\"><b>Comprehension / गद्यांश:</b><br><br>Read the passage carefully and answer the questions that follow.<br><br>Public libraries play an important role in providing access to knowledge and learning resources for people of all ages. They offer a wide range of books, newspapers, magazines, and digital materials that support education and personal growth. Libraries create a quiet and organized space where individuals can read, study, and explore new ideas. Students often use libraries to complete assignments and prepare for examinations. However, the use of public libraries has declined in some areas due to increasing dependence on digital devices and online information. This change has reduced interest in traditional reading habits. Governments and organizations are working to improve library facilities and promote their use among communities. Activities such as reading programs, workshops, and book clubs help attract visitors. Libraries also provide equal opportunities for learning to people from different backgrounds. Maintaining and supporting public libraries is essential for encouraging reading culture and ensuring access to knowledge for everyone.<br><br><b> SubQuestion No : 8</b><br><br></div><b>Question:</b><br>Mention the facts given in the passage.",
+    "q_hi": "<div style=\"background:#f9f9f9; padding:12px; margin-bottom:15px; border:1px solid #ddd; border-radius:5px;\"><b>Comprehension / गद्यांश:</b><br><br>Read the passage carefully and answer the questions that follow.<br><br>Public libraries play an important role in providing access to knowledge and learning resources for people of all ages. They offer a wide range of books, newspapers, magazines, and digital materials that support education and personal growth. Libraries create a quiet and organized space where individuals can read, study, and explore new ideas. Students often use libraries to complete assignments and prepare for examinations. However, the use of public libraries has declined in some areas due to increasing dependence on digital devices and online information. This change has reduced interest in traditional reading habits. Governments and organizations are working to improve library facilities and promote their use among communities. Activities such as reading programs, workshops, and book clubs help attract visitors. Libraries also provide equal opportunities for learning to people from different backgrounds. Maintaining and supporting public libraries is essential for encouraging reading culture and ensuring access to knowledge for everyone.<br><br><b> SubQuestion No : 8</b><br><br></div><b>Question:</b><br>Mention the facts given in the passage.",
+    "op_en": [
+      "Libraries provide five types of reading materials for public use",
+      "Libraries provide six types of reading materials for public use",
+      "Libraries provide four types of reading materials for public use",
+      "Libraries provide three types of reading materials for public use"
+    ],
+    "op_hi": [
+      "Libraries provide five types of reading materials for public use",
+      "Libraries provide six types of reading materials for public use",
+      "Libraries provide four types of reading materials for public use",
+      "Libraries provide three types of reading materials for public use"
+    ],
+    "ans": 3,
+    "solution": "<b>Solution (EN):</b><br>The passage explicitly states: \"They offer a wide range of books, newspapers, magazines, and digital materials...\". These are exactly four types of reading materials mentioned. Therefore, the fact is that libraries provide four types of reading materials.<br><br><b>Solution (HI):</b><br>गद्यांश में स्पष्ट रूप से चार प्रकार की पठन सामग्री का उल्लेख किया गया है: \"books, newspapers, magazines, and digital materials\" (किताबें, समाचार पत्र, पत्रिकाएँ, और डिजिटल सामग्री)। अतः यह तथ्य सही है कि पुस्तकालय चार प्रकार की पठन सामग्री प्रदान करते हैं।<br><br><b>Final Answer:</b> !3!"
+  },
+  {
+    "section": "English",
+    "topic": "Reading Comprehension",
+    "difficulty": "Medium",
+    "q_en": "<div style=\"background:#f9f9f9; padding:12px; margin-bottom:15px; border:1px solid #ddd; border-radius:5px;\"><b>Comprehension / गद्यांश:</b><br><br>Read the passage carefully and answer the questions that follow.<br><br>Public libraries play an important role in providing access to knowledge and learning resources for people of all ages. They offer a wide range of books, newspapers, magazines, and digital materials that support education and personal growth. Libraries create a quiet and organized space where individuals can read, study, and explore new ideas. Students often use libraries to complete assignments and prepare for examinations. However, the use of public libraries has declined in some areas due to increasing dependence on digital devices and online information. This change has reduced interest in traditional reading habits. Governments and organizations are working to improve library facilities and promote their use among communities. Activities such as reading programs, workshops, and book clubs help attract visitors. Libraries also provide equal opportunities for learning to people from different backgrounds. Maintaining and supporting public libraries is essential for encouraging reading culture and ensuring access to knowledge for everyone.<br><br><b> SubQuestion No : 9</b><br><br></div><b>Question:</b><br>Identify the structure of the passage.",
+    "q_hi": "<div style=\"background:#f9f9f9; padding:12px; margin-bottom:15px; border:1px solid #ddd; border-radius:5px;\"><b>Comprehension / गद्यांश:</b><br><br>Read the passage carefully and answer the questions that follow.<br><br>Public libraries play an important role in providing access to knowledge and learning resources for people of all ages. They offer a wide range of books, newspapers, magazines, and digital materials that support education and personal growth. Libraries create a quiet and organized space where individuals can read, study, and explore new ideas. Students often use libraries to complete assignments and prepare for examinations. However, the use of public libraries has declined in some areas due to increasing dependence on digital devices and online information. This change has reduced interest in traditional reading habits. Governments and organizations are working to improve library facilities and promote their use among communities. Activities such as reading programs, workshops, and book clubs help attract visitors. Libraries also provide equal opportunities for learning to people from different backgrounds. Maintaining and supporting public libraries is essential for encouraging reading culture and ensuring access to knowledge for everyone.<br><br><b> SubQuestion No : 9</b><br><br></div><b>Question:</b><br>Identify the structure of the passage.",
+    "op_en": [
+      "Information arranged with comparison and concluding general statement",
+      "Topic described with examples leading to useful educational outcomes",
+      "Idea introduced followed by problems and methods for improvement",
+      "Concept presented with causes and resulting learning related effects"
+    ],
+    "op_hi": [
+      "Information arranged with comparison and concluding general statement",
+      "Topic described with examples leading to useful educational outcomes",
+      "Idea introduced followed by problems and methods for improvement",
+      "Concept presented with causes and resulting learning related effects"
+    ],
+    "ans": 3,
+    "solution": "<b>Solution (EN):</b><br>The passage first introduces the idea and importance of public libraries. Then, it highlights a problem (the decline in library use due to digital devices). Finally, it discusses methods for improvement (governments working to improve facilities, organizing workshops, etc.).<br><br><b>Solution (HI):</b><br>गद्यांश की संरचना (structure) इस प्रकार है: सबसे पहले सार्वजनिक पुस्तकालयों के विचार/महत्व का परिचय (Idea introduced) दिया गया है। फिर समस्या (समस्याएं: डिजिटल उपकरणों के कारण गिरावट) बताई गई है, और अंत में सुधार के तरीकों (methods for improvement: सरकार के प्रयास, कार्यशालाएं आदि) पर चर्चा की गई है।<br><br><b>Final Answer:</b> !3!"
+  },
+  {
+    "section": "English",
+    "topic": "Reading Comprehension",
+    "difficulty": "Medium",
+    "q_en": "<div style=\"background:#f9f9f9; padding:12px; margin-bottom:15px; border:1px solid #ddd; border-radius:5px;\"><b>Comprehension / गद्यांश:</b><br><br>Read the passage carefully and answer the questions that follow.<br><br>Public libraries play an important role in providing access to knowledge and learning resources for people of all ages. They offer a wide range of books, newspapers, magazines, and digital materials that support education and personal growth. Libraries create a quiet and organized space where individuals can read, study, and explore new ideas. Students often use libraries to complete assignments and prepare for examinations. However, the use of public libraries has declined in some areas due to increasing dependence on digital devices and online information. This change has reduced interest in traditional reading habits. Governments and organizations are working to improve library facilities and promote their use among communities. Activities such as reading programs, workshops, and book clubs help attract visitors. Libraries also provide equal opportunities for learning to people from different backgrounds. Maintaining and supporting public libraries is essential for encouraging reading culture and ensuring access to knowledge for everyone.<br><br><b> SubQuestion No : 10</b><br><br></div><b>Question:</b><br>Identify the tone of the passage.",
+    "q_hi": "<div style=\"background:#f9f9f9; padding:12px; margin-bottom:15px; border:1px solid #ddd; border-radius:5px;\"><b>Comprehension / गद्यांश:</b><br><br>Read the passage carefully and answer the questions that follow.<br><br>Public libraries play an important role in providing access to knowledge and learning resources for people of all ages. They offer a wide range of books, newspapers, magazines, and digital materials that support education and personal growth. Libraries create a quiet and organized space where individuals can read, study, and explore new ideas. Students often use libraries to complete assignments and prepare for examinations. However, the use of public libraries has declined in some areas due to increasing dependence on digital devices and online information. This change has reduced interest in traditional reading habits. Governments and organizations are working to improve library facilities and promote their use among communities. Activities such as reading programs, workshops, and book clubs help attract visitors. Libraries also provide equal opportunities for learning to people from different backgrounds. Maintaining and supporting public libraries is essential for encouraging reading culture and ensuring access to knowledge for everyone.<br><br><b> SubQuestion No : 10</b><br><br></div><b>Question:</b><br>Identify the tone of the passage.",
+    "op_en": [
+      "Neutral with focus on describing facilities and available resources",
+      "Informative with encouragement towards supporting public library usage",
+      "Descriptive with emphasis on explaining reading and study practices",
+      "Serious with warning about declining interest in libraries"
+    ],
+    "op_hi": [
+      "Neutral with focus on describing facilities and available resources",
+      "Informative with encouragement towards supporting public library usage",
+      "Descriptive with emphasis on explaining reading and study practices",
+      "Serious with warning about declining interest in libraries"
+    ],
+    "ans": 2,
+    "solution": "<b>Solution (EN):</b><br>The tone of the passage is informative because it provides facts about what libraries offer and their current challenges. It is also encouraging because it highlights efforts to promote library use and concludes by stating that maintaining libraries is \"essential for encouraging reading culture.\"<br><br><b>Solution (HI):</b><br>गद्यांश का स्वर (tone) ज्ञानवर्धक (informative) है क्योंकि यह पुस्तकालयों के लाभों और चुनौतियों के बारे में तथ्य प्रदान करता है। साथ ही, यह उत्साहवर्धक (encouraging) भी है क्योंकि यह पुस्तकालयों के उपयोग का समर्थन करने और पढ़ने की संस्कृति को बढ़ावा देने पर ज़ोर देता है।<br><br><b>Final Answer:</b> !2!"
+  },
+  {
+    "section": "Hindi",
+    "topic": "वाक्य अशुद्धि",
+    "difficulty": "Easy",
+    "q_en": "इस वाक्य में एक त्रुटि है। निम्नलिखित विकल्पों में से त्रुटिपूर्ण शब्द चुनकर वाक्य को शुद्ध करें।<br>समाज की वर्तमान दसा बहुत अधिक चिंताजनक है।",
+    "q_hi": "इस वाक्य में एक त्रुटि है। निम्नलिखित विकल्पों में से त्रुटिपूर्ण शब्द चुनकर वाक्य को शुद्ध करें।<br>समाज की वर्तमान दसा बहुत अधिक चिंताजनक है।",
+    "op_en": [
+      "चिंताजनक",
+      "की",
+      "दसा",
+      "वर्तमान"
+    ],
+    "op_hi": [
+      "चिंताजनक",
+      "की",
+      "दसा",
+      "वर्तमान"
+    ],
+    "ans": 3,
+    "solution": "<b>Solution:</b><br>दिए गए वाक्य में 'दसा' शब्द त्रुटिपूर्ण है। इसका शुद्ध रूप 'दशा' होगा। शुद्ध वाक्य होगा: समाज की वर्तमान दशा बहुत अधिक चिंताजनक है।<br><br><b>Final Answer:</b> !3!"
+  },
+  {
+    "section": "Hindi",
+    "topic": "क्रिया-विशेषण",
+    "difficulty": "Medium",
+    "q_en": "सर्वोचित क्रिया-विशेषण शब्द से दिये गये वाक्य का रिक्त स्थान पूर्ण करें--<br>वह लड़का  ......... बैठकर अपनी पुरानी यादें ताज़ा करेगा।",
+    "q_hi": "सर्वोचित क्रिया-विशेषण शब्द से दिये गये वाक्य का रिक्त स्थान पूर्ण करें--<br>वह लड़का  ......... बैठकर अपनी पुरानी यादें ताज़ा करेगा।",
+    "op_en": [
+      "स्वयं",
+      "तले",
+      "यथाक्रम",
+      "उधर"
+    ],
+    "op_hi": [
+      "स्वयं",
+      "तले",
+      "यथाक्रम",
+      "उधर"
+    ],
+    "ans": 4,
+    "solution": "<b>Solution:</b><br>रिक्त स्थान के लिए उचित क्रिया-विशेषण 'उधर' है, जो स्थानवाचक क्रिया-विशेषण है। पूर्ण वाक्य: वह लड़का उधर बैठकर अपनी पुरानी यादें ताज़ा करेगा।<br><br><b>Final Answer:</b> !4!"
+  },
+  {
+    "section": "Hindi",
+    "topic": "वाक्य क्रम व्यवस्था",
+    "difficulty": "Medium",
+    "q_en": "नीचे चार वाक्य दिए गए हैं। इन्हें सही क्रम में लगाएँ:<br>अ. सभी के जीवन की एक कहानी होती है।<br>ब. संवेदना अंतर्वस्तु की बुनियाद होती है।<br>स. हर कहानी की अपनी एक अंतर्वस्तु होती है।<br>द. निष्कर्ष में कहानी का शीर्ष चित्रित होता है।",
+    "q_hi": "नीचे चार वाक्य दिए गए हैं। इन्हें सही क्रम में लगाएँ:<br>अ. सभी के जीवन की एक कहानी होती है।<br>ब. संवेदना अंतर्वस्तु की बुनियाद होती है।<br>स. हर कहानी की अपनी एक अंतर्वस्तु होती है।<br>द. निष्कर्ष में कहानी का शीर्ष चित्रित होता है।",
+    "op_en": [
+      "अ ब स द",
+      "ब स अ द",
+      "अ स ब द",
+      "अ द ब स"
+    ],
+    "op_hi": [
+      "अ ब स द",
+      "ब स अ द",
+      "अ स ब द",
+      "अ द ब स"
+    ],
+    "ans": 3,
+    "solution": "<b>Solution:</b><br>दिए गए वाक्यों का सही तार्किक क्रम 'अ स ब द' होगा।<br>अ. सभी के जीवन की एक कहानी होती है।<br>स. हर कहानी की अपनी एक अंतर्वस्तु होती है।<br>ब. संवेदना अंतर्वस्तु की बुनियाद होती है।<br>द. निष्कर्ष में कहानी का शीर्ष चित्रित होता है।<br><br><b>Final Answer:</b> !3!"
+  },
+  {
+    "section": "Hindi",
+    "topic": "वाक्य क्रम व्यवस्था",
+    "difficulty": "Easy",
+    "q_en": "निम्नलिखित वाक्य को उचित क्रम में लिखें-<br>1. 'अलम' धातु से <br>2. अलंकार शब्द <br>3. अर्थ है 'आभूषण'<br>4. बना है जिसका",
+    "q_hi": "निम्नलिखित वाक्य को उचित क्रम में लिखें-<br>1. 'अलम' धातु से <br>2. अलंकार शब्द <br>3. अर्थ है 'आभूषण'<br>4. बना है जिसका",
+    "op_en": [
+      "4, 1, 2, 3",
+      "2, 1, 4, 3",
+      "4, 3, 2, 1",
+      "3, 2, 1, 4"
+    ],
+    "op_hi": [
+      "4, 1, 2, 3",
+      "2, 1, 4, 3",
+      "4, 3, 2, 1",
+      "3, 2, 1, 4"
+    ],
+    "ans": 2,
+    "solution": "<b>Solution:</b><br>सार्थक वाक्य बनाने के लिए सही क्रम '2, 1, 4, 3' होगा।<br>पूर्ण वाक्य: अलंकार शब्द 'अलम' धातु से बना है जिसका अर्थ है 'आभूषण'।<br><br><b>Final Answer:</b> !2!"
+  },
+  {
+    "section": "Hindi",
+    "topic": "वाक्य क्रम व्यवस्था",
+    "difficulty": "Easy",
+    "q_en": "नीचे दिए गए वाक्य खंडों को सही क्रम में व्यवस्थित कीजिए -<br>1. ब्याह नहीं <br>2. अब तो <br>3. करेंगे <br>4. हम हरगिज",
+    "q_hi": "नीचे दिए गए वाक्य खंडों को सही क्रम में व्यवस्थित कीजिए -<br>1. ब्याह नहीं <br>2. अब तो <br>3. करेंगे <br>4. हम हरगिज",
+    "op_en": [
+      "2413",
+      "2134",
+      "4312",
+      "4132"
+    ],
+    "op_hi": [
+      "2413",
+      "2134",
+      "4312",
+      "4132"
+    ],
+    "ans": 1,
+    "solution": "<b>Solution:</b><br>सार्थक वाक्य बनाने के लिए सही क्रम '2, 4, 1, 3' होगा।<br>पूर्ण वाक्य: अब तो हम हरगिज ब्याह नहीं करेंगे।<br><br><b>Final Answer:</b> !1!"
+  },
+  {
+    "section": "Hindi",
+    "topic": "वाक्य अशुद्धि",
+    "difficulty": "Easy",
+    "q_en": "वाक्य के किस भाग में त्रुटि है?<br>कल एक साहितिक गोष्ठी हुई थी।",
+    "q_hi": "वाक्य के किस भाग में त्रुटि है?<br>कल एक साहितिक गोष्ठी हुई थी।",
+    "op_en": [
+      "कल एक",
+      "गोष्ठी",
+      "हुई थी।",
+      "साहितिक"
+    ],
+    "op_hi": [
+      "कल एक",
+      "गोष्ठी",
+      "हुई थी।",
+      "साहितिक"
+    ],
+    "ans": 4,
+    "solution": "<b>Solution:</b><br>वाक्य में 'साहितिक' शब्द की वर्तनी अशुद्ध है। इसका शुद्ध रूप 'साहित्यिक' होगा। शुद्ध वाक्य: कल एक साहित्यिक गोष्ठी हुई थी।<br><br><b>Final Answer:</b> !4!"
+  },
+  {
+    "section": "Hindi",
+    "topic": "वाक्य अशुद्धि",
+    "difficulty": "Easy",
+    "q_en": "निम्नलिखित वाक्य के किस भाग में त्रुटि है?<br>‘बिजली धमक रही  है।’",
+    "q_hi": "निम्नलिखित वाक्य के किस भाग में त्रुटि है?<br>‘बिजली धमक रही  है।’",
+    "op_en": [
+      "बिजली",
+      "रही",
+      "धमक",
+      "है।"
+    ],
+    "op_hi": [
+      "बिजली",
+      "रही",
+      "धमक",
+      "है।"
+    ],
+    "ans": 3,
+    "solution": "<b>Solution:</b><br>बिजली के लिए 'धमक' शब्द का प्रयोग अनुचित है, इसके स्थान पर 'चमक' का प्रयोग होना चाहिए। शुद्ध वाक्य: बिजली चमक रही है।<br><br><b>Final Answer:</b> !3!"
+  },
+  {
+    "section": "Hindi",
+    "topic": "मुहावरे एवं लोकोक्तियाँ",
+    "difficulty": "Easy",
+    "q_en": "‘खोदा पहाड़ निकली चुहिया’ लोकोक्ति का सही अर्थ है –",
+    "q_hi": "‘खोदा पहाड़ निकली चुहिया’ लोकोक्ति का सही अर्थ है –",
+    "op_en": [
+      "गुण कुछ नहीं, पर गुणी कहलाना",
+      "शेख़ी बघारना",
+      "निराला ढंग",
+      "कठिन परिश्रम, थोड़ा लाभ"
+    ],
+    "op_hi": [
+      "गुण कुछ नहीं, पर गुणी कहलाना",
+      "शेख़ी बघारना",
+      "निराला ढंग",
+      "कठिन परिश्रम, थोड़ा लाभ"
+    ],
+    "ans": 4,
+    "solution": "<b>Solution:</b><br>'खोदा पहाड़ निकली चुहिया' लोकोक्ति का सही अर्थ है - अधिक परिश्रम करने पर भी बहुत कम या मामूली लाभ प्राप्त होना।<br><br><b>Final Answer:</b> !4!"
+  },
+  {
+    "section": "Hindi",
+    "topic": "विशेषण",
+    "difficulty": "Medium",
+    "q_en": "नीचे दिए वाक्य में रिक्त-स्थान की पूर्ति के लिए दिए गए विकल्पों में से सार्वनामिक  विशेषण चुनें-<br>_______कमाई खाओ।",
+    "q_hi": "नीचे दिए वाक्य में रिक्त-स्थान की पूर्ति के लिए दिए गए विकल्पों में से सार्वनामिक  विशेषण चुनें-<br>_______कमाई खाओ।",
+    "op_en": [
+      "अपनी",
+      "उनका",
+      "तुम्हारा",
+      "अपना"
+    ],
+    "op_hi": [
+      "अपनी",
+      "उनका",
+      "तुम्हारा",
+      "अपना"
+    ],
+    "ans": 1,
+    "solution": "<b>Solution:</b><br>यहाँ उचित सार्वनामिक विशेषण 'अपनी' होगा क्योंकि 'कमाई' स्त्रीलिंग शब्द है। पूर्ण वाक्य: अपनी कमाई खाओ।<br><br><b>Final Answer:</b> !1!"
+  },
+  {
+    "section": "Hindi",
+    "topic": "विशेषण",
+    "difficulty": "Easy",
+    "q_en": "उपयुक्त विशेषण  का चयन कर दिए गए वाक्य को पूर्ण कीजिए।<br>' रिया की टोपी  ..........................है।’",
+    "q_hi": "उपयुक्त विशेषण  का चयन कर दिए गए वाक्य को पूर्ण कीजिए।<br>' रिया की टोपी  ..........................है।’",
+    "op_en": [
+      "ताज़ा",
+      "अनुचित",
+      "दुबली",
+      "गोल"
+    ],
+    "op_hi": [
+      "ताज़ा",
+      "अनुचित",
+      "दुबली",
+      "गोल"
+    ],
+    "ans": 4,
+    "solution": "<b>Solution:</b><br>टोपी की विशेषता बताने के लिए 'गोल' विशेषण सबसे उपयुक्त है। पूर्ण वाक्य: रिया की टोपी गोल है।<br><br><b>Final Answer:</b> !4!"
+  },
+  {
+    "section": "Hindi",
+    "topic": "कारक",
+    "difficulty": "Easy",
+    "q_en": "निम्नलिखित वाक्य के रिक्त स्थान में उचित ‘कर्म कारक-चिह्न’ का प्रयोग कीजिए-<br>‘अध्यापक ने डेविड______________पढ़ाया।'",
+    "q_hi": "निम्नलिखित वाक्य के रिक्त स्थान में उचित ‘कर्म कारक-चिह्न’ का प्रयोग कीजिए-<br>‘अध्यापक ने डेविड______________पढ़ाया।'",
+    "op_en": [
+      "से",
+      "का",
+      "को",
+      "हे"
+    ],
+    "op_hi": [
+      "से",
+      "का",
+      "को",
+      "हे"
+    ],
+    "ans": 3,
+    "solution": "<b>Solution:</b><br>कर्म कारक का चिह्न 'को' होता है। यहाँ डेविड कर्म है, अतः 'को' का प्रयोग होगा। पूर्ण वाक्य: अध्यापक ने डेविड को पढ़ाया।<br><br><b>Final Answer:</b> !3!"
+  },
+  {
+    "section": "Hindi",
+    "topic": "कारक",
+    "difficulty": "Medium",
+    "q_en": "निम्नांकित विकल्पों में से उचित कारक चिह्न का चयन करके वाक्य पूर्ण करें-<br>हेमंत .......... खीर अच्छी लगती है।",
+    "q_hi": "निम्नांकित विकल्पों में से उचित कारक चिह्न का चयन करके वाक्य पूर्ण करें-<br>हेमंत .......... खीर अच्छी लगती है।",
+    "op_en": [
+      "का",
+      "के",
+      "को",
+      "की"
+    ],
+    "op_hi": [
+      "का",
+      "के",
+      "को",
+      "की"
+    ],
+    "ans": 3,
+    "solution": "<b>Solution:</b><br>वाक्य में रुचि या पसंद का भाव है, जिसके साथ कर्म कारक 'को' का प्रयोग होता है। पूर्ण वाक्य: हेमंत को खीर अच्छी लगती है।<br><br><b>Final Answer:</b> !3!"
+  },
+  {
+    "section": "Hindi",
+    "topic": "क्रिया",
+    "difficulty": "Medium",
+    "q_en": "‘शीला खाना खाकर सो जाएगी |’ वाक्य में पूर्वकालिक क्रिया है -",
+    "q_hi": "‘शीला खाना खाकर सो जाएगी |’ वाक्य में पूर्वकालिक क्रिया है -",
+    "op_en": [
+      "खाना",
+      "शीला",
+      "खाकर",
+      "जाएगी"
+    ],
+    "op_hi": [
+      "खाना",
+      "शीला",
+      "खाकर",
+      "जाएगी"
+    ],
+    "ans": 3,
+    "solution": "<b>Solution:</b><br>जब कर्ता एक क्रिया समाप्त कर उसी क्षण दूसरी क्रिया में प्रवृत्त होता है, तब पहली क्रिया 'पूर्वकालिक क्रिया' कहलाती है। यहाँ 'खाकर' पूर्वकालिक क्रिया है।<br><br><b>Final Answer:</b> !3!"
+  },
+  {
+    "section": "Hindi",
+    "topic": "क्रिया",
+    "difficulty": "Easy",
+    "q_en": "दिये गये वाक्य का रिक्त स्थान सर्वोचित क्रिया शब्द से पूर्ण करें--<br>हवा ......... से पेड़ की पत्तियाँ नीचे गिर रही हैं।<br>",
+    "q_hi": "दिये गये वाक्य का रिक्त स्थान सर्वोचित क्रिया शब्द से पूर्ण करें--<br>हवा ......... से पेड़ की पत्तियाँ नीचे गिर रही हैं।<br>",
+    "op_en": [
+      "बदलने",
+      "चलने",
+      "फैलने",
+      "उड़ने"
+    ],
+    "op_hi": [
+      "बदलने",
+      "चलने",
+      "फैलने",
+      "उड़ने"
+    ],
+    "ans": 2,
+    "solution": "<b>Solution:</b><br>हवा के साथ 'चलने' या 'बहने' क्रिया का प्रयोग होता है। पूर्ण वाक्य: हवा चलने से पेड़ की पत्तियाँ नीचे गिर रही हैं।<br><br><b>Final Answer:</b> !2!"
+  },
+  {
+    "section": "Hindi",
+    "topic": "मुहावरे एवं लोकोक्तियाँ",
+    "difficulty": "Medium",
+    "q_en": "‘कभी के दिन बड़े कभी की रात’ लोकोक्ति का अर्थ क्या है?",
+    "q_hi": "‘कभी के दिन बड़े कभी की रात’ लोकोक्ति का अर्थ क्या है?",
+    "op_en": [
+      "सब दिन एक समान नहीं होते।",
+      "शांत व्यक्ति के सब मित्र होते हैं।",
+      "ऊँचे पद का लालच रखना।",
+      "किसी का प्रभाव किसी और पर पड़ना।"
+    ],
+    "op_hi": [
+      "सब दिन एक समान नहीं होते।",
+      "शांत व्यक्ति के सब मित्र होते हैं।",
+      "ऊँचे पद का लालच रखना।",
+      "किसी का प्रभाव किसी और पर पड़ना।"
+    ],
+    "ans": 1,
+    "solution": "<b>Solution:</b><br>'कभी के दिन बड़े कभी की रात' लोकोक्ति का अर्थ है कि परिस्थितियाँ हमेशा बदलती रहती हैं, अर्थात् सब दिन एक समान नहीं होते।<br><br><b>Final Answer:</b> !1!"
+  },
+  {
+    "section": "Hindi",
+    "topic": "मुहावरे",
+    "difficulty": "Medium",
+    "q_en": "‘जी खट्टा होना’ मुहावरे का सही अर्थ है –",
+    "q_hi": "‘जी खट्टा होना’ मुहावरे का सही अर्थ है –",
+    "op_en": [
+      "बात फैलाना",
+      "खराब अनुभव होना",
+      "अत्याचार करना",
+      "इशारा करना"
+    ],
+    "op_hi": [
+      "बात फैलाना",
+      "खराब अनुभव होना",
+      "अत्याचार करना",
+      "इशारा करना"
+    ],
+    "ans": 2,
+    "solution": "<b>Solution (HI):</b><br>'जी खट्टा होना' मुहावरे का अर्थ है मन में किसी के प्रति वैराग्य या घृणा उत्पन्न होना, अथवा किसी बात से खराब अनुभव होना। अतः सही विकल्प 'खराब अनुभव होना' है।<br><br><b>Final Answer:</b> खराब अनुभव होना"
+  },
+  {
+    "section": "Hindi",
+    "topic": "मुहावरे",
+    "difficulty": "Medium",
+    "q_en": "‘ओठ सूखना’ मुहावरे का सही अर्थ है –",
+    "q_hi": "‘ओठ सूखना’ मुहावरे का सही अर्थ है –",
+    "op_en": [
+      "प्यास लगना",
+      "भेद पाना",
+      "बहुत थक जाना",
+      "बेसिर पैर की बात"
+    ],
+    "op_hi": [
+      "प्यास लगना",
+      "भेद पाना",
+      "बहुत थक जाना",
+      "बेसिर पैर की बात"
+    ],
+    "ans": 1,
+    "solution": "<b>Solution (HI):</b><br>'ओठ सूखना' या 'होंठ सूखना' मुहावरे का अर्थ बहुत अधिक प्यास लगना या डर के कारण घबरा जाना होता है। दिए गए विकल्पों में से 'प्यास लगना' सबसे सटीक अर्थ है।<br><br><b>Final Answer:</b> प्यास लगना"
+  },
+  {
+    "section": "Hindi",
+    "topic": "लोकोक्तियाँ",
+    "difficulty": "Medium",
+    "q_en": "'भूखे भजन न होय गोपाल’ लोकोक्ति का सही अर्थ क्या होगा?",
+    "q_hi": "'भूखे भजन न होय गोपाल’ लोकोक्ति का सही अर्थ क्या होगा?",
+    "op_en": [
+      "भूख लगी हो तो कोई काम नहीं होता",
+      "थकने पर विश्राम चाहिए",
+      "बीच में दखल देने वाला",
+      "केवल दिखावटी शान"
+    ],
+    "op_hi": [
+      "भूख लगी हो तो कोई काम नहीं होता",
+      "थकने पर विश्राम चाहिए",
+      "बीच में दखल देने वाला",
+      "केवल दिखावटी शान"
+    ],
+    "ans": 1,
+    "solution": "<b>Solution (HI):</b><br>'भूखे भजन न होय गोपाल' का अर्थ है कि भूखे पेट भगवान का भजन भी नहीं होता, अर्थात् जब व्यक्ति को भूख लगी हो तो उससे कोई भी काम ठीक से नहीं होता है।<br><br><b>Final Answer:</b> भूख लगी हो तो कोई काम नहीं होता"
+  },
+  {
+    "section": "Hindi",
+    "topic": "तत्सम-तद्भव",
+    "difficulty": "Medium",
+    "q_en": "निम्नलिखित में से कौन-सा एक ‘तद्भव-तत्सम’ शब्द-युग्म सही नहीं है-",
+    "q_hi": "निम्नलिखित में से कौन-सा एक ‘तद्भव-तत्सम’ शब्द-युग्म सही नहीं है-",
+    "op_en": [
+      "पतोहू-पुत्रवधू",
+      "पखवारा-पक्षवार",
+      "पतला-प्रतनु",
+      "पूर्व-पीठक"
+    ],
+    "op_hi": [
+      "पतोहू-पुत्रवधू",
+      "पखवारा-पक्षवार",
+      "पतला-प्रतनु",
+      "पूर्व-पीठक"
+    ],
+    "ans": 4,
+    "solution": "<b>Solution (HI):</b><br>'पूर्व-पीठक' सही तद्भव-तत्सम युग्म नहीं है, क्योंकि 'पूर्व' स्वयं एक तत्सम शब्द है जिसका तद्भव 'पूरब' होता है। अन्य सभी युग्म (पतोहू - पुत्रवधू, पखवारा - पक्षवार, पतला - प्रतनु) बिल्कुल सही हैं।<br><br><b>Final Answer:</b> पूर्व-पीठक"
+  },
+  {
+    "section": "Hindi",
+    "topic": "तत्सम-तद्भव",
+    "difficulty": "Medium",
+    "q_en": "निम्नलिखित विकल्पों में से कपर्दिका का तद्भव शब्द पहचानें।",
+    "q_hi": "निम्नलिखित विकल्पों में से कपर्दिका का तद्भव शब्द पहचानें।",
+    "op_en": [
+      "कृपा",
+      "दिया",
+      "कौड़ी",
+      "कागज़"
+    ],
+    "op_hi": [
+      "कृपा",
+      "दिया",
+      "कौड़ी",
+      "कागज़"
+    ],
+    "ans": 3,
+    "solution": "<b>Solution (HI):</b><br>'कपर्दिका' संस्कृत भाषा का तत्सम शब्द है। हिंदी में इसका तद्भव रूप 'कौड़ी' होता है।<br><br><b>Final Answer:</b> कौड़ी"
+  },
+  {
+    "section": "Hindi",
+    "topic": "अपठित गद्यांश",
+    "difficulty": "Easy",
+    "q_en": "<div style=\"background:#f9f9f9; padding:12px; margin-bottom:15px; border:1px solid #ddd; border-radius:5px;\"><b>Comprehension / गद्यांश:</b><br><br>निम्नलिखित गद्यांश को पढ़कर पूछे गए प्रश्नों के उत्तर दीजिए। <br>भारत का इतिहास अत्यंत प्राचीन और गौरवशाली है। प्राचीन काल में भारत को 'सोने की चिड़िया' कहा जाता था क्योंकि यहाँ अपार सुख-समृद्धि और ज्ञान का भंडार था। यहाँ अनेक महान सम्राटों ने शासन किया, जिन्होंने शांति और मानवता का संदेश फैलाया। सम्राट अशोक और चंद्रगुप्त मौर्य जैसे महान शासकों ने एक अखंड भारत की नींव रखी। मध्यकाल में कला और स्थापत्य कला का अद्भुत विकास हुआ, जिसके प्रमाण आज भी ताजमहल और ऐतिहासिक किलों के रूप में हमारे सामने हैं। स्वतंत्रता संग्राम के दौरान महात्मा गांधी, भगत सिंह और सुभाष चंद्र बोस जैसे वीरों ने अपने त्याग और बलिदान से देश को विदेशी गुलामी से मुक्त कराया। हमारा इतिहास केवल युद्धों की गाथा नहीं है, बल्कि यह महान संस्कृति, दर्शन और विज्ञान की उन्नति का जीता-जागता प्रमाण भी है। आज का आधुनिक भारत इसी गौरवशाली अतीत की मजबूत नींव पर खड़ा है।<br><br><b> SubQuestion No : 6</b><br><br></div><b>Question:</b><br>गद्यांश के अनुसार 'अखंड' शब्द का सही अर्थ क्या है?",
+    "q_hi": "<div style=\"background:#f9f9f9; padding:12px; margin-bottom:15px; border:1px solid #ddd; border-radius:5px;\"><b>Comprehension / गद्यांश:</b><br><br>निम्नलिखित गद्यांश को पढ़कर पूछे गए प्रश्नों के उत्तर दीजिए। <br>भारत का इतिहास अत्यंत प्राचीन और गौरवशाली है। प्राचीन काल में भारत को 'सोने की चिड़िया' कहा जाता था क्योंकि यहाँ अपार सुख-समृद्धि और ज्ञान का भंडार था। यहाँ अनेक महान सम्राटों ने शासन किया, जिन्होंने शांति और मानवता का संदेश फैलाया। सम्राट अशोक और चंद्रगुप्त मौर्य जैसे महान शासकों ने एक अखंड भारत की नींव रखी। मध्यकाल में कला और स्थापत्य कला का अद्भुत विकास हुआ, जिसके प्रमाण आज भी ताजमहल और ऐतिहासिक किलों के रूप में हमारे सामने हैं। स्वतंत्रता संग्राम के दौरान महात्मा गांधी, भगत सिंह और सुभाष चंद्र बोस जैसे वीरों ने अपने त्याग और बलिदान से देश को विदेशी गुलामी से मुक्त कराया। हमारा इतिहास केवल युद्धों की गाथा नहीं है, बल्कि यह महान संस्कृति, दर्शन और विज्ञान की उन्नति का जीता-जागता प्रमाण भी है। आज का आधुनिक भारत इसी गौरवशाली अतीत की मजबूत नींव पर खड़ा है।<br><br><b> SubQuestion No : 6</b><br><br></div><b>Question:</b><br>गद्यांश के अनुसार 'अखंड' शब्द का सही अर्थ क्या है?",
+    "op_en": [
+      "बहुत छोटा हिस्सा",
+      "खंडित प्रदेश",
+      "जो टूट गया हो",
+      "जिसके टुकड़े न हुए हों"
+    ],
+    "op_hi": [
+      "बहुत छोटा हिस्सा",
+      "खंडित प्रदेश",
+      "जो टूट गया हो",
+      "जिसके टुकड़े न हुए हों"
+    ],
+    "ans": 4,
+    "solution": "<b>Solution (HI):</b><br>'अखंड' (अ + खंड) का शाब्दिक अर्थ होता है जिसे खंडित न किया जा सके या जिसके टुकड़े न हुए हों। गद्यांश में सम्राट अशोक और चंद्रगुप्त मौर्य द्वारा ऐसे ही एकीकृत और संपूर्ण भारत की नींव रखने की बात की गई है।<br><br><b>Final Answer:</b> जिसके टुकड़े न हुए हों"
+  },
+  {
+    "section": "Hindi",
+    "topic": "विलोम शब्द",
+    "difficulty": "Easy",
+    "q_en": "<div style=\"background:#f9f9f9; padding:12px; margin-bottom:15px; border:1px solid #ddd; border-radius:5px;\"><b>Comprehension / गद्यांश:</b><br><br>निम्नलिखित गद्यांश को पढ़कर पूछे गए प्रश्नों के उत्तर दीजिए। <br>भारत का इतिहास अत्यंत प्राचीन और गौरवशाली है। प्राचीन काल में भारत को 'सोने की चिड़िया' कहा जाता था क्योंकि यहाँ अपार सुख-समृद्धि और ज्ञान का भंडार था। यहाँ अनेक महान सम्राटों ने शासन किया, जिन्होंने शांति और मानवता का संदेश फैलाया। सम्राट अशोक और चंद्रगुप्त मौर्य जैसे महान शासकों ने एक अखंड भारत की नींव रखी। मध्यकाल में कला और स्थापत्य कला का अद्भुत विकास हुआ, जिसके प्रमाण आज भी ताजमहल और ऐतिहासिक किलों के रूप में हमारे सामने हैं। स्वतंत्रता संग्राम के दौरान महात्मा गांधी, भगत सिंह और सुभाष चंद्र बोस जैसे वीरों ने अपने त्याग और बलिदान से देश को विदेशी गुलामी से मुक्त कराया। हमारा इतिहास केवल युद्धों की गाथा नहीं है, बल्कि यह महान संस्कृति, दर्शन और विज्ञान की उन्नति का जीता-जागता प्रमाण भी है। आज का आधुनिक भारत इसी गौरवशाली अतीत की मजबूत नींव पर खड़ा है।<br><br><b> SubQuestion No : 7</b><br><br></div><b>Question:</b><br>गद्यांश में प्रयुक्त शब्द 'प्राचीन' का सही विलोम शब्द चुनिए:",
+    "q_hi": "<div style=\"background:#f9f9f9; padding:12px; margin-bottom:15px; border:1px solid #ddd; border-radius:5px;\"><b>Comprehension / गद्यांश:</b><br><br>निम्नलिखित गद्यांश को पढ़कर पूछे गए प्रश्नों के उत्तर दीजिए। <br>भारत का इतिहास अत्यंत प्राचीन और गौरवशाली है। प्राचीन काल में भारत को 'सोने की चिड़िया' कहा जाता था क्योंकि यहाँ अपार सुख-समृद्धि और ज्ञान का भंडार था। यहाँ अनेक महान सम्राटों ने शासन किया, जिन्होंने शांति और मानवता का संदेश फैलाया। सम्राट अशोक और चंद्रगुप्त मौर्य जैसे महान शासकों ने एक अखंड भारत की नींव रखी। मध्यकाल में कला और स्थापत्य कला का अद्भुत विकास हुआ, जिसके प्रमाण आज भी ताजमहल और ऐतिहासिक किलों के रूप में हमारे सामने हैं। स्वतंत्रता संग्राम के दौरान महात्मा गांधी, भगत सिंह और सुभाष चंद्र बोस जैसे वीरों ने अपने त्याग और बलिदान से देश को विदेशी गुलामी से मुक्त कराया। हमारा इतिहास केवल युद्धों की गाथा नहीं है, बल्कि यह महान संस्कृति, दर्शन और विज्ञान की उन्नति का जीता-जागता प्रमाण भी है। आज का आधुनिक भारत इसी गौरवशाली अतीत की मजबूत नींव पर खड़ा है।<br><br><b> SubQuestion No : 7</b><br><br></div><b>Question:</b><br>गद्यांश में प्रयुक्त शब्द 'प्राचीन' का सही विलोम शब्द चुनिए:",
+    "op_en": [
+      "नवीन",
+      "बीटा हुआ",
+      "ऐतिहासिक",
+      "पुराना"
+    ],
+    "op_hi": [
+      "नवीन",
+      "बीटा हुआ",
+      "ऐतिहासिक",
+      "पुराना"
+    ],
+    "ans": 1,
+    "solution": "<b>Solution (HI):</b><br>'प्राचीन' शब्द का अर्थ बहुत 'पुराना' होता है। इसका सही विलोम (विपरीतार्थक) शब्द 'नवीन' या 'अर्वाचीन' होता है, जिसका अर्थ नया होता है।<br><br><b>Final Answer:</b> नवीन"
+  },
+  {
+    "section": "Hindi",
+    "topic": "पर्यायवाची शब्द",
+    "difficulty": "Easy",
+    "q_en": "<div style=\"background:#f9f9f9; padding:12px; margin-bottom:15px; border:1px solid #ddd; border-radius:5px;\"><b>Comprehension / गद्यांश:</b><br><br>निम्नलिखित गद्यांश को पढ़कर पूछे गए प्रश्नों के उत्तर दीजिए। <br>भारत का इतिहास अत्यंत प्राचीन और गौरवशाली है। प्राचीन काल में भारत को 'सोने की चिड़िया' कहा जाता था क्योंकि यहाँ अपार सुख-समृद्धि और ज्ञान का भंडार था। यहाँ अनेक महान सम्राटों ने शासन किया, जिन्होंने शांति और मानवता का संदेश फैलाया। सम्राट अशोक और चंद्रगुप्त मौर्य जैसे महान शासकों ने एक अखंड भारत की नींव रखी। मध्यकाल में कला और स्थापत्य कला का अद्भुत विकास हुआ, जिसके प्रमाण आज भी ताजमहल और ऐतिहासिक किलों के रूप में हमारे सामने हैं। स्वतंत्रता संग्राम के दौरान महात्मा गांधी, भगत सिंह और सुभाष चंद्र बोस जैसे वीरों ने अपने त्याग और बलिदान से देश को विदेशी गुलामी से मुक्त कराया। हमारा इतिहास केवल युद्धों की गाथा नहीं है, बल्कि यह महान संस्कृति, दर्शन और विज्ञान की उन्नति का जीता-जागता प्रमाण भी है। आज का आधुनिक भारत इसी गौरवशाली अतीत की मजबूत नींव पर खड़ा है।<br><br><b> SubQuestion No : 8</b><br><br></div><b>Question:</b><br>गद्यांश में आए शब्द 'सम्राट' का सही पर्यायवाची शब्द कौन-सा है?",
+    "q_hi": "<div style=\"background:#f9f9f9; padding:12px; margin-bottom:15px; border:1px solid #ddd; border-radius:5px;\"><b>Comprehension / गद्यांश:</b><br><br>निम्नलिखित गद्यांश को पढ़कर पूछे गए प्रश्नों के उत्तर दीजिए। <br>भारत का इतिहास अत्यंत प्राचीन और गौरवशाली है। प्राचीन काल में भारत को 'सोने की चिड़िया' कहा जाता था क्योंकि यहाँ अपार सुख-समृद्धि और ज्ञान का भंडार था। यहाँ अनेक महान सम्राटों ने शासन किया, जिन्होंने शांति और मानवता का संदेश फैलाया। सम्राट अशोक और चंद्रगुप्त मौर्य जैसे महान शासकों ने एक अखंड भारत की नींव रखी। मध्यकाल में कला और स्थापत्य कला का अद्भुत विकास हुआ, जिसके प्रमाण आज भी ताजमहल और ऐतिहासिक किलों के रूप में हमारे सामने हैं। स्वतंत्रता संग्राम के दौरान महात्मा गांधी, भगत सिंह और सुभाष चंद्र बोस जैसे वीरों ने अपने त्याग और बलिदान से देश को विदेशी गुलामी से मुक्त कराया। हमारा इतिहास केवल युद्धों की गाथा नहीं है, बल्कि यह महान संस्कृति, दर्शन और विज्ञान की उन्नति का जीता-जागता प्रमाण भी है। आज का आधुनिक भारत इसी गौरवशाली अतीत की मजबूत नींव पर खड़ा है।<br><br><b> SubQuestion No : 8</b><br><br></div><b>Question:</b><br>गद्यांश में आए शब्द 'सम्राट' का सही पर्यायवाची शब्द कौन-सा है?",
+    "op_en": [
+      "सैनिक",
+      "मंत्री",
+      "राजा",
+      "प्रजा"
+    ],
+    "op_hi": [
+      "सैनिक",
+      "मंत्री",
+      "राजा",
+      "प्रजा"
+    ],
+    "ans": 3,
+    "solution": "<b>Solution (HI):</b><br>'सम्राट' शब्द का अर्थ किसी विशाल साम्राज्य का शासक होता है। इसके प्रमुख पर्यायवाची शब्द राजा, नरेश, भूपति, नृप और महाराजा आदि होते हैं। अतः यहाँ 'राजा' सही विकल्प है।<br><br><b>Final Answer:</b> राजा"
+  },
+  {
+    "section": "Hindi",
+    "topic": "अपठित गद्यांश",
+    "difficulty": "Medium",
+    "q_en": "<div style=\"background:#f9f9f9; padding:12px; margin-bottom:15px; border:1px solid #ddd; border-radius:5px;\"><b>Comprehension / गद्यांश:</b><br><br>निम्नलिखित गद्यांश को पढ़कर पूछे गए प्रश्नों के उत्तर दीजिए। <br>भारत का इतिहास अत्यंत प्राचीन और गौरवशाली है। प्राचीन काल में भारत को 'सोने की चिड़िया' कहा जाता था क्योंकि यहाँ अपार सुख-समृद्धि और ज्ञान का भंडार था। यहाँ अनेक महान सम्राटों ने शासन किया, जिन्होंने शांति और मानवता का संदेश फैलाया। सम्राट अशोक और चंद्रगुप्त मौर्य जैसे महान शासकों ने एक अखंड भारत की नींव रखी। मध्यकाल में कला और स्थापत्य कला का अद्भुत विकास हुआ, जिसके प्रमाण आज भी ताजमहल और ऐतिहासिक किलों के रूप में हमारे सामने हैं। स्वतंत्रता संग्राम के दौरान महात्मा गांधी, भगत सिंह और सुभाष चंद्र बोस जैसे वीरों ने अपने त्याग और बलिदान से देश को विदेशी गुलामी से मुक्त कराया। हमारा इतिहास केवल युद्धों की गाथा नहीं है, बल्कि यह महान संस्कृति, दर्शन और विज्ञान की उन्नति का जीता-जागता प्रमाण भी है। आज का आधुनिक भारत इसी गौरवशाली अतीत की मजबूत नींव पर खड़ा है।<br><br><b> SubQuestion No : 9</b><br><br></div><b>Question:</b><br>प्रस्तुत गद्यांश के लिए सबसे उपयुक्त शीर्षक कौन-सा है?",
+    "q_hi": "<div style=\"background:#f9f9f9; padding:12px; margin-bottom:15px; border:1px solid #ddd; border-radius:5px;\"><b>Comprehension / गद्यांश:</b><br><br>निम्नलिखित गद्यांश को पढ़कर पूछे गए प्रश्नों के उत्तर दीजिए। <br>भारत का इतिहास अत्यंत प्राचीन और गौरवशाली है। प्राचीन काल में भारत को 'सोने की चिड़िया' कहा जाता था क्योंकि यहाँ अपार सुख-समृद्धि और ज्ञान का भंडार था। यहाँ अनेक महान सम्राटों ने शासन किया, जिन्होंने शांति और मानवता का संदेश फैलाया। सम्राट अशोक और चंद्रगुप्त मौर्य जैसे महान शासकों ने एक अखंड भारत की नींव रखी। मध्यकाल में कला और स्थापत्य कला का अद्भुत विकास हुआ, जिसके प्रमाण आज भी ताजमहल और ऐतिहासिक किलों के रूप में हमारे सामने हैं। स्वतंत्रता संग्राम के दौरान महात्मा गांधी, भगत सिंह और सुभाष चंद्र बोस जैसे वीरों ने अपने त्याग और बलिदान से देश को विदेशी गुलामी से मुक्त कराया। हमारा इतिहास केवल युद्धों की गाथा नहीं है, बल्कि यह महान संस्कृति, दर्शन और विज्ञान की उन्नति का जीता-जागता प्रमाण भी है। आज का आधुनिक भारत इसी गौरवशाली अतीत की मजबूत नींव पर खड़ा है।<br><br><b> SubQuestion No : 9</b><br><br></div><b>Question:</b><br>प्रस्तुत गद्यांश के लिए सबसे उपयुक्त शीर्षक कौन-सा है?",
+    "op_en": [
+      "सोने की चिड़िया",
+      "भारत का गौरवशाली इतिहास",
+      "आधुनिक भारत",
+      "ताजमहल की कला"
+    ],
+    "op_hi": [
+      "सोने की चिड़िया",
+      "भारत का गौरवशाली इतिहास",
+      "आधुनिक भारत",
+      "ताजमहल की कला"
+    ],
+    "ans": 2,
+    "solution": "<b>Solution (HI):</b><br>गद्यांश की शुरुआत और अंत भारत के गौरवशाली इतिहास और उसकी संस्कृति की चर्चा से होती है। इसमें प्राचीन, मध्यकालीन और आधुनिक काल के इतिहास का वर्णन है। इसलिए, 'भारत का गौरवशाली इतिहास' इस गद्यांश का सबसे उपयुक्त शीर्षक है।<br><br><b>Final Answer:</b> भारत का गौरवशाली इतिहास"
+  },
+  {
+    "section": "Hindi",
+    "topic": "अपठित गद्यांश",
+    "difficulty": "Medium",
+    "q_en": "<div style=\"background:#f9f9f9; padding:12px; margin-bottom:15px; border:1px solid #ddd; border-radius:5px;\"><b>Comprehension / गद्यांश:</b><br><br>निम्नलिखित गद्यांश को पढ़कर पूछे गए प्रश्नों के उत्तर दीजिए। <br>भारत का इतिहास अत्यंत प्राचीन और गौरवशाली है। प्राचीन काल में भारत को 'सोने की चिड़िया' कहा जाता था क्योंकि यहाँ अपार सुख-समृद्धि और ज्ञान का भंडार था। यहाँ अनेक महान सम्राटों ने शासन किया, जिन्होंने शांति और मानवता का संदेश फैलाया। सम्राट अशोक और चंद्रगुप्त मौर्य जैसे महान शासकों ने एक अखंड भारत की नींव रखी। मध्यकाल में कला और स्थापत्य कला का अद्भुत विकास हुआ, जिसके प्रमाण आज भी ताजमहल और ऐतिहासिक किलों के रूप में हमारे सामने हैं। स्वतंत्रता संग्राम के दौरान महात्मा गांधी, भगत सिंह और सुभाष चंद्र बोस जैसे वीरों ने अपने त्याग और बलिदान से देश को विदेशी गुलामी से मुक्त कराया। हमारा इतिहास केवल युद्धों की गाथा नहीं है, बल्कि यह महान संस्कृति, दर्शन और विज्ञान की उन्नति का जीता-जागता प्रमाण भी है। आज का आधुनिक भारत इसी गौरवशाली अतीत की मजबूत नींव पर खड़ा है।<br><br><b> SubQuestion No : 10</b><br><br></div><b>Question:</b><br>इस गद्यांश का मुख्य भाव क्या है?",
+    "q_hi": "<div style=\"background:#f9f9f9; padding:12px; margin-bottom:15px; border:1px solid #ddd; border-radius:5px;\"><b>Comprehension / गद्यांश:</b><br><br>निम्नलिखित गद्यांश को पढ़कर पूछे गए प्रश्नों के उत्तर दीजिए। <br>भारत का इतिहास अत्यंत प्राचीन और गौरवशाली है। प्राचीन काल में भारत को 'सोने की चिड़िया' कहा जाता था क्योंकि यहाँ अपार सुख-समृद्धि और ज्ञान का भंडार था। यहाँ अनेक महान सम्राटों ने शासन किया, जिन्होंने शांति और मानवता का संदेश फैलाया। सम्राट अशोक और चंद्रगुप्त मौर्य जैसे महान शासकों ने एक अखंड भारत की नींव रखी। मध्यकाल में कला और स्थापत्य कला का अद्भुत विकास हुआ, जिसके प्रमाण आज भी ताजमहल और ऐतिहासिक किलों के रूप में हमारे सामने हैं। स्वतंत्रता संग्राम के दौरान महात्मा गांधी, भगत सिंह और सुभाष चंद्र बोस जैसे वीरों ने अपने त्याग और बलिदान से देश को विदेशी गुलामी से मुक्त कराया। हमारा इतिहास केवल युद्धों की गाथा नहीं है, बल्कि यह महान संस्कृति, दर्शन और विज्ञान की उन्नति का जीता-जागता प्रमाण भी है। आज का आधुनिक भारत इसी गौरवशाली अतीत की मजबूत नींव पर खड़ा है।<br><br><b> SubQuestion No : 10</b><br><br></div><b>Question:</b><br>इस गद्यांश का मुख्य भाव क्या है?",
+    "op_en": [
+      "भारत का इतिहास वीरता, समृद्धि और महान संस्कृति से भरा है।",
+      "भारत को केवल युद्धों के लिए जाना जाता है।",
+      "इतिहास पढ़ने से कोई लाभ नहीं होता।",
+      "भारत हमेशा से एक कमजोर देश रहा है।"
+    ],
+    "op_hi": [
+      "भारत का इतिहास वीरता, समृद्धि और महान संस्कृति से भरा है।",
+      "भारत को केवल युद्धों के लिए जाना जाता है।",
+      "इतिहास पढ़ने से कोई लाभ नहीं होता।",
+      "भारत हमेशा से एक कमजोर देश रहा है।"
+    ],
+    "ans": 1,
+    "solution": "<b>Solution (HI):</b><br>सम्पूर्ण गद्यांश का केंद्रीय या मुख्य भाव यह है कि भारत का इतिहास केवल युद्धों तक सीमित नहीं है, बल्कि यह महान संस्कृति, सुख-समृद्धि, कला, विज्ञान और मानवता के संदेश से परिपूर्ण है। अतः पहला विकल्प एकदम सही है।<br><br><b>Final Answer:</b> भारत का इतिहास वीरता, समृद्धि और महान संस्कृति से भरा है।"
+  },
+  {
+    "section": "General Knowledge",
+    "topic": "Art and Culture",
+    "difficulty": "Medium",
+    "q_en": "‘Giddha’ is the popular folk dance of which Indian state?",
+    "q_hi": "‘गिद्दा’ किस भारतीय राज्य का लोकप्रिय लोक नृत्य है?",
+    "op_en": [
+      "Punjab",
+      "Rajasthan",
+      "Karnataka",
+      "Assam"
+    ],
+    "op_hi": [
+      "पंजाब",
+      "राजस्थान",
+      "कर्नाटक",
+      "असम"
+    ],
+    "ans": 1,
+    "solution": "<b>Solution (EN):</b><br>Giddha is a popular folk dance of women in the Punjab region of India and Pakistan. It is a very joyful dance and is usually performed on festive occasions.<br><br><b>Solution (HI):</b><br>गिद्दा भारत और पाकिस्तान के पंजाब क्षेत्र में महिलाओं का एक लोकप्रिय लोक नृत्य है। यह एक बहुत ही आनंददायक नृत्य है और आमतौर पर उत्सव के अवसरों पर किया जाता है।<br><br><b>Short Trick:</b><br>Bhangra (Men) and Giddha (Women) both belong to Punjab.<br><br><b>Final Answer:</b> !1!"
+  },
+  {
+    "section": "General Knowledge",
+    "topic": "Modern History",
+    "difficulty": "Medium",
+    "q_en": "The Permanent Settlement of Bengal was introduced in the year ______.",
+    "q_hi": "बंगाल का स्थायी बंदोबस्त (Permanent Settlement) वर्ष ______ में शुरू किया गया था।",
+    "op_en": [
+      "1790",
+      "1793",
+      "1893",
+      "1799"
+    ],
+    "op_hi": [
+      "1790",
+      "1793",
+      "1893",
+      "1799"
+    ],
+    "ans": 2,
+    "solution": "<b>Solution (EN):</b><br>The Permanent Settlement of Bengal was brought into effect by the East India Company headed by Governor-General Lord Cornwallis in !1793!. This system basically made the landlords (zamindars) the permanent owners of the land.<br><br><b>Solution (HI):</b><br>बंगाल का स्थायी बंदोबस्त !1793! में गवर्नर-जनरल लॉर्ड कॉर्नवालिस के नेतृत्व में ईस्ट इंडिया कंपनी द्वारा लागू किया गया था। इस प्रणाली ने मूल रूप से जमींदारों को भूमि का स्थायी मालिक बना दिया था।<br><br><b>Short Trick:</b><br>Permanent Settlement = Lord Cornwallis = !1793!.<br><br><b>Final Answer:</b> !2!"
+  },
+  {
+    "section": "General Knowledge",
+    "topic": "Indian Polity",
+    "difficulty": "Medium",
+    "q_en": "Which article of the Indian Constitution directs the State to raise the level of nutrition and standard of living?",
+    "q_hi": "भारतीय संविधान का कौन सा अनुच्छेद राज्य को पोषण के स्तर और जीवन स्तर को ऊपर उठाने का निर्देश देता है?",
+    "op_en": [
+      "Article 41",
+      "Article 42",
+      "Article 43",
+      "Article 47"
+    ],
+    "op_hi": [
+      "अनुच्छेद 41",
+      "अनुच्छेद 42",
+      "अनुच्छेद 43",
+      "अनुच्छेद 47"
+    ],
+    "ans": 4,
+    "solution": "<b>Solution (EN):</b><br>Article !47! of the Indian Constitution directs the State to raise the level of nutrition and the standard of living of its people and to improve public health.<br><br><b>Solution (HI):</b><br>भारतीय संविधान का अनुच्छेद !47! राज्य को अपने लोगों के पोषण स्तर और जीवन स्तर को ऊपर उठाने तथा सार्वजनिक स्वास्थ्य में सुधार करने का निर्देश देता है।<br><br><b>Short Trick:</b><br>Article !47!: Nutrition, Standard of living, and Public Health.<br><br><b>Final Answer:</b> !4!"
+  },
+  {
+    "section": "General Knowledge",
+    "topic": "Geography",
+    "difficulty": "Medium",
+    "q_en": "Which Indian island lies between Amini Island to the south and Chetlat Island to the north?",
+    "q_hi": "कौन सा भारतीय द्वीप दक्षिण में अमिनी द्वीप और उत्तर में चेतलाट द्वीप के बीच स्थित है?",
+    "op_en": [
+      "Kalpeni",
+      "Kiltan",
+      "Kadmat",
+      "Andrott"
+    ],
+    "op_hi": [
+      "कल्पेनी",
+      "किल्टान",
+      "कडमट",
+      "एंड्रोट"
+    ],
+    "ans": 3,
+    "solution": "<b>Solution (EN):</b><br>Kadmat Island, also known as Cardamom Island, belongs to the Amindivi subgroup of islands of the Lakshadweep archipelago in India. It lies between Amini Island to the south and Chetlat Island to the north.<br><br><b>Solution (HI):</b><br>कडमट द्वीप, जिसे इलायची द्वीप भी कहा जाता है, भारत में लक्षद्वीप द्वीपसमूह के अमीनदीवी उपसमूह का हिस्सा है। यह दक्षिण में अमिनी द्वीप और उत्तर में चेतलाट द्वीप के बीच स्थित है।<br><br><b>Short Trick:</b><br>North to South in Amindivi: Chetlat !\\\\rightarrow! Kadmat !\\\\rightarrow! Amini.<br><br><b>Final Answer:</b> !3!"
+  },
+  {
+    "section": "General Knowledge",
+    "topic": "Modern History",
+    "difficulty": "Medium",
+    "q_en": "Who was a prominent moderate leader and a renowned economist?",
+    "q_hi": "एक प्रमुख उदारवादी नेता और प्रसिद्ध अर्थशास्त्री कौन थे?",
+    "op_en": [
+      "Dadabhai Naoroji",
+      "Bipin Chandra Pal",
+      "Lala Lajpat Rai",
+      "Bal Gangadhar Tilak"
+    ],
+    "op_hi": [
+      "दादाभाई नौरोजी",
+      "बिपिन चंद्र पाल",
+      "लाला लाजपत राय",
+      "बाल गंगाधर तिलक"
+    ],
+    "ans": 1,
+    "solution": "<b>Solution (EN):</b><br>Dadabhai Naoroji, known as the 'Grand Old Man of India', was a prominent moderate leader of the Indian National Congress. He was also a renowned economist, famous for his 'Drain of Wealth' theory which explained how British policies were impoverishing India.<br><br><b>Solution (HI):</b><br>दादाभाई नौरोजी, जिन्हें 'ग्रैंड ओल्ड मैन ऑफ इंडिया' के रूप में जाना जाता है, भारतीय राष्ट्रीय कांग्रेस के एक प्रमुख उदारवादी नेता थे। वह एक प्रसिद्ध अर्थशास्त्री भी थे, जो अपने 'धन की निकासी' (Drain of Wealth) सिद्धांत के लिए प्रसिद्ध थे।<br><br><b>Short Trick:</b><br>Moderate + Economist = Dadabhai Naoroji (Drain of Wealth theory).<br><br><b>Final Answer:</b> !1!"
+  },
+  {
+    "section": "General Knowledge",
+    "topic": "Static GK",
+    "difficulty": "Medium",
+    "q_en": "At which of the following places was the Eastern Regional Language Centre established in 1970?",
+    "q_hi": "1970 में निम्नलिखित में से किस स्थान पर पूर्वी क्षेत्रीय भाषा केंद्र (Eastern Regional Language Centre) की स्थापना की गई थी?",
+    "op_en": [
+      "Kolkata",
+      "Patna",
+      "Bhubaneswar",
+      "Guwahati"
+    ],
+    "op_hi": [
+      "कोलकाता",
+      "पटना",
+      "भुवनेश्वर",
+      "गुवाहाटी"
+    ],
+    "ans": 3,
+    "solution": "<b>Solution (EN):</b><br>The Eastern Regional Language Centre was established in Bhubaneswar (Odisha) in !1970! under the Central Institute of Indian Languages (CIIL), Ministry of Education, Government of India.<br><br><b>Solution (HI):</b><br>पूर्वी क्षेत्रीय भाषा केंद्र की स्थापना !1970! में भारत सरकार के शिक्षा मंत्रालय के तहत केंद्रीय भारतीय भाषा संस्थान (CIIL) द्वारा भुवनेश्वर (ओडिशा) में की गई थी।<br><br><b>Short Trick:</b><br>Eastern Regional Language Centre = Bhubaneswar, Odisha (!1970!).<br><br><b>Final Answer:</b> !3!"
+  },
+  {
+    "section": "General Knowledge",
+    "topic": "Biology",
+    "difficulty": "Medium",
+    "q_en": "Which type of neuron in the human nervous system carries electrochemical impulses away from the central nervous system to effectors such as muscles or glands, enabling response or action?",
+    "q_hi": "मानव तंत्रिका तंत्र में किस प्रकार का न्यूरॉन इलेक्ट्रोकेमिकल आवेगों को केंद्रीय तंत्रिका तंत्र से मांसपेशियों या ग्रंथियों जैसे प्रभावकों तक ले जाता है, जिससे प्रतिक्रिया या क्रिया सक्षम होती है?",
+    "op_en": [
+      "Relay neurons",
+      "Sensory neurons",
+      "Motor neurons",
+      "Interneurons"
+    ],
+    "op_hi": [
+      "रिले न्यूरॉन्स",
+      "संवेदी न्यूरॉन्स",
+      "मोटर न्यूरॉन्स",
+      "इंटरन्यूरॉन्स"
+    ],
+    "ans": 3,
+    "solution": "<b>Solution (EN):</b><br>Motor neurons (also known as efferent neurons) carry signals away from the central nervous system (brain and spinal cord) to the muscles and glands (effectors) to produce movement or physical action.<br><br><b>Solution (HI):</b><br>मोटर न्यूरॉन्स (जिन्हें अपवाही न्यूरॉन्स भी कहा जाता है) केंद्रीय तंत्रिका तंत्र (मस्तिष्क और रीढ़ की हड्डी) से संकेतों को मांसपेशियों और ग्रंथियों (प्रभावकों) तक ले जाते हैं ताकि गति या शारीरिक क्रिया उत्पन्न की जा सके।<br><br><b>Short Trick:</b><br>Sensory = Body to Brain (Input). Motor = Brain to Body (Output/Action).<br><br><b>Final Answer:</b> !3!"
+  },
+  {
+    "section": "General Knowledge",
+    "topic": "Indian Polity",
+    "difficulty": "Medium",
+    "q_en": "In metropolitan cities of India, First Class Magistrates are known as ____.",
+    "q_hi": "भारत के महानगरीय शहरों में, प्रथम श्रेणी के मजिस्ट्रेट को ____ के रूप में जाना जाता है।",
+    "op_en": [
+      "Metropolitan Magistrates",
+      "State Judges",
+      "Municipal Judges",
+      "Urban Magistrates"
+    ],
+    "op_hi": [
+      "मेट्रोपॉलिटन मजिस्ट्रेट",
+      "स्टेट जज",
+      "म्युनिसिपल जज",
+      "अर्बन मजिस्ट्रेट"
+    ],
+    "ans": 1,
+    "solution": "<b>Solution (EN):</b><br>According to the Code of Criminal Procedure (CrPC), in metropolitan areas (cities with a population of more than one million), Judicial Magistrates of the First Class are designated as Metropolitan Magistrates.<br><br><b>Solution (HI):</b><br>आपराधिक प्रक्रिया संहिता (CrPC) के अनुसार, महानगरीय क्षेत्रों (दस लाख से अधिक आबादी वाले शहर) में, प्रथम श्रेणी के न्यायिक मजिस्ट्रेटों को मेट्रोपॉलिटन मजिस्ट्रेट के रूप में नामित किया जाता है।<br><br><b>Short Trick:</b><br>First Class Magistrate in Metro City = Metropolitan Magistrate.<br><br><b>Final Answer:</b> !1!"
+  },
+  {
+    "section": "General Knowledge",
+    "topic": "Indian Polity",
+    "difficulty": "Medium",
+    "q_en": "Who appoints the Advocate General of the State?",
+    "q_hi": "राज्य के महाधिवक्ता (Advocate General) की नियुक्ति कौन करता है?",
+    "op_en": [
+      "Governor",
+      "President",
+      "Chief Justice",
+      "Chief Minister"
+    ],
+    "op_hi": [
+      "राज्यपाल",
+      "राष्ट्रपति",
+      "मुख्य न्यायाधीश",
+      "मुख्यमंत्री"
+    ],
+    "ans": 1,
+    "solution": "<b>Solution (EN):</b><br>According to Article !165! of the Indian Constitution, the Advocate General of a State is appointed by the Governor of that State. They act as the highest law officer in the state.<br><br><b>Solution (HI):</b><br>भारतीय संविधान के अनुच्छेद !165! के अनुसार, किसी राज्य के महाधिवक्ता (Advocate General) की नियुक्ति उस राज्य के राज्यपाल द्वारा की जाती है। वह राज्य का सर्वोच्च विधि अधिकारी होता है।<br><br><b>Short Trick:</b><br>Attorney General (Centre) = Appointed by President.<br>Advocate General (State) = Appointed by Governor.<br><br><b>Final Answer:</b> !1!"
+  },
+  {
+    "section": "General Knowledge",
+    "topic": "Chemistry",
+    "difficulty": "Medium",
+    "q_en": "Consider the redox reaction: !H_2 + CuO \\\\\\\\rightarrow Cu + H_2O!.<br>During this reaction, which substance undergoes oxidation, meaning it loses electrons and its oxidation state increases?",
+    "q_hi": "रेडॉक्स प्रतिक्रिया पर विचार करें: !H_2 + CuO \\\\\\\\rightarrow Cu + H_2O!.<br>इस प्रतिक्रिया के दौरान, किस पदार्थ का ऑक्सीकरण होता है, जिसका अर्थ है कि यह इलेक्ट्रॉनों को खो देता है और इसकी ऑक्सीकरण अवस्था बढ़ जाती है?",
+    "op_en": [
+      "Hydrogen (!H_2!)",
+      "Water (!H_2O!)",
+      "Copper (!Cu!)",
+      "Copper(II) oxide (!CuO!)"
+    ],
+    "op_hi": [
+      "हाइड्रोजन (!H_2!)",
+      "जल (!H_2O!)",
+      "तांबा (!Cu!)",
+      "कॉपर(II) ऑक्साइड (!CuO!)"
+    ],
+    "ans": 1,
+    "solution": "<b>Solution (EN):</b><br>In the given reaction, Hydrogen (!H_2!) gains oxygen to form water (!H_2O!). The addition of oxygen, loss of hydrogen, or loss of electrons is termed as oxidation. Therefore, !H_2! undergoes oxidation while !CuO! undergoes reduction.<br><br><b>Solution (HI):</b><br>दी गई प्रतिक्रिया में, हाइड्रोजन (!H_2!) ऑक्सीजन प्राप्त करके जल (!H_2O!) बनाता है। ऑक्सीजन का जुड़ना, हाइड्रोजन का हटना या इलेक्ट्रॉनों का खोना ऑक्सीकरण (Oxidation) कहलाता है। इसलिए, !H_2! का ऑक्सीकरण होता है जबकि !CuO! का अपचयन (Reduction) होता है।<br><br><b>Short Trick:</b><br>Gaining Oxygen = Oxidation. Here, !H_2! becomes !H_2O! (gains oxygen).<br><br><b>Final Answer:</b> !1!"
+  },
+  {
+    "section": "General Knowledge",
+    "topic": "Indian Polity",
+    "difficulty": "Medium",
+    "q_en": "Which Constitutional Amendment provides for the establishment of the Panchayati Raj System in India?",
+    "q_hi": "कौन सा संविधान संशोधन भारत में पंचायती राज व्यवस्था की स्थापना का प्रावधान करता है?",
+    "op_en": [
+      "73rd Constitutional Amendment",
+      "74th Constitutional Amendment",
+      "42nd Constitutional Amendment",
+      "97th Constitutional Amendment"
+    ],
+    "op_hi": [
+      "73वां संविधान संशोधन",
+      "74वां संविधान संशोधन",
+      "42वां संविधान संशोधन",
+      "97वां संविधान संशोधन"
+    ],
+    "ans": 1,
+    "solution": "<b>Solution (EN):</b><br>The !73^{rd}! Constitutional Amendment Act of !1992! provides for the establishment of the Panchayati Raj System (rural local self-government) in India and added Part IX to the Constitution.<br><br><b>Solution (HI):</b><br>!1992! का !73^{rd}! संविधान संशोधन अधिनियम भारत में पंचायती राज व्यवस्था (ग्रामीण स्थानीय स्वशासन) की स्थापना का प्रावधान करता है और इसके द्वारा संविधान में भाग IX जोड़ा गया।<br><br><b>Short Trick:</b><br>!73^{rd}! Amendment = Panchayati Raj (Rural).<br>!74^{th}! Amendment = Municipalities (Urban).<br><br><b>Final Answer:</b> !1!"
+  },
+  {
+    "section": "General Knowledge",
+    "topic": "Modern History",
+    "difficulty": "Medium",
+    "q_en": "The Aligarh Institute Gazette, an organ of the Scientific Society, was launched in ______ and succeeded in agitating the minds in the traditional Muslim society.",
+    "q_hi": "साइंटिफिक सोसाइटी का एक मुखपत्र, 'अलीगढ़ इंस्टीट्यूट गजट', ______ में शुरू किया गया था और यह पारंपरिक मुस्लिम समाज में लोगों के दिमाग को झकझोरने में सफल रहा।",
+    "op_en": [
+      "1861",
+      "1885",
+      "1879",
+      "1866"
+    ],
+    "op_hi": [
+      "1861",
+      "1885",
+      "1879",
+      "1866"
+    ],
+    "ans": 4,
+    "solution": "<b>Solution (EN):</b><br>The Aligarh Institute Gazette was introduced in !1866! by Sir Syed Ahmed Khan. It was the first multilingual journal of India, aimed at spreading awareness and cultivating a scientific temperament among the traditional Muslim society.<br><br><b>Solution (HI):</b><br>अलीगढ़ इंस्टीट्यूट गजट की शुरुआत !1866! में सर सैयद अहमद खान द्वारा की गई थी। यह भारत की पहली बहुभाषी पत्रिका थी, जिसका उद्देश्य पारंपरिक मुस्लिम समाज के बीच जागरूकता फैलाना और वैज्ञानिक दृष्टिकोण विकसित करना था।<br><br><b>Short Trick:</b><br>Aligarh Institute Gazette = Sir Syed Ahmed Khan = !1866!.<br><br><b>Final Answer:</b> !4!"
+  },
+  {
+    "section": "General Knowledge",
+    "topic": "Indian Polity",
+    "difficulty": "Medium",
+    "q_en": "Which Constitutional Part contains the Directive Principles of State Policy?",
+    "q_hi": "संविधान के किस भाग में राज्य के नीति निदेशक तत्व (DPSP) शामिल हैं?",
+    "op_en": [
+      "Part III",
+      "Part V",
+      "Part VI",
+      "Part IV"
+    ],
+    "op_hi": [
+      "भाग III",
+      "भाग V",
+      "भाग VI",
+      "भाग IV"
+    ],
+    "ans": 4,
+    "solution": "<b>Solution (EN):</b><br>Part IV of the Indian Constitution (Articles !36! to !51!) deals with the Directive Principles of State Policy (DPSP), which were borrowed from the Irish Constitution.<br><br><b>Solution (HI):</b><br>भारतीय संविधान का भाग IV (अनुच्छेद !36! से !51!) राज्य के नीति निदेशक तत्वों (DPSP) से संबंधित है, जिन्हें आयरिश संविधान से लिया गया था।<br><br><b>Short Trick:</b><br>Part III = Fundamental Rights.<br>Part IV = DPSP.<br>Part IVA = Fundamental Duties.<br><br><b>Final Answer:</b> !4!"
+  },
+  {
+    "section": "General Knowledge",
+    "topic": "Geography",
+    "difficulty": "Medium",
+    "q_en": "The border line between India and Bangladesh is known as which of the following?",
+    "q_hi": "भारत और बांग्लादेश के बीच की सीमा रेखा को निम्नलिखित में से किस नाम से जाना जाता है?",
+    "op_en": [
+      "Radcliffe Line",
+      "McMahon Line",
+      "Durand Line",
+      "Line of Actual Control"
+    ],
+    "op_hi": [
+      "रैडक्लिफ रेखा",
+      "मैकमोहन रेखा",
+      "डूरंड रेखा",
+      "वास्तविक नियंत्रण रेखा"
+    ],
+    "ans": 1,
+    "solution": "<b>Solution (EN):</b><br>The Radcliffe Line was announced on !17! August !1947! as a boundary demarcation line between India and Pakistan upon the Partition of India. Since Bangladesh was originally East Pakistan, the India-Bangladesh border is also known as the Radcliffe Line.<br><br><b>Solution (HI):</b><br>रैडक्लिफ रेखा की घोषणा !17! अगस्त !1947! को भारत के विभाजन पर भारत और पाकिस्तान के बीच सीमा निर्धारण रेखा के रूप में की गई थी। चूंकि बांग्लादेश मूल रूप से पूर्वी पाकिस्तान था, इसलिए भारत-बांग्लादेश सीमा को भी रैडक्लिफ रेखा के रूप में जाना जाता है।<br><br><b>Short Trick:</b><br>India & Pakistan / Bangladesh = Radcliffe Line.<br>India & China = McMahon Line.<br>India & Afghanistan = Durand Line.<br><br><b>Final Answer:</b> !1!"
+  },
+  {
+    "section": "General Knowledge",
+    "topic": "Indian Polity",
+    "difficulty": "Medium",
+    "q_en": "What is the significance of Article 21 in the Indian Constitution?",
+    "q_hi": "भारतीय संविधान में अनुच्छेद 21 का क्या महत्व है?",
+    "op_en": [
+      "It protects the right to life and personal liberty",
+      "It provides freedom of speech and expression",
+      "It guarantees freedom of religion",
+      "It ensures equality before law"
+    ],
+    "op_hi": [
+      "यह जीवन और व्यक्तिगत स्वतंत्रता के अधिकार की रक्षा करता है",
+      "यह भाषण और अभिव्यक्ति की स्वतंत्रता प्रदान करता है",
+      "यह धर्म की स्वतंत्रता की गारंटी देता है",
+      "यह कानून के समक्ष समानता सुनिश्चित करता है"
+    ],
+    "ans": 1,
+    "solution": "<b>Solution (EN):</b><br>Article !21! of the Indian Constitution states that \"No person shall be deprived of his life or personal liberty except according to procedure established by law.\" It is one of the most important Fundamental Rights.<br><br><b>Solution (HI):</b><br>भारतीय संविधान का अनुच्छेद !21! कहता है कि \"किसी भी व्यक्ति को उसके प्राण या दैहिक स्वतंत्रता से विधि द्वारा स्थापित प्रक्रिया के अनुसार ही वंचित किया जाएगा, अन्यथा नहीं।\" यह सबसे महत्वपूर्ण मौलिक अधिकारों में से एक है।<br><br><b>Short Trick:</b><br>Article !14! = Equality.<br>Article !19! = Freedom of Speech.<br>Article !21! = Right to Life.<br><br><b>Final Answer:</b> !1!"
+  },
+  {
+    "section": "General Knowledge",
+    "topic": "Economy",
+    "difficulty": "Medium",
+    "q_en": "The Second Five Year Plan in India focused on the development of which sector?",
+    "q_hi": "भारत में दूसरी पंचवर्षीय योजना ने किस क्षेत्र के विकास पर ध्यान केंद्रित किया?",
+    "op_en": [
+      "Trade and Commerce",
+      "Heavy Industries",
+      "Agriculture",
+      "Services"
+    ],
+    "op_hi": [
+      "व्यापार और वाणिज्य",
+      "भारी उद्योग",
+      "कृषि",
+      "सेवाएं"
+    ],
+    "ans": 2,
+    "solution": "<b>Solution (EN):</b><br>The Second Five Year Plan (!1956! - !1961!) was based on the Mahalanobis model and focused primarily on rapid industrialization, particularly the development of heavy industries and capital goods.<br><br><b>Solution (HI):</b><br>दूसरी पंचवर्षीय योजना (!1956! - !1961!) महालनोबिस मॉडल पर आधारित थी और इसमें तीव्र औद्योगीकरण, विशेष रूप से भारी उद्योगों और पूंजीगत वस्तुओं के विकास पर मुख्य रूप से ध्यान केंद्रित किया गया था।<br><br><b>Short Trick:</b><br>First Plan = Agriculture, Second Plan = Heavy Industries.<br><br><b>Final Answer:</b> !2!"
+  },
+  {
+    "section": "General Knowledge",
+    "topic": "Current Affairs",
+    "difficulty": "Medium",
+    "q_en": "Where did the World Sports Summit take place in December 2025?",
+    "q_hi": "दिसंबर !2025! में विश्व खेल शिखर सम्मेलन (World Sports Summit) कहाँ आयोजित हुआ?",
+    "op_en": [
+      "Abu Dhabi, United Arab Emirates",
+      "Dubai, United Arab Emirates",
+      "Doha, Qatar",
+      "Riyadh, Saudi Arabia"
+    ],
+    "op_hi": [
+      "अबू धाबी, संयुक्त अरब अमीरात",
+      "दुबई, संयुक्त अरब अमीरात",
+      "दोहा, कतर",
+      "रियाद, सऊदी अरब"
+    ],
+    "ans": 2,
+    "solution": "<b>Solution (EN):</b><br>The World Sports Summit in December !2025! was held in Dubai, United Arab Emirates, bringing together global sports leaders and stakeholders to discuss the future of the sports ecosystem.<br><br><b>Solution (HI):</b><br>दिसंबर !2025! में विश्व खेल शिखर सम्मेलन दुबई, संयुक्त अरब अमीरात में आयोजित किया गया था, जिसमें खेल पारिस्थितिकी तंत्र के भविष्य पर चर्चा करने के लिए वैश्विक खेल जगत के नेताओं और हितधारकों ने भाग लिया।<br><br><b>Short Trick:</b><br>World Sports Summit !2025! = Dubai, UAE.<br><br><b>Final Answer:</b> !2!"
+  },
+  {
+    "section": "General Knowledge",
+    "topic": "Agriculture and Schemes",
+    "difficulty": "Medium",
+    "q_en": "The electronic National Agriculture Market (e-NAM) was launched in which year?",
+    "q_hi": "इलेक्ट्रॉनिक नेशनल एग्रीकल्चर मार्केट (e-NAM) किस वर्ष लॉन्च किया गया था?",
+    "op_en": [
+      "2008",
+      "2013",
+      "2005",
+      "2016"
+    ],
+    "op_hi": [
+      "2008",
+      "2013",
+      "2005",
+      "2016"
+    ],
+    "ans": 4,
+    "solution": "<b>Solution (EN):</b><br>e-NAM (National Agriculture Market) is a pan-India electronic trading portal launched by the Government of India on !14! April !2016! to create a unified national market for agricultural commodities.<br><br><b>Solution (HI):</b><br>e-NAM (राष्ट्रीय कृषि बाजार) एक अखिल भारतीय इलेक्ट्रॉनिक ट्रेडिंग पोर्टल है, जिसे भारत सरकार द्वारा !14! अप्रैल !2016! को कृषि वस्तुओं के लिए एक एकीकृत राष्ट्रीय बाजार बनाने के उद्देश्य से लॉन्च किया गया था।<br><br><b>Short Trick:</b><br>e-NAM launch year = !2016!.<br><br><b>Final Answer:</b> !4!"
+  },
+  {
+    "section": "General Knowledge",
+    "topic": "Economy",
+    "difficulty": "Medium",
+    "q_en": "What is the definition of a 'Sunrise Industry'?",
+    "q_hi": "'सनराइज इंडस्ट्री' (Sunrise Industry) की परिभाषा क्या है?",
+    "op_en": [
+      "An industry that has reached its peak growth",
+      "A rapidly growing sector with potential",
+      "A sector that requires significant government intervention",
+      "An industry with a long-established history"
+    ],
+    "op_hi": [
+      "वह उद्योग जो अपनी चरम वृद्धि पर पहुँच चुका है",
+      "क्षमता वाला एक तेजी से बढ़ता हुआ क्षेत्र",
+      "एक ऐसा क्षेत्र जिसे महत्वपूर्ण सरकारी हस्तक्षेप की आवश्यकता है",
+      "लंबे समय से स्थापित इतिहास वाला उद्योग"
+    ],
+    "ans": 2,
+    "solution": "<b>Solution (EN):</b><br>A sunrise industry is a new and rapidly growing sector that is expected to become highly important in the future. It is characterized by high growth rates, innovation, and strong potential (e.g., renewable energy, Artificial Intelligence).<br><br><b>Solution (HI):</b><br>सनराइज इंडस्ट्री एक नया और तेजी से बढ़ने वाला क्षेत्र है जिसके भविष्य में अत्यंत महत्वपूर्ण होने की उम्मीद है। इसकी विशेषता उच्च विकास दर, नवाचार और मजबूत क्षमता होती है (जैसे नवीकरणीय ऊर्जा, आर्टिफिशियल इंटेलिजेंस)।<br><br><b>Short Trick:</b><br>Sunrise = New beginning/growing. Thus, a rapidly growing sector with future potential.<br><br><b>Final Answer:</b> !2!"
+  },
+  {
+    "section": "General Knowledge",
+    "topic": "Indian Geography",
+    "difficulty": "Medium",
+    "q_en": "Which Indian states share a land border with Myanmar?",
+    "q_hi": "कौन से भारतीय राज्य म्यांमार के साथ भूमि सीमा साझा करते हैं?",
+    "op_en": [
+      "Bihar, Uttar Pradesh, West Bengal, Nagaland",
+      "Assam, Meghalaya, Tripura, Jharkhand",
+      "Arunachal Pradesh, Nagaland, Manipur, Mizoram",
+      "Sikkim, West Bengal, Assam, Arunachal Pradesh"
+    ],
+    "op_hi": [
+      "बिहार, उत्तर प्रदेश, पश्चिम बंगाल, नागालैंड",
+      "असम, मेघालय, त्रिपुरा, झारखंड",
+      "अरुणाचल प्रदेश, नागालैंड, मणिपुर, मिजोरम",
+      "सिक्किम, पश्चिम बंगाल, असम, अरुणाचल प्रदेश"
+    ],
+    "ans": 3,
+    "solution": "<b>Solution (EN):</b><br>India shares a !1,643! km long land border with Myanmar. The four Indian states that share this border are Arunachal Pradesh, Nagaland, Manipur, and Mizoram.<br><br><b>Solution (HI):</b><br>भारत म्यांमार के साथ !1,643! किमी लंबी भूमि सीमा साझा करता है। यह सीमा साझा करने वाले चार भारतीय राज्य अरुणाचल प्रदेश, नागालैंड, मणिपुर और मिजोरम हैं।<br><br><b>Short Trick:</b><br>Remember the acronym 'Aruna Mami' (Aru - Arunachal Pradesh, Na - Nagaland, Ma - Manipur, Mi - Mizoram).<br><br><b>Final Answer:</b> !3!"
+  },
+  {
+    "section": "General Knowledge",
+    "topic": "Awards and Honours",
+    "difficulty": "Medium",
+    "q_en": "Which women cricketer was awarded the Padma Shri, 2026?",
+    "q_hi": "किस महिला क्रिकेटर को !2026! में पद्म श्री से सम्मानित किया गया?",
+    "op_en": [
+      "Deepti Sharma",
+      "Smriti Mandhana",
+      "Harmanpreet Kaur",
+      "Shafali Verma"
+    ],
+    "op_hi": [
+      "दीप्ति शर्मा",
+      "स्मृति मंधाना",
+      "हरमनप्रीत कौर",
+      "शेफाली वर्मा"
+    ],
+    "ans": 3,
+    "solution": "<b>Solution (EN):</b><br>Harmanpreet Kaur, the dynamic captain of the Indian women's national cricket team, was awarded the prestigious Padma Shri in !2026! for her outstanding contribution to the field of sports.<br><br><b>Solution (HI):</b><br>भारतीय महिला राष्ट्रीय क्रिकेट टीम की कप्तान हरमनप्रीत कौर को खेलों के क्षेत्र में उनके उत्कृष्ट योगदान के लिए !2026! में प्रतिष्ठित पद्म श्री से सम्मानित किया गया।<br><br><b>Short Trick:</b><br>Padma Shri !2026! (Women's Cricket) = Harmanpreet Kaur.<br><br><b>Final Answer:</b> !3!"
+  },
+  {
+    "section": "General Knowledge",
+    "topic": "Science and Technology",
+    "difficulty": "Medium",
+    "q_en": "Which Indian deep-tech startup, incubated at IIT Kanpur, has developed the proprietary zinc-based battery technology known as ZincGel® featured by NITI Aayog in March 2026?",
+    "q_hi": "आईआईटी कानपुर (IIT Kanpur) में इनक्यूबेट किए गए किस भारतीय डीप-टेक स्टार्टअप ने ZincGel® नामक मालिकाना (proprietary) जिंक-आधारित बैटरी तकनीक विकसित की है, जिसे मार्च !2026! में नीति आयोग द्वारा प्रदर्शित किया गया था?",
+    "op_en": [
+      "Offgrid Energy Labs",
+      "Gegadyne Energy",
+      "Pravaig Dynamics",
+      "Log9 Materials"
+    ],
+    "op_hi": [
+      "ऑफ़ग्रिड एनर्जी लैब्स",
+      "गेगाडाइन एनर्जी",
+      "प्रवेग डायनेमिक्स",
+      "लॉग9 मटेरियल्स"
+    ],
+    "ans": 1,
+    "solution": "<b>Solution (EN):</b><br>Offgrid Energy Labs, a deep-tech startup incubated at IIT Kanpur, developed the proprietary ZincGel® battery technology. It was featured by NITI Aayog in March !2026! as a safe, sustainable, and cost-effective alternative to traditional lithium-ion batteries.<br><br><b>Solution (HI):</b><br>आईआईटी कानपुर में इनक्यूबेट किए गए एक डीप-टेक स्टार्टअप, ऑफ़ग्रिड एनर्जी लैब्स (Offgrid Energy Labs) ने मालिकाना ZincGel® बैटरी तकनीक विकसित की है। इसे मार्च !2026! में नीति आयोग द्वारा पारंपरिक लिथियम-आयन बैटरी के सुरक्षित, टिकाऊ और किफायती विकल्प के रूप में प्रदर्शित किया गया था।<br><br><b>Short Trick:</b><br>ZincGel® Technology = Offgrid Energy Labs (IIT Kanpur).<br><br><b>Final Answer:</b> !1!"
+  },
+  {
+    "section": "General Knowledge",
+    "topic": "Current Affairs",
+    "difficulty": "Medium",
+    "q_en": "As per PIB October, 2025 which policy think tank of the Government of India released twin reports on India’s Services Sector, analysing Gross Value Added (GVA) trends, employment patterns, and state-wise dynamics?",
+    "q_hi": "अक्टूबर !2025! में पीआईबी (PIB) के अनुसार, भारत सरकार के किस नीति थिंक टैंक ने भारत के सेवा क्षेत्र (Services Sector) पर दोहरी रिपोर्ट जारी की, जिसमें सकल मूल्य वर्धित (GVA) रुझानों, रोजगार पैटर्न और राज्य-वार गतिशीलता का विश्लेषण किया गया है?",
+    "op_en": [
+      "Capacity Building Commission",
+      "National Human Rights Commission",
+      "Ministry of Cooperation",
+      "NITI Aayog"
+    ],
+    "op_hi": [
+      "क्षमता निर्माण आयोग",
+      "राष्ट्रीय मानवाधिकार आयोग",
+      "सहकारिता मंत्रालय",
+      "नीति आयोग"
+    ],
+    "ans": 4,
+    "solution": "<b>Solution (EN):</b><br>According to the PIB release in October !2025!, NITI Aayog released the twin reports on India’s Services Sector. The reports aim to provide comprehensive insights into GVA trends, employment dynamics, and the contribution of individual states to the sector.<br><br><b>Solution (HI):</b><br>अक्टूबर !2025! में पीआईबी (PIB) की रिपोर्ट के अनुसार, भारत सरकार के प्रमुख थिंक टैंक नीति आयोग (NITI Aayog) ने भारत के सेवा क्षेत्र पर दोहरी रिपोर्ट जारी की, जिसका उद्देश्य GVA रुझानों, रोजगार की गतिशीलता और राज्यों के योगदान के बारे में व्यापक जानकारी प्रदान करना था।<br><br><b>Short Trick:</b><br>Reports on Services Sector (GVA & Employment dynamics) = NITI Aayog.<br><br><b>Final Answer:</b> !4!"
+  },
+  {
+    "section": "General Knowledge",
+    "topic": "Government Schemes",
+    "difficulty": "Medium",
+    "q_en": "What kind of trees will be planted under the “Rajiv Gandhi Van Samvardhan Yojana”?",
+    "q_hi": "“राजीव गांधी वन संवर्धन योजना” के तहत किस प्रकार के पेड़ लगाए जाएंगे?",
+    "op_en": [
+      "Timber-producing trees",
+      "Decorative trees",
+      "Medicinal plants",
+      "Fruit-bearing trees"
+    ],
+    "op_hi": [
+      "इमारती लकड़ी वाले पेड़",
+      "सजावटी पेड़",
+      "औषधीय पौधे",
+      "फलदार पेड़"
+    ],
+    "ans": 4,
+    "solution": "<b>Solution (EN):</b><br>Under the Rajiv Gandhi Van Samvardhan Yojana, the emphasis is placed on planting fruit-bearing trees. This initiative aims to increase the green cover while simultaneously providing nutritional and livelihood benefits to the local communities.<br><br><b>Solution (HI):</b><br>राजीव गांधी वन संवर्धन योजना के तहत, मुख्य रूप से फलदार पेड़ (Fruit-bearing trees) लगाने पर ध्यान केंद्रित किया गया है। इस पहल का उद्देश्य हरित आवरण बढ़ाने के साथ-साथ स्थानीय समुदायों को पोषण और आजीविका संबंधी लाभ प्रदान करना है।<br><br><b>Short Trick:</b><br>Rajiv Gandhi Van Samvardhan Yojana = Fruit-bearing trees.<br><br><b>Final Answer:</b> !4!"
+  },
+  {
+    "section": "General Knowledge",
+    "topic": "Awards and Honours",
+    "difficulty": "Medium",
+    "q_en": "Who won the first-rank National Gopal Ratna Award in the Best Dairy Farmer category (Non-NER) in 2025?",
+    "q_hi": "!2025! में सर्वश्रेष्ठ डेयरी किसान श्रेणी (Non-NER) में प्रथम रैंक का राष्ट्रीय गोपाल रत्न पुरस्कार किसने जीता?",
+    "op_en": [
+      "Dr. Kankanala Krishna Reddy",
+      "Mrs. Anuradha Chakali",
+      "Mr. Harshit Jhuria",
+      "Aravind Yashavant Patil"
+    ],
+    "op_hi": [
+      "डॉ. कंकनाला कृष्णा रेड्डी",
+      "श्रीमती अनुराधा चकाली",
+      "श्री हर्षित झुरिया",
+      "अरविंद यशवंत पाटिल"
+    ],
+    "ans": 4,
+    "solution": "<b>Solution (EN):</b><br>Aravind Yashavant Patil was awarded the first-rank National Gopal Ratna Award !2025! in the Best Dairy Farmer category (Non-NER) for his exemplary dedication and contribution to dairy farming.<br><br><b>Solution (HI):</b><br>डेयरी फार्मिंग में उनके अनुकरणीय समर्पण और योगदान के लिए अरविंद यशवंत पाटिल को !2025! में सर्वश्रेष्ठ डेयरी किसान श्रेणी (Non-NER) में प्रथम रैंक के राष्ट्रीय गोपाल रत्न पुरस्कार से सम्मानित किया गया।<br><br><b>Short Trick:</b><br>National Gopal Ratna Award !2025! (Best Dairy Farmer, Non-NER) = Aravind Yashavant Patil.<br><br><b>Final Answer:</b> !4!"
+  },
+  {
+    "section": "Mathematics",
+    "topic": "LCM and HCF",
+    "difficulty": "Easy",
+    "q_en": "Two numbers are in the ratio of !5 : 7!. Their LCM is !315!. Find their HCF.",
+    "q_hi": "दो संख्याएँ !5 : 7! के अनुपात में हैं। उनका लघुत्तम समापवर्त्य (LCM) !315! है। उनका महत्तम समापवर्तक (HCF) ज्ञात कीजिए।",
+    "op_en": [
+      "!8!",
+      "!7!",
+      "!9!",
+      "!11!"
+    ],
+    "op_hi": [
+      "!8!",
+      "!7!",
+      "!9!",
+      "!11!"
+    ],
+    "ans": 3,
+    "solution": "<b>Solution (EN):</b><br>Let the HCF of the two numbers be !x!.<br>Since the numbers are in the ratio !5 : 7!, the numbers are !5x! and !7x!.<br>We know that for co-prime ratios, LCM = Product of ratios !\\\\times! HCF.<br>!\\\\Rightarrow 315 = 5 \\\\times 7 \\\\times x!<br>!\\\\Rightarrow 315 = 35x!<br>!\\\\Rightarrow x = \\\\dfrac{315}{35} = 9!<br>Thus, the HCF is !9!.<br><br><b>Solution (HI):</b><br>माना दोनों संख्याओं का HCF !x! है।<br>चूंकि संख्याएँ !5 : 7! के अनुपात में हैं, इसलिए संख्याएँ !5x! और !7x! हैं।<br>हम जानते हैं कि सह-अभाज्य अनुपातों के लिए, LCM = अनुपातों का गुणनफल !\\\\times! HCF.<br>!\\\\Rightarrow 315 = 5 \\\\times 7 \\\\times x!<br>!\\\\Rightarrow 315 = 35x!<br>!\\\\Rightarrow x = \\\\dfrac{315}{35} = 9!<br>अतः HCF !9! है।<br><br><b>Short Trick:</b><br>HCF = !\\\\dfrac{\\\\text{LCM}}{\\\\text{Product of ratios}}!<br>HCF = !\\\\dfrac{315}{5 \\\\times 7} = \\\\dfrac{315}{35} = 9!<br><br><b>Final Answer:</b> !9!"
+  },
+  {
+    "section": "Mathematics",
+    "topic": "Percentages",
+    "difficulty": "Easy",
+    "q_en": "A number is first increased by !20\\\\%! and then decreased by !20\\\\%!. What is the net percentage change?",
+    "q_hi": "एक संख्या में पहले !20\\\\%! की वृद्धि की जाती है और फिर !20\\\\%! की कमी की जाती है। शुद्ध प्रतिशत परिवर्तन क्या है?",
+    "op_en": [
+      "!4\\\\%! decrease",
+      "no change",
+      "!2\\\\%! decrease",
+      "!4\\\\%! increase"
+    ],
+    "op_hi": [
+      "!4\\\\%! की कमी",
+      "कोई परिवर्तन नहीं",
+      "!2\\\\%! की कमी",
+      "!4\\\\%! की वृद्धि"
+    ],
+    "ans": 1,
+    "solution": "<b>Solution (EN):</b><br>Let the original number be !100!.<br>After a !20\\\\%! increase, the number becomes !100 + 20 = 120!.<br>After a !20\\\\%! decrease on !120!, the reduction is !20\\\\%! of !120 = \\\\dfrac{20}{100} \\\\times 120 = 24!.<br>New number = !120 - 24 = 96!.<br>Net change = !100 - 96 = 4!.<br>Therefore, there is a !4\\\\%! decrease.<br><br><b>Solution (HI):</b><br>माना मूल संख्या !100! है।<br>!20\\\\%! की वृद्धि के बाद, संख्या !100 + 20 = 120! हो जाती है।<br>!120! पर !20\\\\%! की कमी के बाद, कमी !120! का !20\\\\%! = !\\\\dfrac{20}{100} \\\\times 120 = 24! होगी।<br>नई संख्या = !120 - 24 = 96!.<br>शुद्ध परिवर्तन = !100 - 96 = 4!.<br>इसलिए, !4\\\\%! की कमी हुई है।<br><br><b>Short Trick:</b><br>When a number is increased by !x\\\\%! and then decreased by !x\\\\%!, there is always a net decrease of !\\\\dfrac{x^2}{100} \\\\%!.<br>Net decrease = !\\\\dfrac{20^2}{100} = \\\\dfrac{400}{100} = 4\\\\%!.<br><br><b>Final Answer:</b> !4\\\\% \\\\text{ decrease}!"
+  },
+  {
+    "section": "Mathematics",
+    "topic": "Mixture and Alligation",
+    "difficulty": "Medium",
+    "q_en": "In what ratio must a grocer mix two varieties of wheat worth !98! Rs. per kg and !104! Rs. per kg so that if he sells the mixture at !123! Rs. per kg he may gain !23\\\\%!?",
+    "q_hi": "एक पंसारी को !98! रु. प्रति किग्रा और !104! रु. प्रति किग्रा वाली गेहूँ की दो किस्मों को किस अनुपात में मिलाना चाहिए ताकि यदि वह मिश्रण को !123! रु. प्रति किग्रा पर बेचे, तो उसे !23\\\\%! का लाभ हो?",
+    "op_en": [
+      "!3:2!",
+      "!2:1!",
+      "!5:2!",
+      "!11:6!"
+    ],
+    "op_hi": [
+      "!3:2!",
+      "!2:1!",
+      "!5:2!",
+      "!11:6!"
+    ],
+    "ans": 2,
+    "solution": "<b>Solution (EN):</b><br>Selling Price (SP) of the mixture = !123! Rs./kg.<br>Profit = !23\\\\%!.<br>Cost Price (CP) of the mixture = !\\\\dfrac{\\\\text{SP}}{100 + \\\\text{Profit} \\\\%} \\\\times 100!<br>CP = !\\\\dfrac{123}{123} \\\\times 100 = 100! Rs./kg.<br>By the rule of alligation:<br>CP of 1st variety (!98!) ----- CP of 2nd variety (!104!)<br>----------------- Mean CP (!100!) -----------------<br>!(104 - 100)! -------------------- !(100 - 98)!<br>!\\\\Rightarrow 4 : 2!<br>!\\\\Rightarrow 2 : 1!<br><br><b>Solution (HI):</b><br>मिश्रण का विक्रय मूल्य (SP) = !123! रु./किग्रा।<br>लाभ = !23\\\\%!<br>मिश्रण का क्रय मूल्य (CP) = !\\\\dfrac{\\\\text{SP}}{100 + \\\\text{लाभ} \\\\%} \\\\times 100!<br>CP = !\\\\dfrac{123}{123} \\\\times 100 = 100! रु./किग्रा।<br>मिश्रण के नियम (Alligation) के अनुसार:<br>पहली किस्म का CP (!98!) ----- दूसरी किस्म का CP (!104!)<br>----------------- मध्यमान CP (!100!) -----------------<br>!(104 - 100)! -------------------- !(100 - 98)!<br>!\\\\Rightarrow 4 : 2!<br>!\\\\Rightarrow 2 : 1!<br><br><b>Short Trick:</b><br>Mean CP = !\\\\dfrac{123}{1.23} = 100!<br>Required Ratio = !(104 - 100) : (100 - 98) = 4 : 2 = 2 : 1!<br><br><b>Final Answer:</b> !2:1!"
+  },
+  {
+    "section": "Mathematics",
+    "topic": "Simple Interest",
+    "difficulty": "Easy",
+    "q_en": "Find the duration (in years) in which !1,500! Rs. will amount to !2,220! Rs. at a rate of !4\\\\%! per annum simple interest.",
+    "q_hi": "वह अवधि (वर्षों में) ज्ञात कीजिए जिसमें !1,500! रु. की राशि !4\\\\%! वार्षिक साधारण ब्याज की दर से !2,220! रु. हो जाएगी।",
+    "op_en": [
+      "!13!",
+      "!14!",
+      "!11!",
+      "!12!"
+    ],
+    "op_hi": [
+      "!13!",
+      "!14!",
+      "!11!",
+      "!12!"
+    ],
+    "ans": 4,
+    "solution": "<b>Solution (EN):</b><br>Principal (!P!) = !1,500! Rs.<br>Amount (!A!) = !2,220! Rs.<br>Rate of interest (!R!) = !4\\\\%! per annum.<br>Simple Interest (!SI!) = !A - P = 2,220 - 1,500 = 720! Rs.<br>We know the formula for Simple Interest:<br>!SI = \\\\dfrac{P \\\\times R \\\\times T}{100}!<br>!\\\\Rightarrow 720 = \\\\dfrac{1,500 \\\\times 4 \\\\times T}{100}!<br>!\\\\Rightarrow 720 = 15 \\\\times 4 \\\\times T!<br>!\\\\Rightarrow 720 = 60T!<br>!\\\\Rightarrow T = \\\\dfrac{720}{60} = 12! years.<br><br><b>Solution (HI):</b><br>मूलधन (!P!) = !1,500! रु.<br>मिश्रधन (!A!) = !2,220! रु.<br>ब्याज दर (!R!) = !4\\\\%! वार्षिक।<br>साधारण ब्याज (!SI!) = !A - P = 2,220 - 1,500 = 720! रु.<br>हम साधारण ब्याज का सूत्र जानते हैं:<br>!SI = \\\\dfrac{P \\\\times R \\\\times T}{100}!<br>!\\\\Rightarrow 720 = \\\\dfrac{1,500 \\\\times 4 \\\\times T}{100}!<br>!\\\\Rightarrow 720 = 15 \\\\times 4 \\\\times T!<br>!\\\\Rightarrow 720 = 60T!<br>!\\\\Rightarrow T = \\\\dfrac{720}{60} = 12! वर्ष।<br><br><b>Short Trick:</b><br>!T = \\\\dfrac{SI \\\\times 100}{P \\\\times R} = \\\\dfrac{720 \\\\times 100}{1500 \\\\times 4} = \\\\dfrac{72}{6} = 12! years.<br><br><b>Final Answer:</b> !12!"
+  },
+  {
+    "section": "Mathematics",
+    "topic": "Percentages",
+    "difficulty": "Medium",
+    "q_en": "Manjit’s salary was first reduced by !41\\\\%! and subsequently raised by !38\\\\%!. By what percentage was his final salary lower compared to his initial salary?",
+    "q_hi": "मंजीत के वेतन में पहले !41\\\\%! की कमी की गई और उसके बाद !38\\\\%! की वृद्धि की गई। उसका अंतिम वेतन उसके प्रारंभिक वेतन की तुलना में कितने प्रतिशत कम था?",
+    "op_en": [
+      "!3\\\\%!",
+      "!15.58\\\\%!",
+      "!38\\\\%!",
+      "!18.58\\\\%!"
+    ],
+    "op_hi": [
+      "!3\\\\%!",
+      "!15.58\\\\%!",
+      "!38\\\\%!",
+      "!18.58\\\\%!"
+    ],
+    "ans": 4,
+    "solution": "<b>Solution (EN):</b><br>Let the initial salary be !100!.<br>After a reduction of !41\\\\%!, the salary becomes: !100 - 41 = 59!.<br>Then, the salary is raised by !38\\\\%!.<br>New salary = !59 \\\\times \\\\left(1 + \\\\dfrac{38}{100}\\\\right)!<br>!\\\\Rightarrow 59 \\\\times 1.38 = 81.42!<br>Overall reduction = !100 - 81.42 = 18.58\\\\%!.<br><br><b>Solution (HI):</b><br>माना प्रारंभिक वेतन !100! है।<br>!41\\\\%! की कमी के बाद, वेतन हो जाता है: !100 - 41 = 59!.<br>फिर, वेतन में !38\\\\%! की वृद्धि की जाती है।<br>नया वेतन = !59 \\\\times \\\\left(1 + \\\\dfrac{38}{100}\\\\right)!<br>!\\\\Rightarrow 59 \\\\times 1.38 = 81.42!<br>कुल कमी = !100 - 81.42 = 18.58\\\\%!.<br><br><b>Short Trick:</b><br>Net percentage change formula: !a + b + \\\\dfrac{ab}{100}!<br>Here, !a = -41! and !b = +38!<br>Net change = !-41 + 38 + \\\\dfrac{(-41) \\\\times 38}{100}!<br>!= -3 - \\\\dfrac{1,558}{100}!<br>!= -3 - 15.58 = -18.58\\\\%!<br>The negative sign indicates an !18.58\\\\%! decrease.<br><br><b>Final Answer:</b> !18.58\\\\%!"
+  },
+  {
+    "section": "Mathematics",
+    "topic": "Profit, Loss and Discount",
+    "difficulty": "Medium",
+    "q_en": "A trader marks his goods !43\\\\%! above the cost price and allows a discount of !20\\\\%! on it. He gains !x\\\\%!, then the value of !x! is:",
+    "q_hi": "एक व्यापारी अपने सामान का अंकित मूल्य क्रय मूल्य से !43\\\\%! अधिक अंकित करता है और उस पर !20\\\\%! की छूट देता है। उसे !x\\\\%! का लाभ होता है, तो !x! का मान है:",
+    "op_en": [
+      "!15.4!",
+      "!16.4!",
+      "!14.4!",
+      "!13.4!"
+    ],
+    "op_hi": [
+      "!15.4!",
+      "!16.4!",
+      "!14.4!",
+      "!13.4!"
+    ],
+    "ans": 3,
+    "solution": "<b>Solution (EN):</b><br>Let the Cost Price (CP) be !100!.<br>Marked Price (MP) = !100 + 43\\\\% \\\\text{ of } 100 = 143!.<br>Discount = !20\\\\%!.<br>Selling Price (SP) = MP !\\\\times \\\\left(1 - \\\\dfrac{\\\\text{Discount}}{100}\\\\right)!<br>SP = !143 \\\\times \\\\left(1 - \\\\dfrac{20}{100}\\\\right) = 143 \\\\times 0.8 = 114.4!.<br>Gain percentage (!x\\\\%!) = !\\\\text{SP} - \\\\text{CP} = 114.4 - 100 = 14.4\\\\%!.<br>Thus, the value of !x! is !14.4!.<br><br><b>Solution (HI):</b><br>माना क्रय मूल्य (CP) !100! है।<br>अंकित मूल्य (MP) = !100 + 100! का !43\\\\% = 143! है।<br>छूट = !20\\\\%! है।<br>विक्रय मूल्य (SP) = !143 \\\\times \\\\left(1 - \\\\dfrac{20}{100}\\\\right) = 143 \\\\times 0.8 = 114.4! है।<br>लाभ प्रतिशत (!x\\\\%!) = !\\\\text{SP} - \\\\text{CP} = 114.4 - 100 = 14.4\\\\%! है।<br>अतः !x! का मान !14.4! है।<br><br><b>Short Trick:</b><br>Net Profit Percentage = !A + B + \\\\dfrac{A \\\\times B}{100}!<br>Here, !A = +43! (markup) and !B = -20! (discount).<br>Net Profit = !43 - 20 + \\\\dfrac{43 \\\\times (-20)}{100} = 23 - 8.6 = 14.4\\\\%!.<br><br><b>Final Answer:</b> !14.4!"
+  },
+  {
+    "section": "Mathematics",
+    "topic": "Profit, Loss and Discount",
+    "difficulty": "Easy",
+    "q_en": "A product is marked !800! Rs. Two successive discounts of !25\\\\%! and !20\\\\%! are offered. What is the final selling price?",
+    "q_hi": "एक उत्पाद का अंकित मूल्य !800! रु. है। !25\\\\%! और !20\\\\%! की दो क्रमिक छूट दी जाती हैं। अंतिम विक्रय मूल्य क्या है?",
+    "op_en": [
+      "₹480",
+      "₹460",
+      "₹500",
+      "₹450"
+    ],
+    "op_hi": [
+      "₹480",
+      "₹460",
+      "₹500",
+      "₹450"
+    ],
+    "ans": 1,
+    "solution": "<b>Solution (EN):</b><br>Marked Price (MP) = !800! Rs.<br>First discount = !25\\\\%!, Second discount = !20\\\\%!.<br>Selling Price (SP) = !\\\\text{MP} \\\\times \\\\left(1 - \\\\dfrac{25}{100}\\\\right) \\\\times \\\\left(1 - \\\\dfrac{20}{100}\\\\right)!<br>SP = !800 \\\\times \\\\dfrac{75}{100} \\\\times \\\\dfrac{80}{100}!<br>SP = !800 \\\\times \\\\dfrac{3}{4} \\\\times \\\\dfrac{4}{5}!<br>SP = !800 \\\\times \\\\dfrac{3}{5} = 160 \\\\times 3 = 480! Rs.<br><br><b>Solution (HI):</b><br>अंकित मूल्य (MP) = !800! रु.<br>प्रथम छूट = !25\\\\%!, द्वितीय छूट = !20\\\\%! है।<br>विक्रय मूल्य (SP) = !\\\\text{MP} \\\\times \\\\left(1 - \\\\dfrac{25}{100}\\\\right) \\\\times \\\\left(1 - \\\\dfrac{20}{100}\\\\right)!<br>SP = !800 \\\\times \\\\dfrac{75}{100} \\\\times \\\\dfrac{80}{100}!<br>SP = !800 \\\\times \\\\dfrac{3}{4} \\\\times \\\\dfrac{4}{5} = 480! रु.<br><br><b>Short Trick:</b><br>Equivalent single discount for !25\\\\%! and !20\\\\% = 25 + 20 - \\\\dfrac{25 \\\\times 20}{100} = 45 - 5 = 40\\\\%!.<br>Selling Price = !60\\\\%! of !800 = \\\\dfrac{60}{100} \\\\times 800 = 480! Rs.<br><br><b>Final Answer:</b> ₹480"
+  },
+  {
+    "section": "Mathematics",
+    "topic": "Averages",
+    "difficulty": "Medium",
+    "q_en": "The average marks of !30! students of a class in a psychometric test is !48!. If the teacher includes marks of another section's topper, the average increases by !1!. Find the marks of another section's topper.",
+    "q_hi": "एक कक्षा के !30! छात्रों के एक साइकोमेट्रिक टेस्ट में औसत अंक !48! हैं। यदि शिक्षक दूसरे सेक्शन के टॉपर के अंकों को शामिल करता है, तो औसत !1! बढ़ जाता है। दूसरे सेक्शन के टॉपर के अंक ज्ञात कीजिए।",
+    "op_en": [
+      "!76!",
+      "!79!",
+      "!71!",
+      "!74!"
+    ],
+    "op_hi": [
+      "!76!",
+      "!79!",
+      "!71!",
+      "!74!"
+    ],
+    "ans": 2,
+    "solution": "<b>Solution (EN):</b><br>Number of students initially = !30!.<br>Initial average = !48!.<br>Total initial marks = !30 \\\\times 48 = 1,440!.<br>When the topper's marks are included, the total number of students becomes !30 + 1 = 31!.<br>New average = !48 + 1 = 49!.<br>New total marks = !31 \\\\times 49 = 1,519!.<br>Marks of the topper = New total marks - Initial total marks<br>!\\\\Rightarrow 1,519 - 1,440 = 79!.<br><br><b>Solution (HI):</b><br>प्रारंभ में छात्रों की संख्या = !30!<br>प्रारंभिक औसत = !48!<br>कुल प्रारंभिक अंक = !30 \\\\times 48 = 1,440!<br>जब टॉपर के अंक शामिल किए जाते हैं, तो छात्रों की कुल संख्या !30 + 1 = 31! हो जाती है।<br>नया औसत = !48 + 1 = 49!<br>नया कुल अंक = !31 \\\\times 49 = 1,519!<br>टॉपर के अंक = नया कुल - प्रारंभिक कुल = !1,519 - 1,440 = 79!<br><br><b>Short Trick:</b><br>Marks of newcomer = Old Average + (New Total Students !\\\\times! Increase in Average)<br>Marks = !48 + (31 \\\\times 1) = 48 + 31 = 79!.<br><br><b>Final Answer:</b> !79!"
+  },
+  {
+    "section": "Mathematics",
+    "topic": "Profit, Loss and Discount",
+    "difficulty": "Hard",
+    "q_en": "A shopkeeper offers the following schemes on toys of the same marked price.<br>(A) Successive discounts of !7\\\\%! and !14\\\\%! on any number of toys bought.<br>(B) Successive discounts of !10\\\\%!, !20\\\\%! and !5\\\\%! on any number of toys bought.<br>(C) !27\\\\%! discount on the first !2! toys and !12\\\\%! discount on each toy thereon.<br>(D) Pay for !8! toys and receive !10! toys.<br>A customer wants to buy !10! toys. Which of the above schemes is the least beneficial to her?",
+    "q_hi": "एक दुकानदार समान अंकित मूल्य वाले खिलौनों पर निम्नलिखित योजनाएं प्रदान करता है।<br>(A) खरीदे गए किसी भी संख्या में खिलौनों पर !7\\\\%! और !14\\\\%! की क्रमिक छूट।<br>(B) खरीदे गए किसी भी संख्या में खिलौनों पर !10\\\\%!, !20\\\\%! और !5\\\\%! की क्रमिक छूट।<br>(C) पहले !2! खिलौनों पर !27\\\\%! की छूट और उसके बाद प्रत्येक खिलौने पर !12\\\\%! की छूट।<br>(D) !8! खिलौनों के लिए भुगतान करें और !10! खिलौने प्राप्त करें।<br>एक ग्राहक !10! खिलौने खरीदना चाहती है। उपर्युक्त में से कौन सी योजना उसके लिए सबसे कम लाभदायक है?",
+    "op_en": [
+      "C",
+      "A",
+      "B",
+      "D"
+    ],
+    "op_hi": [
+      "C",
+      "A",
+      "B",
+      "D"
+    ],
+    "ans": 1,
+    "solution": "<b>Solution (EN):</b><br>Let the Marked Price (MP) of each toy be !100! Rs. Total MP for !10! toys = !1,000! Rs.<br><b>Scheme (A):</b> Successive discounts of !7\\\\%! and !14\\\\%!.<br>Effective discount = !7 + 14 - \\\\dfrac{7 \\\\times 14}{100} = 21 - 0.98 = 20.02\\\\%!.<br>Total SP = !1,000 \\\\times (1 - 0.2002) = 799.80! Rs.<br><b>Scheme (B):</b> Successive discounts of !10\\\\%!, !20\\\\%!, and !5\\\\%!.<br>Equivalent of !10\\\\%! and !20\\\\% = 10 + 20 - \\\\dfrac{200}{100} = 28\\\\%!.<br>Equivalent of !28\\\\%! and !5\\\\% = 28 + 5 - \\\\dfrac{140}{100} = 33 - 1.4 = 31.6\\\\%!.<br>Total SP = !1,000 \\\\times (1 - 0.316) = 684! Rs.<br><b>Scheme (C):</b> !27\\\\%! discount on first !2! toys and !12\\\\%! on remaining !8! toys.<br>Discount amount = !(2 \\\\times 27) + (8 \\\\times 12) = 54 + 96 = 150! Rs. (out of !1,000!).<br>Total SP = !1,000 - 150 = 850! Rs.<br><b>Scheme (D):</b> Pay for !8!, get !10! (equivalent to !2! free out of !10!).<br>Discount percentage = !\\\\dfrac{2}{10} \\\\times 100 = 20\\\\%!.<br>Total SP = !1,000 \\\\times 0.8 = 800! Rs.<br>Comparing SP (lower SP means more beneficial for customer, higher SP means least beneficial):<br>Scheme C gives the highest SP (!850! Rs.), meaning it offers the least total discount and is thus the least beneficial.<br><br><b>Solution (HI):</b><br>प्रत्येक खिलौने का अंकित मूल्य (MP) !100! रु. मान लीजिए। !10! खिलौनों का कुल MP = !1,000! रु.<br><b>योजना (A):</b> प्रभावी छूट = !7 + 14 - \\\\dfrac{98}{100} = 20.02\\\\%! !\\\\rightarrow! कुल SP = !799.80! रु.<br><b>योजना (B):</b> प्रभावी छूट = !31.6\\\\%! !\\\\rightarrow! कुल SP = !684! रु.<br><b>योजना (C):</b> पहले !2! खिलौनों पर !27\\\\%! और शेष !8! पर !12\\\\%! छूट !\\\\rightarrow! कुल छूट = !54 + 96 = 150! रु. !\\\\rightarrow! कुल SP = !850! रु.<br><b>योजना (D):</b> !8! का भुगतान, !10! प्राप्त (अर्थात !20\\\\%! छूट) !\\\\rightarrow! कुल SP = !800! रु.<br>चूँकि योजना C में विक्रय मूल्य सबसे अधिक (!850! रु.) है, अतः यह ग्राहक के लिए सबसे कम लाभदायक है।<br><br><b>Final Answer:</b> C"
+  },
+  {
+    "section": "Mathematics",
+    "topic": "Compound Interest",
+    "difficulty": "Medium",
+    "q_en": "Rohit deposited a certain sum of money at !8\\\\%! rate of interest per annum, compounded annually. At the end of !2! years, Rohit received a total amount of ₹!78,732!. What was the sum of money deposited by Rohit?",
+    "q_hi": "रोहित ने वार्षिक रूप से संयोजित होने वाले !8\\\\%! वार्षिक ब्याज दर पर एक निश्चित राशि जमा की। !2! वर्ष के अंत में, रोहित को कुल ₹!78,732! की राशि प्राप्त हुई। रोहित द्वारा जमा की गई राशि कितनी थी?",
+    "op_en": [
+      "₹67348",
+      "₹67500",
+      "₹67559",
+      "₹67639"
+    ],
+    "op_hi": [
+      "₹67348",
+      "₹67500",
+      "₹67559",
+      "₹67639"
+    ],
+    "ans": 2,
+    "solution": "<b>Solution (EN):</b><br>Amount (!A!) = !78,732! Rs.<br>Rate (!R!) = !8\\\\%! per annum.<br>Time (!n!) = !2! years.<br>Formula: !A = P \\\\left(1 + \\\\dfrac{R}{100}\\\\right)^n!<br>!\\\\Rightarrow 78,732 = P \\\\left(1 + \\\\dfrac{8}{100}\\\\right)^2!<br>!\\\\Rightarrow 78,732 = P \\\\left(\\\\dfrac{108}{100}\\\\right)^2!<br>!\\\\Rightarrow 78,732 = P \\\\left(\\\\dfrac{27}{25}\\\\right)^2!<br>!\\\\Rightarrow 78,732 = P \\\\times \\\\dfrac{729}{625}!<br>!\\\\Rightarrow P = \\\\dfrac{78,732 \\\\times 625}{729}!<br>!\\\\Rightarrow P = 108 \\\\times 625 = 67,500! Rs.<br><br><b>Solution (HI):</b><br>मिश्रधन (!A!) = !78,732! रु.<br>दर (!R!) = !8\\\\%! वार्षिक,<br>समय (!n!) = !2! वर्ष。<br>सूत्र: !A = P \\\\left(1 + \\\\dfrac{R}{100}\\\\right)^n!<br>!\\\\Rightarrow 78,732 = P \\\\left(1 + \\\\dfrac{8}{100}\\\\right)^2!<br>!\\\\Rightarrow 78,732 = P \\\\times \\\\dfrac{729}{625}!<br>!\\\\Rightarrow P = \\\\dfrac{78,732 \\\\times 625}{729} = 67,500! रु.<br><br><b>Short Trick:</b><br>Rate fraction = !8\\\\% = \\\\dfrac{2}{25}!. Principal increases from !25! to !27! in !1! year.<br>For !2! years, Principal : Amount = !25^2 : 27^2 = 625 : 729!.<br>!729! units = !78,732! !\\\\rightarrow 1! unit = !108!.<br>Principal (!625! units) = !625 \\\\times 108 = 67,500! Rs.<br><br><b>Final Answer:</b> ₹67500"
+  },
+  {
+    "section": "Mathematics",
+    "topic": "Averages",
+    "difficulty": "Medium",
+    "q_en": "A college maintains an average of !25! students per professor. After hiring !2! new professors, the total number of students increases to !1,725!. How many professors are there now?",
+    "q_hi": "एक कॉलेज में प्रति प्रोफेसर औसत !25! छात्र हैं। !2! नए प्रोफेसरों को काम पर रखने के बाद, छात्रों की कुल संख्या बढ़कर !1,725! हो जाती है। अब वहाँ कितने प्रोफेसर हैं?",
+    "op_en": [
+      "!68!",
+      "!71!",
+      "!70!",
+      "!69!"
+    ],
+    "op_hi": [
+      "!68!",
+      "!71!",
+      "!70!",
+      "!69!"
+    ],
+    "ans": 4,
+    "solution": "<b>Solution (EN):</b><br>Let the initial number of professors be !x!.<br>Initial average = !25! students per professor.<br>Initial total number of students = !25x!.<br>After hiring !2! new professors, the new number of professors = !x + 2!.<br>New total number of students = !1,725!.<br>Since the average of students per professor remains !25!, we can write:<br>!\\\\dfrac{1,725}{x + 2} = 25!<br>!\\\\Rightarrow x + 2 = \\\\dfrac{1,725}{25}!<br>!\\\\Rightarrow x + 2 = 69!<br>!\\\\Rightarrow x = 67! (Initial number of professors)<br>The current number of professors now = !x + 2 = 67 + 2 = 69!.<br><br><b>Solution (HI):</b><br>माना प्रोफेसरों की प्रारंभिक संख्या !x! है।<br>प्रारंभिक औसत = !25! छात्र प्रति प्रोफेसर।<br>छात्रों की प्रारंभिक कुल संख्या = !25x!<br>!2! नए प्रोफेसरों को नियुक्त करने के बाद, प्रोफेसरों की नई संख्या = !x + 2!<br>छात्रों की नई कुल संख्या = !1,725!<br>चूंकि प्रति प्रोफेसर छात्रों का औसत !25! रहता है, इसलिए हम लिख सकते हैं:<br>!\\\\dfrac{1,725}{x + 2} = 25!<br>!\\\\Rightarrow x + 2 = \\\\dfrac{1,725}{25} = 69!<br>वर्तमान में प्रोफेसरों की कुल संख्या = !69! है।<br><br><b>Short Trick:</b><br>Current number of professors = !\\\\dfrac{\\\\text{Total Students}}{\\\\text{Average students per professor}} = \\\\dfrac{1,725}{25} = 69!.<br><br><b>Final Answer:</b> !69!"
+  },
+  {
+    "section": "Mathematics",
+    "topic": "LCM and HCF",
+    "difficulty": "Easy",
+    "q_en": "The HCF and LCM of the two numbers are !5! and !150! respectively. If one of the numbers is !15!, find the other.",
+    "q_hi": "दो संख्याओं का HCF और LCM क्रमशः !5! और !150! हैं। यदि उनमें से एक संख्या !15! है, तो दूसरी संख्या ज्ञात कीजिए।",
+    "op_en": [
+      "!45!",
+      "!35!",
+      "!50!",
+      "!40!"
+    ],
+    "op_hi": [
+      "!45!",
+      "!35!",
+      "!50!",
+      "!40!"
+    ],
+    "ans": 3,
+    "solution": "<b>Solution (EN):</b><br>We know that for any two numbers, the product of the numbers is equal to the product of their HCF and LCM.<br>Formula: !\\\\text{First Number} \\\\times \\\\text{Second Number} = \\\\text{HCF} \\\\times \\\\text{LCM}!<br>Given,<br>HCF = !5!<br>LCM = !150!<br>First Number = !15!<br>Let the second number be !y!.<br>!\\\\Rightarrow 15 \\\\times y = 5 \\\\times 150!<br>!\\\\Rightarrow 15y = 750!<br>!\\\\Rightarrow y = \\\\dfrac{750}{15} = 50!<br>Thus, the other number is !50!.<br><br><b>Solution (HI):</b><br>हम जानते हैं कि किन्हीं दो संख्याओं के लिए, संख्याओं का गुणनफल उनके HCF और LCM के गुणनफल के बराबर होता है।<br>सूत्र: !\\\\text{पहली संख्या} \\\\times \\\\text{दूसरी संख्या} = \\\\text{HCF} \\\\times \\\\text{LCM}!<br>दिया गया है,<br>HCF = !5!, LCM = !150!, पहली संख्या = !15!<br>माना दूसरी संख्या !y! है।<br>!\\\\Rightarrow 15 \\\\times y = 5 \\\\times 150!<br>!\\\\Rightarrow 15y = 750!<br>!\\\\Rightarrow y = \\\\dfrac{750}{15} = 50!<br>अतः दूसरी संख्या !50! है।<br><br><b>Short Trick:</b><br>Second Number = !\\\\dfrac{\\\\text{HCF} \\\\times \\\\text{LCM}}{\\\\text{First Number}} = \\\\dfrac{5 \\\\times 150}{15} = 5 \\\\times 10 = 50!.<br><br><b>Final Answer:</b> !50!"
+  },
+  {
+    "section": "Arithmetic",
+    "topic": "General",
+    "difficulty": "Medium",
+    "q_en": "<span style=\"font-family:Arial,Helvetica,sans-serif;\">Rahul purchased lemons at ₹72 per dozen and sold them at ₹50 for every 10 lemons. What is the gain or loss percentage?</span>",
+    "q_hi": "<span style=\"font-family:Arial,Helvetica,sans-serif;\">Rahul purchased lemons at ₹72 per dozen and sold them at ₹50 for every 10 lemons. What is the gain or loss percentage?</span>",
+    "op_en": [
+      "<img align=\"middle\" alt=\"50 over 3 percent sign comma\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mfrac»«mn»50«/mn»«mn»3«/mn»«/mfrac»«mo»%«/mo»«mo»,«/mo»«/math»\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAlCAYAAAAEGWqvAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAZpE86XgAAAkFJREFUeNrtWM9Hg2Ecf81kh4kkmZnolO7TPzDJdMjITsl0yU7pliRJl2RmEkmS7JIdkiQm0yFdOqRDh+jQYbJLkpmZePt++bw8Hs+72lTv96UPn8Pzw+v7fZ/vj8/zWJY7AsQa0QYfDXsGiKfEFvGSGLEEYVoxnlkw7LkBQ8Rz4h0cFwH+o5k262k4lsJ4CuM5CcYPw5g6cZc4aNhTwp5RjPsxLklwYEMLn6rBiSrWgkrO8PhNSghxgs4SH2DYjrbewrwKG/OiwAl6hYqk4sPFgaYlECOGP/sKg52qE8S4ZgnFs0sSO7U/JimJdUSJ69rcjFZGUxhnJBi8QswiPDiZN4lhQ6e+R7/oIVYwFtHIioj5F2LOYLyDCAznvScu/eIfksChtoVm1yAeuJwun+Qturso5JHoCWKyjUjkvBqTeAJ1pfkFFL2lYpW4KDWEGgYH1M6dQDEQi4ISQo78PtTivq/bj9u/RF1XFXASTUj1sPS4/w7WiAuak5wb70j8kGTj9bh3KtXEF5VKBExx31BUrlulEgE2rmyI+6ahUjWU9SGcTNxrB7gjz7epVOPESa1SWRCZPHfmpfH8B4/b3ABzCBs+jW1NbnTtAB/1NZQnV4d9D7VKutOLEz+dLOPa2Iv6bUNKeyEIy52+P2UNCagn11+B7yBL3VQM/ZJv46bmO8TxVpT3o/FJReNUcF/2HWLonuzEkV/FV9zDJP4xGeBrB6JwoOgXg/lZcQ+dlxP3wjI/uYtFHrqEZcQThJiICvQJZhy4FcLyiKMAAAB3dEVYdE1hdGhNTAA8bWF0aCB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMTk5OC9NYXRoL01hdGhNTCI+PG1mcmFjPjxtbj41MDwvbW4+PG1uPjM8L21uPjwvbWZyYWM+PG1vPiU8L21vPjxtbz4sPC9tbz48L21hdGg+mr/+vAAAAABJRU5ErkJggg==\" style=\"max-width: none;\"> Profit",
+      "<img align=\"middle\" alt=\"49 over 3 percent sign\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mfrac»«mn»49«/mn»«mn»3«/mn»«/mfrac»«mo»%«/mo»«/math»\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACsAAAAlCAYAAADbVxCwAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAZpE86XgAAAg1JREFUeNrtWMFHREEcHitZSayslSQ6raTb2n9gJatDl04d0iXZQ5Iu6ZCuWXlWIlkr2UuSjpG1p3TpvBJ76LA6dEmeZ63YfsO3jDFvd63M/JY+PmZm3+Pbed98v5kRoj/cENva2CzxlhgQfWKRGBeOsQ6hqtgE8YN4TxwjJtGvEcddCZ0hvhjEnqM/p4zlMHbsSuwjcdEg9tNgiymMvbkQuk/cRlsX+4P+iPaOHGvZFrpALGsiVLE19NcMYgObQkeJD8RYF7Edf9bhWznDmxir2BR7SkwbZkz36A6xgc8uU+EAz2zYFNvuwTA8EZ8FA3QTKi1QIr4jEViKlRVsi/gKj8cFE+hiZfubeEfMin+4h4zFPPELeVwK2UskUOYnXYr1YKEM7CPbBcNzFUN8WoeveD+Ctq89c0Tc42CDwCC2qfyeQYFhgYJig1W0rzSfxv6icg1KFVEIDjCjF8oCY+HTfiA37LvaH/KR5R7GWED3aScxlnskhnWYfNpZhJEuiWEdERybdJ82DYkRuBabV45NpsRYIq5oieEEWdxFmBDFAcDHLJ8NcrxPY4Pdwiotuq7dYZgnHmKjPYF8lJ+nylFszrA4WBg/bOWqSELsCfdqk8K9gcddaFap+VVO564wqJd118Ow8UhxXmBimNJAxzTEljmKk7ctl6hYcVxqNLBrYgcPdVqW2jo2IdaT4BebPrblGTJOuQAAAG10RVh0TWF0aE1MADxtYXRoIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8xOTk4L01hdGgvTWF0aE1MIj48bWZyYWM+PG1uPjQ5PC9tbj48bW4+MzwvbW4+PC9tZnJhYz48bW8+JTwvbW8+PC9tYXRoPix6OqwAAAAASUVORK5CYII=\" style=\"max-width: none;\"> , Profit",
+      "<img align=\"middle\" alt=\"49 over 3 space percent sign\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mfrac»«mn»49«/mn»«mn»3«/mn»«/mfrac»«mo»§#160;«/mo»«mo»%«/mo»«/math»\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAlCAYAAAAEGWqvAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAZpE86XgAAAhNJREFUeNrtWMFHg2EYf02SJCYzSaLTJN1m/8Ak06FLpw7pkuyQpEs6pGtmPpNIZpJdknSMzE7p0nkSO3SYDl2Sz2cm1vPwG6/X+20zseelHz/e9903nt/3Pc/vfd5Xqf5wQ2wba3PEW2JA9IlFYkwJxAaC1wXEiR/Ee+I4MYF5jTghKfhZ4otFwDnm89paFmsnkgQ8EpcsAj4tKTWNtTcpwR8QdzA2BfxgPmL8h9daEoJfJJaNwHQBNczXLQKCYQc/SnwgRrsI6OR7HXXAX2ILa5VhC8gTU5Y3a+b8LrGBlGE3OsQzm8MW0O7BMDwRn5VQdAue06dEfIcTOSOAd+Jt4itqJqYEwxTA42/iHTGj/uE22LZzxC/sIaWQfiqOtmZKmgAPKZlGOvK4YHmuYrF3EfC1+opg7BvPHBP3paZQYBHQ1H5PY6MUi4KWQmsYXxl5H/2LHXhQ9sIYRAR48xdaEYvN+37AB6M9Q6SP/cfDmliYed9xqpUeTiUCtrzvFHqki1OJQATHWDPvmxanCiQKyGnHWJtTLRNXDacSgwzun8KcKo+04a9xNsj1TQqHlhacoCixLwnDAvEIh5dJeDV/xqorArKWYhNbSGHuoCMBAacu7pBJ3At5Lgaf0XqcqvRzcBj0C99rVxutpGtFrFx3IRMzEFB2JWC+dbvEzsuFyxdZDXSOTsBDD8JtRB1NlwgH+gVqYbblFeiyVwAAAHx0RVh0TWF0aE1MADxtYXRoIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8xOTk4L01hdGgvTWF0aE1MIj48bWZyYWM+PG1uPjQ5PC9tbj48bW4+MzwvbW4+PC9tZnJhYz48bW8+JiN4QTA7PC9tbz48bW8+JTwvbW8+PC9tYXRoPkeY0/sAAAAASUVORK5CYII=\" style=\"max-width: none;\"> loss",
+      "<img align=\"middle\" alt=\"50 over 3 percent sign\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mfrac»«mn»50«/mn»«mn»3«/mn»«/mfrac»«mo»%«/mo»«/math»\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACsAAAAlCAYAAADbVxCwAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAZpE86XgAAAiNJREFUeNrtWM9HREEcf9bKHlYkycpeOqX76h9YyeqQJZ2S1SV7StckSZdkPSuRJEmX7CEdEsnqkC4d0qFDdOiwspck61krXt8vn8cYM6+9NDNLHz6H73tj9/Nmvj/H8/RIEJvEEHxRrBkiXhA7xBtixrOEWUEos6pYcw+miJfER3ykcfBOlWLez+EjirBnYC+aFjqKP24R94nDijU1rBmHPQi7ZlrsluQCDYXgBt4lBR9n+9OGG3DwLBCfIWJPet/BcxEhnlsDB88tMoOIb43YtmcZY4od+4C4KPqTsJueA3jTBFiUW7O2AkzGCHFTejYvpa4i7JJpcWvEMo6YA22bmFZUuCfk4z5iHbbxonAKH30nVhRCI2Qgkteea/LxP0yA3WUHhSMgHmlOjU/oAVXRGnwEYZ5YiGmQOA4mbO9sSygkCaH/ELFOXHHBDQKFWLHi5RGoTqAquEHUUh5LfjrQzQ+Ff0S5z6hih9toP9Mu+Wk32CAuSx/EvvyFoEy5IlT20yhjTP2SMYxD5aeB0M3pMoZxsJBrhZ+2FRkjsC2WK9lSTMaYJE5LGcMK2BfPYiaTCo6ed3k3ppHSgo/rDh0WR+mh7dqtA4/bqxhd+pEfQ7SHzqGsCA4nHF8XufIAGWKCcBo53CX4rgstCDW/jvnMaWRRdVjwSS80HjmXA8zrpWyguvQIMbI7B746OkDF4qC68tTXoE7AR53mUvuKJsR4JvgBbv2whHSrBnQAAABtdEVYdE1hdGhNTAA8bWF0aCB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMTk5OC9NYXRoL01hdGhNTCI+PG1mcmFjPjxtbj41MDwvbW4+PG1uPjM8L21uPjwvbWZyYWM+PG1vPiU8L21vPjwvbWF0aD5ILLLvAAAAAElFTkSuQmCC\" style=\"max-width: none;\"> loss"
+    ],
+    "op_hi": [
+      "<img align=\"middle\" alt=\"50 over 3 percent sign comma\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mfrac»«mn»50«/mn»«mn»3«/mn»«/mfrac»«mo»%«/mo»«mo»,«/mo»«/math»\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAlCAYAAAAEGWqvAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAZpE86XgAAAkFJREFUeNrtWM9Hg2Ecf81kh4kkmZnolO7TPzDJdMjITsl0yU7pliRJl2RmEkmS7JIdkiQm0yFdOqRDh+jQYbJLkpmZePt++bw8Hs+72lTv96UPn8Pzw+v7fZ/vj8/zWJY7AsQa0QYfDXsGiKfEFvGSGLEEYVoxnlkw7LkBQ8Rz4h0cFwH+o5k262k4lsJ4CuM5CcYPw5g6cZc4aNhTwp5RjPsxLklwYEMLn6rBiSrWgkrO8PhNSghxgs4SH2DYjrbewrwKG/OiwAl6hYqk4sPFgaYlECOGP/sKg52qE8S4ZgnFs0sSO7U/JimJdUSJ69rcjFZGUxhnJBi8QswiPDiZN4lhQ6e+R7/oIVYwFtHIioj5F2LOYLyDCAznvScu/eIfksChtoVm1yAeuJwun+Qturso5JHoCWKyjUjkvBqTeAJ1pfkFFL2lYpW4KDWEGgYH1M6dQDEQi4ISQo78PtTivq/bj9u/RF1XFXASTUj1sPS4/w7WiAuak5wb70j8kGTj9bh3KtXEF5VKBExx31BUrlulEgE2rmyI+6ahUjWU9SGcTNxrB7gjz7epVOPESa1SWRCZPHfmpfH8B4/b3ABzCBs+jW1NbnTtAB/1NZQnV4d9D7VKutOLEz+dLOPa2Iv6bUNKeyEIy52+P2UNCagn11+B7yBL3VQM/ZJv46bmO8TxVpT3o/FJReNUcF/2HWLonuzEkV/FV9zDJP4xGeBrB6JwoOgXg/lZcQ+dlxP3wjI/uYtFHrqEZcQThJiICvQJZhy4FcLyiKMAAAB3dEVYdE1hdGhNTAA8bWF0aCB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMTk5OC9NYXRoL01hdGhNTCI+PG1mcmFjPjxtbj41MDwvbW4+PG1uPjM8L21uPjwvbWZyYWM+PG1vPiU8L21vPjxtbz4sPC9tbz48L21hdGg+mr/+vAAAAABJRU5ErkJggg==\" style=\"max-width: none;\"> Profit",
+      "<img align=\"middle\" alt=\"49 over 3 percent sign\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mfrac»«mn»49«/mn»«mn»3«/mn»«/mfrac»«mo»%«/mo»«/math»\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACsAAAAlCAYAAADbVxCwAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAZpE86XgAAAg1JREFUeNrtWMFHREEcHitZSayslSQ6raTb2n9gJatDl04d0iXZQ5Iu6ZCuWXlWIlkr2UuSjpG1p3TpvBJ76LA6dEmeZ63YfsO3jDFvd63M/JY+PmZm3+Pbed98v5kRoj/cENva2CzxlhgQfWKRGBeOsQ6hqtgE8YN4TxwjJtGvEcddCZ0hvhjEnqM/p4zlMHbsSuwjcdEg9tNgiymMvbkQuk/cRlsX+4P+iPaOHGvZFrpALGsiVLE19NcMYgObQkeJD8RYF7Edf9bhWznDmxir2BR7SkwbZkz36A6xgc8uU+EAz2zYFNvuwTA8EZ8FA3QTKi1QIr4jEViKlRVsi/gKj8cFE+hiZfubeEfMin+4h4zFPPELeVwK2UskUOYnXYr1YKEM7CPbBcNzFUN8WoeveD+Ctq89c0Tc42CDwCC2qfyeQYFhgYJig1W0rzSfxv6icg1KFVEIDjCjF8oCY+HTfiA37LvaH/KR5R7GWED3aScxlnskhnWYfNpZhJEuiWEdERybdJ82DYkRuBabV45NpsRYIq5oieEEWdxFmBDFAcDHLJ8NcrxPY4Pdwiotuq7dYZgnHmKjPYF8lJ+nylFszrA4WBg/bOWqSELsCfdqk8K9gcddaFap+VVO564wqJd118Ow8UhxXmBimNJAxzTEljmKk7ctl6hYcVxqNLBrYgcPdVqW2jo2IdaT4BebPrblGTJOuQAAAG10RVh0TWF0aE1MADxtYXRoIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8xOTk4L01hdGgvTWF0aE1MIj48bWZyYWM+PG1uPjQ5PC9tbj48bW4+MzwvbW4+PC9tZnJhYz48bW8+JTwvbW8+PC9tYXRoPix6OqwAAAAASUVORK5CYII=\" style=\"max-width: none;\"> , Profit",
+      "<img align=\"middle\" alt=\"49 over 3 space percent sign\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mfrac»«mn»49«/mn»«mn»3«/mn»«/mfrac»«mo»§#160;«/mo»«mo»%«/mo»«/math»\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAlCAYAAAAEGWqvAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAZpE86XgAAAhNJREFUeNrtWMFHg2EYf02SJCYzSaLTJN1m/8Ak06FLpw7pkuyQpEs6pGtmPpNIZpJdknSMzE7p0nkSO3SYDl2Sz2cm1vPwG6/X+20zseelHz/e9903nt/3Pc/vfd5Xqf5wQ2wba3PEW2JA9IlFYkwJxAaC1wXEiR/Ee+I4MYF5jTghKfhZ4otFwDnm89paFmsnkgQ8EpcsAj4tKTWNtTcpwR8QdzA2BfxgPmL8h9daEoJfJJaNwHQBNczXLQKCYQc/SnwgRrsI6OR7HXXAX2ILa5VhC8gTU5Y3a+b8LrGBlGE3OsQzm8MW0O7BMDwRn5VQdAue06dEfIcTOSOAd+Jt4itqJqYEwxTA42/iHTGj/uE22LZzxC/sIaWQfiqOtmZKmgAPKZlGOvK4YHmuYrF3EfC1+opg7BvPHBP3paZQYBHQ1H5PY6MUi4KWQmsYXxl5H/2LHXhQ9sIYRAR48xdaEYvN+37AB6M9Q6SP/cfDmliYed9xqpUeTiUCtrzvFHqki1OJQATHWDPvmxanCiQKyGnHWJtTLRNXDacSgwzun8KcKo+04a9xNsj1TQqHlhacoCixLwnDAvEIh5dJeDV/xqorArKWYhNbSGHuoCMBAacu7pBJ3At5Lgaf0XqcqvRzcBj0C99rVxutpGtFrFx3IRMzEFB2JWC+dbvEzsuFyxdZDXSOTsBDD8JtRB1NlwgH+gVqYbblFeiyVwAAAHx0RVh0TWF0aE1MADxtYXRoIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8xOTk4L01hdGgvTWF0aE1MIj48bWZyYWM+PG1uPjQ5PC9tbj48bW4+MzwvbW4+PC9tZnJhYz48bW8+JiN4QTA7PC9tbz48bW8+JTwvbW8+PC9tYXRoPkeY0/sAAAAASUVORK5CYII=\" style=\"max-width: none;\"> loss",
+      "<img align=\"middle\" alt=\"50 over 3 percent sign\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mfrac»«mn»50«/mn»«mn»3«/mn»«/mfrac»«mo»%«/mo»«/math»\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACsAAAAlCAYAAADbVxCwAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAZpE86XgAAAiNJREFUeNrtWM9HREEcf9bKHlYkycpeOqX76h9YyeqQJZ2S1SV7StckSZdkPSuRJEmX7CEdEsnqkC4d0qFDdOiwspck61krXt8vn8cYM6+9NDNLHz6H73tj9/Nmvj/H8/RIEJvEEHxRrBkiXhA7xBtixrOEWUEos6pYcw+miJfER3ykcfBOlWLez+EjirBnYC+aFjqKP24R94nDijU1rBmHPQi7ZlrsluQCDYXgBt4lBR9n+9OGG3DwLBCfIWJPet/BcxEhnlsDB88tMoOIb43YtmcZY4od+4C4KPqTsJueA3jTBFiUW7O2AkzGCHFTejYvpa4i7JJpcWvEMo6YA22bmFZUuCfk4z5iHbbxonAKH30nVhRCI2Qgkteea/LxP0yA3WUHhSMgHmlOjU/oAVXRGnwEYZ5YiGmQOA4mbO9sSygkCaH/ELFOXHHBDQKFWLHi5RGoTqAquEHUUh5LfjrQzQ+Ff0S5z6hih9toP9Mu+Wk32CAuSx/EvvyFoEy5IlT20yhjTP2SMYxD5aeB0M3pMoZxsJBrhZ+2FRkjsC2WK9lSTMaYJE5LGcMK2BfPYiaTCo6ed3k3ppHSgo/rDh0WR+mh7dqtA4/bqxhd+pEfQ7SHzqGsCA4nHF8XufIAGWKCcBo53CX4rgstCDW/jvnMaWRRdVjwSS80HjmXA8zrpWyguvQIMbI7B746OkDF4qC68tTXoE7AR53mUvuKJsR4JvgBbv2whHSrBnQAAABtdEVYdE1hdGhNTAA8bWF0aCB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMTk5OC9NYXRoL01hdGhNTCI+PG1mcmFjPjxtbj41MDwvbW4+PG1uPjM8L21uPjwvbWZyYWM+PG1vPiU8L21vPjwvbWF0aD5ILLLvAAAAAElFTkSuQmCC\" style=\"max-width: none;\"> loss"
+    ],
+    "ans": 4,
+    "solution": "<b>Solution:</b><br><br><b>Final Answer:</b> !4!"
+  },
+  {
+    "section": "Arithmetic",
+    "topic": "General",
+    "difficulty": "Medium",
+    "q_en": "The following bar graph shows the birthday months of 210 people. How many more people have their birthdays in October than in December?<br><img height=\"289\" name=\"32923_441009_0_27568628_q5.png\" src=\"https://cdn.digialm.com/per/g01/pub/1258/touchstone/TempQPImagesStoreMode1/adcimages/1784283886587/4410095287868///32923_441009_0_27568628_q5.png?0.39833721841636704\" width=\"481\">",
+    "q_hi": "The following bar graph shows the birthday months of 210 people. How many more people have their birthdays in October than in December?<br><img height=\"289\" name=\"32923_441009_0_27568628_q5.png\" src=\"https://cdn.digialm.com/per/g01/pub/1258/touchstone/TempQPImagesStoreMode1/adcimages/1784283886587/4410095287868///32923_441009_0_27568628_q5.png?0.39833721841636704\" width=\"481\">",
+    "op_en": [
+      "15",
+      "25",
+      "20",
+      "35"
+    ],
+    "op_hi": [
+      "15",
+      "25",
+      "20",
+      "35"
+    ],
+    "ans": 4,
+    "solution": "<b>Solution:</b><br><br><b>Final Answer:</b> !4!"
+  },
+  {
+    "section": "Arithmetic",
+    "topic": "General",
+    "difficulty": "Medium",
+    "q_en": "Find the value of m which satisfies the equation:<br><img name=\"32923_441009_0_28159491_gqa_m_4_oct_q31.png\" src=\"https://cdn.digialm.com/per/g01/pub/1258/touchstone/TempQPImagesStoreMode1/adcimages/1784283886587/4410095287868///32923_441009_0_28159491_gqa_m_4_oct_q31.png\">",
+    "q_hi": "Find the value of m which satisfies the equation:<br><img name=\"32923_441009_0_28159491_gqa_m_4_oct_q31.png\" src=\"https://cdn.digialm.com/per/g01/pub/1258/touchstone/TempQPImagesStoreMode1/adcimages/1784283886587/4410095287868///32923_441009_0_28159491_gqa_m_4_oct_q31.png\">",
+    "op_en": [
+      "-4",
+      "<img name=\"32923_441009_0_28159491_gqa_m_4_oct_q31_oc.png\" src=\"https://cdn.digialm.com/per/g01/pub/1258/touchstone/TempQPImagesStoreMode1/adcimages/1784283886587/4410095287868///32923_441009_0_28159491_gqa_m_4_oct_q31_oc.png\">",
+      "<img name=\"32923_441009_0_28159491_gqa_m_4_oct_q31_oa.png\" src=\"https://cdn.digialm.com/per/g01/pub/1258/touchstone/TempQPImagesStoreMode1/adcimages/1784283886587/4410095287868///32923_441009_0_28159491_gqa_m_4_oct_q31_oa.png\">",
+      "1"
+    ],
+    "op_hi": [
+      "-4",
+      "<img name=\"32923_441009_0_28159491_gqa_m_4_oct_q31_oc.png\" src=\"https://cdn.digialm.com/per/g01/pub/1258/touchstone/TempQPImagesStoreMode1/adcimages/1784283886587/4410095287868///32923_441009_0_28159491_gqa_m_4_oct_q31_oc.png\">",
+      "<img name=\"32923_441009_0_28159491_gqa_m_4_oct_q31_oa.png\" src=\"https://cdn.digialm.com/per/g01/pub/1258/touchstone/TempQPImagesStoreMode1/adcimages/1784283886587/4410095287868///32923_441009_0_28159491_gqa_m_4_oct_q31_oa.png\">",
+      "1"
+    ],
+    "ans": 3,
+    "solution": "<b>Solution:</b><br><br><b>Final Answer:</b> !3!"
+  },
+  {
+    "section": "Arithmetic1",
+    "topic": "General",
+    "difficulty": "Medium",
+    "q_en": "If 68% of the first number is equal to four-ninths of the second number, what is the ratio of the first number to the second number?",
+    "q_hi": "If 68% of the first number is equal to four-ninths of the second number, what is the ratio of the first number to the second number?",
+    "op_en": [
+      "98 : 148",
+      "99 : 154",
+      "96 : 156",
+      "100 : 153"
+    ],
+    "op_hi": [
+      "98 : 148",
+      "99 : 154",
+      "96 : 156",
+      "100 : 153"
+    ],
+    "ans": 4,
+    "solution": "<b>Solution:</b><br><br><b>Final Answer:</b> !4!"
+  },
+  {
+    "section": "Arithmetic1",
+    "topic": "General",
+    "difficulty": "Medium",
+    "q_en": "<p data-pm-slice=\"0 0 []\">The ratio of two numbers is 4 : 7. If 16 is subtracted from the first number and 26 is added to the second number, the ratio becomes 2 : 5. Find the difference between the two original numbers.</p>",
+    "q_hi": "<p data-pm-slice=\"0 0 []\">The ratio of two numbers is 4 : 7. If 16 is subtracted from the first number and 26 is added to the second number, the ratio becomes 2 : 5. Find the difference between the two original numbers.</p>",
+    "op_en": [
+      "72",
+      "54",
+      "48",
+      "66"
+    ],
+    "op_hi": [
+      "72",
+      "54",
+      "48",
+      "66"
+    ],
+    "ans": 4,
+    "solution": "<b>Solution:</b><br><br><b>Final Answer:</b> !4!"
+  },
+  {
+    "section": "Arithmetic1",
+    "topic": "General",
+    "difficulty": "Medium",
+    "q_en": "A solid cube having volume 58752 cm<sup>3</sup> is cut into 34 cubes of equal volume. The surface area (in cm<sup>2</sup>) of the each smaller cube is:",
+    "q_hi": "A solid cube having volume 58752 cm<sup>3</sup> is cut into 34 cubes of equal volume. The surface area (in cm<sup>2</sup>) of the each smaller cube is:",
+    "op_en": [
+      "964 cm<sup>2</sup>",
+      "800 cm<sup>2</sup>",
+      "764 cm<sup>2</sup>",
+      "864 cm<sup>2</sup>"
+    ],
+    "op_hi": [
+      "964 cm<sup>2</sup>",
+      "800 cm<sup>2</sup>",
+      "764 cm<sup>2</sup>",
+      "864 cm<sup>2</sup>"
+    ],
+    "ans": 4,
+    "solution": "<b>Solution:</b><br><br><b>Final Answer:</b> !4!"
+  },
+  {
+    "section": "Arithmetic1",
+    "topic": "General",
+    "difficulty": "Medium",
+    "q_en": "A tank in the shape of an inverted cone has a radius of 6 m at the top and a depth of 9 m. It is filled with water to a height of 6 m from the bottom of the tank. A cylindrical pipe drains water from the tank at 2 m<sup>3</sup>/min. How long will it take to empty the tank?",
+    "q_hi": "A tank in the shape of an inverted cone has a radius of 6 m at the top and a depth of 9 m. It is filled with water to a height of 6 m from the bottom of the tank. A cylindrical pipe drains water from the tank at 2 m<sup>3</sup>/min. How long will it take to empty the tank?",
+    "op_en": [
+      "<img align=\"middle\" alt=\"16 pi space minutes\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mn»16«/mn»«mi»§#960;«/mi»«mo»§#160;«/mo»«mi»minutes«/mi»«/math»\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAF0AAAAOCAYAAABNaxCaAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAANvpXuIwAAAmZJREFUeNrtWE9EhEEU/6yVpMtaK2vtZSVJt9UhHRLp0KFDpEM6RdIh3ZMkXTqsdEs6JZF0SpZOWUmXZK0kkpUOWTokK2v5esPv4xkz38y3/dtdPX7svJn3vje/eTPzZh2n+eSCcNkIgSYJs4QDQtli/BjhiPBGqNbZXHIgvu4lT7ghuIBOYoQzkL1CSBNCUn+B+TFhtIF2UMLATU0SMpAeJzwSrhCASpYCEN5opM/8BOmOgfRLkB7xsV8krPksoGh/NOA9IY7f198mfQr6DcIpiHsmLAT0ZUt6LyGDibbit7hrngjDhChhD76KhEGFndxuJ2wxP4NSnK4idpcdv1xXknZAEbFkpVOgj/Wt6xZNR3oW+jlCmJBC1rv46HeT/srsJwlthHG0i1hsoRuCrqCwc0CO154H8SOSTUwRa9xnIbhMQCfI7ZL8Orgne/C7KyjpZYXey/7bgKRXvnC/mHzKdiHLOGy+pRpzrrmrPKlid9V0vFQU+hZD5tqS5nzR3kROrYTajKkY5nOP/juQHw5C+h30ccX4Fx/S5KyuNhnp3nx6NHMQx9kus90MQvoqOxc9SUGXUYwPo09+aBWhT9QZ6VWfMSEfP9fQnWDnJzVJ2E84VD08O5jjDqmvDReEcNiNFTxBFRBVfCQNP3lJn4F+H6/aqIbwCIslYqmLKsbY+vF28gjmNsfGeCS+sazOQTctneViZ+9IC9fJys4HR1MiuZpVjbEy7QN/GegydllT2YhJHiOzji2ynMdhozNB52eYlXbbSLISkqQXY0QV9Y7HYVJ6m5Rgeyglkld9PaDaG3D+5W/kEysKZaSNKkMdAAAAeXRFWHRNYXRoTUwAPG1hdGggeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzE5OTgvTWF0aC9NYXRoTUwiPjxtbj4xNjwvbW4+PG1pPiYjeDNDMDs8L21pPjxtbz4mI3hBMDs8L21vPjxtaT5taW51dGVzPC9taT48L21hdGg+exFOLAAAAABJRU5ErkJggg==\" style=\"max-width: none;\">",
+      "<img align=\"middle\" alt=\"15 pi space minutes\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mn»15«/mn»«mi»§#960;«/mi»«mo»§#160;«/mo»«mi»minutes«/mi»«/math»\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAF0AAAAOCAYAAABNaxCaAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAANvpXuIwAAAlBJREFUeNrtV0FERFEU/b6RZDYjI0mbZCTt0iItRowWLVpEZpVkSFqkfWaV2bRIWkTSKolZzKpFmxZjJG2SJGNIkiRDiyQZw+8+zud57n//zf/S/HQ5zLvv3jvvnffevfdb1t+Tc8JFFBbaT1giHBM+NXY24ZXgALU23EsFxLe93BCuJTK9ZE6yEdhR5pOEW8VGh+kIvaA+H24CiW1A+hlhUTO/3gLhUSM99xOkWz6kD2Dug7BH6GFs1ggbmgMU468I1gmRft9+g/SCckufPYjXxTIlfYSwhY124reoNU+EDKGbcIhYj4Q046eO40iHbpy0sk6HWbsjpV9ZV1dewCPWcoo05MqYNFfw4tYvvYicvUC4g93uD5H+JvlnCV2EWYzFJlahm4TulvGzQI47XgHxU4pPkllrr+YguBonyE0pcS3UyWH8TgUl3RVx+8roZFolvRGivvjFVP1sw3WY/BdnU/aoVa40mWYjMOlChnwINCUtrL8fOUEJNbFp+OynhvkqyI+FJd3CU9eRph5K84+R7u5n2GMPIp0dSL7bYUnvQ6fCSQxxPplDcpRi0w6kNzU2tibOFXQnhA50OVzKHScUuQ/PHikw15XkUYxsFJ9NnCQno4hzo+i3oD8izKAL4SQhrSVhqOtmbEzjVDGewp6WJRuXxHfpVlegm1dyuXjZ+8rBDUpt573l0SI5Hqd6hKAvIC+uuaV5+OcYMku4WSWDWy6vw0TnB684Gam120NnVMc+R2CTxTfKJQiUv03q8C0qF8ntvgTZD4QJ619+R74BVZFYm4WB+OYAAAB5dEVYdE1hdGhNTAA8bWF0aCB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMTk5OC9NYXRoL01hdGhNTCI+PG1uPjE1PC9tbj48bWk+JiN4M0MwOzwvbWk+PG1vPiYjeEEwOzwvbW8+PG1pPm1pbnV0ZXM8L21pPjwvbWF0aD7/FNv8AAAAAElFTkSuQmCC\" style=\"max-width: none;\">",
+      "<img align=\"middle\" alt=\"13 pi space minutes\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mn»13«/mn»«mi»§#960;«/mi»«mo»§#160;«/mo»«mi»minutes«/mi»«/math»\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAF0AAAAOCAYAAABNaxCaAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAANvpXuIwAAAk9JREFUeNrtV09EBGEUH2MlSay1knTLytpbknRIrA576BDp1CmSPaT76pQuyVrdkk5J7KFTh24rSSLJWkkkKx2ydEiSsUxv+H08n++b+ZpR7abHj/nevPfmfb/vz3tjWX9Pzgjn7ZDoAGGRcEB419iMYkIO4ZWwS0i04FxOkWfLS5VwTXABWdKEAiFG6CFsw64i2SUJNRYnCLk2OkH9Gm4iie1Del5jK5+KwhcIbzfSF76DdMuHdFsaD8FuQ9KvENZ8FtAbf7RhnfCu35efJp3LCOGGUAoRy5T0DKGIiXbi2TtVj4QsaskeYtUJEwo/edxN2GJxJqQ8XUXuLrt+ua4hnYA6cjnGNcS5Eu/WddwGkZ5jNhXc4d9B+gvznyN0EWYw9iaxDN0kdDWFnwVyxDgP4qckn6Qi1z6fheAyC51HbkqKa6FOpvGcCku6OGqXsNsLQboTob4ExZT9bMM8TL6lsjnR1CohTZyuyNeLODauT3tpfYG0qP5B5IQl1MTGCZjPHd7fgvxYFNJtQ9LlXd38Y6SL+aQ1c+jG/4zwLUUhXfSs+5r3Mc2i1KHvbzHSmz42tk+cK+iOCB24ep8VcxkjlFWbtJcF7lWQtYOuIYkq/aSwEzKMOFVJX2SLNe3zRxtnucQNdQmFjWmcW4ynsDuXmI0g8ZXt6lPo5qW73AFPfOEGWS28tzQtkqoglNB1OHDcDOhcVuG/oCDzEDvr0GCX8zxMdEHQxcmy1m4bnVEDmyQDG6+LeiNcgED+b9KAb1naSKL78jh7IIxb//I78gnAfFvhb9oomgAAAHl0RVh0TWF0aE1MADxtYXRoIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8xOTk4L01hdGgvTWF0aE1MIj48bW4+MTM8L21uPjxtaT4mI3gzQzA7PC9taT48bW8+JiN4QTA7PC9tbz48bWk+bWludXRlczwvbWk+PC9tYXRoPixu9h0AAAAASUVORK5CYII=\" style=\"max-width: none;\">",
+      "<img align=\"middle\" alt=\"12 pi space minutes\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mn»12«/mn»«mi»§#960;«/mi»«mo»§#160;«/mo»«mi»minutes«/mi»«/math»\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAF0AAAAOCAYAAABNaxCaAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAANvpXuIwAAAkpJREFUeNrtV0FEhEEU/q2VpMtaWSuJpEO6JVkdVmQPHTpEOqRDIumQ7umU6JCVbkmnJPawh3SITllJZCVJIlkdkqVDkqzl7w3fz/PM/Dv7r+xuenz88+bN+2e+efPmjeP8PbkgXDbDRLsIC4QjwpfBJkG4J5QIr4RNQrgB15ID8Q0vt4QbggtIiTCSe0C+stsSdh2EO+anEsab6AR1GripSUI+pM+JqE7A7lPYrVZBeLORPv8bpDs+pJtsZSpaIaz7bKBqfzfhPaHS73u9SW+B3XGVvmxJHyCksdBWfKsNfiGMEaKEA/gqEJKacbLdTthhfpJinq5m7i5Lv1xXFCeggLmcIg15MsT6Nkzc2pI+DbvhXyL9nY1X/2ojTKKtFrEM3Sh0d5pxDsjx2ksgPiXGdGjmGvfZCC5T0Cly+4RfB/dkP777aiU9T9gNcGpcVD9B75dKPuW4kOU8bP6lszk33FWelHG6ak4vKm9f49gHId2tIdUFIScooTY2pQrreUT/A8gPByF9BIRHLUmTUV3+Y6R76+k3rEGls302drta0rsJZ4LwGdTsUsKG6qYAfWeDkV72sQn5+MlDd4LiQlU5b4aHZUb38IwxxzHRF8eNr8tfupw1iL5boU9Df0iY8DkxEeY/YqmLamxs/TygnUJ0LjIbj8QPFtU56GYFF+pk74mN62Vl55NjKJF0F8JjlQ+cNfTNa8jMIrKyFlHO52GjqwSTnzFW2u2iMioiSAZYxaYeg1cgkN9xRYzNiEDyqi9F9jPS87/UQ34Awc5enV5C3wQAAAB5dEVYdE1hdGhNTAA8bWF0aCB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMTk5OC9NYXRoL01hdGhNTCI+PG1uPjEyPC9tbj48bWk+JiN4M0MwOzwvbWk+PG1vPiYjeEEwOzwvbW8+PG1pPm1pbnV0ZXM8L21pPjwvbWF0aD7mvXiSAAAAAElFTkSuQmCC\" style=\"max-width: none;\">"
+    ],
+    "op_hi": [
+      "<img align=\"middle\" alt=\"16 pi space minutes\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mn»16«/mn»«mi»§#960;«/mi»«mo»§#160;«/mo»«mi»minutes«/mi»«/math»\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAF0AAAAOCAYAAABNaxCaAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAANvpXuIwAAAmZJREFUeNrtWE9EhEEU/6yVpMtaK2vtZSVJt9UhHRLp0KFDpEM6RdIh3ZMkXTqsdEs6JZF0SpZOWUmXZK0kkpUOWTokK2v5esPv4xkz38y3/dtdPX7svJn3vje/eTPzZh2n+eSCcNkIgSYJs4QDQtli/BjhiPBGqNbZXHIgvu4lT7ghuIBOYoQzkL1CSBNCUn+B+TFhtIF2UMLATU0SMpAeJzwSrhCASpYCEN5opM/8BOmOgfRLkB7xsV8krPksoGh/NOA9IY7f198mfQr6DcIpiHsmLAT0ZUt6LyGDibbit7hrngjDhChhD76KhEGFndxuJ2wxP4NSnK4idpcdv1xXknZAEbFkpVOgj/Wt6xZNR3oW+jlCmJBC1rv46HeT/srsJwlthHG0i1hsoRuCrqCwc0CO154H8SOSTUwRa9xnIbhMQCfI7ZL8Orgne/C7KyjpZYXey/7bgKRXvnC/mHzKdiHLOGy+pRpzrrmrPKlid9V0vFQU+hZD5tqS5nzR3kROrYTajKkY5nOP/juQHw5C+h30ccX4Fx/S5KyuNhnp3nx6NHMQx9kus90MQvoqOxc9SUGXUYwPo09+aBWhT9QZ6VWfMSEfP9fQnWDnJzVJ2E84VD08O5jjDqmvDReEcNiNFTxBFRBVfCQNP3lJn4F+H6/aqIbwCIslYqmLKsbY+vF28gjmNsfGeCS+sazOQTctneViZ+9IC9fJys4HR1MiuZpVjbEy7QN/GegydllT2YhJHiOzji2ynMdhozNB52eYlXbbSLISkqQXY0QV9Y7HYVJ6m5Rgeyglkld9PaDaG3D+5W/kEysKZaSNKkMdAAAAeXRFWHRNYXRoTUwAPG1hdGggeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzE5OTgvTWF0aC9NYXRoTUwiPjxtbj4xNjwvbW4+PG1pPiYjeDNDMDs8L21pPjxtbz4mI3hBMDs8L21vPjxtaT5taW51dGVzPC9taT48L21hdGg+exFOLAAAAABJRU5ErkJggg==\" style=\"max-width: none;\">",
+      "<img align=\"middle\" alt=\"15 pi space minutes\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mn»15«/mn»«mi»§#960;«/mi»«mo»§#160;«/mo»«mi»minutes«/mi»«/math»\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAF0AAAAOCAYAAABNaxCaAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAANvpXuIwAAAlBJREFUeNrtV0FERFEU/b6RZDYjI0mbZCTt0iItRowWLVpEZpVkSFqkfWaV2bRIWkTSKolZzKpFmxZjJG2SJGNIkiRDiyQZw+8+zud57n//zf/S/HQ5zLvv3jvvnffevfdb1t+Tc8JFFBbaT1giHBM+NXY24ZXgALU23EsFxLe93BCuJTK9ZE6yEdhR5pOEW8VGh+kIvaA+H24CiW1A+hlhUTO/3gLhUSM99xOkWz6kD2Dug7BH6GFs1ggbmgMU468I1gmRft9+g/SCckufPYjXxTIlfYSwhY124reoNU+EDKGbcIhYj4Q046eO40iHbpy0sk6HWbsjpV9ZV1dewCPWcoo05MqYNFfw4tYvvYicvUC4g93uD5H+JvlnCV2EWYzFJlahm4TulvGzQI47XgHxU4pPkllrr+YguBonyE0pcS3UyWH8TgUl3RVx+8roZFolvRGivvjFVP1sw3WY/BdnU/aoVa40mWYjMOlChnwINCUtrL8fOUEJNbFp+OynhvkqyI+FJd3CU9eRph5K84+R7u5n2GMPIp0dSL7bYUnvQ6fCSQxxPplDcpRi0w6kNzU2tibOFXQnhA50OVzKHScUuQ/PHikw15XkUYxsFJ9NnCQno4hzo+i3oD8izKAL4SQhrSVhqOtmbEzjVDGewp6WJRuXxHfpVlegm1dyuXjZ+8rBDUpt573l0SI5Hqd6hKAvIC+uuaV5+OcYMku4WSWDWy6vw0TnB684Gam120NnVMc+R2CTxTfKJQiUv03q8C0qF8ntvgTZD4QJ619+R74BVZFYm4WB+OYAAAB5dEVYdE1hdGhNTAA8bWF0aCB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMTk5OC9NYXRoL01hdGhNTCI+PG1uPjE1PC9tbj48bWk+JiN4M0MwOzwvbWk+PG1vPiYjeEEwOzwvbW8+PG1pPm1pbnV0ZXM8L21pPjwvbWF0aD7/FNv8AAAAAElFTkSuQmCC\" style=\"max-width: none;\">",
+      "<img align=\"middle\" alt=\"13 pi space minutes\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mn»13«/mn»«mi»§#960;«/mi»«mo»§#160;«/mo»«mi»minutes«/mi»«/math»\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAF0AAAAOCAYAAABNaxCaAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAANvpXuIwAAAk9JREFUeNrtV09EBGEUH2MlSay1knTLytpbknRIrA576BDp1CmSPaT76pQuyVrdkk5J7KFTh24rSSLJWkkkKx2ydEiSsUxv+H08n++b+ZpR7abHj/nevPfmfb/vz3tjWX9Pzgjn7ZDoAGGRcEB419iMYkIO4ZWwS0i04FxOkWfLS5VwTXABWdKEAiFG6CFsw64i2SUJNRYnCLk2OkH9Gm4iie1Del5jK5+KwhcIbzfSF76DdMuHdFsaD8FuQ9KvENZ8FtAbf7RhnfCu35efJp3LCOGGUAoRy5T0DKGIiXbi2TtVj4QsaskeYtUJEwo/edxN2GJxJqQ8XUXuLrt+ua4hnYA6cjnGNcS5Eu/WddwGkZ5jNhXc4d9B+gvznyN0EWYw9iaxDN0kdDWFnwVyxDgP4qckn6Qi1z6fheAyC51HbkqKa6FOpvGcCku6OGqXsNsLQboTob4ExZT9bMM8TL6lsjnR1CohTZyuyNeLODauT3tpfYG0qP5B5IQl1MTGCZjPHd7fgvxYFNJtQ9LlXd38Y6SL+aQ1c+jG/4zwLUUhXfSs+5r3Mc2i1KHvbzHSmz42tk+cK+iOCB24ep8VcxkjlFWbtJcF7lWQtYOuIYkq/aSwEzKMOFVJX2SLNe3zRxtnucQNdQmFjWmcW4ynsDuXmI0g8ZXt6lPo5qW73AFPfOEGWS28tzQtkqoglNB1OHDcDOhcVuG/oCDzEDvr0GCX8zxMdEHQxcmy1m4bnVEDmyQDG6+LeiNcgED+b9KAb1naSKL78jh7IIxb//I78gnAfFvhb9oomgAAAHl0RVh0TWF0aE1MADxtYXRoIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8xOTk4L01hdGgvTWF0aE1MIj48bW4+MTM8L21uPjxtaT4mI3gzQzA7PC9taT48bW8+JiN4QTA7PC9tbz48bWk+bWludXRlczwvbWk+PC9tYXRoPixu9h0AAAAASUVORK5CYII=\" style=\"max-width: none;\">",
+      "<img align=\"middle\" alt=\"12 pi space minutes\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mn»12«/mn»«mi»§#960;«/mi»«mo»§#160;«/mo»«mi»minutes«/mi»«/math»\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAF0AAAAOCAYAAABNaxCaAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAANvpXuIwAAAkpJREFUeNrtV0FEhEEU/q2VpMtaWSuJpEO6JVkdVmQPHTpEOqRDIumQ7umU6JCVbkmnJPawh3SITllJZCVJIlkdkqVDkqzl7w3fz/PM/Dv7r+xuenz88+bN+2e+efPmjeP8PbkgXDbDRLsIC4QjwpfBJkG4J5QIr4RNQrgB15ID8Q0vt4QbggtIiTCSe0C+stsSdh2EO+anEsab6AR1GripSUI+pM+JqE7A7lPYrVZBeLORPv8bpDs+pJtsZSpaIaz7bKBqfzfhPaHS73u9SW+B3XGVvmxJHyCksdBWfKsNfiGMEaKEA/gqEJKacbLdTthhfpJinq5m7i5Lv1xXFCeggLmcIg15MsT6Nkzc2pI+DbvhXyL9nY1X/2ojTKKtFrEM3Sh0d5pxDsjx2ksgPiXGdGjmGvfZCC5T0Cly+4RfB/dkP777aiU9T9gNcGpcVD9B75dKPuW4kOU8bP6lszk33FWelHG6ak4vKm9f49gHId2tIdUFIScooTY2pQrreUT/A8gPByF9BIRHLUmTUV3+Y6R76+k3rEGls302drta0rsJZ4LwGdTsUsKG6qYAfWeDkV72sQn5+MlDd4LiQlU5b4aHZUb38IwxxzHRF8eNr8tfupw1iL5boU9Df0iY8DkxEeY/YqmLamxs/TygnUJ0LjIbj8QPFtU56GYFF+pk74mN62Vl55NjKJF0F8JjlQ+cNfTNa8jMIrKyFlHO52GjqwSTnzFW2u2iMioiSAZYxaYeg1cgkN9xRYzNiEDyqi9F9jPS87/UQ34Awc5enV5C3wQAAAB5dEVYdE1hdGhNTAA8bWF0aCB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMTk5OC9NYXRoL01hdGhNTCI+PG1uPjEyPC9tbj48bWk+JiN4M0MwOzwvbWk+PG1vPiYjeEEwOzwvbW8+PG1pPm1pbnV0ZXM8L21pPjwvbWF0aD7mvXiSAAAAAElFTkSuQmCC\" style=\"max-width: none;\">"
+    ],
+    "ans": 1,
+    "solution": "<b>Solution:</b><br><br><b>Final Answer:</b> !1!"
+  },
+  {
+    "section": "Arithmetic1",
+    "topic": "General",
+    "difficulty": "Medium",
+    "q_en": "X ,Y and Z together can complete a piece of work in 12 days, while X alone can complete it in 28 days and Z alone can complete it in 35 days. In how much time can Y alone complete the work?",
+    "q_hi": "X ,Y and Z together can complete a piece of work in 12 days, while X alone can complete it in 28 days and Z alone can complete it in 35 days. In how much time can Y alone complete the work?",
+    "op_en": [
+      "53.5 days",
+      "54.5 days",
+      "51.5 days",
+      "52.5 days"
+    ],
+    "op_hi": [
+      "53.5 days",
+      "54.5 days",
+      "51.5 days",
+      "52.5 days"
+    ],
+    "ans": 4,
+    "solution": "<b>Solution:</b><br><br><b>Final Answer:</b> !4!"
+  },
+  {
+    "section": "Arithmetic1",
+    "topic": "General",
+    "difficulty": "Medium",
+    "q_en": "A tank is initially empty. One tap can fill the tank completely in 3 hours, while another tap can empty a full tank in 12 hours. If both taps are opened at the same time, how long (in hours) will it take to fill three-fourths of the tank?",
+    "q_hi": "A tank is initially empty. One tap can fill the tank completely in 3 hours, while another tap can empty a full tank in 12 hours. If both taps are opened at the same time, how long (in hours) will it take to fill three-fourths of the tank?",
+    "op_en": [
+      "3",
+      "12",
+      "6",
+      "9"
+    ],
+    "op_hi": [
+      "3",
+      "12",
+      "6",
+      "9"
+    ],
+    "ans": 1,
+    "solution": "<b>Solution:</b><br><br><b>Final Answer:</b> !1!"
+  },
+  {
+    "section": "Arithmetic1",
+    "topic": "General",
+    "difficulty": "Medium",
+    "q_en": "A car travels 147 km at a speed of 35 km/h, then 180 km at a speed of 45 km/h, and finally 357.5 km at a speed of 65 km/h. What is the average speed of the car for the entire journey? (Round off to two decimal places.)",
+    "q_hi": "A car travels 147 km at a speed of 35 km/h, then 180 km at a speed of 45 km/h, and finally 357.5 km at a speed of 65 km/h. What is the average speed of the car for the entire journey? (Round off to two decimal places.)",
+    "op_en": [
+      "49.64 km/h",
+      "49.96 km/h",
+      "49.36 km/h",
+      "49.12 km/h"
+    ],
+    "op_hi": [
+      "49.64 km/h",
+      "49.96 km/h",
+      "49.36 km/h",
+      "49.12 km/h"
+    ],
+    "ans": 2,
+    "solution": "<b>Solution:</b><br><br><b>Final Answer:</b> !2!"
+  },
+  {
+    "section": "Arithmetic1",
+    "topic": "General",
+    "difficulty": "Medium",
+    "q_en": "A circle is inscribed in a square whose side is 10 cm and another circle circumscribes the same square. Find the ratio of the circumference of the bigger circle to that of the smaller circle.",
+    "q_hi": "A circle is inscribed in a square whose side is 10 cm and another circle circumscribes the same square. Find the ratio of the circumference of the bigger circle to that of the smaller circle.",
+    "op_en": [
+      "<img align=\"middle\" alt=\"1 colon square root of 2\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mn»1«/mn»«mo»:«/mo»«msqrt»«mn»2«/mn»«/msqrt»«/math»\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACkAAAAWCAYAAABdTLWOAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAASM53j1gAAAW1JREFUeNpjYKAvUABiAYZBDCyA+D+ZmG6gHYjfA7HIYA1FFiB+DcTNgzmqPaDRpjCYHbkciE9TaogsEKdBDftGZQeCcvN3IE7BImcJxNeA+BcQPwfiDmjSwAouAfEFGuWmGCD+jSXDCCI5SgnqWJDdPfgMY6KRI09DYwgdJKKFmiXU7i+EDKS2I2Wg5vkQqf4/MckNnyOPAvFxEh3ZAC16eIhQywa1exMljjwMdSgp4D60ECcGhEPtNqdFdLvgyJE2ULMsiDTnHBDPJDZN/CcxOnHlyPlAfJ5IcwqA+AwQc9DSkX+AWBxJnAOaFiuIMMMa6kBhBhJyF6nRDUtLB7CUjYSqQXkg3o3mwGhomYkViCM5UpzE3H0DiP8BsSmUvx6INxNwoCQQP8bRNJuELwTxtePw5W41qCPvQcvG3ziqQWRwC4+9XrRqROyAWrAXmh45GAYh4ICGIMihKwZzk6wf6kg/hkEO+vE1t8gBAI+/ftTRQpkLAAAAbHRFWHRNYXRoTUwAPG1hdGggeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzE5OTgvTWF0aC9NYXRoTUwiPjxtbj4xPC9tbj48bW8+OjwvbW8+PG1zcXJ0Pjxtbj4yPC9tbj48L21zcXJ0PjwvbWF0aD7rF5nwAAAAAElFTkSuQmCC\" style=\"max-width: none;\">",
+      "<img align=\"middle\" alt=\"2 colon 1\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mn»2«/mn»«mo»:«/mo»«mn»1«/mn»«/math»\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABcAAAANCAYAAABCZ/VdAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAMyZLetQAAALJJREFUeNpjYIAASyC+BsS/gPg5EHcAMQsDYSALxGlAvByIv2FTIIhkmBLUkv9A3EOE4ZeA+AJU/X9sChLRXGkJVfiFgTjAhM9wbOA/Lm/iUU+U4WxQhZvQxI8C8XFKDQ+HKjRHEz8MtYAiw88B8UwG0gBRhhcA8Rkg5qC24dZQg4UZSAd4DZcH4t1oBkdD0zxFhksC8WMkBch4EhGpRRxJvTi65C0cBoOwF4HUgksf7QEAUDBF8RGl/MEAAABddEVYdE1hdGhNTAA8bWF0aCB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMTk5OC9NYXRoL01hdGhNTCI+PG1uPjI8L21uPjxtbz46PC9tbz48bW4+MTwvbW4+PC9tYXRoPrS5qWMAAAAASUVORK5CYII=\" style=\"max-width: none;\">",
+      "<img align=\"middle\" alt=\"1 colon 2\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mn»1«/mn»«mo»:«/mo»«mn»2«/mn»«/math»\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABcAAAANCAYAAABCZ/VdAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAMyZLetQAAAK5JREFUeNpjYIAAWSBOA+LlQPyNgXhgCcTXgPgXED8H4g4gZkFXdAmILwDxfygmBggiGaYEtQSktwebYiYSDU9Ec6UlVO8XXBpIMRyX/m/kGH4UiI/jMZgNqncTOYYfhlqAC4RD9ZrTIljOAfFMQmFGjuEFQHwGiDmobbg11GBhYmKbFMPlgXg3msHR0DSPAsSRDBcnIrVIAvFjJD3IeBI2F6NjfKnlFh59Xgy0BgBq4UXx60cbKwAAAF10RVh0TWF0aE1MADxtYXRoIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8xOTk4L01hdGgvTWF0aE1MIj48bW4+MTwvbW4+PG1vPjo8L21vPjxtbj4yPC9tbj48L21hdGg+UmR0uAAAAABJRU5ErkJggg==\" style=\"max-width: none;\">",
+      "<img align=\"middle\" alt=\"square root of 2 colon 1\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«msqrt»«mn»2«/mn»«/msqrt»«mo»:«/mo»«mn»1«/mn»«/math»\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACkAAAAWCAYAAABdTLWOAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAASM53j1gAAAWhJREFUeNpjYCAPKACxAMMgBhZA/J9MTDfQDsTvgVhksIYiCxC/BuLmwRzVHtBoUxjMjlwOxKcHswNBufk7EKdgkbME4mtA/AuInwNxBzRpEAtkgTgNGgjfKHFkDBD/xpJhBJEcpQR1LChJ9JBg9iUgvkCNUuA01KfoIBEt1CyhFn0h0XwmSh0pA9XsQ6T6/2RGG0WObIAWPTxEqGWDWrQJh/xRID5OC0fehxbixIBwqEXmOOQPQx1KliNdcORIG6hGCyIdeQ6IZ5IZGHgd2YAnR84H4vNEWlIAxGeAmIOWjvwDxOJI4hzQtFhBhAXWUAcKU1CCEIxuWFo6gKVsJFQNygPxbjQHRkPLTKrn7htA/A+ITaH89UC8mYAeSSB+jKNpNomE3C2OpE8cn4VqUEfeg5aNv3FUg8jgFp72oxeRuZvk9ucOqIK90PTIwTAIAQc0BEEOXTGYWzz9UEf6MQxy0E9ic4tmAADG1H7UV70NGwAAAGx0RVh0TWF0aE1MADxtYXRoIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8xOTk4L01hdGgvTWF0aE1MIj48bXNxcnQ+PG1uPjI8L21uPjwvbXNxcnQ+PG1vPjo8L21vPjxtbj4xPC9tbj48L21hdGg+3UzXbwAAAABJRU5ErkJggg==\" style=\"max-width: none;\">"
+    ],
+    "op_hi": [
+      "<img align=\"middle\" alt=\"1 colon square root of 2\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mn»1«/mn»«mo»:«/mo»«msqrt»«mn»2«/mn»«/msqrt»«/math»\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACkAAAAWCAYAAABdTLWOAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAASM53j1gAAAW1JREFUeNpjYKAvUABiAYZBDCyA+D+ZmG6gHYjfA7HIYA1FFiB+DcTNgzmqPaDRpjCYHbkciE9TaogsEKdBDftGZQeCcvN3IE7BImcJxNeA+BcQPwfiDmjSwAouAfEFGuWmGCD+jSXDCCI5SgnqWJDdPfgMY6KRI09DYwgdJKKFmiXU7i+EDKS2I2Wg5vkQqf4/MckNnyOPAvFxEh3ZAC16eIhQywa1exMljjwMdSgp4D60ECcGhEPtNqdFdLvgyJE2ULMsiDTnHBDPJDZN/CcxOnHlyPlAfJ5IcwqA+AwQc9DSkX+AWBxJnAOaFiuIMMMa6kBhBhJyF6nRDUtLB7CUjYSqQXkg3o3mwGhomYkViCM5UpzE3H0DiP8BsSmUvx6INxNwoCQQP8bRNJuELwTxtePw5W41qCPvQcvG3ziqQWRwC4+9XrRqROyAWrAXmh45GAYh4ICGIMihKwZzk6wf6kg/hkEO+vE1t8gBAI+/ftTRQpkLAAAAbHRFWHRNYXRoTUwAPG1hdGggeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzE5OTgvTWF0aC9NYXRoTUwiPjxtbj4xPC9tbj48bW8+OjwvbW8+PG1zcXJ0Pjxtbj4yPC9tbj48L21zcXJ0PjwvbWF0aD7rF5nwAAAAAElFTkSuQmCC\" style=\"max-width: none;\">",
+      "<img align=\"middle\" alt=\"2 colon 1\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mn»2«/mn»«mo»:«/mo»«mn»1«/mn»«/math»\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABcAAAANCAYAAABCZ/VdAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAMyZLetQAAALJJREFUeNpjYIAASyC+BsS/gPg5EHcAMQsDYSALxGlAvByIv2FTIIhkmBLUkv9A3EOE4ZeA+AJU/X9sChLRXGkJVfiFgTjAhM9wbOA/Lm/iUU+U4WxQhZvQxI8C8XFKDQ+HKjRHEz8MtYAiw88B8UwG0gBRhhcA8Rkg5qC24dZQg4UZSAd4DZcH4t1oBkdD0zxFhksC8WMkBch4EhGpRRxJvTi65C0cBoOwF4HUgksf7QEAUDBF8RGl/MEAAABddEVYdE1hdGhNTAA8bWF0aCB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMTk5OC9NYXRoL01hdGhNTCI+PG1uPjI8L21uPjxtbz46PC9tbz48bW4+MTwvbW4+PC9tYXRoPrS5qWMAAAAASUVORK5CYII=\" style=\"max-width: none;\">",
+      "<img align=\"middle\" alt=\"1 colon 2\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«mn»1«/mn»«mo»:«/mo»«mn»2«/mn»«/math»\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABcAAAANCAYAAABCZ/VdAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAAMyZLetQAAAK5JREFUeNpjYIAAWSBOA+LlQPyNgXhgCcTXgPgXED8H4g4gZkFXdAmILwDxfygmBggiGaYEtQSktwebYiYSDU9Ec6UlVO8XXBpIMRyX/m/kGH4UiI/jMZgNqncTOYYfhlqAC4RD9ZrTIljOAfFMQmFGjuEFQHwGiDmobbg11GBhYmKbFMPlgXg3msHR0DSPAsSRDBcnIrVIAvFjJD3IeBI2F6NjfKnlFh59Xgy0BgBq4UXx60cbKwAAAF10RVh0TWF0aE1MADxtYXRoIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8xOTk4L01hdGgvTWF0aE1MIj48bW4+MTwvbW4+PG1vPjo8L21vPjxtbj4yPC9tbj48L21hdGg+UmR0uAAAAABJRU5ErkJggg==\" style=\"max-width: none;\">",
+      "<img align=\"middle\" alt=\"square root of 2 colon 1\" class=\"Wirisformula\" data-mathml=\"«math xmlns=¨http://www.w3.org/1998/Math/MathML¨»«msqrt»«mn»2«/mn»«/msqrt»«mo»:«/mo»«mn»1«/mn»«/math»\" role=\"math\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACkAAAAWCAYAAABdTLWOAAAACXBIWXMAABM5AAATOQGPwlYBAAAABGJhU0UAAAASM53j1gAAAWhJREFUeNpjYCAPKACxAMMgBhZA/J9MTDfQDsTvgVhksIYiCxC/BuLmwRzVHtBoUxjMjlwOxKcHswNBufk7EKdgkbME4mtA/AuInwNxBzRpEAtkgTgNGgjfKHFkDBD/xpJhBJEcpQR1LChJ9JBg9iUgvkCNUuA01KfoIBEt1CyhFn0h0XwmSh0pA9XsQ6T6/2RGG0WObIAWPTxEqGWDWrQJh/xRID5OC0fehxbixIBwqEXmOOQPQx1KliNdcORIG6hGCyIdeQ6IZ5IZGHgd2YAnR84H4vNEWlIAxGeAmIOWjvwDxOJI4hzQtFhBhAXWUAcKU1CCEIxuWFo6gKVsJFQNygPxbjQHRkPLTKrn7htA/A+ITaH89UC8mYAeSSB+jKNpNomE3C2OpE8cn4VqUEfeg5aNv3FUg8jgFp72oxeRuZvk9ucOqIK90PTIwTAIAQc0BEEOXTGYWzz9UEf6MQxy0E9ic4tmAADG1H7UV70NGwAAAGx0RVh0TWF0aE1MADxtYXRoIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8xOTk4L01hdGgvTWF0aE1MIj48bXNxcnQ+PG1uPjI8L21uPjwvbXNxcnQ+PG1vPjo8L21vPjxtbj4xPC9tbj48L21hdGg+3UzXbwAAAABJRU5ErkJggg==\" style=\"max-width: none;\">"
+    ],
+    "ans": 4,
+    "solution": "<b>Solution:</b><br><br><b>Final Answer:</b> !4!"
+  },
+  {
+    "section": "Arithmetic1",
+    "topic": "General",
+    "difficulty": "Medium",
+    "q_en": "A factory employs machines A and B in the ratio 3:5 to complete a fixed job. Machine A alone finishes the job in 12 days, while machine B alone takes 8 days. If both machines work together in the given ratio, how long will they take? (Answer correct to two decimal places.)",
+    "q_hi": "A factory employs machines A and B in the ratio 3:5 to complete a fixed job. Machine A alone finishes the job in 12 days, while machine B alone takes 8 days. If both machines work together in the given ratio, how long will they take? (Answer correct to two decimal places.)",
+    "op_en": [
+      "8.55 days",
+      "7.87 days",
+      "10.92 days",
+      "9.14 days"
+    ],
+    "op_hi": [
+      "8.55 days",
+      "7.87 days",
+      "10.92 days",
+      "9.14 days"
+    ],
+    "ans": 4,
+    "solution": "<b>Solution:</b><br><br><b>Final Answer:</b> !4!"
+  },
+  {
+    "section": "Arithmetic1",
+    "topic": "General",
+    "difficulty": "Medium",
+    "q_en": "A train of length 310 m running at a speed of 71 km/hr crosses another train of length 250 m running at 55 km/hr in the opposite direction. In how much time (in seconds) will they cross each other completely?",
+    "q_hi": "A train of length 310 m running at a speed of 71 km/hr crosses another train of length 250 m running at 55 km/hr in the opposite direction. In how much time (in seconds) will they cross each other completely?",
+    "op_en": [
+      "18",
+      "126",
+      "16",
+      "112"
+    ],
+    "op_hi": [
+      "18",
+      "126",
+      "16",
+      "112"
+    ],
+    "ans": 3,
+    "solution": "<b>Solution:</b><br><br><b>Final Answer:</b> !3!"
+  }
+]
