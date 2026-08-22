@@ -296,36 +296,6 @@
       }
     ]
   },
-  "folder_FOREST GUARD 2026": {
-    "board": "DSSSB",
-    "colorClass": "f-blue",
-    "examKey": "FOREST GUARD 2026",
-    "icon": "👮‍♂️",
-    "name": "FOREST GUARD 2026",
-    "order": 2,
-    "subCategories": [
-      {
-        "filterKey": "hindi",
-        "name": "Hindi"
-      },
-      {
-        "filterKey": "english",
-        "name": "English"
-      },
-      {
-        "filterKey": "maths",
-        "name": "Maths"
-      },
-      {
-        "filterKey": "reasoning",
-        "name": "Reasoning"
-      },
-      {
-        "filterKey": "gk",
-        "name": "Gk"
-      }
-    ]
-  },
   "folder_HINDI": {
     "board": "DSSSB",
     "colorClass": "f-blue",
@@ -403,6 +373,60 @@
       {
         "filterKey": "arithmetic",
         "name": "Arithmetic"
+      }
+    ]
+  },
+  "folder_TGT": {
+    "board": "DSSSB",
+    "colorClass": "f-blue",
+    "examKey": "TGT",
+    "icon": "📁",
+    "name": "TGT",
+    "order": 99,
+    "subCategories": [
+      {
+        "filterKey": "\"general_intelligence_and_reasoning_ability\"",
+        "name": "\"General intelligence and Reasoning Ability\""
+      },
+      {
+        "filterKey": "\"general_awareness\"",
+        "name": "\"General Awareness\""
+      },
+      {
+        "filterKey": "\"arithmetical_and_numerical_ability\"",
+        "name": "\"Arithmetical and Numerical Ability\""
+      },
+      {
+        "filterKey": "\"test_of_english_language_and_comprehension\"",
+        "name": "\"Test of English Language and Comprehension\""
+      },
+      {
+        "filterKey": "\"test_of_hindi_language_and_comprehension\"",
+        "name": "\"Test of Hindi Language and Comprehension\""
+      },
+      {
+        "filterKey": "\"discipline1\"",
+        "name": "\"Discipline1\""
+      },
+      {
+        "filterKey": "\"discipline2\"",
+        "name": "\"Discipline2\""
+      },
+      {
+        "filterKey": "\"discipline3\"",
+        "name": "\"Discipline3\""
+      },
+      {
+        "filterKey": "\"discipline4\"",
+        "name": "\"Discipline4\""
+      },
+      {
+        "filterKey": "\"discipline5\"",
+        "name": "\"Discipline5\""
+      },
+      {
+        "filterKey": "\"teaching_methodology\"",
+        "name": "\"Teaching Methodology\""
       }
     ]
   },
