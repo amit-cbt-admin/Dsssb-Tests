@@ -3,651 +3,651 @@
     "section": "Quantitative Aptitude",
     "topic": "Algebra",
     "difficulty": "Easy",
-    "q_en": "The square of the sum of two numbers is !49!. The product of the numbers is !9!. What is the sum of their squares?",
-    "q_hi": "दो संख्याओं के योगफल का वर्ग !49! है। उन संख्याओं का गुणनफल !9! है। उनके वर्गों का योगफल कितना होगा?",
+    "q_en": "The square of the sum of two numbers is $49$. The product of the numbers is $9$. What is the sum of their squares?",
+    "q_hi": "दो संख्याओं के योगफल का वर्ग $49$ है। उन संख्याओं का गुणनफल $9$ है। उनके वर्गों का योगफल कितना होगा?",
     "op_en": [
-      "!27!",
-      "!29!",
-      "!36!",
-      "!31!"
+      "$27$",
+      "$29$",
+      "$36$",
+      "$31$"
     ],
     "op_hi": [
-      "!27!",
-      "!29!",
-      "!36!",
-      "!31!"
+      "$27$",
+      "$29$",
+      "$36$",
+      "$31$"
     ],
     "ans": 4,
-    "solution": "<b>Solution (EN):</b><br>Let the two numbers be !a! and !b!.<br>Given:<br>!(a + b)^2 = 49!<br>!ab = 9!<br>Using the algebraic identity:<br>!(a + b)^2 = a^2 + b^2 + 2ab!<br>!49 = a^2 + b^2 + 2 \\\\times 9!<br>!a^2 + b^2 = 49 - 18 = 31!<br><br><b>Solution (HI):</b><br>माना दो संख्याएँ !a! और !b! हैं।<br>दिया गया है:<br>!(a + b)^2 = 49!<br>!ab = 9!<br>सूत्र का उपयोग करने पर:<br>!(a + b)^2 = a^2 + b^2 + 2ab!<br>!49 = a^2 + b^2 + 2 \\\\times 9!<br>!a^2 + b^2 = 49 - 18 = 31!<br><br><b>Short Trick:</b><br>!a^2 + b^2 = (a+b)^2 - 2ab = 49 - 2(9) = 31!<br><br><b>Final Answer:</b> !31!"
+    "solution": "<b>Solution (EN):</b><br>Let the two numbers be $a$ and $b$.<br>Given:<br>$(a + b)^2 = 49$<br>$ab = 9$<br>Using the algebraic identity:<br>$(a + b)^2 = a^2 + b^2 + 2ab$<br>$49 = a^2 + b^2 + 2 \\times 9$<br>$a^2 + b^2 = 49 - 18 = 31$<br><br><b>Solution (HI):</b><br>माना दो संख्याएँ $a$ और $b$ हैं।<br>दिया गया है:<br>$(a + b)^2 = 49$<br>$ab = 9$<br>सूत्र का उपयोग करने पर:<br>$(a + b)^2 = a^2 + b^2 + 2ab$<br>$49 = a^2 + b^2 + 2 \\times 9$<br>$a^2 + b^2 = 49 - 18 = 31$<br><br><b>Short Trick:</b><br>$a^2 + b^2 = (a+b)^2 - 2ab = 49 - 2(9) = 31$<br><br><b>Final Answer:</b> $31$"
   },
   {
     "section": "Quantitative Aptitude",
     "topic": "Mensuration 2D",
     "difficulty": "Medium",
-    "q_en": "What is the area of an equilateral triangle having altitude equal to !8\\\\sqrt{3}! cm?",
-    "q_hi": "एक समबाहु त्रिभुज का क्षेत्रफल ज्ञात कीजिए जिसका शीर्षलम्ब !8\\\\sqrt{3}! cm के बराबर है।",
+    "q_en": "What is the area of an equilateral triangle having altitude equal to $8\\sqrt{3}$ cm?",
+    "q_hi": "एक समबाहु त्रिभुज का क्षेत्रफल ज्ञात कीजिए जिसका शीर्षलम्ब $8\\sqrt{3}$ cm के बराबर है।",
     "op_en": [
-      "!64! !\\\\text{cm}^2!",
-      "!12\\\\sqrt{3}! !\\\\text{cm}^2!",
-      "!64\\\\sqrt{3}! !\\\\text{cm}^2!",
-      "!24\\\\sqrt{3}! !\\\\text{cm}^2!"
+      "$64$ $\\text{cm}^2$",
+      "$12\\sqrt{3}$ $\\text{cm}^2$",
+      "$64\\sqrt{3}$ $\\text{cm}^2$",
+      "$24\\sqrt{3}$ $\\text{cm}^2$"
     ],
     "op_hi": [
-      "!64! !\\\\text{cm}^2!",
-      "!12\\\\sqrt{3}! !\\\\text{cm}^2!",
-      "!64\\\\sqrt{3}! !\\\\text{cm}^2!",
-      "!24\\\\sqrt{3}! !\\\\text{cm}^2!"
+      "$64$ $\\text{cm}^2$",
+      "$12\\sqrt{3}$ $\\text{cm}^2$",
+      "$64\\sqrt{3}$ $\\text{cm}^2$",
+      "$24\\sqrt{3}$ $\\text{cm}^2$"
     ],
     "ans": 3,
-    "solution": "<b>Solution (EN):</b><br>Altitude of an equilateral triangle of side !a! is:<br>!h = \\\\dfrac{\\\\sqrt{3}}{2}a!<br>Given !h = 8\\\\sqrt{3}! cm:<br>!\\\\dfrac{\\\\sqrt{3}}{2}a = 8\\\\sqrt{3}!<br>!a = 16! cm<br>Area of the equilateral triangle:<br>!\\\\text{Area} = \\\\dfrac{\\\\sqrt{3}}{4}a^2 = \\\\dfrac{\\\\sqrt{3}}{4} \\\\times 16^2!<br>!\\\\text{Area} = \\\\dfrac{\\\\sqrt{3}}{4} \\\\times 256 = 64\\\\sqrt{3}! !\\\\text{cm}^2!<br><br><b>Solution (HI):</b><br>भुजा !a! वाले समबाहु त्रिभुज की ऊँचाई होती है:<br>!h = \\\\dfrac{\\\\sqrt{3}}{2}a!<br>दिया है !h = 8\\\\sqrt{3}! cm:<br>!\\\\dfrac{\\\\sqrt{3}}{2}a = 8\\\\sqrt{3}!<br>!a = 16! cm<br>समबाहु त्रिभुज का क्षेत्रफल:<br>!\\\\text{क्षेत्रफल} = \\\\dfrac{\\\\sqrt{3}}{4}a^2 = \\\\dfrac{\\\\sqrt{3}}{4} \\\\times 256 = 64\\\\sqrt{3}! !\\\\text{cm}^2!<br><br><b>Short Trick:</b><br>!\\\\text{Area} = \\\\dfrac{h^2}{\\\\sqrt{3}} = \\\\dfrac{(8\\\\sqrt{3})^2}{\\\\sqrt{3}} = \\\\dfrac{192}{\\\\sqrt{3}} = 64\\\\sqrt{3}! !\\\\text{cm}^2!<br><br><b>Final Answer:</b> !64\\\\sqrt{3}!"
+    "solution": "<b>Solution (EN):</b><br>Altitude of an equilateral triangle of side $a$ is:<br>$h = \\dfrac{\\sqrt{3}}{2}a$<br>Given $h = 8\\sqrt{3}$ cm:<br>$\\dfrac{\\sqrt{3}}{2}a = 8\\sqrt{3}$<br>$a = 16$ cm<br>Area of the equilateral triangle:<br>$\\text{Area} = \\dfrac{\\sqrt{3}}{4}a^2 = \\dfrac{\\sqrt{3}}{4} \\times 16^2$<br>$\\text{Area} = \\dfrac{\\sqrt{3}}{4} \\times 256 = 64\\sqrt{3}$ $\\text{cm}^2$<br><br><b>Solution (HI):</b><br>भुजा $a$ वाले समबाहु त्रिभुज की ऊँचाई होती है:<br>$h = \\dfrac{\\sqrt{3}}{2}a$<br>दिया है $h = 8\\sqrt{3}$ cm:<br>$\\dfrac{\\sqrt{3}}{2}a = 8\\sqrt{3}$<br>$a = 16$ cm<br>समबाहु त्रिभुज का क्षेत्रफल:<br>$\\text{क्षेत्रफल} = \\dfrac{\\sqrt{3}}{4}a^2 = \\dfrac{\\sqrt{3}}{4} \\times 256 = 64\\sqrt{3}$ $\\text{cm}^2$<br><br><b>Short Trick:</b><br>$\\text{Area} = \\dfrac{h^2}{\\sqrt{3}} = \\dfrac{(8\\sqrt{3})^2}{\\sqrt{3}} = \\dfrac{192}{\\sqrt{3}} = 64\\sqrt{3}$ $\\text{cm}^2$<br><br><b>Final Answer:</b> $64\\sqrt{3}$"
   },
   {
     "section": "Quantitative Aptitude",
     "topic": "Mensuration 2D",
     "difficulty": "Easy",
-    "q_en": "The area (in !\\\\text{cm}^2!) of an equilateral triangle of side !80! cm is:",
-    "q_hi": "!80! cm भुजा वाले समबाहु त्रिभुज का क्षेत्रफल (!\\\\text{cm}^2! में) ज्ञात कीजिए।",
+    "q_en": "The area (in $\\text{cm}^2$) of an equilateral triangle of side $80$ cm is:",
+    "q_hi": "$80$ cm भुजा वाले समबाहु त्रिभुज का क्षेत्रफल ($\\text{cm}^2$ में) ज्ञात कीजिए।",
     "op_en": [
-      "!1,600\\\\sqrt{3}!",
-      "!1,800\\\\sqrt{3}!",
-      "!1,400\\\\sqrt{3}!",
-      "!1,200\\\\sqrt{3}!"
+      "$1,600\\sqrt{3}$",
+      "$1,800\\sqrt{3}$",
+      "$1,400\\sqrt{3}$",
+      "$1,200\\sqrt{3}$"
     ],
     "op_hi": [
-      "!1,600\\\\sqrt{3}!",
-      "!1,800\\\\sqrt{3}!",
-      "!1,400\\\\sqrt{3}!",
-      "!1,200\\\\sqrt{3}!"
+      "$1,600\\sqrt{3}$",
+      "$1,800\\sqrt{3}$",
+      "$1,400\\sqrt{3}$",
+      "$1,200\\sqrt{3}$"
     ],
     "ans": 1,
-    "solution": "<b>Solution (EN):</b><br>Area of an equilateral triangle of side !a! is:<br>!\\\\text{Area} = \\\\dfrac{\\\\sqrt{3}}{4}a^2!<br>Here, !a = 80! cm:<br>!\\\\text{Area} = \\\\dfrac{\\\\sqrt{3}}{4} \\\\times 80^2!<br>!\\\\text{Area} = \\\\dfrac{\\\\sqrt{3}}{4} \\\\times 6,400 = 1,600\\\\sqrt{3}! !\\\\text{cm}^2!<br><br><b>Solution (HI):</b><br>भुजा !a! वाले समबाहु त्रिभुज का क्षेत्रफल होता है:<br>!\\\\text{क्षेत्रफल} = \\\\dfrac{\\\\sqrt{3}}{4}a^2!<br>यहाँ, !a = 80! cm:<br>!\\\\text{क्षेत्रफल} = \\\\dfrac{\\\\sqrt{3}}{4} \\\\times 6,400 = 1,600\\\\sqrt{3}! !\\\\text{cm}^2!<br><br><b>Short Trick:</b><br>!\\\\text{Area} = \\\\dfrac{\\\\sqrt{3}}{4} \\\\times 6,400 = 1,600\\\\sqrt{3}!<br><br><b>Final Answer:</b> !1,600\\\\sqrt{3}!"
+    "solution": "<b>Solution (EN):</b><br>Area of an equilateral triangle of side $a$ is:<br>$\\text{Area} = \\dfrac{\\sqrt{3}}{4}a^2$<br>Here, $a = 80$ cm:<br>$\\text{Area} = \\dfrac{\\sqrt{3}}{4} \\times 80^2$<br>$\\text{Area} = \\dfrac{\\sqrt{3}}{4} \\times 6,400 = 1,600\\sqrt{3}$ $\\text{cm}^2$<br><br><b>Solution (HI):</b><br>भुजा $a$ वाले समबाहु त्रिभुज का क्षेत्रफल होता है:<br>$\\text{क्षेत्रफल} = \\dfrac{\\sqrt{3}}{4}a^2$<br>यहाँ, $a = 80$ cm:<br>$\\text{क्षेत्रफल} = \\dfrac{\\sqrt{3}}{4} \\times 6,400 = 1,600\\sqrt{3}$ $\\text{cm}^2$<br><br><b>Short Trick:</b><br>$\\text{Area} = \\dfrac{\\sqrt{3}}{4} \\times 6,400 = 1,600\\sqrt{3}$<br><br><b>Final Answer:</b> $1,600\\sqrt{3}$"
   },
   {
     "section": "Quantitative Aptitude",
     "topic": "Mensuration 2D",
     "difficulty": "Easy",
-    "q_en": "The base and the corresponding height of a parallelogram are !41! cm and !80! cm, respectively. The area of the parallelogram (in !\\\\text{cm}^2!) is:",
-    "q_hi": "एक समांतर चतुर्भुज का आधार और संगत ऊँचाई क्रमशः !41! cm और !80! cm है। समांतर चतुर्भुज का क्षेत्रफल (!\\\\text{cm}^2! में) ज्ञात कीजिए।",
+    "q_en": "The base and the corresponding height of a parallelogram are $41$ cm and $80$ cm, respectively. The area of the parallelogram (in $\\text{cm}^2$) is:",
+    "q_hi": "एक समांतर चतुर्भुज का आधार और संगत ऊँचाई क्रमशः $41$ cm और $80$ cm है। समांतर चतुर्भुज का क्षेत्रफल ($\\text{cm}^2$ में) ज्ञात कीजिए।",
     "op_en": [
-      "!3,280!",
-      "!3,318!",
-      "!3,267!",
-      "!3,282!"
+      "$3,280$",
+      "$3,318$",
+      "$3,267$",
+      "$3,282$"
     ],
     "op_hi": [
-      "!3,280!",
-      "!3,318!",
-      "!3,267!",
-      "!3,282!"
+      "$3,280$",
+      "$3,318$",
+      "$3,267$",
+      "$3,282$"
     ],
     "ans": 1,
-    "solution": "<b>Solution (EN):</b><br>Area of a parallelogram = !\\\\text{base} \\\\times \\\\text{height}!<br>!\\\\text{Area} = 41 \\\\times 80 = 3,280! !\\\\text{cm}^2!<br><br><b>Solution (HI):</b><br>समांतर चतुर्भुज का क्षेत्रफल = !\\\\text{आधार} \\\\times \\\\text{ऊँचाई}!<br>!\\\\text{क्षेत्रफल} = 41 \\\\times 80 = 3,280! !\\\\text{cm}^2!<br><br><b>Short Trick:</b><br>Direct multiply: !41 \\\\times 80 = 3,280!<br><br><b>Final Answer:</b> !3,280!"
+    "solution": "<b>Solution (EN):</b><br>Area of a parallelogram = $\\text{base} \\times \\text{height}$<br>$\\text{Area} = 41 \\times 80 = 3,280$ $\\text{cm}^2$<br><br><b>Solution (HI):</b><br>समांतर चतुर्भुज का क्षेत्रफल = $\\text{आधार} \\times \\text{ऊँचाई}$<br>$\\text{क्षेत्रफल} = 41 \\times 80 = 3,280$ $\\text{cm}^2$<br><br><b>Short Trick:</b><br>Direct multiply: $41 \\times 80 = 3,280$<br><br><b>Final Answer:</b> $3,280$"
   },
   {
     "section": "Quantitative Aptitude",
     "topic": "Mensuration 2D",
     "difficulty": "Medium",
-    "q_en": "A uniform ring road surrounds a circular tech campus. The difference between the outer perimeter and the inner perimeter of the ring is !44! m. Assuming constant width, what is the exact width (in m) of the ring road? (May use !\\\\pi=\\\\dfrac{22}{7}! if needed.)",
-    "q_hi": "एक वृत्ताकार तकनीकी परिसर के चारों ओर एक समान रिंग रोड बनी हुई है। रिंग की बाहरी परिधि और आंतरिक परिधि का अंतर !44! m है। यदि चौड़ाई स्थिर मानी जाए, तो रिंग रोड की सटीक चौड़ाई (m में) कितनी है? (आवश्यकतानुसार !\\\\pi=\\\\dfrac{22}{7}! सूत्र का प्रयोग किया जा सकता है।)",
+    "q_en": "A uniform ring road surrounds a circular tech campus. The difference between the outer perimeter and the inner perimeter of the ring is $44$ m. Assuming constant width, what is the exact width (in m) of the ring road? (May use $\\pi=\\dfrac{22}{7}$ if needed.)",
+    "q_hi": "एक वृत्ताकार तकनीकी परिसर के चारों ओर एक समान रिंग रोड बनी हुई है। रिंग की बाहरी परिधि और आंतरिक परिधि का अंतर $44$ m है। यदि चौड़ाई स्थिर मानी जाए, तो रिंग रोड की सटीक चौड़ाई (m में) कितनी है? (आवश्यकतानुसार $\\pi=\\dfrac{22}{7}$ सूत्र का प्रयोग किया जा सकता है।)",
     "op_en": [
-      "!22!",
-      "!7!",
-      "!3.5!",
-      "!14!"
+      "$22$",
+      "$7$",
+      "$3.5$",
+      "$14$"
     ],
     "op_hi": [
-      "!22!",
-      "!7!",
-      "!3.5!",
-      "!14!"
+      "$22$",
+      "$7$",
+      "$3.5$",
+      "$14$"
     ],
     "ans": 2,
-    "solution": "<b>Solution (EN):</b><br>Let the outer radius be !R! and the inner radius be !r!.<br>Difference in perimeters = !2\\\\pi R - 2\\\\pi r = 2\\\\pi(R - r)!<br>Given:<br>!2\\\\pi(R - r) = 44!<br>!2 \\\\times \\\\dfrac{22}{7} \\\\times (R - r) = 44!<br>!\\\\dfrac{44}{7} \\\\times (R - r) = 44!<br>!R - r = 7! m<br>Thus, the width of the ring road is !7! m.<br><br><b>Solution (HI):</b><br>माना बाहरी त्रिज्या !R! तथा आंतरिक त्रिज्या !r! है।<br>परिधियों का अंतर = !2\\\\pi(R - r)!<br>दिया गया है:<br>!2 \\\\times \\\\dfrac{22}{7} \\\\times (R - r) = 44!<br>!R - r = 44 \\\\times \\\\dfrac{7}{44} = 7! m<br>अतः रिंग रोड की चौड़ाई !7! m है।<br><br><b>Short Trick:</b><br>!\\\\text{Width} = \\\\dfrac{\\\\Delta P}{2\\\\pi} = \\\\dfrac{44}{2 \\\\times \\\\frac{22}{7}} = 7! m<br><br><b>Final Answer:</b> !7!"
+    "solution": "<b>Solution (EN):</b><br>Let the outer radius be $R$ and the inner radius be $r$.<br>Difference in perimeters = $2\\pi R - 2\\pi r = 2\\pi(R - r)$<br>Given:<br>$2\\pi(R - r) = 44$<br>$2 \\times \\dfrac{22}{7} \\times (R - r) = 44$<br>$\\dfrac{44}{7} \\times (R - r) = 44$<br>$R - r = 7$ m<br>Thus, the width of the ring road is $7$ m.<br><br><b>Solution (HI):</b><br>माना बाहरी त्रिज्या $R$ तथा आंतरिक त्रिज्या $r$ है।<br>परिधियों का अंतर = $2\\pi(R - r)$<br>दिया गया है:<br>$2 \\times \\dfrac{22}{7} \\times (R - r) = 44$<br>$R - r = 44 \\times \\dfrac{7}{44} = 7$ m<br>अतः रिंग रोड की चौड़ाई $7$ m है।<br><br><b>Short Trick:</b><br>$\\text{Width} = \\dfrac{\\Delta P}{2\\pi} = \\dfrac{44}{2 \\times \\frac{22}{7}} = 7$ m<br><br><b>Final Answer:</b> $7$"
   },
   {
     "section": "Quantitative Aptitude",
     "topic": "Mensuration 2D",
     "difficulty": "Easy",
-    "q_en": "The base and the corresponding height of a parallelogram are !9! cm and !58! cm, respectively. The area of the parallelogram (in !\\\\text{cm}^2!) is:",
-    "q_hi": "एक समांतर चतुर्भुज का आधार और संगत ऊँचाई क्रमशः !9! cm और !58! cm हैं। समांतर चतुर्भुज का क्षेत्रफल (!\\\\text{cm}^2! में) कितना है?",
+    "q_en": "The base and the corresponding height of a parallelogram are $9$ cm and $58$ cm, respectively. The area of the parallelogram (in $\\text{cm}^2$) is:",
+    "q_hi": "एक समांतर चतुर्भुज का आधार और संगत ऊँचाई क्रमशः $9$ cm और $58$ cm हैं। समांतर चतुर्भुज का क्षेत्रफल ($\\text{cm}^2$ में) कितना है?",
     "op_en": [
-      "!472!",
-      "!527!",
-      "!522!",
-      "!517!"
+      "$472$",
+      "$527$",
+      "$522$",
+      "$517$"
     ],
     "op_hi": [
-      "!472!",
-      "!527!",
-      "!522!",
-      "!517!"
+      "$472$",
+      "$527$",
+      "$522$",
+      "$517$"
     ],
     "ans": 3,
-    "solution": "<b>Solution (EN):</b><br>Area of a parallelogram = !\\\\text{base} \\\\times \\\\text{height}!<br>!\\\\text{Area} = 9 \\\\times 58 = 522! !\\\\text{cm}^2!<br><br><b>Solution (HI):</b><br>समांतर चतुर्भुज का क्षेत्रफल = !\\\\text{आधार} \\\\times \\\\text{ऊँचाई}!<br>!\\\\text{क्षेत्रफल} = 9 \\\\times 58 = 522! !\\\\text{cm}^2!<br><br><b>Short Trick:</b><br>!9 \\\\times 58 = 522!<br><br><b>Final Answer:</b> !522!"
+    "solution": "<b>Solution (EN):</b><br>Area of a parallelogram = $\\text{base} \\times \\text{height}$<br>$\\text{Area} = 9 \\times 58 = 522$ $\\text{cm}^2$<br><br><b>Solution (HI):</b><br>समांतर चतुर्भुज का क्षेत्रफल = $\\text{आधार} \\times \\text{ऊँचाई}$<br>$\\text{क्षेत्रफल} = 9 \\times 58 = 522$ $\\text{cm}^2$<br><br><b>Short Trick:</b><br>$9 \\times 58 = 522$<br><br><b>Final Answer:</b> $522$"
   },
   {
     "section": "Quantitative Aptitude",
     "topic": "Mensuration 2D",
     "difficulty": "Easy",
-    "q_en": "The area (in !\\\\text{cm}^2!) of an equilateral triangle of side !81! cm is:",
-    "q_hi": "!81! cm भुजा वाले समबाहु त्रिभुज का क्षेत्रफल (!\\\\text{cm}^2! में) ज्ञात कीजिए।",
+    "q_en": "The area (in $\\text{cm}^2$) of an equilateral triangle of side $81$ cm is:",
+    "q_hi": "$81$ cm भुजा वाले समबाहु त्रिभुज का क्षेत्रफल ($\\text{cm}^2$ में) ज्ञात कीजिए।",
     "op_en": [
-      "!6,561\\\\dfrac{\\\\sqrt{3}}{2}!",
-      "!6,561\\\\dfrac{\\\\sqrt{3}}{6}!",
-      "!6,561\\\\dfrac{\\\\sqrt{3}}{4}!",
-      "!6,561\\\\dfrac{\\\\sqrt{3}}{3}!"
+      "$6,561\\dfrac{\\sqrt{3}}{2}$",
+      "$6,561\\dfrac{\\sqrt{3}}{6}$",
+      "$6,561\\dfrac{\\sqrt{3}}{4}$",
+      "$6,561\\dfrac{\\sqrt{3}}{3}$"
     ],
     "op_hi": [
-      "!6,561\\\\dfrac{\\\\sqrt{3}}{2}!",
-      "!6,561\\\\dfrac{\\\\sqrt{3}}{6}!",
-      "!6,561\\\\dfrac{\\\\sqrt{3}}{4}!",
-      "!6,561\\\\dfrac{\\\\sqrt{3}}{3}!"
+      "$6,561\\dfrac{\\sqrt{3}}{2}$",
+      "$6,561\\dfrac{\\sqrt{3}}{6}$",
+      "$6,561\\dfrac{\\sqrt{3}}{4}$",
+      "$6,561\\dfrac{\\sqrt{3}}{3}$"
     ],
     "ans": 3,
-    "solution": "<b>Solution (EN):</b><br>Area of an equilateral triangle of side !a! is:<br>!\\\\text{Area} = \\\\dfrac{\\\\sqrt{3}}{4}a^2!<br>Here, !a = 81! cm:<br>!\\\\text{Area} = \\\\dfrac{\\\\sqrt{3}}{4} \\\\times (81)^2 = 6,561\\\\dfrac{\\\\sqrt{3}}{4}! !\\\\text{cm}^2!<br><br><b>Solution (HI):</b><br>समबाहु त्रिभुज का क्षेत्रफल:<br>!\\\\text{क्षेत्रफल} = \\\\dfrac{\\\\sqrt{3}}{4}a^2!<br>यहाँ !a = 81! cm:<br>!\\\\text{क्षेत्रफल} = \\\\dfrac{\\\\sqrt{3}}{4} \\\\times 6,561 = 6,561\\\\dfrac{\\\\sqrt{3}}{4}! !\\\\text{cm}^2!<br><br><b>Short Trick:</b><br>!\\\\text{Area} = \\\\dfrac{\\\\sqrt{3}}{4} \\\\times 81^2 = 6,561\\\\dfrac{\\\\sqrt{3}}{4}!<br><br><b>Final Answer:</b> !6,561\\\\dfrac{\\\\sqrt{3}}{4}!"
+    "solution": "<b>Solution (EN):</b><br>Area of an equilateral triangle of side $a$ is:<br>$\\text{Area} = \\dfrac{\\sqrt{3}}{4}a^2$<br>Here, $a = 81$ cm:<br>$\\text{Area} = \\dfrac{\\sqrt{3}}{4} \\times (81)^2 = 6,561\\dfrac{\\sqrt{3}}{4}$ $\\text{cm}^2$<br><br><b>Solution (HI):</b><br>समबाहु त्रिभुज का क्षेत्रफल:<br>$\\text{क्षेत्रफल} = \\dfrac{\\sqrt{3}}{4}a^2$<br>यहाँ $a = 81$ cm:<br>$\\text{क्षेत्रफल} = \\dfrac{\\sqrt{3}}{4} \\times 6,561 = 6,561\\dfrac{\\sqrt{3}}{4}$ $\\text{cm}^2$<br><br><b>Short Trick:</b><br>$\\text{Area} = \\dfrac{\\sqrt{3}}{4} \\times 81^2 = 6,561\\dfrac{\\sqrt{3}}{4}$<br><br><b>Final Answer:</b> $6,561\\dfrac{\\sqrt{3}}{4}$"
   },
   {
     "section": "Quantitative Aptitude",
     "topic": "Mensuration 2D",
     "difficulty": "Easy",
-    "q_en": "Find the perimeter of a rectangular plot whose length is !78! m and breadth is !43! m.",
-    "q_hi": "एक आयताकार भूखंड का परिमाप ज्ञात कीजिए जिसकी लंबाई !78! m और चौड़ाई !43! m है।",
+    "q_en": "Find the perimeter of a rectangular plot whose length is $78$ m and breadth is $43$ m.",
+    "q_hi": "एक आयताकार भूखंड का परिमाप ज्ञात कीजिए जिसकी लंबाई $78$ m और चौड़ाई $43$ m है।",
     "op_en": [
-      "!242! m",
-      "!214! m",
-      "!236! m",
-      "!268! m"
+      "$242$ m",
+      "$214$ m",
+      "$236$ m",
+      "$268$ m"
     ],
     "op_hi": [
-      "!242! m",
-      "!214! m",
-      "!236! m",
-      "!268! m"
+      "$242$ m",
+      "$214$ m",
+      "$236$ m",
+      "$268$ m"
     ],
     "ans": 1,
-    "solution": "<b>Solution (EN):</b><br>Perimeter of a rectangle is:<br>!P = 2(l + b)!<br>Given !l = 78! m and !b = 43! m:<br>!P = 2(78 + 43) = 2 \\\\times 121 = 242! m<br><br><b>Solution (HI):</b><br>आयत का परिमाप होता है:<br>!P = 2(l + b)!<br>यहाँ !l = 78! m और !b = 43! m:<br>!P = 2(78 + 43) = 2 \\\\times 121 = 242! m<br><br><b>Short Trick:</b><br>!2(78 + 43) = 242! m<br><br><b>Final Answer:</b> !242!"
+    "solution": "<b>Solution (EN):</b><br>Perimeter of a rectangle is:<br>$P = 2(l + b)$<br>Given $l = 78$ m and $b = 43$ m:<br>$P = 2(78 + 43) = 2 \\times 121 = 242$ m<br><br><b>Solution (HI):</b><br>आयत का परिमाप होता है:<br>$P = 2(l + b)$<br>यहाँ $l = 78$ m और $b = 43$ m:<br>$P = 2(78 + 43) = 2 \\times 121 = 242$ m<br><br><b>Short Trick:</b><br>$2(78 + 43) = 242$ m<br><br><b>Final Answer:</b> $242$"
   },
   {
     "section": "Quantitative Aptitude",
     "topic": "Mensuration 2D",
     "difficulty": "Medium",
-    "q_en": "A new irrigation channel uses a trapezoidal cross-section. Its parallel sides (water surface and bed) are !12! m and !8! m respectively, and the cross-sectional area of flow is !360! !\\\\text{m}^2!. Assuming vertical depth is uniform, what is the depth (in m) of the channel?",
-    "q_hi": "एक नई सिंचाई नहर समलम्ब चतुर्भुजाकार अनुप्रस्थ काट का उपयोग करती है। इसकी समानांतर भुजाएँ (जल सतह और तल) क्रमशः !12! m और !8! m हैं, और प्रवाह का अनुप्रस्थ काट क्षेत्रफल !360! !\\\\text{m}^2! है। ऊर्ध्वाधर गहराई को एकसमान मानते हुए, नहर की गहराई (m में) कितनी है?",
+    "q_en": "A new irrigation channel uses a trapezoidal cross-section. Its parallel sides (water surface and bed) are $12$ m and $8$ m respectively, and the cross-sectional area of flow is $360$ $\\text{m}^2$. Assuming vertical depth is uniform, what is the depth (in m) of the channel?",
+    "q_hi": "एक नई सिंचाई नहर समलम्ब चतुर्भुजाकार अनुप्रस्थ काट का उपयोग करती है। इसकी समानांतर भुजाएँ (जल सतह और तल) क्रमशः $12$ m और $8$ m हैं, और प्रवाह का अनुप्रस्थ काट क्षेत्रफल $360$ $\\text{m}^2$ है। ऊर्ध्वाधर गहराई को एकसमान मानते हुए, नहर की गहराई (m में) कितनी है?",
     "op_en": [
-      "!24!",
-      "!40!",
-      "!36!",
-      "!30!"
+      "$24$",
+      "$40$",
+      "$36$",
+      "$30$"
     ],
     "op_hi": [
-      "!24!",
-      "!40!",
-      "!36!",
-      "!30!"
+      "$24$",
+      "$40$",
+      "$36$",
+      "$30$"
     ],
     "ans": 3,
-    "solution": "<b>Solution (EN):</b><br>Area of a trapezoid is:<br>!\\\\text{Area} = \\\\dfrac{1}{2} \\\\times (a + b) \\\\times h!<br>Given !a = 12! m, !b = 8! m, and !\\\\text{Area} = 360! !\\\\text{m}^2!:<br>!360 = \\\\dfrac{1}{2} \\\\times (12 + 8) \\\\times d!<br>!360 = 10d!<br>!d = 36! m<br><br><b>Solution (HI):</b><br>समलम्ब चतुर्भुज का क्षेत्रफल होता है:<br>!\\\\text{क्षेत्रफल} = \\\\dfrac{1}{2} \\\\times (\\\\text{समानांतर भुजाओं का योग}) \\\\times \\\\text{गहराई}!<br>!360 = \\\\dfrac{1}{2} \\\\times (12 + 8) \\\\times d!<br>!360 = 10 \\\\times d!<br>!d = 36! m<br><br><b>Short Trick:</b><br>!d = \\\\dfrac{360}{\\\\frac{12 + 8}{2}} = \\\\dfrac{360}{10} = 36! m<br><br><b>Final Answer:</b> !36!"
+    "solution": "<b>Solution (EN):</b><br>Area of a trapezoid is:<br>$\\text{Area} = \\dfrac{1}{2} \\times (a + b) \\times h$<br>Given $a = 12$ m, $b = 8$ m, and $\\text{Area} = 360$ $\\text{m}^2$:<br>$360 = \\dfrac{1}{2} \\times (12 + 8) \\times d$<br>$360 = 10d$<br>$d = 36$ m<br><br><b>Solution (HI):</b><br>समलम्ब चतुर्भुज का क्षेत्रफल होता है:<br>$\\text{क्षेत्रफल} = \\dfrac{1}{2} \\times (\\text{समानांतर भुजाओं का योग}) \\times \\text{गहराई}$<br>$360 = \\dfrac{1}{2} \\times (12 + 8) \\times d$<br>$360 = 10 \\times d$<br>$d = 36$ m<br><br><b>Short Trick:</b><br>$d = \\dfrac{360}{\\frac{12 + 8}{2}} = \\dfrac{360}{10} = 36$ m<br><br><b>Final Answer:</b> $36$"
   },
   {
     "section": "Quantitative Aptitude",
     "topic": "Mensuration 2D",
     "difficulty": "Easy",
-    "q_en": "The area (in !\\\\text{cm}^2!) of an equilateral triangle of side !18! cm is:",
-    "q_hi": "!18! cm भुजा वाले समबाहु त्रिभुज का क्षेत्रफल (!\\\\text{cm}^2! में) ज्ञात कीजिए।",
+    "q_en": "The area (in $\\text{cm}^2$) of an equilateral triangle of side $18$ cm is:",
+    "q_hi": "$18$ cm भुजा वाले समबाहु त्रिभुज का क्षेत्रफल ($\\text{cm}^2$ में) ज्ञात कीजिए।",
     "op_en": [
-      "!79\\\\sqrt{3}!",
-      "!81\\\\sqrt{3}!",
-      "!83\\\\sqrt{3}!",
-      "!86\\\\sqrt{3}!"
+      "$79\\sqrt{3}$",
+      "$81\\sqrt{3}$",
+      "$83\\sqrt{3}$",
+      "$86\\sqrt{3}$"
     ],
     "op_hi": [
-      "!79\\\\sqrt{3}!",
-      "!81\\\\sqrt{3}!",
-      "!83\\\\sqrt{3}!",
-      "!86\\\\sqrt{3}!"
+      "$79\\sqrt{3}$",
+      "$81\\sqrt{3}$",
+      "$83\\sqrt{3}$",
+      "$86\\sqrt{3}$"
     ],
     "ans": 2,
-    "solution": "<b>Solution (EN):</b><br>Area of an equilateral triangle:<br>!\\\\text{Area} = \\\\dfrac{\\\\sqrt{3}}{4}a^2!<br>For !a = 18! cm:<br>!\\\\text{Area} = \\\\dfrac{\\\\sqrt{3}}{4} \\\\times 18^2 = \\\\dfrac{\\\\sqrt{3}}{4} \\\\times 324 = 81\\\\sqrt{3}! !\\\\text{cm}^2!<br><br><b>Solution (HI):</b><br>समबाहु त्रिभुज का क्षेत्रफल:<br>!\\\\text{क्षेत्रफल} = \\\\dfrac{\\\\sqrt{3}}{4}a^2!<br>यहाँ !a = 18! cm:<br>!\\\\text{क्षेत्रफल} = \\\\dfrac{\\\\sqrt{3}}{4} \\\\times 324 = 81\\\\sqrt{3}! !\\\\text{cm}^2!<br><br><b>Short Trick:</b><br>!\\\\text{Area} = \\\\dfrac{\\\\sqrt{3}}{4} \\\\times 324 = 81\\\\sqrt{3}!<br><br><b>Final Answer:</b> !81\\\\sqrt{3}!"
+    "solution": "<b>Solution (EN):</b><br>Area of an equilateral triangle:<br>$\\text{Area} = \\dfrac{\\sqrt{3}}{4}a^2$<br>For $a = 18$ cm:<br>$\\text{Area} = \\dfrac{\\sqrt{3}}{4} \\times 18^2 = \\dfrac{\\sqrt{3}}{4} \\times 324 = 81\\sqrt{3}$ $\\text{cm}^2$<br><br><b>Solution (HI):</b><br>समबाहु त्रिभुज का क्षेत्रफल:<br>$\\text{क्षेत्रफल} = \\dfrac{\\sqrt{3}}{4}a^2$<br>यहाँ $a = 18$ cm:<br>$\\text{क्षेत्रफल} = \\dfrac{\\sqrt{3}}{4} \\times 324 = 81\\sqrt{3}$ $\\text{cm}^2$<br><br><b>Short Trick:</b><br>$\\text{Area} = \\dfrac{\\sqrt{3}}{4} \\times 324 = 81\\sqrt{3}$<br><br><b>Final Answer:</b> $81\\sqrt{3}$"
   },
   {
     "section": "Quantitative Aptitude",
     "topic": "Mensuration 2D",
     "difficulty": "Easy",
-    "q_en": "The base and the corresponding height of a parallelogram are !98! cm and !20! cm, respectively. The area of the parallelogram (in !\\\\text{cm}^2!) is:",
-    "q_hi": "एक समांतर चतुर्भुज का आधार और संगत ऊँचाई क्रमशः !98! cm और !20! cm हैं। समांतर चतुर्भुज का क्षेत्रफल (!\\\\text{cm}^2! में) ज्ञात कीजिए।",
+    "q_en": "The base and the corresponding height of a parallelogram are $98$ cm and $20$ cm, respectively. The area of the parallelogram (in $\\text{cm}^2$) is:",
+    "q_hi": "एक समांतर चतुर्भुज का आधार और संगत ऊँचाई क्रमशः $98$ cm और $20$ cm हैं। समांतर चतुर्भुज का क्षेत्रफल ($\\text{cm}^2$ में) ज्ञात कीजिए।",
     "op_en": [
-      "!2,006!",
-      "!1,960!",
-      "!1,931!",
-      "!1,970!"
+      "$2,006$",
+      "$1,960$",
+      "$1,931$",
+      "$1,970$"
     ],
     "op_hi": [
-      "!2,006!",
-      "!1,960!",
-      "!1,931!",
-      "!1,970!"
+      "$2,006$",
+      "$1,960$",
+      "$1,931$",
+      "$1,970$"
     ],
     "ans": 2,
-    "solution": "<b>Solution (EN):</b><br>Area of a parallelogram = !\\\\text{base} \\\\times \\\\text{height}!<br>!\\\\text{Area} = 98 \\\\times 20 = 1,960! !\\\\text{cm}^2!<br><br><b>Solution (HI):</b><br>समांतर चतुर्भुज का क्षेत्रफल = !\\\\text{आधार} \\\\times \\\\text{ऊँचाई}!<br>!\\\\text{क्षेत्रफल} = 98 \\\\times 20 = 1,960! !\\\\text{cm}^2!<br><br><b>Short Trick:</b><br>!98 \\\\times 20 = 1,960!<br><br><b>Final Answer:</b> !1,960!"
+    "solution": "<b>Solution (EN):</b><br>Area of a parallelogram = $\\text{base} \\times \\text{height}$<br>$\\text{Area} = 98 \\times 20 = 1,960$ $\\text{cm}^2$<br><br><b>Solution (HI):</b><br>समांतर चतुर्भुज का क्षेत्रफल = $\\text{आधार} \\times \\text{ऊँचाई}$<br>$\\text{क्षेत्रफल} = 98 \\times 20 = 1,960$ $\\text{cm}^2$<br><br><b>Short Trick:</b><br>$98 \\times 20 = 1,960$<br><br><b>Final Answer:</b> $1,960$"
   },
   {
     "section": "Quantitative Aptitude",
     "topic": "Mensuration 2D",
     "difficulty": "Easy",
-    "q_en": "The base and the corresponding height of a parallelogram are !22! cm and !83! cm, respectively. The area of the parallelogram (in !\\\\text{cm}^2!) is:",
-    "q_hi": "एक समांतर चतुर्भुज का आधार और संगत ऊँचाई क्रमशः !22! cm और !83! cm है। समानांतर चतुर्भुज का क्षेत्रफल (!\\\\text{cm}^2! में) ज्ञात कीजिए।",
+    "q_en": "The base and the corresponding height of a parallelogram are $22$ cm and $83$ cm, respectively. The area of the parallelogram (in $\\text{cm}^2$) is:",
+    "q_hi": "एक समांतर चतुर्भुज का आधार और संगत ऊँचाई क्रमशः $22$ cm और $83$ cm है। समानांतर चतुर्भुज का क्षेत्रफल ($\\text{cm}^2$ में) ज्ञात कीजिए।",
     "op_en": [
-      "!1,826!",
-      "!1,823!",
-      "!1,863!",
-      "!1,849!"
+      "$1,826$",
+      "$1,823$",
+      "$1,863$",
+      "$1,849$"
     ],
     "op_hi": [
-      "!1,826!",
-      "!1,823!",
-      "!1,863!",
-      "!1,849!"
+      "$1,826$",
+      "$1,823$",
+      "$1,863$",
+      "$1,849$"
     ],
     "ans": 1,
-    "solution": "<b>Solution (EN):</b><br>Area of a parallelogram = !\\\\text{base} \\\\times \\\\text{height}!<br>!\\\\text{Area} = 22 \\\\times 83 = 1,826! !\\\\text{cm}^2!<br><br><b>Solution (HI):</b><br>समांतर चतुर्भुज का क्षेत्रफल = !\\\\text{आधार} \\\\times \\\\text{ऊँचाई}!<br>!\\\\text{क्षेत्रफल} = 22 \\\\times 83 = 1,826! !\\\\text{cm}^2!<br><br><b>Short Trick:</b><br>!22 \\\\times 83 = 1,826!<br><br><b>Final Answer:</b> !1,826!"
+    "solution": "<b>Solution (EN):</b><br>Area of a parallelogram = $\\text{base} \\times \\text{height}$<br>$\\text{Area} = 22 \\times 83 = 1,826$ $\\text{cm}^2$<br><br><b>Solution (HI):</b><br>समांतर चतुर्भुज का क्षेत्रफल = $\\text{आधार} \\times \\text{ऊँचाई}$<br>$\\text{क्षेत्रफल} = 22 \\times 83 = 1,826$ $\\text{cm}^2$<br><br><b>Short Trick:</b><br>$22 \\times 83 = 1,826$<br><br><b>Final Answer:</b> $1,826$"
   },
   {
     "section": "Quantitative Aptitude",
     "topic": "Mensuration 3D",
     "difficulty": "Medium",
-    "q_en": "A rectangular storage tank is filled to a depth of !1.5! m and holds !4,500! L of liquid. Find the area of the base (in !\\\\text{m}^2!) of the tank (!1! !\\\\text{m}^3 = 1,000! L).",
-    "q_hi": "एक आयताकार भंडारण टैंक !1.5! m की गहराई तक भरा हुआ है और इसमें !4,500! L द्रव है। टैंक के आधार का क्षेत्रफल (!\\\\text{m}^2! में) ज्ञात कीजिए (!1! !\\\\text{m}^3 = 1,000! L)।",
+    "q_en": "A rectangular storage tank is filled to a depth of $1.5$ m and holds $4,500$ L of liquid. Find the area of the base (in $\\text{m}^2$) of the tank ($1$ $\\text{m}^3 = 1,000$ L).",
+    "q_hi": "एक आयताकार भंडारण टैंक $1.5$ m की गहराई तक भरा हुआ है और इसमें $4,500$ L द्रव है। टैंक के आधार का क्षेत्रफल ($\\text{m}^2$ में) ज्ञात कीजिए ($1$ $\\text{m}^3 = 1,000$ L)।",
     "op_en": [
-      "!6!",
-      "!4.5!",
-      "!1.5!",
-      "!3!"
+      "$6$",
+      "$4.5$",
+      "$1.5$",
+      "$3$"
     ],
     "op_hi": [
-      "!6!",
-      "!4.5!",
-      "!1.5!",
-      "!3!"
+      "$6$",
+      "$4.5$",
+      "$1.5$",
+      "$3$"
     ],
     "ans": 4,
-    "solution": "<b>Solution (EN):</b><br>Volume of liquid = !\\\\dfrac{4,500}{1,000} = 4.5! !\\\\text{m}^3!<br>Volume = !\\\\text{Base area} \\\\times \\\\text{depth}!<br>!4.5 = \\\\text{Base area} \\\\times 1.5!<br>!\\\\text{Base area} = \\\\dfrac{4.5}{1.5} = 3! !\\\\text{m}^2!<br><br><b>Solution (HI):</b><br>द्रव का आयतन = !\\\\dfrac{4,500}{1,000} = 4.5! !\\\\text{m}^3!<br>आयतन = !\\\\text{आधार का क्षेत्रफल} \\\\times \\\\text{गहराई}!<br>!4.5 = \\\\text{आधार का क्षेत्रफल} \\\\times 1.5!<br>!\\\\text{आधार का क्षेत्रफल} = \\\\dfrac{4.5}{1.5} = 3! !\\\\text{m}^2!<br><br><b>Short Trick:</b><br>!\\\\text{Base Area} = \\\\dfrac{4.5}{1.5} = 3! !\\\\text{m}^2!<br><br><b>Final Answer:</b> !3!"
+    "solution": "<b>Solution (EN):</b><br>Volume of liquid = $\\dfrac{4,500}{1,000} = 4.5$ $\\text{m}^3$<br>Volume = $\\text{Base area} \\times \\text{depth}$<br>$4.5 = \\text{Base area} \\times 1.5$<br>$\\text{Base area} = \\dfrac{4.5}{1.5} = 3$ $\\text{m}^2$<br><br><b>Solution (HI):</b><br>द्रव का आयतन = $\\dfrac{4,500}{1,000} = 4.5$ $\\text{m}^3$<br>आयतन = $\\text{आधार का क्षेत्रफल} \\times \\text{गहराई}$<br>$4.5 = \\text{आधार का क्षेत्रफल} \\times 1.5$<br>$\\text{आधार का क्षेत्रफल} = \\dfrac{4.5}{1.5} = 3$ $\\text{m}^2$<br><br><b>Short Trick:</b><br>$\\text{Base Area} = \\dfrac{4.5}{1.5} = 3$ $\\text{m}^2$<br><br><b>Final Answer:</b> $3$"
   },
   {
     "section": "Quantitative Aptitude",
     "topic": "Mensuration 2D",
     "difficulty": "Easy",
-    "q_en": "The area (in !\\\\text{cm}^2!) of an equilateral triangle of side !19! cm is:",
-    "q_hi": "!19! cm भुजा वाले समबाहु त्रिभुज का क्षेत्रफल (!\\\\text{cm}^2! में) ज्ञात कीजिए।",
+    "q_en": "The area (in $\\text{cm}^2$) of an equilateral triangle of side $19$ cm is:",
+    "q_hi": "$19$ cm भुजा वाले समबाहु त्रिभुज का क्षेत्रफल ($\\text{cm}^2$ में) ज्ञात कीजिए।",
     "op_en": [
-      "!361\\\\dfrac{\\\\sqrt{3}}{2}!",
-      "!361\\\\dfrac{\\\\sqrt{3}}{3}!",
-      "!361\\\\dfrac{\\\\sqrt{3}}{4}!",
-      "!361\\\\dfrac{\\\\sqrt{3}}{6}!"
+      "$361\\dfrac{\\sqrt{3}}{2}$",
+      "$361\\dfrac{\\sqrt{3}}{3}$",
+      "$361\\dfrac{\\sqrt{3}}{4}$",
+      "$361\\dfrac{\\sqrt{3}}{6}$"
     ],
     "op_hi": [
-      "!361\\\\dfrac{\\\\sqrt{3}}{2}!",
-      "!361\\\\dfrac{\\\\sqrt{3}}{3}!",
-      "!361\\\\dfrac{\\\\sqrt{3}}{4}!",
-      "!361\\\\dfrac{\\\\sqrt{3}}{6}!"
+      "$361\\dfrac{\\sqrt{3}}{2}$",
+      "$361\\dfrac{\\sqrt{3}}{3}$",
+      "$361\\dfrac{\\sqrt{3}}{4}$",
+      "$361\\dfrac{\\sqrt{3}}{6}$"
     ],
     "ans": 3,
-    "solution": "<b>Solution (EN):</b><br>Area of an equilateral triangle of side !a! is:<br>!\\\\text{Area} = \\\\dfrac{\\\\sqrt{3}}{4}a^2!<br>For !a = 19! cm:<br>!\\\\text{Area} = \\\\dfrac{\\\\sqrt{3}}{4} \\\\times 19^2 = 361\\\\dfrac{\\\\sqrt{3}}{4}! !\\\\text{cm}^2!<br><br><b>Solution (HI):</b><br>समबाहु त्रिभुज का क्षेत्रफल:<br>!\\\\text{क्षेत्रफल} = \\\\dfrac{\\\\sqrt{3}}{4}a^2!<br>यहाँ !a = 19! cm:<br>!\\\\text{क्षेत्रफल} = \\\\dfrac{\\\\sqrt{3}}{4} \\\\times 361 = 361\\\\dfrac{\\\\sqrt{3}}{4}! !\\\\text{cm}^2!<br><br><b>Short Trick:</b><br>!\\\\text{Area} = \\\\dfrac{\\\\sqrt{3}}{4} \\\\times 361 = 361\\\\dfrac{\\\\sqrt{3}}{4}!<br><br><b>Final Answer:</b> !361\\\\dfrac{\\\\sqrt{3}}{4}!"
+    "solution": "<b>Solution (EN):</b><br>Area of an equilateral triangle of side $a$ is:<br>$\\text{Area} = \\dfrac{\\sqrt{3}}{4}a^2$<br>For $a = 19$ cm:<br>$\\text{Area} = \\dfrac{\\sqrt{3}}{4} \\times 19^2 = 361\\dfrac{\\sqrt{3}}{4}$ $\\text{cm}^2$<br><br><b>Solution (HI):</b><br>समबाहु त्रिभुज का क्षेत्रफल:<br>$\\text{क्षेत्रफल} = \\dfrac{\\sqrt{3}}{4}a^2$<br>यहाँ $a = 19$ cm:<br>$\\text{क्षेत्रफल} = \\dfrac{\\sqrt{3}}{4} \\times 361 = 361\\dfrac{\\sqrt{3}}{4}$ $\\text{cm}^2$<br><br><b>Short Trick:</b><br>$\\text{Area} = \\dfrac{\\sqrt{3}}{4} \\times 361 = 361\\dfrac{\\sqrt{3}}{4}$<br><br><b>Final Answer:</b> $361\\dfrac{\\sqrt{3}}{4}$"
   },
   {
     "section": "Quantitative Aptitude",
     "topic": "Mensuration 2D",
     "difficulty": "Easy",
-    "q_en": "The area (in !\\\\text{cm}^2!) of an equilateral triangle of side !35! cm is:",
-    "q_hi": "!35! cm भुजा वाले समबाहु त्रिभुज का क्षेत्रफल (!\\\\text{cm}^2! में) ज्ञात कीजिए।",
+    "q_en": "The area (in $\\text{cm}^2$) of an equilateral triangle of side $35$ cm is:",
+    "q_hi": "$35$ cm भुजा वाले समबाहु त्रिभुज का क्षेत्रफल ($\\text{cm}^2$ में) ज्ञात कीजिए।",
     "op_en": [
-      "!1,225\\\\dfrac{\\\\sqrt{3}}{3}!",
-      "!1,225\\\\dfrac{\\\\sqrt{3}}{4}!",
-      "!1,225\\\\dfrac{\\\\sqrt{3}}{2}!",
-      "!1,225\\\\dfrac{\\\\sqrt{3}}{6}!"
+      "$1,225\\dfrac{\\sqrt{3}}{3}$",
+      "$1,225\\dfrac{\\sqrt{3}}{4}$",
+      "$1,225\\dfrac{\\sqrt{3}}{2}$",
+      "$1,225\\dfrac{\\sqrt{3}}{6}$"
     ],
     "op_hi": [
-      "!1,225\\\\dfrac{\\\\sqrt{3}}{3}!",
-      "!1,225\\\\dfrac{\\\\sqrt{3}}{4}!",
-      "!1,225\\\\dfrac{\\\\sqrt{3}}{2}!",
-      "!1,225\\\\dfrac{\\\\sqrt{3}}{6}!"
+      "$1,225\\dfrac{\\sqrt{3}}{3}$",
+      "$1,225\\dfrac{\\sqrt{3}}{4}$",
+      "$1,225\\dfrac{\\sqrt{3}}{2}$",
+      "$1,225\\dfrac{\\sqrt{3}}{6}$"
     ],
     "ans": 2,
-    "solution": "<b>Solution (EN):</b><br>Area of an equilateral triangle:<br>!\\\\text{Area} = \\\\dfrac{\\\\sqrt{3}}{4}a^2!<br>Given !a = 35! cm:<br>!\\\\text{Area} = \\\\dfrac{\\\\sqrt{3}}{4} \\\\times 35^2 = 1,225\\\\dfrac{\\\\sqrt{3}}{4}! !\\\\text{cm}^2!<br><br><b>Solution (HI):</b><br>समबाहु त्रिभुज का क्षेत्रफल:<br>!\\\\text{क्षेत्रफल} = \\\\dfrac{\\\\sqrt{3}}{4}a^2!<br>यहाँ !a = 35! cm:<br>!\\\\text{क्षेत्रफल} = \\\\dfrac{\\\\sqrt{3}}{4} \\\\times 1,225 = 1,225\\\\dfrac{\\\\sqrt{3}}{4}! !\\\\text{cm}^2!<br><br><b>Short Trick:</b><br>!\\\\text{Area} = \\\\dfrac{\\\\sqrt{3}}{4} \\\\times 1,225 = 1,225\\\\dfrac{\\\\sqrt{3}}{4}!<br><br><b>Final Answer:</b> !1,225\\\\dfrac{\\\\sqrt{3}}{4}!"
+    "solution": "<b>Solution (EN):</b><br>Area of an equilateral triangle:<br>$\\text{Area} = \\dfrac{\\sqrt{3}}{4}a^2$<br>Given $a = 35$ cm:<br>$\\text{Area} = \\dfrac{\\sqrt{3}}{4} \\times 35^2 = 1,225\\dfrac{\\sqrt{3}}{4}$ $\\text{cm}^2$<br><br><b>Solution (HI):</b><br>समबाहु त्रिभुज का क्षेत्रफल:<br>$\\text{क्षेत्रफल} = \\dfrac{\\sqrt{3}}{4}a^2$<br>यहाँ $a = 35$ cm:<br>$\\text{क्षेत्रफल} = \\dfrac{\\sqrt{3}}{4} \\times 1,225 = 1,225\\dfrac{\\sqrt{3}}{4}$ $\\text{cm}^2$<br><br><b>Short Trick:</b><br>$\\text{Area} = \\dfrac{\\sqrt{3}}{4} \\times 1,225 = 1,225\\dfrac{\\sqrt{3}}{4}$<br><br><b>Final Answer:</b> $1,225\\dfrac{\\sqrt{3}}{4}$"
   },
   {
     "section": "Quantitative Aptitude",
     "topic": "Mensuration 3D",
     "difficulty": "Easy",
-    "q_en": "What is the area (in !\\\\text{m}^2!) of a room's four walls if the room's length, width, and height are !15! m, !20! m, and !22! m, respectively?",
-    "q_hi": "यदि एक कमरे की लंबाई, चौड़ाई और ऊंचाई क्रमशः !15! m, !20! m, और !22! m है, तो कमरे की चार दीवारों का क्षेत्रफल (!\\\\text{m}^2! में) ज्ञात कीजिए।",
+    "q_en": "What is the area (in $\\text{m}^2$) of a room's four walls if the room's length, width, and height are $15$ m, $20$ m, and $22$ m, respectively?",
+    "q_hi": "यदि एक कमरे की लंबाई, चौड़ाई और ऊंचाई क्रमशः $15$ m, $20$ m, और $22$ m है, तो कमरे की चार दीवारों का क्षेत्रफल ($\\text{m}^2$ में) ज्ञात कीजिए।",
     "op_en": [
-      "!1,540!",
-      "!1,510!",
-      "!1,530!",
-      "!1,520!"
+      "$1,540$",
+      "$1,510$",
+      "$1,530$",
+      "$1,520$"
     ],
     "op_hi": [
-      "!1,540!",
-      "!1,510!",
-      "!1,530!",
-      "!1,520!"
+      "$1,540$",
+      "$1,510$",
+      "$1,530$",
+      "$1,520$"
     ],
     "ans": 1,
-    "solution": "<b>Solution (EN):</b><br>Area of four walls is given by:<br>!\\\\text{Area} = 2(l + b) \\\\times h!<br>Given !l = 15! m, !b = 20! m, and !h = 22! m:<br>!\\\\text{Area} = 2(15 + 20) \\\\times 22 = 2 \\\\times 35 \\\\times 22 = 70 \\\\times 22 = 1,540! !\\\\text{m}^2!<br><br><b>Solution (HI):</b><br>चारों दीवारों का क्षेत्रफल होता है:<br>!\\\\text{क्षेत्रफल} = 2(l + b) \\\\times h!<br>यहाँ !l = 15! m, !b = 20! m, और !h = 22! m:<br>!\\\\text{क्षेत्रफल} = 2(15 + 20) \\\\times 22 = 70 \\\\times 22 = 1,540! !\\\\text{m}^2!<br><br><b>Short Trick:</b><br>!2(35) \\\\times 22 = 70 \\\\times 22 = 1,540!<br><br><b>Final Answer:</b> !1,540!"
+    "solution": "<b>Solution (EN):</b><br>Area of four walls is given by:<br>$\\text{Area} = 2(l + b) \\times h$<br>Given $l = 15$ m, $b = 20$ m, and $h = 22$ m:<br>$\\text{Area} = 2(15 + 20) \\times 22 = 2 \\times 35 \\times 22 = 70 \\times 22 = 1,540$ $\\text{m}^2$<br><br><b>Solution (HI):</b><br>चारों दीवारों का क्षेत्रफल होता है:<br>$\\text{क्षेत्रफल} = 2(l + b) \\times h$<br>यहाँ $l = 15$ m, $b = 20$ m, और $h = 22$ m:<br>$\\text{क्षेत्रफल} = 2(15 + 20) \\times 22 = 70 \\times 22 = 1,540$ $\\text{m}^2$<br><br><b>Short Trick:</b><br>$2(35) \\times 22 = 70 \\times 22 = 1,540$<br><br><b>Final Answer:</b> $1,540$"
   },
   {
     "section": "Quantitative Aptitude",
     "topic": "Mensuration 2D",
     "difficulty": "Easy",
-    "q_en": "The base and the corresponding height of a parallelogram are !85! cm and !39! cm, respectively. The area of the parallelogram (in !\\\\text{cm}^2!) is:",
-    "q_hi": "एक समांतर चतुर्भुज का आधार और संगत ऊंचाई क्रमशः !85! cm और !39! cm हैं। समांतर चतुर्भुज का क्षेत्रफल (!\\\\text{cm}^2! में) कितना है?",
+    "q_en": "The base and the corresponding height of a parallelogram are $85$ cm and $39$ cm, respectively. The area of the parallelogram (in $\\text{cm}^2$) is:",
+    "q_hi": "एक समांतर चतुर्भुज का आधार और संगत ऊंचाई क्रमशः $85$ cm और $39$ cm हैं। समांतर चतुर्भुज का क्षेत्रफल ($\\text{cm}^2$ में) कितना है?",
     "op_en": [
-      "!3,272!",
-      "!3,266!",
-      "!3,315!",
-      "!3,355!"
+      "$3,272$",
+      "$3,266$",
+      "$3,315$",
+      "$3,355$"
     ],
     "op_hi": [
-      "!3,272!",
-      "!3,266!",
-      "!3,315!",
-      "!3,355!"
+      "$3,272$",
+      "$3,266$",
+      "$3,315$",
+      "$3,355$"
     ],
     "ans": 3,
-    "solution": "<b>Solution (EN):</b><br>Area of a parallelogram = !\\\\text{base} \\\\times \\\\text{height}!<br>!\\\\text{Area} = 85 \\\\times 39 = 3,315! !\\\\text{cm}^2!<br><br><b>Solution (HI):</b><br>समांतर चतुर्भुज का क्षेत्रफल = !\\\\text{आधार} \\\\times \\\\text{ऊँचाई}!<br>!\\\\text{क्षेत्रफल} = 85 \\\\times 39 = 3,315! !\\\\text{cm}^2!<br><br><b>Short Trick:</b><br>!85 \\\\times 39 = 85 \\\\times (40 - 1) = 3,400 - 85 = 3,315!<br><br><b>Final Answer:</b> !3,315!"
+    "solution": "<b>Solution (EN):</b><br>Area of a parallelogram = $\\text{base} \\times \\text{height}$<br>$\\text{Area} = 85 \\times 39 = 3,315$ $\\text{cm}^2$<br><br><b>Solution (HI):</b><br>समांतर चतुर्भुज का क्षेत्रफल = $\\text{आधार} \\times \\text{ऊँचाई}$<br>$\\text{क्षेत्रफल} = 85 \\times 39 = 3,315$ $\\text{cm}^2$<br><br><b>Short Trick:</b><br>$85 \\times 39 = 85 \\times (40 - 1) = 3,400 - 85 = 3,315$<br><br><b>Final Answer:</b> $3,315$"
   },
   {
     "section": "Quantitative Aptitude",
     "topic": "Mensuration 2D",
     "difficulty": "Easy",
-    "q_en": "The diagonals of a rhombus are !70! cm and !40! cm. The area of the rhombus (in !\\\\text{cm}^2!) is:",
-    "q_hi": "एक समचतुर्भुज के विकर्णों की लंबाई !70! cm और !40! cm है। समचतुर्भुज का क्षेत्रफल (!\\\\text{cm}^2! में) ज्ञात कीजिए।",
+    "q_en": "The diagonals of a rhombus are $70$ cm and $40$ cm. The area of the rhombus (in $\\text{cm}^2$) is:",
+    "q_hi": "एक समचतुर्भुज के विकर्णों की लंबाई $70$ cm और $40$ cm है। समचतुर्भुज का क्षेत्रफल ($\\text{cm}^2$ में) ज्ञात कीजिए।",
     "op_en": [
-      "!1,400!",
-      "!1,430!",
-      "!1,442!",
-      "!1,354!"
+      "$1,400$",
+      "$1,430$",
+      "$1,442$",
+      "$1,354$"
     ],
     "op_hi": [
-      "!1,400!",
-      "!1,430!",
-      "!1,442!",
-      "!1,354!"
+      "$1,400$",
+      "$1,430$",
+      "$1,442$",
+      "$1,354$"
     ],
     "ans": 1,
-    "solution": "<b>Solution (EN):</b><br>Area of a rhombus is given by:<br>!\\\\text{Area} = \\\\dfrac{1}{2} \\\\times d_1 \\\\times d_2!<br>Given !d_1 = 70! cm and !d_2 = 40! cm:<br>!\\\\text{Area} = \\\\dfrac{1}{2} \\\\times 70 \\\\times 40 = 1,400! !\\\\text{cm}^2!<br><br><b>Solution (HI):</b><br>समचतुर्भुज का क्षेत्रफल होता है:<br>!\\\\text{क्षेत्रफल} = \\\\dfrac{1}{2} \\\\times d_1 \\\\times d_2!<br>यहाँ !d_1 = 70! cm तथा !d_2 = 40! cm:<br>!\\\\text{क्षेत्रफल} = \\\\dfrac{1}{2} \\\\times 70 \\\\times 40 = 1,400! !\\\\text{cm}^2!<br><br><b>Short Trick:</b><br>!\\\\dfrac{70 \\\\times 40}{2} = 1,400!<br><br><b>Final Answer:</b> !1,400!"
+    "solution": "<b>Solution (EN):</b><br>Area of a rhombus is given by:<br>$\\text{Area} = \\dfrac{1}{2} \\times d_1 \\times d_2$<br>Given $d_1 = 70$ cm and $d_2 = 40$ cm:<br>$\\text{Area} = \\dfrac{1}{2} \\times 70 \\times 40 = 1,400$ $\\text{cm}^2$<br><br><b>Solution (HI):</b><br>समचतुर्भुज का क्षेत्रफल होता है:<br>$\\text{क्षेत्रफल} = \\dfrac{1}{2} \\times d_1 \\times d_2$<br>यहाँ $d_1 = 70$ cm तथा $d_2 = 40$ cm:<br>$\\text{क्षेत्रफल} = \\dfrac{1}{2} \\times 70 \\times 40 = 1,400$ $\\text{cm}^2$<br><br><b>Short Trick:</b><br>$\\dfrac{70 \\times 40}{2} = 1,400$<br><br><b>Final Answer:</b> $1,400$"
   },
   {
     "section": "Quantitative Aptitude",
     "topic": "Mensuration 2D",
     "difficulty": "Easy",
-    "q_en": "The area (in !\\\\text{cm}^2!) of an equilateral triangle of side !23! cm is:",
-    "q_hi": "!23! cm भुजा वाले एक समबाहु त्रिभुज का क्षेत्रफल (!\\\\text{cm}^2! में) ज्ञात कीजिए।",
+    "q_en": "The area (in $\\text{cm}^2$) of an equilateral triangle of side $23$ cm is:",
+    "q_hi": "$23$ cm भुजा वाले एक समबाहु त्रिभुज का क्षेत्रफल ($\\text{cm}^2$ में) ज्ञात कीजिए।",
     "op_en": [
-      "!529\\\\dfrac{\\\\sqrt{3}}{2}!",
-      "!529\\\\dfrac{\\\\sqrt{3}}{3}!",
-      "!529\\\\dfrac{\\\\sqrt{3}}{4}!",
-      "!529\\\\dfrac{\\\\sqrt{3}}{6}!"
+      "$529\\dfrac{\\sqrt{3}}{2}$",
+      "$529\\dfrac{\\sqrt{3}}{3}$",
+      "$529\\dfrac{\\sqrt{3}}{4}$",
+      "$529\\dfrac{\\sqrt{3}}{6}$"
     ],
     "op_hi": [
-      "!529\\\\dfrac{\\\\sqrt{3}}{2}!",
-      "!529\\\\dfrac{\\\\sqrt{3}}{3}!",
-      "!529\\\\dfrac{\\\\sqrt{3}}{4}!",
-      "!529\\\\dfrac{\\\\sqrt{3}}{6}!"
+      "$529\\dfrac{\\sqrt{3}}{2}$",
+      "$529\\dfrac{\\sqrt{3}}{3}$",
+      "$529\\dfrac{\\sqrt{3}}{4}$",
+      "$529\\dfrac{\\sqrt{3}}{6}$"
     ],
     "ans": 3,
-    "solution": "<b>Solution (EN):</b><br>Area of an equilateral triangle:<br>!\\\\text{Area} = \\\\dfrac{\\\\sqrt{3}}{4}a^2!<br>For !a = 23! cm:<br>!\\\\text{Area} = \\\\dfrac{\\\\sqrt{3}}{4} \\\\times 23^2 = 529\\\\dfrac{\\\\sqrt{3}}{4}! !\\\\text{cm}^2!<br><br><b>Solution (HI):</b><br>समबाहु त्रिभुज का क्षेत्रफल:<br>!\\\\text{क्षेत्रफल} = \\\\dfrac{\\\\sqrt{3}}{4}a^2!<br>यहाँ !a = 23! cm:<br>!\\\\text{क्षेत्रफल} = \\\\dfrac{\\\\sqrt{3}}{4} \\\\times 529 = 529\\\\dfrac{\\\\sqrt{3}}{4}! !\\\\text{cm}^2!<br><br><b>Short Trick:</b><br>!\\\\text{Area} = \\\\dfrac{\\\\sqrt{3}}{4} \\\\times 529 = 529\\\\dfrac{\\\\sqrt{3}}{4}!<br><br><b>Final Answer:</b> !529\\\\dfrac{\\\\sqrt{3}}{4}!"
+    "solution": "<b>Solution (EN):</b><br>Area of an equilateral triangle:<br>$\\text{Area} = \\dfrac{\\sqrt{3}}{4}a^2$<br>For $a = 23$ cm:<br>$\\text{Area} = \\dfrac{\\sqrt{3}}{4} \\times 23^2 = 529\\dfrac{\\sqrt{3}}{4}$ $\\text{cm}^2$<br><br><b>Solution (HI):</b><br>समबाहु त्रिभुज का क्षेत्रफल:<br>$\\text{क्षेत्रफल} = \\dfrac{\\sqrt{3}}{4}a^2$<br>यहाँ $a = 23$ cm:<br>$\\text{क्षेत्रफल} = \\dfrac{\\sqrt{3}}{4} \\times 529 = 529\\dfrac{\\sqrt{3}}{4}$ $\\text{cm}^2$<br><br><b>Short Trick:</b><br>$\\text{Area} = \\dfrac{\\sqrt{3}}{4} \\times 529 = 529\\dfrac{\\sqrt{3}}{4}$<br><br><b>Final Answer:</b> $529\\dfrac{\\sqrt{3}}{4}$"
   },
   {
     "section": "Quantitative Aptitude",
     "topic": "Mensuration 2D",
     "difficulty": "Easy",
-    "q_en": "The area of a square plot is !15,376! !\\\\text{m}^2!. The length of each side of the plot (in m) is:",
-    "q_hi": "एक वर्गाकार भूखंड का क्षेत्रफल !15,376! !\\\\text{m}^2! है। भूखंड की प्रत्येक भुजा की लंबाई (m में) कितनी है?",
+    "q_en": "The area of a square plot is $15,376$ $\\text{m}^2$. The length of each side of the plot (in m) is:",
+    "q_hi": "एक वर्गाकार भूखंड का क्षेत्रफल $15,376$ $\\text{m}^2$ है। भूखंड की प्रत्येक भुजा की लंबाई (m में) कितनी है?",
     "op_en": [
-      "!142!",
-      "!122!",
-      "!134!",
-      "!124!"
+      "$142$",
+      "$122$",
+      "$134$",
+      "$124$"
     ],
     "op_hi": [
-      "!142!",
-      "!122!",
-      "!134!",
-      "!124!"
+      "$142$",
+      "$122$",
+      "$134$",
+      "$124$"
     ],
     "ans": 4,
-    "solution": "<b>Solution (EN):</b><br>For a square of side !s!:<br>!\\\\text{Area} = s^2 = 15,376!<br>!s = \\\\sqrt{15,376} = 124! m<br><br><b>Solution (HI):</b><br>वर्ग की भुजा !s! के लिए:<br>!\\\\text{क्षेत्रफल} = s^2 = 15,376!<br>!s = \\\\sqrt{15,376} = 124! m<br><br><b>Short Trick:</b><br>Since !120^2 = 14,400! and !130^2 = 16,900!, unit digit !6! gives side = !124!<br><br><b>Final Answer:</b> !124!"
+    "solution": "<b>Solution (EN):</b><br>For a square of side $s$:<br>$\\text{Area} = s^2 = 15,376$<br>$s = \\sqrt{15,376} = 124$ m<br><br><b>Solution (HI):</b><br>वर्ग की भुजा $s$ के लिए:<br>$\\text{क्षेत्रफल} = s^2 = 15,376$<br>$s = \\sqrt{15,376} = 124$ m<br><br><b>Short Trick:</b><br>Since $120^2 = 14,400$ and $130^2 = 16,900$, unit digit $6$ gives side = $124$<br><br><b>Final Answer:</b> $124$"
   },
   {
     "section": "Quantitative Aptitude",
     "topic": "Mensuration 2D",
     "difficulty": "Easy",
-    "q_en": "The area (in !\\\\text{cm}^2!) of an equilateral triangle of side !33! cm is:",
-    "q_hi": "!33! cm भुजा वाले एक समबाहु त्रिभुज का क्षेत्रफल (!\\\\text{cm}^2! में) ज्ञात कीजिए।",
+    "q_en": "The area (in $\\text{cm}^2$) of an equilateral triangle of side $33$ cm is:",
+    "q_hi": "$33$ cm भुजा वाले एक समबाहु त्रिभुज का क्षेत्रफल ($\\text{cm}^2$ में) ज्ञात कीजिए।",
     "op_en": [
-      "!1,089\\\\dfrac{\\\\sqrt{3}}{6}!",
-      "!1,089\\\\dfrac{\\\\sqrt{3}}{2}!",
-      "!1,089\\\\dfrac{\\\\sqrt{3}}{3}!",
-      "!1,089\\\\dfrac{\\\\sqrt{3}}{4}!"
+      "$1,089\\dfrac{\\sqrt{3}}{6}$",
+      "$1,089\\dfrac{\\sqrt{3}}{2}$",
+      "$1,089\\dfrac{\\sqrt{3}}{3}$",
+      "$1,089\\dfrac{\\sqrt{3}}{4}$"
     ],
     "op_hi": [
-      "!1,089\\\\dfrac{\\\\sqrt{3}}{6}!",
-      "!1,089\\\\dfrac{\\\\sqrt{3}}{2}!",
-      "!1,089\\\\dfrac{\\\\sqrt{3}}{3}!",
-      "!1,089\\\\dfrac{\\\\sqrt{3}}{4}!"
+      "$1,089\\dfrac{\\sqrt{3}}{6}$",
+      "$1,089\\dfrac{\\sqrt{3}}{2}$",
+      "$1,089\\dfrac{\\sqrt{3}}{3}$",
+      "$1,089\\dfrac{\\sqrt{3}}{4}$"
     ],
     "ans": 4,
-    "solution": "<b>Solution (EN):</b><br>Area of an equilateral triangle:<br>!\\\\text{Area} = \\\\dfrac{\\\\sqrt{3}}{4}a^2!<br>For !a = 33! cm:<br>!\\\\text{Area} = \\\\dfrac{\\\\sqrt{3}}{4} \\\\times 33^2 = 1,089\\\\dfrac{\\\\sqrt{3}}{4}! !\\\\text{cm}^2!<br><br><b>Solution (HI):</b><br>समबाहु त्रिभुज का क्षेत्रफल:<br>!\\\\text{क्षेत्रफल} = \\\\dfrac{\\\\sqrt{3}}{4}a^2!<br>यहाँ !a = 33! cm:<br>!\\\\text{क्षेत्रफल} = \\\\dfrac{\\\\sqrt{3}}{4} \\\\times 1,089 = 1,089\\\\dfrac{\\\\sqrt{3}}{4}! !\\\\text{cm}^2!<br><br><b>Short Trick:</b><br>!\\\\text{Area} = \\\\dfrac{\\\\sqrt{3}}{4} \\\\times 33^2 = 1,089\\\\dfrac{\\\\sqrt{3}}{4}!<br><br><b>Final Answer:</b> !1,089\\\\dfrac{\\\\sqrt{3}}{4}!"
+    "solution": "<b>Solution (EN):</b><br>Area of an equilateral triangle:<br>$\\text{Area} = \\dfrac{\\sqrt{3}}{4}a^2$<br>For $a = 33$ cm:<br>$\\text{Area} = \\dfrac{\\sqrt{3}}{4} \\times 33^2 = 1,089\\dfrac{\\sqrt{3}}{4}$ $\\text{cm}^2$<br><br><b>Solution (HI):</b><br>समबाहु त्रिभुज का क्षेत्रफल:<br>$\\text{क्षेत्रफल} = \\dfrac{\\sqrt{3}}{4}a^2$<br>यहाँ $a = 33$ cm:<br>$\\text{क्षेत्रफल} = \\dfrac{\\sqrt{3}}{4} \\times 1,089 = 1,089\\dfrac{\\sqrt{3}}{4}$ $\\text{cm}^2$<br><br><b>Short Trick:</b><br>$\\text{Area} = \\dfrac{\\sqrt{3}}{4} \\times 33^2 = 1,089\\dfrac{\\sqrt{3}}{4}$<br><br><b>Final Answer:</b> $1,089\\dfrac{\\sqrt{3}}{4}$"
   },
   {
     "section": "Quantitative Aptitude",
     "topic": "Mensuration 2D",
     "difficulty": "Easy",
-    "q_en": "A regular hexagon has each side measuring !6! cm. What is the perimeter?",
-    "q_hi": "किसी समषट्भुज की प्रत्येक भुजा की माप !6! cm है। इसका परिमाप क्या है?",
+    "q_en": "A regular hexagon has each side measuring $6$ cm. What is the perimeter?",
+    "q_hi": "किसी समषट्भुज की प्रत्येक भुजा की माप $6$ cm है। इसका परिमाप क्या है?",
     "op_en": [
-      "!30! cm",
-      "!18! cm",
-      "!24! cm",
-      "!36! cm"
+      "$30$ cm",
+      "$18$ cm",
+      "$24$ cm",
+      "$36$ cm"
     ],
     "op_hi": [
-      "!30! cm",
-      "!18! cm",
-      "!24! cm",
-      "!36! cm"
+      "$30$ cm",
+      "$18$ cm",
+      "$24$ cm",
+      "$36$ cm"
     ],
     "ans": 4,
-    "solution": "<b>Solution (EN):</b><br>A regular hexagon has !6! equal sides.<br>Perimeter = !6 \\\\times \\\\text{side}!<br>Perimeter = !6 \\\\times 6 = 36! cm<br><br><b>Solution (HI):</b><br>एक समषट्भुज की !6! बराबर भुजाएँ होती हैं।<br>परिमाप = !6 \\\\times \\\\text{भुजा}!<br>परिमाप = !6 \\\\times 6 = 36! cm<br><br><b>Short Trick:</b><br>!6 \\\\times 6 = 36! cm<br><br><b>Final Answer:</b> !36!"
+    "solution": "<b>Solution (EN):</b><br>A regular hexagon has $6$ equal sides.<br>Perimeter = $6 \\times \\text{side}$<br>Perimeter = $6 \\times 6 = 36$ cm<br><br><b>Solution (HI):</b><br>एक समषट्भुज की $6$ बराबर भुजाएँ होती हैं।<br>परिमाप = $6 \\times \\text{भुजा}$<br>परिमाप = $6 \\times 6 = 36$ cm<br><br><b>Short Trick:</b><br>$6 \\times 6 = 36$ cm<br><br><b>Final Answer:</b> $36$"
   },
   {
     "section": "Quantitative Aptitude",
     "topic": "Mensuration 2D",
     "difficulty": "Easy",
-    "q_en": "The area (in !\\\\text{cm}^2!) of an equilateral triangle of side !34! cm is:",
-    "q_hi": "!34! cm भुजा वाले समबाहु त्रिभुज का क्षेत्रफल (!\\\\text{cm}^2! में) ज्ञात कीजिए।",
+    "q_en": "The area (in $\\text{cm}^2$) of an equilateral triangle of side $34$ cm is:",
+    "q_hi": "$34$ cm भुजा वाले समबाहु त्रिभुज का क्षेत्रफल ($\\text{cm}^2$ में) ज्ञात कीजिए।",
     "op_en": [
-      "!291\\\\sqrt{3}!",
-      "!294\\\\sqrt{3}!",
-      "!289\\\\sqrt{3}!",
-      "!284\\\\sqrt{3}!"
+      "$291\\sqrt{3}$",
+      "$294\\sqrt{3}$",
+      "$289\\sqrt{3}$",
+      "$284\\sqrt{3}$"
     ],
     "op_hi": [
-      "!291\\\\sqrt{3}!",
-      "!294\\\\sqrt{3}!",
-      "!289\\\\sqrt{3}!",
-      "!284\\\\sqrt{3}!"
+      "$291\\sqrt{3}$",
+      "$294\\sqrt{3}$",
+      "$289\\sqrt{3}$",
+      "$284\\sqrt{3}$"
     ],
     "ans": 3,
-    "solution": "<b>Solution (EN):</b><br>Area of an equilateral triangle:<br>!\\\\text{Area} = \\\\dfrac{\\\\sqrt{3}}{4}a^2!<br>For !a = 34! cm:<br>!\\\\text{Area} = \\\\dfrac{\\\\sqrt{3}}{4} \\\\times 34^2 = \\\\dfrac{\\\\sqrt{3}}{4} \\\\times 1,156 = 289\\\\sqrt{3}! !\\\\text{cm}^2!<br><br><b>Solution (HI):</b><br>समबाहु त्रिभुज का क्षेत्रफल:<br>!\\\\text{क्षेत्रफल} = \\\\dfrac{\\\\sqrt{3}}{4}a^2!<br>यहाँ !a = 34! cm:<br>!\\\\text{क्षेत्रफल} = \\\\dfrac{\\\\sqrt{3}}{4} \\\\times 1,156 = 289\\\\sqrt{3}! !\\\\text{cm}^2!<br><br><b>Short Trick:</b><br>!\\\\text{Area} = \\\\dfrac{\\\\sqrt{3}}{4} \\\\times 1,156 = 289\\\\sqrt{3}!<br><br><b>Final Answer:</b> !289\\\\sqrt{3}!"
+    "solution": "<b>Solution (EN):</b><br>Area of an equilateral triangle:<br>$\\text{Area} = \\dfrac{\\sqrt{3}}{4}a^2$<br>For $a = 34$ cm:<br>$\\text{Area} = \\dfrac{\\sqrt{3}}{4} \\times 34^2 = \\dfrac{\\sqrt{3}}{4} \\times 1,156 = 289\\sqrt{3}$ $\\text{cm}^2$<br><br><b>Solution (HI):</b><br>समबाहु त्रिभुज का क्षेत्रफल:<br>$\\text{क्षेत्रफल} = \\dfrac{\\sqrt{3}}{4}a^2$<br>यहाँ $a = 34$ cm:<br>$\\text{क्षेत्रफल} = \\dfrac{\\sqrt{3}}{4} \\times 1,156 = 289\\sqrt{3}$ $\\text{cm}^2$<br><br><b>Short Trick:</b><br>$\\text{Area} = \\dfrac{\\sqrt{3}}{4} \\times 1,156 = 289\\sqrt{3}$<br><br><b>Final Answer:</b> $289\\sqrt{3}$"
   },
   {
     "section": "Quantitative Aptitude",
     "topic": "Mensuration 2D",
     "difficulty": "Easy",
-    "q_en": "If the area of a square is !144! !\\\\text{cm}^2!, find its perimeter.",
-    "q_hi": "यदि किसी वर्ग का क्षेत्रफल !144! !\\\\text{cm}^2! है, तो उसका परिमाप ज्ञात कीजिए।",
+    "q_en": "If the area of a square is $144$ $\\text{cm}^2$, find its perimeter.",
+    "q_hi": "यदि किसी वर्ग का क्षेत्रफल $144$ $\\text{cm}^2$ है, तो उसका परिमाप ज्ञात कीजिए।",
     "op_en": [
-      "!36! cm",
-      "!24! cm",
-      "!12! cm",
-      "!48! cm"
+      "$36$ cm",
+      "$24$ cm",
+      "$12$ cm",
+      "$48$ cm"
     ],
     "op_hi": [
-      "!36! cm",
-      "!24! cm",
-      "!12! cm",
-      "!48! cm"
+      "$36$ cm",
+      "$24$ cm",
+      "$12$ cm",
+      "$48$ cm"
     ],
     "ans": 4,
-    "solution": "<b>Solution (EN):</b><br>Side of the square = !\\\\sqrt{144} = 12! cm<br>Perimeter = !4 \\\\times \\\\text{side} = 4 \\\\times 12 = 48! cm<br><br><b>Solution (HI):</b><br>वर्ग की भुजा = !\\\\sqrt{144} = 12! cm<br>परिमाप = !4 \\\\times \\\\text{भुजा} = 4 \\\\times 12 = 48! cm<br><br><b>Short Trick:</b><br>!4 \\\\times \\\\sqrt{144} = 4 \\\\times 12 = 48! cm<br><br><b>Final Answer:</b> !48!"
+    "solution": "<b>Solution (EN):</b><br>Side of the square = $\\sqrt{144} = 12$ cm<br>Perimeter = $4 \\times \\text{side} = 4 \\times 12 = 48$ cm<br><br><b>Solution (HI):</b><br>वर्ग की भुजा = $\\sqrt{144} = 12$ cm<br>परिमाप = $4 \\times \\text{भुजा} = 4 \\times 12 = 48$ cm<br><br><b>Short Trick:</b><br>$4 \\times \\sqrt{144} = 4 \\times 12 = 48$ cm<br><br><b>Final Answer:</b> $48$"
   },
   {
     "section": "Quantitative Aptitude",
     "topic": "Mensuration 2D",
     "difficulty": "Easy",
-    "q_en": "The area (in !\\\\text{cm}^2!) of an equilateral triangle of side !11! cm is:",
-    "q_hi": "!11! cm भुजा वाले समबाहु त्रिभुज का क्षेत्रफल (!\\\\text{cm}^2! में) ज्ञात कीजिए।",
+    "q_en": "The area (in $\\text{cm}^2$) of an equilateral triangle of side $11$ cm is:",
+    "q_hi": "$11$ cm भुजा वाले समबाहु त्रिभुज का क्षेत्रफल ($\\text{cm}^2$ में) ज्ञात कीजिए।",
     "op_en": [
-      "!121\\\\dfrac{\\\\sqrt{3}}{3}!",
-      "!121\\\\dfrac{\\\\sqrt{3}}{4}!",
-      "!121\\\\dfrac{\\\\sqrt{3}}{2}!",
-      "!121\\\\dfrac{\\\\sqrt{3}}{6}!"
+      "$121\\dfrac{\\sqrt{3}}{3}$",
+      "$121\\dfrac{\\sqrt{3}}{4}$",
+      "$121\\dfrac{\\sqrt{3}}{2}$",
+      "$121\\dfrac{\\sqrt{3}}{6}$"
     ],
     "op_hi": [
-      "!121\\\\dfrac{\\\\sqrt{3}}{3}!",
-      "!121\\\\dfrac{\\\\sqrt{3}}{4}!",
-      "!121\\\\dfrac{\\\\sqrt{3}}{2}!",
-      "!121\\\\dfrac{\\\\sqrt{3}}{6}!"
+      "$121\\dfrac{\\sqrt{3}}{3}$",
+      "$121\\dfrac{\\sqrt{3}}{4}$",
+      "$121\\dfrac{\\sqrt{3}}{2}$",
+      "$121\\dfrac{\\sqrt{3}}{6}$"
     ],
     "ans": 2,
-    "solution": "<b>Solution (EN):</b><br>Area of an equilateral triangle:<br>!\\\\text{Area} = \\\\dfrac{\\\\sqrt{3}}{4}a^2!<br>For !a = 11! cm:<br>!\\\\text{Area} = \\\\dfrac{\\\\sqrt{3}}{4} \\\\times 11^2 = 121\\\\dfrac{\\\\sqrt{3}}{4}! !\\\\text{cm}^2!<br><br><b>Solution (HI):</b><br>समबाहु त्रिभुज का क्षेत्रफल:<br>!\\\\text{क्षेत्रफल} = \\\\dfrac{\\\\sqrt{3}}{4}a^2!<br>यहाँ !a = 11! cm:<br>!\\\\text{क्षेत्रफल} = \\\\dfrac{\\\\sqrt{3}}{4} \\\\times 121 = 121\\\\dfrac{\\\\sqrt{3}}{4}! !\\\\text{cm}^2!<br><br><b>Short Trick:</b><br>!\\\\text{Area} = \\\\dfrac{\\\\sqrt{3}}{4} \\\\times 121 = 121\\\\dfrac{\\\\sqrt{3}}{4}!<br><br><b>Final Answer:</b> !121\\\\dfrac{\\\\sqrt{3}}{4}!"
+    "solution": "<b>Solution (EN):</b><br>Area of an equilateral triangle:<br>$\\text{Area} = \\dfrac{\\sqrt{3}}{4}a^2$<br>For $a = 11$ cm:<br>$\\text{Area} = \\dfrac{\\sqrt{3}}{4} \\times 11^2 = 121\\dfrac{\\sqrt{3}}{4}$ $\\text{cm}^2$<br><br><b>Solution (HI):</b><br>समबाहु त्रिभुज का क्षेत्रफल:<br>$\\text{क्षेत्रफल} = \\dfrac{\\sqrt{3}}{4}a^2$<br>यहाँ $a = 11$ cm:<br>$\\text{क्षेत्रफल} = \\dfrac{\\sqrt{3}}{4} \\times 121 = 121\\dfrac{\\sqrt{3}}{4}$ $\\text{cm}^2$<br><br><b>Short Trick:</b><br>$\\text{Area} = \\dfrac{\\sqrt{3}}{4} \\times 121 = 121\\dfrac{\\sqrt{3}}{4}$<br><br><b>Final Answer:</b> $121\\dfrac{\\sqrt{3}}{4}$"
   },
   {
     "section": "Quantitative Aptitude",
     "topic": "Mensuration 2D",
     "difficulty": "Medium",
-    "q_en": "Find the perimeter (in m) of a square field with area equal to !275! !\\\\text{m}^2!.",
-    "q_hi": "एक वर्गाकार खेत का परिमाप (m में) ज्ञात कीजिए, जिसका क्षेत्रफल !275! !\\\\text{m}^2! के बराबर है।",
+    "q_en": "Find the perimeter (in m) of a square field with area equal to $275$ $\\text{m}^2$.",
+    "q_hi": "एक वर्गाकार खेत का परिमाप (m में) ज्ञात कीजिए, जिसका क्षेत्रफल $275$ $\\text{m}^2$ के बराबर है।",
     "op_en": [
-      "!20\\\\sqrt{11}!",
-      "!10\\\\sqrt{11}!",
-      "!30\\\\sqrt{11}!",
-      "!40\\\\sqrt{11}!"
+      "$20\\sqrt{11}$",
+      "$10\\sqrt{11}$",
+      "$30\\sqrt{11}$",
+      "$40\\sqrt{11}$"
     ],
     "op_hi": [
-      "!20\\\\sqrt{11}!",
-      "!10\\\\sqrt{11}!",
-      "!30\\\\sqrt{11}!",
-      "!40\\\\sqrt{11}!"
+      "$20\\sqrt{11}$",
+      "$10\\sqrt{11}$",
+      "$30\\sqrt{11}$",
+      "$40\\sqrt{11}$"
     ],
     "ans": 1,
-    "solution": "<b>Solution (EN):</b><br>Side of the square field = !\\\\sqrt{275} = \\\\sqrt{25 \\\\times 11} = 5\\\\sqrt{11}! m<br>Perimeter = !4 \\\\times \\\\text{side} = 4 \\\\times 5\\\\sqrt{11} = 20\\\\sqrt{11}! m<br><br><b>Solution (HI):</b><br>वर्गाकार खेत की भुजा = !\\\\sqrt{275} = \\\\sqrt{25 \\\\times 11} = 5\\\\sqrt{11}! m<br>परिमाप = !4 \\\\times \\\\text{भुजा} = 4 \\\\times 5\\\\sqrt{11} = 20\\\\sqrt{11}! m<br><br><b>Short Trick:</b><br>!4 \\\\times \\\\sqrt{275} = 4 \\\\times 5\\\\sqrt{11} = 20\\\\sqrt{11}!<br><br><b>Final Answer:</b> !20\\\\sqrt{11}!"
+    "solution": "<b>Solution (EN):</b><br>Side of the square field = $\\sqrt{275} = \\sqrt{25 \\times 11} = 5\\sqrt{11}$ m<br>Perimeter = $4 \\times \\text{side} = 4 \\times 5\\sqrt{11} = 20\\sqrt{11}$ m<br><br><b>Solution (HI):</b><br>वर्गाकार खेत की भुजा = $\\sqrt{275} = \\sqrt{25 \\times 11} = 5\\sqrt{11}$ m<br>परिमाप = $4 \\times \\text{भुजा} = 4 \\times 5\\sqrt{11} = 20\\sqrt{11}$ m<br><br><b>Short Trick:</b><br>$4 \\times \\sqrt{275} = 4 \\times 5\\sqrt{11} = 20\\sqrt{11}$<br><br><b>Final Answer:</b> $20\\sqrt{11}$"
   },
   {
     "section": "Quantitative Aptitude",
     "topic": "Mensuration 2D",
     "difficulty": "Easy",
-    "q_en": "If the length of the diagonal of a square is !8.4! cm, then find the area of the square.",
-    "q_hi": "यदि किसी वर्ग के विकर्ण की लंबाई !8.4! cm है, तो वर्ग का क्षेत्रफल ज्ञात कीजिए।",
+    "q_en": "If the length of the diagonal of a square is $8.4$ cm, then find the area of the square.",
+    "q_hi": "यदि किसी वर्ग के विकर्ण की लंबाई $8.4$ cm है, तो वर्ग का क्षेत्रफल ज्ञात कीजिए।",
     "op_en": [
-      "!22.28! !\\\\text{cm}^2!",
-      "!32.25! !\\\\text{cm}^2!",
-      "!30.25! !\\\\text{cm}^2!",
-      "!35.28! !\\\\text{cm}^2!"
+      "$22.28$ $\\text{cm}^2$",
+      "$32.25$ $\\text{cm}^2$",
+      "$30.25$ $\\text{cm}^2$",
+      "$35.28$ $\\text{cm}^2$"
     ],
     "op_hi": [
-      "!22.28! !\\\\text{cm}^2!",
-      "!32.25! !\\\\text{cm}^2!",
-      "!30.25! !\\\\text{cm}^2!",
-      "!35.28! !\\\\text{cm}^2!"
+      "$22.28$ $\\text{cm}^2$",
+      "$32.25$ $\\text{cm}^2$",
+      "$30.25$ $\\text{cm}^2$",
+      "$35.28$ $\\text{cm}^2$"
     ],
     "ans": 4,
-    "solution": "<b>Solution (EN):</b><br>Area of a square in terms of diagonal !d! is:<br>!\\\\text{Area} = \\\\dfrac{d^2}{2}!<br>Here, !d = 8.4! cm:<br>!\\\\text{Area} = \\\\dfrac{(8.4)^2}{2} = \\\\dfrac{70.56}{2} = 35.28! !\\\\text{cm}^2!<br><br><b>Solution (HI):</b><br>विकर्ण !d! के रूप में वर्ग का क्षेत्रफल:<br>!\\\\text{क्षेत्रफल} = \\\\dfrac{d^2}{2}!<br>यहाँ !d = 8.4! cm:<br>!\\\\text{क्षेत्रफल} = \\\\dfrac{(8.4)^2}{2} = \\\\dfrac{70.56}{2} = 35.28! !\\\\text{cm}^2!<br><br><b>Short Trick:</b><br>!\\\\dfrac{70.56}{2} = 35.28!<br><br><b>Final Answer:</b> !35.28!"
+    "solution": "<b>Solution (EN):</b><br>Area of a square in terms of diagonal $d$ is:<br>$\\text{Area} = \\dfrac{d^2}{2}$<br>Here, $d = 8.4$ cm:<br>$\\text{Area} = \\dfrac{(8.4)^2}{2} = \\dfrac{70.56}{2} = 35.28$ $\\text{cm}^2$<br><br><b>Solution (HI):</b><br>विकर्ण $d$ के रूप में वर्ग का क्षेत्रफल:<br>$\\text{क्षेत्रफल} = \\dfrac{d^2}{2}$<br>यहाँ $d = 8.4$ cm:<br>$\\text{क्षेत्रफल} = \\dfrac{(8.4)^2}{2} = \\dfrac{70.56}{2} = 35.28$ $\\text{cm}^2$<br><br><b>Short Trick:</b><br>$\\dfrac{70.56}{2} = 35.28$<br><br><b>Final Answer:</b> $35.28$"
   },
   {
     "section": "Quantitative Aptitude",
     "topic": "Geometry",
     "difficulty": "Medium",
-    "q_en": "If !p! is the perimeter of a triangle with one side of !7! and another side of !9!, what is the range of possible values for !p!?",
-    "q_hi": "यदि !p! एक ऐसे त्रिभुज का परिमाप है जिसकी एक भुजा !7! और दूसरी भुजा !9! है, तो !p! के संभावित मानों का परिसर कितना होगा?",
+    "q_en": "If $p$ is the perimeter of a triangle with one side of $7$ and another side of $9$, what is the range of possible values for $p$?",
+    "q_hi": "यदि $p$ एक ऐसे त्रिभुज का परिमाप है जिसकी एक भुजा $7$ और दूसरी भुजा $9$ है, तो $p$ के संभावित मानों का परिसर कितना होगा?",
     "op_en": [
-      "!18 < p < 32!",
-      "!2 < p < 32!",
-      "!2 < p < 30!",
-      "!16 < p < 32!"
+      "$18 < p < 32$",
+      "$2 < p < 32$",
+      "$2 < p < 30$",
+      "$16 < p < 32$"
     ],
     "op_hi": [
-      "!18 < p < 32!",
-      "!2 < p < 32!",
-      "!2 < p < 30!",
-      "!16 < p < 32!"
+      "$18 < p < 32$",
+      "$2 < p < 32$",
+      "$2 < p < 30$",
+      "$16 < p < 32$"
     ],
     "ans": 1,
-    "solution": "<b>Solution (EN):</b><br>Let the third side of the triangle be !c!.<br>By triangle inequality theorem:<br>!|9 - 7| < c < 9 + 7!<br>!2 < c < 16!<br>Perimeter !p = 7 + 9 + c = 16 + c!<br>Adding !16! to all parts:<br>!16 + 2 < 16 + c < 16 + 16!<br>!18 < p < 32!<br><br><b>Solution (HI):</b><br>माना त्रिभुज की तीसरी भुजा !c! है।<br>त्रिभुज असमिका नियम के अनुसार:<br>!|9 - 7| < c < 9 + 7!<br>!2 < c < 16!<br>परिमाप !p = 7 + 9 + c = 16 + c!<br>तीनों पक्षों में !16! जोड़ने पर:<br>!16 + 2 < p < 16 + 16!<br>!18 < p < 32!<br><br><b>Short Trick:</b><br>!\\\\text{Range of } c = (2, 16) \\\\Rightarrow p = c + 16 \\\\Rightarrow (18, 32)!<br><br><b>Final Answer:</b> !18 < p < 32!"
+    "solution": "<b>Solution (EN):</b><br>Let the third side of the triangle be $c$.<br>By triangle inequality theorem:<br>$|9 - 7| < c < 9 + 7$<br>$2 < c < 16$<br>Perimeter $p = 7 + 9 + c = 16 + c$<br>Adding $16$ to all parts:<br>$16 + 2 < 16 + c < 16 + 16$<br>$18 < p < 32$<br><br><b>Solution (HI):</b><br>माना त्रिभुज की तीसरी भुजा $c$ है।<br>त्रिभुज असमिका नियम के अनुसार:<br>$|9 - 7| < c < 9 + 7$<br>$2 < c < 16$<br>परिमाप $p = 7 + 9 + c = 16 + c$<br>तीनों पक्षों में $16$ जोड़ने पर:<br>$16 + 2 < p < 16 + 16$<br>$18 < p < 32$<br><br><b>Short Trick:</b><br>$\\text{Range of } c = (2, 16) \\Rightarrow p = c + 16 \\Rightarrow (18, 32)$<br><br><b>Final Answer:</b> $18 < p < 32$"
   },
   {
     "section": "Quantitative Aptitude",
     "topic": "Mensuration 2D",
     "difficulty": "Medium",
-    "q_en": "The area of a square is !9! !\\\\text{cm}^2!. Its perimeter is equal to the perimeter of a regular hexagon. What is the area (in !\\\\text{cm}^2!) of the hexagon?",
-    "q_hi": "एक वर्ग का क्षेत्रफल !9! !\\\\text{cm}^2! है। उसका परिमाप एक सम षट्‌भुज के परिमाप के बराबर है। षट्भुज का क्षेत्रफल (!\\\\text{cm}^2! में) ज्ञात कीजिए।",
+    "q_en": "The area of a square is $9$ $\\text{cm}^2$. Its perimeter is equal to the perimeter of a regular hexagon. What is the area (in $\\text{cm}^2$) of the hexagon?",
+    "q_hi": "एक वर्ग का क्षेत्रफल $9$ $\\text{cm}^2$ है। उसका परिमाप एक सम षट्‌भुज के परिमाप के बराबर है। षट्भुज का क्षेत्रफल ($\\text{cm}^2$ में) ज्ञात कीजिए।",
     "op_en": [
-      "!28!",
-      "!6\\\\sqrt{3}!",
-      "!32\\\\sqrt{3}!",
-      "!42!"
+      "$28$",
+      "$6\\sqrt{3}$",
+      "$32\\sqrt{3}$",
+      "$42$"
     ],
     "op_hi": [
-      "!28!",
-      "!6\\\\sqrt{3}!",
-      "!32\\\\sqrt{3}!",
-      "!42!"
+      "$28$",
+      "$6\\sqrt{3}$",
+      "$32\\sqrt{3}$",
+      "$42$"
     ],
     "ans": 2,
-    "solution": "<b>Solution (EN):</b><br>Area of square = !9! !\\\\text{cm}^2!<br>Side of square = !\\\\sqrt{9} = 3! cm<br>Perimeter of square = !4 \\\\times 3 = 12! cm<br>Perimeter of regular hexagon = !12! cm<br>Side of regular hexagon (!a!) = !\\\\dfrac{12}{6} = 2! cm<br>Area of regular hexagon = !6 \\\\times \\\\dfrac{\\\\sqrt{3}}{4}a^2!<br>!\\\\text{Area} = 6 \\\\times \\\\dfrac{\\\\sqrt{3}}{4} \\\\times 2^2 = 6 \\\\times \\\\dfrac{\\\\sqrt{3}}{4} \\\\times 4 = 6\\\\sqrt{3}! !\\\\text{cm}^2!<br><br><b>Solution (HI):</b><br>वर्ग का क्षेत्रफल = !9! !\\\\text{cm}^2!<br>वर्ग की भुजा = !\\\\sqrt{9} = 3! cm<br>वर्ग का परिमाप = !4 \\\\times 3 = 12! cm<br>समषट्भुज का परिमाप = !12! cm<br>समषट्भुज की भुजा (!a!) = !\\\\dfrac{12}{6} = 2! cm<br>समषट्भुज का क्षेत्रफल = !6 \\\\times \\\\dfrac{\\\\sqrt{3}}{4}a^2 = 6 \\\\times \\\\dfrac{\\\\sqrt{3}}{4} \\\\times 4 = 6\\\\sqrt{3}! !\\\\text{cm}^2!<br><br><b>Short Trick:</b><br>!a = \\\\dfrac{12}{6} = 2 \\\\Rightarrow \\\\text{Area} = 6 \\\\times \\\\dfrac{\\\\sqrt{3}}{4} \\\\times 4 = 6\\\\sqrt{3}!<br><br><b>Final Answer:</b> !6\\\\sqrt{3}!"
+    "solution": "<b>Solution (EN):</b><br>Area of square = $9$ $\\text{cm}^2$<br>Side of square = $\\sqrt{9} = 3$ cm<br>Perimeter of square = $4 \\times 3 = 12$ cm<br>Perimeter of regular hexagon = $12$ cm<br>Side of regular hexagon ($a$) = $\\dfrac{12}{6} = 2$ cm<br>Area of regular hexagon = $6 \\times \\dfrac{\\sqrt{3}}{4}a^2$<br>$\\text{Area} = 6 \\times \\dfrac{\\sqrt{3}}{4} \\times 2^2 = 6 \\times \\dfrac{\\sqrt{3}}{4} \\times 4 = 6\\sqrt{3}$ $\\text{cm}^2$<br><br><b>Solution (HI):</b><br>वर्ग का क्षेत्रफल = $9$ $\\text{cm}^2$<br>वर्ग की भुजा = $\\sqrt{9} = 3$ cm<br>वर्ग का परिमाप = $4 \\times 3 = 12$ cm<br>समषट्भुज का परिमाप = $12$ cm<br>समषट्भुज की भुजा ($a$) = $\\dfrac{12}{6} = 2$ cm<br>समषट्भुज का क्षेत्रफल = $6 \\times \\dfrac{\\sqrt{3}}{4}a^2 = 6 \\times \\dfrac{\\sqrt{3}}{4} \\times 4 = 6\\sqrt{3}$ $\\text{cm}^2$<br><br><b>Short Trick:</b><br>$a = \\dfrac{12}{6} = 2 \\Rightarrow \\text{Area} = 6 \\times \\dfrac{\\sqrt{3}}{4} \\times 4 = 6\\sqrt{3}$<br><br><b>Final Answer:</b> $6\\sqrt{3}$"
   },
   {
     "section": "Quantitative Aptitude",
     "topic": "Mensuration 2D",
     "difficulty": "Medium",
-    "q_en": "The diagonals of a rhombus shaped field are !216! m and !90! m long. What is the perimeter (in m) of the field?",
-    "q_hi": "एक समचतुर्भुज के आकार के खेत के विकर्णों की लंबाई, !216! m और !90! m है। खेत का परिमाप (m में) कितना होगा?",
+    "q_en": "The diagonals of a rhombus shaped field are $216$ m and $90$ m long. What is the perimeter (in m) of the field?",
+    "q_hi": "एक समचतुर्भुज के आकार के खेत के विकर्णों की लंबाई, $216$ m और $90$ m है। खेत का परिमाप (m में) कितना होगा?",
     "op_en": [
-      "!428!",
-      "!512!",
-      "!516!",
-      "!468!"
+      "$428$",
+      "$512$",
+      "$516$",
+      "$468$"
     ],
     "op_hi": [
-      "!428!",
-      "!512!",
-      "!516!",
-      "!468!"
+      "$428$",
+      "$512$",
+      "$516$",
+      "$468$"
     ],
     "ans": 4,
-    "solution": "<b>Solution (EN):</b><br>Diagonals of a rhombus bisect each other perpendicularly.<br>Half-diagonals are:<br>!\\\\dfrac{d_1}{2} = \\\\dfrac{216}{2} = 108! m<br>!\\\\dfrac{d_2}{2} = \\\\dfrac{90}{2} = 45! m<br>Using Pythagoras theorem for side !s!:<br>!s = \\\\sqrt{108^2 + 45^2}!<br>!s = \\\\sqrt{11,664 + 2,025} = \\\\sqrt{13,689} = 117! m<br>Perimeter = !4 \\\\times s = 4 \\\\times 117 = 468! m<br><br><b>Solution (HI):</b><br>समचतुर्भुज के विकर्ण एक दूसरे को समकोण पर समद्विभाजित करते हैं।<br>अर्ध-विकर्ण:<br>!\\\\dfrac{d_1}{2} = 108! m<br>!\\\\dfrac{d_2}{2} = 45! m<br>पाइथागोरस प्रमेय से भुजा !s!:<br>!s = \\\\sqrt{108^2 + 45^2} = \\\\sqrt{11,664 + 2,025} = \\\\sqrt{13,689} = 117! m<br>खेत का परिमाप = !4 \\\\times 117 = 468! m<br><br><b>Short Trick:</b><br>!s = 9 \\\\times \\\\sqrt{12^2 + 5^2} = 9 \\\\times 13 = 117! m<br>!\\\\text{Perimeter} = 4 \\\\times 117 = 468! m<br><br><b>Final Answer:</b> !468!"
+    "solution": "<b>Solution (EN):</b><br>Diagonals of a rhombus bisect each other perpendicularly.<br>Half-diagonals are:<br>$\\dfrac{d_1}{2} = \\dfrac{216}{2} = 108$ m<br>$\\dfrac{d_2}{2} = \\dfrac{90}{2} = 45$ m<br>Using Pythagoras theorem for side $s$:<br>$s = \\sqrt{108^2 + 45^2}$<br>$s = \\sqrt{11,664 + 2,025} = \\sqrt{13,689} = 117$ m<br>Perimeter = $4 \\times s = 4 \\times 117 = 468$ m<br><br><b>Solution (HI):</b><br>समचतुर्भुज के विकर्ण एक दूसरे को समकोण पर समद्विभाजित करते हैं।<br>अर्ध-विकर्ण:<br>$\\dfrac{d_1}{2} = 108$ m<br>$\\dfrac{d_2}{2} = 45$ m<br>पाइथागोरस प्रमेय से भुजा $s$:<br>$s = \\sqrt{108^2 + 45^2} = \\sqrt{11,664 + 2,025} = \\sqrt{13,689} = 117$ m<br>खेत का परिमाप = $4 \\times 117 = 468$ m<br><br><b>Short Trick:</b><br>$s = 9 \\times \\sqrt{12^2 + 5^2} = 9 \\times 13 = 117$ m<br>$\\text{Perimeter} = 4 \\times 117 = 468$ m<br><br><b>Final Answer:</b> $468$"
   },
   {
     "section": "Quantitative Aptitude",
     "topic": "Mensuration 2D",
     "difficulty": "Hard",
-    "q_en": "In an equilateral triangle of side !24! cm, a circle is inscribed touching its sides. Find the area of the remaining portion of the triangle.",
-    "q_hi": "!24! cm भुजा वाले एक समबाहु त्रिभुज में एक वृत्त इस प्रकार अंतर्निहित (inscribed) किया गया है जो उसकी भुजाओं को स्पर्श करता है। त्रिभुज के शेष भाग का क्षेत्रफल ज्ञात कीजिए।",
+    "q_en": "In an equilateral triangle of side $24$ cm, a circle is inscribed touching its sides. Find the area of the remaining portion of the triangle.",
+    "q_hi": "$24$ cm भुजा वाले एक समबाहु त्रिभुज में एक वृत्त इस प्रकार अंतर्निहित (inscribed) किया गया है जो उसकी भुजाओं को स्पर्श करता है। त्रिभुज के शेष भाग का क्षेत्रफल ज्ञात कीजिए।",
     "op_en": [
-      "!14\\\\sqrt{3} - 48\\\\pi! !\\\\text{cm}^2!",
-      "!154\\\\sqrt{3} - 46\\\\pi! !\\\\text{cm}^2!",
-      "!144\\\\sqrt{3} - 46\\\\pi! !\\\\text{cm}^2!",
-      "!144\\\\sqrt{3} - 48\\\\pi! !\\\\text{cm}^2!"
+      "$14\\sqrt{3} - 48\\pi$ $\\text{cm}^2$",
+      "$154\\sqrt{3} - 46\\pi$ $\\text{cm}^2$",
+      "$144\\sqrt{3} - 46\\pi$ $\\text{cm}^2$",
+      "$144\\sqrt{3} - 48\\pi$ $\\text{cm}^2$"
     ],
     "op_hi": [
-      "!14\\\\sqrt{3} - 48\\\\pi! !\\\\text{cm}^2!",
-      "!154\\\\sqrt{3} - 46\\\\pi! !\\\\text{cm}^2!",
-      "!144\\\\sqrt{3} - 46\\\\pi! !\\\\text{cm}^2!",
-      "!144\\\\sqrt{3} - 48\\\\pi! !\\\\text{cm}^2!"
+      "$14\\sqrt{3} - 48\\pi$ $\\text{cm}^2$",
+      "$154\\sqrt{3} - 46\\pi$ $\\text{cm}^2$",
+      "$144\\sqrt{3} - 46\\pi$ $\\text{cm}^2$",
+      "$144\\sqrt{3} - 48\\pi$ $\\text{cm}^2$"
     ],
     "ans": 4,
-    "solution": "<b>Solution (EN):</b><br>Side of equilateral triangle !a = 24! cm.<br>Area of equilateral triangle:<br>!\\\\text{Area}_{\\\\Delta} = \\\\dfrac{\\\\sqrt{3}}{4}a^2 = \\\\dfrac{\\\\sqrt{3}}{4} \\\\times 24^2 = \\\\dfrac{\\\\sqrt{3}}{4} \\\\times 576 = 144\\\\sqrt{3}! !\\\\text{cm}^2!<br>Inradius of equilateral triangle:<br>!r = \\\\dfrac{a}{2\\\\sqrt{3}} = \\\\dfrac{24}{2\\\\sqrt{3}} = 4\\\\sqrt{3}! cm<br>Area of inscribed circle:<br>!\\\\text{Area}_{\\\\text{circle}} = \\\\pi r^2 = \\\\pi (4\\\\sqrt{3})^2 = 48\\\\pi! !\\\\text{cm}^2!<br>Area of remaining portion:<br>!\\\\text{Area}_{\\\\Delta} - \\\\text{Area}_{\\\\text{circle}} = 144\\\\sqrt{3} - 48\\\\pi! !\\\\text{cm}^2!<br><br><b>Solution (HI):</b><br>समबाहु त्रिभुज की भुजा !a = 24! cm.<br>समबाहु त्रिभुज का क्षेत्रफल:<br>!\\\\text{क्षेत्रफल}_{\\\\Delta} = \\\\dfrac{\\\\sqrt{3}}{4} \\\\times 24^2 = 144\\\\sqrt{3}! !\\\\text{cm}^2!<br>अंतःवृत्त की त्रिज्या:<br>!r = \\\\dfrac{a}{2\\\\sqrt{3}} = \\\\dfrac{24}{2\\\\sqrt{3}} = 4\\\\sqrt{3}! cm<br>अंतःवृत्त का क्षेत्रफल:<br>!\\\\text{क्षेत्रफल}_{\\\\text{वृत्त}} = \\\\pi r^2 = \\\\pi (4\\\\sqrt{3})^2 = 48\\\\pi! !\\\\text{cm}^2!<br>शेष भाग का क्षेत्रफल:<br>!144\\\\sqrt{3} - 48\\\\pi! !\\\\text{cm}^2!<br><br><b>Short Trick:</b><br>!\\\\text{Remaining Area} = \\\\dfrac{\\\\sqrt{3}}{4}(24)^2 - \\\\pi \\\\left(\\\\dfrac{24}{2\\\\sqrt{3}}\\\\right)^2 = 144\\\\sqrt{3} - 48\\\\pi!<br><br><b>Final Answer:</b> !144\\\\sqrt{3} - 48\\\\pi!"
+    "solution": "<b>Solution (EN):</b><br>Side of equilateral triangle $a = 24$ cm.<br>Area of equilateral triangle:<br>$\\text{Area}_{\\Delta} = \\dfrac{\\sqrt{3}}{4}a^2 = \\dfrac{\\sqrt{3}}{4} \\times 24^2 = \\dfrac{\\sqrt{3}}{4} \\times 576 = 144\\sqrt{3}$ $\\text{cm}^2$<br>Inradius of equilateral triangle:<br>$r = \\dfrac{a}{2\\sqrt{3}} = \\dfrac{24}{2\\sqrt{3}} = 4\\sqrt{3}$ cm<br>Area of inscribed circle:<br>$\\text{Area}_{\\text{circle}} = \\pi r^2 = \\pi (4\\sqrt{3})^2 = 48\\pi$ $\\text{cm}^2$<br>Area of remaining portion:<br>$\\text{Area}_{\\Delta} - \\text{Area}_{\\text{circle}} = 144\\sqrt{3} - 48\\pi$ $\\text{cm}^2$<br><br><b>Solution (HI):</b><br>समबाहु त्रिभुज की भुजा $a = 24$ cm.<br>समबाहु त्रिभुज का क्षेत्रफल:<br>$\\text{क्षेत्रफल}_{\\Delta} = \\dfrac{\\sqrt{3}}{4} \\times 24^2 = 144\\sqrt{3}$ $\\text{cm}^2$<br>अंतःवृत्त की त्रिज्या:<br>$r = \\dfrac{a}{2\\sqrt{3}} = \\dfrac{24}{2\\sqrt{3}} = 4\\sqrt{3}$ cm<br>अंतःवृत्त का क्षेत्रफल:<br>$\\text{क्षेत्रफल}_{\\text{वृत्त}} = \\pi r^2 = \\pi (4\\sqrt{3})^2 = 48\\pi$ $\\text{cm}^2$<br>शेष भाग का क्षेत्रफल:<br>$144\\sqrt{3} - 48\\pi$ $\\text{cm}^2$<br><br><b>Short Trick:</b><br>$\\text{Remaining Area} = \\dfrac{\\sqrt{3}}{4}(24)^2 - \\pi \\left(\\dfrac{24}{2\\sqrt{3}}\\right)^2 = 144\\sqrt{3} - 48\\pi$<br><br><b>Final Answer:</b> $144\\sqrt{3} - 48\\pi$"
   }
 ]
